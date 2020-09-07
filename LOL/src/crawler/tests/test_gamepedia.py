@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from crawler import Gamepedia
 from utils import UrlGamepedia
 
@@ -35,9 +35,9 @@ def crawl_and_save(url_list):
 		gamepedia.crawl_data(mh=False, module='bs4')
 
 		# save
-		mh_PATH = f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\League_of_Legends\\datasets\\RawData\\Gamepedia\\match_history_url\\{league}-{year}-{season}.csv'
-		schedule_PATH = f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\League_of_Legends\\datasets\\RawData\\Gamepedia\\game_schedule\\{league}-{year}-{season}.csv'
-		
+		mh_PATH = f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\LOL\\datasets\\RawData\\Gamepedia\\match_history_url\\{league}-{year}-{season}.csv'
+		schedule_PATH = f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\LOL\\datasets\\RawData\\Gamepedia\\game_schedule\\{league}-{year}-{season}.csv'
+
 		gamepedia.save_df(mh_PATH, 'mh')
 		gamepedia.save_df(schedule_PATH, 'gs')
 
