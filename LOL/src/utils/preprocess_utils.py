@@ -40,7 +40,7 @@ def oddsToFloat(string):
 def matchTypeToSeason(string):
 	if 'Season' in string:
 		season = string.split(' Season')[0].lower()
-	elif 'Play Offs' in string:
+	elif ('Play Offs' in string) | ('Play offs' in string):
 		season = 'playoffs'
 	else:
 		season = None

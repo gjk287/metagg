@@ -1,4 +1,8 @@
 import pandas as pd
+import os
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from utils import tableUniqueKey
 
 def main():
 	pass
@@ -17,12 +21,21 @@ def preprocess_and_save(data_name, table_name=None, save=True):
 		df = pd.DataFrame(data=league_value, columns=['league_name', 'league_country', 'league_division'])
 		# path
 		newPath = f'LOL\\datasets\\DerivedData\\DB_table\\{data_name}\\{data_name}_unique.csv'
+		
+		# save rest of info
+		df.to_csv(f'LOL\\datasets\\DerivedData\\DB_table\\{data_name}\\{data_name}.csv', index=False)
+		
+		# change for unique
+		df = df[tableUniqueKey[data_name]]
 
 	elif data_name == 'betting_site':
 		betting_site_value = [['Unikrn'], ['Betjoe'], ['Oddsportal']]
 		df = pd.DataFrame(data=betting_site_value, columns=['betting_site'])
 		# path
 		newPath = f'LOL\\datasets\\DerivedData\\DB_table\\{data_name}\\{data_name}_unique.csv'
+
+		# change for unique
+		df = df[tableUniqueKey[data_name]]
 
 	elif data_name == 'bet_type':
 		if table_name == 'bet_type_special':
@@ -109,6 +122,9 @@ def preprocess_and_save(data_name, table_name=None, save=True):
 
 		# path
 		newPath = f'LOL\\datasets\\DerivedData\\DB_table\\{table_name}\\{table_name}_unique.csv'
+
+		# change for unique
+		df = df[tableUniqueKey[table_name]]
 
 	else:
 		print('It is not league or betting site table. Please check again')
