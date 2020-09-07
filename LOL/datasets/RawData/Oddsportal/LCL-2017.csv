@@ -1,0 +1,107 @@
+date,league_name,year,match_type,team_1,team_2,win_odds_home,win_odds_away
+03 Sep 2017,LCL,2017.0,Summer - Play offs,Gambit.CIS,M19,1.14,5.63
+20 Aug 2017,LCL,2017.0,Summer - Play offs,Gambit.CIS,Team Just,1.06,8.23
+19 Aug 2017,LCL,2017.0,Summer - Play offs,M19,Virtus.pro,2.84,1.41
+30 Jul 2017,LCL,2017.0,Summer Season,Vega Squadron,RoX,1.59,2.25
+30 Jul 2017,LCL,2017.0,Summer Season,Gambit.CIS,Vaevictis eSports,1.25,3.69
+30 Jul 2017,LCL,2017.0,Summer Season,M19,Natus Vincere,1.64,2.17
+30 Jul 2017,LCL,2017.0,Summer Season,Virtus.pro,Team Just,1.39,2.81
+29 Jul 2017,LCL,2017.0,Summer Season,Vega Squadron,M19,1.60,2.22
+29 Jul 2017,LCL,2017.0,Summer Season,Virtus.pro,Vaevictis eSports,1.49,2.49
+29 Jul 2017,LCL,2017.0,Summer Season,RoX,Team Just,2.24,1.59
+29 Jul 2017,LCL,2017.0,Summer Season,Natus Vincere,Gambit.CIS,4.26,1.20
+23 Jul 2017,LCL,2017.0,Summer Season,Vega Squadron,Team Just,1.52,2.35
+23 Jul 2017,LCL,2017.0,Summer Season,RoX,Gambit.CIS,4.71,1.18
+23 Jul 2017,LCL,2017.0,Summer Season,Team Just,Natus Vincere,1.89,1.86
+23 Jul 2017,LCL,2017.0,Summer Season,Virtus.pro,RoX,1.33,3.19
+23 Jul 2017,LCL,2017.0,Summer Season,Gambit.CIS,M19,1.21,4.17
+23 Jul 2017,LCL,2017.0,Summer Season,Vaevictis eSports,Natus Vincere,1.52,2.42
+22 Jul 2017,LCL,2017.0,Summer Season,M19,Virtus.pro,2.01,1.72
+22 Jul 2017,LCL,2017.0,Summer Season,Natus Vincere,RoX,2.03,1.71
+22 Jul 2017,LCL,2017.0,Summer Season,Virtus.pro,Vega Squadron,1.61,2.21
+22 Jul 2017,LCL,2017.0,Summer Season,M19,Vaevictis eSports,1.79,1.93
+22 Jul 2017,LCL,2017.0,Summer Season,Team Just,Gambit.CIS,4.41,1.17
+22 Jul 2017,LCL,2017.0,Summer Season,Vega Squadron,Vaevictis eSports,1.86,1.85
+02 Jul 2017,LCL,2017.0,Summer Season,Natus Vincere,M19,2.73,1.47
+02 Jul 2017,LCL,2017.0,Summer Season,Vaevictis eSports,Gambit.CIS,2.58,1.50
+02 Jul 2017,LCL,2017.0,Summer Season,Virtus.pro,M19,-,-
+02 Jul 2017,LCL,2017.0,Summer Season,Gambit.CIS,Team Just,1.40,2.98
+02 Jul 2017,LCL,2017.0,Summer Season,RoX,Virtus.pro,4.08,1.23
+02 Jul 2017,LCL,2017.0,Summer Season,Team Just,Vega Squadron,2.52,1.50
+01 Jul 2017,LCL,2017.0,Summer Season,Vaevictis eSports,M19,-,-
+01 Jul 2017,LCL,2017.0,Summer Season,Natus Vincere,Team Just,1.57,2.38
+01 Jul 2017,LCL,2017.0,Summer Season,Vaevictis eSports,Vega Squadron,2.01,1.79
+01 Jul 2017,LCL,2017.0,Summer Season,RoX,Natus Vincere,4.64,1.19
+01 Jul 2017,LCL,2017.0,Summer Season,Vega Squadron,Virtus.pro,1.52,2.51
+01 Jul 2017,LCL,2017.0,Summer Season,Gambit.CIS,RoX,1.12,5.78
+25 Jun 2017,LCL,2017.0,Summer Season,Team Just,Vaevictis eSports,1.57,2.42
+25 Jun 2017,LCL,2017.0,Summer Season,Natus Vincere,Virtus.pro,2.25,1.66
+25 Jun 2017,LCL,2017.0,Summer Season,RoX,Vaevictis eSports,3.34,1.32
+25 Jun 2017,LCL,2017.0,Summer Season,Gambit.CIS,Virtus.pro,1.52,2.48
+25 Jun 2017,LCL,2017.0,Summer Season,RoX,M19,3.51,1.29
+25 Jun 2017,LCL,2017.0,Summer Season,Vega Squadron,Gambit.CIS,2.60,1.47
+24 Jun 2017,LCL,2017.0,Summer Season,Natus Vincere,Vega Squadron,-,-
+24 Jun 2017,LCL,2017.0,Summer Season,Team Just,M19,3.34,1.31
+24 Jun 2017,LCL,2017.0,Summer Season,Gambit.CIS,Natus Vincere,1.46,2.62
+24 Jun 2017,LCL,2017.0,Summer Season,M19,Vega Squadron,1.30,3.40
+24 Jun 2017,LCL,2017.0,Summer Season,Team Just,RoX,1.42,2.78
+24 Jun 2017,LCL,2017.0,Summer Season,Vaevictis eSports,Virtus.pro,3.04,1.35
+09 Apr 2017,LCL,2017.0,Spring - Play Offs,Vaevictis eSports,Virtus.pro,-,-
+02 Apr 2017,LCL,2017.0,Spring - Play Offs,M19,Virtus.pro,1.31,3.33
+01 Apr 2017,LCL,2017.0,Spring - Play Offs,Vega Squadron,Vaevictis eSports,1.25,3.75
+19 Mar 2017,LCL,2017.0,Spring Season,Natus Vincere,Gambit Esports,1.78,1.92
+19 Mar 2017,LCL,2017.0,Spring Season,M19,Vaevictis eSports,1.40,2.69
+19 Mar 2017,LCL,2017.0,Spring Season,Vega Squadron,Virtus.pro,1.61,2.22
+19 Mar 2017,LCL,2017.0,Spring Season,Team Just,RoX,1.47,2.55
+18 Mar 2017,LCL,2017.0,Spring Season,Vaevictis eSports,Natus Vincere,-,-
+18 Mar 2017,LCL,2017.0,Spring Season,Vega Squadron,Team Just,1.25,3.63
+18 Mar 2017,LCL,2017.0,Spring Season,M19,Gambit Esports,1.26,3.55
+18 Mar 2017,LCL,2017.0,Spring Season,RoX,Virtus.pro,4.37,1.18
+12 Mar 2017,LCL,2017.0,Spring Season,Natus Vincere,Vega Squadron,2.89,1.33
+12 Mar 2017,LCL,2017.0,Spring Season,Team Just,Vaevictis eSports,2.68,1.48
+12 Mar 2017,LCL,2017.0,Spring Season,Virtus.pro,M19,2.19,1.63
+12 Mar 2017,LCL,2017.0,Spring Season,Gambit Esports,RoX,1.42,2.70
+11 Mar 2017,LCL,2017.0,Spring Season,Natus Vincere,Team Just,1.83,1.90
+11 Mar 2017,LCL,2017.0,Spring Season,M19,RoX,1.20,4.10
+11 Mar 2017,LCL,2017.0,Spring Season,Vaevictis eSports,Vega Squadron,1.61,2.35
+11 Mar 2017,LCL,2017.0,Spring Season,Virtus.pro,Gambit Esports,1.53,2.41
+05 Mar 2017,LCL,2017.0,Spring Season,Gambit Esports,Team Just,1.93,1.80
+05 Mar 2017,LCL,2017.0,Spring Season,Virtus.pro,Vaevictis eSports,1.64,2.15
+05 Mar 2017,LCL,2017.0,Spring Season,M19,Vega Squadron,2.01,1.74
+05 Mar 2017,LCL,2017.0,Spring Season,RoX,Natus Vincere,2.83,1.37
+04 Mar 2017,LCL,2017.0,Spring Season,Natus Vincere,M19,2.04,1.69
+04 Mar 2017,LCL,2017.0,Spring Season,Vaevictis eSports,RoX,1.20,4.03
+04 Mar 2017,LCL,2017.0,Spring Season,Gambit Esports,Vega Squadron,3.63,1.24
+04 Mar 2017,LCL,2017.0,Spring Season,Virtus.pro,Team Just,1.43,2.57
+19 Feb 2017,LCL,2017.0,Spring Season,RoX,Vega Squadron,4.33,1.22
+19 Feb 2017,LCL,2017.0,Spring Season,Vaevictis eSports,Gambit Esports,1.63,2.26
+19 Feb 2017,LCL,2017.0,Spring Season,Team Just,M19,3.05,1.38
+19 Feb 2017,LCL,2017.0,Spring Season,Natus Vincere,Virtus.pro,2.21,1.65
+18 Feb 2017,LCL,2017.0,Spring Season,M19,Natus Vincere,1.59,2.34
+18 Feb 2017,LCL,2017.0,Spring Season,Gambit Esports,Virtus.pro,2.65,1.48
+18 Feb 2017,LCL,2017.0,Spring Season,Team Just,Vega Squadron,3.47,1.30
+18 Feb 2017,LCL,2017.0,Spring Season,RoX,Vaevictis eSports,3.05,1.38
+12 Feb 2017,LCL,2017.0,Spring Season,Vaevictis eSports,Vega Squadron,3.47,1.31
+12 Feb 2017,LCL,2017.0,Spring Season,Natus Vincere,RoX,1.38,3.07
+12 Feb 2017,LCL,2017.0,Spring Season,M19,Virtus.pro,1.57,2.39
+12 Feb 2017,LCL,2017.0,Spring Season,Team Just,Gambit Esports,1.91,1.89
+11 Feb 2017,LCL,2017.0,Spring Season,Vaevictis eSports,Team Just,2.40,1.57
+11 Feb 2017,LCL,2017.0,Spring Season,Vega Squadron,M19,2.10,1.73
+11 Feb 2017,LCL,2017.0,Spring Season,RoX,Gambit Esports,2.30,1.62
+11 Feb 2017,LCL,2017.0,Spring Season,Virtus.pro,Natus Vincere,1.89,1.92
+05 Feb 2017,LCL,2017.0,Spring Season,Team Just,Virtus.pro,2.36,1.55
+05 Feb 2017,LCL,2017.0,Spring Season,Vega Squadron,Natus Vincere,1.40,2.81
+05 Feb 2017,LCL,2017.0,Spring Season,RoX,M19,4.37,1.18
+05 Feb 2017,LCL,2017.0,Spring Season,Gambit Esports,Vaevictis eSports,1.48,2.54
+04 Feb 2017,LCL,2017.0,Spring Season,Vega Squadron,Gambit Esports,1.33,3.24
+04 Feb 2017,LCL,2017.0,Spring Season,Team Just,Natus Vincere,2.67,1.45
+04 Feb 2017,LCL,2017.0,Spring Season,Virtus.pro,RoX,1.37,2.94
+04 Feb 2017,LCL,2017.0,Spring Season,M19,Vaevictis eSports,1.28,3.44
+29 Jan 2017,LCL,2017.0,Spring Season,RoX,Team Just,1.62,2.25
+29 Jan 2017,LCL,2017.0,Spring Season,Natus Vincere,Vaevictis eSports,1.41,2.80
+29 Jan 2017,LCL,2017.0,Spring Season,Gambit Esports,M19,3.85,1.25
+29 Jan 2017,LCL,2017.0,Spring Season,Virtus.pro,Vega Squadron,2.37,1.56
+28 Jan 2017,LCL,2017.0,Spring Season,Vaevictis eSports,Virtus.pro,2.82,1.41
+28 Jan 2017,LCL,2017.0,Spring Season,M19,Team Just,1.20,4.38
+28 Jan 2017,LCL,2017.0,Spring Season,Vega Squadron,RoX,1.36,3.06
+28 Jan 2017,LCL,2017.0,Spring Season,Gambit Esports,Natus Vincere,2.29,1.60

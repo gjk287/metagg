@@ -1,0 +1,102 @@
+date,league_name,year,match_type,team_1,team_2,win_odds_home,win_odds_away
+02 Sep 2018,LCL,2018.0,Summer - Play offs,Dragon Army,Gambit Esports,3.68,1.26
+26 Aug 2018,LCL,2018.0,Summer - Play offs,Gambit Esports,Team Just,1.13,5.28
+25 Aug 2018,LCL,2018.0,Summer - Play offs,M19,Dragon Army,1.39,2.81
+19 Aug 2018,LCL,2018.0,Summer Season,Dragon Army,Vega Squadron,1.36,3.03
+19 Aug 2018,LCL,2018.0,Summer Season,Elements Pro Gaming,Gambit Esports,5.60,1.12
+19 Aug 2018,LCL,2018.0,Summer Season,Team Just,Vaevictis eSports,1.27,3.54
+19 Aug 2018,LCL,2018.0,Summer Season,RoX,M19,2.35,1.55
+18 Aug 2018,LCL,2018.0,Summer Season,Dragon Army,Vaevictis eSports,-,-
+18 Aug 2018,LCL,2018.0,Summer Season,Gambit Esports,RoX,1.42,2.70
+18 Aug 2018,LCL,2018.0,Summer Season,Vega Squadron,M19,-,-
+18 Aug 2018,LCL,2018.0,Summer Season,Team Just,Elements Pro Gaming,1.20,4.08
+11 Aug 2018,LCL,2018.0,Summer Season,Dragon Army,M19,2.49,1.49
+11 Aug 2018,LCL,2018.0,Summer Season,Vega Squadron,Elements Pro Gaming,1.42,2.69
+11 Aug 2018,LCL,2018.0,Summer Season,M19,Team Just,1.53,2.39
+11 Aug 2018,LCL,2018.0,Summer Season,Vega Squadron,RoX,-,-
+11 Aug 2018,LCL,2018.0,Summer Season,Elements Pro Gaming,Vaevictis eSports,-,-
+11 Aug 2018,LCL,2018.0,Summer Season,Gambit Esports,Team Just,-,-
+10 Aug 2018,LCL,2018.0,Summer Season,Vaevictis eSports,Gambit Esports,8.00,1.06
+10 Aug 2018,LCL,2018.0,Summer Season,M19,Elements Pro Gaming,1.13,5.55
+10 Aug 2018,LCL,2018.0,Summer Season,Dragon Army,Gambit Esports,-,-
+05 Aug 2018,LCL,2018.0,Summer Season,M19,Gambit Esports,2.24,1.58
+05 Aug 2018,LCL,2018.0,Summer Season,RoX,Team Just,-,-
+05 Aug 2018,LCL,2018.0,Summer Season,Vaevictis eSports,M19,-,-
+05 Aug 2018,LCL,2018.0,Summer Season,Gambit Esports,Vega Squadron,1.25,3.75
+05 Aug 2018,LCL,2018.0,Summer Season,Elements Pro Gaming,Dragon Army,-,-
+05 Aug 2018,LCL,2018.0,Summer Season,Vaevictis eSports,Vega Squadron,2.80,1.38
+04 Aug 2018,LCL,2018.0,Summer Season,Team Just,Gambit Esports,3.15,1.33
+04 Aug 2018,LCL,2018.0,Summer Season,M19,RoX,1.47,2.54
+04 Aug 2018,LCL,2018.0,Summer Season,Team Just,Dragon Army,2.12,1.64
+04 Aug 2018,LCL,2018.0,Summer Season,RoX,Elements Pro Gaming,1.25,3.75
+04 Aug 2018,LCL,2018.0,Summer Season,Vega Squadron,Dragon Army,2.27,1.62
+04 Aug 2018,LCL,2018.0,Summer Season,Vaevictis eSports,Elements Pro Gaming,1.69,2.07
+29 Jul 2018,LCL,2018.0,Summer Season,Vaevictis eSports,Team Just,2.79,1.38
+29 Jul 2018,LCL,2018.0,Summer Season,Gambit Esports,Elements Pro Gaming,1.21,4.04
+29 Jul 2018,LCL,2018.0,Summer Season,RoX,Vaevictis eSports,1.39,2.73
+29 Jul 2018,LCL,2018.0,Summer Season,Elements Pro Gaming,M19,3.23,1.29
+29 Jul 2018,LCL,2018.0,Summer Season,RoX,Vega Squadron,-,-
+29 Jul 2018,LCL,2018.0,Summer Season,M19,Dragon Army,-,-
+28 Jul 2018,LCL,2018.0,Summer Season,Gambit Esports,Vaevictis eSports,1.16,4.75
+28 Jul 2018,LCL,2018.0,Summer Season,Team Just,M19,3.04,1.35
+28 Jul 2018,LCL,2018.0,Summer Season,Gambit Esports,Dragon Army,1.31,3.13
+28 Jul 2018,LCL,2018.0,Summer Season,Vega Squadron,Team Just,1.63,2.19
+28 Jul 2018,LCL,2018.0,Summer Season,Elements Pro Gaming,Vega Squadron,2.87,1.36
+01 Apr 2018,LCL,2018.0,Spring - Play Offs,Gambit Esports,RoX,1.28,3.50
+18 Mar 2018,LCL,2018.0,Spring - Play Offs,Gambit Esports,Team Just,-,-
+17 Mar 2018,LCL,2018.0,Spring - Play Offs,RoX,M19,1.56,2.34
+11 Mar 2018,LCL,2018.0,Spring Season,Vega Squadron,RoX,3.36,1.29
+11 Mar 2018,LCL,2018.0,Spring Season,Elements Pro Gaming,Gambit Esports,6.43,1.09
+11 Mar 2018,LCL,2018.0,Spring Season,Dragon Army,Vaevictis eSports,1.23,4.02
+11 Mar 2018,LCL,2018.0,Spring Season,M19,Team Just,1.54,2.35
+10 Mar 2018,LCL,2018.0,Spring Season,Vega Squadron,Dragon Army,2.09,1.70
+10 Mar 2018,LCL,2018.0,Spring Season,M19,Gambit Esports,-,-
+10 Mar 2018,LCL,2018.0,Spring Season,RoX,Team Just,1.40,2.81
+10 Mar 2018,LCL,2018.0,Spring Season,Vaevictis eSports,Elements Pro Gaming,2.17,1.64
+04 Mar 2018,LCL,2018.0,Spring Season,Vega Squadron,Team Just,2.41,1.52
+04 Mar 2018,LCL,2018.0,Spring Season,RoX,Elements Pro Gaming,1.14,5.33
+04 Mar 2018,LCL,2018.0,Spring Season,Team Just,Vaevictis eSports,1.22,4.04
+04 Mar 2018,LCL,2018.0,Spring Season,M19,RoX,1.79,1.97
+04 Mar 2018,LCL,2018.0,Spring Season,Elements Pro Gaming,Dragon Army,3.55,1.27
+04 Mar 2018,LCL,2018.0,Spring Season,Gambit Esports,Vaevictis eSports,1.07,7.29
+03 Mar 2018,LCL,2018.0,Spring Season,Dragon Army,M19,2.32,1.56
+03 Mar 2018,LCL,2018.0,Spring Season,Vaevictis eSports,RoX,4.39,1.19
+03 Mar 2018,LCL,2018.0,Spring Season,M19,Vega Squadron,1.32,3.23
+03 Mar 2018,LCL,2018.0,Spring Season,Dragon Army,Gambit Esports,3.45,1.28
+03 Mar 2018,LCL,2018.0,Spring Season,Team Just,Elements Pro Gaming,1.20,4.17
+03 Mar 2018,LCL,2018.0,Spring Season,Vega Squadron,Gambit Esports,4.75,1.16
+25 Feb 2018,LCL,2018.0,Spring Season,Team Just,Gambit Esports,3.38,1.26
+25 Feb 2018,LCL,2018.0,Spring Season,M19,Vaevictis eSports,1.28,3.36
+25 Feb 2018,LCL,2018.0,Spring Season,Dragon Army,Team Just,1.64,2.14
+25 Feb 2018,LCL,2018.0,Spring Season,Gambit Esports,RoX,1.42,2.71
+25 Feb 2018,LCL,2018.0,Spring Season,Elements Pro Gaming,Vega Squadron,3.35,1.29
+25 Feb 2018,LCL,2018.0,Spring Season,Dragon Army,RoX,2.09,1.67
+24 Feb 2018,LCL,2018.0,Spring Season,Vaevictis eSports,Gambit Esports,5.85,1.08
+24 Feb 2018,LCL,2018.0,Spring Season,Team Just,M19,2.48,1.50
+24 Feb 2018,LCL,2018.0,Spring Season,Vega Squadron,Vaevictis eSports,1.50,2.42
+24 Feb 2018,LCL,2018.0,Spring Season,M19,Elements Pro Gaming,1.11,5.15
+24 Feb 2018,LCL,2018.0,Spring Season,RoX,Vega Squadron,1.33,3.03
+24 Feb 2018,LCL,2018.0,Spring Season,Dragon Army,Elements Pro Gaming,1.18,4.43
+18 Feb 2018,LCL,2018.0,Spring Season,Vaevictis eSports,Dragon Army,3.13,1.33
+18 Feb 2018,LCL,2018.0,Spring Season,Gambit Esports,Elements Pro Gaming,1.08,6.25
+18 Feb 2018,LCL,2018.0,Spring Season,M19,Dragon Army,1.71,2.08
+18 Feb 2018,LCL,2018.0,Spring Season,Elements Pro Gaming,Team Just,3.25,1.31
+18 Feb 2018,LCL,2018.0,Spring Season,RoX,M19,2.61,1.45
+18 Feb 2018,LCL,2018.0,Spring Season,Team Just,Vega Squadron,2.11,1.67
+17 Feb 2018,LCL,2018.0,Spring Season,Gambit Esports,Dragon Army,-,-
+17 Feb 2018,LCL,2018.0,Spring Season,Vaevictis eSports,Team Just,1.50,2.50
+17 Feb 2018,LCL,2018.0,Spring Season,Gambit Esports,Vega Squadron,-,-
+17 Feb 2018,LCL,2018.0,Spring Season,RoX,Vaevictis eSports,1.65,2.13
+17 Feb 2018,LCL,2018.0,Spring Season,Vega Squadron,M19,2.63,1.45
+17 Feb 2018,LCL,2018.0,Spring Season,Elements Pro Gaming,RoX,3.46,1.28
+11 Feb 2018,LCL,2018.0,Spring Season,Gambit Esports,Team Just,1.24,3.24
+11 Feb 2018,LCL,2018.0,Spring Season,Vaevictis eSports,M19,2.65,1.42
+11 Feb 2018,LCL,2018.0,Spring Season,RoX,Gambit Esports,4.23,1.18
+11 Feb 2018,LCL,2018.0,Spring Season,Elements Pro Gaming,M19,3.48,1.21
+11 Feb 2018,LCL,2018.0,Spring Season,RoX,Dragon Army,2.30,1.53
+11 Feb 2018,LCL,2018.0,Spring Season,Vega Squadron,Elements Pro Gaming,1.28,3.07
+10 Feb 2018,LCL,2018.0,Spring Season,Team Just,Dragon Army,1.71,2.05
+10 Feb 2018,LCL,2018.0,Spring Season,Dragon Army,Vega Squadron,2.25,1.59
+10 Feb 2018,LCL,2018.0,Spring Season,Vaevictis eSports,Vega Squadron,2.08,1.70
+10 Feb 2018,LCL,2018.0,Spring Season,Team Just,RoX,1.99,1.75
+10 Feb 2018,LCL,2018.0,Spring Season,Gambit Esports,M19,1.37,2.69

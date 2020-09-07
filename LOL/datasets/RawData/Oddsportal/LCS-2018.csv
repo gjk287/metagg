@@ -1,0 +1,389 @@
+date,league_name,year,match_type,team_1,team_2,win_odds_home,win_odds_away
+16 Sep 2018,LCS,2018.0,Regional Finals,Cloud9,Team SoloMid,1.89,1.85
+16 Sep 2018,LCS,2018.0,Regional Finals,Schalke 04,G2 Esports,1.58,2.24
+15 Sep 2018,LCS,2018.0,Regional Finals,Team SoloMid,Echo Fox,1.62,2.16
+15 Sep 2018,LCS,2018.0,Regional Finals,G2 Esports,Splyce,1.46,2.60
+14 Sep 2018,LCS,2018.0,Regional Finals,Echo Fox,Clutch Gaming,1.33,3.36
+14 Sep 2018,LCS,2018.0,Regional Finals,Splyce,Misfits,2.23,1.62
+09 Sep 2018,LCS,2018.0,Summer - Play offs,Cloud9,Team Liquid,2.13,1.66
+09 Sep 2018,LCS,2018.0,Summer - Play offs,Schalke 04,Fnatic,3.17,1.38
+08 Sep 2018,LCS,2018.0,Summer - Play offs,Team SoloMid,100 Thieves,1.54,2.43
+08 Sep 2018,LCS,2018.0,Summer - Play offs,Vitality,Misfits,2.16,1.67
+02 Sep 2018,LCS,2018.0,Summer - Play offs,Team Liquid,100 Thieves,1.44,2.79
+01 Sep 2018,LCS,2018.0,Summer - Play offs,Cloud9,Team SoloMid,1.48,2.61
+01 Sep 2018,LCS,2018.0,Summer - Play offs,Fnatic,Misfits,1.40,2.86
+31 Aug 2018,LCS,2018.0,Summer - Play offs,Vitality,Schalke 04,1.54,2.42
+26 Aug 2018,LCS,2018.0,Summer - Play offs,100 Thieves,FlyQuest eSports,1.40,2.83
+25 Aug 2018,LCS,2018.0,Summer - Play offs,Echo Fox,Team SoloMid,2.02,1.74
+25 Aug 2018,LCS,2018.0,Summer - Play offs,G2 Esports,Misfits,1.49,2.54
+24 Aug 2018,LCS,2018.0,Summer - Play offs,Schalke 04,Splyce,1.44,2.72
+19 Aug 2018,LCS,2018.0,Summer Season,Team SoloMid,Team Liquid,2.21,1.65
+19 Aug 2018,LCS,2018.0,Summer Season,FlyQuest eSports,Cloud9,2.37,1.57
+19 Aug 2018,LCS,2018.0,Summer Season,Echo Fox,Clutch Gaming,1.51,2.56
+19 Aug 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,Golden Guardians,1.69,2.13
+19 Aug 2018,LCS,2018.0,Summer Season,Optic Gaming,100 Thieves,2.55,1.51
+19 Aug 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,Clutch Gaming,2.20,1.65
+19 Aug 2018,LCS,2018.0,Summer Season,Golden Guardians,FlyQuest eSports,2.35,1.58
+18 Aug 2018,LCS,2018.0,Summer Season,Optic Gaming,Team SoloMid,2.33,1.59
+18 Aug 2018,LCS,2018.0,Summer Season,100 Thieves,Cloud9,1.95,1.81
+18 Aug 2018,LCS,2018.0,Summer Season,Echo Fox,Team Liquid,2.32,1.59
+18 Aug 2018,LCS,2018.0,Summer Season,G2 Esports,Vitality,1.64,2.21
+18 Aug 2018,LCS,2018.0,Summer Season,Fnatic,Unicorns of Love,1.34,3.31
+18 Aug 2018,LCS,2018.0,Summer Season,Misfits,Roccat,1.49,2.58
+18 Aug 2018,LCS,2018.0,Summer Season,Schalke 04,H2k-Gaming,1.25,4.04
+18 Aug 2018,LCS,2018.0,Summer Season,Giants Gaming,Splyce,2.59,1.50
+17 Aug 2018,LCS,2018.0,Summer Season,Misfits,Vitality,1.84,1.91
+17 Aug 2018,LCS,2018.0,Summer Season,Fnatic,Roccat,1.24,3.92
+17 Aug 2018,LCS,2018.0,Summer Season,Giants Gaming,G2 Esports,3.40,1.33
+17 Aug 2018,LCS,2018.0,Summer Season,Schalke 04,Splyce,1.57,2.38
+17 Aug 2018,LCS,2018.0,Summer Season,Unicorns of Love,H2k-Gaming,1.53,2.48
+12 Aug 2018,LCS,2018.0,Summer Season,FlyQuest eSports,Counter Logic Gaming,1.67,2.16
+12 Aug 2018,LCS,2018.0,Summer Season,Team Liquid,Cloud9,1.55,2.45
+12 Aug 2018,LCS,2018.0,Summer Season,Team SoloMid,100 Thieves,2.07,1.73
+12 Aug 2018,LCS,2018.0,Summer Season,Golden Guardians,Clutch Gaming,2.03,1.75
+12 Aug 2018,LCS,2018.0,Summer Season,Echo Fox,Optic Gaming,1.53,2.47
+12 Aug 2018,LCS,2018.0,Summer Season,Clutch Gaming,FlyQuest eSports,1.83,1.93
+12 Aug 2018,LCS,2018.0,Summer Season,Optic Gaming,Team Liquid,3.13,1.38
+11 Aug 2018,LCS,2018.0,Summer Season,Cloud9,Golden Guardians,1.14,3.20
+11 Aug 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,Team SoloMid,2.18,1.67
+11 Aug 2018,LCS,2018.0,Summer Season,100 Thieves,Echo Fox,1.72,2.08
+11 Aug 2018,LCS,2018.0,Summer Season,Fnatic,Splyce,1.41,2.84
+11 Aug 2018,LCS,2018.0,Summer Season,Misfits,G2 Esports,2.10,1.71
+11 Aug 2018,LCS,2018.0,Summer Season,Schalke 04,Giants Gaming,1.36,3.05
+11 Aug 2018,LCS,2018.0,Summer Season,Unicorns of Love,Roccat,2.36,1.57
+11 Aug 2018,LCS,2018.0,Summer Season,H2k-Gaming,Vitality,3.76,1.22
+10 Aug 2018,LCS,2018.0,Summer Season,Schalke 04,Vitality,1.74,2.04
+10 Aug 2018,LCS,2018.0,Summer Season,Fnatic,Giants Gaming,1.28,3.48
+10 Aug 2018,LCS,2018.0,Summer Season,Unicorns of Love,G2 Esports,3.69,1.28
+10 Aug 2018,LCS,2018.0,Summer Season,Misfits,H2k-Gaming,1.21,4.19
+10 Aug 2018,LCS,2018.0,Summer Season,Roccat,Splyce,2.13,1.69
+05 Aug 2018,LCS,2018.0,Summer Season,Clutch Gaming,Optic Gaming,1.98,1.78
+05 Aug 2018,LCS,2018.0,Summer Season,100 Thieves,Golden Guardians,1.47,2.64
+05 Aug 2018,LCS,2018.0,Summer Season,Echo Fox,Team SoloMid,1.72,2.06
+05 Aug 2018,LCS,2018.0,Summer Season,Cloud9,Counter Logic Gaming,1.57,2.36
+05 Aug 2018,LCS,2018.0,Summer Season,Team Liquid,FlyQuest eSports,1.41,2.87
+05 Aug 2018,LCS,2018.0,Summer Season,Team SoloMid,Golden Guardians,1.61,2.26
+05 Aug 2018,LCS,2018.0,Summer Season,Optic Gaming,FlyQuest eSports,1.90,1.85
+04 Aug 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,Echo Fox,2.23,1.63
+04 Aug 2018,LCS,2018.0,Summer Season,Cloud9,Clutch Gaming,1.49,2.54
+04 Aug 2018,LCS,2018.0,Summer Season,Team Liquid,100 Thieves,1.72,2.08
+04 Aug 2018,LCS,2018.0,Summer Season,Fnatic,G2 Esports,1.87,1.87
+04 Aug 2018,LCS,2018.0,Summer Season,Unicorns of Love,Vitality,3.20,1.07
+04 Aug 2018,LCS,2018.0,Summer Season,Splyce,H2k-Gaming,1.38,3.19
+04 Aug 2018,LCS,2018.0,Summer Season,Misfits,Schalke 04,1.53,2.46
+04 Aug 2018,LCS,2018.0,Summer Season,Giants Gaming,Roccat,2.14,1.67
+03 Aug 2018,LCS,2018.0,Summer Season,Fnatic,Vitality,1.43,2.67
+03 Aug 2018,LCS,2018.0,Summer Season,Misfits,Giants Gaming,1.21,4.21
+03 Aug 2018,LCS,2018.0,Summer Season,G2 Esports,H2k-Gaming,1.13,5.71
+03 Aug 2018,LCS,2018.0,Summer Season,Schalke 04,Roccat,1.59,2.28
+03 Aug 2018,LCS,2018.0,Summer Season,Unicorns of Love,Splyce,3.09,1.37
+29 Jul 2018,LCS,2018.0,Summer Season,Optic Gaming,Golden Guardians,1.97,1.82
+29 Jul 2018,LCS,2018.0,Summer Season,Cloud9,Echo Fox,2.11,1.69
+29 Jul 2018,LCS,2018.0,Summer Season,Team Liquid,Clutch Gaming,1.47,2.60
+29 Jul 2018,LCS,2018.0,Summer Season,100 Thieves,Counter Logic Gaming,1.56,2.36
+29 Jul 2018,LCS,2018.0,Summer Season,FlyQuest eSports,Team SoloMid,2.35,1.57
+29 Jul 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,Optic Gaming,-,-
+29 Jul 2018,LCS,2018.0,Summer Season,Golden Guardians,Team Liquid,2.59,1.48
+28 Jul 2018,LCS,2018.0,Summer Season,Echo Fox,FlyQuest eSports,1.63,2.21
+28 Jul 2018,LCS,2018.0,Summer Season,Clutch Gaming,100 Thieves,2.28,1.60
+28 Jul 2018,LCS,2018.0,Summer Season,Team SoloMid,Cloud9,1.57,2.32
+28 Jul 2018,LCS,2018.0,Summer Season,Misfits,Splyce,1.45,2.70
+28 Jul 2018,LCS,2018.0,Summer Season,Fnatic,H2k-Gaming,1.01,5.60
+28 Jul 2018,LCS,2018.0,Summer Season,Schalke 04,G2 Esports,2.74,1.43
+28 Jul 2018,LCS,2018.0,Summer Season,Roccat,Vitality,2.08,1.70
+28 Jul 2018,LCS,2018.0,Summer Season,Unicorns of Love,Giants Gaming,1.94,1.83
+27 Jul 2018,LCS,2018.0,Summer Season,Splyce,G2 Esports,-,-
+27 Jul 2018,LCS,2018.0,Summer Season,Fnatic,Schalke 04,1.44,2.69
+27 Jul 2018,LCS,2018.0,Summer Season,Giants Gaming,Vitality,2.62,1.46
+27 Jul 2018,LCS,2018.0,Summer Season,Misfits,Unicorns of Love,1.01,-
+27 Jul 2018,LCS,2018.0,Summer Season,Roccat,H2k-Gaming,1.42,2.78
+22 Jul 2018,LCS,2018.0,Summer Season,Golden Guardians,Echo Fox,2.05,1.74
+22 Jul 2018,LCS,2018.0,Summer Season,Clutch Gaming,Team SoloMid,2.04,1.73
+22 Jul 2018,LCS,2018.0,Summer Season,Team Liquid,Counter Logic Gaming,1.63,2.22
+22 Jul 2018,LCS,2018.0,Summer Season,FlyQuest eSports,100 Thieves,2.31,1.59
+22 Jul 2018,LCS,2018.0,Summer Season,Optic Gaming,Cloud9,2.77,1.42
+22 Jul 2018,LCS,2018.0,Summer Season,FlyQuest eSports,Clutch Gaming,2.10,1.70
+22 Jul 2018,LCS,2018.0,Summer Season,Golden Guardians,Counter Logic Gaming,2.36,1.57
+21 Jul 2018,LCS,2018.0,Summer Season,Team SoloMid,Optic Gaming,1.33,3.25
+21 Jul 2018,LCS,2018.0,Summer Season,Cloud9,Team Liquid,2.51,1.51
+21 Jul 2018,LCS,2018.0,Summer Season,Echo Fox,100 Thieves,1.90,1.86
+21 Jul 2018,LCS,2018.0,Summer Season,Misfits,Fnatic,1.53,2.45
+21 Jul 2018,LCS,2018.0,Summer Season,Roccat,G2 Esports,3.09,1.36
+21 Jul 2018,LCS,2018.0,Summer Season,Schalke 04,Unicorns of Love,-,-
+21 Jul 2018,LCS,2018.0,Summer Season,Giants Gaming,H2k-Gaming,1.69,2.13
+21 Jul 2018,LCS,2018.0,Summer Season,Splyce,Vitality,2.16,1.67
+20 Jul 2018,LCS,2018.0,Summer Season,Vitality,G2 Esports,2.47,1.52
+20 Jul 2018,LCS,2018.0,Summer Season,Unicorns of Love,Fnatic,3.31,1.32
+20 Jul 2018,LCS,2018.0,Summer Season,Splyce,Giants Gaming,-,-
+20 Jul 2018,LCS,2018.0,Summer Season,Roccat,Misfits,2.99,1.38
+20 Jul 2018,LCS,2018.0,Summer Season,H2k-Gaming,Schalke 04,2.72,1.43
+15 Jul 2018,LCS,2018.0,Summer Season,Optic Gaming,Clutch Gaming,2.83,1.41
+15 Jul 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,Cloud9,1.86,1.90
+15 Jul 2018,LCS,2018.0,Summer Season,Team SoloMid,Echo Fox,1.60,2.28
+15 Jul 2018,LCS,2018.0,Summer Season,FlyQuest eSports,Team Liquid,3.71,1.26
+15 Jul 2018,LCS,2018.0,Summer Season,Golden Guardians,100 Thieves,3.09,1.36
+15 Jul 2018,LCS,2018.0,Summer Season,Cloud9,FlyQuest eSports,1.56,2.35
+15 Jul 2018,LCS,2018.0,Summer Season,Team Liquid,Optic Gaming,1.18,4.63
+14 Jul 2018,LCS,2018.0,Summer Season,Clutch Gaming,Golden Guardians,1.41,2.81
+14 Jul 2018,LCS,2018.0,Summer Season,100 Thieves,Team SoloMid,2.19,1.65
+14 Jul 2018,LCS,2018.0,Summer Season,Echo Fox,Counter Logic Gaming,1.69,2.13
+14 Jul 2018,LCS,2018.0,Summer Season,Vitality,Misfits,2.45,1.56
+14 Jul 2018,LCS,2018.0,Summer Season,Roccat,Fnatic,2.90,1.40
+14 Jul 2018,LCS,2018.0,Summer Season,Splyce,Schalke 04,-,-
+14 Jul 2018,LCS,2018.0,Summer Season,G2 Esports,Giants Gaming,1.20,4.43
+14 Jul 2018,LCS,2018.0,Summer Season,H2k-Gaming,Unicorns of Love,2.11,1.71
+13 Jul 2018,LCS,2018.0,Summer Season,Splyce,Fnatic,2.08,1.70
+13 Jul 2018,LCS,2018.0,Summer Season,G2 Esports,Misfits,1.75,2.04
+13 Jul 2018,LCS,2018.0,Summer Season,Vitality,H2k-Gaming,-,-
+13 Jul 2018,LCS,2018.0,Summer Season,Roccat,Unicorns of Love,1.64,2.20
+13 Jul 2018,LCS,2018.0,Summer Season,Giants Gaming,Schalke 04,2.52,1.51
+01 Jul 2018,LCS,2018.0,Summer Season,100 Thieves,Optic Gaming,1.35,3.20
+01 Jul 2018,LCS,2018.0,Summer Season,Echo Fox,Cloud9,1.52,2.48
+01 Jul 2018,LCS,2018.0,Summer Season,Clutch Gaming,Team Liquid,2.95,1.39
+01 Jul 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,FlyQuest eSports,1.53,2.44
+01 Jul 2018,LCS,2018.0,Summer Season,Golden Guardians,Team SoloMid,3.32,1.32
+01 Jul 2018,LCS,2018.0,Summer Season,Optic Gaming,Counter Logic Gaming,2.43,1.54
+01 Jul 2018,LCS,2018.0,Summer Season,FlyQuest eSports,Golden Guardians,1.91,1.84
+30 Jun 2018,LCS,2018.0,Summer Season,100 Thieves,Clutch Gaming,1.74,2.06
+30 Jun 2018,LCS,2018.0,Summer Season,Team Liquid,Echo Fox,1.62,2.25
+30 Jun 2018,LCS,2018.0,Summer Season,Cloud9,Team SoloMid,2.29,1.60
+30 Jun 2018,LCS,2018.0,Summer Season,G2 Esports,Unicorns of Love,1.28,3.89
+30 Jun 2018,LCS,2018.0,Summer Season,Splyce,Roccat,1.80,2.03
+30 Jun 2018,LCS,2018.0,Summer Season,Giants Gaming,Fnatic,3.62,1.27
+30 Jun 2018,LCS,2018.0,Summer Season,Vitality,Schalke 04,1.61,2.27
+30 Jun 2018,LCS,2018.0,Summer Season,H2k-Gaming,Misfits,3.36,1.34
+29 Jun 2018,LCS,2018.0,Summer Season,G2 Esports,Fnatic,1.97,1.80
+29 Jun 2018,LCS,2018.0,Summer Season,Vitality,Unicorns of Love,1.57,2.35
+29 Jun 2018,LCS,2018.0,Summer Season,H2k-Gaming,Splyce,2.20,1.65
+29 Jun 2018,LCS,2018.0,Summer Season,Schalke 04,Misfits,2.81,1.42
+29 Jun 2018,LCS,2018.0,Summer Season,Roccat,Giants Gaming,1.62,2.25
+24 Jun 2018,LCS,2018.0,Summer Season,Echo Fox,Golden Guardians,1.40,2.89
+24 Jun 2018,LCS,2018.0,Summer Season,Clutch Gaming,Counter Logic Gaming,1.72,2.05
+24 Jun 2018,LCS,2018.0,Summer Season,Team Liquid,Team SoloMid,1.87,1.88
+24 Jun 2018,LCS,2018.0,Summer Season,Cloud9,100 Thieves,2.61,1.46
+24 Jun 2018,LCS,2018.0,Summer Season,FlyQuest eSports,Optic Gaming,1.83,1.91
+24 Jun 2018,LCS,2018.0,Summer Season,Golden Guardians,Cloud9,2.02,1.77
+24 Jun 2018,LCS,2018.0,Summer Season,100 Thieves,FlyQuest eSports,1.47,2.62
+23 Jun 2018,LCS,2018.0,Summer Season,Optic Gaming,Echo Fox,3.87,1.24
+23 Jun 2018,LCS,2018.0,Summer Season,Team SoloMid,Clutch Gaming,1.42,2.77
+23 Jun 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,Team Liquid,2.55,1.49
+23 Jun 2018,LCS,2018.0,Summer Season,Vitality,Fnatic,2.46,1.54
+23 Jun 2018,LCS,2018.0,Summer Season,Splyce,Unicorns of Love,1.57,2.36
+23 Jun 2018,LCS,2018.0,Summer Season,H2k-Gaming,G2 Esports,3.19,1.36
+23 Jun 2018,LCS,2018.0,Summer Season,Giants Gaming,Misfits,2.90,1.41
+23 Jun 2018,LCS,2018.0,Summer Season,Roccat,Schalke 04,2.00,1.78
+22 Jun 2018,LCS,2018.0,Summer Season,Splyce,Misfits,2.21,1.64
+22 Jun 2018,LCS,2018.0,Summer Season,H2k-Gaming,Fnatic,2.64,1.47
+22 Jun 2018,LCS,2018.0,Summer Season,G2 Esports,Schalke 04,1.51,2.50
+22 Jun 2018,LCS,2018.0,Summer Season,Vitality,Roccat,1.55,2.39
+22 Jun 2018,LCS,2018.0,Summer Season,Giants Gaming,Unicorns of Love,1.78,1.99
+17 Jun 2018,LCS,2018.0,Summer Season,Cloud9,Optic Gaming,1.78,1.97
+17 Jun 2018,LCS,2018.0,Summer Season,Clutch Gaming,Echo Fox,2.47,1.57
+17 Jun 2018,LCS,2018.0,Summer Season,Counter Logic Gaming,100 Thieves,2.06,1.75
+17 Jun 2018,LCS,2018.0,Summer Season,Team Liquid,Golden Guardians,1.18,4.54
+17 Jun 2018,LCS,2018.0,Summer Season,Team SoloMid,FlyQuest eSports,1.29,3.43
+17 Jun 2018,LCS,2018.0,Summer Season,Golden Guardians,Optic Gaming,1.94,1.84
+17 Jun 2018,LCS,2018.0,Summer Season,FlyQuest eSports,Echo Fox,3.03,1.37
+16 Jun 2018,LCS,2018.0,Summer Season,Clutch Gaming,Cloud9,1.69,2.09
+16 Jun 2018,LCS,2018.0,Summer Season,Team SoloMid,Counter Logic Gaming,1.51,2.44
+16 Jun 2018,LCS,2018.0,Summer Season,100 Thieves,Team Liquid,2.20,1.62
+16 Jun 2018,LCS,2018.0,Summer Season,G2 Esports,Splyce,1.59,2.32
+16 Jun 2018,LCS,2018.0,Summer Season,Schalke 04,Fnatic,2.47,1.55
+16 Jun 2018,LCS,2018.0,Summer Season,Vitality,Giants Gaming,1.54,2.40
+16 Jun 2018,LCS,2018.0,Summer Season,Unicorns of Love,Misfits,2.64,1.47
+16 Jun 2018,LCS,2018.0,Summer Season,H2k-Gaming,Roccat,1.75,2.01
+15 Jun 2018,LCS,2018.0,Summer Season,Fnatic,Misfits,1.47,2.63
+15 Jun 2018,LCS,2018.0,Summer Season,G2 Esports,Roccat,1.42,2.80
+15 Jun 2018,LCS,2018.0,Summer Season,Unicorns of Love,Schalke 04,2.22,1.62
+15 Jun 2018,LCS,2018.0,Summer Season,H2k-Gaming,Giants Gaming,1.65,2.16
+15 Jun 2018,LCS,2018.0,Summer Season,Vitality,Splyce,2.25,1.60
+08 Apr 2018,LCS,2018.0,Spring - Play Offs,100 Thieves,Team Liquid,2.61,1.49
+08 Apr 2018,LCS,2018.0,Spring - Play Offs,G2 Esports,Fnatic,2.07,1.73
+01 Apr 2018,LCS,2018.0,Spring - Play Offs,100 Thieves,Clutch Gaming,1.50,2.61
+31 Mar 2018,LCS,2018.0,Spring - Play Offs,Echo Fox,Team Liquid,-,-
+31 Mar 2018,LCS,2018.0,Spring - Play Offs,Fnatic,Vitality,1.12,5.60
+30 Mar 2018,LCS,2018.0,Spring - Play Offs,G2 Esports,Splyce,1.61,2.29
+25 Mar 2018,LCS,2018.0,Spring - Play Offs,Team SoloMid,Clutch Gaming,1.31,3.71
+24 Mar 2018,LCS,2018.0,Spring - Play Offs,Team Liquid,Cloud9,1.69,2.11
+24 Mar 2018,LCS,2018.0,Spring - Play Offs,Vitality,H2k-Gaming,1.51,2.48
+23 Mar 2018,LCS,2018.0,Spring - Play Offs,Splyce,Roccat,1.37,3.16
+18 Mar 2018,LCS,2018.0,Spring Season,Team Liquid,Optic Gaming,1.36,3.10
+18 Mar 2018,LCS,2018.0,Spring Season,Echo Fox,100 Thieves,1.84,1.93
+18 Mar 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,Team SoloMid,2.36,1.57
+18 Mar 2018,LCS,2018.0,Spring Season,Golden Guardians,Clutch Gaming,3.43,1.30
+18 Mar 2018,LCS,2018.0,Spring Season,Cloud9,FlyQuest eSports,1.37,3.02
+18 Mar 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,Optic Gaming,1.40,2.89
+18 Mar 2018,LCS,2018.0,Spring Season,Golden Guardians,Team SoloMid,3.44,1.30
+18 Mar 2018,LCS,2018.0,Spring Season,Team Liquid,Cloud9,2.22,1.63
+18 Mar 2018,LCS,2018.0,Spring Season,FlyQuest eSports,Echo Fox,2.86,1.40
+18 Mar 2018,LCS,2018.0,Spring Season,100 Thieves,Clutch Gaming,1.92,1.84
+18 Mar 2018,LCS,2018.0,Spring Season,Fnatic,Schalke 04,1.42,2.69
+18 Mar 2018,LCS,2018.0,Spring Season,G2 Esports,Vitality,1.64,2.22
+18 Mar 2018,LCS,2018.0,Spring Season,Unicorns of Love,Misfits,2.78,1.42
+18 Mar 2018,LCS,2018.0,Spring Season,H2k-Gaming,Roccat,2.30,1.59
+18 Mar 2018,LCS,2018.0,Spring Season,Giants Gaming,Splyce,2.61,1.45
+16 Mar 2018,LCS,2018.0,Spring Season,Unicorns of Love,G2 Esports,2.96,1.39
+16 Mar 2018,LCS,2018.0,Spring Season,Giants Gaming,Fnatic,2.92,1.39
+16 Mar 2018,LCS,2018.0,Spring Season,Misfits,Roccat,-,-
+16 Mar 2018,LCS,2018.0,Spring Season,Splyce,Vitality,1.59,2.32
+16 Mar 2018,LCS,2018.0,Spring Season,Schalke 04,H2k-Gaming,1.54,2.42
+11 Mar 2018,LCS,2018.0,Spring Season,Optic Gaming,100 Thieves,2.59,1.48
+11 Mar 2018,LCS,2018.0,Spring Season,Team SoloMid,Cloud9,1.95,1.82
+11 Mar 2018,LCS,2018.0,Spring Season,Clutch Gaming,Team Liquid,1.94,1.82
+11 Mar 2018,LCS,2018.0,Spring Season,FlyQuest eSports,Golden Guardians,1.67,2.15
+11 Mar 2018,LCS,2018.0,Spring Season,Echo Fox,Counter Logic Gaming,1.50,2.54
+11 Mar 2018,LCS,2018.0,Spring Season,100 Thieves,Golden Guardians,1.48,2.59
+11 Mar 2018,LCS,2018.0,Spring Season,Team SoloMid,Team Liquid,1.83,1.94
+11 Mar 2018,LCS,2018.0,Spring Season,Optic Gaming,Cloud9,3.10,1.35
+11 Mar 2018,LCS,2018.0,Spring Season,FlyQuest eSports,Counter Logic Gaming,2.24,1.63
+11 Mar 2018,LCS,2018.0,Spring Season,Clutch Gaming,Echo Fox,2.23,1.62
+11 Mar 2018,LCS,2018.0,Spring Season,Schalke 04,G2 Esports,2.60,1.48
+11 Mar 2018,LCS,2018.0,Spring Season,Unicorns of Love,Fnatic,2.87,1.40
+11 Mar 2018,LCS,2018.0,Spring Season,Vitality,Roccat,1.56,2.38
+11 Mar 2018,LCS,2018.0,Spring Season,Splyce,H2k-Gaming,1.50,2.54
+11 Mar 2018,LCS,2018.0,Spring Season,Misfits,Giants Gaming,1.52,2.46
+09 Mar 2018,LCS,2018.0,Spring Season,Splyce,Misfits,1.92,1.82
+09 Mar 2018,LCS,2018.0,Spring Season,Fnatic,Roccat,1.44,2.71
+09 Mar 2018,LCS,2018.0,Spring Season,G2 Esports,H2k-Gaming,1.38,2.98
+09 Mar 2018,LCS,2018.0,Spring Season,Vitality,Unicorns of Love,1.82,1.92
+09 Mar 2018,LCS,2018.0,Spring Season,Giants Gaming,Schalke 04,1.92,1.85
+05 Mar 2018,LCS,2018.0,Spring Season,FlyQuest eSports,Clutch Gaming,2.48,1.52
+05 Mar 2018,LCS,2018.0,Spring Season,Cloud9,Golden Guardians,1.27,3.69
+04 Mar 2018,LCS,2018.0,Spring Season,100 Thieves,Team SoloMid,2.31,1.59
+04 Mar 2018,LCS,2018.0,Spring Season,Optic Gaming,Echo Fox,3.00,1.38
+04 Mar 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,Team Liquid,2.79,1.42
+04 Mar 2018,LCS,2018.0,Spring Season,Clutch Gaming,Optic Gaming,1.45,2.71
+04 Mar 2018,LCS,2018.0,Spring Season,Golden Guardians,Echo Fox,4.24,1.21
+04 Mar 2018,LCS,2018.0,Spring Season,Cloud9,Counter Logic Gaming,1.34,3.24
+04 Mar 2018,LCS,2018.0,Spring Season,Team SoloMid,FlyQuest eSports,1.43,2.79
+04 Mar 2018,LCS,2018.0,Spring Season,Team Liquid,100 Thieves,1.59,2.32
+04 Mar 2018,LCS,2018.0,Spring Season,G2 Esports,Giants Gaming,1.41,2.88
+04 Mar 2018,LCS,2018.0,Spring Season,Fnatic,Vitality,1.57,2.36
+04 Mar 2018,LCS,2018.0,Spring Season,H2k-Gaming,Misfits,2.81,1.43
+04 Mar 2018,LCS,2018.0,Spring Season,Unicorns of Love,Schalke 04,2.18,1.66
+04 Mar 2018,LCS,2018.0,Spring Season,Roccat,Splyce,2.13,1.69
+02 Mar 2018,LCS,2018.0,Spring Season,Misfits,Fnatic,2.34,1.58
+02 Mar 2018,LCS,2018.0,Spring Season,Splyce,G2 Esports,2.59,1.46
+02 Mar 2018,LCS,2018.0,Spring Season,Vitality,Schalke 04,1.80,1.98
+02 Mar 2018,LCS,2018.0,Spring Season,H2k-Gaming,Unicorns of Love,2.00,1.77
+02 Mar 2018,LCS,2018.0,Spring Season,Roccat,Giants Gaming,-,-
+26 Feb 2018,LCS,2018.0,Spring Season,Cloud9,Clutch Gaming,1.49,2.48
+26 Feb 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,Golden Guardians,1.52,2.48
+26 Feb 2018,LCS,2018.0,Spring Season,Echo Fox,Team Liquid,1.67,2.16
+26 Feb 2018,LCS,2018.0,Spring Season,FlyQuest eSports,100 Thieves,2.17,1.66
+26 Feb 2018,LCS,2018.0,Spring Season,Optic Gaming,Team SoloMid,2.46,1.53
+26 Feb 2018,LCS,2018.0,Spring Season,Team Liquid,FlyQuest eSports,1.38,2.98
+26 Feb 2018,LCS,2018.0,Spring Season,Golden Guardians,Optic Gaming,2.22,1.63
+25 Feb 2018,LCS,2018.0,Spring Season,Team SoloMid,Echo Fox,2.29,1.60
+25 Feb 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,Clutch Gaming,2.18,1.66
+25 Feb 2018,LCS,2018.0,Spring Season,100 Thieves,Cloud9,3.03,1.37
+25 Feb 2018,LCS,2018.0,Spring Season,Misfits,Vitality,1.77,2.00
+25 Feb 2018,LCS,2018.0,Spring Season,G2 Esports,Fnatic,1.82,1.90
+25 Feb 2018,LCS,2018.0,Spring Season,Schalke 04,Splyce,1.83,1.88
+25 Feb 2018,LCS,2018.0,Spring Season,Giants Gaming,H2k-Gaming,1.66,2.17
+25 Feb 2018,LCS,2018.0,Spring Season,Roccat,Unicorns of Love,1.64,2.20
+23 Feb 2018,LCS,2018.0,Spring Season,Schalke 04,Misfits,2.22,1.64
+23 Feb 2018,LCS,2018.0,Spring Season,Vitality,Giants Gaming,1.49,2.56
+23 Feb 2018,LCS,2018.0,Spring Season,Fnatic,H2k-Gaming,1.31,3.35
+23 Feb 2018,LCS,2018.0,Spring Season,Roccat,G2 Esports,2.88,1.40
+23 Feb 2018,LCS,2018.0,Spring Season,Unicorns of Love,Splyce,2.67,1.46
+19 Feb 2018,LCS,2018.0,Spring Season,FlyQuest eSports,Optic Gaming,1.85,2.00
+19 Feb 2018,LCS,2018.0,Spring Season,100 Thieves,Counter Logic Gaming,1.88,1.89
+19 Feb 2018,LCS,2018.0,Spring Season,Echo Fox,Cloud9,2.11,1.70
+19 Feb 2018,LCS,2018.0,Spring Season,Team Liquid,Golden Guardians,1.22,4.19
+19 Feb 2018,LCS,2018.0,Spring Season,Clutch Gaming,Team SoloMid,2.30,1.66
+19 Feb 2018,LCS,2018.0,Spring Season,Optic Gaming,Golden Guardians,1.61,2.27
+19 Feb 2018,LCS,2018.0,Spring Season,Clutch Gaming,FlyQuest eSports,1.79,1.99
+18 Feb 2018,LCS,2018.0,Spring Season,Cloud9,Team SoloMid,1.61,2.26
+18 Feb 2018,LCS,2018.0,Spring Season,100 Thieves,Echo Fox,2.80,1.42
+18 Feb 2018,LCS,2018.0,Spring Season,Team Liquid,Counter Logic Gaming,1.42,2.81
+18 Feb 2018,LCS,2018.0,Spring Season,Splyce,Fnatic,2.37,1.56
+18 Feb 2018,LCS,2018.0,Spring Season,Misfits,G2 Esports,2.00,1.80
+17 Feb 2018,LCS,2018.0,Spring Season,Schalke 04,Roccat,1.62,2.24
+17 Feb 2018,LCS,2018.0,Spring Season,H2k-Gaming,Vitality,4.17,1.22
+17 Feb 2018,LCS,2018.0,Spring Season,Giants Gaming,Unicorns of Love,1.49,2.63
+16 Feb 2018,LCS,2018.0,Spring Season,Schalke 04,Fnatic,2.23,1.62
+16 Feb 2018,LCS,2018.0,Spring Season,Vitality,G2 Esports,1.72,2.08
+16 Feb 2018,LCS,2018.0,Spring Season,Misfits,Unicorns of Love,1.30,3.38
+16 Feb 2018,LCS,2018.0,Spring Season,Roccat,H2k-Gaming,1.28,3.59
+16 Feb 2018,LCS,2018.0,Spring Season,Splyce,Giants Gaming,1.85,1.91
+12 Feb 2018,LCS,2018.0,Spring Season,Optic Gaming,Clutch Gaming,2.24,1.62
+12 Feb 2018,LCS,2018.0,Spring Season,Team Liquid,Echo Fox,1.71,2.09
+12 Feb 2018,LCS,2018.0,Spring Season,Team SoloMid,Counter Logic Gaming,1.52,2.46
+12 Feb 2018,LCS,2018.0,Spring Season,Golden Guardians,100 Thieves,4.03,1.23
+12 Feb 2018,LCS,2018.0,Spring Season,FlyQuest eSports,Cloud9,3.14,1.35
+12 Feb 2018,LCS,2018.0,Spring Season,Echo Fox,Golden Guardians,1.17,4.78
+12 Feb 2018,LCS,2018.0,Spring Season,100 Thieves,FlyQuest eSports,1.36,3.05
+11 Feb 2018,LCS,2018.0,Spring Season,Optic Gaming,Counter Logic Gaming,2.54,1.49
+11 Feb 2018,LCS,2018.0,Spring Season,Cloud9,Team Liquid,1.99,1.78
+11 Feb 2018,LCS,2018.0,Spring Season,Team SoloMid,Clutch Gaming,1.31,3.38
+11 Feb 2018,LCS,2018.0,Spring Season,G2 Esports,Unicorns of Love,1.33,3.22
+11 Feb 2018,LCS,2018.0,Spring Season,Fnatic,Giants Gaming,1.55,2.38
+11 Feb 2018,LCS,2018.0,Spring Season,Roccat,Misfits,2.46,1.52
+11 Feb 2018,LCS,2018.0,Spring Season,H2k-Gaming,Schalke 04,3.53,1.29
+11 Feb 2018,LCS,2018.0,Spring Season,Vitality,Splyce,1.60,2.28
+09 Feb 2018,LCS,2018.0,Spring Season,G2 Esports,Schalke 04,1.72,2.08
+09 Feb 2018,LCS,2018.0,Spring Season,Fnatic,Unicorns of Love,1.30,3.42
+09 Feb 2018,LCS,2018.0,Spring Season,Giants Gaming,Misfits,2.36,1.56
+09 Feb 2018,LCS,2018.0,Spring Season,Roccat,Vitality,2.73,1.43
+09 Feb 2018,LCS,2018.0,Spring Season,H2k-Gaming,Splyce,3.52,1.28
+05 Feb 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,FlyQuest eSports,1.51,2.46
+05 Feb 2018,LCS,2018.0,Spring Season,Clutch Gaming,Cloud9,2.52,1.49
+05 Feb 2018,LCS,2018.0,Spring Season,Golden Guardians,Team Liquid,4.82,1.17
+05 Feb 2018,LCS,2018.0,Spring Season,Team SoloMid,100 Thieves,1.89,1.87
+05 Feb 2018,LCS,2018.0,Spring Season,Echo Fox,Optic Gaming,1.28,3.48
+05 Feb 2018,LCS,2018.0,Spring Season,Team SoloMid,Golden Guardians,1.31,3.33
+05 Feb 2018,LCS,2018.0,Spring Season,FlyQuest eSports,Team Liquid,3.87,1.24
+04 Feb 2018,LCS,2018.0,Spring Season,Clutch Gaming,100 Thieves,2.28,1.59
+04 Feb 2018,LCS,2018.0,Spring Season,Cloud9,Optic Gaming,1.34,3.15
+04 Feb 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,Echo Fox,2.89,1.39
+04 Feb 2018,LCS,2018.0,Spring Season,Misfits,Splyce,1.45,2.66
+04 Feb 2018,LCS,2018.0,Spring Season,H2k-Gaming,G2 Esports,3.05,1.36
+04 Feb 2018,LCS,2018.0,Spring Season,Roccat,Fnatic,2.41,1.55
+04 Feb 2018,LCS,2018.0,Spring Season,Schalke 04,Giants Gaming,1.91,1.84
+04 Feb 2018,LCS,2018.0,Spring Season,Unicorns of Love,Vitality,3.22,1.33
+02 Feb 2018,LCS,2018.0,Spring Season,Fnatic,Misfits,1.76,2.01
+02 Feb 2018,LCS,2018.0,Spring Season,G2 Esports,Splyce,1.65,2.19
+02 Feb 2018,LCS,2018.0,Spring Season,Schalke 04,Vitality,2.10,1.70
+02 Feb 2018,LCS,2018.0,Spring Season,Giants Gaming,Roccat,1.80,1.98
+02 Feb 2018,LCS,2018.0,Spring Season,Unicorns of Love,H2k-Gaming,1.86,1.89
+29 Jan 2018,LCS,2018.0,Spring Season,Team Liquid,Clutch Gaming,1.33,3.27
+29 Jan 2018,LCS,2018.0,Spring Season,Golden Guardians,Counter Logic Gaming,2.59,1.47
+29 Jan 2018,LCS,2018.0,Spring Season,Optic Gaming,FlyQuest eSports,1.81,1.96
+29 Jan 2018,LCS,2018.0,Spring Season,Cloud9,100 Thieves,1.85,1.90
+29 Jan 2018,LCS,2018.0,Spring Season,Echo Fox,Team SoloMid,1.58,2.38
+29 Jan 2018,LCS,2018.0,Spring Season,Golden Guardians,FlyQuest eSports,2.17,1.66
+29 Jan 2018,LCS,2018.0,Spring Season,100 Thieves,Team Liquid,2.24,1.62
+28 Jan 2018,LCS,2018.0,Spring Season,Cloud9,Echo Fox,1.73,2.06
+28 Jan 2018,LCS,2018.0,Spring Season,Team SoloMid,Optic Gaming,1.44,2.73
+28 Jan 2018,LCS,2018.0,Spring Season,Clutch Gaming,Counter Logic Gaming,2.05,1.73
+28 Jan 2018,LCS,2018.0,Spring Season,Fnatic,G2 Esports,1.63,2.21
+28 Jan 2018,LCS,2018.0,Spring Season,Splyce,Schalke 04,2.10,1.70
+28 Jan 2018,LCS,2018.0,Spring Season,Vitality,Misfits,2.09,1.71
+28 Jan 2018,LCS,2018.0,Spring Season,Unicorns of Love,Roccat,1.83,1.96
+28 Jan 2018,LCS,2018.0,Spring Season,H2k-Gaming,Giants Gaming,2.28,1.60
+26 Jan 2018,LCS,2018.0,Spring Season,Schalke 04,Unicorns of Love,1.52,2.43
+26 Jan 2018,LCS,2018.0,Spring Season,Vitality,Fnatic,2.65,1.43
+26 Jan 2018,LCS,2018.0,Spring Season,Misfits,H2k-Gaming,1.45,2.71
+26 Jan 2018,LCS,2018.0,Spring Season,Splyce,Roccat,1.41,2.83
+26 Jan 2018,LCS,2018.0,Spring Season,Giants Gaming,G2 Esports,2.61,1.47
+22 Jan 2018,LCS,2018.0,Spring Season,Echo Fox,Clutch Gaming,1.56,2.39
+22 Jan 2018,LCS,2018.0,Spring Season,Golden Guardians,Cloud9,2.90,1.39
+22 Jan 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,100 Thieves,1.64,2.20
+22 Jan 2018,LCS,2018.0,Spring Season,FlyQuest eSports,Team SoloMid,2.76,1.44
+22 Jan 2018,LCS,2018.0,Spring Season,Optic Gaming,Team Liquid,3.68,1.27
+22 Jan 2018,LCS,2018.0,Spring Season,Counter Logic Gaming,Cloud9,1.68,2.14
+22 Jan 2018,LCS,2018.0,Spring Season,Echo Fox,FlyQuest eSports,1.64,2.21
+21 Jan 2018,LCS,2018.0,Spring Season,Clutch Gaming,Golden Guardians,1.55,2.43
+21 Jan 2018,LCS,2018.0,Spring Season,100 Thieves,Optic Gaming,1.55,2.42
+21 Jan 2018,LCS,2018.0,Spring Season,Team Liquid,Team SoloMid,1.98,1.79
+21 Jan 2018,LCS,2018.0,Spring Season,Misfits,Schalke 04,1.62,2.20
+21 Jan 2018,LCS,2018.0,Spring Season,G2 Esports,Roccat,1.21,4.13
+21 Jan 2018,LCS,2018.0,Spring Season,H2k-Gaming,Fnatic,4.45,1.18
+21 Jan 2018,LCS,2018.0,Spring Season,Splyce,Unicorns of Love,1.56,2.33
+21 Jan 2018,LCS,2018.0,Spring Season,Giants Gaming,Vitality,2.26,1.61
+19 Jan 2018,LCS,2018.0,Spring Season,Fnatic,Splyce,1.30,2.93
+19 Jan 2018,LCS,2018.0,Spring Season,Roccat,Schalke 04,2.28,1.61
+19 Jan 2018,LCS,2018.0,Spring Season,Unicorns of Love,Giants Gaming,1.55,2.36
+19 Jan 2018,LCS,2018.0,Spring Season,Vitality,H2k-Gaming,1.48,2.59
+19 Jan 2018,LCS,2018.0,Spring Season,G2 Esports,Misfits,1.72,2.07
