@@ -4,7 +4,13 @@ from bs4 import BeautifulSoup
 from datetime import date, datetime
 import requests
 import re
-from crawler import Crawler
+try:
+	from crawler import Crawler
+except:
+	import os
+	import sys
+	sys.path.append(os.path.dirname(__file__))
+	from crawler import Crawler
 
 
 class Gamepedia(Crawler):
