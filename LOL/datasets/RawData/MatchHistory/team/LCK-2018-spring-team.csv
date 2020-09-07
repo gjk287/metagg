@@ -1,0 +1,429 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,LCK,1,DragonX,GenG,1.0,35:32,OK,blue,KZ,   DEFEAT   ,64.8k,8,  3 ,  0 ,  1 ,  1 ,  0 ,Gangplank,Sejuani,Shen,Khazix,Taric
+2018.0,spring,LCK,1,DragonX,GenG,1.0,35:32,OK,red,KSV,   VICTORY   ,70.2k,14,  7 ,  1 ,  0 ,  3 ,  1 ,Ezreal,Kalista,KogMaw,Camille,Jayce
+2018.0,spring,LCK,1,DragonX,GenG,2.0,32:57,OK,blue,KSV,   VICTORY   ,70.9k,11,  11 ,  3 ,  1 ,  1 ,  1 ,TahmKench,KogMaw,Azir,Khazix,JarvanIV
+2018.0,spring,LCK,1,DragonX,GenG,2.0,32:57,OK,red,KZ,   DEFEAT   ,61.1k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Kalista,Sejuani,Shen,Janna,Alistar
+2018.0,spring,LCK,1,Kongdoo,MVP,1.0,29:30,OK,blue,KDM,   VICTORY   ,55.8k,10,  8 ,  1 ,  0 ,  2 ,  1 ,Malzahar,Sejuani,Azir,Braum,Shen
+2018.0,spring,LCK,1,Kongdoo,MVP,1.0,29:30,OK,red,MVP,   DEFEAT   ,50.1k,0,  0 ,  0 ,  1 ,  0 ,  0 ,Alistar,Kalista,Ezreal,Khazix,Shyvana
+2018.0,spring,LCK,1,Kongdoo,MVP,2.0,43:59,OK,blue,MVP,   DEFEAT   ,79.7k,8,  2 ,  0 ,  0 ,  2 ,  1 ,Alistar,Zoe,Kalista,JarvanIV,Ornn
+2018.0,spring,LCK,1,Kongdoo,MVP,2.0,43:59,OK,red,KDM,   VICTORY   ,88.4k,15,  11 ,  5 ,  3 ,  3 ,  0 ,Malzahar,Sejuani,Ezreal,TahmKench,Braum
+2018.0,spring,LCK,1,Afreeca,KT,1.0,46:23,OK,blue,AFs,   VICTORY   ,95.9k,11,  9 ,  1 ,  3 ,  2 ,  0 ,Shen,Sejuani,Ryze,Zoe,Varus
+2018.0,spring,LCK,1,Afreeca,KT,1.0,46:23,OK,red,KT,   DEFEAT   ,81.5k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Kalista,Ezreal,Camille,Rengar,Nidalee
+2018.0,spring,LCK,1,Afreeca,KT,2.0,39:45,OK,blue,KT,   VICTORY   ,79.6k,9,  9 ,  1 ,  1 ,  2 ,  1 ,Camille,KogMaw,Ryze,Gnar,Zoe
+2018.0,spring,LCK,1,Afreeca,KT,2.0,39:45,OK,red,AFs,   DEFEAT   ,71.5k,7,  4 ,  0 ,  0 ,  1 ,  0 ,Kalista,Ezreal,Sejuani,Malzahar,Rengar
+2018.0,spring,LCK,1,Afreeca,KT,3.0,37:30,OK,blue,AFs,   VICTORY   ,76.3k,13,  11 ,  4 ,  2 ,  2 ,  0 ,Ryze,KogMaw,Braum,Tristana,Azir
+2018.0,spring,LCK,1,Afreeca,KT,3.0,37:30,OK,red,KT,   DEFEAT   ,69.3k,4,  5 ,  1 ,  0 ,  2 ,  0 ,Kalista,Ezreal,Sejuani,Zac,Rengar
+2018.0,spring,LCK,1,T1,ROX,1.0,44:24,OK,blue,SKT,   VICTORY   ,87.9k,14,  8 ,  1 ,  1 ,  3 ,  0 ,KogMaw,Ryze,Sejuani,Janna,Shen
+2018.0,spring,LCK,1,T1,ROX,1.0,44:24,OK,red,ROX,   DEFEAT   ,74.7k,4,  3 ,  0 ,  1 ,  1 ,  0 ,Vladimir,Zoe,Gangplank,Veigar,Velkoz
+2018.0,spring,LCK,1,T1,ROX,2.0,31:42,OK,blue,ROX,   VICTORY   ,66.3k,13,  11 ,  3 ,  1 ,  3 ,  1 ,Sejuani,Zoe,TahmKench,Braum,Alistar
+2018.0,spring,LCK,1,T1,ROX,2.0,31:42,OK,red,SKT,   DEFEAT   ,53.5k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Ezreal,KogMaw,Gnar,Vladimir
+2018.0,spring,LCK,1,T1,ROX,3.0,28:06,OK,blue,SKT,   VICTORY   ,62.1k,21,  10 ,  2 ,  1 ,  2 ,  1 ,KogMaw,Shen,Kalista,Gangplank,Camille
+2018.0,spring,LCK,1,T1,ROX,3.0,28:06,OK,red,ROX,   DEFEAT   ,43.6k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Vladimir,Ezreal,Braum,TahmKench
+2018.0,spring,LCK,1,Kongdoo,bbq,1.0,33:32,OK,blue,KDM,   VICTORY   ,68.5k,5,  11 ,  4 ,  2 ,  3 ,  1 ,Sejuani,Azir,KogMaw,Jax,Gnar
+2018.0,spring,LCK,1,Kongdoo,bbq,1.0,33:32,OK,red,bbq,   DEFEAT   ,58.1k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Kalista,Zoe,TahmKench,Ornn
+2018.0,spring,LCK,1,Kongdoo,bbq,2.0,45:08,OK,blue,bbq,   VICTORY   ,89.6k,10,  11 ,  3 ,  1 ,  2 ,  1 ,Sejuani,Zoe,Kalista,Camille,Gangplank
+2018.0,spring,LCK,1,Kongdoo,bbq,2.0,45:08,OK,red,KDM,   DEFEAT   ,72.6k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,Evelynn,Ezreal,Khazix,Shyvana
+2018.0,spring,LCK,1,Kongdoo,bbq,3.0,39:47,OK,blue,KDM,   DEFEAT   ,66.3k,6,  4 ,  0 ,  0 ,  0 ,  1 ,Azir,Sejuani,KogMaw,Shen,Braum
+2018.0,spring,LCK,1,Kongdoo,bbq,3.0,39:47,OK,red,bbq,   VICTORY   ,82.1k,18,  10 ,  3 ,  2 ,  4 ,  0 ,Ezreal,Kalista,Varus,Gnar,TahmKench
+2018.0,spring,LCK,1,Jin Air,GenG,1.0,50:09,OK,blue,JAG,   DEFEAT   ,93.8k,12,  8 ,  1 ,  1 ,  2 ,  0 ,Gangplank,Shen,Varus,JarvanIV,Khazix
+2018.0,spring,LCK,1,Jin Air,GenG,1.0,50:09,OK,red,KSV,   VICTORY   ,99.7k,14,  9 ,  1 ,  1 ,  4 ,  1 ,Ezreal,KogMaw,Kalista,Camille,Jayce
+2018.0,spring,LCK,1,Jin Air,GenG,2.0,27:26,OK,blue,KSV,   VICTORY   ,59.9k,9,  11 ,  3 ,  1 ,  2 ,  1 ,KogMaw,Azir,Sejuani,Shen,Braum
+2018.0,spring,LCK,1,Jin Air,GenG,2.0,27:26,OK,red,JAG,   DEFEAT   ,42.7k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Ezreal,Ryze,Khazix,Zac
+2018.0,spring,LCK,1,KT,MVP,1.0,37:04,OK,blue,KT,   VICTORY   ,72.3k,11,  9 ,  2 ,  1 ,  2 ,  0 ,KogMaw,Sejuani,TahmKench,Janna,Shen
+2018.0,spring,LCK,1,KT,MVP,1.0,37:04,OK,red,MVP,   DEFEAT   ,59.6k,8,  1 ,  0 ,  0 ,  2 ,  1 ,Gangplank,Kalista,Ezreal,Zac,Braum
+2018.0,spring,LCK,1,KT,MVP,2.0,59:58,OK,blue,MVP,   DEFEAT   ,114.7k,12,  7 ,  1 ,  3 ,  3 ,  1 ,Gangplank,Zac,Gnar,Taliyah,Ryze
+2018.0,spring,LCK,1,KT,MVP,2.0,59:58,OK,red,KT,   VICTORY   ,109.4k,14,  8 ,  2 ,  1 ,  2 ,  0 ,Kalista,Ezreal,Tristana,Janna,Braum
+2018.0,spring,LCK,1,Jin Air,T1,1.0,46:28,OK,blue,JAG,   DEFEAT   ,80.9k,7,  4 ,  1 ,  0 ,  2 ,  1 ,Shen,Gangplank,Ezreal,Varus,Shyvana
+2018.0,spring,LCK,1,Jin Air,T1,1.0,46:28,OK,red,SKT,   VICTORY   ,92.5k,15,  9 ,  1 ,  1 ,  3 ,  0 ,KogMaw,Azir,Kalista,Cassiopeia,Camille
+2018.0,spring,LCK,1,Jin Air,T1,2.0,52:12,OK,blue,SKT,   DEFEAT   ,99.9k,14,  7 ,  0 ,  2 ,  3 ,  0 ,KogMaw,Azir,Kalista,Cassiopeia,Nidalee
+2018.0,spring,LCK,1,Jin Air,T1,2.0,52:12,OK,red,JAG,   VICTORY   ,97.1k,18,  9 ,  2 ,  1 ,  2 ,  1 ,Gangplank,Ezreal,Sejuani,Camille,Ornn
+2018.0,spring,LCK,1,Jin Air,T1,3.0,1:34:40,OK,blue,JAG,   VICTORY   ,180.1k,16,  7 ,  2 ,  3 ,  3 ,  1 ,Ryze,Gangplank,Sejuani,Zoe,Veigar
+2018.0,spring,LCK,1,Jin Air,T1,3.0,1:34:40,OK,red,SKT,   DEFEAT   ,174.6k,8,  11 ,  13 ,  6 ,  7 ,  0 ,KogMaw,Caitlyn,Braum,Camille,Nidalee
+2018.0,spring,LCK,2,Afreeca,DragonX,1.0,37:22,OK,blue,AFs,   DEFEAT   ,61.7k,2,  1 ,  0 ,  0 ,  3 ,  0 ,Nidalee,Ornn,Sejuani,TahmKench,KogMaw
+2018.0,spring,LCK,2,Afreeca,DragonX,1.0,37:22,OK,red,KZ,   VICTORY   ,76.8k,8,  11 ,  4 ,  2 ,  1 ,  1 ,Kalista,Gangplank,Zac,Jayce,Camille
+2018.0,spring,LCK,2,Afreeca,DragonX,2.0,36:45,OK,blue,KZ,   VICTORY   ,77.8k,14,  11 ,  4 ,  2 ,  4 ,  1 ,Gangplank,Camille,Kalista,Zac,JarvanIV
+2018.0,spring,LCK,2,Afreeca,DragonX,2.0,36:45,OK,red,AFs,   DEFEAT   ,59.6k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Sejuani,KogMaw,Tristana,Xayah
+2018.0,spring,LCK,2,bbq,ROX,1.0,35:20,OK,blue,bbq,   VICTORY   ,74.4k,12,  11 ,  3 ,  1 ,  2 ,  0 ,Sejuani,Kalista,Gangplank,Cassiopeia,Taliyah
+2018.0,spring,LCK,2,bbq,ROX,1.0,35:20,OK,red,ROX,   DEFEAT   ,59.9k,3,  2 ,  0 ,  0 ,  1 ,  1 ,Ryze,Azir,Zoe,Ivern,JarvanIV
+2018.0,spring,LCK,2,bbq,ROX,2.0,50:12,OK,blue,ROX,   VICTORY   ,96.8k,9,  10 ,  2 ,  0 ,  1 ,  1 ,Zoe,Ryze,Ezreal,Gnar,TahmKench
+2018.0,spring,LCK,2,bbq,ROX,2.0,50:12,OK,red,bbq,   DEFEAT   ,100.3k,9,  8 ,  5 ,  3 ,  3 ,  0 ,KogMaw,Kalista,Azir,Vladimir,Ornn
+2018.0,spring,LCK,2,bbq,ROX,3.0,34:15,OK,blue,bbq,   DEFEAT   ,57.8k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Sejuani,Kalista,Corki,Sivir,Caitlyn
+2018.0,spring,LCK,2,bbq,ROX,3.0,34:15,OK,red,ROX,   VICTORY   ,67.2k,14,  9 ,  1 ,  1 ,  1 ,  0 ,Azir,KogMaw,Malzahar,Gnar,Ryze
+2018.0,spring,LCK,2,Jin Air,MVP,1.0,31:10,OK,blue,JAG,   VICTORY   ,65.9k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Varus,Sejuani,KogMaw,Sivir,Vayne
+2018.0,spring,LCK,2,Jin Air,MVP,1.0,31:10,OK,red,MVP,   DEFEAT   ,49.6k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Kalista,TahmKench,Braum,Malzahar,Zoe
+2018.0,spring,LCK,2,Jin Air,MVP,2.0,39:39,OK,blue,MVP,   DEFEAT   ,68.4k,6,  1 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Alistar,Kalista,Leblanc,Azir
+2018.0,spring,LCK,2,Jin Air,MVP,2.0,39:39,OK,red,JAG,   VICTORY   ,83.6k,13,  11 ,  3 ,  2 ,  4 ,  1 ,Varus,KogMaw,Sivir,Janna,Malzahar
+2018.0,spring,LCK,2,KT,T1,1.0,35:04,OK,blue,KT,   VICTORY   ,70.7k,9,  11 ,  3 ,  1 ,  2 ,  1 ,Ryze,Varus,Sivir,JarvanIV,Zoe
+2018.0,spring,LCK,2,KT,T1,1.0,35:04,OK,red,SKT,   DEFEAT   ,57.2k,1,  0 ,  0 ,  0 ,  1 ,  0 ,KogMaw,Kalista,Ezreal,Azir,Shen
+2018.0,spring,LCK,2,KT,T1,2.0,31:25,OK,blue,SKT,   VICTORY   ,68.9k,15,  11 ,  3 ,  2 ,  2 ,  0 ,,,,,
+2018.0,spring,LCK,2,KT,T1,2.0,31:25,OK,red,KT,   DEFEAT   ,54.0k,3,  3 ,  0 ,  0 ,  1 ,  1 ,,,,,
+2018.0,spring,LCK,2,KT,T1,3.0,42:15,OK,blue,KT,   VICTORY   ,78.4k,12,  7 ,  1 ,  1 ,  2 ,  0 ,Ryze,Sivir,Zoe,Malzahar,Xerath
+2018.0,spring,LCK,2,KT,T1,3.0,42:15,OK,red,SKT,   DEFEAT   ,81.0k,10,  6 ,  0 ,  1 ,  3 ,  0 ,KogMaw,Sejuani,Galio,Jayce,Khazix
+2018.0,spring,LCK,2,ROX,Kongdoo,1.0,35:32,OK,blue,ROX,   VICTORY   ,76.4k,14,  11 ,  4 ,  2 ,  1 ,  0 ,Zoe,Ryze,Shen,Khazix,Rengar
+2018.0,spring,LCK,2,ROX,Kongdoo,1.0,35:32,OK,red,KDM,   DEFEAT   ,60.9k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Sejuani,Azir,Galio,Vladimir,Camille
+2018.0,spring,LCK,2,ROX,Kongdoo,2.0,48:35,OK,blue,KDM,   VICTORY   ,87.9k,12,  7 ,  2 ,  0 ,  0 ,  0 ,Galio,Kalista,JarvanIV,Camille,Braum
+2018.0,spring,LCK,2,ROX,Kongdoo,2.0,48:35,OK,red,ROX,   DEFEAT   ,100.0k,11,  10 ,  2 ,  3 ,  5 ,  1 ,Zoe,Ryze,KogMaw,TahmKench,Jayce
+2018.0,spring,LCK,2,ROX,Kongdoo,3.0,53:07,OK,blue,ROX,   VICTORY   ,101.8k,16,  11 ,  2 ,  1 ,  2 ,  0 ,Zoe,Ryze,Malzahar,Braum,Taric
+2018.0,spring,LCK,2,ROX,Kongdoo,3.0,53:07,OK,red,KDM,   DEFEAT   ,88.5k,7,  4 ,  0 ,  1 ,  0 ,  0 ,Sejuani,Azir,Galio,Shen,Alistar
+2018.0,spring,LCK,2,GenG,Afreeca,1.0,47:33,OK,blue,KSV,   DEFEAT   ,86.9k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Camille,KogMaw,Jayce,Khazix,Shyvana
+2018.0,spring,LCK,2,GenG,Afreeca,1.0,47:33,OK,red,AFs,   VICTORY   ,100.8k,3,  11 ,  3 ,  2 ,  3 ,  1 ,Sejuani,Ryze,Malzahar,Zac,JarvanIV
+2018.0,spring,LCK,2,GenG,Afreeca,2.0,1:11:38,OK,blue,AFs,   DEFEAT   ,147.3k,12,  11 ,  9 ,  5 ,  5 ,  1 ,Malzahar,Sejuani,Ryze,Zac,Rengar
+2018.0,spring,LCK,2,GenG,Afreeca,2.0,1:11:38,OK,red,KSV,   VICTORY   ,138.3k,15,  7 ,  1 ,  0 ,  0 ,  0 ,Kalista,Camille,KogMaw,Taric,Azir
+2018.0,spring,LCK,2,GenG,Afreeca,3.0,29:47,OK,blue,KSV,   VICTORY   ,61.5k,6,  11 ,  3 ,  1 ,  2 ,  0 ,KogMaw,Camille,Zoe,Veigar,Galio
+2018.0,spring,LCK,2,GenG,Afreeca,3.0,29:47,OK,red,AFs,   DEFEAT   ,53.5k,2,  4 ,  1 ,  0 ,  0 ,  0 ,Malzahar,Sejuani,Ryze,Gangplank,Jayce
+2018.0,spring,LCK,2,DragonX,T1,1.0,51:32,OK,blue,KZ,   VICTORY   ,103.3k,9,  8 ,  1 ,  1 ,  5 ,  0 ,Vladimir,Sivir,Kalista,TahmKench,Nasus
+2018.0,spring,LCK,2,DragonX,T1,1.0,51:32,OK,red,SKT,   DEFEAT   ,97.3k,9,  5 ,  0 ,  1 ,  1 ,  1 ,Jayce,Galio,Azir,Gnar,JarvanIV
+2018.0,spring,LCK,2,DragonX,T1,2.0,28:11,OK,blue,SKT,   DEFEAT   ,45.5k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Jayce,Gnar,Khazix,Jax,Zac
+2018.0,spring,LCK,2,DragonX,T1,2.0,28:11,OK,red,KZ,   VICTORY   ,63.1k,8,  10 ,  2 ,  1 ,  3 ,  0 ,Sejuani,Vladimir,Gangplank,Alistar,JarvanIV
+2018.0,spring,LCK,2,KT,bbq,1.0,32:09,OK,blue,KT,   VICTORY   ,67.3k,9,  11 ,  3 ,  1 ,  3 ,  1 ,Gangplank,Braum,Malzahar,Janna,Taric
+2018.0,spring,LCK,2,KT,bbq,1.0,32:09,OK,red,bbq,   DEFEAT   ,53.8k,4,  0 ,  0 ,  0 ,  0 ,  0 ,KogMaw,Sejuani,Kalista,Alistar,Camille
+2018.0,spring,LCK,2,KT,bbq,2.0,41:00,OK,blue,bbq,   VICTORY   ,84.8k,12,  11 ,  4 ,  2 ,  3 ,  0 ,Ryze,Azir,KogMaw,TahmKench,Taric
+2018.0,spring,LCK,2,KT,bbq,2.0,41:00,OK,red,KT,   DEFEAT   ,68.4k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Sejuani,Malzahar,Khazix,Zac
+2018.0,spring,LCK,2,KT,bbq,3.0,35:17,OK,blue,KT,   VICTORY   ,75.9k,12,  11 ,  3 ,  1 ,  4 ,  0 ,Vladimir,Shen,Kalista,Galio,Taric
+2018.0,spring,LCK,2,KT,bbq,3.0,35:17,OK,red,bbq,   DEFEAT   ,61.0k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Sejuani,KogMaw,Ryze,Janna,TahmKench
+2018.0,spring,LCK,2,GenG,Kongdoo,1.0,30:59,OK,blue,KSV,   DEFEAT   ,53.1k,2,  1 ,  0 ,  0 ,  2 ,  1 ,KogMaw,Zoe,Azir,Camille,Jayce
+2018.0,spring,LCK,2,GenG,Kongdoo,1.0,30:59,OK,red,KDM,   VICTORY   ,67.7k,16,  10 ,  2 ,  1 ,  1 ,  0 ,Ryze,Sejuani,Jax,Taric,TahmKench
+2018.0,spring,LCK,2,GenG,Kongdoo,2.0,46:17,OK,blue,KDM,   VICTORY   ,91.7k,13,  9 ,  1 ,  2 ,  2 ,  0 ,Ryze,Azir,Malzahar,Braum,Taric
+2018.0,spring,LCK,2,GenG,Kongdoo,2.0,46:17,OK,red,KSV,   DEFEAT   ,87.5k,12,  7 ,  1 ,  0 ,  3 ,  0 ,Galio,KogMaw,JarvanIV,Camille,Jayce
+2018.0,spring,LCK,2,ROX,Afreeca,1.0,34:44,OK,blue,ROX,   DEFEAT   ,58.0k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Gnar,Gangplank,Khazix,Nidalee
+2018.0,spring,LCK,2,ROX,Afreeca,1.0,34:44,OK,red,AFs,   VICTORY   ,74.9k,11,  11 ,  3 ,  2 ,  4 ,  1 ,Sejuani,Azir,Kalista,Camille,Taric
+2018.0,spring,LCK,2,ROX,Afreeca,2.0,53:30,OK,blue,AFs,   VICTORY   ,102.3k,10,  9 ,  2 ,  1 ,  0 ,  0 ,Sejuani,Vladimir,Kalista,Camille,Jayce
+2018.0,spring,LCK,2,ROX,Afreeca,2.0,53:30,OK,red,ROX,   DEFEAT   ,99.0k,6,  5 ,  0 ,  1 ,  5 ,  1 ,Ezreal,Zoe,Galio,Jax,JarvanIV
+2018.0,spring,LCK,2,bbq,Jin Air,1.0,43:43,OK,blue,bbq,   VICTORY   ,91.4k,12,  11 ,  4 ,  2 ,  3 ,  0 ,Vayne,Ryze,KogMaw,Vladimir,Ornn
+2018.0,spring,LCK,2,bbq,Jin Air,1.0,43:43,OK,red,JAG,   DEFEAT   ,79.3k,5,  5 ,  1 ,  0 ,  1 ,  1 ,Galio,Malzahar,Sejuani,Shen,
+2018.0,spring,LCK,2,bbq,Jin Air,2.0,41:19,OK,blue,JAG,   DEFEAT   ,86.7k,15,  9 ,  2 ,  0 ,  4 ,  1 ,Malzahar,Galio,Ezreal,Janna,Ornn
+2018.0,spring,LCK,2,bbq,Jin Air,2.0,41:19,OK,red,bbq,   VICTORY   ,82.3k,8,  10 ,  2 ,  2 ,  0 ,  0 ,Vayne,KogMaw,Kalista,Braum,TahmKench
+2018.0,spring,LCK,2,MVP,DragonX,1.0,31:03,OK,blue,MVP,   DEFEAT   ,53.7k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Vladimir,Ryze,Varus,Camille,Ornn
+2018.0,spring,LCK,2,MVP,DragonX,1.0,31:03,OK,red,KZ,   VICTORY   ,66.5k,12,  10 ,  2 ,  2 ,  2 ,  0 ,Gangplank,Galio,Sejuani,Alistar,TahmKench
+2018.0,spring,LCK,2,MVP,DragonX,2.0,23:48,OK,blue,KZ,   VICTORY   ,53.3k,22,  8 ,  1 ,  0 ,  2 ,  0 ,Galio,Gangplank,Sion,Malzahar,TahmKench
+2018.0,spring,LCK,2,MVP,DragonX,2.0,23:48,OK,red,MVP,   DEFEAT   ,37.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Azir,Ezreal,Braum,Shen
+2018.0,spring,LCK,3,MVP,GenG,1.0,28:28,OK,blue,MVP,   DEFEAT   ,49.1k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Gnar,Ryze,KogMaw,Ezreal,Kalista
+2018.0,spring,LCK,3,MVP,GenG,1.0,28:28,OK,red,KSV,   VICTORY   ,57.9k,12,  8 ,  1 ,  1 ,  3 ,  0 ,Galio,Gangplank,Vladimir,Malzahar,Illaoi
+2018.0,spring,LCK,3,MVP,GenG,2.0,38:10,OK,blue,KSV,   VICTORY   ,71.2k,6,  9 ,  2 ,  2 ,  0 ,  0 ,Vladimir,Galio,Gangplank,Nidalee,Khazix
+2018.0,spring,LCK,3,MVP,GenG,2.0,38:10,OK,red,MVP,   DEFEAT   ,71.2k,9,  6 ,  1 ,  0 ,  4 ,  1 ,Gnar,Ryze,Sejuani,Malzahar,Taliyah
+2018.0,spring,LCK,3,Kongdoo,Jin Air,1.0,40:01,OK,blue,KDM,   DEFEAT   ,66.4k,1,  0 ,  0 ,  1 ,  3 ,  0 ,Azir,KogMaw,Sejuani,Camille,TahmKench
+2018.0,spring,LCK,3,Kongdoo,Jin Air,1.0,40:01,OK,red,JAG,   VICTORY   ,82.9k,18,  11 ,  4 ,  1 ,  2 ,  1 ,Galio,JarvanIV,Zac,Jax,Gangplank
+2018.0,spring,LCK,3,Kongdoo,Jin Air,2.0,43:09,OK,blue,JAG,   VICTORY   ,89.0k,11,  11 ,  3 ,  1 ,  4 ,  1 ,JarvanIV,Zac,Galio,Gangplank,Alistar
+2018.0,spring,LCK,3,Kongdoo,Jin Air,2.0,43:09,OK,red,KDM,   DEFEAT   ,75.9k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Azir,KogMaw,Rengar,LeeSin
+2018.0,spring,LCK,3,DragonX,ROX,1.0,44:47,OK,blue,KZ,   VICTORY   ,99.4k,11,  11 ,  4 ,  2 ,  3 ,  1 ,Vladimir,Galio,Zoe,Khazix,Ornn
+2018.0,spring,LCK,3,DragonX,ROX,1.0,44:47,OK,red,ROX,   DEFEAT   ,80.7k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Jayce,Sejuani,TahmKench,Alistar,Janna
+2018.0,spring,LCK,3,DragonX,ROX,2.0,27:24,OK,blue,ROX,   DEFEAT   ,45.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Jayce,Braum,Ryze,Camille,Ornn
+2018.0,spring,LCK,3,DragonX,ROX,2.0,27:24,OK,red,KZ,   VICTORY   ,61.7k,15,  11 ,  1 ,  1 ,  3 ,  1 ,Sejuani,Vladimir,Galio,Alistar,JarvanIV
+2018.0,spring,LCK,3,Afreeca,bbq,1.0,37:58,OK,blue,AFs,   VICTORY   ,80.7k,6,  11 ,  3 ,  1 ,  5 ,  1 ,Sejuani,Malzahar,Azir,TahmKench,Taric
+2018.0,spring,LCK,3,Afreeca,bbq,1.0,37:58,OK,red,bbq,   DEFEAT   ,67.9k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Braum,Ornn,Zoe,Vladimir
+2018.0,spring,LCK,3,Afreeca,bbq,2.0,33:35,OK,blue,bbq,   DEFEAT   ,57.4k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Ryze,Braum,KogMaw,TahmKench,Ornn
+2018.0,spring,LCK,3,Afreeca,bbq,2.0,33:35,OK,red,AFs,   VICTORY   ,73.8k,9,  11 ,  3 ,  2 ,  3 ,  0 ,Galio,Sejuani,Kalista,Camille,Khazix
+2018.0,spring,LCK,3,KT,Jin Air,1.0,42:00,OK,blue,KT,   VICTORY   ,83.6k,14,  11 ,  3 ,  1 ,  4 ,  0 ,Zoe,Sejuani,Vladimir,Ezreal,Gnar
+2018.0,spring,LCK,3,KT,Jin Air,1.0,42:00,OK,red,JAG,   DEFEAT   ,76.5k,11,  5 ,  0 ,  0 ,  1 ,  1 ,Galio,Ryze,Azir,Gangplank,Braum
+2018.0,spring,LCK,3,KT,Jin Air,2.0,32:53,OK,blue,JAG,   DEFEAT   ,54.9k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Malzahar,Galio,Ornn,Jayce
+2018.0,spring,LCK,3,KT,Jin Air,2.0,32:53,OK,red,KT,   VICTORY   ,72.7k,15,  11 ,  3 ,  2 ,  3 ,  1 ,Kalista,Vladimir,Azir,Braum,Taric
+2018.0,spring,LCK,3,MVP,T1,1.0,35:11,OK,blue,MVP,   VICTORY   ,77.1k,14,  10 ,  3 ,  2 ,  3 ,  1 ,Ryze,Gnar,Vladimir,Camille,Braum
+2018.0,spring,LCK,3,MVP,T1,1.0,35:11,OK,red,SKT,   DEFEAT   ,59.8k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Bard,Kalista,Sion,Azir,Taliyah
+2018.0,spring,LCK,3,MVP,T1,2.0,43:12,OK,blue,SKT,   VICTORY   ,90.3k,12,  11 ,  5 ,  2 ,  2 ,  0 ,Bard,Galio,Kalista,Camille,Varus
+2018.0,spring,LCK,3,MVP,T1,2.0,43:12,OK,red,MVP,   DEFEAT   ,75.7k,1,  3 ,  0 ,  0 ,  3 ,  1 ,Ryze,Vladimir,Ezreal,Braum,Zoe
+2018.0,spring,LCK,3,MVP,T1,3.0,50:47,OK,blue,MVP,   VICTORY   ,101.5k,10,  10 ,  3 ,  3 ,  5 ,  1 ,Ryze,Gnar,Vladimir,Braum,JarvanIV
+2018.0,spring,LCK,3,MVP,T1,3.0,50:47,OK,red,SKT,   DEFEAT   ,86.9k,6,  3 ,  0 ,  0 ,  1 ,  0 ,Bard,Galio,Sejuani,Malzahar,Taliyah
+2018.0,spring,LCK,3,DragonX,Kongdoo,1.0,31:35,OK,blue,KZ,   VICTORY   ,69.9k,8,  11 ,  3 ,  2 ,  3 ,  1 ,JarvanIV,Zac,Khazix,Jax,Shyvana
+2018.0,spring,LCK,3,DragonX,Kongdoo,1.0,31:35,OK,red,KDM,   DEFEAT   ,48.4k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Ryze,Nidalee,Camille,Vladimir
+2018.0,spring,LCK,3,DragonX,Kongdoo,2.0,30:54,OK,blue,KDM,   DEFEAT   ,51.3k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Nidalee,Braum,Jayce,Camille
+2018.0,spring,LCK,3,DragonX,Kongdoo,2.0,30:54,OK,red,KZ,   VICTORY   ,68.0k,14,  10 ,  2 ,  1 ,  3 ,  0 ,JarvanIV,Galio,Sejuani,Ornn,TahmKench
+2018.0,spring,LCK,3,GenG,bbq,1.0,39:54,OK,blue,KSV,   DEFEAT   ,70.3k,6,  2 ,  0 ,  0 ,  4 ,  0 ,Galio,Zoe,Vladimir,Corki,Taliyah
+2018.0,spring,LCK,3,GenG,bbq,1.0,39:54,OK,red,bbq,   VICTORY   ,79.7k,13,  10 ,  2 ,  1 ,  0 ,  1 ,Sejuani,Ryze,Azir,Ornn,Zac
+2018.0,spring,LCK,3,GenG,bbq,2.0,48:05,OK,blue,bbq,   DEFEAT   ,94.0k,15,  9 ,  2 ,  2 ,  1 ,  1 ,Ryze,Azir,Ornn,Camille,Braum
+2018.0,spring,LCK,3,GenG,bbq,2.0,48:05,OK,red,KSV,   VICTORY   ,88.6k,16,  6 ,  1 ,  1 ,  4 ,  0 ,Alistar,Galio,Sejuani,Zac,JarvanIV
+2018.0,spring,LCK,3,GenG,bbq,3.0,40:56,OK,blue,KSV,   VICTORY   ,83.9k,11,  11 ,  4 ,  2 ,  2 ,  0 ,Alistar,Galio,Vladimir,Khazix,JarvanIV
+2018.0,spring,LCK,3,GenG,bbq,3.0,40:56,OK,red,bbq,   DEFEAT   ,77.0k,9,  3 ,  0 ,  1 ,  2 ,  1 ,Sejuani,Ryze,Kalista,Ornn,TahmKench
+2018.0,spring,LCK,3,ROX,KT,1.0,33:47,OK,blue,ROX,   DEFEAT   ,54.3k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Jax,Malzahar,Braum,JarvanIV,Khazix
+2018.0,spring,LCK,3,ROX,KT,1.0,33:47,OK,red,KT,   VICTORY   ,74.1k,16,  11 ,  3 ,  1 ,  3 ,  1 ,Vladimir,Galio,Kalista,Gnar,Camille
+2018.0,spring,LCK,3,ROX,KT,2.0,32:18,OK,blue,KT,   DEFEAT   ,57.2k,10,  3 ,  0 ,  0 ,  2 ,  0 ,Vladimir,Galio,Ezreal,Zoe,Braum
+2018.0,spring,LCK,3,ROX,KT,2.0,32:18,OK,red,ROX,   VICTORY   ,63.8k,17,  8 ,  2 ,  1 ,  1 ,  0 ,Jax,Gangplank,Sejuani,Jayce,Camille
+2018.0,spring,LCK,3,ROX,KT,3.0,39:01,OK,blue,ROX,   DEFEAT   ,70.8k,6,  5 ,  0 ,  0 ,  1 ,  1 ,Gangplank,Ezreal,Jayce,Janna,TahmKench
+2018.0,spring,LCK,3,ROX,KT,3.0,39:01,OK,red,KT,   VICTORY   ,77.5k,11,  11 ,  3 ,  1 ,  1 ,  0 ,Galio,Kalista,KogMaw,Vladimir,Ornn
+2018.0,spring,LCK,3,T1,Afreeca,1.0,42:26,OK,blue,SKT,   DEFEAT   ,71.6k,7,  0 ,  0 ,  0 ,  2 ,  0 ,Azir,Braum,Khazix,Alistar,Nidalee
+2018.0,spring,LCK,3,T1,Afreeca,1.0,42:26,OK,red,AFs,   VICTORY   ,92.8k,11,  10 ,  2 ,  2 ,  3 ,  0 ,Ryze,Vladimir,Sejuani,Camille,Jax
+2018.0,spring,LCK,3,T1,Afreeca,2.0,38:35,OK,blue,AFs,   VICTORY   ,80.0k,6,  11 ,  3 ,  2 ,  4 ,  1 ,Ryze,Vladimir,JarvanIV,TahmKench,Alistar
+2018.0,spring,LCK,3,T1,Afreeca,2.0,38:35,OK,red,SKT,   DEFEAT   ,66.7k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Braum,Gangplank,Jayce,Kalista,Varus
+2018.0,spring,LCK,4,ROX,GenG,1.0,33:31,OK,blue,ROX,   VICTORY   ,63.1k,13,  9 ,  1 ,  1 ,  1 ,  1 ,Ryze,Gangplank,Corki,Malzahar,Azir
+2018.0,spring,LCK,4,ROX,GenG,1.0,33:31,OK,red,KSV,   DEFEAT   ,53.9k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Kalista,KogMaw,Galio,TahmKench,Nidalee
+2018.0,spring,LCK,4,ROX,GenG,2.0,32:12,OK,blue,KSV,   VICTORY   ,61.6k,9,  8 ,  1 ,  2 ,  3 ,  0 ,KogMaw,Galio,Sejuani,TahmKench,Shen
+2018.0,spring,LCK,4,ROX,GenG,2.0,32:12,OK,red,ROX,   DEFEAT   ,53.1k,5,  4 ,  0 ,  0 ,  0 ,  1 ,Rengar,Jax,Ryze,Xayah,Varus
+2018.0,spring,LCK,4,ROX,GenG,3.0,32:55,OK,blue,ROX,   VICTORY   ,62.0k,13,  9 ,  1 ,  1 ,  1 ,  1 ,Gangplank,Ryze,Zoe,Tristana,Xayah
+2018.0,spring,LCK,4,ROX,GenG,3.0,32:55,OK,red,KSV,   DEFEAT   ,49.2k,1,  2 ,  0 ,  0 ,  2 ,  0 ,KogMaw,Galio,Sejuani,Shen,Alistar
+2018.0,spring,LCK,4,Kongdoo,Afreeca,1.0,51:20,OK,blue,KDM,   DEFEAT   ,86.0k,10,  3 ,  0 ,  0 ,  3 ,  0 ,Gangplank,Azir,Galio,Shen,Braum
+2018.0,spring,LCK,4,Kongdoo,Afreeca,1.0,51:20,OK,red,AFs,   VICTORY   ,103.7k,16,  11 ,  3 ,  3 ,  1 ,  1 ,Sejuani,Ryze,Zoe,KogMaw,Caitlyn
+2018.0,spring,LCK,4,Kongdoo,Afreeca,2.0,35:17,OK,blue,AFs,   VICTORY   ,76.5k,14,  11 ,  3 ,  1 ,  2 ,  0 ,Ryze,Zoe,Malzahar,Kalista,TahmKench
+2018.0,spring,LCK,4,Kongdoo,Afreeca,2.0,35:17,OK,red,KDM,   DEFEAT   ,56.6k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Galio,Azir,Alistar,Xayah
+2018.0,spring,LCK,4,bbq,T1,1.0,36:48,OK,blue,bbq,   DEFEAT   ,62.0k,5,  2 ,  0 ,  0 ,  1 ,  1 ,Ryze,Galio,Zoe,Khazix,Rengar
+2018.0,spring,LCK,4,bbq,T1,1.0,36:48,OK,red,SKT,   VICTORY   ,78.7k,13,  11 ,  4 ,  1 ,  3 ,  0 ,Alistar,Sejuani,Kassadin,Vladimir,Camille
+2018.0,spring,LCK,4,bbq,T1,2.0,1:14:02,OK,blue,SKT,   DEFEAT   ,139.6k,15,  6 ,  0 ,  1 ,  1 ,  0 ,Alistar,Sejuani,Galio,Taliyah,Malzahar
+2018.0,spring,LCK,4,bbq,T1,2.0,1:14:02,OK,red,bbq,   VICTORY   ,140.8k,14,  11 ,  16 ,  5 ,  7 ,  1 ,Ryze,Zoe,Gangplank,Kalista,Varus
+2018.0,spring,LCK,4,bbq,T1,3.0,31:17,OK,blue,bbq,   DEFEAT   ,51.9k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Ryze,Zoe,Galio,Khazix,TahmKench
+2018.0,spring,LCK,4,bbq,T1,3.0,31:17,OK,red,SKT,   VICTORY   ,60.4k,8,  7 ,  1 ,  0 ,  4 ,  1 ,Alistar,Gnar,Kalista,Vladimir,Varus
+2018.0,spring,LCK,4,KT,DragonX,1.0,32:05,OK,blue,KT,   DEFEAT   ,51.1k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Zoe,Jayce,Azir,Corki
+2018.0,spring,LCK,4,KT,DragonX,1.0,32:05,OK,red,KZ,   VICTORY   ,68.3k,12,  11 ,  4 ,  2 ,  3 ,  0 ,Kalista,Khazix,Varus,Rakan,TahmKench
+2018.0,spring,LCK,4,KT,DragonX,2.0,36:58,OK,blue,KZ,   VICTORY   ,74.0k,18,  10 ,  2 ,  1 ,  2 ,  0 ,Gangplank,Khazix,Sejuani,Gnar,JarvanIV
+2018.0,spring,LCK,4,KT,DragonX,2.0,36:58,OK,red,KT,   DEFEAT   ,59.9k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Ryze,Galio,Alistar,TahmKench,Shen
+2018.0,spring,LCK,4,Afreeca,MVP,1.0,35:25,OK,blue,AFs,   VICTORY   ,70.9k,11,  11 ,  6 ,  2 ,  2 ,  0 ,Khazix,TahmKench,Nidalee,Alistar,Ornn
+2018.0,spring,LCK,4,Afreeca,MVP,1.0,35:25,OK,red,MVP,   DEFEAT   ,60.8k,7,  1 ,  0 ,  0 ,  2 ,  1 ,Gnar,Gangplank,Zoe,Shen,Braum
+2018.0,spring,LCK,4,Afreeca,MVP,2.0,30:57,OK,blue,MVP,   DEFEAT   ,48.3k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Gnar,Zoe,Galio,Camille,Rengar
+2018.0,spring,LCK,4,Afreeca,MVP,2.0,30:57,OK,red,AFs,   VICTORY   ,64.9k,13,  9 ,  1 ,  2 ,  2 ,  1 ,Khazix,Sejuani,Skarner,Poppy,Nidalee
+2018.0,spring,LCK,4,Jin Air,ROX,1.0,35:53,OK,blue,JAG,   VICTORY   ,63.0k,16,  7 ,  1 ,  0 ,  0 ,  0 ,Gangplank,Azir,Sejuani,Alistar,Thresh
+2018.0,spring,LCK,4,Jin Air,ROX,1.0,35:53,OK,red,ROX,   DEFEAT   ,60.4k,2,  4 ,  0 ,  2 ,  3 ,  1 ,Zoe,Ryze,Gnar,KogMaw,Xayah
+2018.0,spring,LCK,4,Jin Air,ROX,2.0,49:54,OK,blue,ROX,   VICTORY   ,88.5k,12,  11 ,  4 ,  1 ,  3 ,  1 ,Gangplank,Malzahar,Ryze,Camille,Ornn
+2018.0,spring,LCK,4,Jin Air,ROX,2.0,49:54,OK,red,JAG,   DEFEAT   ,80.3k,6,  3 ,  0 ,  1 ,  2 ,  0 ,Galio,Kalista,Varus,TahmKench,Braum
+2018.0,spring,LCK,4,Jin Air,ROX,3.0,32:07,OK,blue,JAG,   DEFEAT   ,55.9k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Gangplank,Sejuani,Galio,Thresh,Illaoi
+2018.0,spring,LCK,4,Jin Air,ROX,3.0,32:07,OK,red,ROX,   VICTORY   ,63.9k,13,  11 ,  4 ,  2 ,  2 ,  1 ,Camille,Zoe,Gnar,Tristana,Ezreal
+2018.0,spring,LCK,4,Jin Air,DragonX,1.0,47:52,OK,blue,JAG,   DEFEAT   ,82.1k,3,  6 ,  1 ,  1 ,  1 ,  0 ,Azir,Sejuani,Khazix,Camille,Jayce
+2018.0,spring,LCK,4,Jin Air,DragonX,1.0,47:52,OK,red,KZ,   VICTORY   ,94.3k,6,  11 ,  3 ,  1 ,  3 ,  1 ,Taric,Kalista,Galio,Varus,Sivir
+2018.0,spring,LCK,4,Jin Air,DragonX,2.0,42:02,OK,blue,KZ,   VICTORY   ,84.7k,7,  11 ,  3 ,  1 ,  6 ,  0 ,Vladimir,Caitlyn,Kalista,Jax,Taric
+2018.0,spring,LCK,4,Jin Air,DragonX,2.0,42:02,OK,red,JAG,   DEFEAT   ,69.2k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Galio,Zoe,Sejuani,Varus,Braum
+2018.0,spring,LCK,4,bbq,MVP,1.0,40:24,OK,blue,bbq,   DEFEAT   ,71.8k,10,  5 ,  0 ,  1 ,  4 ,  0 ,Skarner,Gangplank,Corki,Sion,Braum
+2018.0,spring,LCK,4,bbq,MVP,1.0,40:24,OK,red,MVP,   VICTORY   ,74.1k,9,  7 ,  1 ,  1 ,  1 ,  0 ,Gnar,Zoe,Alistar,Camille,JarvanIV
+2018.0,spring,LCK,4,bbq,MVP,2.0,23:45,OK,blue,MVP,   VICTORY   ,48.0k,7,  9 ,  2 ,  1 ,  1 ,  0 ,Gnar,Alistar,Vladimir,KogMaw,Varus
+2018.0,spring,LCK,4,bbq,MVP,2.0,23:45,OK,red,bbq,   DEFEAT   ,34.4k,1,  0 ,  0 ,  0 ,  1 ,  1 ,Skarner,Sejuani,Gangplank,Taric,Braum
+2018.0,spring,LCK,4,T1,GenG,1.0,28:32,OK,blue,SKT,   VICTORY   ,60.4k,13,  11 ,  3 ,  1 ,  3 ,  0 ,Gnar,Ryze,Sejuani,Corki,Malzahar
+2018.0,spring,LCK,4,T1,GenG,1.0,28:32,OK,red,KSV,   DEFEAT   ,44.3k,1,  1 ,  0 ,  0 ,  0 ,  1 ,Gangplank,Zoe,Azir,TahmKench,Alistar
+2018.0,spring,LCK,4,T1,GenG,2.0,35:30,OK,blue,KSV,   DEFEAT   ,57.0k,3,  1 ,  0 ,  0 ,  3 ,  0 ,Vladimir,Ryze,Galio,TahmKench,Braum
+2018.0,spring,LCK,4,T1,GenG,2.0,35:30,OK,red,SKT,   VICTORY   ,70.9k,12,  11 ,  3 ,  2 ,  0 ,  1 ,Gnar,Gangplank,Varus,Camille,Kennen
+2018.0,spring,LCK,4,Kongdoo,KT,1.0,35:39,OK,blue,KDM,   DEFEAT   ,55.5k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Kalista,Azir,Jayce,Camille
+2018.0,spring,LCK,4,Kongdoo,KT,1.0,35:39,OK,red,KT,   VICTORY   ,72.4k,16,  11 ,  3 ,  1 ,  3 ,  1 ,Ryze,Galio,Zoe,Leblanc,Alistar
+2018.0,spring,LCK,4,Kongdoo,KT,2.0,35:17,OK,blue,KT,   VICTORY   ,70.6k,13,  9 ,  2 ,  1 ,  1 ,  0 ,Galio,Zoe,Kalista,Azir,Malzahar
+2018.0,spring,LCK,4,Kongdoo,KT,2.0,35:17,OK,red,KDM,   DEFEAT   ,56.1k,3,  2 ,  0 ,  0 ,  2 ,  1 ,Sejuani,Gangplank,Ezreal,JarvanIV,Jax
+2018.0,spring,LCK,5,T1,Kongdoo,1.0,30:36,OK,blue,SKT,   VICTORY   ,62.3k,15,  10 ,  2 ,  1 ,  3 ,  0 ,Gnar,Ryze,Gangplank,Corki,Zoe
+2018.0,spring,LCK,5,T1,Kongdoo,1.0,30:36,OK,red,KDM,   DEFEAT   ,46.9k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Vladimir,Camille,Khazix,JarvanIV,Rengar
+2018.0,spring,LCK,5,T1,Kongdoo,2.0,45:16,OK,blue,KDM,   VICTORY   ,88.0k,24,  11 ,  5 ,  3 ,  2 ,  0 ,Ezreal,Galio,Khazix,Trundle,Taric
+2018.0,spring,LCK,5,T1,Kongdoo,2.0,45:16,OK,red,SKT,   DEFEAT   ,76.9k,15,  3 ,  0 ,  0 ,  2 ,  0 ,Gnar,Gangplank,Ornn,TahmKench,Braum
+2018.0,spring,LCK,5,T1,Kongdoo,3.0,27:24,OK,blue,SKT,   VICTORY   ,55.9k,8,  11 ,  2 ,  1 ,  2 ,  0 ,Gnar,Ryze,Kalista,Alistar,Braum
+2018.0,spring,LCK,5,T1,Kongdoo,3.0,27:24,OK,red,KDM,   DEFEAT   ,42.9k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Galio,Khazix,Zac,Sejuani
+2018.0,spring,LCK,5,GenG,KT,1.0,44:36,OK,blue,KSV,   DEFEAT   ,72.9k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Galio,Ryze,JarvanIV,Nidalee
+2018.0,spring,LCK,5,GenG,KT,1.0,44:36,OK,red,KT,   VICTORY   ,83.2k,8,  11 ,  5 ,  2 ,  3 ,  1 ,Ezreal,Gangplank,Rakan,Alistar,Chogath
+2018.0,spring,LCK,5,GenG,KT,2.0,47:31,OK,blue,KT,   VICTORY   ,91.5k,14,  11 ,  3 ,  1 ,  4 ,  0 ,Kalista,Varus,Xayah,Alistar,Taric
+2018.0,spring,LCK,5,GenG,KT,2.0,47:31,OK,red,KSV,   DEFEAT   ,75.8k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Galio,Ezreal,Gangplank,Skarner,Gnar
+2018.0,spring,LCK,5,Afreeca,Jin Air,1.0,32:50,OK,blue,AFs,   DEFEAT   ,51.6k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Caitlyn,Khazix,Ryze,Ornn,Alistar
+2018.0,spring,LCK,5,Afreeca,Jin Air,1.0,32:50,OK,red,JAG,   VICTORY   ,68.4k,13,  11 ,  3 ,  2 ,  3 ,  0 ,Galio,Gangplank,Sejuani,Camille,Jax
+2018.0,spring,LCK,5,Afreeca,Jin Air,2.0,36:58,OK,blue,JAG,   VICTORY   ,73.9k,13,  11 ,  3 ,  2 ,  3 ,  1 ,Gangplank,Sejuani,Azir,Alistar,Braum
+2018.0,spring,LCK,5,Afreeca,Jin Air,2.0,36:58,OK,red,AFs,   DEFEAT   ,59.3k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Kalista,Skarner,Ryze,Taric,Xayah
+2018.0,spring,LCK,5,MVP,ROX,1.0,34:21,OK,blue,MVP,   DEFEAT   ,54.3k,3,  0 ,  0 ,  0 ,  1 ,  1 ,JarvanIV,Camille,Kalista,Alistar,Braum
+2018.0,spring,LCK,5,MVP,ROX,1.0,34:21,OK,red,ROX,   VICTORY   ,71.3k,13,  11 ,  3 ,  2 ,  2 ,  0 ,Sion,Zoe,Skarner,Vladimir,Gnar
+2018.0,spring,LCK,5,MVP,ROX,2.0,36:29,OK,blue,ROX,   VICTORY   ,74.5k,14,  11 ,  3 ,  1 ,  4 ,  1 ,Skarner,Sion,Malzahar,Ezreal,TahmKench
+2018.0,spring,LCK,5,MVP,ROX,2.0,36:29,OK,red,MVP,   DEFEAT   ,59.4k,7,  0 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Kalista,Vladimir,Camille,Sejuani
+2018.0,spring,LCK,5,bbq,DragonX,1.0,57:18,OK,blue,bbq,   VICTORY   ,106.9k,12,  11 ,  4 ,  3 ,  5 ,  1 ,Ryze,Taliyah,Galio,Braum,TahmKench
+2018.0,spring,LCK,5,bbq,DragonX,1.0,57:18,OK,red,KZ,   DEFEAT   ,101.8k,3,  6 ,  0 ,  1 ,  1 ,  0 ,Alistar,Varus,Blitzcrank,Vladimir,Gnar
+2018.0,spring,LCK,5,bbq,DragonX,2.0,29:08,OK,blue,KZ,   VICTORY   ,61.1k,6,  10 ,  2 ,  1 ,  3 ,  0 ,Skarner,Kalista,Gangplank,Braum,Taric
+2018.0,spring,LCK,5,bbq,DragonX,2.0,29:08,OK,red,bbq,   DEFEAT   ,43.6k,0,  0 ,  0 ,  0 ,  0 ,  1 ,Zoe,Galio,Ryze,Khazix,Gnar
+2018.0,spring,LCK,5,bbq,DragonX,3.0,1:02:13,OK,blue,bbq,   VICTORY   ,112.3k,8,  11 ,  5 ,  4 ,  4 ,  1 ,Galio,Ryze,Taliyah,Gangplank,Zac
+2018.0,spring,LCK,5,bbq,DragonX,3.0,1:02:13,OK,red,KZ,   DEFEAT   ,103.7k,9,  5 ,  0 ,  1 ,  3 ,  0 ,Skarner,Zoe,Azir,Camille,Braum
+2018.0,spring,LCK,5,Kongdoo,GenG,1.0,34:09,OK,blue,KDM,   DEFEAT   ,55.5k,10,  2 ,  0 ,  0 ,  0 ,  1 ,Gangplank,Kalista,Skarner,Caitlyn,Xayah
+2018.0,spring,LCK,5,Kongdoo,GenG,1.0,34:09,OK,red,KSV,   VICTORY   ,66.9k,13,  9 ,  1 ,  1 ,  2 ,  0 ,Zoe,Galio,Alistar,Zac,Khazix
+2018.0,spring,LCK,5,Kongdoo,GenG,2.0,37:11,OK,blue,KSV,   VICTORY   ,75.2k,13,  9 ,  1 ,  1 ,  2 ,  1 ,Galio,Zoe,Camille,Taliyah,Leblanc
+2018.0,spring,LCK,5,Kongdoo,GenG,2.0,37:11,OK,red,KDM,   DEFEAT   ,59.4k,9,  2 ,  0 ,  0 ,  2 ,  0 ,Gangplank,Ryze,Ezreal,Braum,Nidalee
+2018.0,spring,LCK,5,ROX,T1,1.0,33:01,OK,blue,ROX,   DEFEAT   ,53.0k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Ezreal,Galio,Ryze,Thresh,TahmKench
+2018.0,spring,LCK,5,ROX,T1,1.0,33:01,OK,red,SKT,   VICTORY   ,67.2k,16,  8 ,  1 ,  2 ,  2 ,  1 ,Gangplank,Zoe,Gnar,Vladimir,Ekko
+2018.0,spring,LCK,5,ROX,T1,2.0,28:14,OK,blue,SKT,   VICTORY   ,55.1k,10,  10 ,  2 ,  1 ,  2 ,  1 ,Kalista,Skarner,Gangplank,Kassadin,Leblanc
+2018.0,spring,LCK,5,ROX,T1,2.0,28:14,OK,red,ROX,   DEFEAT   ,43.3k,2,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,Galio,Ryze,Khazix,JarvanIV
+2018.0,spring,LCK,5,DragonX,Afreeca,1.0,44:42,OK,blue,KZ,   DEFEAT   ,82.3k,9,  5 ,  0 ,  1 ,  4 ,  1 ,Gangplank,Sejuani,Kalista,Taliyah,Azir
+2018.0,spring,LCK,5,DragonX,Afreeca,1.0,44:42,OK,red,AFs,   VICTORY   ,78.4k,9,  5 ,  1 ,  1 ,  1 ,  0 ,Galio,Zoe,Khazix,Alistar,TahmKench
+2018.0,spring,LCK,5,DragonX,Afreeca,2.0,43:56,OK,blue,AFs,   DEFEAT   ,75.4k,5,  4 ,  0 ,  1 ,  1 ,  1 ,Ryze,Khazix,Zac,Alistar,Jayce
+2018.0,spring,LCK,5,DragonX,Afreeca,2.0,43:56,OK,red,KZ,   VICTORY   ,90.1k,13,  9 ,  1 ,  2 ,  5 ,  0 ,Zoe,Skarner,Varus,Ornn,Taric
+2018.0,spring,LCK,5,DragonX,Afreeca,3.0,34:06,OK,blue,KZ,   VICTORY   ,69.3k,11,  11 ,  3 ,  2 ,  3 ,  1 ,Gangplank,Skarner,Ryze,Leblanc,Syndra
+2018.0,spring,LCK,5,DragonX,Afreeca,3.0,34:06,OK,red,AFs,   DEFEAT   ,53.8k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Galio,Sejuani,Khazix,Zac,Braum
+2018.0,spring,LCK,5,Jin Air,KT,1.0,41:57,OK,blue,JAG,   DEFEAT   ,71.2k,6,  5 ,  0 ,  1 ,  1 ,  1 ,Gangplank,Sejuani,Jax,Azir,Ryze
+2018.0,spring,LCK,5,Jin Air,KT,1.0,41:57,OK,red,KT,   VICTORY   ,84.1k,16,  11 ,  3 ,  2 ,  4 ,  0 ,Kalista,Galio,Ezreal,Taliyah,Sion
+2018.0,spring,LCK,5,Jin Air,KT,2.0,42:19,OK,blue,KT,   DEFEAT   ,70.4k,9,  4 ,  0 ,  0 ,  1 ,  0 ,Camille,Skarner,Khazix,Braum,Sejuani
+2018.0,spring,LCK,5,Jin Air,KT,2.0,42:19,OK,red,JAG,   VICTORY   ,84.0k,11,  9 ,  1 ,  2 ,  4 ,  0 ,Ryze,Galio,Azir,Alistar,JarvanIV
+2018.0,spring,LCK,5,Jin Air,KT,3.0,32:16,OK,blue,JAG,   DEFEAT   ,50.8k,1,  2 ,  0 ,  0 ,  1 ,  1 ,Gangplank,Sejuani,Xayah,JarvanIV,Zac
+2018.0,spring,LCK,5,Jin Air,KT,3.0,32:16,OK,red,KT,   VICTORY   ,63.3k,11,  9 ,  1 ,  2 ,  3 ,  0 ,Galio,Kalista,Ezreal,KogMaw,Gnar
+2018.0,spring,LCK,5,MVP,bbq,1.0,35:06,OK,blue,MVP,   VICTORY   ,72.8k,7,  11 ,  3 ,  2 ,  4 ,  1 ,Alistar,Gnar,Vladimir,Camille,Braum
+2018.0,spring,LCK,5,MVP,bbq,1.0,35:06,OK,red,bbq,   DEFEAT   ,57.4k,0,  0 ,  0 ,  0 ,  0 ,  0 ,Xayah,Zoe,Varus,Sejuani,Jax
+2018.0,spring,LCK,5,MVP,bbq,2.0,39:28,OK,blue,bbq,   DEFEAT   ,63.7k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Gangplank,Sion,Varus,Zac,Vladimir
+2018.0,spring,LCK,5,MVP,bbq,2.0,39:28,OK,red,MVP,   VICTORY   ,78.7k,9,  10 ,  2 ,  2 ,  5 ,  0 ,Alistar,Zoe,Kalista,Gnar,Leona
+2018.0,spring,LCK,6,Afreeca,GenG,1.0,39:44,OK,blue,AFs,   VICTORY   ,75.3k,10,  8 ,  1 ,  2 ,  2 ,  1 ,Varus,Xayah,Azir,Gnar,Taric
+2018.0,spring,LCK,6,Afreeca,GenG,1.0,39:44,OK,red,KSV,   DEFEAT   ,66.0k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Galio,Gangplank,Skarner,Camille,Thresh
+2018.0,spring,LCK,6,Afreeca,GenG,2.0,32:10,OK,blue,KSV,   DEFEAT   ,50.3k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Galio,Gangplank,Camille,Sion,Alistar
+2018.0,spring,LCK,6,Afreeca,GenG,2.0,32:10,OK,red,AFs,   VICTORY   ,69.1k,10,  10 ,  2 ,  2 ,  4 ,  1 ,Varus,Azir,Gnar,Chogath,Ornn
+2018.0,spring,LCK,6,KT,ROX,1.0,30:39,OK,blue,KT,   DEFEAT   ,48.2k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Xayah,Galio,Alistar,Taric
+2018.0,spring,LCK,6,KT,ROX,1.0,30:39,OK,red,ROX,   VICTORY   ,60.9k,9,  10 ,  2 ,  1 ,  4 ,  1 ,Skarner,Ryze,Gangplank,Malzahar,Taliyah
+2018.0,spring,LCK,6,KT,ROX,2.0,29:28,OK,blue,ROX,   VICTORY   ,60.8k,15,  11 ,  3 ,  1 ,  1 ,  0 ,Xayah,Galio,Ryze,Braum,Alistar
+2018.0,spring,LCK,6,KT,ROX,2.0,29:28,OK,red,KT,   DEFEAT   ,46.1k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Kalista,Gangplank,Skarner,Taric,TahmKench
+2018.0,spring,LCK,6,Jin Air,bbq,1.0,50:59,OK,blue,JAG,   DEFEAT   ,88.8k,11,  8 ,  3 ,  1 ,  3 ,  0 ,Azir,Sejuani,Gangplank,Braum,Alistar
+2018.0,spring,LCK,6,Jin Air,bbq,1.0,50:59,OK,red,bbq,   VICTORY   ,92.3k,18,  10 ,  1 ,  2 ,  1 ,  1 ,Galio,Skarner,Kalista,Zac,Gnar
+2018.0,spring,LCK,6,Jin Air,bbq,2.0,1:00:19,OK,blue,bbq,   VICTORY   ,110.0k,21,  10 ,  4 ,  3 ,  4 ,  0 ,Gangplank,Varus,Galio,Gnar,Trundle
+2018.0,spring,LCK,6,Jin Air,bbq,2.0,1:00:19,OK,red,JAG,   DEFEAT   ,99.6k,9,  5 ,  0 ,  1 ,  2 ,  1 ,Alistar,Kalista,Skarner,Azir,Zoe
+2018.0,spring,LCK,6,DragonX,MVP,1.0,39:01,OK,blue,KZ,   VICTORY   ,77.4k,14,  9 ,  1 ,  2 ,  1 ,  1 ,Gangplank,Skarner,Varus,Ornn,Gnar
+2018.0,spring,LCK,6,DragonX,MVP,1.0,39:01,OK,red,MVP,   DEFEAT   ,64.4k,8,  3 ,  0 ,  0 ,  4 ,  0 ,Kalista,Ryze,Taliyah,Alistar,Braum
+2018.0,spring,LCK,6,DragonX,MVP,2.0,25:32,OK,blue,MVP,   DEFEAT   ,40.2k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Ryze,Vladimir,Malzahar,Braum
+2018.0,spring,LCK,6,DragonX,MVP,2.0,25:32,OK,red,KZ,   VICTORY   ,56.5k,25,  9 ,  2 ,  1 ,  2 ,  1 ,Kalista,Galio,Xayah,Sejuani,Zac
+2018.0,spring,LCK,6,Afreeca,T1,1.0,35:59,OK,blue,AFs,   VICTORY   ,70.0k,13,  8 ,  1 ,  2 ,  2 ,  0 ,Varus,Ryze,Azir,Alistar,Braum
+2018.0,spring,LCK,6,Afreeca,T1,1.0,35:59,OK,red,SKT,   DEFEAT   ,58.1k,0,  1 ,  0 ,  0 ,  2 ,  1 ,Gangplank,Camille,Sejuani,JarvanIV,Gnar
+2018.0,spring,LCK,6,Afreeca,T1,2.0,44:03,OK,blue,SKT,   VICTORY   ,84.2k,13,  9 ,  2 ,  1 ,  3 ,  1 ,Gangplank,Skarner,Taliyah,Chogath,TahmKench
+2018.0,spring,LCK,6,Afreeca,T1,2.0,44:03,OK,red,AFs,   DEFEAT   ,71.5k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Azir,Ryze,Camille,Taric,Gnar
+2018.0,spring,LCK,6,Afreeca,T1,3.0,39:00,OK,blue,AFs,   VICTORY   ,77.3k,13,  11 ,  3 ,  2 ,  5 ,  0 ,Varus,Ryze,Azir,Leblanc,Orianna
+2018.0,spring,LCK,6,Afreeca,T1,3.0,39:00,OK,red,SKT,   DEFEAT   ,65.1k,5,  4 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Galio,Zoe,Thresh,TahmKench
+2018.0,spring,LCK,6,KT,Kongdoo,1.0,26:20,OK,blue,KT,   VICTORY   ,55.4k,10,  9 ,  2 ,  1 ,  2 ,  1 ,Zoe,Galio,Skarner,JarvanIV,Sion
+2018.0,spring,LCK,6,KT,Kongdoo,1.0,26:20,OK,red,KDM,   DEFEAT   ,37.7k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Kalista,Ryze,Alistar,Braum
+2018.0,spring,LCK,6,KT,Kongdoo,2.0,31:42,OK,blue,KDM,   DEFEAT   ,47.0k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Ezreal,Xayah,Alistar,Braum
+2018.0,spring,LCK,6,KT,Kongdoo,2.0,31:42,OK,red,KT,   VICTORY   ,65.6k,17,  10 ,  2 ,  1 ,  4 ,  1 ,Galio,Ryze,Zoe,TahmKench,Sion
+2018.0,spring,LCK,6,Kongdoo,DragonX,1.0,29:38,OK,blue,KDM,   DEFEAT   ,46.0k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Galio,Gangplank,TahmKench,Sejuani,JarvanIV
+2018.0,spring,LCK,6,Kongdoo,DragonX,1.0,29:38,OK,red,KZ,   VICTORY   ,60.3k,9,  9 ,  1 ,  1 ,  2 ,  1 ,Kalista,Zoe,Xayah,Braum,Shen
+2018.0,spring,LCK,6,Kongdoo,DragonX,2.0,45:18,OK,blue,KZ,   VICTORY   ,91.4k,8,  11 ,  2 ,  2 ,  5 ,  1 ,Zoe,Varus,Gangplank,Syndra,Taliyah
+2018.0,spring,LCK,6,Kongdoo,DragonX,2.0,45:18,OK,red,KDM,   DEFEAT   ,74.4k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Galio,Azir,Kalista,Zac,Camille
+2018.0,spring,LCK,6,ROX,bbq,1.0,29:39,OK,blue,ROX,   VICTORY   ,57.2k,7,  9 ,  1 ,  1 ,  3 ,  1 ,Zac,Xayah,Galio,Braum,Thresh
+2018.0,spring,LCK,6,ROX,bbq,1.0,29:39,OK,red,bbq,   DEFEAT   ,45.5k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Skarner,Gangplank,Sejuani,Nidalee
+2018.0,spring,LCK,6,ROX,bbq,2.0,39:56,OK,blue,bbq,   DEFEAT   ,66.1k,8,  3 ,  0 ,  0 ,  0 ,  1 ,Olaf,TahmKench,Gangplank,Taliyah,Gnar
+2018.0,spring,LCK,6,ROX,bbq,2.0,39:56,OK,red,ROX,   VICTORY   ,77.5k,12,  9 ,  1 ,  2 ,  4 ,  0 ,Zac,Zoe,Galio,Syndra,Ryze
+2018.0,spring,LCK,6,T1,Jin Air,1.0,37:12,OK,blue,SKT,   VICTORY   ,71.0k,11,  11 ,  4 ,  1 ,  3 ,  1 ,Skarner,Gangplank,Gnar,Cassiopeia,Taliyah
+2018.0,spring,LCK,6,T1,Jin Air,1.0,37:12,OK,red,JAG,   DEFEAT   ,62.4k,13,  0 ,  0 ,  0 ,  1 ,  0 ,Galio,Kalista,Azir,TahmKench,Taric
+2018.0,spring,LCK,6,T1,Jin Air,2.0,50:23,OK,blue,JAG,   VICTORY   ,93.2k,14,  9 ,  1 ,  2 ,  1 ,  1 ,Azir,Varus,Gangplank,Sejuani,JarvanIV
+2018.0,spring,LCK,6,T1,Jin Air,2.0,50:23,OK,red,SKT,   DEFEAT   ,87.9k,6,  4 ,  0 ,  1 ,  4 ,  0 ,Skarner,Galio,Kalista,Jayce,Sion
+2018.0,spring,LCK,6,T1,Jin Air,3.0,38:41,OK,blue,SKT,   VICTORY   ,78.1k,13,  11 ,  3 ,  2 ,  4 ,  1 ,Skarner,Gangplank,Kalista,Gnar,Trundle
+2018.0,spring,LCK,6,T1,Jin Air,3.0,38:41,OK,red,JAG,   DEFEAT   ,57.9k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Galio,Azir,Ryze,JarvanIV,Jax
+2018.0,spring,LCK,6,GenG,MVP,1.0,41:13,OK,blue,KSV,   DEFEAT   ,70.1k,11,  4 ,  0 ,  0 ,  1 ,  0 ,Sion,Gangplank,Zoe,Poppy,Zac
+2018.0,spring,LCK,6,GenG,MVP,1.0,41:13,OK,red,MVP,   VICTORY   ,84.7k,15,  9 ,  1 ,  2 ,  3 ,  0 ,Kalista,Gnar,Varus,Camille,Khazix
+2018.0,spring,LCK,6,GenG,MVP,2.0,39:57,OK,blue,MVP,   DEFEAT   ,68.2k,9,  3 ,  0 ,  0 ,  1 ,  0 ,Gnar,Ryze,Varus,Ornn,Trundle
+2018.0,spring,LCK,6,GenG,MVP,2.0,39:57,OK,red,KSV,   VICTORY   ,81.6k,13,  10 ,  1 ,  2 ,  3 ,  0 ,Galio,Gangplank,Kalista,Zoe,Corki
+2018.0,spring,LCK,6,GenG,MVP,3.0,27:37,OK,blue,KSV,   DEFEAT   ,42.4k,1,  2 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Corki,Swain,Poppy,Sion
+2018.0,spring,LCK,6,GenG,MVP,3.0,27:37,OK,red,MVP,   VICTORY   ,57.8k,18,  10 ,  2 ,  1 ,  3 ,  1 ,Gnar,Varus,Kalista,Braum,Alistar
+2018.0,spring,LCK,7,T1,DragonX,1.0,31:16,OK,blue,SKT,   DEFEAT   ,48.4k,4,  1 ,  0 ,  0 ,  2 ,  1 ,Skarner,Taliyah,Khazix,Cassiopeia,TahmKench
+2018.0,spring,LCK,7,T1,DragonX,1.0,31:16,OK,red,KZ,   VICTORY   ,59.1k,15,  7 ,  1 ,  1 ,  2 ,  0 ,Galio,Xayah,Tristana,Alistar,Braum
+2018.0,spring,LCK,7,T1,DragonX,2.0,26:21,OK,blue,KZ,   VICTORY   ,56.2k,20,  11 ,  3 ,  1 ,  2 ,  1 ,Tristana,Varus,Sejuani,TahmKench,Trundle
+2018.0,spring,LCK,7,T1,DragonX,2.0,26:21,OK,red,SKT,   DEFEAT   ,39.7k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Skarner,Taliyah,Jayce,JarvanIV,Khazix
+2018.0,spring,LCK,7,ROX,MVP,1.0,41:11,OK,blue,ROX,   DEFEAT   ,76.3k,16,  8 ,  0 ,  2 ,  3 ,  1 ,Swain,Skarner,Sion,Chogath,Gnar
+2018.0,spring,LCK,7,ROX,MVP,1.0,41:11,OK,red,MVP,   VICTORY   ,75.7k,16,  7 ,  1 ,  1 ,  2 ,  0 ,Varus,Ryze,Gangplank,Xayah,Caitlyn
+2018.0,spring,LCK,7,ROX,MVP,2.0,43:44,OK,blue,MVP,   VICTORY   ,84.2k,18,  11 ,  6 ,  2 ,  4 ,  0 ,Varus,Camille,Taliyah,Gangplank,Illaoi
+2018.0,spring,LCK,7,ROX,MVP,2.0,43:44,OK,red,ROX,   DEFEAT   ,73.1k,5,  4 ,  0 ,  1 ,  2 ,  0 ,Sion,Skarner,Swain,Janna,Gnar
+2018.0,spring,LCK,7,Jin Air,Kongdoo,1.0,28:10,OK,blue,JAG,   VICTORY   ,53.6k,9,  9 ,  2 ,  1 ,  4 ,  1 ,Varus,Zac,Sejuani,Alistar,Taliyah
+2018.0,spring,LCK,7,Jin Air,Kongdoo,1.0,28:10,OK,red,KDM,   DEFEAT   ,42.7k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Galio,Ryze,Xayah,Gnar,Braum
+2018.0,spring,LCK,7,Jin Air,Kongdoo,2.0,28:36,OK,blue,KDM,   DEFEAT   ,43.2k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Caitlyn,Galio,Alistar,Taric
+2018.0,spring,LCK,7,Jin Air,Kongdoo,2.0,28:36,OK,red,JAG,   VICTORY   ,60.8k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Varus,Khazix,Azir,Cassiopeia,Taliyah
+2018.0,spring,LCK,7,bbq,GenG,1.0,45:35,OK,blue,bbq,   DEFEAT   ,81.5k,24,  6 ,  1 ,  1 ,  0 ,  1 ,Varus,Ryze,Azir,Taliyah,Corki
+2018.0,spring,LCK,7,bbq,GenG,1.0,45:35,OK,red,KSV,   VICTORY   ,78.0k,13,  6 ,  1 ,  0 ,  4 ,  0 ,Skarner,Caitlyn,Rakan,Thresh,Alistar
+2018.0,spring,LCK,7,bbq,GenG,2.0,35:48,OK,blue,KSV,   VICTORY   ,67.0k,10,  9 ,  2 ,  2 ,  3 ,  1 ,Skarner,Caitlyn,Rakan,Gnar,Corki
+2018.0,spring,LCK,7,bbq,GenG,2.0,35:48,OK,red,bbq,   DEFEAT   ,59.4k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Ryze,Galio,Varus,Taliyah,Sion
+2018.0,spring,LCK,7,T1,KT,1.0,38:43,OK,blue,SKT,   DEFEAT   ,59.9k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Sion,Xayah,Thresh,Trundle,Camille
+2018.0,spring,LCK,7,T1,KT,1.0,38:43,OK,red,KT,   VICTORY   ,70.1k,7,  11 ,  2 ,  1 ,  3 ,  0 ,Galio,Tristana,Skarner,TahmKench,Braum
+2018.0,spring,LCK,7,T1,KT,2.0,38:37,OK,blue,KT,   VICTORY   ,74.7k,15,  10 ,  2 ,  1 ,  2 ,  0 ,Ezreal,Sion,Tristana,Chogath,Fiora
+2018.0,spring,LCK,7,T1,KT,2.0,38:37,OK,red,SKT,   DEFEAT   ,62.0k,2,  2 ,  0 ,  0 ,  3 ,  0 ,Galio,Xayah,Taliyah,Gnar,Gangplank
+2018.0,spring,LCK,7,Afreeca,ROX,1.0,37:38,OK,blue,AFs,   VICTORY   ,75.2k,12,  11 ,  5 ,  3 ,  2 ,  1 ,Olaf,Azir,Ryze,Camille,Vladimir
+2018.0,spring,LCK,7,Afreeca,ROX,1.0,37:38,OK,red,ROX,   DEFEAT   ,61.7k,3,  1 ,  0 ,  0 ,  2 ,  0 ,Gangplank,Galio,Skarner,JarvanIV,Zac
+2018.0,spring,LCK,7,Afreeca,ROX,2.0,33:46,OK,blue,ROX,   DEFEAT   ,53.6k,8,  3 ,  0 ,  0 ,  1 ,  0 ,Gangplank,Skarner,Ryze,Ornn,Shen
+2018.0,spring,LCK,7,Afreeca,ROX,2.0,33:46,OK,red,AFs,   VICTORY   ,70.5k,22,  11 ,  5 ,  2 ,  1 ,  0 ,Galio,Olaf,Azir,Camille,Vladimir
+2018.0,spring,LCK,7,MVP,Jin Air,1.0,39:08,OK,blue,MVP,   DEFEAT   ,67.1k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,Olaf,Xayah,Braum,Vladimir
+2018.0,spring,LCK,7,MVP,Jin Air,1.0,39:08,OK,red,JAG,   VICTORY   ,83.5k,15,  11 ,  4 ,  2 ,  5 ,  1 ,Sion,Skarner,Varus,Ryze,Corki
+2018.0,spring,LCK,7,MVP,Jin Air,2.0,48:04,OK,blue,JAG,   DEFEAT   ,77.0k,10,  2 ,  0 ,  0 ,  1 ,  0 ,Sion,Sejuani,Corki,Ornn,Swain
+2018.0,spring,LCK,7,MVP,Jin Air,2.0,48:04,OK,red,MVP,   VICTORY   ,89.8k,18,  11 ,  4 ,  4 ,  4 ,  1 ,Gangplank,Xayah,Olaf,Camille,Gnar
+2018.0,spring,LCK,7,MVP,Jin Air,3.0,39:47,OK,blue,MVP,   DEFEAT   ,68.1k,3,  4 ,  0 ,  0 ,  0 ,  1 ,Olaf,Xayah,Gnar,Galio,Braum
+2018.0,spring,LCK,7,MVP,Jin Air,3.0,39:47,OK,red,JAG,   VICTORY   ,79.2k,14,  11 ,  4 ,  2 ,  5 ,  0 ,Sion,Skarner,Zac,Tristana,Ezreal
+2018.0,spring,LCK,7,KT,GenG,1.0,33:42,OK,blue,KT,   VICTORY   ,66.4k,11,  11 ,  3 ,  2 ,  2 ,  1 ,Tristana,Sejuani,Sion,Taliyah,Camille
+2018.0,spring,LCK,7,KT,GenG,1.0,33:42,OK,red,KSV,   DEFEAT   ,55.3k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Galio,Caitlyn,Gnar,TahmKench,Alistar
+2018.0,spring,LCK,7,KT,GenG,2.0,43:58,OK,blue,KSV,   VICTORY   ,77.3k,11,  9 ,  2 ,  0 ,  2 ,  1 ,Galio,Caitlyn,Xayah,Ezreal,KogMaw
+2018.0,spring,LCK,7,KT,GenG,2.0,43:58,OK,red,KT,   DEFEAT   ,75.0k,8,  3 ,  0 ,  1 ,  3 ,  0 ,Tristana,Sion,Ryze,Fiora,TahmKench
+2018.0,spring,LCK,7,KT,GenG,3.0,36:04,OK,blue,KT,   DEFEAT   ,60.5k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Tristana,Sion,Ezreal,Alistar,Azir
+2018.0,spring,LCK,7,KT,GenG,3.0,36:04,OK,red,KSV,   VICTORY   ,72.2k,11,  11 ,  3 ,  2 ,  3 ,  0 ,Galio,Caitlyn,Ryze,Gnar,Fiora
+2018.0,spring,LCK,7,Afreeca,Kongdoo,1.0,27:32,OK,blue,AFs,   VICTORY   ,56.1k,10,  7 ,  1 ,  1 ,  2 ,  1 ,Varus,Ryze,Olaf,Camille,Vladimir
+2018.0,spring,LCK,7,Afreeca,Kongdoo,1.0,27:32,OK,red,KDM,   DEFEAT   ,40.8k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Galio,Skarner,Alistar,Kassadin
+2018.0,spring,LCK,7,Afreeca,Kongdoo,2.0,40:45,OK,blue,KDM,   DEFEAT   ,69.8k,9,  4 ,  0 ,  1 ,  1 ,  0 ,Rakan,Galio,Sion,Gangplank,Braum
+2018.0,spring,LCK,7,Afreeca,Kongdoo,2.0,40:45,OK,red,AFs,   VICTORY   ,80.8k,15,  11 ,  2 ,  1 ,  3 ,  0 ,Varus,Zac,Azir,Kalista,Alistar
+2018.0,spring,LCK,7,DragonX,bbq,1.0,31:24,OK,blue,KZ,   VICTORY   ,62.5k,10,  11 ,  3 ,  1 ,  1 ,  0 ,Rakan,Skarner,Olaf,Khazix,Zac
+2018.0,spring,LCK,7,DragonX,bbq,1.0,31:24,OK,red,bbq,   DEFEAT   ,50.9k,6,  1 ,  0 ,  0 ,  2 ,  1 ,Galio,Sion,Varus,Camille,Jayce
+2018.0,spring,LCK,7,DragonX,bbq,2.0,25:37,OK,blue,bbq,   DEFEAT   ,39.6k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Sion,Azir,Sejuani,Khazix,Jax
+2018.0,spring,LCK,7,DragonX,bbq,2.0,25:37,OK,red,KZ,   VICTORY   ,53.4k,13,  10 ,  2 ,  1 ,  3 ,  1 ,Rakan,KogMaw,Kalista,Fiora,Chogath
+2018.0,spring,LCK,8,ROX,DragonX,1.0,1:02:09,OK,blue,ROX,   DEFEAT   ,110.4k,24,  4 ,  0 ,  1 ,  5 ,  1 ,Olaf,Jayce,Camille,Ezreal,Xayah
+2018.0,spring,LCK,8,ROX,DragonX,1.0,1:02:09,OK,red,KZ,   VICTORY   ,117.8k,21,  11 ,  9 ,  4 ,  3 ,  0 ,Sion,Galio,Varus,Kalista,Braum
+2018.0,spring,LCK,8,ROX,DragonX,2.0,34:33,OK,blue,KZ,   DEFEAT   ,62.5k,17,  4 ,  0 ,  1 ,  2 ,  0 ,Sejuani,Varus,Kalista,Jax,JarvanIV
+2018.0,spring,LCK,8,ROX,DragonX,2.0,34:33,OK,red,ROX,   VICTORY   ,64.4k,22,  9 ,  4 ,  1 ,  1 ,  1 ,Olaf,Skarner,Galio,Gangplank,Camille
+2018.0,spring,LCK,8,ROX,DragonX,3.0,34:42,OK,blue,ROX,   DEFEAT   ,53.6k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Olaf,Azir,Galio,Gangplank,Jayce
+2018.0,spring,LCK,8,ROX,DragonX,3.0,34:42,OK,red,KZ,   VICTORY   ,65.2k,17,  8 ,  1 ,  1 ,  3 ,  0 ,Rakan,Sejuani,KogMaw,Syndra,Taliyah
+2018.0,spring,LCK,8,GenG,Jin Air,1.0,43:08,OK,blue,KSV,   VICTORY   ,85.0k,8,  11 ,  4 ,  2 ,  4 ,  1 ,Galio,Caitlyn,Olaf,Leona,Alistar
+2018.0,spring,LCK,8,GenG,Jin Air,1.0,43:08,OK,red,JAG,   DEFEAT   ,69.3k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Varus,Sejuani,Zac,Ryze,Velkoz
+2018.0,spring,LCK,8,GenG,Jin Air,2.0,37:34,OK,blue,JAG,   VICTORY   ,74.7k,15,  11 ,  3 ,  1 ,  4 ,  0 ,Varus,Sejuani,Zac,Skarner,Khazix
+2018.0,spring,LCK,8,GenG,Jin Air,2.0,37:34,OK,red,KSV,   DEFEAT   ,62.5k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Galio,Caitlyn,Taliyah,Leona,Alistar
+2018.0,spring,LCK,8,GenG,Jin Air,3.0,36:39,OK,blue,KSV,   VICTORY   ,74.9k,14,  10 ,  2 ,  1 ,  4 ,  0 ,Galio,Olaf,Azir,Thresh,Leona
+2018.0,spring,LCK,8,GenG,Jin Air,3.0,36:39,OK,red,JAG,   DEFEAT   ,58.4k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Varus,Skarner,Sejuani,Cassiopeia,Taliyah
+2018.0,spring,LCK,8,MVP,Kongdoo,1.0,48:21,OK,blue,MVP,   VICTORY   ,86.9k,10,  8 ,  1 ,  1 ,  3 ,  1 ,Varus,Taliyah,Gnar,Braum,Thresh
+2018.0,spring,LCK,8,MVP,Kongdoo,1.0,48:21,OK,red,KDM,   DEFEAT   ,86.7k,14,  8 ,  1 ,  3 ,  2 ,  0 ,Sion,Zac,Olaf,TahmKench,Gangplank
+2018.0,spring,LCK,8,MVP,Kongdoo,2.0,52:06,OK,blue,KDM,   VICTORY   ,93.6k,15,  11 ,  6 ,  2 ,  4 ,  0 ,Sion,Zac,Azir,Galio,Chogath
+2018.0,spring,LCK,8,MVP,Kongdoo,2.0,52:06,OK,red,MVP,   DEFEAT   ,85.3k,10,  4 ,  1 ,  2 ,  1 ,  1 ,Varus,Ryze,Olaf,Gangplank,Camille
+2018.0,spring,LCK,8,MVP,Kongdoo,3.0,38:33,OK,blue,MVP,   VICTORY   ,77.3k,11,  10 ,  1 ,  1 ,  3 ,  0 ,Varus,Taliyah,Ryze,Gnar,Cassiopeia
+2018.0,spring,LCK,8,MVP,Kongdoo,3.0,38:33,OK,red,KDM,   DEFEAT   ,60.9k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Sion,Zac,Azir,Galio,Corki
+2018.0,spring,LCK,8,T1,bbq,1.0,37:54,OK,blue,SKT,   DEFEAT   ,61.8k,0,  3 ,  0 ,  0 ,  3 ,  0 ,Sion,Xayah,Olaf,Corki,Taliyah
+2018.0,spring,LCK,8,T1,bbq,1.0,37:54,OK,red,bbq,   VICTORY   ,72.9k,13,  9 ,  1 ,  2 ,  2 ,  1 ,Ryze,Galio,Varus,TahmKench,Braum
+2018.0,spring,LCK,8,T1,bbq,2.0,54:32,OK,blue,bbq,   DEFEAT   ,94.6k,5,  9 ,  3 ,  3 ,  3 ,  1 ,Ryze,Sion,Zac,TahmKench,Thresh
+2018.0,spring,LCK,8,T1,bbq,2.0,54:32,OK,red,SKT,   VICTORY   ,104.5k,16,  10 ,  3 ,  1 ,  3 ,  0 ,Galio,Olaf,Camille,Varus,Kalista
+2018.0,spring,LCK,8,T1,bbq,3.0,37:14,OK,blue,SKT,   DEFEAT   ,58.9k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Camille,Sion,Xayah,Chogath,Thresh
+2018.0,spring,LCK,8,T1,bbq,3.0,37:14,OK,red,bbq,   VICTORY   ,69.9k,11,  11 ,  4 ,  2 ,  4 ,  1 ,Ryze,Galio,Varus,TahmKench,Gangplank
+2018.0,spring,LCK,8,Jin Air,Afreeca,1.0,29:19,OK,blue,JAG,   DEFEAT   ,45.3k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Sion,Rakan,Sejuani,Gangplank,Alistar
+2018.0,spring,LCK,8,Jin Air,Afreeca,1.0,29:19,OK,red,AFs,   VICTORY   ,59.8k,6,  11 ,  4 ,  1 ,  4 ,  1 ,Olaf,Varus,Chogath,Thresh,Azir
+2018.0,spring,LCK,8,Jin Air,Afreeca,2.0,36:44,OK,blue,AFs,   DEFEAT   ,62.2k,8,  2 ,  0 ,  0 ,  1 ,  1 ,Azir,Caitlyn,Varus,Vladimir,Sion
+2018.0,spring,LCK,8,Jin Air,Afreeca,2.0,36:44,OK,red,JAG,   VICTORY   ,77.0k,17,  11 ,  3 ,  2 ,  3 ,  0 ,Zac,Sejuani,Olaf,Camille,JarvanIV
+2018.0,spring,LCK,8,Jin Air,Afreeca,3.0,23:07,OK,blue,JAG,   DEFEAT   ,35.1k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Sion,Sejuani,Rakan,Azir,Taliyah
+2018.0,spring,LCK,8,Jin Air,Afreeca,3.0,23:07,OK,red,AFs,   VICTORY   ,50.7k,12,  8 ,  1 ,  1 ,  2 ,  1 ,Olaf,Varus,Caitlyn,Vladimir,JarvanIV
+2018.0,spring,LCK,8,DragonX,KT,1.0,31:33,OK,blue,KZ,   VICTORY   ,66.7k,8,  11 ,  4 ,  2 ,  3 ,  0 ,Ryze,Taliyah,Kassadin,Rumble,Sejuani
+2018.0,spring,LCK,8,DragonX,KT,1.0,31:33,OK,red,KT,   DEFEAT   ,49.9k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,Galio,Sion,Leblanc,Ekko
+2018.0,spring,LCK,8,DragonX,KT,2.0,31:18,OK,blue,KT,   DEFEAT   ,48.5k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Galio,Azir,Skarner,Gangplank
+2018.0,spring,LCK,8,DragonX,KT,2.0,31:18,OK,red,KZ,   VICTORY   ,61.9k,14,  9 ,  2 ,  1 ,  2 ,  0 ,Rakan,Varus,Tristana,Camille,Jayce
+2018.0,spring,LCK,8,MVP,Afreeca,1.0,40:38,OK,blue,MVP,   DEFEAT   ,72.6k,9,  3 ,  0 ,  0 ,  1 ,  0 ,Gangplank,Taliyah,Olaf,Camille,Gnar
+2018.0,spring,LCK,8,MVP,Afreeca,1.0,40:38,OK,red,AFs,   VICTORY   ,82.5k,16,  10 ,  3 ,  3 ,  4 ,  1 ,Sejuani,Zac,Skarner,Ornn,Sion
+2018.0,spring,LCK,8,MVP,Afreeca,2.0,33:43,OK,blue,AFs,   VICTORY   ,65.5k,8,  9 ,  1 ,  1 ,  4 ,  0 ,Gangplank,Zac,Skarner,Ornn,Chogath
+2018.0,spring,LCK,8,MVP,Afreeca,2.0,33:43,OK,red,MVP,   DEFEAT   ,54.2k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Sion,Sejuani,Gnar,Fiora
+2018.0,spring,LCK,8,bbq,KT,1.0,40:32,OK,blue,bbq,   VICTORY   ,79.0k,12,  10 ,  2 ,  2 ,  3 ,  1 ,Ryze,Taliyah,Sion,Gangplank,Corki
+2018.0,spring,LCK,8,bbq,KT,1.0,40:32,OK,red,KT,   DEFEAT   ,63.1k,3,  1 ,  0 ,  0 ,  2 ,  0 ,Tristana,Azir,Skarner,Leona,Alistar
+2018.0,spring,LCK,8,bbq,KT,2.0,40:04,OK,blue,KT,   VICTORY   ,80.7k,15,  11 ,  4 ,  0 ,  4 ,  0 ,Skarner,Galio,Tristana,Xayah,Alistar
+2018.0,spring,LCK,8,bbq,KT,2.0,40:04,OK,red,bbq,   DEFEAT   ,65.5k,6,  1 ,  0 ,  1 ,  0 ,  1 ,Ryze,Taliyah,Sion,TahmKench,Zac
+2018.0,spring,LCK,8,bbq,KT,3.0,30:18,OK,blue,bbq,   DEFEAT   ,46.5k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Sion,Gangplank,Xayah,Alistar
+2018.0,spring,LCK,8,bbq,KT,3.0,30:18,OK,red,KT,   VICTORY   ,64.9k,14,  11 ,  2 ,  1 ,  3 ,  1 ,Skarner,Olaf,Galio,TahmKench,Braum
+2018.0,spring,LCK,8,GenG,T1,1.0,36:40,OK,blue,KSV,   DEFEAT   ,58.5k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Galio,Gangplank,Rakan,Vladimir,Thresh
+2018.0,spring,LCK,8,GenG,T1,1.0,36:40,OK,red,SKT,   VICTORY   ,72.1k,11,  10 ,  2 ,  2 ,  4 ,  0 ,Velkoz,Varus,Gnar,Ryze,Taliyah
+2018.0,spring,LCK,8,GenG,T1,2.0,38:12,OK,blue,SKT,   VICTORY   ,70.7k,13,  9 ,  2 ,  1 ,  3 ,  0 ,Velkoz,Gnar,Varus,Camille,Taliyah
+2018.0,spring,LCK,8,GenG,T1,2.0,38:12,OK,red,KSV,   DEFEAT   ,60.7k,5,  4 ,  0 ,  0 ,  1 ,  1 ,Galio,Azir,Gangplank,Ryze,Trundle
+2018.0,spring,LCK,8,Kongdoo,ROX,1.0,39:10,OK,blue,KDM,   DEFEAT   ,68.1k,7,  7 ,  2 ,  1 ,  2 ,  0 ,Rakan,Varus,Gangplank,Ezreal,Tristana
+2018.0,spring,LCK,8,Kongdoo,ROX,1.0,39:10,OK,red,ROX,   VICTORY   ,74.6k,14,  6 ,  1 ,  2 ,  2 ,  1 ,Sion,Galio,Camille,Ornn,Chogath
+2018.0,spring,LCK,8,Kongdoo,ROX,2.0,31:11,OK,blue,ROX,   VICTORY   ,62.2k,10,  11 ,  2 ,  1 ,  3 ,  1 ,Camille,Galio,Caitlyn,TahmKench,Braum
+2018.0,spring,LCK,8,Kongdoo,ROX,2.0,31:11,OK,red,KDM,   DEFEAT   ,46.2k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Varus,Gangplank,Fiora,Gnar
+2018.0,spring,LCK,9,MVP,KT,1.0,30:28,OK,blue,KT,   VICTORY   ,60.0k,11,  11 ,  3 ,  1 ,  4 ,  1 ,Galio,Swain,Sejuani,Skarner,Nidalee
+2018.0,spring,LCK,9,MVP,KT,1.0,30:28,OK,red,MVP,   DEFEAT   ,47.3k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Ryze,Varus,Gangplank,Caitlyn
+2018.0,spring,LCK,9,MVP,KT,2.0,30:28,OK,blue,KT,   VICTORY   ,60.0k,11,  11 ,  3 ,  1 ,  4 ,  1 ,Galio,Swain,Sejuani,Skarner,Nidalee
+2018.0,spring,LCK,9,MVP,KT,2.0,30:28,OK,red,MVP,   DEFEAT   ,47.3k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Ryze,Varus,Gangplank,Caitlyn
+2018.0,spring,LCK,9,bbq,Afreeca,1.0,37:12,OK,blue,bbq,   DEFEAT   ,60.5k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Ryze,Swain,Olaf,Anivia,Galio
+2018.0,spring,LCK,9,bbq,Afreeca,1.0,37:12,OK,red,AFs,   VICTORY   ,77.7k,12,  11 ,  4 ,  2 ,  4 ,  0 ,Varus,Sejuani,Skarner,JarvanIV,Khazix
+2018.0,spring,LCK,9,bbq,Afreeca,2.0,28:08,OK,blue,AFs,   VICTORY   ,56.2k,7,  10 ,  2 ,  1 ,  2 ,  1 ,Varus,Gangplank,Skarner,Alistar,Thresh
+2018.0,spring,LCK,9,bbq,Afreeca,2.0,28:08,OK,red,bbq,   DEFEAT   ,43.1k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Xayah,Olaf,Camille,Caitlyn
+2018.0,spring,LCK,9,GenG,ROX,1.0,34:46,OK,blue,KSV,   DEFEAT   ,56.7k,6,  2 ,  0 ,  0 ,  3 ,  0 ,Azir,Xayah,Sejuani,Thresh,TahmKench
+2018.0,spring,LCK,9,GenG,ROX,1.0,34:46,OK,red,ROX,   VICTORY   ,66.7k,15,  9 ,  1 ,  2 ,  2 ,  1 ,Velkoz,Galio,Gangplank,Braum,Taric
+2018.0,spring,LCK,9,GenG,ROX,2.0,33:52,OK,blue,ROX,   DEFEAT   ,51.0k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Velkoz,Camille,Gangplank,Ornn,Karma
+2018.0,spring,LCK,9,GenG,ROX,2.0,33:52,OK,red,KSV,   VICTORY   ,60.7k,3,  9 ,  1 ,  2 ,  4 ,  1 ,Azir,Swain,Xayah,Thresh,Anivia
+2018.0,spring,LCK,9,GenG,ROX,3.0,33:54,OK,blue,KSV,   DEFEAT   ,51.2k,0,  0 ,  0 ,  0 ,  1 ,  0 ,Azir,Xayah,Swain,Jhin,Ezreal
+2018.0,spring,LCK,9,GenG,ROX,3.0,33:54,OK,red,ROX,   VICTORY   ,67.4k,11,  11 ,  3 ,  1 ,  3 ,  1 ,Velkoz,Varus,Olaf,Camille,Gnar
+2018.0,spring,LCK,9,DragonX,Jin Air,1.0,34:54,OK,blue,KZ,   VICTORY   ,70.3k,21,  9 ,  2 ,  1 ,  4 ,  1 ,Sejuani,Braum,Swain,Taliyah,Azir
+2018.0,spring,LCK,9,DragonX,Jin Air,1.0,34:54,OK,red,JAG,   DEFEAT   ,54.1k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Sion,Varus,Gangplank,Camille,Ezreal
+2018.0,spring,LCK,9,DragonX,Jin Air,2.0,31:26,OK,blue,JAG,   DEFEAT   ,48.6k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Sion,Sejuani,Galio,Gangplank,KogMaw
+2018.0,spring,LCK,9,DragonX,Jin Air,2.0,31:26,OK,red,KZ,   VICTORY   ,64.3k,20,  9 ,  1 ,  1 ,  3 ,  0 ,Olaf,Varus,Rakan,Thresh,Alistar
+2018.0,spring,LCK,9,bbq,Kongdoo,1.0,27:58,OK,blue,bbq,   VICTORY   ,56.8k,13,  8 ,  1 ,  1 ,  2 ,  1 ,Ryze,Jhin,TahmKench,Gangplank,Alistar
+2018.0,spring,LCK,9,bbq,Kongdoo,1.0,27:58,OK,red,KDM,   DEFEAT   ,43.8k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Azir,Skarner,Rakan,Camille,Braum
+2018.0,spring,LCK,9,bbq,Kongdoo,2.0,37:59,OK,blue,KDM,   DEFEAT   ,59.9k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Karma,Azir,Skarner,Taliyah,Gangplank
+2018.0,spring,LCK,9,bbq,Kongdoo,2.0,37:59,OK,red,bbq,   VICTORY   ,73.0k,20,  11 ,  3 ,  2 ,  2 ,  1 ,Ryze,TahmKench,Jhin,Braum,Alistar
+2018.0,spring,LCK,9,T1,MVP,1.0,31:07,OK,blue,SKT,   VICTORY   ,61.1k,6,  11 ,  3 ,  1 ,  2 ,  1 ,Sion,Jhin,Swain,Gnar,Ornn
+2018.0,spring,LCK,9,T1,MVP,1.0,31:07,OK,red,MVP,   DEFEAT   ,45.9k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Olaf,Xayah,Gangplank,Camille,Fiora
+2018.0,spring,LCK,9,T1,MVP,2.0,27:56,OK,blue,MVP,   DEFEAT   ,47.7k,4,  3 ,  0 ,  0 ,  1 ,  1 ,Xayah,Varus,Olaf,Braum,Thresh
+2018.0,spring,LCK,9,T1,MVP,2.0,27:56,OK,red,SKT,   VICTORY   ,57.6k,16,  11 ,  3 ,  1 ,  3 ,  0 ,Swain,Jhin,Azir,TahmKench,Alistar
+2018.0,spring,LCK,9,GenG,DragonX,1.0,30:28,OK,blue,KSV,   DEFEAT   ,45.9k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Galio,Swain,Skarner,Jayce,Azir
+2018.0,spring,LCK,9,GenG,DragonX,1.0,30:28,OK,red,KZ,   VICTORY   ,59.6k,14,  8 ,  1 ,  1 ,  4 ,  0 ,Karma,Velkoz,Varus,Sejuani,Zac
+2018.0,spring,LCK,9,GenG,DragonX,2.0,32:17,OK,blue,KZ,   DEFEAT   ,50.7k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Velkoz,Sejuani,Zac,JarvanIV,Kennen
+2018.0,spring,LCK,9,GenG,DragonX,2.0,32:17,OK,red,KSV,   VICTORY   ,66.6k,20,  9 ,  1 ,  1 ,  3 ,  0 ,Galio,Swain,Olaf,Thresh,TahmKench
+2018.0,spring,LCK,9,GenG,DragonX,3.0,42:22,OK,blue,KSV,   DEFEAT   ,65.4k,3,  3 ,  0 ,  1 ,  2 ,  1 ,Galio,Swain,Olaf,Ashe,Jhin
+2018.0,spring,LCK,9,GenG,DragonX,3.0,42:22,OK,red,KZ,   VICTORY   ,80.9k,15,  11 ,  3 ,  1 ,  1 ,  0 ,Velkoz,Xayah,Skarner,Gangplank,Fiora
+2018.0,spring,LCK,9,ROX,Jin Air,1.0,32:51,OK,blue,ROX,   VICTORY   ,60.8k,9,  11 ,  3 ,  0 ,  3 ,  1 ,Xayah,Gangplank,Azir,Camille,Ornn
+2018.0,spring,LCK,9,ROX,Jin Air,1.0,32:51,OK,red,JAG,   DEFEAT   ,48.8k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Sion,Varus,Olaf,Braum,Sejuani
+2018.0,spring,LCK,9,ROX,Jin Air,2.0,33:22,OK,blue,JAG,   VICTORY   ,68.0k,14,  11 ,  2 ,  1 ,  4 ,  0 ,Karma,Swain,Varus,Caitlyn,Jinx
+2018.0,spring,LCK,9,ROX,Jin Air,2.0,33:22,OK,red,ROX,   DEFEAT   ,53.0k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Gangplank,Jhin,Olaf,Camille,Ornn
+2018.0,spring,LCK,9,ROX,Jin Air,3.0,46:17,OK,blue,ROX,   DEFEAT   ,74.0k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Galio,Xayah,Gangplank,Thresh,Azir
+2018.0,spring,LCK,9,ROX,Jin Air,3.0,46:17,OK,red,JAG,   VICTORY   ,90.4k,16,  11 ,  4 ,  3 ,  4 ,  0 ,Swain,Varus,Olaf,Camille,Gnar
+2018.0,spring,LCK,9,Kongdoo,T1,1.0,27:28,OK,blue,KDM,   DEFEAT   ,41.5k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Azir,Galio,Zac,Rakan,Sejuani
+2018.0,spring,LCK,9,Kongdoo,T1,1.0,27:28,OK,red,SKT,   VICTORY   ,53.4k,11,  7 ,  1 ,  1 ,  1 ,  1 ,Jhin,Gnar,Swain,Varus,Caitlyn
+2018.0,spring,LCK,9,Kongdoo,T1,2.0,29:26,OK,blue,SKT,   DEFEAT   ,47.6k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Jhin,Gnar,Swain,Ornn,Gangplank
+2018.0,spring,LCK,9,Kongdoo,T1,2.0,29:26,OK,red,KDM,   VICTORY   ,56.4k,14,  7 ,  1 ,  1 ,  3 ,  0 ,Azir,Galio,Xayah,Braum,Vladimir
+2018.0,spring,LCK,9,Kongdoo,T1,3.0,35:11,OK,blue,KDM,   DEFEAT   ,58.8k,4,  5 ,  0 ,  0 ,  0 ,  1 ,Azir,Galio,Xayah,Braum,Thresh
+2018.0,spring,LCK,9,Kongdoo,T1,3.0,35:11,OK,red,SKT,   VICTORY   ,66.9k,13,  8 ,  1 ,  1 ,  4 ,  0 ,Gnar,Swain,Olaf,Vladimir,Camille
+2018.0,spring,LCK,9,KT,Afreeca,1.0,39:55,OK,blue,KT,   VICTORY   ,82.8k,13,  11 ,  3 ,  1 ,  4 ,  1 ,Xayah,Gangplank,Swain,KogMaw,TahmKench
+2018.0,spring,LCK,9,KT,Afreeca,1.0,39:55,OK,red,AFs,   DEFEAT   ,68.5k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Varus,Olaf,Skarner,Thresh,Karma
+2018.0,spring,LCK,9,KT,Afreeca,2.0,34:14,OK,blue,AFs,   DEFEAT   ,52.6k,0,  0 ,  0 ,  0 ,  0 ,  0 ,Varus,Ryze,Sejuani,Camille,Gnar
+2018.0,spring,LCK,9,KT,Afreeca,2.0,34:14,OK,red,KT,   VICTORY   ,69.2k,12,  10 ,  2 ,  1 ,  5 ,  1 ,Sion,Olaf,Skarner,Anivia,Azir

@@ -1,0 +1,112 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,PGN,1,YDN,Outplayed,1.0,24:26,OK,blue,YDN,   VICTORY   ,50.0k,24,  8 ,  1 ,  1 ,  3 ,  1 ,Taliyah,Aphelios,Senna,Mordekaiser,Camille
+2020.0,spring,PGN,1,YDN,Outplayed,1.0,24:26,OK,red,OP,   DEFEAT   ,36.9k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Akali,Ornn,MissFortune,Draven,Varus
+2020.0,spring,PGN,1,Morning Stars,QLASH Forge,1.0,33:45,OK,blue,SMS,   VICTORY   ,62.2k,16,  10 ,  2 ,  1 ,  4 ,  1 ,LeeSin,Lucian,Cassiopeia,Senna,Varus
+2020.0,spring,PGN,1,Morning Stars,QLASH Forge,1.0,33:45,OK,red,Q4G,   DEFEAT   ,49.1k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Akali,Qiyana,Ryze,Leblanc
+2020.0,spring,PGN,1,MOBA ROG,Racoon,1.0,32:38,OK,blue,MOR,   DEFEAT   ,52.4k,11,  2 ,  0 ,  0 ,  2 ,  0 ,Olaf,JarvanIV,Senna,Zyra,Nautilus
+2020.0,spring,PGN,1,MOBA ROG,Racoon,1.0,32:38,OK,red,RCN,   VICTORY   ,65.6k,21,  9 ,  1 ,  2 ,  3 ,  2 ,Fiora,Aphelios,Akali,Zoe,Morgana
+2020.0,spring,PGN,1,Cyberground,CP Sparks,1.0,34:30,OK,blue,CGG,   DEFEAT   ,51.5k,8,  3 ,  0 ,  0 ,  0 ,  2 ,MissFortune,Yasuo,Aphelios,Gangplank,Chogath
+2020.0,spring,PGN,1,Cyberground,CP Sparks,1.0,34:30,OK,red,SPK,   VICTORY   ,62.2k,21,  10 ,  2 ,  2 ,  5 ,  0 ,Taliyah,Lucian,Fiora,Diana,Akali
+2020.0,spring,PGN,1,QLASH Forge,Racoon,1.0,28:01,OK,blue,Q4G,   DEFEAT   ,42.6k,6,  3 ,  0 ,  0 ,  0 ,  1 ,JarvanIV,Leblanc,MissFortune,Vladimir,Braum
+2020.0,spring,PGN,1,QLASH Forge,Racoon,1.0,28:01,OK,red,RCN,   VICTORY   ,56.8k,20,  11 ,  3 ,  1 ,  4 ,  1 ,Cassiopeia,Akali,Aphelios,Ryze,Qiyana
+2020.0,spring,PGN,1,Outplayed,Morning Stars,1.0,34:02,OK,blue,OP,   DEFEAT   ,55.8k,9,  6 ,  1 ,  0 ,  4 ,  2 ,Taliyah,Rumble,Yasuo,Olaf,LeeSin
+2020.0,spring,PGN,1,Outplayed,Morning Stars,1.0,34:02,OK,red,SMS,   VICTORY   ,60.0k,17,  6 ,  1 ,  1 ,  1 ,  0 ,Akali,MissFortune,Senna,Ryze,Azir
+2020.0,spring,PGN,1,CP Sparks,YDN,1.0,32:11,OK,blue,SPK,   DEFEAT   ,48.0k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Qiyana,Draven,Lucian,LeeSin,Ornn
+2020.0,spring,PGN,1,CP Sparks,YDN,1.0,32:11,OK,red,YDN,   VICTORY   ,64.2k,22,  11 ,  3 ,  2 ,  4 ,  0 ,JarvanIV,Aphelios,Cassiopeia,Gangplank,Olaf
+2020.0,spring,PGN,1,Cyberground,MOBA ROG,1.0,35:49,OK,blue,CGG,   VICTORY   ,67.3k,27,  10 ,  3 ,  1 ,  4 ,  2 ,Fiora,Leona,Nautilus,Galio,Xerath
+2020.0,spring,PGN,1,Cyberground,MOBA ROG,1.0,35:49,OK,red,MOR,   DEFEAT   ,55.5k,14,  0 ,  0 ,  0 ,  1 ,  0 ,Olaf,Cassiopeia,Rengar,Akali,Taliyah
+2020.0,spring,PGN,2,Outplayed,CP Sparks,1.0,23:54,OK,blue,OP,   VICTORY   ,50.5k,21,  10 ,  2 ,  1 ,  1 ,  2 ,JarvanIV,Ornn,Braum,Kled,Fiora
+2020.0,spring,PGN,2,Outplayed,CP Sparks,1.0,23:54,OK,red,SPK,   DEFEAT   ,37.7k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Akali,Lucian,LeeSin,Azir,Taliyah
+2020.0,spring,PGN,2,QLASH Forge,Cyberground,1.0,35:07,OK,blue,Q4G,   VICTORY   ,64.0k,19,  10 ,  1 ,  1 ,  2 ,  2 ,Rengar,Taliyah,Akali,Camille,Fiora
+2020.0,spring,PGN,2,QLASH Forge,Cyberground,1.0,35:07,OK,red,CGG,   DEFEAT   ,52.2k,8,  4 ,  0 ,  0 ,  3 ,  0 ,Cassiopeia,Rumble,Ornn,Galio,Orianna
+2020.0,spring,PGN,2,Morning Stars,Racoon,1.0,35:35,OK,blue,SMS,   DEFEAT   ,55.8k,7,  5 ,  0 ,  1 ,  1 ,  1 ,Elise,JarvanIV,Taliyah,Varus,Aphelios
+2020.0,spring,PGN,2,Morning Stars,Racoon,1.0,35:35,OK,red,RCN,   VICTORY   ,62.1k,16,  9 ,  1 ,  1 ,  4 ,  1 ,Qiyana,MissFortune,Akali,Gangplank,Zoe
+2020.0,spring,PGN,2,YDN,MOBA ROG,1.0,31:03,OK,blue,YDN,   VICTORY   ,60.3k,19,  10 ,  1 ,  1 ,  5 ,  2 ,Fiora,Thresh,Aphelios,Kindred,Zilean
+2020.0,spring,PGN,2,YDN,MOBA ROG,1.0,31:03,OK,red,MOR,   DEFEAT   ,46.3k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Akali,Cassiopeia,Leona,LeeSin,Elise
+2020.0,spring,PGN,2,Racoon,Cyberground,1.0,32:40,OK,blue,RCN,   VICTORY   ,65.5k,34,  11 ,  4 ,  2 ,  2 ,  2 ,Rengar,Senna,JarvanIV,Diana,Leblanc
+2020.0,spring,PGN,2,Racoon,Cyberground,1.0,32:40,OK,red,CGG,   DEFEAT   ,54.1k,16,  3 ,  0 ,  0 ,  3 ,  0 ,Aphelios,MissFortune,Elise,RekSai,
+2020.0,spring,PGN,2,MOBA ROG,Outplayed,1.0,29:11,OK,blue,MOR,   DEFEAT   ,43.0k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Elise,Ryze,JarvanIV,LeeSin
+2020.0,spring,PGN,2,MOBA ROG,Outplayed,1.0,29:11,OK,red,OP,   VICTORY   ,59.2k,24,  11 ,  3 ,  2 ,  4 ,  2 ,Fiora,Thresh,Sett,Kindred,Olaf
+2020.0,spring,PGN,2,QLASH Forge,YDN,1.0,24:12,OK,blue,Q4G,   DEFEAT   ,36.2k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Draven,Sett,Akali,Leblanc,Ornn
+2020.0,spring,PGN,2,QLASH Forge,YDN,1.0,24:12,OK,red,YDN,   VICTORY   ,48.5k,17,  8 ,  1 ,  1 ,  3 ,  1 ,Cassiopeia,Aphelios,Lucian,Rumble,Mordekaiser
+2020.0,spring,PGN,2,CP Sparks,Morning Stars,1.0,30:48,OK,blue,SPK,   VICTORY   ,56.3k,15,  10 ,  2 ,  1 ,  4 ,  1 ,Taliyah,Senna,Akali,Zoe,Orianna
+2020.0,spring,PGN,2,CP Sparks,Morning Stars,1.0,30:48,OK,red,SMS,   DEFEAT   ,45.3k,3,  0 ,  0 ,  0 ,  1 ,  1 ,Leona,JarvanIV,Yasuo,Olaf,Mordekaiser
+2020.0,spring,PGN,2,MOBA ROG,CP Sparks,1.0,23:05,OK,blue,MOR,   DEFEAT   ,32.4k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,JarvanIV,Gangplank,Chogath,Ornn
+2020.0,spring,PGN,2,MOBA ROG,CP Sparks,1.0,23:05,OK,red,SPK,   VICTORY   ,50.3k,28,  10 ,  2 ,  1 ,  2 ,  2 ,Fiora,Thresh,Senna,RekSai,Vladimir
+2020.0,spring,PGN,2,Morning Stars,Cyberground,1.0,37:02,OK,blue,SMS,   DEFEAT   ,60.0k,13,  4 ,  0 ,  0 ,  1 ,  1 ,JarvanIV,Leona,Sett,LeeSin,Rengar
+2020.0,spring,PGN,2,Morning Stars,Cyberground,1.0,37:02,OK,red,CGG,   VICTORY   ,66.4k,15,  11 ,  3 ,  2 ,  5 ,  1 ,Ornn,Taliyah,Cassiopeia,TahmKench,Thresh
+2020.0,spring,PGN,2,YDN,Racoon,1.0,36:50,OK,blue,YDN,   VICTORY   ,62.3k,19,  7 ,  1 ,  1 ,  4 ,  1 ,Taliyah,Aphelios,MissFortune,Mordekaiser,Varus
+2020.0,spring,PGN,2,YDN,Racoon,1.0,36:50,OK,red,RCN,   DEFEAT   ,56.4k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Akali,Sett,Draven,Zoe,RekSai
+2020.0,spring,PGN,2,Outplayed,QLASH Forge,1.0,32:55,OK,blue,OP,   VICTORY   ,63.7k,24,  9 ,  2 ,  2 ,  4 ,  2 ,JarvanIV,Ornn,Rumble,Kled,Fiora
+2020.0,spring,PGN,2,Outplayed,QLASH Forge,1.0,32:55,OK,red,Q4G,   DEFEAT   ,53.5k,17,  3 ,  0 ,  0 ,  1 ,  0 ,Akali,Taliyah,MissFortune,Thresh,Nautilus
+2020.0,spring,PGN,3,Cyberground,YDN,1.0,35:15,OK,blue,CGG,   DEFEAT   ,50.7k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Akali,Varus,Sett,Leona,Nautilus
+2020.0,spring,PGN,3,Cyberground,YDN,1.0,35:15,OK,red,YDN,   VICTORY   ,64.5k,27,  11 ,  3 ,  1 ,  4 ,  2 ,Taliyah,Rengar,Aphelios,Ekko,Olaf
+2020.0,spring,PGN,3,CP Sparks,QLASH Forge,1.0,30:35,OK,blue,SPK,   VICTORY   ,60.6k,23,  10 ,  2 ,  1 ,  4 ,  2 ,LeeSin,Senna,Lucian,Viktor,Ornn
+2020.0,spring,PGN,3,CP Sparks,QLASH Forge,1.0,30:35,OK,red,Q4G,   DEFEAT   ,50.6k,12,  3 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Aphelios,Yasuo,Gangplank,Aatrox
+2020.0,spring,PGN,3,MOBA ROG,Morning Stars,1.0,47:23,OK,blue,MOR,   VICTORY   ,78.0k,20,  7 ,  2 ,  0 ,  4 ,  1 ,Taliyah,Akali,Leblanc,Rumble,JarvanIV
+2020.0,spring,PGN,3,MOBA ROG,Morning Stars,1.0,47:23,OK,red,SMS,   DEFEAT   ,75.7k,11,  5 ,  0 ,  2 ,  3 ,  1 ,Fiora,Sett,Senna,Thresh,Braum
+2020.0,spring,PGN,3,Racoon,Outplayed,1.0,34:22,OK,blue,RCN,   DEFEAT   ,48.1k,6,  1 ,  0 ,  0 ,  2 ,  2 ,MissFortune,Syndra,Aphelios,Leblanc,Braum
+2020.0,spring,PGN,3,Racoon,Outplayed,1.0,34:22,OK,red,OP,   VICTORY   ,62.3k,22,  11 ,  3 ,  1 ,  3 ,  0 ,Thresh,Rumble,Akali,Gangplank,Soraka
+2020.0,spring,PGN,3,QLASH Forge,MOBA ROG,1.0,30:04,OK,blue,Q4G,   VICTORY   ,59.0k,25,  10 ,  1 ,  2 ,  2 ,  0 ,Fiora,Thresh,Jax,Aphelios,MissFortune
+2020.0,spring,PGN,3,QLASH Forge,MOBA ROG,1.0,30:04,OK,red,MOR,   DEFEAT   ,47.6k,10,  3 ,  0 ,  0 ,  2 ,  2 ,Olaf,Ryze,Cassiopeia,TahmKench,Leona
+2020.0,spring,PGN,3,Cyberground,Outplayed,1.0,39:43,OK,blue,CGG,   DEFEAT   ,70.4k,26,  7 ,  1 ,  1 ,  4 ,  2 ,Akali,Aphelios,Aatrox,Syndra,Leona
+2020.0,spring,PGN,3,Cyberground,Outplayed,1.0,39:43,OK,red,OP,   VICTORY   ,73.0k,23,  7 ,  1 ,  1 ,  2 ,  0 ,Rengar,Taliyah,Lucian,Nautilus,Thresh
+2020.0,spring,PGN,3,CP Sparks,Racoon,1.0,33:26,OK,blue,SPK,   VICTORY   ,64.4k,25,  10 ,  1 ,  2 ,  4 ,  2 ,Taliyah,Leblanc,Senna,Elise,Sett
+2020.0,spring,PGN,3,CP Sparks,Racoon,1.0,33:26,OK,red,RCN,   DEFEAT   ,51.2k,12,  0 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Syndra,Olaf,MissFortune,Renekton
+2020.0,spring,PGN,3,Morning Stars,YDN,1.0,35:27,OK,blue,SMS,   DEFEAT   ,53.4k,10,  2 ,  0 ,  0 ,  4 ,  0 ,Draven,JarvanIV,Sett,Tristana,Aatrox
+2020.0,spring,PGN,3,Morning Stars,YDN,1.0,35:27,OK,red,YDN,   VICTORY   ,63.8k,12,  8 ,  1 ,  1 ,  1 ,  2 ,Taliyah,Soraka,Akali,Ekko,Ornn
+2020.0,spring,PGN,4,Outplayed,YDN,1.0,30:30,OK,blue,OP,   DEFEAT   ,46.4k,7,  1 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Soraka,Sett,Zoe,Renekton
+2020.0,spring,PGN,4,Outplayed,YDN,1.0,30:30,OK,red,YDN,   VICTORY   ,56.9k,20,  8 ,  1 ,  1 ,  4 ,  2 ,Taliyah,Gragas,LeeSin,Varus,
+2020.0,spring,PGN,4,QLASH Forge,Morning Stars,1.0,29:26,OK,blue,Q4G,   DEFEAT   ,45.7k,4,  3 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Thresh,Varus,MissFortune,Leona
+2020.0,spring,PGN,4,QLASH Forge,Morning Stars,1.0,29:26,OK,red,SMS,   VICTORY   ,52.0k,13,  7 ,  1 ,  0 ,  3 ,  1 ,Cassiopeia,LeeSin,Ornn,Irelia,Camille
+2020.0,spring,PGN,4,Racoon,MOBA ROG,1.0,31:48,OK,blue,RCN,   VICTORY   ,66.0k,29,  11 ,  2 ,  1 ,  5 ,  2 ,Fiora,Syndra,Sett,Jax,TahmKench
+2020.0,spring,PGN,4,Racoon,MOBA ROG,1.0,31:48,OK,red,MOR,   DEFEAT   ,48.5k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Leblanc,Thresh,Pantheon,Gangplank
+2020.0,spring,PGN,4,CP Sparks,Cyberground,1.0,34:07,OK,blue,SPK,   DEFEAT   ,51.2k,8,  1 ,  0 ,  0 ,  1 ,  2 ,Taliyah,Rengar,Olaf,Braum,TahmKench
+2020.0,spring,PGN,4,CP Sparks,Cyberground,1.0,34:07,OK,red,CGG,   VICTORY   ,58.8k,21,  7 ,  1 ,  1 ,  4 ,  0 ,Syndra,Cassiopeia,Aphelios,Karthus,Gragas
+2020.0,spring,PGN,4,Racoon,QLASH Forge,1.0,32:03,OK,blue,RCN,   VICTORY   ,59.0k,15,  8 ,  1 ,  1 ,  3 ,  0 ,Cassiopeia,JarvanIV,Aphelios,Syndra,Camille
+2020.0,spring,PGN,4,Racoon,QLASH Forge,1.0,32:03,OK,red,Q4G,   DEFEAT   ,51.4k,9,  3 ,  0 ,  0 ,  2 ,  2 ,Thresh,Rumble,Taliyah,Ashe,MissFortune
+2020.0,spring,PGN,4,YDN,CP Sparks,1.0,31:56,OK,blue,YDN,   VICTORY   ,62.9k,29,  11 ,  2 ,  1 ,  4 ,  2 ,Soraka,JarvanIV,Syndra,Olaf,MissFortune
+2020.0,spring,PGN,4,YDN,CP Sparks,1.0,31:56,OK,red,SPK,   DEFEAT   ,46.7k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Draven,Sett,Lucian,Zoe,Leblanc
+2020.0,spring,PGN,4,Morning Stars,Outplayed,1.0,39:24,OK,blue,SMS,   DEFEAT   ,58.8k,14,  3 ,  0 ,  0 ,  1 ,  0 ,Leona,Aphelios,MissFortune,Renekton,Aatrox
+2020.0,spring,PGN,4,Morning Stars,Outplayed,1.0,39:24,OK,red,OP,   VICTORY   ,74.2k,21,  11 ,  2 ,  2 ,  5 ,  2 ,Ornn,JarvanIV,Taliyah,Gangplank,Thresh
+2020.0,spring,PGN,4,MOBA ROG,Cyberground,1.0,29:47,OK,blue,MOR,   DEFEAT   ,48.9k,15,  2 ,  0 ,  0 ,  2 ,  0 ,Rengar,Kindred,Soraka,Sett,Lucian
+2020.0,spring,PGN,4,MOBA ROG,Cyberground,1.0,29:47,OK,red,CGG,   VICTORY   ,54.4k,17,  7 ,  1 ,  2 ,  3 ,  2 ,Aphelios,Senna,Fiora,Syndra,Xerath
+2020.0,spring,PGN,5,CP Sparks,Outplayed,1.0,28:10,OK,blue,SPK,   DEFEAT   ,41.5k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Aatrox,Lucian,Renekton,Pantheon
+2020.0,spring,PGN,5,CP Sparks,Outplayed,1.0,28:10,OK,red,OP,   VICTORY   ,58.2k,25,  11 ,  3 ,  1 ,  3 ,  2 ,JarvanIV,Ornn,Aphelios,Braum,Leona
+2020.0,spring,PGN,5,Cyberground,QLASH Forge,1.0,30:15,OK,blue,CGG,   VICTORY   ,54.7k,15,  9 ,  2 ,  1 ,  5 ,  1 ,Syndra,Soraka,Renekton,Ornn,Cassiopeia
+2020.0,spring,PGN,5,Cyberground,QLASH Forge,1.0,30:15,OK,red,Q4G,   DEFEAT   ,43.0k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Rengar,Lucian,Yasuo,Diana
+2020.0,spring,PGN,5,MOBA ROG,YDN,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,PGN,5,Racoon,Morning Stars,1.0,28:46,OK,blue,RCN,   DEFEAT   ,45.0k,7,  1 ,  0 ,  0 ,  1 ,  1 ,Soraka,Syndra,Ornn,Olaf,Gragas
+2020.0,spring,PGN,5,Racoon,Morning Stars,1.0,28:46,OK,red,SMS,   VICTORY   ,57.1k,19,  10 ,  2 ,  1 ,  3 ,  1 ,Leblanc,Aphelios,Pantheon,Diana,Vladimir
+2020.0,spring,PGN,5,Cyberground,Racoon,1.0,35:36,OK,blue,CGG,   DEFEAT   ,53.5k,10,  2 ,  0 ,  0 ,  1 ,  0 ,Gragas,Sett,Pantheon,Diana,Syndra
+2020.0,spring,PGN,5,Cyberground,Racoon,1.0,35:36,OK,red,RCN,   VICTORY   ,64.9k,21,  8 ,  1 ,  1 ,  4 ,  2 ,Rengar,JarvanIV,Lucian,Nautilus,RekSai
+2020.0,spring,PGN,5,Morning Stars,CP Sparks,1.0,24:43,OK,blue,SMS,   VICTORY   ,45.4k,16,  5 ,  1 ,  1 ,  2 ,  2 ,JarvanIV,Cassiopeia,Aphelios,Gragas,Syndra
+2020.0,spring,PGN,5,Morning Stars,CP Sparks,1.0,24:43,OK,red,SPK,   DEFEAT   ,39.6k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Soraka,Pantheon,Karthus,Veigar,Qiyana
+2020.0,spring,PGN,5,Outplayed,MOBA ROG,1.0,35:15,OK,blue,OP,   VICTORY   ,68.8k,23,  11 ,  3 ,  1 ,  5 ,  1 ,Fiora,Jax,Yuumi,Sett,Camille
+2020.0,spring,PGN,5,Outplayed,MOBA ROG,1.0,35:15,OK,red,MOR,   DEFEAT   ,56.8k,12,  2 ,  0 ,  1 ,  0 ,  1 ,Taliyah,Nautilus,Leona,Azir,Syndra
+2020.0,spring,PGN,5,YDN,QLASH Forge,1.0,22:41,OK,blue,YDN,   VICTORY   ,48.5k,21,  10 ,  2 ,  0 ,  3 ,  2 ,Soraka,Cassiopeia,Taliyah,Aatrox,Ornn
+2020.0,spring,PGN,5,YDN,QLASH Forge,1.0,22:41,OK,red,Q4G,   DEFEAT   ,33.3k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Draven,Zoe,RekSai,Varus,Xayah
+2020.0,spring,PGN,6,QLASH Forge,Outplayed,1.0,38:00,OK,blue,Q4G,   DEFEAT   ,60.5k,6,  3 ,  0 ,  0 ,  3 ,  0 ,Thresh,Diana,Taliyah,Qiyana,Yuumi
+2020.0,spring,PGN,6,QLASH Forge,Outplayed,1.0,38:00,OK,red,OP,   VICTORY   ,71.1k,13,  11 ,  1 ,  2 ,  2 ,  2 ,Senna,Ornn,Cassiopeia,Nautilus,Braum
+2020.0,spring,PGN,6,Racoon,YDN,1.0,32:55,OK,blue,RCN,   VICTORY   ,63.6k,22,  11 ,  3 ,  2 ,  4 ,  0 ,Zoe,Draven,Aphelios,Nautilus,Braum
+2020.0,spring,PGN,6,Racoon,YDN,1.0,32:55,OK,red,YDN,   DEFEAT   ,52.7k,9,  4 ,  0 ,  0 ,  0 ,  2 ,Taliyah,Ornn,Yuumi,Karthus,Leblanc
+2020.0,spring,PGN,6,Cyberground,Morning Stars,1.0,32:07,OK,blue,CGG,   DEFEAT   ,47.6k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Gangplank,Ezreal,Karthus,Syndra
+2020.0,spring,PGN,6,Cyberground,Morning Stars,1.0,32:07,OK,red,SMS,   VICTORY   ,56.8k,16,  8 ,  1 ,  1 ,  3 ,  1 ,Leblanc,Senna,Taliyah,Diana,Cassiopeia
+2020.0,spring,PGN,6,CP Sparks,MOBA ROG,1.0,25:42,OK,blue,SPK,   VICTORY   ,49.5k,20,  8 ,  1 ,  1 ,  3 ,  2 ,Fiora,Thresh,Sett,Pantheon,Lucian
+2020.0,spring,PGN,6,CP Sparks,MOBA ROG,1.0,25:42,OK,red,MOR,   DEFEAT   ,38.2k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Ornn,Yuumi,Syndra,Aphelios,Nautilus
+2020.0,spring,PGN,6,YDN,Cyberground,1.0,31:17,OK,blue,YDN,   DEFEAT   ,49.2k,11,  2 ,  0 ,  0 ,  1 ,  2 ,Taliyah,Zilean,Rengar,Thresh,Diana
+2020.0,spring,PGN,6,YDN,Cyberground,1.0,31:17,OK,red,CGG,   VICTORY   ,56.5k,22,  9 ,  1 ,  1 ,  4 ,  0 ,Draven,Ornn,Syndra,Gragas,Elise
+2020.0,spring,PGN,6,QLASH Forge,CP Sparks,1.0,29:00,OK,blue,Q4G,   DEFEAT   ,44.3k,4,  2 ,  0 ,  0 ,  1 ,  2 ,Syndra,JarvanIV,Gragas,Olaf,Karthus
+2020.0,spring,PGN,6,QLASH Forge,CP Sparks,1.0,29:00,OK,red,SPK,   VICTORY   ,54.6k,21,  11 ,  3 ,  1 ,  3 ,  0 ,LeeSin,Cassiopeia,Ornn,Morgana,Karma
+2020.0,spring,PGN,6,Outplayed,Racoon,1.0,30:39,OK,blue,OP,   VICTORY   ,61.0k,28,  10 ,  2 ,  1 ,  3 ,  2 ,Varus,LeeSin,Thresh,JarvanIV,Sejuani
+2020.0,spring,PGN,6,Outplayed,Racoon,1.0,30:39,OK,red,RCN,   DEFEAT   ,45.6k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Gragas,Ekko,Taliyah,Braum,Leona
+2020.0,spring,PGN,6,Morning Stars,MOBA ROG,1.0,34:11,OK,blue,SMS,   VICTORY   ,68.4k,22,  11 ,  3 ,  2 ,  3 ,  1 ,Fiora,Jax,Senna,Syndra,Xerath
+2020.0,spring,PGN,6,Morning Stars,MOBA ROG,1.0,34:11,OK,red,MOR,   DEFEAT   ,54.2k,10,  2 ,  0 ,  0 ,  2 ,  1 ,Ornn,Karthus,Yuumi,Leblanc,RekSai
+2020.0,spring,PGN,6,YDN,Morning Stars,1.0,29:16,OK,blue,YDN,   DEFEAT   ,42.4k,5,  0 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Taliyah,Yasuo,Qiyana,Tristana
+2020.0,spring,PGN,6,YDN,Morning Stars,1.0,29:16,OK,red,SMS,   VICTORY   ,56.3k,25,  10 ,  2 ,  1 ,  3 ,  1 ,Syndra,Senna,Ornn,JarvanIV,Olaf
+2020.0,spring,PGN,6,MOBA ROG,QLASH Forge,1.0,31:18,OK,blue,MOR,   DEFEAT   ,50.5k,12,  3 ,  0 ,  0 ,  3 ,  1 ,Olaf,Nautilus,Ornn,Gangplank,Leona
+2020.0,spring,PGN,6,MOBA ROG,QLASH Forge,1.0,31:18,OK,red,Q4G,   VICTORY   ,61.0k,24,  11 ,  3 ,  1 ,  2 ,  1 ,Fiora,Thresh,Jax,Xerath,Syndra
+2020.0,spring,PGN,6,Outplayed,Cyberground,1.0,28:08,OK,blue,OP,   DEFEAT   ,44.7k,7,  4 ,  0 ,  0 ,  0 ,  2 ,Cassiopeia,Gnar,Blitzcrank,Karthus,Elise
+2020.0,spring,PGN,6,Outplayed,Cyberground,1.0,28:08,OK,red,CGG,   VICTORY   ,55.2k,22,  8 ,  1 ,  1 ,  4 ,  0 ,Sejuani,Ornn,Urgot,MissFortune,Azir
+2020.0,spring,PGN,6,Racoon,CP Sparks,1.0,28:56,OK,blue,RCN,   VICTORY   ,59.4k,21,  11 ,  3 ,  1 ,  4 ,  1 ,JarvanIV,Cassiopeia,Syndra,Sejuani,Ziggs
+2020.0,spring,PGN,6,Racoon,CP Sparks,1.0,28:56,OK,red,SPK,   DEFEAT   ,45.6k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Ornn,Taliyah,Leblanc,Pantheon,LeeSin

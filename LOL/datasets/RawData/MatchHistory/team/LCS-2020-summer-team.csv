@@ -1,0 +1,180 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,LCS,1,100 Thieves,Evil Geniuses,1.0,33:50,OK,blue,100,   DEFEAT   ,53.4k,8,  4 ,  0 ,  0 ,  3 ,  1 ,Sett,Kalista,Graves,Leblanc,TwistedFate
+2020.0,summer,LCS,1,100 Thieves,Evil Geniuses,1.0,33:50,OK,red,EG,   VICTORY   ,64.0k,20,  10 ,  2 ,  1 ,  2 ,  1 ,Varus,Syndra,Trundle,Bard,Karma
+2020.0,summer,LCS,1,FlyQuest,Cloud9,1.0,31:00,OK,blue,C9,   VICTORY   ,65.5k,17,  11 ,  3 ,  2 ,  5 ,  2 ,Trundle,Graves,Kalista,Azir,Nidalee
+2020.0,summer,LCS,1,FlyQuest,Cloud9,1.0,31:00,OK,red,FLY,   DEFEAT   ,50.7k,11,  1 ,  0 ,  0 ,  0 ,  0 ,Varus,Syndra,Yuumi,Ornn,Zoe
+2020.0,summer,LCS,1,Evil Geniuses,CLG,1.0,24:09,OK,blue,EG,   VICTORY   ,50.4k,12,  11 ,  2 ,  1 ,  3 ,  2 ,Sett,Ornn,Syndra,Zoe,Galio
+2020.0,summer,LCS,1,Evil Geniuses,CLG,1.0,24:09,OK,red,CLG,   DEFEAT   ,35.4k,0,  0 ,  0 ,  0 ,  0 ,  0 ,Varus,Kalista,Graves,Malphite,Leblanc
+2020.0,summer,LCS,1,TSM,TL,1.0,25:06,OK,blue,TSM,   DEFEAT   ,36.4k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Yuumi,Ornn,Leblanc,Ekko
+2020.0,summer,LCS,1,TSM,TL,1.0,25:06,OK,red,TL,   VICTORY   ,49.4k,13,  10 ,  2 ,  1 ,  3 ,  2 ,Varus,Graves,Zilean,JarvanIV,LeeSin
+2020.0,summer,LCS,1,Immortals,FlyQuest,1.0,31:11,OK,blue,IMT,   DEFEAT   ,48.8k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Ornn,Aphelios,Yuumi,Corki,Viktor
+2020.0,summer,LCS,1,Immortals,FlyQuest,1.0,31:11,OK,red,FLY,   VICTORY   ,62.5k,19,  11 ,  3 ,  2 ,  4 ,  1 ,Varus,Syndra,Kalista,Aatrox,MonkeyKing
+2020.0,summer,LCS,1,Golden Guardians,Dignitas,1.0,38:28,OK,blue,GG,   VICTORY   ,75.4k,15,  11 ,  3 ,  1 ,  5 ,  2 ,Ornn,Kalista,Yuumi,Karma,Zoe
+2020.0,summer,LCS,1,Golden Guardians,Dignitas,1.0,38:28,OK,red,DIG,   DEFEAT   ,62.1k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Varus,Syndra,Aphelios,Leblanc,Galio
+2020.0,summer,LCS,1,Cloud9,100 Thieves,1.0,25:58,OK,blue,C9,   VICTORY   ,54.6k,14,  11 ,  3 ,  1 ,  3 ,  1 ,Trundle,Graves,Syndra,Lulu,Cassiopeia
+2020.0,summer,LCS,1,Cloud9,100 Thieves,1.0,25:58,OK,red,100,   DEFEAT   ,40.5k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Varus,Kalista,Leblanc,Aatrox,Zoe
+2020.0,summer,LCS,1,Dignitas,TSM,1.0,25:33,OK,blue,DIG,   DEFEAT   ,38.8k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Syndra,Varus,Ornn,Zilean,Leblanc
+2020.0,summer,LCS,1,Dignitas,TSM,1.0,25:33,OK,red,TSM,   VICTORY   ,51.3k,13,  11 ,  2 ,  1 ,  4 ,  2 ,Aphelios,Kalista,Graves,LeeSin,Kindred
+2020.0,summer,LCS,1,TL,Golden Guardians,1.0,40:03,OK,blue,TL,   VICTORY   ,71.6k,12,  10 ,  2 ,  1 ,  2 ,  1 ,Sett,Graves,Ezreal,Leblanc,Corki
+2020.0,summer,LCS,1,TL,Golden Guardians,1.0,40:03,OK,red,GG,   DEFEAT   ,67.4k,6,  5 ,  0 ,  0 ,  4 ,  1 ,Varus,Syndra,Yuumi,Azir,Zoe
+2020.0,summer,LCS,1,CLG,Immortals,1.0,34:49,OK,blue,IMT,   DEFEAT   ,55.6k,8,  4 ,  0 ,  0 ,  2 ,  1 ,Syndra,Yuumi,Kalista,Corki,Zoe
+2020.0,summer,LCS,1,CLG,Immortals,1.0,34:49,OK,red,CLG,   VICTORY   ,65.3k,16,  9 ,  1 ,  1 ,  4 ,  1 ,Varus,Cassiopeia,Graves,Leblanc,Azir
+2020.0,summer,LCS,2,Golden Guardians,CLG,1.0,30:08,OK,blue,CLG,   VICTORY   ,57.2k,14,  11 ,  2 ,  1 ,  1 ,  1 ,Kalista,Ornn,Yuumi,Leblanc,TahmKench
+2020.0,summer,LCS,2,Golden Guardians,CLG,1.0,30:08,OK,red,GG,   DEFEAT   ,46.9k,4,  3 ,  0 ,  0 ,  3 ,  1 ,Varus,Syndra,Graves,Thresh,Jayce
+2020.0,summer,LCS,2,Immortals,TSM,1.0,30:28,OK,blue,IMT,   DEFEAT   ,44.7k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Kalista,Yuumi,Syndra,Kindred,Azir
+2020.0,summer,LCS,2,Immortals,TSM,1.0,30:28,OK,red,TSM,   VICTORY   ,61.3k,23,  10 ,  1 ,  1 ,  4 ,  2 ,Varus,Graves,Aphelios,Leona,Karma
+2020.0,summer,LCS,2,100 Thieves,TL,1.0,27:55,OK,blue,TL,   VICTORY   ,55.8k,17,  10 ,  2 ,  1 ,  2 ,  2 ,Sett,Yuumi,Volibear,Kindred,Trundle
+2020.0,summer,LCS,2,100 Thieves,TL,1.0,27:55,OK,red,100,   DEFEAT   ,43.5k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Varus,Syndra,Aphelios,Bard,Braum
+2020.0,summer,LCS,2,FlyQuest,TSM,1.0,33:24,OK,blue,TSM,   DEFEAT   ,51.4k,9,  3 ,  0 ,  0 ,  0 ,  1 ,Graves,Yuumi,Bard,Braum,Cassiopeia
+2020.0,summer,LCS,2,FlyQuest,TSM,1.0,33:24,OK,red,FLY,   VICTORY   ,63.9k,28,  9 ,  2 ,  1 ,  5 ,  0 ,Varus,Kalista,Sett,Mordekaiser,Leblanc
+2020.0,summer,LCS,2,Cloud9,Evil Geniuses,1.0,25:30,OK,blue,C9,   VICTORY   ,52.4k,16,  9 ,  2 ,  1 ,  4 ,  2 ,Graves,Trundle,Leblanc,TwistedFate,Ryze
+2020.0,summer,LCS,2,Cloud9,Evil Geniuses,1.0,25:30,OK,red,EG,   DEFEAT   ,36.8k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Varus,Syndra,Thresh,Zoe,Galio
+2020.0,summer,LCS,2,CLG,Dignitas,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,summer,LCS,2,TL,Evil Geniuses,1.0,28:16,OK,blue,EG,   VICTORY   ,53.7k,9,  11 ,  3 ,  1 ,  2 ,  2 ,Ornn,Syndra,Kalista,Shen,Jayce
+2020.0,summer,LCS,2,TL,Evil Geniuses,1.0,28:16,OK,red,TL,   DEFEAT   ,40.8k,3,  0 ,  0 ,  0 ,  2 ,  0 ,Graves,Varus,Yuumi,Blitzcrank,Morgana
+2020.0,summer,LCS,2,FlyQuest,Dignitas,1.0,32:46,OK,blue,FLY,   VICTORY   ,59.4k,11,  11 ,  3 ,  1 ,  2 ,  2 ,Kalista,Yuumi,Graves,Kaisa,Senna
+2020.0,summer,LCS,2,FlyQuest,Dignitas,1.0,32:46,OK,red,DIG,   DEFEAT   ,53.5k,5,  5 ,  1 ,  0 ,  3 ,  0 ,Varus,Syndra,Aphelios,Leblanc,Azir
+2020.0,summer,LCS,2,Golden Guardians,Cloud9,1.0,33:40,OK,blue,GG,   DEFEAT   ,56.5k,8,  3 ,  0 ,  0 ,  1 ,  0 ,Yuumi,Kalista,Olaf,Thresh,Kindred
+2020.0,summer,LCS,2,Golden Guardians,Cloud9,1.0,33:40,OK,red,C9,   VICTORY   ,66.4k,20,  11 ,  3 ,  2 ,  4 ,  2 ,Varus,Graves,Syndra,Nidalee,Karma
+2020.0,summer,LCS,2,100 Thieves,Immortals,1.0,31:58,OK,blue,100,   VICTORY   ,59.5k,13,  11 ,  3 ,  1 ,  4 ,  1 ,Ornn,Graves,Ezreal,TwistedFate,Leblanc
+2020.0,summer,LCS,2,100 Thieves,Immortals,1.0,31:58,OK,red,IMT,   DEFEAT   ,46.1k,1,  2 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Varus,Syndra,Volibear,MonkeyKing
+2020.0,summer,LCS,3,FlyQuest,CLG,1.0,35:51,OK,blue,FLY,   VICTORY   ,68.3k,17,  9 ,  1 ,  1 ,  4 ,  2 ,Volibear,TwistedFate,Yuumi,Ekko,Leblanc
+2020.0,summer,LCS,3,FlyQuest,CLG,1.0,35:51,OK,red,CLG,   DEFEAT   ,60.0k,12,  3 ,  0 ,  0 ,  1 ,  0 ,Varus,Trundle,Ornn,Rakan,Thresh
+2020.0,summer,LCS,3,TL,Cloud9,1.0,30:21,OK,blue,TL,   DEFEAT   ,48.6k,8,  2 ,  0 ,  0 ,  0 ,  1 ,Yuumi,Olaf,Volibear,Nocturne,Galio
+2020.0,summer,LCS,3,TL,Cloud9,1.0,30:21,OK,red,C9,   VICTORY   ,54.4k,11,  9 ,  1 ,  1 ,  4 ,  1 ,Varus,Syndra,Blitzcrank,Ezreal,Kalista
+2020.0,summer,LCS,3,100 Thieves,CLG,1.0,35:11,OK,blue,CLG,   VICTORY   ,68.1k,18,  11 ,  5 ,  2 ,  3 ,  1 ,Yuumi,Olaf,Thresh,Akali,Leblanc
+2020.0,summer,LCS,3,100 Thieves,CLG,1.0,35:11,OK,red,100,   DEFEAT   ,60.1k,7,  3 ,  0 ,  0 ,  2 ,  1 ,Varus,Syndra,TwistedFate,Bard,Karma
+2020.0,summer,LCS,3,TSM,Evil Geniuses,1.0,32:02,OK,blue,TSM,   VICTORY   ,60.0k,16,  10 ,  2 ,  1 ,  3 ,  2 ,Yuumi,TwistedFate,Kalista,Kassadin,Sett
+2020.0,summer,LCS,3,TSM,Evil Geniuses,1.0,32:02,OK,red,EG,   DEFEAT   ,48.9k,1,  4 ,  0 ,  0 ,  2 ,  0 ,Varus,Syndra,Ornn,Zilean,Fiddlesticks
+2020.0,summer,LCS,3,TL,Dignitas,1.0,46:16,OK,blue,DIG,   DEFEAT   ,79.2k,9,  3 ,  0 ,  0 ,  5 ,  2 ,Syndra,Kalista,Trundle,Aatrox,Gangplank
+2020.0,summer,LCS,3,TL,Dignitas,1.0,46:16,OK,red,TL,   VICTORY   ,87.5k,10,  11 ,  4 ,  2 ,  3 ,  0 ,Volibear,Varus,Yuumi,Leblanc,Orianna
+2020.0,summer,LCS,3,Golden Guardians,Immortals,1.0,34:52,OK,blue,IMT,   VICTORY   ,62.2k,16,  8 ,  1 ,  0 ,  4 ,  2 ,Karma,Kalista,Syndra,Leona,Lulu
+2020.0,summer,LCS,3,Golden Guardians,Immortals,1.0,34:52,OK,red,GG,   DEFEAT   ,57.9k,5,  5 ,  0 ,  0 ,  1 ,  0 ,Varus,Yuumi,Urgot,Aatrox,Olaf
+2020.0,summer,LCS,3,100 Thieves,TSM,1.0,48:29,OK,blue,100,   DEFEAT   ,89.2k,20,  9 ,  5 ,  3 ,  3 ,  1 ,Graves,Yuumi,TwistedFate,Zilean,Leblanc
+2020.0,summer,LCS,3,100 Thieves,TSM,1.0,48:29,OK,red,TSM,   VICTORY   ,89.1k,21,  10 ,  2 ,  0 ,  5 ,  1 ,Aphelios,Syndra,Trundle,Ornn,Zoe
+2020.0,summer,LCS,3,Immortals,Cloud9,1.0,25:36,OK,blue,C9,   VICTORY   ,55.4k,18,  11 ,  3 ,  1 ,  4 ,  1 ,Graves,Trundle,Orianna,Yuumi,Urgot
+2020.0,summer,LCS,3,Immortals,Cloud9,1.0,25:36,OK,red,IMT,   DEFEAT   ,39.0k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Varus,Olaf,Syndra,Jayce,Gangplank
+2020.0,summer,LCS,3,Golden Guardians,FlyQuest,1.0,47:14,OK,blue,GG,   VICTORY   ,85.2k,13,  10 ,  4 ,  0 ,  4 ,  2 ,Trundle,Syndra,Yuumi,Sett,Maokai
+2020.0,summer,LCS,3,Golden Guardians,FlyQuest,1.0,47:14,OK,red,FLY,   DEFEAT   ,81.5k,10,  3 ,  0 ,  1 ,  3 ,  0 ,Varus,Kalista,Aphelios,Volibear,MonkeyKing
+2020.0,summer,LCS,3,Dignitas,Evil Geniuses,1.0,28:57,OK,blue,EG,   VICTORY   ,52.4k,8,  11 ,  3 ,  1 ,  4 ,  1 ,Ornn,Thresh,Syndra,Nautilus,MonkeyKing
+2020.0,summer,LCS,3,Dignitas,Evil Geniuses,1.0,28:57,OK,red,DIG,   DEFEAT   ,45.3k,4,  1 ,  0 ,  0 ,  1 ,  1 ,Varus,TwistedFate,Aphelios,Leblanc,Ekko
+2020.0,summer,LCS,4,100 Thieves,Golden Guardians,1.0,31:07,OK,blue,100,   DEFEAT   ,50.7k,6,  3 ,  0 ,  0 ,  0 ,  1 ,TwistedFate,Kalista,Ezreal,Orianna,MonkeyKing
+2020.0,summer,LCS,4,100 Thieves,Golden Guardians,1.0,31:07,OK,red,GG,   VICTORY   ,58.7k,15,  9 ,  2 ,  1 ,  4 ,  0 ,Syndra,Varus,Nidalee,Azir,Trundle
+2020.0,summer,LCS,4,CLG,Cloud9,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,summer,LCS,4,Golden Guardians,TSM,1.0,35:39,OK,blue,TSM,   VICTORY   ,65.9k,11,  11 ,  2 ,  1 ,  3 ,  2 ,Kalista,Ezreal,TahmKench,Gangplank,Ornn
+2020.0,summer,LCS,4,Golden Guardians,TSM,1.0,35:39,OK,red,GG,   DEFEAT   ,55.9k,5,  2 ,  0 ,  0 ,  3 ,  0 ,Varus,Syndra,Zilean,Thresh,Nautilus
+2020.0,summer,LCS,4,100 Thieves,Dignitas,1.0,33:52,OK,blue,DIG,   DEFEAT   ,58.1k,7,  4 ,  0 ,  0 ,  1 ,  0 ,Xayah,Karma,Syndra,Renekton,Yuumi
+2020.0,summer,LCS,4,100 Thieves,Dignitas,1.0,33:52,OK,red,100,   VICTORY   ,65.1k,15,  10 ,  2 ,  1 ,  4 ,  2 ,Aphelios,Varus,Azir,Thresh,TahmKench
+2020.0,summer,LCS,4,FlyQuest,Evil Geniuses,1.0,34:52,OK,blue,EG,   DEFEAT   ,54.8k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Azir,Syndra,Trundle,Bard,Mordekaiser
+2020.0,summer,LCS,4,FlyQuest,Evil Geniuses,1.0,34:52,OK,red,FLY,   VICTORY   ,65.4k,22,  7 ,  1 ,  0 ,  4 ,  2 ,TwistedFate,Aphelios,Leblanc,Corki,Jayce
+2020.0,summer,LCS,4,TL,Immortals,1.0,43:09,OK,blue,TL,   VICTORY   ,74.5k,13,  7 ,  1 ,  1 ,  3 ,  0 ,Trundle,Olaf,Ezreal,Braum,KogMaw
+2020.0,summer,LCS,4,TL,Immortals,1.0,43:09,OK,red,IMT,   DEFEAT   ,69.4k,9,  7 ,  1 ,  0 ,  4 ,  1 ,Varus,Syndra,TwistedFate,Leblanc,Jayce
+2020.0,summer,LCS,4,Dignitas,Cloud9,1.0,33:05,OK,blue,C9,   VICTORY   ,67.6k,21,  11 ,  3 ,  2 ,  3 ,  1 ,Graves,Trundle,Azir,Nautilus,
+2020.0,summer,LCS,4,Dignitas,Cloud9,1.0,33:05,OK,red,DIG,   DEFEAT   ,52.1k,10,  1 ,  0 ,  0 ,  2 ,  1 ,Varus,Olaf,Thresh,LeeSin,Bard
+2020.0,summer,LCS,4,FlyQuest,TL,1.0,45:17,OK,blue,FLY,   DEFEAT   ,75.3k,19,  4 ,  0 ,  0 ,  4 ,  1 ,TwistedFate,Aphelios,LeeSin,Thresh,Jayce
+2020.0,summer,LCS,4,FlyQuest,TL,1.0,45:17,OK,red,TL,   VICTORY   ,82.0k,15,  9 ,  2 ,  3 ,  3 ,  1 ,Volibear,Varus,Trundle,MonkeyKing,Ornn
+2020.0,summer,LCS,4,CLG,TSM,1.0,46:40,OK,blue,TSM,   VICTORY   ,85.5k,19,  10 ,  3 ,  3 ,  5 ,  1 ,Ezreal,Trundle,Cassiopeia,Orianna,RekSai
+2020.0,summer,LCS,4,CLG,TSM,1.0,46:40,OK,red,CLG,   DEFEAT   ,79.2k,16,  3 ,  0 ,  0 ,  3 ,  1 ,Varus,Syndra,TwistedFate,Braum,Morgana
+2020.0,summer,LCS,4,Immortals,Evil Geniuses,1.0,49:57,OK,blue,IMT,   DEFEAT   ,83.8k,12,  7 ,  1 ,  1 ,  4 ,  1 ,Kalista,TwistedFate,Varus,Leona,Leblanc
+2020.0,summer,LCS,4,Immortals,Evil Geniuses,1.0,49:57,OK,red,EG,   VICTORY   ,82.9k,13,  8 ,  1 ,  0 ,  4 ,  1 ,Nidalee,Syndra,Malphite,Ornn,Sett
+2020.0,summer,LCS,5,Dignitas,Immortals,1.0,26:50,OK,blue,IMT,   DEFEAT   ,39.8k,1,  2 ,  0 ,  0 ,  0 ,  1 ,TwistedFate,Kalista,Volibear,Bard,Orianna
+2020.0,summer,LCS,5,Dignitas,Immortals,1.0,26:50,OK,red,DIG,   VICTORY   ,50.5k,15,  7 ,  1 ,  1 ,  4 ,  1 ,Ezreal,Varus,Trundle,Urgot,Malphite
+2020.0,summer,LCS,5,100 Thieves,FlyQuest,1.0,33:31,OK,blue,FLY,   DEFEAT   ,55.0k,10,  4 ,  0 ,  0 ,  1 ,  2 ,TwistedFate,Graves,Aphelios,LeeSin,Thresh
+2020.0,summer,LCS,5,100 Thieves,FlyQuest,1.0,33:31,OK,red,100,   VICTORY   ,62.8k,18,  8 ,  1 ,  1 ,  4 ,  0 ,Varus,Trundle,Volibear,Ornn,Bard
+2020.0,summer,LCS,5,Golden Guardians,Evil Geniuses,1.0,43:37,OK,blue,EG,   DEFEAT   ,77.2k,18,  3 ,  0 ,  1 ,  2 ,  1 ,Graves,Ashe,Galio,Thresh,Sett
+2020.0,summer,LCS,5,Golden Guardians,Evil Geniuses,1.0,43:37,OK,red,GG,   VICTORY   ,79.9k,26,  11 ,  5 ,  2 ,  4 ,  0 ,Varus,TwistedFate,Yuumi,Bard,Jayce
+2020.0,summer,LCS,5,Cloud9,TSM,1.0,29:26,OK,blue,C9,   VICTORY   ,54.0k,13,  8 ,  1 ,  1 ,  2 ,  1 ,Graves,Trundle,Kalista,Thresh,TahmKench
+2020.0,summer,LCS,5,Cloud9,TSM,1.0,29:26,OK,red,TSM,   DEFEAT   ,46.2k,4,  3 ,  0 ,  0 ,  2 ,  1 ,TwistedFate,Olaf,Yuumi,LeeSin,Jayce
+2020.0,summer,LCS,5,TL,CLG,1.0,38:03,OK,blue,TL,   VICTORY   ,72.5k,10,  11 ,  3 ,  2 ,  4 ,  2 ,Gangplank,Volibear,MonkeyKing,Leblanc,Bard
+2020.0,summer,LCS,5,TL,CLG,1.0,38:03,OK,red,CLG,   DEFEAT   ,62.5k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Aphelios,TwistedFate,Trundle,Olaf,Thresh
+2020.0,summer,LCS,5,FlyQuest,Dignitas,1.0,28:00,OK,blue,DIG,   VICTORY   ,50.0k,14,  6 ,  1 ,  0 ,  3 ,  2 ,Trundle,Orianna,Ezreal,Gangplank,Rakan
+2020.0,summer,LCS,5,FlyQuest,Dignitas,1.0,28:00,OK,red,FLY,   DEFEAT   ,45.6k,5,  1 ,  0 ,  1 ,  1 ,  0 ,TwistedFate,Aphelios,MonkeyKing,Olaf,Graves
+2020.0,summer,LCS,5,Immortals,TSM,1.0,38:42,OK,blue,TSM,   DEFEAT   ,65.4k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Malphite,Ezreal,Karma,Orianna,Leblanc
+2020.0,summer,LCS,5,Immortals,TSM,1.0,38:42,OK,red,IMT,   VICTORY   ,73.7k,13,  11 ,  5 ,  2 ,  5 ,  2 ,TwistedFate,Syndra,Varus,Bard,Braum
+2020.0,summer,LCS,5,100 Thieves,Cloud9,1.0,27:18,OK,blue,100,   VICTORY   ,55.5k,22,  9 ,  1 ,  1 ,  4 ,  2 ,Kalista,TwistedFate,Ezreal,Orianna,Azir
+2020.0,summer,LCS,5,100 Thieves,Cloud9,1.0,27:18,OK,red,C9,   DEFEAT   ,42.2k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Graves,Leblanc,Syndra,Thresh,Malphite
+2020.0,summer,LCS,5,Golden Guardians,TL,1.0,35:35,OK,blue,TL,   VICTORY   ,67.3k,13,  11 ,  4 ,  2 ,  4 ,  2 ,Volibear,Ashe,Varus,Sett,Gangplank
+2020.0,summer,LCS,5,Golden Guardians,TL,1.0,35:35,OK,red,GG,   DEFEAT   ,56.9k,7,  1 ,  0 ,  0 ,  2 ,  0 ,TwistedFate,Trundle,Azir,Thresh,Nautilus
+2020.0,summer,LCS,5,CLG,Evil Geniuses,1.0,47:52,OK,blue,CLG,   VICTORY   ,90.5k,19,  10 ,  4 ,  3 ,  6 ,  0 ,Leblanc,Aphelios,Yuumi,Bard,Jayce
+2020.0,summer,LCS,5,CLG,Evil Geniuses,1.0,47:52,OK,red,EG,   DEFEAT   ,86.9k,17,  8 ,  0 ,  1 ,  2 ,  2 ,TwistedFate,Ornn,Karma,Thresh,Sett
+2020.0,summer,LCS,6,100 Thieves,TSM,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,summer,LCS,6,TL,Evil Geniuses,1.0,32:00,OK,blue,TL,   VICTORY   ,62.8k,17,  11 ,  3 ,  2 ,  4 ,  1 ,Rumble,Ashe,Ezreal,MonkeyKing,Gangplank
+2020.0,summer,LCS,6,TL,Evil Geniuses,1.0,32:00,OK,red,EG,   DEFEAT   ,47.8k,8,  1 ,  0 ,  0 ,  1 ,  0 ,TwistedFate,Ornn,Aphelios,Thresh,Taric
+2020.0,summer,LCS,6,CLG,Dignitas,1.0,36:42,OK,blue,CLG,   DEFEAT   ,59.2k,9,  3 ,  0 ,  0 ,  1 ,  2 ,Leblanc,Azir,Karma,Thresh,Kennen
+2020.0,summer,LCS,6,CLG,Dignitas,1.0,36:42,OK,red,DIG,   VICTORY   ,63.2k,14,  7 ,  1 ,  1 ,  4 ,  0 ,TwistedFate,Volibear,Syndra,Malphite,Yuumi
+2020.0,summer,LCS,6,Cloud9,Evil Geniuses,1.0,32:27,OK,blue,EG,   VICTORY   ,60.6k,17,  9 ,  2 ,  1 ,  4 ,  0 ,Olaf,Leblanc,TwistedFate,Jayce,Thresh
+2020.0,summer,LCS,6,Cloud9,Evil Geniuses,1.0,32:27,OK,red,C9,   DEFEAT   ,53.8k,11,  3 ,  0 ,  0 ,  0 ,  2 ,Ezreal,Karma,Rumble,Blitzcrank,Nautilus
+2020.0,summer,LCS,6,FlyQuest,TSM,1.0,32:42,OK,blue,FLY,   VICTORY   ,60.7k,8,  11 ,  3 ,  1 ,  4 ,  2 ,TwistedFate,Leblanc,Aphelios,MonkeyKing,TahmKench
+2020.0,summer,LCS,6,FlyQuest,TSM,1.0,32:42,OK,red,TSM,   DEFEAT   ,48.5k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Ezreal,Trundle,Karma,Thresh,Sett
+2020.0,summer,LCS,6,Golden Guardians,Immortals,1.0,38:25,OK,blue,GG,   VICTORY   ,70.9k,14,  9 ,  1 ,  1 ,  3 ,  1 ,Orianna,Graves,Ezreal,Azir,Thresh
+2020.0,summer,LCS,6,Golden Guardians,Immortals,1.0,38:25,OK,red,IMT,   DEFEAT   ,63.0k,12,  2 ,  0 ,  0 ,  3 ,  1 ,Karma,Olaf,Volibear,Nidalee,LeeSin
+2020.0,summer,LCS,6,100 Thieves,TL,1.0,35:25,OK,blue,100,   DEFEAT   ,55.7k,5,  2 ,  0 ,  0 ,  3 ,  1 ,Kalista,Azir,Aphelios,Syndra,Leblanc
+2020.0,summer,LCS,6,100 Thieves,TL,1.0,35:25,OK,red,TL,   VICTORY   ,63.6k,12,  9 ,  2 ,  1 ,  2 ,  0 ,Olaf,Nidalee,TwistedFate,Kayle,Camille
+2020.0,summer,LCS,6,FlyQuest,Cloud9,1.0,27:36,OK,blue,C9,   VICTORY   ,53.4k,13,  10 ,  2 ,  1 ,  4 ,  2 ,Volibear,Karma,Aphelios,Azir,Renekton
+2020.0,summer,LCS,6,FlyQuest,Cloud9,1.0,27:36,OK,red,FLY,   DEFEAT   ,41.0k,3,  1 ,  0 ,  0 ,  0 ,  0 ,TwistedFate,Olaf,LeeSin,Jayce,Zoe
+2020.0,summer,LCS,6,CLG,Immortals,1.0,32:33,OK,blue,CLG,   DEFEAT   ,56.9k,11,  3 ,  0 ,  0 ,  0 ,  1 ,Orianna,Ashe,Karma,Yuumi,Rakan
+2020.0,summer,LCS,6,CLG,Immortals,1.0,32:33,OK,red,IMT,   VICTORY   ,62.1k,16,  9 ,  3 ,  2 ,  5 ,  1 ,TwistedFate,Kalista,Syndra,Sylas,Gangplank
+2020.0,summer,LCS,6,Golden Guardians,Dignitas,1.0,28:47,OK,blue,GG,   VICTORY   ,52.8k,4,  10 ,  2 ,  1 ,  4 ,  2 ,Azir,Graves,Karma,Riven,Thresh
+2020.0,summer,LCS,6,Golden Guardians,Dignitas,1.0,28:47,OK,red,DIG,   DEFEAT   ,41.2k,0,  1 ,  0 ,  0 ,  0 ,  0 ,TwistedFate,Volibear,Ashe,Camille,Malphite
+2020.0,summer,LCS,7,Immortals,Evil Geniuses,1.0,30:29,OK,blue,EG,   VICTORY   ,56.5k,12,  8 ,  1 ,  0 ,  4 ,  2 ,Ornn,Ezreal,Karma,Thresh,Morgana
+2020.0,summer,LCS,7,Immortals,Evil Geniuses,1.0,30:29,OK,red,IMT,   DEFEAT   ,45.8k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Rumble,Leblanc,TwistedFate,Bard,Syndra
+2020.0,summer,LCS,7,FlyQuest,TL,1.0,34:49,OK,blue,TL,   DEFEAT   ,53.2k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Pantheon,Trundle,Karma,Olaf,Syndra
+2020.0,summer,LCS,7,FlyQuest,TL,1.0,34:49,OK,red,FLY,   VICTORY   ,65.8k,12,  9 ,  2 ,  1 ,  5 ,  1 ,TwistedFate,Aphelios,Azir,Jayce,Leblanc
+2020.0,summer,LCS,7,100 Thieves,CLG,1.0,31:28,OK,blue,100,   VICTORY   ,63.7k,20,  11 ,  4 ,  2 ,  4 ,  2 ,Ornn,Ezreal,TwistedFate,Corki,Kalista
+2020.0,summer,LCS,7,100 Thieves,CLG,1.0,31:28,OK,red,CLG,   DEFEAT   ,50.3k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Olaf,Aphelios,Karma,Jayce,Camille
+2020.0,summer,LCS,7,Dignitas,TSM,1.0,25:22,OK,blue,TSM,   VICTORY   ,49.8k,9,  10 ,  1 ,  1 ,  4 ,  2 ,Azir,Graves,Karma,Riven,Irelia
+2020.0,summer,LCS,7,Dignitas,TSM,1.0,25:22,OK,red,DIG,   DEFEAT   ,38.8k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Volibear,TwistedFate,Galio,Orianna
+2020.0,summer,LCS,7,Golden Guardians,FlyQuest,1.0,40:41,OK,blue,FLY,   VICTORY   ,71.1k,13,  10 ,  1 ,  1 ,  3 ,  1 ,TwistedFate,Olaf,Karma,Bard,Camille
+2020.0,summer,LCS,7,Golden Guardians,FlyQuest,1.0,40:41,OK,red,GG,   DEFEAT   ,63.5k,11,  2 ,  0 ,  0 ,  4 ,  1 ,Pantheon,Trundle,Orianna,Renekton,Jayce
+2020.0,summer,LCS,7,Immortals,Cloud9,1.0,25:39,OK,blue,IMT,   DEFEAT   ,36.6k,2,  1 ,  0 ,  0 ,  1 ,  1 ,TwistedFate,Aphelios,Olaf,Alistar,MonkeyKing
+2020.0,summer,LCS,7,Immortals,Cloud9,1.0,25:39,OK,red,C9,   VICTORY   ,51.1k,16,  9 ,  2 ,  1 ,  3 ,  1 ,Karma,Graves,Orianna,Malphite,Ornn
+2020.0,summer,LCS,7,Dignitas,Evil Geniuses,1.0,34:01,OK,blue,DIG,   VICTORY   ,66.5k,26,  10 ,  3 ,  2 ,  3 ,  0 ,Rumble,Ezreal,Olaf,Gangplank,Jayce
+2020.0,summer,LCS,7,Dignitas,Evil Geniuses,1.0,34:01,OK,red,EG,   DEFEAT   ,56.2k,11,  5 ,  0 ,  0 ,  2 ,  2 ,Azir,Kalista,Karma,Riven,Bard
+2020.0,summer,LCS,7,TL,Cloud9,1.0,29:18,OK,blue,C9,   DEFEAT   ,49.4k,14,  4 ,  0 ,  0 ,  3 ,  2 ,Azir,Kalista,Leblanc,Orianna,Gangplank
+2020.0,summer,LCS,7,TL,Cloud9,1.0,29:18,OK,red,TL,   VICTORY   ,53.7k,14,  8 ,  1 ,  1 ,  1 ,  0 ,TwistedFate,Olaf,Volibear,Jayce,Galio
+2020.0,summer,LCS,7,CLG,TSM,1.0,35:31,OK,blue,CLG,   DEFEAT   ,59.1k,8,  6 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Sett,Xayah,Azir,LeeSin
+2020.0,summer,LCS,7,CLG,TSM,1.0,35:31,OK,red,TSM,   VICTORY   ,65.1k,15,  8 ,  1 ,  1 ,  4 ,  2 ,TwistedFate,Volibear,Olaf,Camille,Thresh
+2020.0,summer,LCS,7,100 Thieves,Golden Guardians,1.0,28:43,OK,blue,GG,   VICTORY   ,54.5k,17,  7 ,  1 ,  1 ,  4 ,  2 ,Graves,Nidalee,Azir,Jayce,Syndra
+2020.0,summer,LCS,7,100 Thieves,Golden Guardians,1.0,28:43,OK,red,100,   DEFEAT   ,44.0k,4,  1 ,  0 ,  0 ,  0 ,  0 ,TwistedFate,Ezreal,Galio,Ornn,Rumble
+2020.0,summer,LCS,8,TL,Dignitas,1.0,26:41,OK,blue,TL,   VICTORY   ,54.5k,13,  10 ,  2 ,  1 ,  4 ,  2 ,Ashe,Caitlyn,Graves,Riven,Kennen
+2020.0,summer,LCS,8,TL,Dignitas,1.0,26:41,OK,red,DIG,   DEFEAT   ,38.0k,1,  0 ,  0 ,  0 ,  0 ,  0 ,LeeSin,Kalista,Olaf,TahmKench,Jayce
+2020.0,summer,LCS,8,TSM,Evil Geniuses,1.0,39:12,OK,blue,EG,   DEFEAT   ,66.4k,6,  8 ,  1 ,  1 ,  3 ,  2 ,Olaf,Leblanc,Kalista,TwistedFate,Irelia
+2020.0,summer,LCS,8,TSM,Evil Geniuses,1.0,39:12,OK,red,TSM,   VICTORY   ,67.7k,14,  9 ,  1 ,  1 ,  3 ,  0 ,Gangplank,Ezreal,Karma,Ornn,Rumble
+2020.0,summer,LCS,8,100 Thieves,FlyQuest,1.0,32:07,OK,blue,100,   DEFEAT   ,49.1k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Orianna,Ornn,Ashe,Blitzcrank,Trundle
+2020.0,summer,LCS,8,100 Thieves,FlyQuest,1.0,32:07,OK,red,FLY,   VICTORY   ,62.7k,25,  10 ,  2 ,  1 ,  5 ,  0 ,TwistedFate,Olaf,Karma,Jayce,Morgana
+2020.0,summer,LCS,8,Golden Guardians,Cloud9,1.0,36:23,OK,blue,C9,   DEFEAT   ,58.5k,10,  2 ,  0 ,  0 ,  2 ,  2 ,Karma,Caitlyn,Galio,TwistedFate,Leblanc
+2020.0,summer,LCS,8,Golden Guardians,Cloud9,1.0,36:23,OK,red,GG,   VICTORY   ,64.4k,16,  10 ,  1 ,  2 ,  3 ,  0 ,Olaf,Sona,Nidalee,Shen,Kayle
+2020.0,summer,LCS,8,TL,CLG,1.0,38:08,OK,blue,CLG,   DEFEAT   ,61.5k,9,  2 ,  0 ,  0 ,  2 ,  1 ,Azir,Ezreal,Mordekaiser,Ornn,Kennen
+2020.0,summer,LCS,8,TL,CLG,1.0,38:08,OK,red,TL,   VICTORY   ,75.9k,18,  11 ,  4 ,  3 ,  4 ,  1 ,Volibear,Karma,Camille,Jayce,Gangplank
+2020.0,summer,LCS,8,Dignitas,Immortals,1.0,43:07,OK,blue,DIG,   DEFEAT   ,72.5k,13,  4 ,  0 ,  0 ,  3 ,  2 ,Olaf,Karma,Volibear,Urgot,Poppy
+2020.0,summer,LCS,8,Dignitas,Immortals,1.0,43:07,OK,red,IMT,   VICTORY   ,75.1k,15,  10 ,  3 ,  2 ,  4 ,  0 ,Kalista,Bard,Graves,Morgana,Blitzcrank
+2020.0,summer,LCS,8,Golden Guardians,CLG,1.0,30:04,OK,blue,GG,   VICTORY   ,61.5k,18,  10 ,  2 ,  1 ,  4 ,  2 ,Camille,Caitlyn,Karma,Azir,Jayce
+2020.0,summer,LCS,8,Golden Guardians,CLG,1.0,30:04,OK,red,CLG,   DEFEAT   ,48.8k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Olaf,Galio,Nidalee,TahmKench,Renekton
+2020.0,summer,LCS,8,Cloud9,TSM,1.0,32:09,OK,blue,TSM,   VICTORY   ,62.9k,17,  10 ,  2 ,  2 ,  3 ,  1 ,Olaf,Kalista,Ezreal,Galio,Renekton
+2020.0,summer,LCS,8,Cloud9,TSM,1.0,32:09,OK,red,C9,   DEFEAT   ,51.8k,7,  2 ,  0 ,  0 ,  2 ,  1 ,Graves,Nidalee,Xayah,Leblanc,Sylas
+2020.0,summer,LCS,8,FlyQuest,Evil Geniuses,1.0,35:53,OK,blue,EG,   DEFEAT   ,57.2k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Orianna,Azir,Leblanc,Ahri,Shen
+2020.0,summer,LCS,8,FlyQuest,Evil Geniuses,1.0,35:53,OK,red,FLY,   VICTORY   ,65.8k,14,  9 ,  1 ,  1 ,  4 ,  1 ,TwistedFate,Karma,Olaf,Bard,Graves
+2020.0,summer,LCS,8,100 Thieves,Immortals,1.0,31:24,OK,blue,100,   VICTORY   ,60.8k,14,  10 ,  2 ,  1 ,  4 ,  1 ,Ornn,Orianna,Ashe,Urgot,Thresh
+2020.0,summer,LCS,8,100 Thieves,Immortals,1.0,31:24,OK,red,IMT,   DEFEAT   ,44.7k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Karma,Olaf,Renekton,Morgana,Blitzcrank
+2020.0,summer,LCS,9,Dignitas,Cloud9,1.0,41:07,OK,blue,DIG,   DEFEAT   ,71.1k,13,  4 ,  0 ,  1 ,  2 ,  1 ,Olaf,Kalista,Ezreal,Jayce,Galio
+2020.0,summer,LCS,9,Dignitas,Cloud9,1.0,41:07,OK,red,C9,   VICTORY   ,73.6k,12,  7 ,  1 ,  0 ,  4 ,  1 ,Volibear,Shen,Khazix,Azir,Karthus
+2020.0,summer,LCS,9,Golden Guardians,TSM,1.0,38:54,OK,blue,TSM,   VICTORY   ,73.3k,18,  11 ,  3 ,  2 ,  3 ,  1 ,Olaf,Kalista,Karma,Galio,Pantheon
+2020.0,summer,LCS,9,Golden Guardians,TSM,1.0,38:54,OK,red,GG,   DEFEAT   ,66.6k,8,  3 ,  0 ,  0 ,  3 ,  1 ,TwistedFate,Volibear,Caitlyn,Akali,Zilean
+2020.0,summer,LCS,9,100 Thieves,Dignitas,1.0,46:48,OK,blue,100,   DEFEAT   ,80.3k,10,  6 ,  1 ,  2 ,  3 ,  1 ,Azir,Kalista,Ashe,Riven,Leblanc
+2020.0,summer,LCS,9,100 Thieves,Dignitas,1.0,46:48,OK,red,DIG,   VICTORY   ,79.2k,8,  9 ,  2 ,  0 ,  4 ,  1 ,Olaf,Renekton,Galio,Soraka,Zyra
+2020.0,summer,LCS,9,Golden Guardians,Evil Geniuses,1.0,40:30,OK,blue,EG,   VICTORY   ,70.1k,11,  7 ,  2 ,  1 ,  3 ,  0 ,Olaf,Karma,Caitlyn,Ornn,Sion
+2020.0,summer,LCS,9,Golden Guardians,Evil Geniuses,1.0,40:30,OK,red,GG,   DEFEAT   ,73.0k,8,  8 ,  1 ,  2 ,  3 ,  2 ,Gangplank,Volibear,Zoe,Irelia,Galio
+2020.0,summer,LCS,9,TL,Immortals,1.0,44:51,OK,blue,IMT,   DEFEAT   ,68.3k,6,  5 ,  1 ,  0 ,  1 ,  2 ,Kalista,Gangplank,Orianna,Leblanc,Shen
+2020.0,summer,LCS,9,TL,Immortals,1.0,44:51,OK,red,TL,   VICTORY   ,84.1k,21,  10 ,  2 ,  2 ,  6 ,  0 ,Karma,TwistedFate,Corki,Malphite,Galio
+2020.0,summer,LCS,9,FlyQuest,CLG,1.0,37:59,OK,blue,CLG,   DEFEAT   ,60.8k,8,  3 ,  0 ,  0 ,  2 ,  2 ,Azir,Renekton,Swain,Rakan,Thresh
+2020.0,summer,LCS,9,FlyQuest,CLG,1.0,37:59,OK,red,FLY,   VICTORY   ,77.9k,22,  11 ,  4 ,  2 ,  4 ,  0 ,Camille,Caitlyn,Galio,Leblanc,Rumble
+2020.0,summer,LCS,9,100 Thieves,Evil Geniuses,1.0,24:33,OK,blue,EG,   DEFEAT   ,39.9k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Olaf,Karma,Caitlyn,Jayce,Renekton
+2020.0,summer,LCS,9,100 Thieves,Evil Geniuses,1.0,24:33,OK,red,100,   VICTORY   ,54.1k,23,  10 ,  2 ,  1 ,  2 ,  2 ,Rumble,Ezreal,Sett,Azir,Gangplank
+2020.0,summer,LCS,9,CLG,Cloud9,1.0,26:54,OK,blue,CLG,   DEFEAT   ,40.4k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Ezreal,Karma,Leblanc,Akali
+2020.0,summer,LCS,9,CLG,Cloud9,1.0,26:54,OK,red,C9,   VICTORY   ,58.1k,17,  10 ,  2 ,  1 ,  4 ,  2 ,Galio,Sett,Caitlyn,Blitzcrank,Morgana
+2020.0,summer,LCS,9,TL,TSM,1.0,35:42,OK,blue,TL,   VICTORY   ,65.3k,9,  9 ,  1 ,  1 ,  2 ,  2 ,Caitlyn,TwistedFate,Sett,Leblanc,Galio
+2020.0,summer,LCS,9,TL,TSM,1.0,35:42,OK,red,TSM,   DEFEAT   ,57.2k,3,  4 ,  0 ,  0 ,  4 ,  0 ,Kalista,Azir,Volibear,Ornn,Mordekaiser
+2020.0,summer,LCS,9,FlyQuest,Immortals,1.0,35:53,OK,blue,FLY,   VICTORY   ,67.5k,15,  9 ,  1 ,  1 ,  4 ,  2 ,Karma,Olaf,Ashe,TahmKench,Jhin
+2020.0,summer,LCS,9,FlyQuest,Immortals,1.0,35:53,OK,red,IMT,   DEFEAT   ,58.8k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Sett,Volibear,Caitlyn,Gangplank,Kalista
+2020.0,summer,LCS,Tiebreakers,CLG,Dignitas,1.0,32:43,OK,blue,CLG,   DEFEAT   ,52.7k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Azir,Nidalee,Karma,Riven,Thresh
+2020.0,summer,LCS,Tiebreakers,CLG,Dignitas,1.0,32:43,OK,red,DIG,   VICTORY   ,63.4k,17,  10 ,  2 ,  1 ,  5 ,  2 ,Galio,Jayce,Caitlyn,Leblanc,Syndra

@@ -1,0 +1,180 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,LCS,1,TL,Cloud9,1.0,36:22,OK,blue,TL,   VICTORY   ,66.7k,19,  11 ,  4 ,  2 ,  3 ,  0 ,Irelia,Karthus,Akali,XinZhao,Nocturne
+2019.0,spring,LCS,1,TL,Cloud9,1.0,36:22,OK,red,C9,   DEFEAT   ,57.6k,11,  2 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Galio,Rakan,TahmKench,Gragas
+2019.0,spring,LCS,1,100 Thieves,TSM,1.0,34:59,OK,blue,100,   DEFEAT   ,57.9k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Akali,Galio,Irelia,Syndra,Zoe
+2019.0,spring,LCS,1,100 Thieves,TSM,1.0,34:59,OK,red,TSM,   VICTORY   ,65.8k,12,  11 ,  4 ,  2 ,  3 ,  1 ,Cassiopeia,Aatrox,Lissandra,Rakan,Braum
+2019.0,spring,LCS,1,CLG,OpTic Gaming,1.0,36:33,OK,blue,CLG,   DEFEAT   ,60.1k,8,  4 ,  0 ,  0 ,  0 ,  1 ,Galio,Lucian,Karthus,Alistar,TahmKench
+2019.0,spring,LCS,1,CLG,OpTic Gaming,1.0,36:33,OK,red,OPT,   VICTORY   ,71.4k,16,  8 ,  1 ,  1 ,  4 ,  0 ,Aatrox,Cassiopeia,Irelia,Khazix,Syndra
+2019.0,spring,LCS,1,FlyQuest,Golden Guardians,1.0,32:33,OK,blue,FLY,   VICTORY   ,64.1k,17,  11 ,  3 ,  1 ,  3 ,  0 ,Akali,Irelia,Draven,Thresh,Braum
+2019.0,spring,LCS,1,FlyQuest,Golden Guardians,1.0,32:33,OK,red,GGS,   DEFEAT   ,55.6k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Cassiopeia,Aatrox,Rakan,Alistar,TahmKench
+2019.0,spring,LCS,1,Clutch Gaming,Echo Fox,1.0,39:06,OK,blue,CG,   VICTORY   ,72.8k,14,  11 ,  1 ,  1 ,  3 ,  1 ,Irelia,Lucian,Urgot,Khazix,Zoe
+2019.0,spring,LCS,1,Clutch Gaming,Echo Fox,1.0,39:06,OK,red,FOX,   DEFEAT   ,62.3k,9,  1 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Aatrox,Akali,Viktor,Vladimir
+2019.0,spring,LCS,1,OpTic Gaming,FlyQuest,1.0,40:06,OK,blue,FLY,   VICTORY   ,78.3k,16,  7 ,  1 ,  1 ,  3 ,  0 ,Akali,Lucian,Urgot,Syndra,Xayah
+2019.0,spring,LCS,1,OpTic Gaming,FlyQuest,1.0,40:06,OK,red,OPT,   DEFEAT   ,67.0k,10,  5 ,  0 ,  0 ,  1 ,  1 ,Cassiopeia,Aatrox,Galio,Alistar,TahmKench
+2019.0,spring,LCS,1,Cloud9,100 Thieves,1.0,25:29,OK,blue,C9,   VICTORY   ,52.4k,13,  8 ,  1 ,  1 ,  2 ,  1 ,Rakan,Lucian,Akali,Leblanc,Lissandra
+2019.0,spring,LCS,1,Cloud9,100 Thieves,1.0,25:29,OK,red,100,   DEFEAT   ,39.0k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Galio,Irelia,Zoe,Karthus
+2019.0,spring,LCS,1,CLG,TL,1.0,33:29,OK,blue,TL,   VICTORY   ,62.5k,14,  10 ,  2 ,  1 ,  4 ,  1 ,Irelia,Akali,Karthus,Sion,Syndra
+2019.0,spring,LCS,1,CLG,TL,1.0,33:29,OK,red,CLG,   DEFEAT   ,53.2k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Galio,Aatrox,Gragas,Sejuani
+2019.0,spring,LCS,1,Clutch Gaming,TSM,1.0,33:05,OK,blue,CG,   VICTORY   ,64.2k,11,  10 ,  2 ,  1 ,  1 ,  0 ,Irelia,Lucian,Camille,Alistar,Rakan
+2019.0,spring,LCS,1,Clutch Gaming,TSM,1.0,33:05,OK,red,TSM,   DEFEAT   ,56.3k,7,  3 ,  0 ,  0 ,  3 ,  1 ,Galio,Cassiopeia,Lissandra,Braum,XinZhao
+2019.0,spring,LCS,1,Echo Fox,Golden Guardians,1.0,35:58,OK,blue,FOX,   VICTORY   ,71.4k,15,  8 ,  2 ,  2 ,  5 ,  0 ,Irelia,Draven,Camille,Sion,XinZhao
+2019.0,spring,LCS,1,Echo Fox,Golden Guardians,1.0,35:58,OK,red,GGS,   DEFEAT   ,58.1k,9,  2 ,  0 ,  0 ,  1 ,  1 ,Cassiopeia,Aatrox,Akali,Morgana,Thresh
+2019.0,spring,LCS,2,Echo Fox,TSM,1.0,38:16,OK,blue,FOX,   DEFEAT   ,66.4k,18,  3 ,  0 ,  0 ,  1 ,  0 ,Camille,Lucian,Sion,Alistar,Braum
+2019.0,spring,LCS,2,Echo Fox,TSM,1.0,38:16,OK,red,TSM,   VICTORY   ,75.9k,25,  11 ,  2 ,  1 ,  5 ,  1 ,Akali,Urgot,Cassiopeia,Syndra,Zoe
+2019.0,spring,LCS,2,Cloud9,Golden Guardians,1.0,30:44,OK,blue,C9,   VICTORY   ,60.0k,12,  10 ,  3 ,  2 ,  1 ,  1 ,Lucian,Lissandra,Irelia,Thresh,Sion
+2019.0,spring,LCS,2,Cloud9,Golden Guardians,1.0,30:44,OK,red,GGS,   DEFEAT   ,50.0k,4,  2 ,  0 ,  0 ,  3 ,  0 ,Cassiopeia,Akali,Aatrox,Ryze,Ornn
+2019.0,spring,LCS,2,100 Thieves,TL,1.0,34:52,OK,blue,100,   DEFEAT   ,58.4k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Camille,Irelia,Aatrox,TahmKench,Kaisa
+2019.0,spring,LCS,2,100 Thieves,TL,1.0,34:52,OK,red,TL,   VICTORY   ,68.2k,15,  9 ,  1 ,  1 ,  4 ,  0 ,Cassiopeia,Lucian,Alistar,Gragas,XinZhao
+2019.0,spring,LCS,2,FlyQuest,CLG,1.0,48:56,OK,blue,FLY,   DEFEAT   ,83.9k,1,  4 ,  0 ,  0 ,  4 ,  1 ,Camille,Lucian,Lissandra,Fiora,Irelia
+2019.0,spring,LCS,2,FlyQuest,CLG,1.0,48:56,OK,red,CLG,   VICTORY   ,86.2k,9,  11 ,  3 ,  2 ,  3 ,  0 ,Cassiopeia,Urgot,Akali,Galio,Leblanc
+2019.0,spring,LCS,2,Clutch Gaming,OpTic Gaming,1.0,32:40,OK,blue,CG,   DEFEAT   ,56.0k,7,  4 ,  0 ,  0 ,  1 ,  0 ,Camille,Lissandra,Urgot,Leblanc,Yorick
+2019.0,spring,LCS,2,Clutch Gaming,OpTic Gaming,1.0,32:40,OK,red,OPT,   VICTORY   ,61.0k,13,  11 ,  4 ,  2 ,  3 ,  1 ,Cassiopeia,Aatrox,Lucian,Syndra,Zoe
+2019.0,spring,LCS,2,Golden Guardians,100 Thieves,1.0,33:37,OK,blue,GGS,   DEFEAT   ,53.8k,10,  1 ,  0 ,  0 ,  0 ,  0 ,Lucian,Sion,Leblanc,Alistar,Zilean
+2019.0,spring,LCS,2,Golden Guardians,100 Thieves,1.0,33:37,OK,red,100,   VICTORY   ,66.0k,17,  11 ,  3 ,  2 ,  4 ,  1 ,Cassiopeia,Aatrox,Draven,Xayah,Thresh
+2019.0,spring,LCS,2,OpTic Gaming,Echo Fox,1.0,36:29,OK,blue,FOX,   VICTORY   ,68.8k,11,  9 ,  2 ,  2 ,  6 ,  0 ,Camille,Sion,Akali,Kindred,Braum
+2019.0,spring,LCS,2,OpTic Gaming,Echo Fox,1.0,36:29,OK,red,OPT,   DEFEAT   ,58.1k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Aatrox,Lucian,Nocturne,Yorick
+2019.0,spring,LCS,2,TL,Clutch Gaming,1.0,36:46,OK,blue,TL,   VICTORY   ,73.2k,13,  10 ,  1 ,  1 ,  4 ,  1 ,Alistar,Lucian,Jayce,Camille,XinZhao
+2019.0,spring,LCS,2,TL,Clutch Gaming,1.0,36:46,OK,red,CG,   DEFEAT   ,57.4k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Urgot,Sion,Kaisa,Xayah
+2019.0,spring,LCS,2,TSM,FlyQuest,1.0,37:12,OK,blue,TSM,   DEFEAT   ,61.8k,8,  2 ,  0 ,  0 ,  2 ,  1 ,Lissandra,Irelia,Jayce,Leblanc,Gragas
+2019.0,spring,LCS,2,TSM,FlyQuest,1.0,37:12,OK,red,FLY,   VICTORY   ,72.4k,17,  9 ,  3 ,  2 ,  3 ,  0 ,Cassiopeia,Akali,Lucian,Galio,Zilean
+2019.0,spring,LCS,2,CLG,Cloud9,1.0,37:39,OK,blue,C9,   DEFEAT   ,62.4k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Lucian,Lissandra,Akali,Orianna,Syndra
+2019.0,spring,LCS,2,CLG,Cloud9,1.0,37:39,OK,red,CLG,   VICTORY   ,67.6k,13,  9 ,  2 ,  2 ,  6 ,  0 ,Cassiopeia,Urgot,Zoe,Vladimir,Leblanc
+2019.0,spring,LCS,3,100 Thieves,Clutch Gaming,1.0,51:21,OK,blue,100,   VICTORY   ,93.8k,19,  11 ,  4 ,  2 ,  4 ,  1 ,Rumble,LeeSin,Sylas,TahmKench,Gragas
+2019.0,spring,LCS,3,100 Thieves,Clutch Gaming,1.0,51:21,OK,red,CG,   DEFEAT   ,85.9k,7,  2 ,  0 ,  1 ,  2 ,  0 ,Cassiopeia,Lucian,Akali,Sivir,Kaisa
+2019.0,spring,LCS,3,FlyQuest,TL,1.0,35:36,OK,blue,FLY,   DEFEAT   ,57.0k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Akali,Sion,Lucian,Lissandra,Kennen
+2019.0,spring,LCS,3,FlyQuest,TL,1.0,35:36,OK,red,TL,   VICTORY   ,69.8k,11,  10 ,  2 ,  1 ,  3 ,  0 ,Cassiopeia,Ornn,Jayce,Olaf,Galio
+2019.0,spring,LCS,3,TSM,Cloud9,1.0,45:02,OK,blue,TSM,   DEFEAT   ,70.3k,10,  4 ,  0 ,  0 ,  3 ,  1 ,Zoe,Irelia,Cassiopeia,Alistar,Yorick
+2019.0,spring,LCS,3,TSM,Cloud9,1.0,45:02,OK,red,C9,   VICTORY   ,86.8k,19,  11 ,  3 ,  2 ,  2 ,  0 ,Aatrox,Akali,Urgot,LeeSin,Thresh
+2019.0,spring,LCS,3,CLG,Echo Fox,1.0,42:27,OK,blue,FOX,   DEFEAT   ,70.5k,10,  4 ,  0 ,  0 ,  3 ,  1 ,Lucian,Sylas,Sion,Camille,Leblanc
+2019.0,spring,LCS,3,CLG,Echo Fox,1.0,42:27,OK,red,CLG,   VICTORY   ,78.7k,11,  10 ,  2 ,  2 ,  3 ,  0 ,Jayce,Cassiopeia,Akali,Lissandra,Ornn
+2019.0,spring,LCS,3,Golden Guardians,OpTic Gaming,1.0,32:44,OK,blue,OPT,   DEFEAT   ,50.5k,2,  5 ,  0 ,  0 ,  1 ,  1 ,Camille,Draven,Aatrox,Yasuo,Syndra
+2019.0,spring,LCS,3,Golden Guardians,OpTic Gaming,1.0,32:44,OK,red,GGS,   VICTORY   ,60.8k,12,  9 ,  2 ,  1 ,  4 ,  0 ,Akali,Cassiopeia,Lucian,Olaf,Zoe
+2019.0,spring,LCS,3,Echo Fox,FlyQuest,1.0,32:11,OK,blue,FLY,   DEFEAT   ,55.7k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Sylas,Sion,Aatrox,Camille,Olaf
+2019.0,spring,LCS,3,Echo Fox,FlyQuest,1.0,32:11,OK,red,FOX,   VICTORY   ,61.3k,12,  7 ,  1 ,  1 ,  3 ,  0 ,Cassiopeia,Akali,Urgot,Leblanc,Rumble
+2019.0,spring,LCS,3,Clutch Gaming,Cloud9,1.0,33:32,OK,blue,CG,   DEFEAT   ,54.6k,8,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Camille,Aatrox,Braum,Ornn
+2019.0,spring,LCS,3,Clutch Gaming,Cloud9,1.0,33:32,OK,red,C9,   VICTORY   ,66.5k,22,  10 ,  1 ,  1 ,  4 ,  0 ,Cassiopeia,Akali,Lucian,Zilean,Syndra
+2019.0,spring,LCS,3,TL,OpTic Gaming,1.0,31:38,OK,blue,TL,   VICTORY   ,59.6k,14,  10 ,  2 ,  1 ,  3 ,  0 ,Draven,Lissandra,Zilean,Zoe,Velkoz
+2019.0,spring,LCS,3,TL,OpTic Gaming,1.0,31:38,OK,red,OPT,   DEFEAT   ,50.3k,5,  2 ,  0 ,  0 ,  2 ,  1 ,Lucian,Aatrox,Akali,Kaisa,Vayne
+2019.0,spring,LCS,3,Golden Guardians,TSM,1.0,45:00,OK,blue,TSM,   DEFEAT   ,78.5k,14,  8 ,  0 ,  1 ,  2 ,  1 ,Draven,Nocturne,Jayce,Khazix,Braum
+2019.0,spring,LCS,3,Golden Guardians,TSM,1.0,45:00,OK,red,GGS,   VICTORY   ,88.2k,29,  7 ,  1 ,  2 ,  4 ,  0 ,Akali,Cassiopeia,Lucian,Kaisa,Rakan
+2019.0,spring,LCS,3,100 Thieves,CLG,1.0,41:07,OK,blue,100,   VICTORY   ,83.6k,12,  11 ,  4 ,  2 ,  5 ,  1 ,Sion,TahmKench,Zilean,Syndra,Orianna
+2019.0,spring,LCS,3,100 Thieves,CLG,1.0,41:07,OK,red,CLG,   DEFEAT   ,67.4k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Urgot,Akali,Cassiopeia,Zoe,Lissandra
+2019.0,spring,LCS,4,TSM,OpTic Gaming,1.0,43:45,OK,blue,TSM,   VICTORY   ,72.1k,15,  9 ,  1 ,  0 ,  4 ,  0 ,Irelia,Nocturne,Yorick,Draven,Leblanc
+2019.0,spring,LCS,4,TSM,OpTic Gaming,1.0,43:45,OK,red,OPT,   DEFEAT   ,69.6k,9,  5 ,  0 ,  2 ,  2 ,  1 ,Lucian,Sylas,Ezreal,Corki,Yasuo
+2019.0,spring,LCS,4,Golden Guardians,TL,1.0,31:28,OK,blue,GGS,   DEFEAT   ,52.2k,8,  3 ,  0 ,  0 ,  1 ,  1 ,Ezreal,Olaf,Thresh,Yasuo,Leblanc
+2019.0,spring,LCS,4,Golden Guardians,TL,1.0,31:28,OK,red,TL,   VICTORY   ,58.0k,16,  8 ,  1 ,  1 ,  2 ,  0 ,Nocturne,Lucian,Draven,Sejuani,Karthus
+2019.0,spring,LCS,4,Cloud9,Echo Fox,1.0,36:45,OK,blue,C9,   VICTORY   ,65.3k,14,  10 ,  2 ,  1 ,  3 ,  1 ,Jayce,Thresh,Cassiopeia,Leblanc,Yasuo
+2019.0,spring,LCS,4,Cloud9,Echo Fox,1.0,36:45,OK,red,FOX,   DEFEAT   ,56.8k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Nocturne,Lucian,Ezreal,Zoe,JarvanIV
+2019.0,spring,LCS,4,100 Thieves,FlyQuest,1.0,37:11,OK,blue,100,   DEFEAT   ,58.7k,3,  3 ,  0 ,  0 ,  5 ,  0 ,Nocturne,Ornn,Cassiopeia,Jayce,Fiora
+2019.0,spring,LCS,4,100 Thieves,FlyQuest,1.0,37:11,OK,red,FLY,   VICTORY   ,64.6k,7,  7 ,  1 ,  1 ,  0 ,  1 ,Urgot,Lucian,Yorick,Olaf,Zac
+2019.0,spring,LCS,4,Clutch Gaming,CLG,1.0,35:15,OK,blue,CG,   DEFEAT   ,57.4k,4,  3 ,  0 ,  0 ,  2 ,  1 ,Ezreal,Urgot,Sylas,Ivern,Viktor
+2019.0,spring,LCS,4,Clutch Gaming,CLG,1.0,35:15,OK,red,CLG,   VICTORY   ,66.6k,14,  11 ,  5 ,  2 ,  3 ,  0 ,Cassiopeia,Lucian,Jayce,Olaf,Nocturne
+2019.0,spring,LCS,4,Echo Fox,100 Thieves,1.0,29:06,OK,blue,100,   DEFEAT   ,44.2k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Thresh,Nocturne,Ezreal,Sion,LeeSin
+2019.0,spring,LCS,4,Echo Fox,100 Thieves,1.0,29:06,OK,red,FOX,   VICTORY   ,54.4k,14,  9 ,  2 ,  1 ,  4 ,  1 ,Lucian,Urgot,Cassiopeia,AurelionSol,Sejuani
+2019.0,spring,LCS,4,CLG,Golden Guardians,1.0,38:10,OK,blue,GGS,   VICTORY   ,70.2k,9,  10 ,  2 ,  2 ,  5 ,  1 ,Ezreal,Olaf,Sion,Alistar,Leblanc
+2019.0,spring,LCS,4,CLG,Golden Guardians,1.0,38:10,OK,red,CLG,   DEFEAT   ,58.2k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Draven,Lucian,Cassiopeia,Karthus,Zac
+2019.0,spring,LCS,4,TL,TSM,1.0,36:15,OK,blue,TL,   DEFEAT   ,57.9k,4,  3 ,  0 ,  0 ,  2 ,  0 ,Ezreal,Cassiopeia,Irelia,Draven,Kalista
+2019.0,spring,LCS,4,TL,TSM,1.0,36:15,OK,red,TSM,   VICTORY   ,67.7k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Lucian,Urgot,Nocturne,Olaf,Gragas
+2019.0,spring,LCS,4,FlyQuest,Clutch Gaming,1.0,41:06,OK,blue,CG,   DEFEAT   ,69.3k,7,  4 ,  0 ,  0 ,  1 ,  0 ,Nocturne,Ornn,Alistar,Sylas,Jayce
+2019.0,spring,LCS,4,FlyQuest,Clutch Gaming,1.0,41:06,OK,red,FLY,   VICTORY   ,77.8k,13,  11 ,  5 ,  2 ,  5 ,  1 ,Urgot,Lucian,Cassiopeia,JarvanIV,Olaf
+2019.0,spring,LCS,4,OpTic Gaming,Cloud9,1.0,25:28,OK,blue,C9,   VICTORY   ,49.7k,16,  7 ,  1 ,  1 ,  2 ,  1 ,Yorick,Thresh,Cassiopeia,Kalista,Alistar
+2019.0,spring,LCS,4,OpTic Gaming,Cloud9,1.0,25:28,OK,red,OPT,   DEFEAT   ,43.3k,10,  3 ,  0 ,  0 ,  2 ,  0 ,Lucian,Ezreal,Sylas,Zilean,Braum
+2019.0,spring,LCS,5,OpTic Gaming,100 Thieves,1.0,40:29,OK,blue,100,   DEFEAT   ,73.3k,11,  4 ,  0 ,  2 ,  3 ,  1 ,Thresh,Yorick,Zoe,Kaisa,Zilean
+2019.0,spring,LCS,5,OpTic Gaming,100 Thieves,1.0,40:29,OK,red,OPT,   VICTORY   ,72.1k,9,  10 ,  2 ,  1 ,  3 ,  0 ,Lucian,Cassiopeia,Yasuo,Sylas,Elise
+2019.0,spring,LCS,5,TL,Echo Fox,1.0,37:02,OK,blue,TL,   VICTORY   ,68.6k,10,  10 ,  1 ,  1 ,  4 ,  0 ,Nocturne,Yorick,Yasuo,Kindred,Syndra
+2019.0,spring,LCS,5,TL,Echo Fox,1.0,37:02,OK,red,FOX,   DEFEAT   ,59.1k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Urgot,Alistar,Lucian,Cassiopeia,JarvanIV
+2019.0,spring,LCS,5,Clutch Gaming,Golden Guardians,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,spring,LCS,5,FlyQuest,Cloud9,1.0,33:56,OK,blue,C9,   VICTORY   ,67.2k,22,  11 ,  3 ,  1 ,  2 ,  1 ,Jayce,Zoe,Ezreal,Riven,Jax
+2019.0,spring,LCS,5,FlyQuest,Cloud9,1.0,33:56,OK,red,FLY,   DEFEAT   ,58.7k,13,  3 ,  0 ,  1 ,  3 ,  0 ,Lucian,Urgot,Nocturne,Olaf,Zac
+2019.0,spring,LCS,5,TSM,CLG,1.0,24:56,OK,blue,CLG,   DEFEAT   ,37.4k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Cassiopeia,Sylas,Olaf,Leblanc
+2019.0,spring,LCS,5,TSM,CLG,1.0,24:56,OK,red,TSM,   VICTORY   ,48.9k,7,  10 ,  2 ,  1 ,  3 ,  1 ,Lucian,Nocturne,TahmKench,Zoe,Orianna
+2019.0,spring,LCS,5,Golden Guardians,Echo Fox,1.0,37:24,OK,blue,FOX,   DEFEAT   ,60.5k,8,  2 ,  0 ,  0 ,  2 ,  0 ,TahmKench,Yasuo,Thresh,Orianna,Karthus
+2019.0,spring,LCS,5,Golden Guardians,Echo Fox,1.0,37:24,OK,red,GGS,   VICTORY   ,69.9k,14,  10 ,  3 ,  1 ,  3 ,  1 ,Lucian,Cassiopeia,Nocturne,Yorick,Zoe
+2019.0,spring,LCS,5,OpTic Gaming,Clutch Gaming,1.0,44:45,OK,blue,CG,   DEFEAT   ,76.0k,18,  4 ,  0 ,  0 ,  0 ,  0 ,Draven,Yorick,Urgot,Kalista,Ezreal
+2019.0,spring,LCS,5,OpTic Gaming,Clutch Gaming,1.0,44:45,OK,red,OPT,   VICTORY   ,82.7k,15,  11 ,  3 ,  3 ,  5 ,  0 ,Cassiopeia,Yasuo,Alistar,Leblanc,Rumble
+2019.0,spring,LCS,5,Cloud9,CLG,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,spring,LCS,5,FlyQuest,TSM,1.0,39:01,OK,blue,TSM,   VICTORY   ,69.8k,4,  11 ,  3 ,  2 ,  3 ,  1 ,Irelia,Yasuo,Thresh,Malphite,Yorick
+2019.0,spring,LCS,5,FlyQuest,TSM,1.0,39:01,OK,red,FLY,   DEFEAT   ,63.3k,3,  4 ,  0 ,  0 ,  0 ,  0 ,Lucian,Urgot,Ezreal,Olaf,Zac
+2019.0,spring,LCS,5,TL,100 Thieves,1.0,31:58,OK,blue,TL,   VICTORY   ,60.9k,8,  11 ,  2 ,  1 ,  3 ,  1 ,Yasuo,Yorick,Cassiopeia,Vayne,Sivir
+2019.0,spring,LCS,5,TL,100 Thieves,1.0,31:58,OK,red,100,   DEFEAT   ,49.5k,1,  2 ,  0 ,  0 ,  1 ,  0 ,Lucian,Urgot,Sion,Gragas,Nocturne
+2019.0,spring,LCS,6,Clutch Gaming,100 Thieves,1.0,37:12,OK,blue,CG,   DEFEAT   ,66.9k,12,  5 ,  0 ,  0 ,  5 ,  1 ,Lissandra,Thresh,Cassiopeia,Irelia,RekSai
+2019.0,spring,LCS,6,Clutch Gaming,100 Thieves,1.0,37:12,OK,red,100,   VICTORY   ,71.4k,13,  9 ,  1 ,  1 ,  0 ,  0 ,Yasuo,Jayce,Zoe,LeeSin,Sejuani
+2019.0,spring,LCS,6,TSM,Echo Fox,1.0,50:18,OK,blue,FOX,   DEFEAT   ,87.5k,10,  4 ,  0 ,  0 ,  6 ,  1 ,Irelia,TahmKench,Thresh,Yasuo,Yorick
+2019.0,spring,LCS,6,TSM,Echo Fox,1.0,50:18,OK,red,TSM,   VICTORY   ,91.0k,4,  11 ,  2 ,  3 ,  2 ,  0 ,Sylas,Jayce,Lucian,Vladimir,Sivir
+2019.0,spring,LCS,6,Golden Guardians,Cloud9,1.0,37:34,OK,blue,C9,   VICTORY   ,67.5k,9,  10 ,  1 ,  1 ,  5 ,  0 ,Riven,Thresh,Ezreal,Braum,Galio
+2019.0,spring,LCS,6,Golden Guardians,Cloud9,1.0,37:34,OK,red,GGS,   DEFEAT   ,65.0k,8,  4 ,  0 ,  0 ,  1 ,  1 ,Lucian,Sylas,Cassiopeia,Lissandra,Zoe
+2019.0,spring,LCS,6,CLG,FlyQuest,1.0,28:52,OK,blue,FLY,   DEFEAT   ,44.0k,0,  1 ,  0 ,  0 ,  2 ,  0 ,Yorick,Nocturne,Thresh,Renekton,Poppy
+2019.0,spring,LCS,6,CLG,FlyQuest,1.0,28:52,OK,red,CLG,   VICTORY   ,56.7k,10,  9 ,  1 ,  1 ,  2 ,  1 ,Lucian,Jayce,Sylas,Leblanc,JarvanIV
+2019.0,spring,LCS,6,OpTic Gaming,TL,1.0,27:09,OK,blue,TL,   VICTORY   ,52.3k,14,  8 ,  1 ,  0 ,  3 ,  1 ,Thresh,Yorick,RekSai,Jayce,Tristana
+2019.0,spring,LCS,6,OpTic Gaming,TL,1.0,27:09,OK,red,OPT,   DEFEAT   ,39.1k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Sylas,TahmKench,Orianna,Syndra
+2019.0,spring,LCS,6,Echo Fox,Clutch Gaming,1.0,30:27,OK,blue,CG,   VICTORY   ,58.4k,15,  10 ,  2 ,  1 ,  4 ,  1 ,Zoe,Thresh,Nocturne,Orianna,Leblanc
+2019.0,spring,LCS,6,Echo Fox,Clutch Gaming,1.0,30:27,OK,red,FOX,   DEFEAT   ,48.0k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Sylas,Jayce,LeeSin,Elise
+2019.0,spring,LCS,6,100 Thieves,Golden Guardians,1.0,42:35,OK,blue,GGS,   VICTORY   ,80.1k,9,  11 ,  3 ,  1 ,  7 ,  0 ,Sylas,Cassiopeia,Leblanc,JarvanIV,RekSai
+2019.0,spring,LCS,6,100 Thieves,Golden Guardians,1.0,42:35,OK,red,100,   DEFEAT   ,72.4k,9,  4 ,  0 ,  0 ,  0 ,  1 ,Jayce,Yasuo,Thresh,Nocturne,Olaf
+2019.0,spring,LCS,6,Cloud9,TSM,1.0,41:39,OK,blue,C9,   VICTORY   ,71.6k,10,  8 ,  1 ,  0 ,  2 ,  0 ,Thresh,Irelia,Ezreal,Riven,Jax
+2019.0,spring,LCS,6,Cloud9,TSM,1.0,41:39,OK,red,TSM,   DEFEAT   ,73.4k,12,  8 ,  2 ,  2 ,  4 ,  0 ,Sylas,Jayce,Lucian,Zilean,Ornn
+2019.0,spring,LCS,6,TL,CLG,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,spring,LCS,6,FlyQuest,OpTic Gaming,1.0,44:57,OK,blue,OPT,   VICTORY   ,86.1k,16,  7 ,  1 ,  1 ,  5 ,  1 ,Yorick,Zoe,Sylas,Riven,Irelia
+2019.0,spring,LCS,6,FlyQuest,OpTic Gaming,1.0,44:57,OK,red,FLY,   DEFEAT   ,79.7k,11,  9 ,  2 ,  0 ,  2 ,  0 ,Lucian,Jayce,Thresh,Syndra,Vladimir
+2019.0,spring,LCS,7,Golden Guardians,CLG,1.0,38:17,OK,blue,CLG,   DEFEAT   ,62.2k,4,  7 ,  1 ,  0 ,  1 ,  1 ,Riven,Jayce,Vladimir,Yorick,LeeSin
+2019.0,spring,LCS,7,Golden Guardians,CLG,1.0,38:17,OK,red,GGS,   VICTORY   ,73.4k,11,  9 ,  2 ,  1 ,  4 ,  0 ,Cassiopeia,Neeko,Zoe,Syndra,Lissandra
+2019.0,spring,LCS,7,Cloud9,TL,1.0,40:32,OK,blue,TL,   VICTORY   ,75.8k,18,  10 ,  2 ,  0 ,  5 ,  1 ,Cassiopeia,Kindred,Nocturne,Yorick,Evelynn
+2019.0,spring,LCS,7,Cloud9,TL,1.0,40:32,OK,red,C9,   DEFEAT   ,65.9k,6,  3 ,  0 ,  1 ,  0 ,  0 ,TahmKench,Lucian,Ezreal,Leblanc,JarvanIV
+2019.0,spring,LCS,7,TSM,100 Thieves,1.0,54:00,OK,blue,100,   DEFEAT   ,93.5k,8,  10 ,  3 ,  1 ,  5 ,  1 ,Thresh,Sejuani,Neeko,Fiora,Jax
+2019.0,spring,LCS,7,TSM,100 Thieves,1.0,54:00,OK,red,TSM,   VICTORY   ,100.8k,9,  11 ,  6 ,  3 ,  3 ,  0 ,Jayce,Lucian,Vladimir,Lissandra,Ryze
+2019.0,spring,LCS,7,Clutch Gaming,FlyQuest,1.0,33:47,OK,blue,CG,   DEFEAT   ,57.2k,13,  3 ,  0 ,  0 ,  0 ,  1 ,Riven,Zoe,Irelia,Aatrox,Yorick
+2019.0,spring,LCS,7,Clutch Gaming,FlyQuest,1.0,33:47,OK,red,FLY,   VICTORY   ,63.2k,17,  7 ,  2 ,  1 ,  4 ,  0 ,Cassiopeia,Neeko,Jayce,Lucian,Kalista
+2019.0,spring,LCS,7,Echo Fox,OpTic Gaming,1.0,27:01,OK,blue,FOX,   DEFEAT   ,45.4k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Thresh,Nocturne,Leblanc,Tristana,Kaisa
+2019.0,spring,LCS,7,Echo Fox,OpTic Gaming,1.0,27:01,OK,red,OPT,   VICTORY   ,53.4k,12,  10 ,  2 ,  1 ,  4 ,  0 ,Neeko,Lucian,Zoe,Jax,Ryze
+2019.0,spring,LCS,7,TL,Golden Guardians,1.0,37:29,OK,blue,GGS,   DEFEAT   ,63.1k,7,  4 ,  0 ,  0 ,  2 ,  0 ,Galio,Alistar,Lucian,Yorick,Jayce
+2019.0,spring,LCS,7,TL,Golden Guardians,1.0,37:29,OK,red,TL,   VICTORY   ,76.3k,22,  10 ,  2 ,  2 ,  3 ,  1 ,Thresh,Draven,Ryze,Lissandra,Corki
+2019.0,spring,LCS,7,FlyQuest,Echo Fox,1.0,23:24,OK,blue,FOX,   DEFEAT   ,36.7k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Riven,Irelia,Zoe,Fiora,JarvanIV
+2019.0,spring,LCS,7,FlyQuest,Echo Fox,1.0,23:24,OK,red,FLY,   VICTORY   ,52.0k,19,  10 ,  2 ,  1 ,  3 ,  1 ,Neeko,Jayce,Yorick,Swain,Corki
+2019.0,spring,LCS,7,OpTic Gaming,TSM,1.0,38:05,OK,blue,TSM,   VICTORY   ,75.0k,14,  11 ,  5 ,  2 ,  4 ,  1 ,Nocturne,Thresh,Jayce,LeeSin,Yorick
+2019.0,spring,LCS,7,OpTic Gaming,TSM,1.0,38:05,OK,red,OPT,   DEFEAT   ,67.1k,7,  5 ,  0 ,  1 ,  1 ,  0 ,Neeko,RekSai,Zoe,Lissandra,Ryze
+2019.0,spring,LCS,7,100 Thieves,Cloud9,1.0,28:40,OK,blue,C9,   VICTORY   ,53.4k,13,  9 ,  2 ,  1 ,  2 ,  1 ,Leblanc,Neeko,Lucian,Jax,Fiora
+2019.0,spring,LCS,7,100 Thieves,Cloud9,1.0,28:40,OK,red,100,   DEFEAT   ,44.3k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Jayce,Zoe,Kindred,Nocturne,Tristana
+2019.0,spring,LCS,7,CLG,Clutch Gaming,1.0,31:23,OK,blue,CG,   VICTORY   ,61.8k,14,  10 ,  2 ,  1 ,  3 ,  1 ,Yorick,Viktor,Lucian,Kennen,Jax
+2019.0,spring,LCS,7,CLG,Clutch Gaming,1.0,31:23,OK,red,CLG,   DEFEAT   ,48.9k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Jayce,Neeko,Sejuani,Ryze
+2019.0,spring,LCS,8,OpTic Gaming,CLG,1.0,43:31,OK,blue,CLG,   VICTORY   ,79.9k,8,  9 ,  1 ,  0 ,  4 ,  0 ,Draven,Thresh,Leblanc,Nocturne,Syndra
+2019.0,spring,LCS,8,OpTic Gaming,CLG,1.0,43:31,OK,red,OPT,   DEFEAT   ,74.1k,4,  7 ,  1 ,  3 ,  3 ,  1 ,Neeko,Vayne,Zoe,Jax,Ezreal
+2019.0,spring,LCS,8,Clutch Gaming,TL,1.0,38:46,OK,blue,TL,   VICTORY   ,78.1k,23,  10 ,  2 ,  2 ,  6 ,  1 ,Cassiopeia,Irelia,Jayce,Neeko,Gangplank
+2019.0,spring,LCS,8,Clutch Gaming,TL,1.0,38:46,OK,red,CG,   DEFEAT   ,66.9k,12,  3 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Kaisa,Leblanc,Ezreal,Jinx
+2019.0,spring,LCS,8,Echo Fox,Cloud9,1.0,34:10,OK,blue,C9,   DEFEAT   ,58.3k,12,  3 ,  0 ,  0 ,  3 ,  1 ,Zoe,Thresh,Jayce,Leblanc,Lissandra
+2019.0,spring,LCS,8,Echo Fox,Cloud9,1.0,34:10,OK,red,FOX,   VICTORY   ,64.6k,13,  9 ,  1 ,  2 ,  2 ,  0 ,Kindred,Yasuo,Cassiopeia,Ryze,Syndra
+2019.0,spring,LCS,8,TSM,Golden Guardians,1.0,26:21,OK,blue,GGS,   DEFEAT   ,40.6k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Irelia,Cassiopeia,Leblanc,Yorick,Ryze
+2019.0,spring,LCS,8,TSM,Golden Guardians,1.0,26:21,OK,red,TSM,   VICTORY   ,55.1k,16,  10 ,  2 ,  1 ,  3 ,  1 ,Draven,Jayce,Thresh,Karthus,Zoe
+2019.0,spring,LCS,8,FlyQuest,100 Thieves,1.0,34:53,OK,blue,100,   DEFEAT   ,57.4k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Riven,Lissandra,Thresh,Nocturne,Ryze
+2019.0,spring,LCS,8,FlyQuest,100 Thieves,1.0,34:53,OK,red,FLY,   VICTORY   ,66.4k,8,  11 ,  3 ,  1 ,  4 ,  1 ,Jayce,Lucian,Neeko,Elise,Skarner
+2019.0,spring,LCS,8,Golden Guardians,Clutch Gaming,1.0,37:56,OK,blue,CG,   DEFEAT   ,61.0k,12,  4 ,  0 ,  0 ,  0 ,  1 ,Draven,Thresh,Leblanc,Yorick,Aatrox
+2019.0,spring,LCS,8,Golden Guardians,Clutch Gaming,1.0,37:56,OK,red,GGS,   VICTORY   ,69.5k,17,  11 ,  4 ,  2 ,  6 ,  0 ,Irelia,Cassiopeia,Jayce,Kalista,Ryze
+2019.0,spring,LCS,8,Cloud9,OpTic Gaming,1.0,39:36,OK,blue,OPT,   DEFEAT   ,63.5k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Zoe,Jayce,Jax,Zilean
+2019.0,spring,LCS,8,Cloud9,OpTic Gaming,1.0,39:36,OK,red,C9,   VICTORY   ,74.8k,22,  10 ,  2 ,  1 ,  5 ,  0 ,TahmKench,RekSai,Vi,Draven,Kalista
+2019.0,spring,LCS,8,100 Thieves,Echo Fox,1.0,28:41,OK,blue,FOX,   VICTORY   ,56.0k,11,  11 ,  2 ,  1 ,  4 ,  1 ,Leblanc,RekSai,Kalista,Fiora,Jax
+2019.0,spring,LCS,8,100 Thieves,Echo Fox,1.0,28:41,OK,red,100,   DEFEAT   ,45.9k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Jayce,Nocturne,Zoe,Azir,Cassiopeia
+2019.0,spring,LCS,8,TL,FlyQuest,1.0,40:35,OK,blue,TL,   DEFEAT   ,69.9k,13,  4 ,  0 ,  0 ,  4 ,  1 ,Nocturne,Jinx,Ryze,Vladimir,Yorick
+2019.0,spring,LCS,8,TL,FlyQuest,1.0,40:35,OK,red,FLY,   VICTORY   ,75.3k,13,  9 ,  2 ,  1 ,  1 ,  0 ,Jayce,Galio,Lissandra,Thresh,TahmKench
+2019.0,spring,LCS,8,CLG,TSM,1.0,36:49,OK,blue,TSM,   VICTORY   ,70.7k,23,  11 ,  3 ,  1 ,  2 ,  0 ,Irelia,TahmKench,Jayce,Ezreal,Ryze
+2019.0,spring,LCS,8,CLG,TSM,1.0,36:49,OK,red,CLG,   DEFEAT   ,63.2k,6,  4 ,  0 ,  1 ,  3 ,  1 ,Akali,Thresh,Galio,Leblanc,Zed
+2019.0,spring,LCS,9,OpTic Gaming,Golden Guardians,1.0,30:15,OK,blue,GGS,   VICTORY   ,56.4k,8,  9 ,  1 ,  1 ,  5 ,  1 ,Leblanc,RekSai,Ryze,Jinx,Sivir
+2019.0,spring,LCS,9,OpTic Gaming,Golden Guardians,1.0,30:15,OK,red,OPT,   DEFEAT   ,46.5k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Sylas,Karthus,Jayce,Nocturne,Kennen
+2019.0,spring,LCS,9,Echo Fox,TL,1.0,37:03,OK,blue,FOX,   VICTORY   ,67.4k,11,  10 ,  1 ,  2 ,  3 ,  1 ,Ryze,Kennen,Gangplank,Syndra,Zoe
+2019.0,spring,LCS,9,Echo Fox,TL,1.0,37:03,OK,red,TL,   DEFEAT   ,58.3k,6,  4 ,  0 ,  0 ,  2 ,  0 ,Jayce,Sylas,Vladimir,Rakan,Braum
+2019.0,spring,LCS,9,TSM,Clutch Gaming,1.0,29:28,OK,blue,CG,   DEFEAT   ,47.7k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Zoe,Kalista,Irelia,Aatrox,Riven
+2019.0,spring,LCS,9,TSM,Clutch Gaming,1.0,29:28,OK,red,TSM,   VICTORY   ,55.6k,9,  10 ,  2 ,  1 ,  2 ,  0 ,Jayce,Cassiopeia,Sylas,Rumble,Nocturne
+2019.0,spring,LCS,9,Cloud9,FlyQuest,1.0,24:55,OK,blue,C9,   VICTORY   ,49.7k,13,  11 ,  2 ,  1 ,  2 ,  1 ,Braum,Lissandra,Irelia,Riven,Aatrox
+2019.0,spring,LCS,9,Cloud9,FlyQuest,1.0,24:55,OK,red,FLY,   DEFEAT   ,37.8k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Sylas,Jayce,Ryze,Varus,Akali
+2019.0,spring,LCS,9,CLG,100 Thieves,1.0,33:47,OK,blue,100,   DEFEAT   ,50.9k,5,  3 ,  0 ,  0 ,  3 ,  0 ,RekSai,Nocturne,Leblanc,Gangplank,Kennen
+2019.0,spring,LCS,9,CLG,100 Thieves,1.0,33:47,OK,red,CLG,   VICTORY   ,61.9k,14,  9 ,  2 ,  2 ,  2 ,  1 ,Lissandra,Sylas,Jayce,Irelia,Skarner
+2019.0,spring,LCS,9,Golden Guardians,FlyQuest,1.0,39:41,OK,blue,FLY,   DEFEAT   ,68.6k,8,  5 ,  0 ,  0 ,  4 ,  0 ,Karthus,Thresh,Swain,Vladimir,Kennen
+2019.0,spring,LCS,9,Golden Guardians,FlyQuest,1.0,39:41,OK,red,GGS,   VICTORY   ,73.5k,14,  6 ,  1 ,  2 ,  3 ,  1 ,Sylas,Jayce,Ryze,Leblanc,Akali
+2019.0,spring,LCS,9,Echo Fox,CLG,1.0,35:54,OK,blue,CLG,   DEFEAT   ,60.9k,9,  4 ,  0 ,  0 ,  1 ,  1 ,Lissandra,Aatrox,JarvanIV,Leblanc,Irelia
+2019.0,spring,LCS,9,Echo Fox,CLG,1.0,35:54,OK,red,FOX,   VICTORY   ,68.6k,22,  9 ,  2 ,  1 ,  4 ,  0 ,Jayce,Kalista,Sylas,Ryze,Syndra
+2019.0,spring,LCS,9,Cloud9,Clutch Gaming,1.0,29:31,OK,blue,C9,   VICTORY   ,61.5k,19,  11 ,  3 ,  1 ,  3 ,  1 ,Ryze,Cassiopeia,Irelia,Vladimir,Rumble
+2019.0,spring,LCS,9,Cloud9,Clutch Gaming,1.0,29:31,OK,red,CG,   DEFEAT   ,46.1k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Sylas,Thresh,Jayce,Nocturne,Aatrox
+2019.0,spring,LCS,9,TSM,TL,1.0,33:01,OK,blue,TL,   DEFEAT   ,52.7k,4,  2 ,  0 ,  0 ,  2 ,  0 ,Ryze,RekSai,Lissandra,Sejuani,Skarner
+2019.0,spring,LCS,9,TSM,TL,1.0,33:01,OK,red,TSM,   VICTORY   ,64.9k,11,  11 ,  3 ,  2 ,  2 ,  1 ,Jayce,Sylas,Kennen,Gangplank,Leblanc
+2019.0,spring,LCS,9,100 Thieves,OpTic Gaming,1.0,26:03,OK,blue,OPT,   VICTORY   ,52.8k,20,  9 ,  1 ,  0 ,  3 ,  1 ,TahmKench,Akali,RekSai,Ivern,JarvanIV
+2019.0,spring,LCS,9,100 Thieves,OpTic Gaming,1.0,26:03,OK,red,100,   DEFEAT   ,43.9k,8,  1 ,  0 ,  1 ,  1 ,  0 ,Lissandra,Jayce,Thresh,Kalista,Draven
+2019.0,spring,LCS,Tiebreakers,FlyQuest,Golden Guardians,1.0,35:46,OK,blue,FLY,   VICTORY   ,68.8k,18,  8 ,  1 ,  1 ,  1 ,  0 ,Karthus,TahmKench,Swain,Akali,
+2019.0,spring,LCS,Tiebreakers,FlyQuest,Golden Guardians,1.0,35:46,OK,red,GGS,   DEFEAT   ,64.8k,14,  7 ,  1 ,  1 ,  4 ,  1 ,Jayce,Sylas,RekSai,Xayah,Riven

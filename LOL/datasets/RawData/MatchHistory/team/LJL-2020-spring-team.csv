@@ -1,0 +1,112 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,LJL,1,Detonation FocusMe,V3 Esports,1.0,24:37,OK,blue,DFM,   VICTORY   ,46.5k,13,  7 ,  1 ,  1 ,  3 ,  2 ,Soraka,Elise,Leblanc,Yasuo,Ornn
+2020.0,spring,LJL,1,Detonation FocusMe,V3 Esports,1.0,24:37,OK,red,V3,   DEFEAT   ,36.1k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Syndra,Sett,Akali,Thresh,Mordekaiser
+2020.0,spring,LJL,1,V3 Esports,AXIZ,1.0,23:01,OK,blue,V3,   VICTORY   ,46.8k,19,  10 ,  1 ,  1 ,  3 ,  1 ,Syndra,Elise,JarvanIV,Soraka,Senna
+2020.0,spring,LJL,1,V3 Esports,AXIZ,1.0,23:01,OK,red,AXZ,   DEFEAT   ,35.9k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Akali,Lucian,Pantheon,Yasuo,Leblanc
+2020.0,spring,LJL,1,AXIZ,Burning Core,1.0,34:28,OK,blue,BC,   VICTORY   ,61.6k,20,  8 ,  2 ,  1 ,  2 ,  2 ,Elise,Rumble,Mordekaiser,MissFortune,Kayle
+2020.0,spring,LJL,1,AXIZ,Burning Core,1.0,34:28,OK,red,AXZ,   DEFEAT   ,55.8k,5,  4 ,  0 ,  0 ,  3 ,  0 ,Akali,Lucian,JarvanIV,Yasuo,Cassiopeia
+2020.0,spring,LJL,1,Burning Core,Detonation FocusMe,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,LJL,1,Crest Gaming Act,Fukuoka SoftBank Hawks,1.0,31:45,OK,blue,CGA,   VICTORY   ,55.2k,13,  7 ,  1 ,  1 ,  2 ,  1 ,Syndra,Rumble,Lucian,Leona,Gangplank
+2020.0,spring,LJL,1,Crest Gaming Act,Fukuoka SoftBank Hawks,1.0,31:45,OK,red,SHG,   DEFEAT   ,49.3k,8,  3 ,  0 ,  0 ,  3 ,  1 ,Draven,Akali,Elise,Leblanc,Qiyana
+2020.0,spring,LJL,1,Fukuoka SoftBank Hawks,Sengoku Gaming,1.0,36:35,OK,blue,SG,   DEFEAT   ,57.1k,6,  3 ,  0 ,  0 ,  1 ,  2 ,Irelia,Sett,Lucian,Braum,Aatrox
+2020.0,spring,LJL,1,Fukuoka SoftBank Hawks,Sengoku Gaming,1.0,36:35,OK,red,SHG,   VICTORY   ,65.7k,11,  8 ,  1 ,  2 ,  4 ,  0 ,Elise,Syndra,Rumble,Leona,Ornn
+2020.0,spring,LJL,1,Sengoku Gaming,Rascal Jester,1.0,39:40,OK,blue,SG,   VICTORY   ,71.5k,15,  11 ,  3 ,  1 ,  4 ,  2 ,Elise,Sett,Soraka,Leona,Nautilus
+2020.0,spring,LJL,1,Sengoku Gaming,Rascal Jester,1.0,39:40,OK,red,RJ,   DEFEAT   ,59.3k,3,  1 ,  0 ,  0 ,  2 ,  0 ,Akali,Aphelios,Lucian,LeeSin,RekSai
+2020.0,spring,LJL,1,Rascal Jester,Crest Gaming Act,1.0,31:17,OK,blue,CGA,   DEFEAT   ,46.3k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Syndra,Rumble,TahmKench,MissFortune,Varus
+2020.0,spring,LJL,1,Rascal Jester,Crest Gaming Act,1.0,31:17,OK,red,RJ,   VICTORY   ,56.9k,22,  9 ,  2 ,  1 ,  3 ,  1 ,Akali,Senna,Lucian,Zoe,Leblanc
+2020.0,spring,LJL,2,V3 Esports,Sengoku Gaming,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,LJL,2,Burning Core,V3 Esports,1.0,27:52,OK,blue,V3,   VICTORY   ,52.1k,10,  11 ,  2 ,  1 ,  3 ,  2 ,Sett,Syndra,JarvanIV,Braum,TahmKench
+2020.0,spring,LJL,2,Burning Core,V3 Esports,1.0,27:52,OK,red,BC,   DEFEAT   ,38.3k,0,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Aphelios,Elise,Leona,Leblanc
+2020.0,spring,LJL,2,Crest Gaming Act,Burning Core,1.0,34:55,OK,blue,CGA,   VICTORY   ,67.1k,26,  8 ,  1 ,  1 ,  2 ,  2 ,Syndra,Soraka,Rumble,Leona,Ryze
+2020.0,spring,LJL,2,Crest Gaming Act,Burning Core,1.0,34:55,OK,red,BC,   DEFEAT   ,56.6k,16,  3 ,  0 ,  0 ,  3 ,  0 ,Akali,Zoe,Aphelios,Varus,Jhin
+2020.0,spring,LJL,2,Sengoku Gaming,Crest Gaming Act,1.0,27:49,OK,blue,CGA,   VICTORY   ,48.5k,7,  8 ,  2 ,  1 ,  2 ,  0 ,Syndra,Soraka,Rumble,Leona,Yorick
+2020.0,spring,LJL,2,Sengoku Gaming,Crest Gaming Act,1.0,27:49,OK,red,SG,   DEFEAT   ,46.2k,3,  4 ,  0 ,  0 ,  2 ,  2 ,Akali,Elise,Aphelios,Zoe,Lissandra
+2020.0,spring,LJL,2,Detonation FocusMe,AXIZ,1.0,36:29,OK,blue,DFM,   VICTORY   ,67.6k,13,  11 ,  4 ,  2 ,  2 ,  2 ,Elise,Syndra,Akali,Leblanc,RekSai
+2020.0,spring,LJL,2,Detonation FocusMe,AXIZ,1.0,36:29,OK,red,AXZ,   DEFEAT   ,54.0k,4,  0 ,  0 ,  0 ,  3 ,  0 ,Heimerdinger,JarvanIV,Rumble,Blitzcrank,Leona
+2020.0,spring,LJL,2,Rascal Jester,Detonation FocusMe,1.0,43:26,OK,blue,RJ,   DEFEAT   ,66.3k,7,  3 ,  0 ,  1 ,  2 ,  1 ,Heimerdinger,Aatrox,JarvanIV,Leona,Braum
+2020.0,spring,LJL,2,Rascal Jester,Detonation FocusMe,1.0,43:26,OK,red,DFM,   VICTORY   ,73.5k,16,  9 ,  1 ,  1 ,  4 ,  1 ,Soraka,Rumble,Sett,MissFortune,Leblanc
+2020.0,spring,LJL,2,Fukuoka SoftBank Hawks,Rascal Jester,1.0,35:49,OK,blue,RJ,   DEFEAT   ,56.1k,8,  4 ,  0 ,  0 ,  2 ,  2 ,Lucian,JarvanIV,Akali,Leblanc,Zoe
+2020.0,spring,LJL,2,Fukuoka SoftBank Hawks,Rascal Jester,1.0,35:49,OK,red,SHG,   VICTORY   ,63.5k,18,  6 ,  1 ,  1 ,  4 ,  0 ,Soraka,Rumble,Sett,Rakan,Thresh
+2020.0,spring,LJL,2,AXIZ,Fukuoka SoftBank Hawks,1.0,37:36,OK,blue,SHG,   VICTORY   ,66.9k,15,  9 ,  1 ,  2 ,  3 ,  0 ,Karthus,Syndra,Elise,Zoe,Leblanc
+2020.0,spring,LJL,2,AXIZ,Fukuoka SoftBank Hawks,1.0,37:36,OK,red,AXZ,   DEFEAT   ,55.7k,3,  3 ,  0 ,  0 ,  3 ,  2 ,Lucian,Akali,Sett,LeeSin,Gragas
+2020.0,spring,LJL,3,Rascal Jester,AXIZ,1.0,31:31,OK,blue,AXZ,   VICTORY   ,55.7k,13,  10 ,  2 ,  1 ,  3 ,  2 ,Soraka,Rumble,Lucian,Rakan,Bard
+2020.0,spring,LJL,3,Rascal Jester,AXIZ,1.0,31:31,OK,red,RJ,   DEFEAT   ,46.4k,1,  2 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Sett,Akali,Qiyana,Pantheon
+2020.0,spring,LJL,3,AXIZ,Crest Gaming Act,1.0,36:43,OK,blue,CGA,   VICTORY   ,68.0k,20,  7 ,  1 ,  1 ,  3 ,  2 ,Syndra,Rumble,Sett,MissFortune,Aatrox
+2020.0,spring,LJL,3,AXIZ,Crest Gaming Act,1.0,36:43,OK,red,AXZ,   DEFEAT   ,66.2k,20,  7 ,  0 ,  1 ,  2 ,  0 ,Senna,Akali,Elise,LeeSin,JarvanIV
+2020.0,spring,LJL,3,Crest Gaming Act,V3 Esports,1.0,36:15,OK,blue,CGA,   DEFEAT   ,55.7k,12,  3 ,  0 ,  0 ,  4 ,  1 ,Syndra,Rumble,MissFortune,Nocturne,Pantheon
+2020.0,spring,LJL,3,Crest Gaming Act,V3 Esports,1.0,36:15,OK,red,V3,   VICTORY   ,61.1k,17,  7 ,  1 ,  0 ,  1 ,  0 ,Akali,Aphelios,Sett,Leblanc,Draven
+2020.0,spring,LJL,3,V3 Esports,Rascal Jester,1.0,38:45,OK,blue,V3,   DEFEAT   ,64.5k,8,  5 ,  0 ,  1 ,  2 ,  1 ,Rumble,Soraka,JarvanIV,RekSai,MissFortune
+2020.0,spring,LJL,3,V3 Esports,Rascal Jester,1.0,38:45,OK,red,RJ,   VICTORY   ,67.1k,16,  6 ,  1 ,  1 ,  4 ,  1 ,Akali,Sett,Elise,Braum,Thresh
+2020.0,spring,LJL,3,Fukuoka SoftBank Hawks,Detonation FocusMe,1.0,33:38,OK,blue,DFM,   VICTORY   ,61.7k,17,  8 ,  1 ,  2 ,  2 ,  1 ,Leblanc,Lucian,Akali,Syndra,Ornn
+2020.0,spring,LJL,3,Fukuoka SoftBank Hawks,Detonation FocusMe,1.0,33:38,OK,red,SHG,   DEFEAT   ,51.2k,6,  2 ,  0 ,  0 ,  3 ,  1 ,Heimerdinger,Karma,Sett,Gangplank,Mordekaiser
+2020.0,spring,LJL,3,Burning Core,Fukuoka SoftBank Hawks,1.0,36:59,OK,blue,BC,   VICTORY   ,69.9k,14,  10 ,  2 ,  2 ,  4 ,  1 ,Rumble,Irelia,Akali,Nautilus,Thresh
+2020.0,spring,LJL,3,Burning Core,Fukuoka SoftBank Hawks,1.0,36:59,OK,red,SHG,   DEFEAT   ,57.2k,5,  2 ,  0 ,  0 ,  2 ,  1 ,Elise,Ornn,Darius,Gangplank,LeeSin
+2020.0,spring,LJL,3,Burning Core,Sengoku Gaming,1.0,35:10,OK,blue,BC,   VICTORY   ,68.4k,19,  10 ,  3 ,  2 ,  2 ,  1 ,Syndra,RekSai,Orianna,Thresh,MissFortune
+2020.0,spring,LJL,3,Burning Core,Sengoku Gaming,1.0,35:10,OK,red,SG,   DEFEAT   ,54.2k,5,  1 ,  0 ,  0 ,  3 ,  1 ,Akali,Elise,Sett,Darius,Aatrox
+2020.0,spring,LJL,3,Detonation FocusMe,Sengoku Gaming,1.0,39:23,OK,blue,DFM,   VICTORY   ,69.5k,12,  11 ,  3 ,  1 ,  2 ,  0 ,Rumble,Senna,RekSai,Leblanc,Yuumi
+2020.0,spring,LJL,3,Detonation FocusMe,Sengoku Gaming,1.0,39:23,OK,red,SG,   DEFEAT   ,59.1k,5,  4 ,  0 ,  0 ,  4 ,  2 ,Heimerdinger,Akali,Aphelios,Varus,Xayah
+2020.0,spring,LJL,4,Fukuoka SoftBank Hawks,AXIZ,1.0,40:38,OK,blue,AXZ,   VICTORY   ,76.4k,20,  10 ,  3 ,  2 ,  3 ,  1 ,Ornn,Leblanc,Vladimir,JarvanIV,Lucian
+2020.0,spring,LJL,4,Fukuoka SoftBank Hawks,AXIZ,1.0,40:38,OK,red,SHG,   DEFEAT   ,68.4k,8,  2 ,  0 ,  1 ,  3 ,  1 ,Aphelios,Mordekaiser,Karthus,Zoe,Orianna
+2020.0,spring,LJL,4,Sengoku Gaming,AXIZ,1.0,42:22,OK,blue,SG,   VICTORY   ,73.8k,10,  10 ,  1 ,  1 ,  4 ,  1 ,JarvanIV,Yuumi,Elise,Irelia,RekSai
+2020.0,spring,LJL,4,Sengoku Gaming,AXIZ,1.0,42:22,OK,red,AXZ,   DEFEAT   ,69.3k,10,  3 ,  0 ,  0 ,  2 ,  1 ,Ornn,Aphelios,Sett,LeeSin,Olaf
+2020.0,spring,LJL,4,Sengoku Gaming,V3 Esports,1.0,56:55,OK,blue,SG,   VICTORY   ,94.5k,9,  11 ,  5 ,  1 ,  3 ,  2 ,Elise,Yuumi,JarvanIV,Gragas,TahmKench
+2020.0,spring,LJL,4,Sengoku Gaming,V3 Esports,1.0,56:55,OK,red,V3,   DEFEAT   ,90.5k,6,  5 ,  0 ,  1 ,  6 ,  0 ,Leblanc,Olaf,MissFortune,Sett,Aatrox
+2020.0,spring,LJL,4,V3 Esports,Fukuoka SoftBank Hawks,1.0,31:44,OK,blue,V3,   DEFEAT   ,46.1k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Irelia,Lucian,MissFortune,Sett,Camille
+2020.0,spring,LJL,4,V3 Esports,Fukuoka SoftBank Hawks,1.0,31:44,OK,red,SHG,   VICTORY   ,59.8k,18,  9 ,  2 ,  1 ,  4 ,  2 ,Aphelios,Ornn,Mordekaiser,Olaf,Zoe
+2020.0,spring,LJL,4,Burning Core,Crest Gaming Act,1.0,28:37,OK,blue,BC,   VICTORY   ,55.7k,22,  9 ,  1 ,  1 ,  2 ,  0 ,Ornn,Zoe,Leblanc,Ekko,Sejuani
+2020.0,spring,LJL,4,Burning Core,Crest Gaming Act,1.0,28:37,OK,red,CGA,   DEFEAT   ,42.4k,3,  3 ,  0 ,  0 ,  2 ,  2 ,Syndra,Rumble,Aphelios,Elise,Olaf
+2020.0,spring,LJL,4,Crest Gaming Act,Detonation FocusMe,1.0,26:18,OK,blue,CGA,   DEFEAT   ,40.1k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Heimerdinger,Ziggs,Karma,Syndra,Aatrox
+2020.0,spring,LJL,4,Crest Gaming Act,Detonation FocusMe,1.0,26:18,OK,red,DFM,   VICTORY   ,51.3k,16,  11 ,  2 ,  1 ,  4 ,  1 ,Zoe,Aphelios,Soraka,Leblanc,Qiyana
+2020.0,spring,LJL,4,Detonation FocusMe,Rascal Jester,1.0,29:26,OK,blue,RJ,   DEFEAT   ,45.2k,2,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Heimerdinger,Aatrox,Syndra,Elise
+2020.0,spring,LJL,4,Detonation FocusMe,Rascal Jester,1.0,29:26,OK,red,DFM,   VICTORY   ,53.2k,6,  8 ,  1 ,  0 ,  3 ,  1 ,Rumble,Aphelios,Soraka,Mordekaiser,Ryze
+2020.0,spring,LJL,4,Rascal Jester,Burning Core,1.0,50:42,OK,blue,BC,   DEFEAT   ,80.0k,17,  4 ,  0 ,  0 ,  4 ,  2 ,Soraka,Ornn,Zoe,Braum,Mordekaiser
+2020.0,spring,LJL,4,Rascal Jester,Burning Core,1.0,50:42,OK,red,RJ,   VICTORY   ,88.6k,24,  8 ,  2 ,  3 ,  3 ,  0 ,Yuumi,Aphelios,Elise,Leblanc,Viktor
+2020.0,spring,LJL,5,AXIZ,Rascal Jester,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,LJL,5,Burning Core,Rascal Jester,1.0,43:25,OK,blue,RJ,   VICTORY   ,74.1k,15,  7 ,  1 ,  2 ,  3 ,  0 ,LeeSin,Elise,Senna,Leona,Thresh
+2020.0,spring,LJL,5,Burning Core,Rascal Jester,1.0,43:25,OK,red,BC,   DEFEAT   ,71.8k,19,  7 ,  1 ,  0 ,  4 ,  2 ,Ornn,Sett,Yuumi,Nautilus,Rakan
+2020.0,spring,LJL,5,Detonation FocusMe,Burning Core,1.0,30:11,OK,blue,BC,   DEFEAT   ,45.1k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Heimerdinger,Elise,Sett,Braum,Thresh
+2020.0,spring,LJL,5,Detonation FocusMe,Burning Core,1.0,30:11,OK,red,DFM,   VICTORY   ,53.0k,14,  7 ,  1 ,  1 ,  3 ,  0 ,Yuumi,Senna,Aphelios,Yasuo,Syndra
+2020.0,spring,LJL,5,AXIZ,V3 Esports,1.0,41:44,OK,blue,AXZ,   VICTORY   ,70.8k,10,  0 ,  0 ,  0 ,  1 ,  1 ,Ornn,Jayce,Ezreal,TahmKench,Thresh
+2020.0,spring,LJL,5,AXIZ,V3 Esports,1.0,41:44,OK,red,V3,   DEFEAT   ,70.7k,15,  0 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Senna,Yuumi,Gangplank,Mordekaiser
+2020.0,spring,LJL,5,Sengoku Gaming,Detonation FocusMe,1.0,38:43,OK,blue,SG,   VICTORY   ,71.2k,9,  11 ,  3 ,  2 ,  6 ,  1 ,Sett,Olaf,JarvanIV,Vladimir,Braum
+2020.0,spring,LJL,5,Sengoku Gaming,Detonation FocusMe,1.0,38:43,OK,red,DFM,   DEFEAT   ,61.1k,7,  3 ,  0 ,  1 ,  0 ,  1 ,Leblanc,Yuumi,Senna,Syndra,Gnar
+2020.0,spring,LJL,5,Fukuoka SoftBank Hawks,V3 Esports,1.0,29:26,OK,blue,V3,   VICTORY   ,55.4k,18,  9 ,  1 ,  1 ,  2 ,  2 ,Elise,Irelia,Leblanc,JarvanIV,RekSai
+2020.0,spring,LJL,5,Fukuoka SoftBank Hawks,V3 Esports,1.0,29:26,OK,red,SHG,   DEFEAT   ,44.0k,5,  0 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Yuumi,Senna,Rakan,Zoe
+2020.0,spring,LJL,5,Crest Gaming Act,Sengoku Gaming,1.0,38:35,OK,blue,CGA,   DEFEAT   ,58.1k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Rumble,Yuumi,Olaf,Nocturne,Sylas
+2020.0,spring,LJL,5,Crest Gaming Act,Sengoku Gaming,1.0,38:35,OK,red,SG,   VICTORY   ,68.2k,9,  9 ,  2 ,  1 ,  5 ,  1 ,Ornn,Sett,Aphelios,Zoe,Vladimir
+2020.0,spring,LJL,5,Fukuoka SoftBank Hawks,Crest Gaming Act,1.0,39:01,OK,blue,CGA,   VICTORY   ,73.5k,18,  9 ,  1 ,  1 ,  3 ,  1 ,Rumble,Yuumi,Olaf,Leblanc,Azir
+2020.0,spring,LJL,5,Fukuoka SoftBank Hawks,Crest Gaming Act,1.0,39:01,OK,red,SHG,   DEFEAT   ,60.6k,6,  2 ,  0 ,  0 ,  3 ,  1 ,Ornn,Chogath,Draven,Zoe,Ekko
+2020.0,spring,LJL,6,Detonation FocusMe,Crest Gaming Act,1.0,40:35,OK,blue,CGA,   DEFEAT   ,70.3k,19,  5 ,  0 ,  0 ,  2 ,  1 ,Olaf,Heimerdinger,Yuumi,Thresh,Leona
+2020.0,spring,LJL,6,Detonation FocusMe,Crest Gaming Act,1.0,40:35,OK,red,DFM,   VICTORY   ,71.7k,18,  9 ,  2 ,  1 ,  4 ,  1 ,Senna,Ornn,Zoe,Leblanc,Sylas
+2020.0,spring,LJL,6,Detonation FocusMe,Fukuoka SoftBank Hawks,1.0,35:58,OK,blue,DFM,   VICTORY   ,66.0k,13,  11 ,  1 ,  1 ,  2 ,  2 ,Leblanc,Lucian,Senna,Vladimir,Corki
+2020.0,spring,LJL,6,Detonation FocusMe,Fukuoka SoftBank Hawks,1.0,35:58,OK,red,SHG,   DEFEAT   ,54.8k,9,  2 ,  0 ,  0 ,  4 ,  0 ,Ziggs,Heimerdinger,Karma,Olaf,Yuumi
+2020.0,spring,LJL,6,Sengoku Gaming,Fukuoka SoftBank Hawks,1.0,49:27,OK,blue,SHG,   DEFEAT   ,75.8k,8,  5 ,  0 ,  1 ,  3 ,  1 ,Ornn,Olaf,Ezreal,Gangplank,Kennen
+2020.0,spring,LJL,6,Sengoku Gaming,Fukuoka SoftBank Hawks,1.0,49:27,OK,red,SG,   VICTORY   ,81.8k,15,  9 ,  1 ,  1 ,  4 ,  1 ,JarvanIV,Yuumi,Elise,Nautilus,Camille
+2020.0,spring,LJL,6,Crest Gaming Act,Rascal Jester,1.0,33:27,OK,blue,RJ,   VICTORY   ,56.7k,9,  6 ,  1 ,  0 ,  0 ,  1 ,Leblanc,Zoe,Yuumi,Nautilus,Ekko
+2020.0,spring,LJL,6,Crest Gaming Act,Rascal Jester,1.0,33:27,OK,red,CGA,   DEFEAT   ,61.3k,15,  4 ,  0 ,  2 ,  4 ,  1 ,Ezreal,TahmKench,Ornn,Nocturne,Gangplank
+2020.0,spring,LJL,6,AXIZ,Sengoku Gaming,1.0,44:00,OK,blue,SG,   VICTORY   ,78.0k,13,  11 ,  5 ,  2 ,  4 ,  1 ,JarvanIV,Yuumi,Olaf,Nautilus,Rakan
+2020.0,spring,LJL,6,AXIZ,Sengoku Gaming,1.0,44:00,OK,red,AXZ,   DEFEAT   ,70.6k,8,  3 ,  0 ,  0 ,  3 ,  1 ,Ornn,Elise,Leblanc,RekSai,LeeSin
+2020.0,spring,LJL,6,Burning Core,AXIZ,1.0,36:52,OK,blue,AXZ,   VICTORY   ,62.8k,7,  11 ,  3 ,  1 ,  4 ,  2 ,Ornn,Aphelios,Elise,TahmKench,Yuumi
+2020.0,spring,LJL,6,Burning Core,AXIZ,1.0,36:52,OK,red,BC,   DEFEAT   ,52.5k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Rumble,Olaf,Camille,Kennen
+2020.0,spring,LJL,6,Rascal Jester,V3 Esports,1.0,34:53,OK,blue,RJ,   DEFEAT   ,49.3k,1,  2 ,  0 ,  0 ,  2 ,  1 ,Ekko,Leblanc,Elise,Nocturne,Zoe
+2020.0,spring,LJL,6,Rascal Jester,V3 Esports,1.0,34:53,OK,red,V3,   VICTORY   ,62.6k,15,  10 ,  2 ,  2 ,  3 ,  0 ,Ornn,JarvanIV,Sejuani,Blitzcrank,Bard
+2020.0,spring,LJL,6,V3 Esports,Burning Core,1.0,24:57,OK,blue,V3,   VICTORY   ,47.4k,12,  11 ,  3 ,  1 ,  4 ,  2 ,Leblanc,Sett,Yuumi,Darius,Gangplank
+2020.0,spring,LJL,6,V3 Esports,Burning Core,1.0,24:57,OK,red,BC,   DEFEAT   ,33.3k,0,  0 ,  0 ,  0 ,  0 ,  0 ,Elise,RekSai,Olaf,Ekko,Zoe
+2020.0,spring,LJL,7,Rascal Jester,Sengoku Gaming,1.0,32:27,OK,blue,SG,   DEFEAT   ,47.3k,0,  0 ,  0 ,  0 ,  1 ,  1 ,JarvanIV,Yuumi,Aphelios,Azir,Ziggs
+2020.0,spring,LJL,7,Rascal Jester,Sengoku Gaming,1.0,32:27,OK,red,RJ,   VICTORY   ,62.2k,16,  9 ,  2 ,  1 ,  4 ,  1 ,Leblanc,Senna,Ornn,Zoe,Nocturne
+2020.0,spring,LJL,7,Sengoku Gaming,Burning Core,1.0,31:03,OK,blue,BC,   DEFEAT   ,44.8k,5,  1 ,  0 ,  0 ,  2 ,  2 ,Olaf,Rumble,Ornn,RekSai,Kayle
+2020.0,spring,LJL,7,Sengoku Gaming,Burning Core,1.0,31:03,OK,red,SG,   VICTORY   ,56.5k,10,  9 ,  1 ,  1 ,  3 ,  0 ,JarvanIV,Yuumi,Elise,TahmKench,Nautilus
+2020.0,spring,LJL,7,Fukuoka SoftBank Hawks,Burning Core,1.0,29:50,OK,blue,BC,   VICTORY   ,54.8k,10,  10 ,  2 ,  1 ,  5 ,  2 ,Olaf,Irelia,Rumble,Nautilus,Akali
+2020.0,spring,LJL,7,Fukuoka SoftBank Hawks,Burning Core,1.0,29:50,OK,red,SHG,   DEFEAT   ,44.6k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Sett,Ornn,Gangplank,Mordekaiser
+2020.0,spring,LJL,7,Rascal Jester,Fukuoka SoftBank Hawks,1.0,35:16,OK,blue,SHG,   DEFEAT   ,53.2k,8,  3 ,  0 ,  0 ,  0 ,  1 ,Sett,Mordekaiser,Ornn,Azir,Kennen
+2020.0,spring,LJL,7,Rascal Jester,Fukuoka SoftBank Hawks,1.0,35:16,OK,red,RJ,   VICTORY   ,64.4k,16,  10 ,  2 ,  1 ,  5 ,  1 ,Aphelios,Leblanc,JarvanIV,Lucian,Vladimir
+2020.0,spring,LJL,7,V3 Esports,Detonation FocusMe,1.0,44:31,OK,blue,V3,   VICTORY   ,83.5k,29,  11 ,  3 ,  2 ,  4 ,  1 ,Heimerdinger,JarvanIV,Yuumi,Karma,Syndra
+2020.0,spring,LJL,7,V3 Esports,Detonation FocusMe,1.0,44:31,OK,red,DFM,   DEFEAT   ,76.2k,20,  4 ,  0 ,  0 ,  2 ,  1 ,Nocturne,Ekko,Ornn,Renekton,Pantheon
+2020.0,spring,LJL,7,AXIZ,Detonation FocusMe,1.0,22:42,OK,blue,DFM,   VICTORY   ,44.0k,12,  11 ,  3 ,  0 ,  2 ,  2 ,Elise,Leblanc,Zoe,Ryze,
+2020.0,spring,LJL,7,AXIZ,Detonation FocusMe,1.0,22:42,OK,red,AXZ,   DEFEAT   ,34.8k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Ornn,Heimerdinger,Sett,Volibear,Nautilus
+2020.0,spring,LJL,7,Crest Gaming Act,AXIZ,1.0,41:07,OK,blue,CGA,   DEFEAT   ,65.7k,10,  3 ,  0 ,  0 ,  1 ,  0 ,Olaf,Yuumi,Leblanc,RekSai,Elise
+2020.0,spring,LJL,7,Crest Gaming Act,AXIZ,1.0,41:07,OK,red,AXZ,   VICTORY   ,71.6k,12,  9 ,  1 ,  1 ,  4 ,  2 ,Ornn,Sett,Senna,Ekko,Vladimir
+2020.0,spring,LJL,7,V3 Esports,Crest Gaming Act,1.0,35:33,OK,blue,CGA,   DEFEAT   ,58.8k,9,  4 ,  0 ,  1 ,  3 ,  0 ,Elise,Yuumi,Senna,Nocturne,Zoe
+2020.0,spring,LJL,7,V3 Esports,Crest Gaming Act,1.0,35:33,OK,red,V3,   VICTORY   ,67.2k,20,  8 ,  1 ,  1 ,  2 ,  2 ,Ornn,Leblanc,JarvanIV,Sylas,Thresh
+2020.0,spring,LJL,Tiebreakers,Burning Core,Crest Gaming Act,1.0,27:17,OK,blue,CGA,   VICTORY   ,51.8k,12,  8 ,  1 ,  1 ,  4 ,  1 ,Elise,Yuumi,Darius,Leona,Syndra
+2020.0,spring,LJL,Tiebreakers,Burning Core,Crest Gaming Act,1.0,27:17,OK,red,BC,   DEFEAT   ,39.1k,1,  0 ,  0 ,  0 ,  0 ,  1 ,Leblanc,Zoe,Ornn,Akali,Ekko

@@ -1,0 +1,154 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,summer,LEC,1,H2k Gaming,Splyce,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,H2k Gaming,Splyce,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Fnatic,Misfits,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Fnatic,Misfits,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Team ROCCAT,G2,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Team ROCCAT,G2,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Team ROCCAT,G2,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Team Vitality,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Team Vitality,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,H2k Gaming,Mysterious Monkeys,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,H2k Gaming,Mysterious Monkeys,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Fnatic,Ninjas in Pyjamas,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,1,Fnatic,Ninjas in Pyjamas,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Misfits,Ninjas in Pyjamas,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Misfits,Ninjas in Pyjamas,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,G2,Fnatic,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,G2,Fnatic,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,G2,Fnatic,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Splyce,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Splyce,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Mysterious Monkeys,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Mysterious Monkeys,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Misfits,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Misfits,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Misfits,Team ROCCAT,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Ninjas in Pyjamas,G2,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Ninjas in Pyjamas,G2,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Splyce,Mysterious Monkeys,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Splyce,Mysterious Monkeys,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Unicorns Of Love,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Unicorns Of Love,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,2,Unicorns Of Love,H2k Gaming,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team Vitality,Mysterious Monkeys,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team Vitality,Mysterious Monkeys,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team ROCCAT,Fnatic,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team ROCCAT,Fnatic,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team ROCCAT,Fnatic,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Misfits,G2,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Misfits,G2,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Misfits,G2,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Splyce,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Splyce,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Splyce,Unicorns Of Love,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team ROCCAT,Ninjas in Pyjamas,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team ROCCAT,Ninjas in Pyjamas,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team Vitality,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,3,Team Vitality,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Misfits,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Misfits,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Misfits,Team Vitality,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Fnatic,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Fnatic,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Team ROCCAT,Splyce,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Team ROCCAT,Splyce,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Team ROCCAT,Splyce,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Unicorns Of Love,G2,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Unicorns Of Love,G2,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Unicorns Of Love,G2,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Fnatic,Mysterious Monkeys,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,Fnatic,Mysterious Monkeys,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,H2k Gaming,Ninjas in Pyjamas,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,4,H2k Gaming,Ninjas in Pyjamas,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Ninjas in Pyjamas,Mysterious Monkeys,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Ninjas in Pyjamas,Mysterious Monkeys,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Fnatic,Splyce,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Fnatic,Splyce,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Team ROCCAT,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Team ROCCAT,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Misfits,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Misfits,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Mysterious Monkeys,G2,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Mysterious Monkeys,G2,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Ninjas in Pyjamas,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Ninjas in Pyjamas,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,5,Ninjas in Pyjamas,Unicorns Of Love,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Ninjas in Pyjamas,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Ninjas in Pyjamas,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Ninjas in Pyjamas,Team Vitality,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Team ROCCAT,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Team ROCCAT,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Splyce,G2,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Splyce,G2,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Misfits,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Misfits,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Misfits,Unicorns Of Love,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Team ROCCAT,Mysterious Monkeys,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Team ROCCAT,Mysterious Monkeys,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Team ROCCAT,Mysterious Monkeys,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Fnatic,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,6,Fnatic,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Team ROCCAT,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Team ROCCAT,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Team ROCCAT,Unicorns Of Love,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,H2k Gaming,G2,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,H2k Gaming,G2,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,H2k Gaming,G2,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Misfits,Mysterious Monkeys,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Misfits,Mysterious Monkeys,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Ninjas in Pyjamas,Splyce,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Ninjas in Pyjamas,Splyce,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,G2,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,G2,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,G2,Team Vitality,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Fnatic,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Fnatic,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Fnatic,Unicorns Of Love,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Misfits,Splyce,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Misfits,Splyce,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,7,Misfits,Splyce,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Mysterious Monkeys,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Mysterious Monkeys,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,G2,Ninjas in Pyjamas,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,G2,Ninjas in Pyjamas,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Splyce,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Splyce,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Misfits,Fnatic,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Misfits,Fnatic,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Ninjas in Pyjamas,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Ninjas in Pyjamas,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Unicorns Of Love,Mysterious Monkeys,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Unicorns Of Love,Mysterious Monkeys,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,8,Unicorns Of Love,Mysterious Monkeys,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Mysterious Monkeys,Splyce,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Mysterious Monkeys,Splyce,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,G2,Misfits,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,G2,Misfits,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,H2k Gaming,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,H2k Gaming,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Fnatic,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Fnatic,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Ninjas in Pyjamas,Misfits,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Ninjas in Pyjamas,Misfits,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Ninjas in Pyjamas,Misfits,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Unicorns Of Love,Splyce,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,9,Unicorns Of Love,Splyce,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,G2,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,G2,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,G2,Team ROCCAT,3.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Ninjas in Pyjamas,Fnatic,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Ninjas in Pyjamas,Fnatic,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Mysterious Monkeys,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Mysterious Monkeys,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Unicorns Of Love,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Unicorns Of Love,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Team ROCCAT,Misfits,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Team ROCCAT,Misfits,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Fnatic,G2,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Fnatic,G2,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Team Vitality,Splyce,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,Team Vitality,Splyce,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,H2k Gaming,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,H2k Gaming,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,summer,LEC,10,H2k Gaming,Unicorns Of Love,3.0,this row doesn't have MH_url

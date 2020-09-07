@@ -1,0 +1,61 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,BRCC,1,PAIN,Team oNe,1.0,29:31,OK,blue,PNG,   DERROTA   ,44.3 mil,4,  3 ,  0 ,  0 ,  0 ,  1 ,Camille,Yasuo,Taliyah,Fiora,Galio
+2018.0,summer,BRCC,1,PAIN,Team oNe,1.0,29:31,OK,red,ONE,   VITÓRIA   ,54.0 mil,9,  9 ,  1 ,  2 ,  3 ,  0 ,Aatrox,Nocturne,Shen,Alistar,Zoe
+2018.0,summer,BRCC,1,PAIN,Team oNe,2.0,40:46,OK,blue,ONE,   DERROTA   ,60.3 mil,5,  5 ,  0 ,  0 ,  3 ,  1 ,Taliyah,Camille,Darius,Kennen,Alistar
+2018.0,summer,BRCC,1,PAIN,Team oNe,2.0,40:46,OK,red,PNG,   VITÓRIA   ,72.7 mil,25,  9 ,  3 ,  1 ,  1 ,  0 ,Aatrox,Rakan,Nocturne,Yasuo,Fiora
+2018.0,summer,BRCC,1,Operation Kino,WP Gaming,1.0,29:21,OK,blue,OPK,   VITÓRIA   ,58.7 mil,13,  11 ,  3 ,  2 ,  2 ,  1 ,Camille,Sejuani,Yasuo,Cassiopeia,Lucian
+2018.0,summer,BRCC,1,Operation Kino,WP Gaming,1.0,29:21,OK,red,WP,   DERROTA   ,45.2 mil,6,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Nocturne,Zoe,Ezreal,Ziggs
+2018.0,summer,BRCC,1,Operation Kino,WP Gaming,2.0,40:02,OK,blue,WP,   DERROTA   ,76.3 mil,30,  7 ,  2 ,  2 ,  4 ,  1 ,Taliyah,Yasuo,Zoe,Shen,Darius
+2018.0,summer,BRCC,1,Operation Kino,WP Gaming,2.0,40:02,OK,red,OPK,   VITÓRIA   ,73.0 mil,16,  9 ,  1 ,  1 ,  1 ,  0 ,Nocturne,Aatrox,Lucian,Lulu,Karma
+2018.0,summer,BRCC,1,Redemption POA,Submarino Stars,1.0,28:48,OK,blue,RDP,   VITÓRIA   ,56.1 mil,11,  10 ,  2 ,  1 ,  3 ,  1 ,Rakan,Yasuo,Camille,Fiddlesticks,Fiora
+2018.0,summer,BRCC,1,Redemption POA,Submarino Stars,1.0,28:48,OK,red,SUB,   DERROTA   ,42.8 mil,7,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Morgana,Nocturne,XinZhao,Graves
+2018.0,summer,BRCC,1,Redemption POA,Submarino Stars,2.0,32:19,OK,blue,SUB,   DERROTA   ,51.5 mil,6,  3 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Morgana,Camille,Ornn,Trundle
+2018.0,summer,BRCC,1,Redemption POA,Submarino Stars,2.0,32:19,OK,red,RDP,   VITÓRIA   ,64.5 mil,21,  10 ,  2 ,  1 ,  1 ,  1 ,Aatrox,Rakan,Nocturne,Kindred,DrMundo
+2018.0,summer,BRCC,2,Submarino Stars,Operation Kino,1.0,40:00,OK,blue,SUB,   DERROTA   ,63.0 mil,5,  0 ,  0 ,  0 ,  1 ,  0 ,Shen,Heimerdinger,Taliyah,Fiora,Gangplank
+2018.0,summer,BRCC,2,Submarino Stars,Operation Kino,1.0,40:00,OK,red,OPK,   VITÓRIA   ,73.5 mil,11,  11 ,  3 ,  0 ,  3 ,  1 ,Zoe,Nocturne,Aatrox,Galio,DrMundo
+2018.0,summer,BRCC,2,Submarino Stars,Operation Kino,2.0,27:35,OK,blue,OPK,   VITÓRIA   ,56.1 mil,18,  11 ,  2 ,  1 ,  2 ,  1 ,Camille,Rakan,Nocturne,Ezreal,Lucian
+2018.0,summer,BRCC,2,Submarino Stars,Operation Kino,2.0,27:35,OK,red,SUB,   DERROTA   ,39.5 mil,4,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Ziggs,Taliyah,Kennen,Fiora
+2018.0,summer,BRCC,2,WP Gaming,Team oNe,1.0,29:15,OK,blue,WP,   DERROTA   ,44.6 mil,9,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,Taliyah,Nocturne,Fiora,Urgot
+2018.0,summer,BRCC,2,WP Gaming,Team oNe,1.0,29:15,OK,red,ONE,   VITÓRIA   ,56.1 mil,14,  10 ,  2 ,  1 ,  2 ,  1 ,Aatrox,Karthus,Swain,Trundle,Galio
+2018.0,summer,BRCC,2,WP Gaming,Team oNe,2.0,37:58,OK,blue,ONE,   VITÓRIA   ,67.3 mil,18,  11 ,  4 ,  2 ,  3 ,  1 ,Karthus,Rakan,Zoe,Darius,Camille
+2018.0,summer,BRCC,2,WP Gaming,Team oNe,2.0,37:58,OK,red,WP,   DERROTA   ,65.4 mil,19,  5 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Rumble,Taliyah,Kindred,Nocturne
+2018.0,summer,BRCC,2,Redemption POA,PAIN,1.0,36:37,OK,blue,RDP,   DERROTA   ,61.1 mil,9,  5 ,  1 ,  0 ,  2 ,  0 ,Rakan,Morgana,Taliyah,Talon,Pyke
+2018.0,summer,BRCC,2,Redemption POA,PAIN,1.0,36:37,OK,red,PNG,   VITÓRIA   ,67.8 mil,19,  8 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Nocturne,Zoe,Jax,Gnar
+2018.0,summer,BRCC,2,Redemption POA,PAIN,2.0,29:23,OK,blue,PNG,   DERROTA   ,44.4 mil,4,  1 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Jax,Taliyah,Sejuani,Kindred
+2018.0,summer,BRCC,2,Redemption POA,PAIN,2.0,29:23,OK,red,RDP,   VITÓRIA   ,58.4 mil,15,  9 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Rakan,Zoe,TahmKench,Talon
+2018.0,summer,BRCC,3,WP Gaming,Redemption POA,1.0,52:33,OK,blue,WP,   DERROTA   ,88.4 mil,13,  5 ,  0 ,  2 ,  1 ,  0 ,Heimerdinger,Taliyah,Nocturne,Rumble,Yasuo
+2018.0,summer,BRCC,3,WP Gaming,Redemption POA,1.0,52:33,OK,red,RDP,   VITÓRIA   ,92.7 mil,9,  11 ,  4 ,  1 ,  4 ,  1 ,Aatrox,Rakan,Morgana,Camille,Kennen
+2018.0,summer,BRCC,3,WP Gaming,Redemption POA,2.0,28:51,OK,blue,RDP,   VITÓRIA   ,59.5 mil,20,  11 ,  3 ,  1 ,  3 ,  1 ,Swain,Morgana,Yasuo,Fiora,Darius
+2018.0,summer,BRCC,3,WP Gaming,Redemption POA,2.0,28:51,OK,red,WP,   DERROTA   ,44.3 mil,7,  2 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Heimerdinger,Nocturne,Trundle,Sejuani
+2018.0,summer,BRCC,3,PAIN,Submarino Stars,1.0,1:00:47,OK,blue,PNG,   VITÓRIA   ,103.8 mil,10,  10 ,  2 ,  1 ,  4 ,  0 ,Morgana,Rakan,Shen,Fiora,Gangplank
+2018.0,summer,BRCC,3,PAIN,Submarino Stars,1.0,1:00:47,OK,red,SUB,   DERROTA   ,100.6 mil,9,  6 ,  0 ,  2 ,  2 ,  1 ,Swain,Zoe,Aatrox,Darius,Camille
+2018.0,summer,BRCC,3,PAIN,Submarino Stars,2.0,27:50,OK,blue,SUB,   DERROTA   ,40.0 mil,2,  1 ,  0 ,  0 ,  0 ,  0 ,Swain,Zoe,Taliyah,Darius,Leblanc
+2018.0,summer,BRCC,3,PAIN,Submarino Stars,2.0,27:50,OK,red,PNG,   VITÓRIA   ,58.8 mil,18,  11 ,  2 ,  1 ,  1 ,  1 ,Rakan,Morgana,Aatrox,Galio,Gangplank
+2018.0,summer,BRCC,3,Team oNe,Operation Kino,1.0,30:36,OK,blue,ONE,   DERROTA   ,53.1 mil,18,  2 ,  0 ,  2 ,  1 ,  1 ,Varus,TahmKench,Ziggs,Syndra,Lucian
+2018.0,summer,BRCC,3,Team oNe,Operation Kino,1.0,30:36,OK,red,OPK,   VITÓRIA   ,57.9 mil,20,  7 ,  1 ,  0 ,  2 ,  0 ,Yasuo,Zoe,Taliyah,Orianna,Jayce
+2018.0,summer,BRCC,3,Team oNe,Operation Kino,2.0,32:46,OK,blue,OPK,   DERROTA   ,53.3 mil,12,  3 ,  0 ,  0 ,  2 ,  1 ,Camille,Yasuo,Orianna,Ziggs,Kindred
+2018.0,summer,BRCC,3,Team oNe,Operation Kino,2.0,32:46,OK,red,ONE,   VITÓRIA   ,64.0 mil,17,  10 ,  1 ,  1 ,  1 ,  0 ,Aatrox,Varus,Zoe,Shen,Fiddlesticks
+2018.0,summer,BRCC,4,Operation Kino,PAIN,1.0,38:05,OK,blue,OPK,   VITÓRIA   ,63.9 mil,7,  7 ,  1 ,  1 ,  3 ,  0 ,Camille,Kindred,Darius,Swain,Ahri
+2018.0,summer,BRCC,4,Operation Kino,PAIN,1.0,38:05,OK,red,PNG,   DERROTA   ,62.0 mil,9,  5 ,  0 ,  0 ,  1 ,  1 ,Morgana,Aatrox,Rakan,Orianna,Fiora
+2018.0,summer,BRCC,4,Operation Kino,PAIN,2.0,31:30,OK,blue,PNG,   VITÓRIA   ,59.4 mil,20,  8 ,  1 ,  0 ,  1 ,  1 ,Morgana,Camille,Fiora,Gnar,Syndra
+2018.0,summer,BRCC,4,Operation Kino,PAIN,2.0,31:30,OK,red,OPK,   DERROTA   ,50.1 mil,4,  4 ,  0 ,  1 ,  2 ,  0 ,Nocturne,Darius,Aatrox,Urgot,Orianna
+2018.0,summer,BRCC,4,Team oNe,Redemption POA,1.0,43:00,OK,blue,ONE,   VITÓRIA   ,78.5 mil,19,  9 ,  2 ,  2 ,  2 ,  1 ,Rumble,Kindred,Taliyah,Jayce,Zoe
+2018.0,summer,BRCC,4,Team oNe,Redemption POA,1.0,43:00,OK,red,RDP,   DERROTA   ,71.0 mil,8,  5 ,  0 ,  1 ,  3 ,  0 ,Aatrox,Rakan,Morgana,Swain,Ornn
+2018.0,summer,BRCC,4,Team oNe,Redemption POA,2.0,42:00,OK,blue,RDP,   DERROTA   ,67.9 mil,5,  8 ,  2 ,  1 ,  3 ,  1 ,Yasuo,Taliyah,TahmKench,Camille,Fiora
+2018.0,summer,BRCC,4,Team oNe,Redemption POA,2.0,42:00,OK,red,ONE,   VITÓRIA   ,76.3 mil,16,  10 ,  2 ,  1 ,  2 ,  0 ,Zoe,Rumble,Aatrox,Gnar,Kennen
+2018.0,summer,BRCC,4,Submarino Stars,WP Gaming,1.0,34:27,OK,blue,SUB,   VITÓRIA   ,68.2 mil,12,  10 ,  2 ,  2 ,  4 ,  1 ,Swain,Pantheon,Zoe,Syndra,Yasuo
+2018.0,summer,BRCC,4,Submarino Stars,WP Gaming,1.0,34:27,OK,red,WP,   DERROTA   ,53.7 mil,7,  5 ,  0 ,  0 ,  0 ,  0 ,Aatrox,TahmKench,Varus,Fiora,Anivia
+2018.0,summer,BRCC,4,Submarino Stars,WP Gaming,2.0,46:23,OK,blue,WP,   DERROTA   ,81.1 mil,17,  5 ,  1 ,  1 ,  3 ,  0 ,TahmKench,Morgana,Varus,Anivia,Yasuo
+2018.0,summer,BRCC,4,Submarino Stars,WP Gaming,2.0,46:23,OK,red,SUB,   VITÓRIA   ,86.7 mil,10,  10 ,  1 ,  2 ,  2 ,  1 ,Swain,Zoe,Aatrox,Camille,Riven
+2018.0,summer,BRCC,5,Team oNe,Submarino Stars,1.0,27:16,OK,blue,ONE,   VITÓRIA   ,53.2 mil,10,  10 ,  2 ,  1 ,  2 ,  1 ,Graves,Varus,Trundle,TahmKench,Gangplank
+2018.0,summer,BRCC,5,Team oNe,Submarino Stars,1.0,27:16,OK,red,SUB,   DERROTA   ,39.7 mil,3,  2 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Zoe,Aatrox,Lucian,Xayah
+2018.0,summer,BRCC,5,Team oNe,Submarino Stars,2.0,30:31,OK,blue,SUB,   VITÓRIA   ,55.6 mil,11,  8 ,  1 ,  1 ,  1 ,  1 ,Taliyah,Yasuo,Zoe,Ryze,Swain
+2018.0,summer,BRCC,5,Team oNe,Submarino Stars,2.0,30:31,OK,red,ONE,   DERROTA   ,51.4 mil,7,  4 ,  0 ,  0 ,  2 ,  0 ,Trundle,Varus,LeeSin,Gragas,Nocturne
+2018.0,summer,BRCC,5,Operation Kino,Redemption POA,1.0,31:58,OK,blue,OPK,   VITÓRIA   ,58.9 mil,15,  9 ,  1 ,  0 ,  1 ,  1 ,Yasuo,Rumble,TahmKench,Kled,Jax
+2018.0,summer,BRCC,5,Operation Kino,Redemption POA,1.0,31:58,OK,red,RDP,   DERROTA   ,52.3 mil,7,  4 ,  0 ,  1 ,  3 ,  0 ,MissFortune,Rakan,Aatrox,Fiora,Syndra
+2018.0,summer,BRCC,5,Operation Kino,Redemption POA,2.0,43:45,OK,blue,RDP,   VITÓRIA   ,81.8 mil,24,  10 ,  3 ,  3 ,  1 ,  1 ,MissFortune,Fiora,Trundle,Gangplank,Camille
+2018.0,summer,BRCC,5,Operation Kino,Redemption POA,2.0,43:45,OK,red,OPK,   DERROTA   ,73.6 mil,20,  2 ,  0 ,  0 ,  4 ,  0 ,Rumble,Aatrox,Nocturne,Jayce,Orianna
+2018.0,summer,BRCC,5,PAIN,WP Gaming,1.0,39:42,OK,blue,PNG,   VITÓRIA   ,74.2 mil,10,  11 ,  4 ,  2 ,  2 ,  1 ,Morgana,Rakan,TahmKench,Fiora,Kled
+2018.0,summer,BRCC,5,PAIN,WP Gaming,1.0,39:42,OK,red,WP,   DERROTA   ,61.7 mil,8,  1 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Yasuo,Nocturne,Leblanc,Syndra
+2018.0,summer,BRCC,5,PAIN,WP Gaming,2.0,30:05,OK,blue,WP,   DEFEAT   ,47.5k,9,  3 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Fiora,Nocturne,Darius,Leblanc
+2018.0,summer,BRCC,5,PAIN,WP Gaming,2.0,30:05,OK,red,PNG,   VICTORY   ,59.1k,13,  11 ,  3 ,  1 ,  2 ,  1 ,Rakan,Morgana,Aatrox,Trundle,Galio

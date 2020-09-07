@@ -1,0 +1,150 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,LJL,1,V3 Esports,Burning Core,1.0,39:07,OK,blue,V3,   DEFEAT   ,59.5k,7,  3 ,  0 ,  0 ,  1 ,  0 ,AurelionSol,Irelia,Camille,Rakan,Morgana
+2018.0,summer,LJL,1,V3 Esports,Burning Core,1.0,39:07,OK,red,BC,   VICTORY   ,75.1k,19,  9 ,  2 ,  2 ,  4 ,  1 ,XinZhao,Swain,Taliyah,Aatrox,Darius
+2018.0,summer,LJL,1,V3 Esports,Burning Core,2.0,25:59,OK,blue,V3,   VICTORY   ,52.1k,11,  11 ,  4 ,  1 ,  0 ,  1 ,Camille,AurelionSol,Zoe,Singed,Ornn
+2018.0,summer,LJL,1,V3 Esports,Burning Core,2.0,25:59,OK,red,BC,   DEFEAT   ,39.7k,2,  1 ,  0 ,  0 ,  1 ,  0 ,XinZhao,Swain,Taliyah,Shen,Rakan
+2018.0,summer,LJL,1,V3 Esports,Burning Core,3.0,36:55,OK,blue,V3,   DEFEAT   ,57.9k,15,  2 ,  0 ,  0 ,  1 ,  1 ,Camille,AurelionSol,Zoe,Rakan,Fiddlesticks
+2018.0,summer,LJL,1,V3 Esports,Burning Core,3.0,36:55,OK,red,BC,   VICTORY   ,73.5k,29,  10 ,  2 ,  1 ,  4 ,  0 ,Aatrox,Taliyah,Nocturne,Darius,Lulu
+2018.0,summer,LJL,1,Crest Gaming Act,Unsold Stuff Gaming,1.0,31:36,OK,blue,CGA,   VICTORY   ,57.7k,15,  9 ,  1 ,  1 ,  1 ,  1 ,Draven,Ryze,Lucian,Singed,Malzahar
+2018.0,summer,LJL,1,Crest Gaming Act,Unsold Stuff Gaming,1.0,31:36,OK,red,USG,   DEFEAT   ,46.9k,5,  1 ,  0 ,  0 ,  2 ,  0 ,Swain,Irelia,Lulu,Kaisa,Aatrox
+2018.0,summer,LJL,1,Crest Gaming Act,Unsold Stuff Gaming,2.0,35:15,OK,blue,USG,   VICTORY   ,60.0k,15,  7 ,  1 ,  1 ,  0 ,  0 ,Irelia,Lulu,Zoe,DrMundo,Ornn
+2018.0,summer,LJL,1,Crest Gaming Act,Unsold Stuff Gaming,2.0,35:15,OK,red,CGA,   DEFEAT   ,59.4k,18,  3 ,  0 ,  0 ,  4 ,  1 ,Draven,Lucian,Taliyah,Morgana,Rakan
+2018.0,summer,LJL,1,Crest Gaming Act,Unsold Stuff Gaming,3.0,34:58,OK,blue,CGA,   DEFEAT   ,56.1k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Kaisa,Lucian,Draven,Nocturne,LeeSin
+2018.0,summer,LJL,1,Crest Gaming Act,Unsold Stuff Gaming,3.0,34:58,OK,red,USG,   VICTORY   ,67.1k,13,  9 ,  1 ,  1 ,  3 ,  0 ,Irelia,Zoe,Swain,DrMundo,Chogath
+2018.0,summer,LJL,1,PENTAGRAM,Detonation FocusMe,1.0,26:23,OK,blue,DFM,   VICTORY   ,53.6k,18,  10 ,  2 ,  1 ,  1 ,  1 ,Zoe,Lucian,Camille,DrMundo,Kaisa
+2018.0,summer,LJL,1,PENTAGRAM,Detonation FocusMe,1.0,26:23,OK,red,PGM,   DEFEAT   ,36.7k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Heimerdinger,Swain,Ryze,AurelionSol
+2018.0,summer,LJL,1,PENTAGRAM,Detonation FocusMe,2.0,27:52,OK,blue,DFM,   VICTORY   ,55.1k,18,  9 ,  1 ,  1 ,  2 ,  1 ,Zoe,Lucian,Kaisa,Alistar,Rakan
+2018.0,summer,LJL,1,PENTAGRAM,Detonation FocusMe,2.0,27:52,OK,red,PGM,   DEFEAT   ,41.2k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Heimerdinger,Camille,Morgana,Velkoz
+2018.0,summer,LJL,2,Unsold Stuff Gaming,Burning Core,1.0,26:47,OK,blue,BC,   VICTORY   ,56.2k,20,  11 ,  3 ,  1 ,  3 ,  1 ,Nocturne,Lulu,Galio,XinZhao,Morgana
+2018.0,summer,LJL,2,Unsold Stuff Gaming,Burning Core,1.0,26:47,OK,red,USG,   DEFEAT   ,39.8k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Swain,Irelia,Camille,Alistar,Pyke
+2018.0,summer,LJL,2,Unsold Stuff Gaming,Burning Core,2.0,33:18,OK,blue,BC,   DEFEAT   ,56.4k,14,  6 ,  1 ,  0 ,  1 ,  1 ,Nocturne,Lulu,Galio,XinZhao,Zoe
+2018.0,summer,LJL,2,Unsold Stuff Gaming,Burning Core,2.0,33:18,OK,red,USG,   VICTORY   ,69.4k,27,  10 ,  2 ,  2 ,  3 ,  0 ,Swain,Camille,Irelia,Xayah,Leblanc
+2018.0,summer,LJL,2,Unsold Stuff Gaming,Burning Core,3.0,25:53,OK,blue,BC,   VICTORY   ,51.2k,11,  11 ,  3 ,  1 ,  2 ,  0 ,Nocturne,Galio,Ornn,XinZhao,LeeSin
+2018.0,summer,LJL,2,Unsold Stuff Gaming,Burning Core,3.0,25:53,OK,red,USG,   DEFEAT   ,39.4k,2,  3 ,  0 ,  0 ,  0 ,  1 ,Swain,Camille,Irelia,Rakan,Pyke
+2018.0,summer,LJL,2,PENTAGRAM,V3 Esports,1.0,,AttributeError,,,,,,,,,,,,,,,
+2018.0,summer,LJL,2,PENTAGRAM,V3 Esports,2.0,27:29,OK,blue,V3,   DEFEAT   ,43.6k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Camille,Zoe,Velkoz,AurelionSol,
+2018.0,summer,LJL,2,PENTAGRAM,V3 Esports,2.0,27:29,OK,red,PGM,   VICTORY   ,54.6k,12,  11 ,  3 ,  1 ,  2 ,  0 ,Taliyah,Swain,Nocturne,Vladimir,Ryze
+2018.0,summer,LJL,2,PENTAGRAM,V3 Esports,3.0,36:41,OK,blue,V3,   DEFEAT   ,57.4k,16,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Lucian,Fiddlesticks,Ornn,
+2018.0,summer,LJL,2,PENTAGRAM,V3 Esports,3.0,36:41,OK,red,PGM,   VICTORY   ,71.2k,24,  11 ,  2 ,  2 ,  3 ,  1 ,Swain,Taliyah,Nocturne,Trundle,Graves
+2018.0,summer,LJL,2,Detonation FocusMe,Crest Gaming Act,1.0,23:51,OK,blue,DFM,   VICTORY   ,46.9k,14,  7 ,  1 ,  1 ,  2 ,  0 ,Zoe,Anivia,Taliyah,TahmKench,AurelionSol
+2018.0,summer,LJL,2,Detonation FocusMe,Crest Gaming Act,1.0,23:51,OK,red,CGA,   DEFEAT   ,33.4k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Velkoz,Heimerdinger,Nocturne,Morgana,Yasuo
+2018.0,summer,LJL,2,Detonation FocusMe,Crest Gaming Act,2.0,20:19,OK,blue,CGA,   DEFEAT   ,29.6k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Heimerdinger,Galio,Swain,Ryze,Vladimir
+2018.0,summer,LJL,2,Detonation FocusMe,Crest Gaming Act,2.0,20:19,OK,red,DFM,   VICTORY   ,44.1k,17,  9 ,  2 ,  0 ,  2 ,  1 ,Zoe,Taliyah,Nocturne,Anivia,AurelionSol
+2018.0,summer,LJL,3,Crest Gaming Act,PENTAGRAM,1.0,29:03,OK,blue,CGA,   DEFEAT   ,42.4k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Morgana,Camille,Swain,Gangplank,Leblanc
+2018.0,summer,LJL,3,Crest Gaming Act,PENTAGRAM,1.0,29:03,OK,red,PGM,   VICTORY   ,56.1k,18,  8 ,  1 ,  1 ,  3 ,  1 ,Aatrox,Anivia,Zoe,AurelionSol,Darius
+2018.0,summer,LJL,3,Crest Gaming Act,PENTAGRAM,2.0,27:10,OK,blue,CGA,   DEFEAT   ,43.0k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Rakan,Nocturne,Galio,Kaisa
+2018.0,summer,LJL,3,Crest Gaming Act,PENTAGRAM,2.0,27:10,OK,red,PGM,   VICTORY   ,54.8k,13,  11 ,  3 ,  1 ,  3 ,  1 ,Aatrox,Anivia,Zoe,AurelionSol,Darius
+2018.0,summer,LJL,3,Unsold Stuff Gaming,V3 Esports,1.0,25:53,OK,blue,USG,   DEFEAT   ,38.3k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Kaisa,Taliyah,Rakan,Ryze,Shen
+2018.0,summer,LJL,3,Unsold Stuff Gaming,V3 Esports,1.0,25:53,OK,red,V3,   VICTORY   ,51.0k,17,  9 ,  1 ,  1 ,  1 ,  1 ,Camille,Nocturne,Draven,LeeSin,Gragas
+2018.0,summer,LJL,3,Unsold Stuff Gaming,V3 Esports,2.0,33:23,OK,blue,V3,   VICTORY   ,63.8k,10,  11 ,  3 ,  1 ,  2 ,  1 ,Draven,Camille,Nocturne,Xayah,Varus
+2018.0,summer,LJL,3,Unsold Stuff Gaming,V3 Esports,2.0,33:23,OK,red,USG,   DEFEAT   ,48.8k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Kindred,Taliyah,Aatrox,Darius,Pyke
+2018.0,summer,LJL,3,Burning Core,Detonation FocusMe,1.0,28:43,OK,blue,DFM,   VICTORY   ,59.2k,22,  9 ,  2 ,  1 ,  1 ,  1 ,Zoe,Swain,Aatrox,Rakan,Ashe
+2018.0,summer,LJL,3,Burning Core,Detonation FocusMe,1.0,28:43,OK,red,BC,   DEFEAT   ,48.5k,14,  3 ,  0 ,  0 ,  2 ,  0 ,Nocturne,Galio,Morgana,Kennen,Vladimir
+2018.0,summer,LJL,3,Burning Core,Detonation FocusMe,2.0,28:31,OK,blue,BC,   DEFEAT   ,43.0k,10,  1 ,  0 ,  0 ,  2 ,  0 ,Galio,Morgana,Shen,Heimerdinger,Alistar
+2018.0,summer,LJL,3,Burning Core,Detonation FocusMe,2.0,28:31,OK,red,DFM,   VICTORY   ,58.2k,18,  10 ,  1 ,  1 ,  2 ,  1 ,Zoe,Nocturne,Taliyah,Pyke,Blitzcrank
+2018.0,summer,LJL,4,Detonation FocusMe,V3 Esports,1.0,30:06,OK,blue,DFM,   VICTORY   ,61.5k,16,  11 ,  2 ,  1 ,  2 ,  1 ,Kindred,Aatrox,Nocturne,Gragas,TahmKench
+2018.0,summer,LJL,4,Detonation FocusMe,V3 Esports,1.0,30:06,OK,red,V3,   DEFEAT   ,45.9k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Talon,Irelia,Heimerdinger,Morgana,Mordekaiser
+2018.0,summer,LJL,4,Detonation FocusMe,V3 Esports,2.0,29:05,OK,blue,V3,   DEFEAT   ,45.5k,13,  0 ,  0 ,  0 ,  0 ,  0 ,Heimerdinger,Gragas,Aatrox,Illaoi,Irelia
+2018.0,summer,LJL,4,Detonation FocusMe,V3 Esports,2.0,29:05,OK,red,DFM,   VICTORY   ,60.7k,19,  10 ,  1 ,  1 ,  3 ,  1 ,Kindred,Nocturne,Taliyah,Swain,Malzahar
+2018.0,summer,LJL,4,PENTAGRAM,Unsold Stuff Gaming,1.0,41:02,OK,blue,PGM,   VICTORY   ,78.5k,16,  11 ,  3 ,  2 ,  2 ,  0 ,Camille,Yasuo,Nocturne,Pyke,TahmKench
+2018.0,summer,LJL,4,PENTAGRAM,Unsold Stuff Gaming,1.0,41:02,OK,red,USG,   DEFEAT   ,67.2k,6,  3 ,  0 ,  0 ,  3 ,  1 ,Taliyah,Kindred,Aatrox,Varus,Zoe
+2018.0,summer,LJL,4,PENTAGRAM,Unsold Stuff Gaming,2.0,25:39,OK,blue,PGM,   VICTORY   ,52.1k,13,  10 ,  2 ,  1 ,  1 ,  1 ,Karthus,Camille,Nocturne,Yasuo,Graves
+2018.0,summer,LJL,4,PENTAGRAM,Unsold Stuff Gaming,2.0,25:39,OK,red,USG,   DEFEAT   ,37.5k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Kindred,Mordekaiser,Varus,Gangplank
+2018.0,summer,LJL,4,Crest Gaming Act,Burning Core,1.0,55:26,OK,blue,BC,   VICTORY   ,99.4k,21,  11 ,  3 ,  1 ,  5 ,  0 ,TahmKench,Shen,Zoe,AurelionSol,Anivia
+2018.0,summer,LJL,4,Crest Gaming Act,Burning Core,1.0,55:26,OK,red,CGA,   DEFEAT   ,87.6k,12,  3 ,  0 ,  1 ,  2 ,  1 ,Aatrox,Taliyah,Kindred,Xayah,Galio
+2018.0,summer,LJL,4,Crest Gaming Act,Burning Core,2.0,35:44,OK,blue,CGA,   VICTORY   ,63.9k,20,  8 ,  1 ,  1 ,  0 ,  0 ,Rakan,Kindred,Nocturne,Camille,Darius
+2018.0,summer,LJL,4,Crest Gaming Act,Burning Core,2.0,35:44,OK,red,BC,   DEFEAT   ,58.1k,6,  6 ,  0 ,  1 ,  3 ,  1 ,Zoe,Aatrox,Taliyah,Gragas,Ornn
+2018.0,summer,LJL,4,Crest Gaming Act,Burning Core,3.0,38:01,OK,blue,CGA,   VICTORY   ,69.2k,14,  10 ,  2 ,  2 ,  4 ,  0 ,Rakan,Kindred,Nocturne,Galio,Leblanc
+2018.0,summer,LJL,4,Crest Gaming Act,Burning Core,3.0,38:01,OK,red,BC,   DEFEAT   ,60.7k,4,  5 ,  0 ,  0 ,  0 ,  1 ,Anivia,Zoe,Aatrox,Jayce,Varus
+2018.0,summer,LJL,5,V3 Esports,Crest Gaming Act,1.0,37:13,OK,blue,V3,   VICTORY   ,72.5k,19,  11 ,  3 ,  2 ,  3 ,  0 ,Zoe,Anivia,Orianna,Gragas,DrMundo
+2018.0,summer,LJL,5,V3 Esports,Crest Gaming Act,1.0,37:13,OK,red,CGA,   DEFEAT   ,56.6k,11,  3 ,  0 ,  0 ,  2 ,  1 ,Nocturne,Galio,Taliyah,Kassadin,Malzahar
+2018.0,summer,LJL,5,V3 Esports,Crest Gaming Act,2.0,42:08,OK,blue,CGA,   DEFEAT   ,66.7k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Nocturne,Galio,Camille,XinZhao,Darius
+2018.0,summer,LJL,5,V3 Esports,Crest Gaming Act,2.0,42:08,OK,red,V3,   VICTORY   ,81.6k,21,  11 ,  3 ,  2 ,  3 ,  0 ,Zoe,Anivia,Aatrox,Ornn,Orianna
+2018.0,summer,LJL,5,Burning Core,PENTAGRAM,1.0,40:13,OK,blue,BC,   DEFEAT   ,62.1k,11,  2 ,  0 ,  0 ,  2 ,  0 ,XinZhao,Camille,Nocturne,Xayah,Lucian
+2018.0,summer,LJL,5,Burning Core,PENTAGRAM,1.0,40:13,OK,red,PGM,   VICTORY   ,75.1k,14,  9 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Kindred,Taliyah,Mordekaiser,Ezreal
+2018.0,summer,LJL,5,Burning Core,PENTAGRAM,2.0,34:40,OK,blue,BC,   VICTORY   ,64.6k,16,  9 ,  3 ,  1 ,  2 ,  0 ,XinZhao,Camille,Nocturne,Xayah,Lucian
+2018.0,summer,LJL,5,Burning Core,PENTAGRAM,2.0,34:40,OK,red,PGM,   DEFEAT   ,56.8k,8,  2 ,  0 ,  0 ,  2 ,  1 ,Kindred,Aatrox,Taliyah,Mordekaiser,Varus
+2018.0,summer,LJL,5,Burning Core,PENTAGRAM,3.0,43:14,OK,blue,BC,   DEFEAT   ,67.5k,11,  4 ,  0 ,  0 ,  2 ,  0 ,XinZhao,Camille,Nocturne,Yasuo,Irelia
+2018.0,summer,LJL,5,Burning Core,PENTAGRAM,3.0,43:14,OK,red,PGM,   VICTORY   ,76.4k,11,  11 ,  3 ,  1 ,  3 ,  0 ,Aatrox,Taliyah,Kled,Rakan,Pyke
+2018.0,summer,LJL,5,Unsold Stuff Gaming,Detonation FocusMe,1.0,30:26,OK,blue,DFM,   DEFEAT   ,50.7k,10,  3 ,  0 ,  0 ,  0 ,  1 ,Draven,Nocturne,Aatrox,Ashe,Lucian
+2018.0,summer,LJL,5,Unsold Stuff Gaming,Detonation FocusMe,1.0,30:26,OK,red,USG,   VICTORY   ,58.8k,12,  8 ,  1 ,  1 ,  3 ,  0 ,Mordekaiser,Camille,Taliyah,Varus,XinZhao
+2018.0,summer,LJL,5,Unsold Stuff Gaming,Detonation FocusMe,2.0,33:01,OK,blue,DFM,   VICTORY   ,60.2k,17,  7 ,  1 ,  1 ,  1 ,  0 ,Draven,Nocturne,Aatrox,Zoe,Lucian
+2018.0,summer,LJL,5,Unsold Stuff Gaming,Detonation FocusMe,2.0,33:01,OK,red,USG,   DEFEAT   ,55.5k,10,  5 ,  0 ,  0 ,  2 ,  0 ,Mordekaiser,Camille,Taliyah,Heimerdinger,Karthus
+2018.0,summer,LJL,5,Unsold Stuff Gaming,Detonation FocusMe,3.0,29:59,OK,blue,DFM,   DEFEAT   ,43.9k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Draven,Nocturne,Zoe,Yasuo,Lucian
+2018.0,summer,LJL,5,Unsold Stuff Gaming,Detonation FocusMe,3.0,29:59,OK,red,USG,   VICTORY   ,59.6k,19,  8 ,  1 ,  1 ,  3 ,  1 ,Mordekaiser,Camille,Aatrox,Morgana,Pyke
+2018.0,summer,LJL,6,Burning Core,V3 Esports,1.0,23:17,OK,blue,V3,   敗北！   ,34.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Nidalee,Irelia,Nocturne,Zoe,DrMundo
+2018.0,summer,LJL,6,Burning Core,V3 Esports,1.0,23:17,OK,red,BC,   勝利！   ,46.6k,15,  7 ,  1 ,  1 ,  2 ,  1 ,Vladimir,Aatrox,Zac,Varus,Ashe
+2018.0,summer,LJL,6,Burning Core,V3 Esports,2.0,39:51,OK,blue,V3,   勝利！   ,75.6k,28,  8 ,  2 ,  1 ,  0 ,  0 ,Nidalee,Irelia,Nocturne,Zoe,DrMundo
+2018.0,summer,LJL,6,Burning Core,V3 Esports,2.0,39:51,OK,red,BC,   敗北！   ,64.4k,17,  4 ,  0 ,  0 ,  3 ,  1 ,Vladimir,Aatrox,Zac,Varus,Ashe
+2018.0,summer,LJL,6,Burning Core,V3 Esports,3.0,36:26,OK,blue,V3,   敗北！   ,57.2k,9,  1 ,  0 ,  1 ,  0 ,  0 ,Nidalee,Irelia,Nocturne,Zoe,Lulu
+2018.0,summer,LJL,6,Burning Core,V3 Esports,3.0,36:26,OK,red,BC,   勝利！   ,65.3k,12,  9 ,  3 ,  1 ,  3 ,  1 ,Aatrox,Vladimir,Pyke,Gnar,Kennen
+2018.0,summer,LJL,6,Unsold Stuff Gaming,Crest Gaming Act,1.0,38:33,OK,blue,CGA,   勝利！   ,70.5k,14,  11 ,  1 ,  2 ,  3 ,  1 ,Morgana,Swain,Ryze,Darius,Camille
+2018.0,summer,LJL,6,Unsold Stuff Gaming,Crest Gaming Act,1.0,38:33,OK,red,USG,   敗北！   ,62.7k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Anivia,Taliyah,Aatrox,Trundle,Ornn
+2018.0,summer,LJL,6,Unsold Stuff Gaming,Crest Gaming Act,2.0,44:47,OK,blue,CGA,   敗北！   ,77.2k,14,  6 ,  1 ,  1 ,  1 ,  0 ,Morgana,Swain,Ryze,Darius,Alistar
+2018.0,summer,LJL,6,Unsold Stuff Gaming,Crest Gaming Act,2.0,44:47,OK,red,USG,   勝利！   ,79.3k,14,  7 ,  1 ,  0 ,  4 ,  1 ,Taliyah,Anivia,Aatrox,Orianna,Ornn
+2018.0,summer,LJL,6,Unsold Stuff Gaming,Crest Gaming Act,3.0,49:54,OK,blue,USG,   勝利！   ,91.8k,15,  10 ,  2 ,  2 ,  3 ,  1 ,Anivia,Taliyah,Zac,Chogath,DrMundo
+2018.0,summer,LJL,6,Unsold Stuff Gaming,Crest Gaming Act,3.0,49:54,OK,red,CGA,   敗北！   ,79.6k,16,  3 ,  0 ,  1 ,  3 ,  0 ,Ryze,Rakan,Aatrox,Soraka,Gnar
+2018.0,summer,LJL,6,Detonation FocusMe,PENTAGRAM,1.0,39:43,OK,blue,DFM,   勝利！   ,73.4k,9,  11 ,  3 ,  2 ,  4 ,  1 ,Zoe,Kindred,Syndra,Kennen,DrMundo
+2018.0,summer,LJL,6,Detonation FocusMe,PENTAGRAM,1.0,39:43,OK,red,PGM,   敗北！   ,62.1k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Camille,Morgana,Ornn,Fiora
+2018.0,summer,LJL,6,Detonation FocusMe,PENTAGRAM,2.0,28:59,OK,blue,PGM,   敗北！   ,44.1k,7,  1 ,  0 ,  0 ,  2 ,  0 ,Camille,Heimerdinger,Kindred,Fiora,Jax
+2018.0,summer,LJL,6,Detonation FocusMe,PENTAGRAM,2.0,28:59,OK,red,DFM,   勝利！   ,56.3k,16,  10 ,  1 ,  1 ,  1 ,  1 ,Zoe,Aatrox,Swain,Kennen,Gangplank
+2018.0,summer,LJL,7,Burning Core,Unsold Stuff Gaming,1.0,34:36,OK,blue,BC,   敗北！   ,54.9k,8,  5 ,  0 ,  0 ,  2 ,  0 ,Draven,Nocturne,Aatrox,Lulu,Camille
+2018.0,summer,LJL,7,Burning Core,Unsold Stuff Gaming,1.0,34:36,OK,red,USG,   勝利！   ,65.6k,19,  9 ,  2 ,  1 ,  1 ,  0 ,Taliyah,Kindred,Nidalee,Varus,Mordekaiser
+2018.0,summer,LJL,7,Burning Core,Unsold Stuff Gaming,2.0,38:34,OK,blue,BC,   勝利！   ,69.6k,22,  9 ,  2 ,  1 ,  3 ,  1 ,Draven,TahmKench,Aatrox,Trundle,Yasuo
+2018.0,summer,LJL,7,Burning Core,Unsold Stuff Gaming,2.0,38:34,OK,red,USG,   敗北！   ,61.1k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Kindred,Swain,Leblanc,Irelia
+2018.0,summer,LJL,7,Burning Core,Unsold Stuff Gaming,3.0,39:34,OK,blue,BC,   敗北！   ,63.0k,12,  3 ,  0 ,  0 ,  2 ,  1 ,Draven,Aatrox,TahmKench,Trundle,Yasuo
+2018.0,summer,LJL,7,Burning Core,Unsold Stuff Gaming,3.0,39:34,OK,red,USG,   勝利！   ,75.8k,17,  9 ,  1 ,  2 ,  2 ,  0 ,Taliyah,Kindred,Varus,AurelionSol,Zoe
+2018.0,summer,LJL,7,Crest Gaming Act,Detonation FocusMe,1.0,29:23,OK,blue,CGA,   敗北！   ,42.3k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Camille,Rakan,Taliyah,Gnar,Varus
+2018.0,summer,LJL,7,Crest Gaming Act,Detonation FocusMe,1.0,29:23,OK,red,DFM,   勝利！   ,58.1k,8,  11 ,  3 ,  1 ,  3 ,  1 ,Anivia,Zoe,Aatrox,Chogath,Morgana
+2018.0,summer,LJL,7,Crest Gaming Act,Detonation FocusMe,2.0,35:48,OK,blue,DFM,   勝利！   ,72.1k,23,  10 ,  1 ,  1 ,  2 ,  1 ,Anivia,Zoe,AurelionSol,TahmKench,Morgana
+2018.0,summer,LJL,7,Crest Gaming Act,Detonation FocusMe,2.0,35:48,OK,red,CGA,   敗北！   ,56.3k,16,  1 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Camille,Nocturne,Rakan,Shen
+2018.0,summer,LJL,7,V3 Esports,PENTAGRAM,1.0,34:54,OK,blue,V3,   勝利！   ,64.9k,19,  9 ,  2 ,  2 ,  4 ,  1 ,Nocturne,Shen,Taliyah,DrMundo,Varus
+2018.0,summer,LJL,7,V3 Esports,PENTAGRAM,1.0,34:54,OK,red,PGM,   敗北！   ,55.7k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,TahmKench,Blitzcrank,Zoe,Jayce
+2018.0,summer,LJL,7,V3 Esports,PENTAGRAM,2.0,40:13,OK,blue,V3,   敗北！   ,60.9k,5,  5 ,  0 ,  0 ,  2 ,  1 ,Nocturne,Shen,Taliyah,DrMundo,Orianna
+2018.0,summer,LJL,7,V3 Esports,PENTAGRAM,2.0,40:13,OK,red,PGM,   勝利！   ,73.3k,12,  11 ,  2 ,  1 ,  3 ,  0 ,Aatrox,TahmKench,Kindred,Morgana,Camille
+2018.0,summer,LJL,7,V3 Esports,PENTAGRAM,3.0,48:58,OK,blue,PGM,   敗北！   ,75.5k,7,  4 ,  0 ,  0 ,  0 ,  0 ,Camille,Shen,Kindred,Xayah,Ryze
+2018.0,summer,LJL,7,V3 Esports,PENTAGRAM,3.0,48:58,OK,red,V3,   勝利！   ,87.6k,21,  10 ,  2 ,  3 ,  5 ,  1 ,Aatrox,Nocturne,Taliyah,Gnar,DrMundo
+2018.0,summer,LJL,8,Detonation FocusMe,Burning Core,1.0,30:29,OK,blue,DFM,   勝利！   ,61.9k,19,  11 ,  3 ,  1 ,  1 ,  0 ,Zoe,Kindred,Swain,RekSai,Trundle
+2018.0,summer,LJL,8,Detonation FocusMe,Burning Core,1.0,30:29,OK,red,BC,   敗北！   ,48.6k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Aatrox,Taliyah,Vladimir,Ezreal
+2018.0,summer,LJL,8,Detonation FocusMe,Burning Core,2.0,28:01,OK,blue,DFM,   勝利！   ,57.2k,16,  10 ,  2 ,  1 ,  2 ,  0 ,Zoe,Kindred,Swain,Leblanc,AurelionSol
+2018.0,summer,LJL,8,Detonation FocusMe,Burning Core,2.0,28:01,OK,red,BC,   敗北！   ,38.8k,3,  0 ,  0 ,  0 ,  2 ,  1 ,Camille,Aatrox,Taliyah,Shen,Braum
+2018.0,summer,LJL,8,PENTAGRAM,Crest Gaming Act,1.0,34:08,OK,blue,CGA,   勝利！   ,60.5k,11,  7 ,  1 ,  2 ,  0 ,  0 ,Rakan,Nocturne,Camille,Syndra,Leblanc
+2018.0,summer,LJL,8,PENTAGRAM,Crest Gaming Act,1.0,34:08,OK,red,PGM,   敗北！   ,57.7k,10,  4 ,  0 ,  0 ,  4 ,  1 ,Anivia,Taliyah,Aatrox,TahmKench,Chogath
+2018.0,summer,LJL,8,PENTAGRAM,Crest Gaming Act,2.0,41:58,OK,blue,CGA,   敗北！   ,65.2k,3,  3 ,  0 ,  1 ,  1 ,  1 ,Rakan,Nocturne,Camille,Ryze,Gnar
+2018.0,summer,LJL,8,PENTAGRAM,Crest Gaming Act,2.0,41:58,OK,red,PGM,   勝利！   ,75.1k,10,  10 ,  2 ,  1 ,  3 ,  0 ,Anivia,Taliyah,Aatrox,Morgana,TahmKench
+2018.0,summer,LJL,8,PENTAGRAM,Crest Gaming Act,3.0,48:21,OK,blue,CGA,   勝利！   ,87.0k,14,  10 ,  2 ,  1 ,  5 ,  1 ,Rakan,Alistar,Camille,Morgana,Yasuo
+2018.0,summer,LJL,8,PENTAGRAM,Crest Gaming Act,3.0,48:21,OK,red,PGM,   敗北！   ,71.9k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Anivia,Taliyah,Aatrox,Chogath,Ornn
+2018.0,summer,LJL,8,V3 Esports,Unsold Stuff Gaming,1.0,41:09,OK,blue,V3,   敗北！   ,63.4k,8,  3 ,  0 ,  0 ,  2 ,  1 ,Draven,LeeSin,Shen,Trundle,Zoe
+2018.0,summer,LJL,8,V3 Esports,Unsold Stuff Gaming,1.0,41:09,OK,red,USG,   勝利！   ,73.7k,14,  8 ,  1 ,  1 ,  2 ,  0 ,Taliyah,Kindred,Zac,Ryze,Pyke
+2018.0,summer,LJL,8,V3 Esports,Unsold Stuff Gaming,2.0,35:34,OK,blue,V3,   勝利！   ,67.0k,17,  10 ,  1 ,  1 ,  3 ,  0 ,Draven,LeeSin,Gnar,Gragas,DrMundo
+2018.0,summer,LJL,8,V3 Esports,Unsold Stuff Gaming,2.0,35:34,OK,red,USG,   敗北！   ,59.6k,9,  3 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Kindred,Aatrox,Rakan,Pyke
+2018.0,summer,LJL,8,V3 Esports,Unsold Stuff Gaming,3.0,26:16,OK,blue,V3,   敗北！   ,38.4k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Draven,Gnar,LeeSin,Kennen,Ezreal
+2018.0,summer,LJL,8,V3 Esports,Unsold Stuff Gaming,3.0,26:16,OK,red,USG,   勝利！   ,53.1k,13,  9 ,  1 ,  1 ,  1 ,  1 ,Taliyah,Kindred,Zac,Lucian,Rakan
+2018.0,summer,LJL,9,V3 Esports,Detonation FocusMe,1.0,31:34,OK,blue,DFM,   勝利！   ,63.1k,16,  11 ,  3 ,  1 ,  1 ,  1 ,Kindred,Zac,Zoe,Ryze,Zilean
+2018.0,summer,LJL,9,V3 Esports,Detonation FocusMe,1.0,31:34,OK,red,V3,   敗北！   ,48.6k,10,  1 ,  0 ,  0 ,  2 ,  0 ,Camille,Nocturne,Shen,Fiora,Swain
+2018.0,summer,LJL,9,V3 Esports,Detonation FocusMe,2.0,30:59,OK,blue,DFM,   勝利！   ,63.4k,19,  9 ,  1 ,  1 ,  3 ,  1 ,Zoe,Zac,Kindred,Ryze,Zilean
+2018.0,summer,LJL,9,V3 Esports,Detonation FocusMe,2.0,30:59,OK,red,V3,   敗北！   ,49.6k,12,  2 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Fiora,TahmKench,Jhin,Ashe
+2018.0,summer,LJL,9,Unsold Stuff Gaming,PENTAGRAM,1.0,32:23,OK,blue,USG,   勝利！   ,60.5k,8,  8 ,  1 ,  1 ,  3 ,  1 ,Rakan,Kindred,Taliyah,Kennen,Zoe
+2018.0,summer,LJL,9,Unsold Stuff Gaming,PENTAGRAM,1.0,32:23,OK,red,PGM,   敗北！   ,50.5k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Draven,Varus,Aatrox,Anivia,TahmKench
+2018.0,summer,LJL,9,Unsold Stuff Gaming,PENTAGRAM,2.0,37:07,OK,blue,PGM,   勝利！   ,66.1k,10,  8 ,  1 ,  1 ,  5 ,  1 ,Draven,Gnar,Swain,Gragas,Kennen
+2018.0,summer,LJL,9,Unsold Stuff Gaming,PENTAGRAM,2.0,37:07,OK,red,USG,   敗北！   ,56.6k,5,  3 ,  0 ,  0 ,  0 ,  0 ,Rakan,Taliyah,Aatrox,Alistar,Soraka
+2018.0,summer,LJL,9,Unsold Stuff Gaming,PENTAGRAM,3.0,40:27,OK,blue,USG,   勝利！   ,71.3k,9,  10 ,  2 ,  2 ,  1 ,  1 ,Rakan,Taliyah,Trundle,Zoe,Gangplank
+2018.0,summer,LJL,9,Unsold Stuff Gaming,PENTAGRAM,3.0,40:27,OK,red,PGM,   敗北！   ,64.4k,7,  3 ,  0 ,  0 ,  4 ,  0 ,Draven,Swain,Gnar,Kennen,Alistar
+2018.0,summer,LJL,9,Burning Core,Crest Gaming Act,1.0,40:54,OK,blue,BC,   勝利！   ,76.7k,12,  11 ,  5 ,  2 ,  6 ,  1 ,Anivia,AurelionSol,Zoe,TahmKench,Kennen
+2018.0,summer,LJL,9,Burning Core,Crest Gaming Act,1.0,40:54,OK,red,CGA,   敗北！   ,66.5k,13,  1 ,  0 ,  1 ,  0 ,  0 ,Kindred,Camille,Aatrox,Gnar,Swain
+2018.0,summer,LJL,9,Burning Core,Crest Gaming Act,2.0,41:38,OK,blue,CGA,   勝利！   ,76.5k,18,  9 ,  2 ,  1 ,  5 ,  1 ,Kindred,Camille,Ryze,Jhin,Gnar
+2018.0,summer,LJL,9,Burning Core,Crest Gaming Act,2.0,41:38,OK,red,BC,   敗北！   ,66.5k,6,  4 ,  0 ,  1 ,  1 ,  0 ,Anivia,AurelionSol,Aatrox,TahmKench,Kennen
+2018.0,summer,LJL,9,Burning Core,Crest Gaming Act,3.0,39:04,OK,blue,BC,   勝利！   ,68.6k,12,  11 ,  2 ,  1 ,  4 ,  1 ,Anivia,AurelionSol,Zoe,Braum,DrMundo
+2018.0,summer,LJL,9,Burning Core,Crest Gaming Act,3.0,39:04,OK,red,CGA,   敗北！   ,57.4k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Kindred,Aatrox,Ryze,Gnar,Shen
+2018.0,summer,LJL,10,Detonation FocusMe,Unsold Stuff Gaming,1.0,31:37,OK,blue,USG,   敗北！   ,50.9k,8,  2 ,  0 ,  0 ,  0 ,  1 ,Camille,Heimerdinger,Varus,Jhin,Ashe
+2018.0,summer,LJL,10,Detonation FocusMe,Unsold Stuff Gaming,1.0,31:37,OK,red,DFM,   勝利！   ,64.5k,16,  10 ,  1 ,  1 ,  3 ,  0 ,Draven,Aatrox,Trundle,Kalista,Swain
+2018.0,summer,LJL,10,Detonation FocusMe,Unsold Stuff Gaming,2.0,37:09,OK,blue,DFM,   勝利！   ,67.1k,12,  11 ,  4 ,  1 ,  4 ,  1 ,Garen,Galio,Gangplank,Pyke,Alistar
+2018.0,summer,LJL,10,Detonation FocusMe,Unsold Stuff Gaming,2.0,37:09,OK,red,USG,   敗北！   ,56.0k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,Heimerdinger,Aatrox,Varus,Ashe
+2018.0,summer,LJL,10,PENTAGRAM,Burning Core,1.0,35:10,OK,blue,PGM,   勝利！   ,63.5k,21,  6 ,  1 ,  0 ,  4 ,  1 ,Kindred,Swain,Nidalee,RekSai,Rakan
+2018.0,summer,LJL,10,PENTAGRAM,Burning Core,1.0,35:10,OK,red,BC,   敗北！   ,56.1k,7,  2 ,  0 ,  1 ,  0 ,  0 ,Gnar,Aatrox,Trundle,Kennen,Yasuo
+2018.0,summer,LJL,10,PENTAGRAM,Burning Core,2.0,27:11,OK,blue,PGM,   勝利！   ,52.5k,16,  9 ,  1 ,  1 ,  3 ,  1 ,Kindred,Swain,Nidalee,RekSai,Graves
+2018.0,summer,LJL,10,PENTAGRAM,Burning Core,2.0,27:11,OK,red,BC,   敗北！   ,38.1k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Pyke,Taliyah,Rakan,Gnar
+2018.0,summer,LJL,10,Crest Gaming Act,V3 Esports,1.0,28:59,OK,blue,CGA,   勝利！   ,56.4k,11,  10 ,  2 ,  1 ,  2 ,  1 ,Kindred,Ryze,Taliyah,Gnar,Gangplank
+2018.0,summer,LJL,10,Crest Gaming Act,V3 Esports,1.0,28:59,OK,red,V3,   敗北！   ,41.3k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Anivia,AurelionSol,Aatrox,DrMundo,Kennen
+2018.0,summer,LJL,10,Crest Gaming Act,V3 Esports,2.0,36:56,OK,blue,V3,   敗北！   ,58.5k,11,  5 ,  0 ,  0 ,  1 ,  1 ,Anivia,AurelionSol,Trundle,DrMundo,Morgana
+2018.0,summer,LJL,10,Crest Gaming Act,V3 Esports,2.0,36:56,OK,red,CGA,   勝利！   ,68.6k,17,  10 ,  2 ,  1 ,  2 ,  0 ,Kindred,Ryze,Aatrox,Gnar,Pyke

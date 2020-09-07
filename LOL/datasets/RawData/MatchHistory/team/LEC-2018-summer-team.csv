@@ -1,0 +1,187 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,LEC,1,Splyce,Team Vitality,1.0,24:45,OK,blue,SPY,   DEFEAT   ,36.2k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Taric,Vladimir,KogMaw,Lucian
+2018.0,summer,LEC,1,Splyce,Team Vitality,1.0,24:45,OK,red,VIT,   VICTORY   ,50.5k,10,  10 ,  2 ,  1 ,  2 ,  1 ,Taliyah,Lulu,Ornn,Pyke,Camille
+2018.0,summer,LEC,1,H2k Gaming,Giants Gaming,1.0,45:33,OK,blue,H2K,   DEFEAT   ,73.6k,13,  6 ,  1 ,  0 ,  1 ,  0 ,Ryze,Graves,Vladimir,Shen,Aatrox
+2018.0,summer,LEC,1,H2k Gaming,Giants Gaming,1.0,45:33,OK,red,GIA,   VICTORY   ,78.0k,9,  10 ,  1 ,  2 ,  4 ,  1 ,Taric,Irelia,Lulu,Mordekaiser,Draven
+2018.0,summer,LEC,1,FC Schalke,Unicorns Of Love,1.0,34:03,OK,blue,S04,   VICTORY   ,64.0k,9,  10 ,  2 ,  1 ,  1 ,  0 ,Vladimir,Ornn,Taric,Alistar,Rakan
+2018.0,summer,LEC,1,FC Schalke,Unicorns Of Love,1.0,34:03,OK,red,UOL,   DEFEAT   ,60.0k,6,  6 ,  0 ,  0 ,  1 ,  1 ,Zoe,Lulu,Irelia,Ryze,Fizz
+2018.0,summer,LEC,1,G2,Team ROCCAT,1.0,23:38,OK,blue,G2,   VICTORY   ,49.4k,13,  10 ,  2 ,  0 ,  1 ,  1 ,Vladimir,Camille,Lulu,Skarner,Nocturne
+2018.0,summer,LEC,1,G2,Team ROCCAT,1.0,23:38,OK,red,ROC,   DEFEAT   ,32.0k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Taliyah,Taric,Aatrox,Ezreal
+2018.0,summer,LEC,1,Fnatic,Misfits,1.0,26:43,OK,blue,FNC,   DEFEAT   ,37.1k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Yasuo,Taliyah,Fiddlesticks,Vladimir
+2018.0,summer,LEC,1,Fnatic,Misfits,1.0,26:43,OK,red,MSF,   VICTORY   ,55.0k,15,  10 ,  2 ,  1 ,  0 ,  1 ,Irelia,Braum,Ornn,Karma,MasterYi
+2018.0,summer,LEC,1,Team ROCCAT,H2k Gaming,1.0,27:45,OK,blue,ROC,   VICTORY   ,57.6k,18,  8 ,  2 ,  1 ,  3 ,  1 ,Ryze,Taric,Darius,Aatrox,DrMundo
+2018.0,summer,LEC,1,Team ROCCAT,H2k Gaming,1.0,27:45,OK,red,H2K,   DEFEAT   ,40.4k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Taliyah,Irelia,Soraka,Morgana
+2018.0,summer,LEC,1,Misfits,Unicorns Of Love,1.0,23:03,OK,blue,MSF,   VICTORY   ,52.4k,28,  9 ,  1 ,  1 ,  1 ,  1 ,Vladimir,Yasuo,Rakan,Gangplank,Ezreal
+2018.0,summer,LEC,1,Misfits,Unicorns Of Love,1.0,23:03,OK,red,UOL,   DEFEAT   ,35.4k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Irelia,Morgana,Zyra,TahmKench
+2018.0,summer,LEC,1,Team Vitality,Giants Gaming,1.0,28:03,OK,blue,VIT,   VICTORY   ,58.8k,17,  10 ,  2 ,  1 ,  2 ,  1 ,Braum,Vladimir,Taric,DrMundo,Darius
+2018.0,summer,LEC,1,Team Vitality,Giants Gaming,1.0,28:03,OK,red,GIA,   DEFEAT   ,45.5k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Irelia,Aatrox,Heimerdinger,Thresh
+2018.0,summer,LEC,1,Fnatic,FC Schalke,1.0,24:43,OK,blue,FNC,   VICTORY   ,44.6k,6,  6 ,  1 ,  1 ,  0 ,  0 ,Zoe,Lulu,Irelia,Pyke,Lucian
+2018.0,summer,LEC,1,Fnatic,FC Schalke,1.0,24:43,OK,red,S04,   DEFEAT   ,45.2k,5,  5 ,  0 ,  0 ,  2 ,  1 ,Ornn,Taric,Braum,DrMundo,Fiddlesticks
+2018.0,summer,LEC,1,G2,Splyce,1.0,33:39,OK,blue,G2,   VICTORY   ,68.0k,14,  11 ,  3 ,  2 ,  1 ,  1 ,Vladimir,Camille,Lulu,Ryze,Cassiopeia
+2018.0,summer,LEC,1,G2,Splyce,1.0,33:39,OK,red,SPY,   DEFEAT   ,54.7k,6,  4 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Zoe,Irelia,Pyke,DrMundo
+2018.0,summer,LEC,2,Giants Gaming,Unicorns Of Love,1.0,27:32,OK,blue,GIA,   DEFEAT   ,43.5k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Ryze,Taliyah,Zoe,Trundle,Kindred
+2018.0,summer,LEC,2,Giants Gaming,Unicorns Of Love,1.0,27:32,OK,red,UOL,   VICTORY   ,52.3k,11,  8 ,  1 ,  1 ,  1 ,  1 ,Syndra,Darius,Nocturne,Varus,Kaisa
+2018.0,summer,LEC,2,Team ROCCAT,Team Vitality,1.0,46:31,OK,blue,ROC,   VICTORY   ,80.9k,19,  9 ,  1 ,  0 ,  1 ,  1 ,Zoe,Nocturne,Aatrox,DrMundo,Swain
+2018.0,summer,LEC,2,Team ROCCAT,Team Vitality,1.0,46:31,OK,red,VIT,   DEFEAT   ,82.9k,13,  10 ,  3 ,  3 ,  3 ,  0 ,Ornn,Taliyah,Taric,Ziggs,Braum
+2018.0,summer,LEC,2,G2,FC Schalke,1.0,26:49,OK,blue,G2,   VICTORY   ,55.1k,15,  10 ,  2 ,  1 ,  1 ,  0 ,Ryze,Irelia,Camille,Aatrox,Poppy
+2018.0,summer,LEC,2,G2,FC Schalke,1.0,26:49,OK,red,S04,   DEFEAT   ,42.4k,5,  2 ,  0 ,  0 ,  1 ,  1 ,Heimerdinger,Nocturne,Taliyah,Fiddlesticks,Ziggs
+2018.0,summer,LEC,2,Fnatic,H2k Gaming,1.0,27:05,OK,blue,FNC,   VICTORY   ,60.5k,27,  9 ,  1 ,  1 ,  2 ,  0 ,Camille,Fiddlesticks,Zoe,Aatrox,Darius
+2018.0,summer,LEC,2,Fnatic,H2k Gaming,1.0,27:05,OK,red,H2K,   DEFEAT   ,40.6k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Yasuo,Shen,Ornn,Swain
+2018.0,summer,LEC,2,Misfits,Splyce,1.0,38:44,OK,blue,MSF,   VICTORY   ,75.9k,22,  11 ,  3 ,  1 ,  2 ,  1 ,Yasuo,Nocturne,Vladimir,Aatrox,Darius
+2018.0,summer,LEC,2,Misfits,Splyce,1.0,38:44,OK,red,SPY,   DEFEAT   ,61.5k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Ezreal,Draven,Pyke,Fiddlesticks
+2018.0,summer,LEC,2,Team ROCCAT,FC Schalke,1.0,41:10,OK,blue,ROC,   DEFEAT   ,63.1k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Zoe,Irelia,DrMundo,Cassiopeia
+2018.0,summer,LEC,2,Team ROCCAT,FC Schalke,1.0,41:10,OK,red,S04,   VICTORY   ,79.0k,16,  11 ,  3 ,  1 ,  4 ,  1 ,Fiddlesticks,Taliyah,Nocturne,Heimerdinger,Ezreal
+2018.0,summer,LEC,2,Misfits,Giants Gaming,1.0,33:45,OK,blue,MSF,   VICTORY   ,69.0k,22,  9 ,  1 ,  2 ,  3 ,  1 ,Swain,Azir,Nocturne,Lucian,Ezreal
+2018.0,summer,LEC,2,Misfits,Giants Gaming,1.0,33:45,OK,red,GIA,   DEFEAT   ,54.5k,8,  4 ,  0 ,  0 ,  1 ,  0 ,Zoe,Aatrox,Darius,Draven,AurelionSol
+2018.0,summer,LEC,2,G2,H2k Gaming,1.0,23:29,OK,blue,G2,   VICTORY   ,50.0k,17,  10 ,  3 ,  1 ,  2 ,  0 ,Ryze,Zilean,Camille,Fiddlesticks,Rakan
+2018.0,summer,LEC,2,G2,H2k Gaming,1.0,23:29,OK,red,H2K,   DEFEAT   ,36.3k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Heimerdinger,Taliyah,Nocturne,Irelia,Zoe
+2018.0,summer,LEC,2,Unicorns Of Love,Splyce,1.0,26:26,OK,blue,UOL,   VICTORY   ,51.7k,11,  9 ,  2 ,  1 ,  3 ,  1 ,Yasuo,Heimerdinger,Taliyah,Ziggs,Soraka
+2018.0,summer,LEC,2,Unicorns Of Love,Splyce,1.0,26:26,OK,red,SPY,   DEFEAT   ,38.2k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Nocturne,Alistar,Kindred,Sejuani
+2018.0,summer,LEC,2,Fnatic,Team Vitality,1.0,25:16,OK,blue,FNC,   VICTORY   ,55.9k,23,  10 ,  1 ,  1 ,  2 ,  1 ,Zoe,Aatrox,Taliyah,Heimerdinger,Ziggs
+2018.0,summer,LEC,2,Fnatic,Team Vitality,1.0,25:16,OK,red,VIT,   DEFEAT   ,35.8k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Kaisa,Nocturne,Ornn,TahmKench,Braum
+2018.0,summer,LEC,3,Giants Gaming,Team ROCCAT,1.0,36:38,OK,blue,GIA,   DEFEAT   ,60.4k,7,  4 ,  1 ,  1 ,  2 ,  0 ,Braum,DrMundo,Yasuo,Morgana,Pyke
+2018.0,summer,LEC,3,Giants Gaming,Team ROCCAT,1.0,36:38,OK,red,ROC,   VICTORY   ,65.0k,13,  7 ,  1 ,  0 ,  0 ,  1 ,Nocturne,Taliyah,TahmKench,Trundle,Skarner
+2018.0,summer,LEC,3,Misfits,FC Schalke,1.0,33:22,OK,blue,MSF,   VICTORY   ,66.1k,16,  11 ,  2 ,  2 ,  3 ,  1 ,Vladimir,Yasuo,Zoe,Darius,Sejuani
+2018.0,summer,LEC,3,Misfits,FC Schalke,1.0,33:22,OK,red,S04,   DEFEAT   ,49.9k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Aatrox,Nocturne,Rakan,Morgana
+2018.0,summer,LEC,3,Splyce,H2k Gaming,1.0,36:21,OK,blue,SPY,   VICTORY   ,67.7k,12,  11 ,  3 ,  1 ,  3 ,  1 ,Vladimir,Irelia,Kaisa,Jax,Fiora
+2018.0,summer,LEC,3,Splyce,H2k Gaming,1.0,36:21,OK,red,H2K,   DEFEAT   ,55.9k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Nocturne,Taliyah,Swain,Pyke,Camille
+2018.0,summer,LEC,3,Unicorns Of Love,Team Vitality,1.0,24:52,OK,blue,UOL,   DEFEAT   ,35.8k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Zoe,Taliyah,Sejuani,Mordekaiser
+2018.0,summer,LEC,3,Unicorns Of Love,Team Vitality,1.0,24:52,OK,red,VIT,   VICTORY   ,53.4k,20,  9 ,  2 ,  1 ,  2 ,  1 ,Trundle,Alistar,DrMundo,Ornn,Ziggs
+2018.0,summer,LEC,3,Fnatic,G2,1.0,24:36,OK,blue,FNC,   DEFEAT   ,37.7k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Braum,Heimerdinger,Aatrox,Kaisa,Taric
+2018.0,summer,LEC,3,Fnatic,G2,1.0,24:36,OK,red,G2,   VICTORY   ,50.3k,19,  8 ,  1 ,  1 ,  0 ,  0 ,Nocturne,Yasuo,Taliyah,Sejuani,Trundle
+2018.0,summer,LEC,3,Misfits,H2k Gaming,1.0,23:28,OK,blue,MSF,   VICTORY   ,51.2k,15,  10 ,  1 ,  1 ,  1 ,  1 ,Vladimir,Swain,Aatrox,Kayle,Trundle
+2018.0,summer,LEC,3,Misfits,H2k Gaming,1.0,23:28,OK,red,H2K,   DEFEAT   ,33.8k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Nocturne,Taliyah,Braum,Alistar,Pyke
+2018.0,summer,LEC,3,Team Vitality,FC Schalke,1.0,30:21,OK,blue,VIT,   VICTORY   ,59.6k,17,  11 ,  3 ,  1 ,  2 ,  1 ,Irelia,Trundle,Lucian,Sejuani,Darius
+2018.0,summer,LEC,3,Team Vitality,FC Schalke,1.0,30:21,OK,red,S04,   DEFEAT   ,43.6k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Nocturne,Swain,Mordekaiser,Ryze
+2018.0,summer,LEC,3,Giants Gaming,Fnatic,1.0,22:38,OK,blue,GIA,   DEFEAT   ,33.0k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Ryze,Swain,Aatrox,Rakan,Alistar
+2018.0,summer,LEC,3,Giants Gaming,Fnatic,1.0,22:38,OK,red,FNC,   VICTORY   ,48.6k,16,  10 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Nocturne,Camille,Morgana,TahmKench
+2018.0,summer,LEC,3,Splyce,Team ROCCAT,1.0,43:57,OK,blue,SPY,   VICTORY   ,85.9k,18,  11 ,  3 ,  1 ,  3 ,  1 ,Vladimir,Irelia,Swain,Jax,Ziggs
+2018.0,summer,LEC,3,Splyce,Team ROCCAT,1.0,43:57,OK,red,ROC,   DEFEAT   ,76.2k,5,  8 ,  1 ,  1 ,  2 ,  0 ,Nocturne,Taliyah,Trundle,Rakan,TahmKench
+2018.0,summer,LEC,3,G2,Unicorns Of Love,1.0,24:29,OK,blue,G2,   VICTORY   ,50.6k,11,  9 ,  2 ,  1 ,  1 ,  1 ,Swain,Alistar,Taliyah,Vladimir,Ryze
+2018.0,summer,LEC,3,G2,Unicorns Of Love,1.0,24:29,OK,red,UOL,   DEFEAT   ,37.9k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Braum,Rakan,Nocturne,Morgana,Yasuo
+2018.0,summer,LEC,4,H2k Gaming,Team Vitality,1.0,26:46,OK,blue,H2K,   DEFEAT   ,42.9k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Zoe,Skarner,Nocturne,Darius,Gnar
+2018.0,summer,LEC,4,H2k Gaming,Team Vitality,1.0,26:46,OK,red,VIT,   VICTORY   ,54.1k,19,  11 ,  2 ,  1 ,  2 ,  0 ,Aatrox,Alistar,Taliyah,Fiddlesticks,Yasuo
+2018.0,summer,LEC,4,Giants Gaming,FC Schalke,1.0,39:20,OK,blue,GIA,   DEFEAT   ,65.7k,10,  5 ,  0 ,  0 ,  0 ,  1 ,Camille,Pyke,Swain,DrMundo,Heimerdinger
+2018.0,summer,LEC,4,Giants Gaming,FC Schalke,1.0,39:20,OK,red,S04,   VICTORY   ,73.1k,16,  8 ,  1 ,  1 ,  5 ,  0 ,Nocturne,Taliyah,Aatrox,Shen,Lucian
+2018.0,summer,LEC,4,Team ROCCAT,Unicorns Of Love,1.0,33:21,OK,blue,ROC,   VICTORY   ,66.2k,20,  10 ,  1 ,  0 ,  3 ,  1 ,Taliyah,Talon,Yasuo,Darius,Braum
+2018.0,summer,LEC,4,Team ROCCAT,Unicorns Of Love,1.0,33:21,OK,red,UOL,   DEFEAT   ,53.9k,8,  1 ,  0 ,  1 ,  0 ,  0 ,Nocturne,Aatrox,Rumble,Rakan,Lucian
+2018.0,summer,LEC,4,Splyce,Fnatic,1.0,32:24,OK,blue,SPY,   VICTORY   ,63.2k,25,  9 ,  1 ,  1 ,  2 ,  1 ,Yasuo,Taliyah,Swain,Talon,DrMundo
+2018.0,summer,LEC,4,Splyce,Fnatic,1.0,32:24,OK,red,FNC,   DEFEAT   ,51.2k,6,  3 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Nocturne,Pyke,Janna,Zilean
+2018.0,summer,LEC,4,Misfits,G2,1.0,38:39,OK,blue,MSF,   VICTORY   ,70.8k,12,  10 ,  1 ,  1 ,  4 ,  0 ,Heimerdinger,Braum,Morgana,Darius,Swain
+2018.0,summer,LEC,4,Misfits,G2,1.0,38:39,OK,red,G2,   DEFEAT   ,64.0k,3,  5 ,  1 ,  0 ,  1 ,  1 ,Aatrox,Taliyah,Nocturne,Trundle,Camille
+2018.0,summer,LEC,4,Unicorns Of Love,H2k Gaming,1.0,34:24,OK,blue,UOL,   VICTORY   ,63.2k,11,  10 ,  3 ,  2 ,  1 ,  1 ,Yasuo,Vladimir,Swain,Darius,Galio
+2018.0,summer,LEC,4,Unicorns Of Love,H2k Gaming,1.0,34:24,OK,red,H2K,   DEFEAT   ,55.3k,7,  3 ,  0 ,  0 ,  3 ,  0 ,Aatrox,Nocturne,Taliyah,Heimerdinger,Lucian
+2018.0,summer,LEC,4,FC Schalke,Splyce,1.0,29:50,OK,blue,S04,   VICTORY   ,60.1k,13,  11 ,  3 ,  1 ,  2 ,  1 ,Heimerdinger,Zoe,Nocturne,Trundle,Camille
+2018.0,summer,LEC,4,FC Schalke,Splyce,1.0,29:50,OK,red,SPY,   DEFEAT   ,45.2k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Braum,Morgana,Taliyah,Ryze,Yasuo
+2018.0,summer,LEC,4,G2,Giants Gaming,1.0,37:45,OK,blue,G2,   DEFEAT   ,65.4k,17,  4 ,  0 ,  0 ,  2 ,  1 ,Swain,Taliyah,Rakan,Talon,Zoe
+2018.0,summer,LEC,4,G2,Giants Gaming,1.0,37:45,OK,red,GIA,   VICTORY   ,67.8k,20,  7 ,  1 ,  1 ,  2 ,  0 ,Heimerdinger,Morgana,Braum,Kindred,Sejuani
+2018.0,summer,LEC,4,Fnatic,Team ROCCAT,1.0,27:26,OK,blue,FNC,   VICTORY   ,55.1k,11,  10 ,  2 ,  1 ,  3 ,  1 ,Camille,Heimerdinger,Taliyah,Rakan,Pyke
+2018.0,summer,LEC,4,Fnatic,Team ROCCAT,1.0,27:26,OK,red,ROC,   DEFEAT   ,41.1k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,DrMundo,Ryze,Swain
+2018.0,summer,LEC,4,Misfits,Team Vitality,1.0,35:59,OK,blue,MSF,   VICTORY   ,67.3k,18,  10 ,  2 ,  2 ,  1 ,  1 ,Heimerdinger,Alistar,Braum,Darius,Rumble
+2018.0,summer,LEC,4,Misfits,Team Vitality,1.0,35:59,OK,red,VIT,   DEFEAT   ,55.3k,11,  2 ,  0 ,  0 ,  2 ,  0 ,Yasuo,Aatrox,Rakan,DrMundo,JarvanIV
+2018.0,summer,LEC,5,Splyce,Giants Gaming,1.0,53:36,OK,blue,SPY,   VICTORY   ,96.1k,20,  11 ,  4 ,  1 ,  4 ,  0 ,DrMundo,Galio,Vladimir,Swain,Alistar
+2018.0,summer,LEC,5,Splyce,Giants Gaming,1.0,53:36,OK,red,GIA,   DEFEAT   ,91.7k,16,  6 ,  1 ,  1 ,  3 ,  1 ,Heimerdinger,Nocturne,Aatrox,Soraka,Fiddlesticks
+2018.0,summer,LEC,5,FC Schalke,H2k Gaming,1.0,37:55,OK,blue,S04,   VICTORY   ,65.2k,14,  8 ,  1 ,  0 ,  2 ,  0 ,Talon,Ryze,Rakan,Darius,DrMundo
+2018.0,summer,LEC,5,FC Schalke,H2k Gaming,1.0,37:55,OK,red,H2K,   DEFEAT   ,64.7k,9,  5 ,  0 ,  2 ,  2 ,  1 ,Aatrox,Taliyah,Nocturne,Trundle,Camille
+2018.0,summer,LEC,5,Team ROCCAT,Misfits,1.0,36:31,OK,blue,ROC,   DEFEAT   ,59.0k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Galio,Taliyah,Zoe,Darius,Trundle
+2018.0,summer,LEC,5,Team ROCCAT,Misfits,1.0,36:31,OK,red,MSF,   VICTORY   ,71.9k,14,  9 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Heimerdinger,Nocturne,Morgana,Pyke
+2018.0,summer,LEC,5,Unicorns Of Love,Fnatic,1.0,26:25,OK,blue,UOL,   DEFEAT   ,41.8k,10,  2 ,  0 ,  0 ,  0 ,  1 ,Yasuo,Alistar,Kindred,Karthus,Swain
+2018.0,summer,LEC,5,Unicorns Of Love,Fnatic,1.0,26:25,OK,red,FNC,   VICTORY   ,57.4k,23,  10 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Nocturne,Taliyah,TahmKench,JarvanIV
+2018.0,summer,LEC,5,G2,Team Vitality,1.0,38:24,OK,blue,G2,   VICTORY   ,71.9k,17,  10 ,  2 ,  2 ,  1 ,  1 ,Talon,Swain,Pyke,DrMundo,Darius
+2018.0,summer,LEC,5,G2,Team Vitality,1.0,38:24,OK,red,VIT,   DEFEAT   ,59.2k,8,  3 ,  0 ,  0 ,  2 ,  0 ,Heimerdinger,Aatrox,Nocturne,Yasuo,Irelia
+2018.0,summer,LEC,5,FC Schalke,Unicorns Of Love,1.0,35:05,OK,blue,S04,   VICTORY   ,61.8k,7,  9 ,  1 ,  1 ,  2 ,  0 ,Heimerdinger,Yasuo,Rakan,Rumble,DrMundo
+2018.0,summer,LEC,5,FC Schalke,Unicorns Of Love,1.0,35:05,OK,red,UOL,   DEFEAT   ,60.4k,8,  7 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Nocturne,Trundle,Kaisa,Chogath
+2018.0,summer,LEC,5,H2k Gaming,Giants Gaming,1.0,35:07,OK,blue,H2K,   DEFEAT   ,58.5k,9,  2 ,  0 ,  1 ,  0 ,  1 ,Yasuo,Galio,Nocturne,Xayah,Taliyah
+2018.0,summer,LEC,5,H2k Gaming,Giants Gaming,1.0,35:07,OK,red,GIA,   VICTORY   ,67.2k,14,  11 ,  2 ,  0 ,  3 ,  0 ,Talon,Aatrox,Swain,Draven,Janna
+2018.0,summer,LEC,5,Splyce,Team Vitality,1.0,31:57,OK,blue,SPY,   VICTORY   ,58.8k,19,  9 ,  1 ,  1 ,  3 ,  1 ,Swain,DrMundo,Talon,Fiddlesticks,Gragas
+2018.0,summer,LEC,5,Splyce,Team Vitality,1.0,31:57,OK,red,VIT,   DEFEAT   ,46.5k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Kindred,Pyke,Rakan
+2018.0,summer,LEC,5,Misfits,Fnatic,1.0,28:50,OK,blue,MSF,   DEFEAT   ,43.6k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Heimerdinger,Swain,Vladimir,Irelia,Kled
+2018.0,summer,LEC,5,Misfits,Fnatic,1.0,28:50,OK,red,FNC,   VICTORY   ,56.0k,11,  8 ,  1 ,  1 ,  3 ,  0 ,Nocturne,Taliyah,Aatrox,Rakan,Alistar
+2018.0,summer,LEC,5,Team ROCCAT,G2,1.0,28:44,OK,blue,ROC,   VICTORY   ,56.4k,11,  9 ,  1 ,  1 ,  2 ,  1 ,Heimerdinger,Yasuo,Braum,Brand,DrMundo
+2018.0,summer,LEC,5,Team ROCCAT,G2,1.0,28:44,OK,red,G2,   DEFEAT   ,42.5k,0,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Nocturne,Taliyah,Camille,Gragas
+2018.0,summer,LEC,6,Misfits,Unicorns Of Love,1.0,29:03,OK,blue,MSF,   VICTORY   ,58.4k,14,  11 ,  3 ,  1 ,  0 ,  1 ,Vladimir,Heimerdinger,Gragas,Ryze,Galio
+2018.0,summer,LEC,6,Misfits,Unicorns Of Love,1.0,29:03,OK,red,UOL,   DEFEAT   ,45.1k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Aatrox,Yasuo,Lucian,Gnar
+2018.0,summer,LEC,6,H2k Gaming,Team ROCCAT,1.0,24:50,OK,blue,H2K,   DEFEAT   ,37.5k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Yasuo,Gragas,Nocturne,Rumble,Shen
+2018.0,summer,LEC,6,H2k Gaming,Team ROCCAT,1.0,24:50,OK,red,ROC,   VICTORY   ,49.1k,10,  10 ,  2 ,  1 ,  3 ,  0 ,Rakan,Taliyah,Ryze,Galio,Heimerdinger
+2018.0,summer,LEC,6,Team Vitality,Giants Gaming,1.0,38:56,OK,blue,VIT,   VICTORY   ,69.9k,12,  9 ,  2 ,  1 ,  1 ,  1 ,Gragas,Rakan,Nocturne,Yasuo,Talon
+2018.0,summer,LEC,6,Team Vitality,Giants Gaming,1.0,38:56,OK,red,GIA,   DEFEAT   ,64.8k,12,  7 ,  0 ,  1 ,  3 ,  0 ,Zoe,Aatrox,Swain,Braum,Morgana
+2018.0,summer,LEC,6,G2,Splyce,1.0,25:42,OK,blue,G2,   VICTORY   ,53.5k,13,  11 ,  3 ,  1 ,  2 ,  1 ,Rakan,Zoe,Rumble,Fiddlesticks,Jhin
+2018.0,summer,LEC,6,G2,Splyce,1.0,25:42,OK,red,SPY,   DEFEAT   ,37.0k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Yasuo,Leblanc,Orianna
+2018.0,summer,LEC,6,Fnatic,FC Schalke,1.0,27:57,OK,blue,FNC,   VICTORY   ,57.3k,19,  9 ,  1 ,  1 ,  2 ,  1 ,Alistar,Rakan,Swain,DrMundo,Poppy
+2018.0,summer,LEC,6,Fnatic,FC Schalke,1.0,27:57,OK,red,S04,   DEFEAT   ,39.2k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Pyke,Heimerdinger,Zoe
+2018.0,summer,LEC,6,Team ROCCAT,Team Vitality,1.0,35:41,OK,blue,ROC,   DEFEAT   ,54.1k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Heimerdinger,Zoe,Kindred,Alistar,Pyke
+2018.0,summer,LEC,6,Team ROCCAT,Team Vitality,1.0,35:41,OK,red,VIT,   VICTORY   ,67.8k,20,  10 ,  2 ,  1 ,  4 ,  1 ,Aatrox,Taliyah,Rumble,Gragas,Gnar
+2018.0,summer,LEC,6,Giants Gaming,Unicorns Of Love,1.0,35:25,OK,blue,GIA,   DEFEAT   ,60.4k,8,  6 ,  0 ,  1 ,  0 ,  1 ,Zoe,DrMundo,Trundle,Alistar,Pyke
+2018.0,summer,LEC,6,Giants Gaming,Unicorns Of Love,1.0,35:25,OK,red,UOL,   VICTORY   ,67.6k,16,  10 ,  2 ,  1 ,  2 ,  0 ,Taliyah,Aatrox,Nocturne,Lucian,Rakan
+2018.0,summer,LEC,6,Fnatic,H2k Gaming,1.0,29:27,OK,blue,FNC,   VICTORY   ,60.4k,24,  11 ,  3 ,  1 ,  4 ,  1 ,Rakan,Kindred,Draven,Graves,Morgana
+2018.0,summer,LEC,6,Fnatic,H2k Gaming,1.0,29:27,OK,red,H2K,   DEFEAT   ,46.2k,16,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Taliyah,Orianna,Yasuo
+2018.0,summer,LEC,6,FC Schalke,G2,1.0,31:30,OK,blue,S04,   VICTORY   ,59.8k,16,  8 ,  1 ,  1 ,  1 ,  1 ,Heimerdinger,Brand,Aatrox,Trundle,Gnar
+2018.0,summer,LEC,6,FC Schalke,G2,1.0,31:30,OK,red,G2,   DEFEAT   ,47.3k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Nocturne,Rakan,Poppy,Chogath
+2018.0,summer,LEC,6,Splyce,Misfits,1.0,39:08,OK,blue,SPY,   VICTORY   ,62.4k,7,  7 ,  1 ,  0 ,  4 ,  0 ,Yasuo,Taliyah,DrMundo,Draven,Varus
+2018.0,summer,LEC,6,Splyce,Misfits,1.0,39:08,OK,red,MSF,   DEFEAT   ,59.3k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Nocturne,Aatrox,Vladimir,Pyke,TahmKench
+2018.0,summer,LEC,7,Unicorns Of Love,Splyce,1.0,40:33,OK,blue,UOL,   DEFEAT   ,63.5k,0,  3 ,  0 ,  1 ,  0 ,  1 ,Zoe,Rumble,Aatrox,Jhin,Gnar
+2018.0,summer,LEC,7,Unicorns Of Love,Splyce,1.0,40:33,OK,red,SPY,   VICTORY   ,75.0k,11,  8 ,  1 ,  1 ,  5 ,  0 ,Pyke,Yasuo,Nocturne,Kennen,Jayce
+2018.0,summer,LEC,7,FC Schalke,Team ROCCAT,1.0,40:11,OK,blue,S04,   VICTORY   ,74.7k,8,  11 ,  3 ,  1 ,  3 ,  1 ,Camille,Kindred,Trundle,Ashe,Varus
+2018.0,summer,LEC,7,FC Schalke,Team ROCCAT,1.0,40:11,OK,red,ROC,   DEFEAT   ,67.4k,5,  6 ,  0 ,  1 ,  0 ,  0 ,Nocturne,Taliyah,Aatrox,Zed,Yasuo
+2018.0,summer,LEC,7,G2,H2k Gaming,1.0,38:39,OK,blue,G2,   VICTORY   ,73.4k,14,  11 ,  4 ,  1 ,  3 ,  1 ,Ryze,Kindred,Nocturne,Camille,Pyke
+2018.0,summer,LEC,7,G2,H2k Gaming,1.0,38:39,OK,red,H2K,   DEFEAT   ,64.0k,11,  2 ,  0 ,  1 ,  0 ,  0 ,Heimerdinger,Orianna,Yasuo,Azir,Cassiopeia
+2018.0,summer,LEC,7,Misfits,Giants Gaming,1.0,37:58,OK,blue,MSF,   DEFEAT   ,58.1k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Trundle,TahmKench,Zoe,Rumble,DrMundo
+2018.0,summer,LEC,7,Misfits,Giants Gaming,1.0,37:58,OK,red,GIA,   VICTORY   ,75.3k,12,  11 ,  3 ,  1 ,  4 ,  1 ,Aatrox,Nocturne,Yasuo,Kindred,Sejuani
+2018.0,summer,LEC,7,Team Vitality,Fnatic,1.0,32:45,OK,blue,VIT,   VICTORY   ,64.7k,20,  9 ,  2 ,  2 ,  2 ,  1 ,Pyke,Swain,Kindred,Gnar,Viktor
+2018.0,summer,LEC,7,Team Vitality,Fnatic,1.0,32:45,OK,red,FNC,   DEFEAT   ,51.7k,11,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Orianna,Rumble,DrMundo
+2018.0,summer,LEC,7,Team ROCCAT,Giants Gaming,1.0,40:31,OK,blue,ROC,   DEFEAT   ,70.1k,10,  7 ,  0 ,  1 ,  1 ,  1 ,TahmKench,Aatrox,Nocturne,Gragas,Sejuani
+2018.0,summer,LEC,7,Team ROCCAT,Giants Gaming,1.0,40:31,OK,red,GIA,   VICTORY   ,73.1k,12,  7 ,  1 ,  1 ,  2 ,  0 ,DrMundo,Rakan,Taliyah,Alistar,Jhin
+2018.0,summer,LEC,7,H2k Gaming,Splyce,1.0,36:31,OK,blue,H2K,   VICTORY   ,73.1k,14,  11 ,  2 ,  2 ,  4 ,  1 ,Zoe,TahmKench,Rakan,Lucian,Varus
+2018.0,summer,LEC,7,H2k Gaming,Splyce,1.0,36:31,OK,red,SPY,   DEFEAT   ,59.1k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Nocturne,Aatrox,Elise,DrMundo
+2018.0,summer,LEC,7,Team Vitality,Unicorns Of Love,1.0,35:58,OK,blue,VIT,   VICTORY   ,68.9k,20,  10 ,  1 ,  2 ,  3 ,  1 ,TahmKench,Zoe,Ryze,Darius,Rumble
+2018.0,summer,LEC,7,Team Vitality,Unicorns Of Love,1.0,35:58,OK,red,UOL,   DEFEAT   ,57.1k,12,  4 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Kindred,Xayah,Varus
+2018.0,summer,LEC,7,G2,Fnatic,1.0,27:15,OK,blue,G2,   DEFEAT   ,45.2k,4,  5 ,  0 ,  0 ,  0 ,  0 ,Swain,Pyke,Trundle,Xayah,Gragas
+2018.0,summer,LEC,7,G2,Fnatic,1.0,27:15,OK,red,FNC,   VICTORY   ,52.5k,12,  9 ,  1 ,  1 ,  1 ,  1 ,Aatrox,Taliyah,Heimerdinger,Leblanc,Zed
+2018.0,summer,LEC,7,Misfits,FC Schalke,1.0,33:07,OK,blue,MSF,   DEFEAT   ,54.2k,9,  5 ,  0 ,  0 ,  2 ,  0 ,Ryze,Yasuo,Swain,Zed,Ezreal
+2018.0,summer,LEC,7,Misfits,FC Schalke,1.0,33:07,OK,red,S04,   VICTORY   ,62.7k,18,  10 ,  3 ,  1 ,  2 ,  1 ,Nocturne,Taliyah,Aatrox,Kennen,Rakan
+2018.0,summer,LEC,8,Team ROCCAT,Splyce,1.0,45:55,OK,blue,ROC,   DEFEAT   ,75.2k,5,  5 ,  0 ,  0 ,  2 ,  0 ,Zoe,Rumble,Aatrox,Ryze,Ezreal
+2018.0,summer,LEC,8,Team ROCCAT,Splyce,1.0,45:55,OK,red,SPY,   VICTORY   ,88.2k,12,  10 ,  3 ,  3 ,  3 ,  1 ,Taliyah,Rakan,Nocturne,Kennen,Orianna
+2018.0,summer,LEC,8,H2k Gaming,Misfits,1.0,34:43,OK,blue,H2K,   DEFEAT   ,59.4k,5,  6 ,  0 ,  0 ,  2 ,  1 ,Draven,TahmKench,Rakan,Kennen,Camille
+2018.0,summer,LEC,8,H2k Gaming,Misfits,1.0,34:43,OK,red,MSF,   VICTORY   ,62.9k,9,  9 ,  2 ,  1 ,  1 ,  0 ,Taliyah,Aatrox,Nocturne,Ezreal,Lucian
+2018.0,summer,LEC,8,Unicorns Of Love,G2,1.0,39:28,OK,blue,UOL,   DEFEAT   ,67.5k,11,  6 ,  0 ,  2 ,  0 ,  0 ,Trundle,Ashe,Azir,Irelia,
+2018.0,summer,LEC,8,Unicorns Of Love,G2,1.0,39:28,OK,red,G2,   VICTORY   ,73.9k,20,  10 ,  2 ,  0 ,  3 ,  1 ,Taliyah,Nocturne,Rumble,Ezreal,Kindred
+2018.0,summer,LEC,8,Fnatic,Giants Gaming,1.0,30:27,OK,blue,FNC,   VICTORY   ,60.2k,20,  9 ,  2 ,  1 ,  1 ,  1 ,Rumble,Nocturne,Taliyah,Gnar,Poppy
+2018.0,summer,LEC,8,Fnatic,Giants Gaming,1.0,30:27,OK,red,GIA,   DEFEAT   ,48.3k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Yasuo,Rakan,Sejuani,Kindred
+2018.0,summer,LEC,8,FC Schalke,Team Vitality,1.0,43:12,OK,blue,S04,   VICTORY   ,83.0k,17,  11 ,  3 ,  3 ,  1 ,  1 ,Trundle,Ryze,Galio,Gnar,Kennen
+2018.0,summer,LEC,8,FC Schalke,Team Vitality,1.0,43:12,OK,red,VIT,   DEFEAT   ,72.6k,13,  4 ,  0 ,  0 ,  3 ,  0 ,Aatrox,Sejuani,Alistar,Lucian,Rumble
+2018.0,summer,LEC,8,Team Vitality,H2k Gaming,1.0,29:00,OK,blue,VIT,   VICTORY   ,57.4k,20,  10 ,  2 ,  0 ,  2 ,  1 ,Fizz,Nocturne,Aatrox,Darius,Yasuo
+2018.0,summer,LEC,8,Team Vitality,H2k Gaming,1.0,29:00,OK,red,H2K,   DEFEAT   ,54.0k,12,  5 ,  0 ,  1 ,  1 ,  0 ,Trundle,Rakan,Akali,Camille,Gragas
+2018.0,summer,LEC,8,Team ROCCAT,Unicorns Of Love,1.0,34:20,OK,blue,ROC,   DEFEAT   ,61.0k,24,  3 ,  0 ,  0 ,  1 ,  0 ,Ryze,DrMundo,Akali,Zoe,Talon
+2018.0,summer,LEC,8,Team ROCCAT,Unicorns Of Love,1.0,34:20,OK,red,UOL,   VICTORY   ,61.9k,16,  8 ,  1 ,  1 ,  1 ,  0 ,Taliyah,Varus,Trundle,Rakan,Shen
+2018.0,summer,LEC,8,FC Schalke,Giants Gaming,1.0,33:05,OK,blue,S04,   VICTORY   ,65.1k,15,  10 ,  2 ,  1 ,  1 ,  1 ,Ryze,Trundle,Taliyah,Varus,Jhin
+2018.0,summer,LEC,8,FC Schalke,Giants Gaming,1.0,33:05,OK,red,GIA,   DEFEAT   ,53.0k,0,  4 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Akali,Nocturne,Kennen,Camille
+2018.0,summer,LEC,8,G2,Misfits,1.0,31:47,OK,blue,G2,   VICTORY   ,60.3k,13,  10 ,  2 ,  0 ,  3 ,  0 ,Braum,Nocturne,Morgana,Gangplank,Ezreal
+2018.0,summer,LEC,8,G2,Misfits,1.0,31:47,OK,red,MSF,   DEFEAT   ,48.9k,4,  3 ,  0 ,  1 ,  0 ,  1 ,Taliyah,Akali,Aatrox,Orianna,Leblanc
+2018.0,summer,LEC,8,Fnatic,Splyce,1.0,53:37,OK,blue,FNC,   VICTORY   ,98.4k,21,  10 ,  3 ,  2 ,  2 ,  1 ,Trundle,Aatrox,Taliyah,Rumble,Kennen
+2018.0,summer,LEC,8,Fnatic,Splyce,1.0,53:37,OK,red,SPY,   DEFEAT   ,86.3k,16,  4 ,  0 ,  1 ,  4 ,  0 ,Akali,Yasuo,Nocturne,Irelia,Ornn
+2018.0,summer,LEC,9,H2k Gaming,Unicorns Of Love,1.0,25:59,OK,blue,H2K,   DEFEAT   ,41.3k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Ryze,Rakan,Trundle,Varus,Kennen
+2018.0,summer,LEC,9,H2k Gaming,Unicorns Of Love,1.0,25:59,OK,red,UOL,   VICTORY   ,54.7k,24,  10 ,  2 ,  1 ,  2 ,  0 ,Aatrox,Taliyah,Akali,Braum,Pyke
+2018.0,summer,LEC,9,FC Schalke,Splyce,1.0,40:29,OK,blue,S04,   VICTORY   ,75.2k,16,  10 ,  1 ,  1 ,  3 ,  1 ,Trundle,Taliyah,Zac,TahmKench,Gnar
+2018.0,summer,LEC,9,FC Schalke,Splyce,1.0,40:29,OK,red,SPY,   DEFEAT   ,66.7k,9,  5 ,  0 ,  0 ,  2 ,  0 ,Nocturne,Akali,Aatrox,Kennen,Poppy
+2018.0,summer,LEC,9,Giants Gaming,G2,1.0,34:22,OK,blue,GIA,   DEFEAT   ,60.4k,8,  5 ,  1 ,  0 ,  1 ,  0 ,Varus,Leblanc,Aatrox,Yasuo,Camille
+2018.0,summer,LEC,9,Giants Gaming,G2,1.0,34:22,OK,red,G2,   VICTORY   ,67.4k,16,  10 ,  2 ,  1 ,  2 ,  1 ,Taliyah,Nocturne,Akali,Trundle,Kindred
+2018.0,summer,LEC,9,Fnatic,Team ROCCAT,1.0,36:56,OK,blue,FNC,   VICTORY   ,70.1k,27,  9 ,  2 ,  1 ,  1 ,  1 ,Camille,Varus,Taliyah,Trundle,Olaf
+2018.0,summer,LEC,9,Fnatic,Team ROCCAT,1.0,36:56,OK,red,ROC,   DEFEAT   ,63.9k,18,  3 ,  0 ,  0 ,  1 ,  0 ,Akali,Pyke,Aatrox,DrMundo,Gnar
+2018.0,summer,LEC,9,Misfits,Team Vitality,1.0,27:49,OK,blue,MSF,   DEFEAT   ,43.0k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Ryze,Galio,Trundle,Jhin,MissFortune
+2018.0,summer,LEC,9,Misfits,Team Vitality,1.0,27:49,OK,red,VIT,   VICTORY   ,56.7k,17,  9 ,  2 ,  1 ,  3 ,  1 ,Rakan,Taliyah,Aatrox,Gnar,TahmKench
+2018.0,summer,LEC,9,Giants Gaming,Splyce,1.0,27:11,OK,blue,GIA,   DEFEAT   ,40.8k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,TahmKench,Aatrox,Rakan,DrMundo
+2018.0,summer,LEC,9,Giants Gaming,Splyce,1.0,27:11,OK,red,SPY,   VICTORY   ,56.4k,21,  11 ,  2 ,  0 ,  2 ,  1 ,Olaf,Taliyah,Nocturne,Morgana,Alistar
+2018.0,summer,LEC,9,H2k Gaming,FC Schalke,1.0,31:48,OK,blue,H2K,   VICTORY   ,63.4k,9,  11 ,  3 ,  1 ,  2 ,  1 ,Poppy,Braum,Sejuani,Leblanc,Shen
+2018.0,summer,LEC,9,H2k Gaming,FC Schalke,1.0,31:48,OK,red,S04,   DEFEAT   ,47.7k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Nocturne,Draven,Gnar,Jhin
+2018.0,summer,LEC,9,Misfits,Team ROCCAT,1.0,38:54,OK,blue,MSF,   DEFEAT   ,65.5k,13,  3 ,  0 ,  0 ,  1 ,  0 ,Rumble,Trundle,Braum,Gnar,Lissandra
+2018.0,summer,LEC,9,Misfits,Team ROCCAT,1.0,38:54,OK,red,ROC,   VICTORY   ,78.4k,22,  10 ,  3 ,  2 ,  2 ,  1 ,Rakan,Akali,Aatrox,Yasuo,Ryze
+2018.0,summer,LEC,9,Fnatic,Unicorns Of Love,1.0,31:58,OK,blue,FNC,   DEFEAT   ,56.1k,9,  5 ,  0 ,  1 ,  4 ,  1 ,Trundle,Aatrox,Taliyah,Quinn,Ryze
+2018.0,summer,LEC,9,Fnatic,Unicorns Of Love,1.0,31:58,OK,red,UOL,   VICTORY   ,57.2k,12,  8 ,  1 ,  1 ,  0 ,  0 ,Akali,Rakan,Sejuani,Azir,Leblanc
+2018.0,summer,LEC,9,Team Vitality,G2,1.0,28:36,OK,blue,VIT,   VICTORY   ,56.4k,10,  11 ,  2 ,  1 ,  2 ,  1 ,Varus,Akali,Aatrox,Yasuo,Rumble
+2018.0,summer,LEC,9,Team Vitality,G2,1.0,28:36,OK,red,G2,   DEFEAT   ,42.4k,0,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Rakan,Galio,Ryze,Leblanc
+2018.0,summer,LEC,Tiebreakers,FC Schalke,Team Vitality,1.0,42:56,OK,blue,S04,   DEFEAT   ,71.9k,9,  5 ,  1 ,  0 ,  0 ,  1 ,Taliyah,Rakan,Kindred,Alistar,Kennen
+2018.0,summer,LEC,Tiebreakers,FC Schalke,Team Vitality,1.0,42:56,OK,red,VIT,   VICTORY   ,87.4k,13,  10 ,  2 ,  2 ,  5 ,  0 ,Akali,Aatrox,Sejuani,Yasuo,Rumble
+2018.0,summer,LEC,Tiebreakers,G2,Team Vitality,1.0,34:48,OK,blue,G2,   DEFEAT   ,59.1k,15,  3 ,  0 ,  0 ,  0 ,  0 ,Trundle,Olaf,Ryze,Nocturne,Kindred
+2018.0,summer,LEC,Tiebreakers,G2,Team Vitality,1.0,34:48,OK,red,VIT,   VICTORY   ,68.2k,18,  9 ,  2 ,  2 ,  3 ,  1 ,Akali,Aatrox,Taliyah,Yasuo,Lucian
+2018.0,summer,LEC,Tiebreakers,G2,FC Schalke,1.0,48:10,OK,blue,G2,   DEFEAT   ,81.8k,15,  5 ,  0 ,  1 ,  2 ,  1 ,Braum,Alistar,Ezreal,Kaisa,Lucian
+2018.0,summer,LEC,Tiebreakers,G2,FC Schalke,1.0,48:10,OK,red,S04,   VICTORY   ,86.0k,19,  8 ,  1 ,  2 ,  3 ,  0 ,Akali,Aatrox,Rakan,Gnar,Yasuo

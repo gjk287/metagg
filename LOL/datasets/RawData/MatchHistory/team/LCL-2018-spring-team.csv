@@ -1,0 +1,117 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,LCL,1,Gambit,M19,1.0,31:24,OK,blue,GMB,   ПОБЕДА   ,62.6 тыс.,11,  9 ,  2 ,  1 ,  2 ,  1 ,Nidalee,Khazix,Ryze,Jayce,Janna
+2018.0,spring,LCL,1,Gambit,M19,1.0,31:24,OK,red,M19,   ПОРАЖЕНИЕ   ,49.7 тыс.,11,  0 ,  0 ,  0 ,  1 ,  0 ,Camille,Zoe,Nunu,Braum,TahmKench
+2018.0,spring,LCL,1,Vaevictis eSports,Vega Squadron,1.0,32:03,OK,blue,VAE,   ПОРАЖЕНИЕ   ,49.2 тыс.,5,  2 ,  0 ,  0 ,  0 ,  0 ,Kalista,Gangplank,Zoe,Tristana,Braum
+2018.0,spring,LCL,1,Vaevictis eSports,Vega Squadron,1.0,32:03,OK,red,VEG,   ПОБЕДА   ,56.9 тыс.,10,  9 ,  1 ,  1 ,  3 ,  0 ,JarvanIV,Nunu,Khazix,Kled,Jax
+2018.0,spring,LCL,1,Team Just,RoX,1.0,38:07,OK,blue,TJ,   ПОРАЖЕНИЕ   ,63.9 тыс.,9,  2 ,  0 ,  0 ,  1 ,  0 ,Janna,Zoe,TahmKench,Jax,Poppy
+2018.0,spring,LCL,1,Team Just,RoX,1.0,38:07,OK,red,ROX,   ПОБЕДА   ,75.8 тыс.,17,  9 ,  2 ,  1 ,  1 ,  1 ,Ryze,Azir,Galio,Cassiopeia,Malzahar
+2018.0,spring,LCL,1,Dragon Army,Vega Squadron,1.0,39:14,OK,blue,DA,   ПОБЕДА   ,78.5 тыс.,17,  11 ,  3 ,  1 ,  4 ,  1 ,Galio,TahmKench,Zoe,Morgana,Leblanc
+2018.0,spring,LCL,1,Dragon Army,Vega Squadron,1.0,39:14,OK,red,VEG,   ПОРАЖЕНИЕ   ,63.1 тыс.,7,  2 ,  0 ,  1 ,  2 ,  0 ,JarvanIV,Kalista,Azir,Xayah,Varus
+2018.0,spring,LCL,1,Elements Pro Gaming,Vaevictis eSports,1.0,35:02,OK,blue,EPG,   ПОРАЖЕНИЕ   ,53.2 тыс.,6,  2 ,  0 ,  0 ,  1 ,  1 ,Azir,TahmKench,Jax,Lulu,Alistar
+2018.0,spring,LCL,1,Elements Pro Gaming,Vaevictis eSports,1.0,35:02,OK,red,VAE,   ПОБЕДА   ,68.8 тыс.,14,  10 ,  2 ,  2 ,  2 ,  0 ,Galio,Kalista,Camille,Gangplank,Vladimir
+2018.0,spring,LCL,1,Team Just,Dragon Army,1.0,26:30,OK,blue,TJ,   ПОРАЖЕНИЕ   ,41.7 тыс.,5,  3 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Xayah,Zoe,Janna,Braum
+2018.0,spring,LCL,1,Team Just,Dragon Army,1.0,26:30,OK,red,DA,   ПОБЕДА   ,49.6 тыс.,9,  9 ,  1 ,  1 ,  2 ,  0 ,Galio,Vladimir,Kalista,KogMaw,Tristana
+2018.0,spring,LCL,1,Vega Squadron,Elements Pro Gaming,1.0,28:31,OK,blue,VEG,   ПОБЕДА   ,58.2 тыс.,20,  11 ,  1 ,  0 ,  2 ,  1 ,Khazix,Galio,Kalista,Zac,Taric
+2018.0,spring,LCL,1,Vega Squadron,Elements Pro Gaming,1.0,28:31,OK,red,EPG,   ПОРАЖЕНИЕ   ,43.7 тыс.,8,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,Zoe,Ryze,Braum,Xayah
+2018.0,spring,LCL,1,RoX,Dragon Army,1.0,48:13,OK,blue,ROX,   ПОРАЖЕНИЕ   ,83.4 тыс.,10,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Orianna,Camille,Gnar,Jayce
+2018.0,spring,LCL,1,RoX,Dragon Army,1.0,48:13,OK,red,DA,   ПОБЕДА   ,96.4 тыс.,20,  11 ,  7 ,  3 ,  5 ,  1 ,Galio,Zoe,Leblanc,Janna,TahmKench
+2018.0,spring,LCL,1,Elements Pro Gaming,M19,1.0,29:55,OK,blue,EPG,   ПОРАЖЕНИЕ   ,45.2 тыс.,2,  3 ,  0 ,  0 ,  0 ,  1 ,Azir,Khazix,Ryze,Varus,TahmKench
+2018.0,spring,LCL,1,Elements Pro Gaming,M19,1.0,29:55,OK,red,M19,   ПОБЕДА   ,62.3 тыс.,15,  8 ,  1 ,  1 ,  3 ,  0 ,Camille,Kalista,Galio,Braum,Taric
+2018.0,spring,LCL,1,RoX,Gambit,1.0,38:08,OK,blue,ROX,   ПОБЕДА   ,75.1 тыс.,13,  9 ,  1 ,  1 ,  5 ,  1 ,Ryze,Camille,Jayce,Gnar,Vladimir
+2018.0,spring,LCL,1,RoX,Gambit,1.0,38:08,OK,red,GMB,   ПОРАЖЕНИЕ   ,56.6 тыс.,1,  1 ,  0 ,  0 ,  0 ,  0 ,Caitlyn,Zoe,Galio,JarvanIV,Jax
+2018.0,spring,LCL,1,Vaevictis eSports,M19,1.0,33:26,OK,blue,VAE,   ПОРАЖЕНИЕ   ,51.7 тыс.,8,  2 ,  0 ,  0 ,  2 ,  0 ,Khazix,Gangplank,Nidalee,RekSai,Sejuani
+2018.0,spring,LCL,1,Vaevictis eSports,M19,1.0,33:26,OK,red,M19,   ПОБЕДА   ,63.8 тыс.,14,  8 ,  1 ,  1 ,  2 ,  1 ,Camille,Zoe,Nunu,Varus,Caitlyn
+2018.0,spring,LCL,1,Gambit,Team Just,1.0,39:23,OK,blue,GMB,   ПОБЕДА   ,72.3 тыс.,17,  8 ,  1 ,  1 ,  1 ,  0 ,Camille,Vladimir,Khazix,Nidalee,Sejuani
+2018.0,spring,LCL,1,Gambit,Team Just,1.0,39:23,OK,red,TJ,   ПОРАЖЕНИЕ   ,69.3 тыс.,14,  7 ,  0 ,  1 ,  3 ,  0 ,Zoe,Gangplank,JarvanIV,Braum,TahmKench
+2018.0,spring,LCL,2,Elements Pro Gaming,RoX,1.0,39:12,OK,blue,EPG,   ПОРАЖЕНИЕ   ,69.2 тыс.,4,  3 ,  0 ,  0 ,  0 ,  1 ,Sejuani,JarvanIV,Zac,Gnar,Lulu
+2018.0,spring,LCL,2,Elements Pro Gaming,RoX,1.0,39:12,OK,red,ROX,   ПОБЕДА   ,79.9 тыс.,14,  11 ,  6 ,  3 ,  3 ,  0 ,Camille,Zoe,Galio,Jax,Nidalee
+2018.0,spring,LCL,2,Vega Squadron,M19,1.0,38:12,OK,blue,VEG,   ПОРАЖЕНИЕ   ,61.2 тыс.,5,  3 ,  0 ,  1 ,  0 ,  0 ,Khazix,Gnar,Taliyah,Bard,Janna
+2018.0,spring,LCL,2,Vega Squadron,M19,1.0,38:12,OK,red,M19,   ПОБЕДА   ,74.1 тыс.,10,  10 ,  2 ,  1 ,  5 ,  1 ,Camille,Zoe,Gangplank,Alistar,Braum
+2018.0,spring,LCL,2,RoX,Vaevictis eSports,1.0,31:25,OK,blue,ROX,   ПОБЕДА   ,64.2 тыс.,20,  10 ,  2 ,  1 ,  3 ,  0 ,Camille,Leblanc,Ezreal,Xayah,Tristana
+2018.0,spring,LCL,2,RoX,Vaevictis eSports,1.0,31:25,OK,red,VAE,   ПОРАЖЕНИЕ   ,48.2 тыс.,8,  0 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Zoe,Ryze,Skarner,JarvanIV
+2018.0,spring,LCL,2,Gambit,Vega Squadron,1.0,33:54,OK,blue,GMB,   ПОБЕДА   ,65.8 тыс.,16,  8 ,  1 ,  1 ,  3 ,  1 ,Camille,Tristana,Taliyah,Vladimir,Taric
+2018.0,spring,LCL,2,Gambit,Vega Squadron,1.0,33:54,OK,red,VEG,   ПОРАЖЕНИЕ   ,53.1 тыс.,6,  3 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Gnar,Zoe,Jayce,Sion
+2018.0,spring,LCL,2,Vaevictis eSports,Team Just,1.0,37:25,OK,blue,VAE,   ПОРАЖЕНИЕ   ,62.1 тыс.,6,  5 ,  0 ,  0 ,  2 ,  0 ,Camille,Vladimir,Zoe,Ornn,Gnar
+2018.0,spring,LCL,2,Vaevictis eSports,Team Just,1.0,37:25,OK,red,TJ,   ПОБЕДА   ,66.6 тыс.,11,  7 ,  1 ,  1 ,  2 ,  1 ,Kalista,Gangplank,Galio,Alistar,Taric
+2018.0,spring,LCL,2,Gambit,Dragon Army,1.0,36:44,OK,blue,GMB,   ПОБЕДА   ,74.4 тыс.,12,  11 ,  3 ,  1 ,  1 ,  1 ,Taliyah,Camille,Xayah,Sivir,Alistar
+2018.0,spring,LCL,2,Gambit,Dragon Army,1.0,36:44,OK,red,DA,   ПОРАЖЕНИЕ   ,55.5 тыс.,3,  1 ,  0 ,  0 ,  1 ,  0 ,Galio,Zoe,TahmKench,Veigar,Ryze
+2018.0,spring,LCL,2,Team Just,Vega Squadron,1.0,37:40,OK,blue,TJ,   ПОБЕДА   ,70.9 тыс.,12,  10 ,  2 ,  2 ,  4 ,  1 ,Taliyah,Tristana,Zoe,Janna,Taric
+2018.0,spring,LCL,2,Team Just,Vega Squadron,1.0,37:40,OK,red,VEG,   ПОРАЖЕНИЕ   ,57.5 тыс.,1,  3 ,  0 ,  0 ,  0 ,  0 ,Camille,Gangplank,Ryze,Khazix,Zac
+2018.0,spring,LCL,2,RoX,M19,1.0,37:40,OK,blue,ROX,   ПОБЕДА   ,73.3 тыс.,17,  9 ,  2 ,  1 ,  3 ,  0 ,Veigar,Azir,Ryze,Janna,TahmKench
+2018.0,spring,LCL,2,RoX,M19,1.0,37:40,OK,red,M19,   ПОРАЖЕНИЕ   ,58.4 тыс.,4,  1 ,  0 ,  1 ,  2 ,  1 ,Camille,Zoe,Gangplank,Zac,JarvanIV
+2018.0,spring,LCL,2,Elements Pro Gaming,Team Just,1.0,40:36,OK,blue,EPG,   ПОРАЖЕНИЕ   ,67.3 тыс.,4,  1 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Azir,Ryze,Kalista,Jinx
+2018.0,spring,LCL,2,Elements Pro Gaming,Team Just,1.0,40:36,OK,red,TJ,   ПОБЕДА   ,83.4 тыс.,18,  10 ,  2 ,  2 ,  5 ,  1 ,Camille,Zoe,Tristana,Varus,Caitlyn
+2018.0,spring,LCL,2,M19,Dragon Army,1.0,35:11,OK,blue,M19,   ПОБЕДА   ,71.2 тыс.,12,  9 ,  1 ,  1 ,  2 ,  1 ,Camille,Taliyah,Yasuo,Kalista,Varus
+2018.0,spring,LCL,2,M19,Dragon Army,1.0,35:11,OK,red,DA,   ПОРАЖЕНИЕ   ,57.0 тыс.,3,  3 ,  0 ,  1 ,  2 ,  0 ,Zoe,Galio,JarvanIV,TahmKench,Morgana
+2018.0,spring,LCL,2,Gambit,Elements Pro Gaming,1.0,27:51,OK,blue,GMB,   ПОБЕДА   ,56.5 тыс.,19,  8 ,  1 ,  1 ,  1 ,  0 ,Camille,Xayah,Zoe,Azir,Alistar
+2018.0,spring,LCL,2,Gambit,Elements Pro Gaming,1.0,27:51,OK,red,EPG,   ПОРАЖЕНИЕ   ,45.1 тыс.,10,  2 ,  0 ,  0 ,  2 ,  0 ,Gangplank,Ryze,Galio,TahmKench,Morgana
+2018.0,spring,LCL,2,Vaevictis eSports,Dragon Army,1.0,34:10,OK,blue,VAE,   ПОРАЖЕНИЕ   ,53.1 тыс.,7,  3 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Camille,Xayah,Vladimir,Fiora
+2018.0,spring,LCL,2,Vaevictis eSports,Dragon Army,1.0,34:10,OK,red,DA,   ПОБЕДА   ,61.9 тыс.,11,  9 ,  2 ,  1 ,  2 ,  1 ,Zoe,Galio,Gangplank,Janna,Taric
+2018.0,spring,LCL,3,Dragon Army,Elements Pro Gaming,1.0,41:09,OK,blue,DA,   ПОБЕДА   ,78.8 тыс.,13,  10 ,  3 ,  1 ,  3 ,  0 ,Galio,Nidalee,Zoe,Gnar,Braum
+2018.0,spring,LCL,3,Dragon Army,Elements Pro Gaming,1.0,41:09,OK,red,EPG,   ПОРАЖЕНИЕ   ,67.6 тыс.,5,  4 ,  0 ,  1 ,  1 ,  1 ,Gangplank,Taliyah,Camille,Xayah,Ezreal
+2018.0,spring,LCL,3,RoX,Vega Squadron,1.0,38:23,OK,blue,ROX,   ПОБЕДА   ,78.4 тыс.,18,  11 ,  1 ,  2 ,  0 ,  0 ,Taliyah,Cassiopeia,Zoe,Camille,Morgana
+2018.0,spring,LCL,3,RoX,Vega Squadron,1.0,38:23,OK,red,VEG,   ПОРАЖЕНИЕ   ,61.9 тыс.,6,  2 ,  0 ,  0 ,  3 ,  0 ,Galio,Varus,Leblanc,Xayah,Caitlyn
+2018.0,spring,LCL,3,M19,Elements Pro Gaming,1.0,31:28,OK,blue,M19,   ПОБЕДА   ,60.4 тыс.,11,  9 ,  1 ,  1 ,  1 ,  1 ,Galio,Zoe,Camille,Braum,Gnar
+2018.0,spring,LCL,3,M19,Elements Pro Gaming,1.0,31:28,OK,red,EPG,   ПОРАЖЕНИЕ   ,46.1 тыс.,2,  0 ,  0 ,  0 ,  2 ,  0 ,Gangplank,Varus,Ryze,Rakan,Alistar
+2018.0,spring,LCL,3,Vega Squadron,Vaevictis eSports,1.0,50:55,OK,blue,VEG,   ПОБЕДА   ,88.8 тыс.,16,  9 ,  1 ,  1 ,  0 ,  1 ,Galio,Vladimir,Urgot,TahmKench,Ornn
+2018.0,spring,LCL,3,Vega Squadron,Vaevictis eSports,1.0,50:55,OK,red,VAE,   ПОРАЖЕНИЕ   ,88.0 тыс.,16,  7 ,  2 ,  3 ,  5 ,  0 ,Camille,Gangplank,Skarner,Alistar,Braum
+2018.0,spring,LCL,3,Team Just,M19,1.0,26:32,OK,blue,TJ,   ПОБЕДА   ,56.7 тыс.,18,  11 ,  4 ,  1 ,  3 ,  1 ,Xayah,Tristana,Zoe,TahmKench,Sion
+2018.0,spring,LCL,3,Team Just,M19,1.0,26:32,OK,red,M19,   ПОРАЖЕНИЕ   ,41.0 тыс.,5,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Gangplank,Galio,Jinx,Caitlyn
+2018.0,spring,LCL,3,Vaevictis eSports,Gambit,1.0,31:21,OK,blue,VAE,   ПОРАЖЕНИЕ   ,49.6 тыс.,4,  2 ,  0 ,  0 ,  2 ,  0 ,Alistar,Galio,Camille,Khazix,Jax
+2018.0,spring,LCL,3,Vaevictis eSports,Gambit,1.0,31:21,OK,red,GMB,   ПОБЕДА   ,60.9 тыс.,12,  9 ,  1 ,  1 ,  2 ,  0 ,Zoe,Ryze,Gangplank,Leblanc,Taliyah
+2018.0,spring,LCL,3,Dragon Army,RoX,1.0,38:46,OK,blue,DA,   ПОРАЖЕНИЕ   ,69.0 тыс.,8,  4 ,  0 ,  0 ,  4 ,  0 ,Skarner,Leblanc,Galio,Jax,Zac
+2018.0,spring,LCL,3,Dragon Army,RoX,1.0,38:46,OK,red,ROX,   ПОБЕДА   ,69.2 тыс.,8,  7 ,  1 ,  2 ,  0 ,  0 ,Taliyah,Camille,Sejuani,Vladimir,Fiora
+2018.0,spring,LCL,3,Elements Pro Gaming,Vega Squadron,1.0,44:16,OK,blue,EPG,   ПОБЕДА   ,86.7 тыс.,16,  9 ,  1 ,  0 ,  3 ,  0 ,Ryze,Taliyah,Zoe,Morgana,Taric
+2018.0,spring,LCL,3,Elements Pro Gaming,Vega Squadron,1.0,44:16,OK,red,VEG,   ПОРАЖЕНИЕ   ,76.9 тыс.,12,  4 ,  0 ,  2 ,  2 ,  0 ,Galio,Camille,Khazix,Varus,Caitlyn
+2018.0,spring,LCL,3,Gambit,RoX,1.0,31:23,OK,blue,GMB,   ПОБЕДА   ,69.7 тыс.,19,  11 ,  3 ,  1 ,  3 ,  0 ,Skarner,Leblanc,Camille,Taliyah,Corki
+2018.0,spring,LCL,3,Gambit,RoX,1.0,31:23,OK,red,ROX,   ПОРАЖЕНИЕ   ,48.4 тыс.,5,  1 ,  0 ,  0 ,  0 ,  1 ,Galio,Zoe,Ryze,Anivia,Kassadin
+2018.0,spring,LCL,3,Dragon Army,Team Just,1.0,30:17,OK,blue,DA,   ПОРАЖЕНИЕ   ,44.8 тыс.,0,  1 ,  0 ,  0 ,  1 ,  0 ,Skarner,Kalista,Galio,JarvanIV,Zac
+2018.0,spring,LCL,3,Dragon Army,Team Just,1.0,30:17,OK,red,TJ,   ПОБЕДА   ,62.0 тыс.,15,  9 ,  1 ,  1 ,  3 ,  1 ,Taliyah,Camille,Zoe,Gnar,Fiora
+2018.0,spring,LCL,3,M19,Vaevictis eSports,1.0,39:59,OK,blue,M19,   ПОБЕДА   ,73.7 тыс.,17,  8 ,  2 ,  0 ,  3 ,  1 ,Zoe,Galio,Camille,Janna,Urgot
+2018.0,spring,LCL,3,M19,Vaevictis eSports,1.0,39:59,OK,red,VAE,   ПОРАЖЕНИЕ   ,65.9 тыс.,8,  5 ,  0 ,  2 ,  2 ,  0 ,Gangplank,Skarner,Xayah,Alistar,Bard
+2018.0,spring,LCL,3,Team Just,Gambit,1.0,34:37,OK,blue,TJ,   ПОРАЖЕНИЕ   ,55.5 тыс.,5,  3 ,  0 ,  0 ,  0 ,  1 ,Caitlyn,Zoe,Gangplank,Fiora,Jax
+2018.0,spring,LCL,3,Team Just,Gambit,1.0,34:37,OK,red,GMB,   ПОБЕДА   ,69.1 тыс.,24,  10 ,  2 ,  2 ,  3 ,  0 ,Galio,Ryze,Skarner,Zac,JarvanIV
+2018.0,spring,LCL,4,Vega Squadron,Gambit,1.0,33:59,OK,blue,VEG,   ПОРАЖЕНИЕ   ,51.5 тыс.,4,  1 ,  0 ,  0 ,  1 ,  0 ,Anivia,Galio,Xayah,Xerath,Azir
+2018.0,spring,LCL,4,Vega Squadron,Gambit,1.0,33:59,OK,red,GMB,   ПОБЕДА   ,65.0 тыс.,11,  11 ,  3 ,  1 ,  3 ,  1 ,Taliyah,Skarner,Ryze,Sejuani,Zac
+2018.0,spring,LCL,4,Team Just,Elements Pro Gaming,1.0,26:17,OK,blue,TJ,   ПОБЕДА   ,55.1 тыс.,14,  8 ,  1 ,  1 ,  2 ,  0 ,Xayah,Tristana,Camille,Taric,Cassiopeia
+2018.0,spring,LCL,4,Team Just,Elements Pro Gaming,1.0,26:17,OK,red,EPG,   ПОРАЖЕНИЕ   ,43.3 тыс.,3,  3 ,  0 ,  0 ,  1 ,  1 ,Galio,TahmKench,Braum,Jinx,Kalista
+2018.0,spring,LCL,4,Dragon Army,Gambit,1.0,32:18,OK,blue,DA,   ПОРАЖЕНИЕ   ,48.5 тыс.,2,  0 ,  0 ,  0 ,  0 ,  1 ,Anivia,Sion,Caitlyn,Jax,Rakan
+2018.0,spring,LCL,4,Dragon Army,Gambit,1.0,32:18,OK,red,GMB,   ПОБЕДА   ,65.4 тыс.,15,  10 ,  2 ,  1 ,  3 ,  0 ,Taliyah,Skarner,Ryze,Tristana,Sivir
+2018.0,spring,LCL,4,M19,Vega Squadron,1.0,30:05,OK,blue,M19,   ПОРАЖЕНИЕ   ,45.5 тыс.,5,  1 ,  0 ,  0 ,  3 ,  1 ,Taliyah,Camille,Cassiopeia,Orianna,Azir
+2018.0,spring,LCL,4,M19,Vega Squadron,1.0,30:05,OK,red,VEG,   ПОБЕДА   ,53.6 тыс.,11,  7 ,  1 ,  1 ,  0 ,  0 ,TahmKench,Khazix,Skarner,Morgana,Braum
+2018.0,spring,LCL,4,Vaevictis eSports,RoX,1.0,28:42,OK,blue,VAE,   ПОРАЖЕНИЕ   ,43.2 тыс.,2,  1 ,  0 ,  0 ,  0 ,  0 ,Urgot,Skarner,Camille,Fiora,Janna
+2018.0,spring,LCL,4,Vaevictis eSports,RoX,1.0,28:42,OK,red,ROX,   ПОБЕДА   ,57.9 тыс.,17,  8 ,  1 ,  1 ,  3 ,  1 ,Ryze,TahmKench,Galio,Azir,Orianna
+2018.0,spring,LCL,4,Dragon Army,M19,1.0,36:34,OK,blue,DA,   ПОРАЖЕНИЕ   ,56.7 тыс.,5,  5 ,  0 ,  0 ,  1 ,  1 ,Khazix,TahmKench,Sion,Braum,Alistar
+2018.0,spring,LCL,4,Dragon Army,M19,1.0,36:34,OK,red,M19,   ПОБЕДА   ,69.3 тыс.,13,  11 ,  3 ,  2 ,  2 ,  0 ,Camille,Taliyah,Fiora,Orianna,Azir
+2018.0,spring,LCL,4,Gambit,Vaevictis eSports,1.0,38:02,OK,blue,GMB,   ПОБЕДА   ,73.7 тыс.,18,  9 ,  2 ,  2 ,  3 ,  0 ,Camille,Skarner,Azir,Fiora,Ornn
+2018.0,spring,LCL,4,Gambit,Vaevictis eSports,1.0,38:02,OK,red,VAE,   ПОРАЖЕНИЕ   ,61.3 тыс.,13,  3 ,  0 ,  0 ,  1 ,  0 ,Ryze,Galio,Varus,Xayah,
+2018.0,spring,LCL,4,Elements Pro Gaming,Dragon Army,1.0,38:40,OK,blue,EPG,   ПОБЕДА   ,73.4 тыс.,13,  11 ,  2 ,  2 ,  2 ,  1 ,Taliyah,Xayah,Alistar,Braum,Azir
+2018.0,spring,LCL,4,Elements Pro Gaming,Dragon Army,1.0,38:40,OK,red,DA,   ПОРАЖЕНИЕ   ,66.4 тыс.,13,  5 ,  0 ,  0 ,  3 ,  0 ,Galio,Skarner,Ryze,Morgana,Taric
+2018.0,spring,LCL,4,M19,RoX,1.0,27:25,OK,blue,M19,   ПОРАЖЕНИЕ   ,39.1 тыс.,0,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Caitlyn,Galio,Zilean,Janna
+2018.0,spring,LCL,4,M19,RoX,1.0,27:25,OK,red,ROX,   ПОБЕДА   ,53.5 тыс.,9,  11 ,  3 ,  1 ,  3 ,  1 ,Ryze,Skarner,Xayah,Chogath,Ornn
+2018.0,spring,LCL,4,Team Just,Vaevictis eSports,1.0,24:35,OK,blue,TJ,   ПОБЕДА   ,51.5 тыс.,13,  9 ,  2 ,  1 ,  0 ,  1 ,Tristana,Caitlyn,Sion,TahmKench,Alistar
+2018.0,spring,LCL,4,Team Just,Vaevictis eSports,1.0,24:35,OK,red,VAE,   ПОРАЖЕНИЕ   ,40.0 тыс.,8,  1 ,  0 ,  0 ,  2 ,  0 ,Skarner,Galio,Camille,Xayah,Ezreal
+2018.0,spring,LCL,4,RoX,Elements Pro Gaming,1.0,25:28,OK,blue,ROX,   ПОБЕДА   ,55.1 тыс.,17,  10 ,  2 ,  1 ,  2 ,  1 ,Camille,Orianna,Chogath,Khazix,Nidalee
+2018.0,spring,LCL,4,RoX,Elements Pro Gaming,1.0,25:28,OK,red,EPG,   ПОРАЖЕНИЕ   ,36.8 тыс.,5,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Skarner,Galio,Braum,Alistar
+2018.0,spring,LCL,4,Vega Squadron,Team Just,1.0,51:22,OK,blue,VEG,   ПОБЕДА   ,86.3 тыс.,15,  8 ,  2 ,  1 ,  3 ,  0 ,Galio,Braum,Trundle,Gangplank,Vladimir
+2018.0,spring,LCL,4,Vega Squadron,Team Just,1.0,51:22,OK,red,TJ,   ПОРАЖЕНИЕ   ,91.9 тыс.,13,  7 ,  2 ,  2 ,  3 ,  1 ,Ryze,Skarner,Tristana,Rakan,Taric
+2018.0,spring,LCL,5,Vaevictis eSports,Elements Pro Gaming,1.0,29:02,OK,blue,VAE,   ПОРАЖЕНИЕ   ,44.7 тыс.,5,  0 ,  0 ,  0 ,  0 ,  0 ,Xayah,Camille,Caitlyn,Taric,Alistar
+2018.0,spring,LCL,5,Vaevictis eSports,Elements Pro Gaming,1.0,29:02,OK,red,EPG,   ПОБЕДА   ,58.4 тыс.,14,  11 ,  3 ,  1 ,  3 ,  1 ,Ryze,Galio,Varus,Urgot,Braum
+2018.0,spring,LCL,5,RoX,Team Just,1.0,27:16,OK,blue,ROX,   ПОБЕДА   ,54.7 тыс.,13,  8 ,  1 ,  1 ,  2 ,  1 ,Cassiopeia,Olaf,Ryze,Camille,Gangplank
+2018.0,spring,LCL,5,RoX,Team Just,1.0,27:16,OK,red,TJ,   ПОРАЖЕНИЕ   ,43.8 тыс.,6,  2 ,  0 ,  0 ,  1 ,  0 ,Sion,Caitlyn,Skarner,Urgot,Zac
+2018.0,spring,LCL,5,M19,Gambit,1.0,53:37,OK,blue,M19,   ПОРАЖЕНИЕ   ,92.2 тыс.,11,  3 ,  0 ,  2 ,  2 ,  0 ,Galio,Anivia,Caitlyn,Varus,Orianna
+2018.0,spring,LCL,5,M19,Gambit,1.0,53:37,OK,red,GMB,   ПОБЕДА   ,99.9 тыс.,11,  11 ,  6 ,  2 ,  4 ,  1 ,Ryze,Skarner,Azir,Braum,Alistar
+2018.0,spring,LCL,5,Vega Squadron,Dragon Army,1.0,29:27,OK,blue,VEG,   ПОРАЖЕНИЕ   ,47.9 тыс.,3,  6 ,  0 ,  0 ,  1 ,  0 ,Camille,Fiora,Taliyah,Vladimir,Illaoi
+2018.0,spring,LCL,5,Vega Squadron,Dragon Army,1.0,29:27,OK,red,DA,   ПОБЕДА   ,55.7 тыс.,12,  10 ,  2 ,  1 ,  2 ,  1 ,Ryze,Sion,Galio,Azir,Gnar
+2018.0,spring,LCL,5,M19,Team Just,1.0,31:01,OK,blue,M19,   ПОБЕДА   ,61.4 тыс.,17,  10 ,  2 ,  1 ,  1 ,  1 ,Galio,Camille,Braum,Azir,Morgana
+2018.0,spring,LCL,5,M19,Team Just,1.0,31:01,OK,red,TJ,   ПОРАЖЕНИЕ   ,47.1 тыс.,2,  1 ,  0 ,  0 ,  1 ,  0 ,Xayah,Ryze,Sion,Cassiopeia,Orianna
+2018.0,spring,LCL,5,Dragon Army,Vaevictis eSports,1.0,32:57,OK,blue,DA,   ПОБЕДА   ,61.6 тыс.,13,  10 ,  1 ,  1 ,  3 ,  1 ,Sion,Cassiopeia,Xayah,Taric,Syndra
+2018.0,spring,LCL,5,Dragon Army,Vaevictis eSports,1.0,32:57,OK,red,VAE,   ПОРАЖЕНИЕ   ,51.4 тыс.,1,  4 ,  0 ,  1 ,  0 ,  0 ,Camille,Ryze,Galio,Warwick,Morgana
+2018.0,spring,LCL,5,Elements Pro Gaming,Gambit,1.0,40:13,OK,blue,EPG,   ПОБЕДА   ,77.8 тыс.,18,  10 ,  2 ,  2 ,  1 ,  1 ,Anivia,Xayah,Cassiopeia,Poppy,Sion
+2018.0,spring,LCL,5,Elements Pro Gaming,Gambit,1.0,40:13,OK,red,GMB,   ПОРАЖЕНИЕ   ,65.3 тыс.,10,  2 ,  0 ,  0 ,  3 ,  0 ,Skarner,Galio,Ryze,Orianna,Xerath
+2018.0,spring,LCL,5,Vega Squadron,RoX,1.0,25:05,OK,blue,VEG,   ПОРАЖЕНИЕ   ,39.4 тыс.,6,  2 ,  0 ,  0 ,  0 ,  0 ,Leblanc,Cassiopeia,Olaf,TahmKench,Urgot
+2018.0,spring,LCL,5,Vega Squadron,RoX,1.0,25:05,OK,red,ROX,   ПОБЕДА   ,50.4 тыс.,18,  7 ,  1 ,  1 ,  0 ,  1 ,Galio,Ryze,Taliyah,Orianna,Azir
+2018.0,spring,LCL,Tiebreakers,Dragon Army,Team Just,1.0,44:37,OK,blue,DA,   ПОРАЖЕНИЕ   ,71.2 тыс.,8,  5 ,  0 ,  1 ,  1 ,  0 ,Braum,Sion,Ryze,Gnar,Jax
+2018.0,spring,LCL,Tiebreakers,Dragon Army,Team Just,1.0,44:37,OK,red,TJ,   ПОБЕДА   ,82.2 тыс.,15,  11 ,  3 ,  2 ,  3 ,  1 ,Orianna,Taliyah,Galio,Olaf,TahmKench
+2018.0,spring,LCL,Tiebreakers,Gambit,RoX,1.0,26:40,OK,blue,GMB,   ПОБЕДА   ,52.1 тыс.,13,  9 ,  3 ,  1 ,  3 ,  1 ,Caitlyn,Jinx,Skarner,Poppy,Sejuani
+2018.0,spring,LCL,Tiebreakers,Gambit,RoX,1.0,26:40,OK,red,ROX,   ПОРАЖЕНИЕ   ,37.9 тыс.,3,  0 ,  0 ,  0 ,  1 ,  0 ,Anivia,Galio,Xayah,TahmKench,Braum

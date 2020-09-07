@@ -1,0 +1,180 @@
+year,season,league_name,week,team_1,team_2,set_number,state,game_length,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,LEC,1,MAD,G2,1.0,AttributeError,,,,,,,,,,,,,,,,
+2020.0,summer,LEC,1,Team Vitality,FC Schalke,1.0,OK,45:50,blue,VIT,   VICTORY   ,84.0k,9,  11 ,  3 ,  3 ,  4 ,  2 ,Trundle,Syndra,Karma,MonkeyKing,Ekko
+2020.0,summer,LEC,1,Team Vitality,FC Schalke,1.0,OK,45:50,red,S04,   DEFEAT   ,72.7k,3,  3 ,  0 ,  0 ,  3 ,  0 ,Varus,Kalista,Thresh,JarvanIV,Olaf
+2020.0,summer,LEC,1,Origen,SK Gaming,1.0,OK,39:36,blue,SK,   VICTORY   ,71.6k,11,  10 ,  2 ,  2 ,  3 ,  2 ,Kalista,Aphelios,Syndra,Corki,Leblanc
+2020.0,summer,LEC,1,Origen,SK Gaming,1.0,OK,39:36,red,OG,   DEFEAT   ,64.3k,11,  2 ,  0 ,  0 ,  3 ,  0 ,Graves,Varus,Yuumi,Olaf,Trundle
+2020.0,summer,LEC,1,Rogue,Excel Esports,1.0,OK,30:24,blue,RGE,   VICTORY   ,55.9k,8,  9 ,  1 ,  1 ,  3 ,  1 ,Senna,Syndra,Kalista,Vladimir,JarvanIV
+2020.0,summer,LEC,1,Rogue,Excel Esports,1.0,OK,30:24,red,XL,   DEFEAT   ,49.8k,0,  5 ,  0 ,  0 ,  1 ,  1 ,Varus,Azir,Graves,Ekko,Kassadin
+2020.0,summer,LEC,1,Misfits,Fnatic,1.0,OK,37:40,blue,MSF,   DEFEAT   ,66.9k,15,  9 ,  3 ,  1 ,  1 ,  2 ,Soraka,Yuumi,Trundle,Aatrox,Malphite
+2020.0,summer,LEC,1,Misfits,Fnatic,1.0,OK,37:40,red,FNC,   VICTORY   ,73.7k,14,  11 ,  3 ,  1 ,  5 ,  0 ,Varus,Syndra,Graves,MonkeyKing,Thresh
+2020.0,summer,LEC,1,FC Schalke,SK Gaming,1.0,OK,29:50,blue,S04,   DEFEAT   ,43.7k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Thresh,Yuumi,Kalista,Leblanc,Azir
+2020.0,summer,LEC,1,FC Schalke,SK Gaming,1.0,OK,29:50,red,SK,   VICTORY   ,56.5k,11,  9 ,  1 ,  1 ,  4 ,  2 ,Varus,Lulu,Syndra,Renekton,Ornn
+2020.0,summer,LEC,1,Rogue,Misfits,1.0,OK,29:02,blue,RGE,   VICTORY   ,58.0k,17,  11 ,  3 ,  1 ,  4 ,  1 ,Sett,Syndra,Yuumi,LeeSin,MonkeyKing
+2020.0,summer,LEC,1,Rogue,Misfits,1.0,OK,29:02,red,MSF,   DEFEAT   ,44.4k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Varus,Trundle,Kalista,Ornn,Graves
+2020.0,summer,LEC,1,Excel Esports,MAD,1.0,OK,29:36,blue,XL,   DEFEAT   ,48.1k,4,  3 ,  0 ,  0 ,  1 ,  2 ,Azir,Aphelios,MonkeyKing,Ornn,Aatrox
+2020.0,summer,LEC,1,Excel Esports,MAD,1.0,OK,29:36,red,MAD,   VICTORY   ,57.7k,20,  8 ,  1 ,  1 ,  3 ,  0 ,Thresh,Syndra,Leblanc,Gangplank,Nautilus
+2020.0,summer,LEC,1,Fnatic,Team Vitality,1.0,OK,28:05,blue,FNC,   VICTORY   ,56.3k,15,  9 ,  2 ,  1 ,  4 ,  0 ,Trundle,Karma,MonkeyKing,Galio,Ornn
+2020.0,summer,LEC,1,Fnatic,Team Vitality,1.0,OK,28:05,red,VIT,   DEFEAT   ,43.8k,5,  3 ,  0 ,  0 ,  0 ,  2 ,Graves,Yuumi,Varus,Ezreal,Aatrox
+2020.0,summer,LEC,1,G2,Origen,1.0,OK,32:46,blue,G2,   DEFEAT   ,51.2k,4,  2 ,  0 ,  0 ,  1 ,  2 ,Kalista,Trundle,Thresh,Renekton,Orianna
+2020.0,summer,LEC,1,G2,Origen,1.0,OK,32:46,red,OG,   VICTORY   ,64.5k,15,  11 ,  2 ,  2 ,  4 ,  0 ,Syndra,Varus,Graves,Ornn,Leblanc
+2020.0,summer,LEC,1,SK Gaming,MAD,1.0,OK,27:19,blue,SK,   DEFEAT   ,42.4k,5,  2 ,  0 ,  0 ,  1 ,  1 ,Kalista,Yuumi,Syndra,LeeSin,Malphite
+2020.0,summer,LEC,1,SK Gaming,MAD,1.0,OK,27:19,red,MAD,   VICTORY   ,51.9k,18,  7 ,  1 ,  1 ,  3 ,  1 ,Thresh,Ornn,Leblanc,Gangplank,Aatrox
+2020.0,summer,LEC,1,FC Schalke,Rogue,1.0,OK,39:40,blue,S04,   DEFEAT   ,62.4k,11,  2 ,  0 ,  0 ,  3 ,  1 ,Kalista,Trundle,Graves,Aatrox,Maokai
+2020.0,summer,LEC,1,FC Schalke,Rogue,1.0,OK,39:40,red,RGE,   VICTORY   ,76.1k,23,  11 ,  2 ,  2 ,  3 ,  0 ,Varus,Syndra,Azir,Corki,Leblanc
+2020.0,summer,LEC,1,Origen,Misfits,1.0,OK,31:01,blue,OG,   DEFEAT   ,47.8k,6,  2 ,  0 ,  0 ,  2 ,  1 ,Yuumi,Blitzcrank,Kalista,Leblanc,Gangplank
+2020.0,summer,LEC,1,Origen,Misfits,1.0,OK,31:01,red,MSF,   VICTORY   ,56.6k,11,  9 ,  1 ,  2 ,  3 ,  1 ,Varus,Syndra,Aphelios,Orianna,Corki
+2020.0,summer,LEC,1,G2,Team Vitality,1.0,OK,28:58,blue,G2,   DEFEAT   ,44.9k,4,  4 ,  0 ,  0 ,  0 ,  0 ,Trundle,Azir,Ezreal,Orianna,MonkeyKing
+2020.0,summer,LEC,1,G2,Team Vitality,1.0,OK,28:58,red,VIT,   VICTORY   ,55.8k,19,  11 ,  2 ,  1 ,  4 ,  2 ,Syndra,Varus,Graves,Leblanc,Zoe
+2020.0,summer,LEC,1,Fnatic,Excel Esports,1.0,OK,30:59,blue,FNC,   VICTORY   ,61.4k,12,  8 ,  1 ,  1 ,  3 ,  2 ,Kalista,Yuumi,Trundle,JarvanIV,Tristana
+2020.0,summer,LEC,1,Fnatic,Excel Esports,1.0,OK,30:59,red,XL,   DEFEAT   ,53.0k,3,  3 ,  0 ,  0 ,  2 ,  0 ,Graves,TwistedFate,Blitzcrank,Corki,Yasuo
+2020.0,summer,LEC,2,Team Vitality,Rogue,1.0,OK,31:09,blue,RGE,   VICTORY   ,56.4k,12,  8 ,  1 ,  1 ,  4 ,  2 ,Yuumi,Syndra,Thresh,Jayce,Yasuo
+2020.0,summer,LEC,2,Team Vitality,Rogue,1.0,OK,31:09,red,VIT,   DEFEAT   ,48.4k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Olaf,Varus,Azir,Orianna,MonkeyKing
+2020.0,summer,LEC,2,Misfits,SK Gaming,1.0,OK,28:06,blue,MSF,   DEFEAT   ,42.4k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Trundle,Thresh,Syndra,Mordekaiser,Aatrox
+2020.0,summer,LEC,2,Misfits,SK Gaming,1.0,OK,28:06,red,SK,   VICTORY   ,55.3k,19,  9 ,  1 ,  1 ,  4 ,  2 ,Varus,Kalista,Yuumi,Gangplank,Leblanc
+2020.0,summer,LEC,2,G2,FC Schalke,1.0,OK,30:31,blue,S04,   DEFEAT   ,49.5k,7,  1 ,  0 ,  0 ,  0 ,  2 ,Trundle,Kalista,Syndra,Leblanc,Zoe
+2020.0,summer,LEC,2,G2,FC Schalke,1.0,OK,30:31,red,G2,   VICTORY   ,57.8k,12,  9 ,  1 ,  0 ,  4 ,  0 ,Varus,Thresh,Aphelios,Renekton,Ornn
+2020.0,summer,LEC,2,Origen,Excel Esports,1.0,OK,32:02,blue,XL,   DEFEAT   ,50.6k,4,  4 ,  0 ,  0 ,  0 ,  2 ,Thresh,Gangplank,Yuumi,Aatrox,MonkeyKing
+2020.0,summer,LEC,2,Origen,Excel Esports,1.0,OK,32:02,red,OG,   VICTORY   ,57.6k,15,  11 ,  3 ,  1 ,  4 ,  0 ,Syndra,Leblanc,Varus,Olaf,Volibear
+2020.0,summer,LEC,2,Fnatic,MAD,1.0,OK,35:14,blue,FNC,   DEFEAT   ,58.5k,6,  4 ,  0 ,  1 ,  0 ,  2 ,Kalista,Yuumi,Syndra,Hecarim,Malphite
+2020.0,summer,LEC,2,Fnatic,MAD,1.0,OK,35:14,red,MAD,   VICTORY   ,62.8k,12,  7 ,  1 ,  1 ,  5 ,  0 ,Volibear,Thresh,Gangplank,Azir,Ornn
+2020.0,summer,LEC,2,SK Gaming,Excel Esports,1.0,OK,35:26,blue,SK,   DEFEAT   ,62.0k,11,  4 ,  0 ,  1 ,  3 ,  2 ,Yuumi,Kalista,Gragas,Nautilus,TahmKench
+2020.0,summer,LEC,2,SK Gaming,Excel Esports,1.0,OK,35:26,red,XL,   VICTORY   ,70.5k,18,  11 ,  3 ,  1 ,  3 ,  0 ,Varus,Corki,Syndra,Ornn,Graves
+2020.0,summer,LEC,2,Misfits,FC Schalke,1.0,OK,33:28,blue,S04,   DEFEAT   ,52.4k,3,  3 ,  0 ,  0 ,  2 ,  0 ,Sett,Kalista,Hecarim,Trundle,Mordekaiser
+2020.0,summer,LEC,2,Misfits,FC Schalke,1.0,OK,33:28,red,MSF,   VICTORY   ,61.1k,9,  8 ,  1 ,  1 ,  4 ,  2 ,Varus,Syndra,Aatrox,Corki,Olaf
+2020.0,summer,LEC,2,Team Vitality,MAD,1.0,OK,29:01,blue,MAD,   VICTORY   ,58.3k,25,  9 ,  1 ,  0 ,  4 ,  2 ,Thresh,Lulu,Gragas,Leblanc,Ornn
+2020.0,summer,LEC,2,Team Vitality,MAD,1.0,OK,29:01,red,VIT,   DEFEAT   ,45.3k,9,  0 ,  0 ,  1 ,  0 ,  0 ,Orianna,Varus,Kalista,Leona,Karma
+2020.0,summer,LEC,2,G2,Rogue,1.0,OK,30:02,blue,G2,   VICTORY   ,60.7k,16,  11 ,  2 ,  0 ,  3 ,  1 ,Trundle,Thresh,Orianna,Azir,Graves
+2020.0,summer,LEC,2,G2,Rogue,1.0,OK,30:02,red,RGE,   DEFEAT   ,51.0k,9,  3 ,  0 ,  0 ,  1 ,  1 ,Varus,Syndra,Aatrox,Volibear,Leblanc
+2020.0,summer,LEC,2,Fnatic,Origen,1.0,OK,31:17,blue,FNC,   DEFEAT   ,50.2k,6,  2 ,  0 ,  0 ,  4 ,  0 ,Kalista,Yuumi,Aphelios,Trundle,Volibear
+2020.0,summer,LEC,2,Fnatic,Origen,1.0,OK,31:17,red,OG,   VICTORY   ,54.1k,15,  9 ,  1 ,  1 ,  1 ,  2 ,TwistedFate,Varus,Syndra,Azir,Gangplank
+2020.0,summer,LEC,3,FC Schalke,Excel Esports,1.0,OK,29:59,blue,XL,   VICTORY   ,61.9k,16,  10 ,  1 ,  1 ,  4 ,  2 ,Ornn,Azir,Yuumi,Malphite,Maokai
+2020.0,summer,LEC,3,FC Schalke,Excel Esports,1.0,OK,29:59,red,S04,   DEFEAT   ,45.3k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Varus,Syndra,Aphelios,Blitzcrank,Nautilus
+2020.0,summer,LEC,3,Team Vitality,Misfits,1.0,OK,33:11,blue,VIT,   DEFEAT   ,55.3k,8,  5 ,  0 ,  1 ,  3 ,  1 ,Thresh,Yuumi,Sett,MonkeyKing,Jax
+2020.0,summer,LEC,3,Team Vitality,Misfits,1.0,OK,33:11,red,MSF,   VICTORY   ,63.6k,17,  9 ,  1 ,  1 ,  2 ,  1 ,Varus,Syndra,Kalista,Renekton,Braum
+2020.0,summer,LEC,3,G2,SK Gaming,1.0,OK,31:07,blue,G2,   DEFEAT   ,50.8k,5,  2 ,  0 ,  0 ,  1 ,  1 ,Trundle,Sett,Ezreal,Volibear,Ornn
+2020.0,summer,LEC,3,G2,SK Gaming,1.0,OK,31:07,red,SK,   VICTORY   ,58.1k,11,  8 ,  1 ,  2 ,  4 ,  1 ,Varus,Syndra,TwistedFate,Zoe,Orianna
+2020.0,summer,LEC,3,MAD,Origen,1.0,OK,34:10,blue,MAD,   VICTORY   ,61.7k,13,  11 ,  3 ,  1 ,  4 ,  2 ,Gangplank,Yuumi,Varus,Olaf,Malphite
+2020.0,summer,LEC,3,MAD,Origen,1.0,OK,34:10,red,OG,   DEFEAT   ,57.6k,5,  5 ,  0 ,  0 ,  1 ,  0 ,LeeSin,Syndra,Thresh,Taric,Ornn
+2020.0,summer,LEC,3,Fnatic,Rogue,1.0,OK,31:01,blue,FNC,   DEFEAT   ,50.0k,8,  0 ,  0 ,  0 ,  1 ,  0 ,Yuumi,Trundle,Orianna,Azir,Corki
+2020.0,summer,LEC,3,Fnatic,Rogue,1.0,OK,31:01,red,RGE,   VICTORY   ,65.8k,21,  11 ,  4 ,  2 ,  4 ,  2 ,Syndra,Varus,Blitzcrank,MonkeyKing,Ziggs
+2020.0,summer,LEC,3,Team Vitality,SK Gaming,1.0,OK,35:01,blue,SK,   DEFEAT   ,55.2k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Kalista,Trundle,Thresh,Gragas,Sion
+2020.0,summer,LEC,3,Team Vitality,SK Gaming,1.0,OK,35:01,red,VIT,   VICTORY   ,64.7k,13,  11 ,  3 ,  2 ,  4 ,  1 ,Varus,Syndra,Sett,Ezreal,Twitch
+2020.0,summer,LEC,3,Misfits,Excel Esports,1.0,OK,29:04,blue,XL,   DEFEAT   ,46.0k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Azir,Aphelios,Ezreal,Malphite,Blitzcrank
+2020.0,summer,LEC,3,Misfits,Excel Esports,1.0,OK,29:04,red,MSF,   VICTORY   ,56.1k,15,  11 ,  3 ,  2 ,  4 ,  1 ,Varus,Syndra,Kalista,Senna,Rakan
+2020.0,summer,LEC,3,Origen,FC Schalke,1.0,OK,29:53,blue,OG,   VICTORY   ,54.6k,16,  9 ,  1 ,  0 ,  2 ,  2 ,Azir,Kalista,MonkeyKing,Ornn,Orianna
+2020.0,summer,LEC,3,Origen,FC Schalke,1.0,OK,29:53,red,S04,   DEFEAT   ,46.8k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Varus,Yuumi,Thresh,Gangplank,Olaf
+2020.0,summer,LEC,3,MAD,Rogue,1.0,OK,32:31,blue,MAD,   VICTORY   ,59.0k,11,  9 ,  1 ,  1 ,  3 ,  1 ,Yuumi,Thresh,Olaf,Quinn,Gangplank
+2020.0,summer,LEC,3,MAD,Rogue,1.0,OK,32:31,red,RGE,   DEFEAT   ,49.4k,4,  3 ,  0 ,  0 ,  2 ,  1 ,Syndra,Orianna,LeeSin,Volibear,Ornn
+2020.0,summer,LEC,3,G2,Fnatic,1.0,OK,25:05,blue,G2,   VICTORY   ,50.7k,24,  7 ,  1 ,  0 ,  3 ,  1 ,Thresh,Ezreal,Orianna,Olaf,Volibear
+2020.0,summer,LEC,3,G2,Fnatic,1.0,OK,25:05,red,FNC,   DEFEAT   ,39.4k,6,  1 ,  0 ,  0 ,  0 ,  1 ,Syndra,Varus,RekSai,Trundle,Gragas
+2020.0,summer,LEC,4,Team Vitality,Excel Esports,1.0,OK,39:33,blue,XL,   VICTORY   ,75.2k,12,  11 ,  2 ,  1 ,  4 ,  1 ,Azir,Olaf,Aphelios,TwistedFate,Vladimir
+2020.0,summer,LEC,4,Team Vitality,Excel Esports,1.0,OK,39:33,red,VIT,   DEFEAT   ,67.1k,5,  5 ,  0 ,  1 ,  2 ,  1 ,Syndra,Varus,Kalista,TahmKench,MonkeyKing
+2020.0,summer,LEC,4,MAD,FC Schalke,1.0,OK,34:04,blue,S04,   DEFEAT   ,51.7k,4,  3 ,  0 ,  0 ,  3 ,  2 ,Kalista,MonkeyKing,Senna,Gangplank,Quinn
+2020.0,summer,LEC,4,MAD,FC Schalke,1.0,OK,34:04,red,MAD,   VICTORY   ,62.9k,21,  11 ,  2 ,  1 ,  2 ,  0 ,Thresh,Syndra,Ornn,Azir,Leblanc
+2020.0,summer,LEC,4,Fnatic,SK Gaming,1.0,OK,36:10,blue,FNC,   VICTORY   ,75.3k,18,  11 ,  4 ,  2 ,  1 ,  2 ,Azir,Thresh,Orianna,Corki,Yasuo
+2020.0,summer,LEC,4,Fnatic,SK Gaming,1.0,OK,36:10,red,SK,   DEFEAT   ,60.0k,11,  2 ,  0 ,  0 ,  4 ,  0 ,Varus,Volibear,LeeSin,Aatrox,Olaf
+2020.0,summer,LEC,4,Rogue,Origen,1.0,OK,46:13,blue,RGE,   VICTORY   ,83.0k,9,  11 ,  5 ,  3 ,  4 ,  2 ,TwistedFate,Thresh,Ezreal,Volibear,Sett
+2020.0,summer,LEC,4,Rogue,Origen,1.0,OK,46:13,red,OG,   DEFEAT   ,76.1k,9,  2 ,  0 ,  0 ,  3 ,  0 ,Kalista,Varus,Aphelios,Olaf,Aatrox
+2020.0,summer,LEC,4,Misfits,G2,1.0,OK,26:08,blue,G2,   VICTORY   ,52.6k,22,  11 ,  3 ,  1 ,  1 ,  2 ,Kalista,Thresh,Varus,Nautilus,Gangplank
+2020.0,summer,LEC,4,Misfits,G2,1.0,OK,26:08,red,MSF,   DEFEAT   ,41.8k,8,  1 ,  0 ,  0 ,  2 ,  0 ,Syndra,TwistedFate,Bard,Trundle,Braum
+2020.0,summer,LEC,4,Rogue,SK Gaming,1.0,OK,30:11,blue,RGE,   VICTORY   ,59.7k,20,  9 ,  2 ,  1 ,  2 ,  2 ,Thresh,TwistedFate,Ezreal,MonkeyKing,Braum
+2020.0,summer,LEC,4,Rogue,SK Gaming,1.0,OK,30:11,red,SK,   DEFEAT   ,45.9k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Kalista,Syndra,Azir,Karma,Trundle
+2020.0,summer,LEC,4,Team Vitality,Origen,1.0,OK,31:42,blue,VIT,   VICTORY   ,56.7k,12,  10 ,  2 ,  1 ,  2 ,  0 ,Thresh,Aphelios,Varus,Gangplank,Nautilus
+2020.0,summer,LEC,4,Team Vitality,Origen,1.0,OK,31:42,red,OG,   DEFEAT   ,47.9k,3,  4 ,  1 ,  0 ,  3 ,  2 ,Syndra,Trundle,Olaf,Yuumi,Skarner
+2020.0,summer,LEC,4,Fnatic,FC Schalke,1.0,OK,32:28,blue,FNC,   DEFEAT   ,51.3k,1,  2 ,  0 ,  0 ,  3 ,  0 ,Thresh,Trundle,Azir,Orianna,Leblanc
+2020.0,summer,LEC,4,Fnatic,FC Schalke,1.0,OK,32:28,red,S04,   VICTORY   ,60.9k,15,  10 ,  1 ,  1 ,  2 ,  2 ,Varus,TwistedFate,Volibear,Gangplank,Cassiopeia
+2020.0,summer,LEC,4,G2,Excel Esports,1.0,OK,35:37,blue,G2,   DEFEAT   ,56.5k,12,  3 ,  0 ,  0 ,  3 ,  0 ,Kalista,Varus,Orianna,Thresh,Jayce
+2020.0,summer,LEC,4,G2,Excel Esports,1.0,OK,35:37,red,XL,   VICTORY   ,69.6k,22,  10 ,  2 ,  2 ,  2 ,  2 ,Syndra,TwistedFate,Ezreal,Olaf,Ornn
+2020.0,summer,LEC,4,Misfits,MAD,1.0,OK,26:56,blue,MSF,   VICTORY   ,58.0k,22,  11 ,  2 ,  1 ,  3 ,  1 ,Senna,Volibear,LeeSin,Olaf,Renekton
+2020.0,summer,LEC,4,Misfits,MAD,1.0,OK,26:56,red,MAD,   DEFEAT   ,42.8k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Syndra,Thresh,Sett,Azir,TwistedFate
+2020.0,summer,LEC,5,Team Vitality,SK Gaming,1.0,OK,36:25,blue,VIT,   DEFEAT   ,60.3k,6,  4 ,  0 ,  2 ,  2 ,  1 ,Sett,Aphelios,Volibear,Camille,Trundle
+2020.0,summer,LEC,5,Team Vitality,SK Gaming,1.0,OK,36:25,red,SK,   VICTORY   ,68.6k,18,  9 ,  1 ,  1 ,  4 ,  1 ,Kalista,Thresh,Karma,Nocturne,Sion
+2020.0,summer,LEC,5,Rogue,FC Schalke,1.0,OK,32:39,blue,RGE,   VICTORY   ,60.6k,18,  9 ,  1 ,  1 ,  4 ,  2 ,Ezreal,LeeSin,Olaf,Braum,Bard
+2020.0,summer,LEC,5,Rogue,FC Schalke,1.0,OK,32:39,red,S04,   DEFEAT   ,51.8k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Kalista,Azir,Thresh,Ornn,Gangplank
+2020.0,summer,LEC,5,Misfits,Fnatic,1.0,OK,37:14,blue,FNC,   VICTORY   ,64.6k,10,  8 ,  1 ,  1 ,  1 ,  0 ,Fiddlesticks,Volibear,Ezreal,LeeSin,Gangplank
+2020.0,summer,LEC,5,Misfits,Fnatic,1.0,OK,37:14,red,MSF,   DEFEAT   ,62.9k,10,  6 ,  0 ,  1 ,  4 ,  2 ,TwistedFate,Syndra,Thresh,MonkeyKing,Nautilus
+2020.0,summer,LEC,5,MAD,Excel Esports,1.0,OK,27:04,blue,XL,   DEFEAT   ,42.4k,9,  2 ,  0 ,  0 ,  2 ,  1 ,Senna,Orianna,Bard,Mordekaiser,Yuumi
+2020.0,summer,LEC,5,MAD,Excel Esports,1.0,OK,27:04,red,MAD,   VICTORY   ,53.6k,19,  11 ,  2 ,  1 ,  2 ,  1 ,Kalista,Syndra,Volibear,Azir,Gangplank
+2020.0,summer,LEC,5,G2,Origen,1.0,OK,35:39,blue,G2,   DEFEAT   ,56.2k,3,  2 ,  0 ,  0 ,  2 ,  1 ,Sett,Thresh,Ezreal,Gangplank,Renekton
+2020.0,summer,LEC,5,G2,Origen,1.0,OK,35:39,red,OG,   VICTORY   ,64.4k,13,  11 ,  3 ,  1 ,  2 ,  1 ,Syndra,TwistedFate,Kalista,Kaisa,Aphelios
+2020.0,summer,LEC,5,SK Gaming,FC Schalke,1.0,OK,45:20,blue,SK,   VICTORY   ,86.0k,20,  11 ,  3 ,  3 ,  5 ,  1 ,LeeSin,Thresh,TwistedFate,Galio,Zoe
+2020.0,summer,LEC,5,SK Gaming,FC Schalke,1.0,OK,45:20,red,S04,   DEFEAT   ,71.7k,4,  3 ,  0 ,  0 ,  2 ,  1 ,Twitch,Volibear,Azir,Ornn,Khazix
+2020.0,summer,LEC,5,Rogue,Excel Esports,1.0,OK,34:01,blue,XL,   DEFEAT   ,54.9k,4,  4 ,  0 ,  0 ,  2 ,  0 ,Olaf,Orianna,Azir,Mordekaiser,Gangplank
+2020.0,summer,LEC,5,Rogue,Excel Esports,1.0,OK,34:01,red,RGE,   VICTORY   ,58.5k,9,  8 ,  1 ,  0 ,  3 ,  2 ,Volibear,Ezreal,Kalista,Vladimir,MonkeyKing
+2020.0,summer,LEC,5,Misfits,Origen,1.0,OK,40:05,blue,OG,   VICTORY   ,78.5k,17,  10 ,  2 ,  1 ,  4 ,  2 ,Kalista,Azir,Orianna,Blitzcrank,Gangplank
+2020.0,summer,LEC,5,Misfits,Origen,1.0,OK,40:05,red,MSF,   DEFEAT   ,63.8k,5,  3 ,  0 ,  1 ,  2 ,  0 ,Syndra,Senna,TwistedFate,Corki,Karthus
+2020.0,summer,LEC,5,Team Vitality,Fnatic,1.0,OK,33:25,blue,VIT,   DEFEAT   ,60.3k,17,  5 ,  0 ,  1 ,  2 ,  0 ,TwistedFate,Volibear,Thresh,Mordekaiser,Gangplank
+2020.0,summer,LEC,5,Team Vitality,Fnatic,1.0,OK,33:25,red,FNC,   VICTORY   ,66.8k,25,  8 ,  1 ,  1 ,  3 ,  2 ,Kalista,LeeSin,Bard,Sion,Leona
+2020.0,summer,LEC,5,G2,MAD,1.0,OK,30:03,blue,MAD,   VICTORY   ,57.6k,16,  9 ,  1 ,  2 ,  4 ,  2 ,TwistedFate,Azir,Syndra,MonkeyKing,Malphite
+2020.0,summer,LEC,5,G2,MAD,1.0,OK,30:03,red,G2,   DEFEAT   ,48.4k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Senna,Orianna,Pantheon,Renekton,Gangplank
+2020.0,summer,LEC,6,SK Gaming,Excel Esports,1.0,OK,31:44,blue,SK,   DEFEAT   ,52.3k,9,  5 ,  0 ,  1 ,  0 ,  2 ,Kalista,Volibear,TwistedFate,LeeSin,Jayce
+2020.0,summer,LEC,6,SK Gaming,Excel Esports,1.0,OK,31:44,red,XL,   VICTORY   ,58.7k,15,  9 ,  2 ,  1 ,  5 ,  0 ,Orianna,Twitch,Azir,Corki,Khazix
+2020.0,summer,LEC,6,Team Vitality,Origen,1.0,OK,39:36,blue,OG,   DEFEAT   ,63.1k,3,  2 ,  0 ,  0 ,  1 ,  1 ,Orianna,Kalista,LeeSin,Olaf,
+2020.0,summer,LEC,6,Team Vitality,Origen,1.0,OK,39:36,red,VIT,   VICTORY   ,75.0k,17,  10 ,  2 ,  2 ,  4 ,  1 ,TwistedFate,Volibear,Thresh,Karma,Leona
+2020.0,summer,LEC,6,G2,FC Schalke,1.0,OK,36:13,blue,G2,   DEFEAT   ,59.0k,9,  2 ,  0 ,  0 ,  1 ,  2 ,Volibear,Bard,Kalista,Malphite,LeeSin
+2020.0,summer,LEC,6,G2,FC Schalke,1.0,OK,36:13,red,S04,   VICTORY   ,73.3k,32,  11 ,  3 ,  1 ,  5 ,  0 ,TwistedFate,Thresh,Syndra,Gangplank,RekSai
+2020.0,summer,LEC,6,Misfits,Rogue,1.0,OK,39:57,blue,MSF,   DEFEAT   ,65.4k,5,  4 ,  0 ,  0 ,  3 ,  2 ,Azir,Aphelios,Volibear,Ornn,Khazix
+2020.0,summer,LEC,6,Misfits,Rogue,1.0,OK,39:57,red,RGE,   VICTORY   ,71.2k,11,  9 ,  1 ,  1 ,  4 ,  0 ,Ezreal,Kalista,Orianna,Braum,Thresh
+2020.0,summer,LEC,6,Fnatic,MAD,1.0,OK,36:33,blue,FNC,   DEFEAT   ,60.4k,11,  3 ,  0 ,  0 ,  2 ,  1 ,Kalista,LeeSin,Volibear,Bard,Nautilus
+2020.0,summer,LEC,6,Fnatic,MAD,1.0,OK,36:33,red,MAD,   VICTORY   ,69.0k,22,  10 ,  2 ,  2 ,  4 ,  1 ,TwistedFate,Khazix,Thresh,Gangplank,Ornn
+2020.0,summer,LEC,6,Team Vitality,Excel Esports,1.0,OK,36:50,blue,VIT,   DEFEAT   ,60.2k,10,  3 ,  0 ,  0 ,  3 ,  0 ,Senna,Kalista,Volibear,Gangplank,MonkeyKing
+2020.0,summer,LEC,6,Team Vitality,Excel Esports,1.0,OK,36:50,red,XL,   VICTORY   ,65.6k,8,  11 ,  3 ,  1 ,  3 ,  2 ,Orianna,Azir,TwistedFate,Bard,Braum
+2020.0,summer,LEC,6,Misfits,FC Schalke,1.0,OK,36:01,blue,S04,   VICTORY   ,68.2k,19,  9 ,  1 ,  1 ,  3 ,  1 ,Thresh,Volibear,Ezreal,Bard,Braum
+2020.0,summer,LEC,6,Misfits,FC Schalke,1.0,OK,36:01,red,MSF,   DEFEAT   ,56.4k,8,  0 ,  0 ,  0 ,  2 ,  1 ,Syndra,Azir,Aphelios,Gangplank,Olaf
+2020.0,summer,LEC,6,MAD,SK Gaming,1.0,OK,28:22,blue,SK,   VICTORY   ,55.1k,20,  9 ,  1 ,  1 ,  4 ,  1 ,Kalista,Volibear,Senna,Leona,Pantheon
+2020.0,summer,LEC,6,MAD,SK Gaming,1.0,OK,28:22,red,MAD,   DEFEAT   ,45.2k,9,  2 ,  0 ,  0 ,  1 ,  1 ,Thresh,Khazix,Aphelios,Gangplank,Trundle
+2020.0,summer,LEC,6,Fnatic,Origen,1.0,OK,31:30,blue,OG,   DEFEAT   ,46.7k,7,  1 ,  0 ,  0 ,  0 ,  2 ,Orianna,Senna,Syndra,Aphelios,Kaisa
+2020.0,summer,LEC,6,Fnatic,Origen,1.0,OK,31:30,red,FNC,   VICTORY   ,63.6k,22,  9 ,  2 ,  0 ,  5 ,  0 ,Thresh,TwistedFate,Volibear,Zoe,Lucian
+2020.0,summer,LEC,6,G2,Rogue,1.0,OK,37:46,blue,RGE,   DEFEAT   ,64.4k,18,  6 ,  1 ,  0 ,  3 ,  2 ,Ezreal,TwistedFate,Volibear,RekSai,MonkeyKing
+2020.0,summer,LEC,6,G2,Rogue,1.0,OK,37:46,red,G2,   VICTORY   ,68.8k,14,  8 ,  1 ,  2 ,  2 ,  0 ,Thresh,Kalista,Orianna,Olaf,Ornn
+2020.0,summer,LEC,7,FC Schalke,Excel Esports,1.0,OK,27:31,blue,S04,   VICTORY   ,53.0k,12,  10 ,  2 ,  1 ,  1 ,  2 ,Thresh,Volibear,Caitlyn,Olaf,Trundle
+2020.0,summer,LEC,7,FC Schalke,Excel Esports,1.0,OK,27:31,red,XL,   DEFEAT   ,40.8k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Orianna,Azir,Sona,Corki,Cassiopeia
+2020.0,summer,LEC,7,Misfits,SK Gaming,1.0,OK,42:41,blue,MSF,   VICTORY   ,79.7k,15,  10 ,  2 ,  3 ,  3 ,  1 ,Bard,Senna,Volibear,Trundle,Ornn
+2020.0,summer,LEC,7,Misfits,SK Gaming,1.0,OK,42:41,red,SK,   DEFEAT   ,71.2k,17,  2 ,  0 ,  0 ,  4 ,  1 ,Kalista,Azir,Thresh,Nautilus,Fiddlesticks
+2020.0,summer,LEC,7,MAD,Origen,1.0,OK,27:31,blue,OG,   DEFEAT   ,47.7k,9,  4 ,  0 ,  0 ,  1 ,  2 ,LeeSin,Pantheon,Senna,Olaf,Khazix
+2020.0,summer,LEC,7,MAD,Origen,1.0,OK,27:31,red,MAD,   VICTORY   ,51.6k,17,  6 ,  1 ,  1 ,  3 ,  0 ,Volibear,Orianna,Kalista,Sett,Gangplank
+2020.0,summer,LEC,7,Team Vitality,G2,1.0,OK,28:07,blue,G2,   VICTORY   ,55.7k,14,  11 ,  3 ,  1 ,  4 ,  2 ,Ezreal,Khazix,Karma,Shen,Gangplank
+2020.0,summer,LEC,7,Team Vitality,G2,1.0,OK,28:07,red,VIT,   DEFEAT   ,40.4k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Syndra,TwistedFate,Volibear,Olaf,Camille
+2020.0,summer,LEC,7,Fnatic,Rogue,1.0,OK,35:15,blue,RGE,   VICTORY   ,65.4k,15,  10 ,  2 ,  1 ,  4 ,  0 ,Ezreal,Khazix,Gangplank,Caitlyn,Jhin
+2020.0,summer,LEC,7,Fnatic,Rogue,1.0,OK,35:15,red,FNC,   DEFEAT   ,55.6k,5,  4 ,  0 ,  0 ,  1 ,  2 ,Thresh,Volibear,Kalista,Olaf,Trundle
+2020.0,summer,LEC,7,Origen,FC Schalke,1.0,OK,34:59,blue,S04,   VICTORY   ,65.6k,17,  10 ,  1 ,  1 ,  3 ,  2 ,Thresh,Kalista,Volibear,Camille,Gangplank
+2020.0,summer,LEC,7,Origen,FC Schalke,1.0,OK,34:59,red,OG,   DEFEAT   ,53.0k,5,  1 ,  0 ,  0 ,  2 ,  0 ,Azir,Olaf,Orianna,Nocturne,Khazix
+2020.0,summer,LEC,7,Misfits,Excel Esports,1.0,OK,33:15,blue,XL,   VICTORY   ,63.0k,10,  11 ,  2 ,  1 ,  4 ,  2 ,Azir,Syndra,LeeSin,Vladimir,TahmKench
+2020.0,summer,LEC,7,Misfits,Excel Esports,1.0,OK,33:15,red,MSF,   DEFEAT   ,50.4k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Volibear,Aphelios,Camille,Thresh,Trundle
+2020.0,summer,LEC,7,Rogue,SK Gaming,1.0,OK,28:22,blue,SK,   VICTORY   ,52.4k,4,  9 ,  1 ,  1 ,  5 ,  1 ,Kalista,Azir,Senna,Ekko,Corki
+2020.0,summer,LEC,7,Rogue,SK Gaming,1.0,OK,28:22,red,RGE,   DEFEAT   ,51.2k,7,  6 ,  0 ,  0 ,  0 ,  1 ,Ezreal,Volibear,Orianna,Sion,Chogath
+2020.0,summer,LEC,7,Team Vitality,MAD,1.0,OK,38:43,blue,MAD,   DEFEAT   ,66.9k,8,  9 ,  2 ,  0 ,  2 ,  1 ,Khazix,Bard,Volibear,Zoe,Azir
+2020.0,summer,LEC,7,Team Vitality,MAD,1.0,OK,38:43,red,VIT,   VICTORY   ,71.4k,21,  7 ,  1 ,  1 ,  4 ,  1 ,TwistedFate,Sona,Kalista,Blitzcrank,Renekton
+2020.0,summer,LEC,7,G2,Fnatic,1.0,OK,34:37,blue,G2,   VICTORY   ,68.3k,25,  10 ,  3 ,  1 ,  3 ,  2 ,Khazix,Thresh,Senna,Bard,TahmKench
+2020.0,summer,LEC,7,G2,Fnatic,1.0,OK,34:37,red,FNC,   DEFEAT   ,60.1k,9,  2 ,  0 ,  0 ,  2 ,  0 ,Kalista,Syndra,Ezreal,Zoe,TwistedFate
+2020.0,summer,LEC,8,Team Vitality,Rogue,1.0,OK,41:37,blue,VIT,   VICTORY   ,76.0k,10,  11 ,  5 ,  2 ,  4 ,  2 ,Azir,Syndra,Senna,Renekton,Gangplank
+2020.0,summer,LEC,8,Team Vitality,Rogue,1.0,OK,41:37,red,RGE,   DEFEAT   ,68.0k,8,  3 ,  0 ,  0 ,  2 ,  0 ,Ezreal,Kalista,Orianna,Zoe,Ryze
+2020.0,summer,LEC,8,Origen,Excel Esports,1.0,OK,46:12,blue,XL,   VICTORY   ,80.1k,10,  7 ,  1 ,  0 ,  5 ,  2 ,Gangplank,Ezreal,Orianna,Yuumi,Thresh
+2020.0,summer,LEC,8,Origen,Excel Esports,1.0,OK,46:12,red,OG,   DEFEAT   ,77.2k,9,  9 ,  2 ,  1 ,  3 ,  0 ,Kalista,Senna,Volibear,Sejuani,Lux
+2020.0,summer,LEC,8,Fnatic,FC Schalke,1.0,OK,30:16,blue,S04,   VICTORY   ,59.3k,24,  8 ,  1 ,  1 ,  2 ,  1 ,Thresh,Tristana,Gangplank,Nautilus,Leona
+2020.0,summer,LEC,8,Fnatic,FC Schalke,1.0,OK,30:16,red,FNC,   DEFEAT   ,51.5k,10,  2 ,  0 ,  0 ,  3 ,  1 ,Senna,Caitlyn,Volibear,Khazix,LeeSin
+2020.0,summer,LEC,8,Misfits,MAD,1.0,OK,30:38,blue,MAD,   VICTORY   ,57.1k,15,  11 ,  3 ,  1 ,  4 ,  2 ,Sett,Gangplank,Fiddlesticks,Camille,Nautilus
+2020.0,summer,LEC,8,Misfits,MAD,1.0,OK,30:38,red,MSF,   DEFEAT   ,46.0k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Kalista,Volibear,Sona,KogMaw,Syndra
+2020.0,summer,LEC,8,G2,SK Gaming,1.0,OK,35:47,blue,G2,   VICTORY   ,69.5k,19,  10 ,  2 ,  1 ,  3 ,  2 ,Yuumi,Karma,Sett,Renekton,Mordekaiser
+2020.0,summer,LEC,8,G2,SK Gaming,1.0,OK,35:47,red,SK,   DEFEAT   ,55.2k,9,  2 ,  0 ,  0 ,  3 ,  0 ,Kalista,Volibear,Leblanc,Camille,Olaf
+2020.0,summer,LEC,8,Team Vitality,FC Schalke,1.0,OK,35:48,blue,S04,   VICTORY   ,65.6k,20,  9 ,  2 ,  1 ,  3 ,  1 ,Thresh,Kalista,Sona,TwistedFate,Leblanc
+2020.0,summer,LEC,8,Team Vitality,FC Schalke,1.0,OK,35:48,red,VIT,   DEFEAT   ,55.5k,5,  3 ,  0 ,  0 ,  2 ,  1 ,Azir,Senna,Caitlyn,Olaf,Sejuani
+2020.0,summer,LEC,8,Origen,SK Gaming,1.0,OK,30:12,blue,SK,   VICTORY   ,56.6k,17,  9 ,  2 ,  1 ,  4 ,  2 ,Kalista,Gangplank,Thresh,Corki,Jayce
+2020.0,summer,LEC,8,Origen,SK Gaming,1.0,OK,30:12,red,OG,   DEFEAT   ,50.2k,8,  4 ,  0 ,  0 ,  1 ,  0 ,Caitlyn,Yuumi,Volibear,Khazix,Fiddlesticks
+2020.0,summer,LEC,8,Fnatic,Excel Esports,1.0,OK,34:57,blue,XL,   DEFEAT   ,56.2k,7,  2 ,  0 ,  0 ,  3 ,  1 ,Gangplank,Thresh,Ezreal,Zilean,Shen
+2020.0,summer,LEC,8,Fnatic,Excel Esports,1.0,OK,34:57,red,FNC,   VICTORY   ,68.7k,19,  10 ,  2 ,  2 ,  3 ,  1 ,Volibear,Camille,Sett,MonkeyKing,Sejuani
+2020.0,summer,LEC,8,Misfits,G2,1.0,OK,37:24,blue,MSF,   DEFEAT   ,64.2k,19,  0 ,  0 ,  0 ,  2 ,  0 ,Kalista,Syndra,Volibear,Mordekaiser,Lillia
+2020.0,summer,LEC,8,Misfits,G2,1.0,OK,37:24,red,G2,   VICTORY   ,73.1k,25,  11 ,  3 ,  2 ,  4 ,  2 ,Thresh,Gangplank,Fiddlesticks,Azir,LeeSin
+2020.0,summer,LEC,8,MAD,Rogue,1.0,OK,35:30,blue,RGE,   VICTORY   ,63.5k,20,  8 ,  2 ,  0 ,  2 ,  0 ,Ezreal,Sona,Caitlyn,Syndra,Camille
+2020.0,summer,LEC,8,MAD,Rogue,1.0,OK,35:30,red,MAD,   DEFEAT   ,57.4k,9,  3 ,  0 ,  0 ,  4 ,  1 ,Senna,Orianna,Kalista,Sett,TahmKench
+2020.0,summer,LEC,8,Team Vitality,Misfits,1.0,OK,43:13,blue,MSF,   VICTORY   ,76.1k,14,  7 ,  1 ,  2 ,  2 ,  2 ,Kalista,Thresh,Volibear,LeeSin,Renekton
+2020.0,summer,LEC,8,Team Vitality,Misfits,1.0,OK,43:13,red,VIT,   DEFEAT   ,71.8k,17,  5 ,  0 ,  1 ,  4 ,  0 ,Gangplank,Azir,Morgana,Zoe,Fiddlesticks
+2020.0,summer,LEC,8,MAD,FC Schalke,1.0,OK,35:04,blue,MAD,   DEFEAT   ,56.2k,10,  3 ,  0 ,  0 ,  2 ,  2 ,Azir,Camille,Senna,Khazix,Syndra
+2020.0,summer,LEC,8,MAD,FC Schalke,1.0,OK,35:04,red,S04,   VICTORY   ,64.2k,20,  6 ,  1 ,  0 ,  4 ,  0 ,Sona,Caitlyn,Thresh,Gangplank,Orianna
+2020.0,summer,LEC,8,Rogue,Origen,1.0,OK,34:50,blue,OG,   DEFEAT   ,50.8k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Azir,Kalista,Gangplank,Ornn,Blitzcrank
+2020.0,summer,LEC,8,Rogue,Origen,1.0,OK,34:50,red,RGE,   VICTORY   ,62.3k,13,  9 ,  2 ,  1 ,  5 ,  1 ,Ezreal,Caitlyn,Orianna,Camille,Corki
+2020.0,summer,LEC,8,G2,Excel Esports,1.0,OK,27:54,blue,G2,   VICTORY   ,55.3k,17,  10 ,  2 ,  1 ,  3 ,  2 ,Karma,Senna,Morgana,TahmKench,Nautilus
+2020.0,summer,LEC,8,G2,Excel Esports,1.0,OK,27:54,red,XL,   DEFEAT   ,46.8k,12,  1 ,  0 ,  0 ,  1 ,  0 ,Syndra,Orianna,Kalista,Mordekaiser,Malphite
+2020.0,summer,LEC,8,Fnatic,SK Gaming,1.0,OK,30:36,blue,FNC,   VICTORY   ,60.1k,25,  7 ,  1 ,  1 ,  2 ,  0 ,Yuumi,Bard,Caitlyn,Shen,Malphite
+2020.0,summer,LEC,8,Fnatic,SK Gaming,1.0,OK,30:36,red,SK,   DEFEAT   ,51.6k,13,  3 ,  0 ,  0 ,  3 ,  1 ,Gangplank,Khazix,Syndra,Corki,Orianna

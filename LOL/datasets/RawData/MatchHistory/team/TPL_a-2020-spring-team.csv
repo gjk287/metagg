@@ -1,0 +1,141 @@
+year,season,league_name,week,team_1,team_2,set_number,state,game_length,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,TPL_a,1,Royal Youth Academy,SuperMassive Academy,1.0,this row doesn't have MH_url,,,,,,,,,,,,,,,,
+2020.0,spring,TPL_a,1,Dark Passage Academy,Istanbul Wildcats Academy,1.0,AttributeError,,,,,,,,,,,,,,,,
+2020.0,spring,TPL_a,1,Fenerbahce Academy,5 Ronin Academy,1.0,OK,47:35,blue,FB,   VICTORY   ,83.0k,18,  10 ,  2 ,  2 ,  3 ,  2 ,Olaf,Syndra,Lucian,Leblanc,Cassiopeia
+2020.0,spring,TPL_a,1,Fenerbahce Academy,5 Ronin Academy,1.0,OK,47:35,red,5R,   DEFEAT   ,74.4k,8,  3 ,  0 ,  0 ,  5 ,  0 ,Akali,LeeSin,Qiyana,MissFortune,Aphelios
+2020.0,spring,TPL_a,1,Galakticos Academy,Besiktas Academy,1.0,OK,35:07,blue,BJK,   VICTORY   ,62.9k,12,  11 ,  3 ,  1 ,  4 ,  2 ,Rumble,Lucian,Elise,Gangplank,Ornn
+2020.0,spring,TPL_a,1,Galakticos Academy,Besiktas Academy,1.0,OK,35:07,red,GAL,   DEFEAT   ,55.9k,8,  4 ,  0 ,  0 ,  1 ,  0 ,Sett,Akali,Yasuo,Aphelios,Senna
+2020.0,spring,TPL_a,1,5 Ronin Academy,Dark Passage Academy,1.0,OK,33:24,blue,5R,   VICTORY   ,64.3k,19,  9 ,  2 ,  1 ,  3 ,  2 ,Karthus,Camille,Irelia,Zoe,Orianna
+2020.0,spring,TPL_a,1,5 Ronin Academy,Dark Passage Academy,1.0,OK,33:24,red,DP,   DEFEAT   ,51.7k,4,  2 ,  0 ,  0 ,  2 ,  0 ,Akali,Lucian,Syndra,Thresh,TahmKench
+2020.0,spring,TPL_a,1,Istanbul Wildcats Academy,Royal Youth Academy,1.0,OK,29:55,blue,RYL,   DEFEAT   ,46.1k,9,  1 ,  0 ,  0 ,  1 ,  1 ,MissFortune,Senna,RekSai,Xayah,Leblanc
+2020.0,spring,TPL_a,1,Istanbul Wildcats Academy,Royal Youth Academy,1.0,OK,29:55,red,IW,   VICTORY   ,59.5k,24,  11 ,  4 ,  2 ,  2 ,  1 ,Akali,JarvanIV,Rumble,Syndra,Viktor
+2020.0,spring,TPL_a,1,Galakticos Academy,Fenerbahce Academy,1.0,OK,36:17,blue,FB,   VICTORY   ,67.6k,17,  9 ,  1 ,  1 ,  2 ,  2 ,Syndra,Cassiopeia,JarvanIV,Orianna,Leblanc
+2020.0,spring,TPL_a,1,Galakticos Academy,Fenerbahce Academy,1.0,OK,36:17,red,GAL,   DEFEAT   ,58.5k,15,  3 ,  0 ,  1 ,  3 ,  0 ,Rumble,Akali,Qiyana,Ornn,Zoe
+2020.0,spring,TPL_a,1,AURORA Academy,SuperMassive Academy,1.0,OK,34:38,blue,SUP,   VICTORY   ,62.3k,16,  11 ,  2 ,  1 ,  3 ,  2 ,Sylas,JarvanIV,Rumble,Ornn,Elise
+2020.0,spring,TPL_a,1,AURORA Academy,SuperMassive Academy,1.0,OK,34:38,red,AUR,   DEFEAT   ,49.6k,1,  1 ,  0 ,  0 ,  2 ,  0 ,Akali,Yasuo,Leblanc,Braum,Leona
+2020.0,spring,TPL_a,1,Royal Youth Academy,AURORA Academy,1.0,OK,32:04,blue,RYL,   VICTORY   ,59.6k,17,  9 ,  2 ,  2 ,  3 ,  2 ,Sylas,Elise,Senna,Viktor,Sett
+2020.0,spring,TPL_a,1,Royal Youth Academy,AURORA Academy,1.0,OK,32:04,red,AUR,   DEFEAT   ,50.5k,9,  3 ,  0 ,  0 ,  2 ,  0 ,Akali,Pantheon,Rumble,Tristana,Aphelios
+2020.0,spring,TPL_a,1,SuperMassive Academy,Besiktas Academy,1.0,OK,44:47,blue,BJK,   VICTORY   ,76.3k,18,  8 ,  1 ,  1 ,  4 ,  1 ,Elise,Rumble,Akali,Senna,Aatrox
+2020.0,spring,TPL_a,1,SuperMassive Academy,Besiktas Academy,1.0,OK,44:47,red,SUP,   DEFEAT   ,75.0k,21,  10 ,  4 ,  2 ,  3 ,  1 ,Yasuo,Sett,Soraka,Leblanc,Mordekaiser
+2020.0,spring,TPL_a,1,Dark Passage Academy,Galakticos Academy,1.0,OK,27:18,blue,DP,   VICTORY   ,53.6k,12,  9 ,  1 ,  1 ,  2 ,  1 ,Elise,Nautilus,Sett,Gangplank,Soraka
+2020.0,spring,TPL_a,1,Dark Passage Academy,Galakticos Academy,1.0,OK,27:18,red,GAL,   DEFEAT   ,41.8k,5,  1 ,  0 ,  0 ,  2 ,  1 ,Camille,Karthus,Akali,Vladimir,Rumble
+2020.0,spring,TPL_a,1,Istanbul Wildcats Academy,5 Ronin Academy,1.0,OK,29:30,blue,IW,   VICTORY   ,51.2k,12,  7 ,  1 ,  0 ,  3 ,  2 ,Rumble,Syndra,Olaf,Leblanc,Gangplank
+2020.0,spring,TPL_a,1,Istanbul Wildcats Academy,5 Ronin Academy,1.0,OK,29:30,red,5R,   DEFEAT   ,45.2k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Akali,Soraka,Elise,Mordekaiser,Aatrox
+2020.0,spring,TPL_a,1,5 Ronin Academy,Royal Youth Academy,1.0,OK,28:08,blue,5R,   VICTORY   ,51.9k,11,  7 ,  1 ,  1 ,  1 ,  0 ,Aphelios,Cassiopeia,Rumble,Pantheon,Aatrox
+2020.0,spring,TPL_a,1,5 Ronin Academy,Royal Youth Academy,1.0,OK,28:08,red,RYL,   DEFEAT   ,45.9k,9,  3 ,  0 ,  0 ,  3 ,  2 ,Akali,JarvanIV,Syndra,Leblanc,
+2020.0,spring,TPL_a,1,Fenerbahce Academy,SuperMassive Academy,1.0,OK,37:05,blue,SUP,   DEFEAT   ,57.9k,16,  5 ,  0 ,  0 ,  3 ,  2 ,Aphelios,Rumble,Qiyana,Mordekaiser,Irelia
+2020.0,spring,TPL_a,1,Fenerbahce Academy,SuperMassive Academy,1.0,OK,37:05,red,FB,   VICTORY   ,69.2k,26,  11 ,  1 ,  2 ,  3 ,  0 ,Akali,Pantheon,Lucian,Cassiopeia,Leblanc
+2020.0,spring,TPL_a,1,Besiktas Academy,AURORA Academy,1.0,OK,28:39,blue,AUR,   VICTORY   ,52.9k,18,  8 ,  1 ,  1 ,  4 ,  1 ,Yasuo,Pantheon,LeeSin,Cassiopeia,Syndra
+2020.0,spring,TPL_a,1,Besiktas Academy,AURORA Academy,1.0,OK,28:39,red,BJK,   DEFEAT   ,42.5k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Thresh,Rumble,Soraka,Fiora,Mordekaiser
+2020.0,spring,TPL_a,1,Galakticos Academy,Istanbul Wildcats Academy,1.0,OK,24:03,blue,IW,   VICTORY   ,47.7k,14,  11 ,  3 ,  1 ,  2 ,  2 ,Lucian,Elise,Soraka,Aatrox,Syndra
+2020.0,spring,TPL_a,1,Galakticos Academy,Istanbul Wildcats Academy,1.0,OK,24:03,red,GAL,   DEFEAT   ,32.5k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Akali,Qiyana,JarvanIV,Olaf,RekSai
+2020.0,spring,TPL_a,2,AURORA Academy,Fenerbahce Academy,1.0,OK,27:22,blue,AUR,   VICTORY   ,53.9k,25,  9 ,  1 ,  1 ,  4 ,  2 ,LeeSin,Yasuo,Pantheon,Braum,Leona
+2020.0,spring,TPL_a,2,AURORA Academy,Fenerbahce Academy,1.0,OK,27:22,red,FB,   DEFEAT   ,40.9k,8,  1 ,  0 ,  0 ,  0 ,  0 ,Rumble,Sylas,Thresh,Ziggs,Viktor
+2020.0,spring,TPL_a,2,5 Ronin Academy,Galakticos Academy,1.0,OK,32:12,blue,5R,   DEFEAT   ,49.1k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Thresh,Syndra,Mordekaiser,Braum
+2020.0,spring,TPL_a,2,5 Ronin Academy,Galakticos Academy,1.0,OK,32:12,red,GAL,   VICTORY   ,59.5k,13,  11 ,  4 ,  2 ,  4 ,  2 ,Sett,JarvanIV,Soraka,Aatrox,Ornn
+2020.0,spring,TPL_a,2,Royal Youth Academy,Besiktas Academy,1.0,OK,29:55,blue,BJK,   VICTORY   ,62.3k,28,  11 ,  3 ,  1 ,  4 ,  2 ,Pantheon,Lucian,Rumble,Mordekaiser,Sett
+2020.0,spring,TPL_a,2,Royal Youth Academy,Besiktas Academy,1.0,OK,29:55,red,RYL,   DEFEAT   ,47.8k,10,  0 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Soraka,Aphelios,Irelia,Vladimir
+2020.0,spring,TPL_a,2,SuperMassive Academy,Dark Passage Academy,1.0,OK,30:39,blue,SUP,   VICTORY   ,59.7k,29,  9 ,  1 ,  1 ,  4 ,  2 ,Karthus,Sett,JarvanIV,Gragas,Elise
+2020.0,spring,TPL_a,2,SuperMassive Academy,Dark Passage Academy,1.0,OK,30:39,red,DP,   DEFEAT   ,47.7k,16,  1 ,  0 ,  0 ,  0 ,  0 ,Pantheon,Thresh,Soraka,Leblanc,Olaf
+2020.0,spring,TPL_a,2,Fenerbahce Academy,Besiktas Academy,1.0,OK,35:41,blue,FB,   DEFEAT   ,61.5k,13,  4 ,  0 ,  1 ,  1 ,  1 ,Yasuo,Thresh,Soraka,Irelia,RekSai
+2020.0,spring,TPL_a,2,Fenerbahce Academy,Besiktas Academy,1.0,OK,35:41,red,BJK,   VICTORY   ,63.2k,22,  6 ,  1 ,  0 ,  4 ,  1 ,Aphelios,Rumble,JarvanIV,LeeSin,Gragas
+2020.0,spring,TPL_a,2,Galakticos Academy,Royal Youth Academy,1.0,OK,33:25,blue,GAL,   VICTORY   ,63.5k,25,  9 ,  2 ,  1 ,  4 ,  2 ,JarvanIV,Elise,Soraka,Varus,Zoe
+2020.0,spring,TPL_a,2,Galakticos Academy,Royal Youth Academy,1.0,OK,33:25,red,RYL,   DEFEAT   ,52.2k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Lucian,Gragas,Sejuani,Vladimir,Braum
+2020.0,spring,TPL_a,2,Dark Passage Academy,AURORA Academy,1.0,OK,23:26,blue,AUR,   DEFEAT   ,37.6k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Cassiopeia,Syndra,Leona,Nautilus
+2020.0,spring,TPL_a,2,Dark Passage Academy,AURORA Academy,1.0,OK,23:26,red,DP,   VICTORY   ,48.8k,22,  9 ,  1 ,  1 ,  3 ,  2 ,JarvanIV,Sett,Thresh,Kindred,Ekko
+2020.0,spring,TPL_a,2,SuperMassive Academy,Istanbul Wildcats Academy,1.0,OK,27:37,blue,IW,   VICTORY   ,54.9k,24,  8 ,  1 ,  1 ,  4 ,  1 ,Pantheon,Thresh,Ornn,Leblanc,Gangplank
+2020.0,spring,TPL_a,2,SuperMassive Academy,Istanbul Wildcats Academy,1.0,OK,27:37,red,SUP,   DEFEAT   ,43.6k,12,  2 ,  0 ,  0 ,  0 ,  1 ,Sett,Soraka,Aphelios,Aatrox,Mordekaiser
+2020.0,spring,TPL_a,3,Besiktas Academy,Dark Passage Academy,1.0,OK,33:17,blue,DP,   DEFEAT   ,46.9k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Thresh,Yuumi,JarvanIV,Aatrox,Fiora
+2020.0,spring,TPL_a,3,Besiktas Academy,Dark Passage Academy,1.0,OK,33:17,red,BJK,   VICTORY   ,58.8k,20,  9 ,  2 ,  2 ,  4 ,  1 ,Karthus,Braum,Sett,Pantheon,Syndra
+2020.0,spring,TPL_a,3,Royal Youth Academy,Fenerbahce Academy,1.0,OK,42:52,blue,FB,   VICTORY   ,76.5k,19,  9 ,  3 ,  1 ,  3 ,  2 ,Cassiopeia,Elise,Pantheon,Aatrox,Gangplank
+2020.0,spring,TPL_a,3,Royal Youth Academy,Fenerbahce Academy,1.0,OK,42:52,red,RYL,   DEFEAT   ,67.2k,13,  3 ,  0 ,  0 ,  4 ,  0 ,Qiyana,JarvanIV,Lucian,MissFortune,Nautilus
+2020.0,spring,TPL_a,3,5 Ronin Academy,SuperMassive Academy,1.0,OK,31:23,blue,SUP,   DEFEAT   ,50.6k,12,  2 ,  0 ,  0 ,  2 ,  0 ,Yuumi,JarvanIV,Olaf,MissFortune,Varus
+2020.0,spring,TPL_a,3,5 Ronin Academy,SuperMassive Academy,1.0,OK,31:23,red,5R,   VICTORY   ,58.9k,16,  9 ,  1 ,  2 ,  3 ,  2 ,Taliyah,Ornn,Thresh,Senna,Lucian
+2020.0,spring,TPL_a,3,AURORA Academy,Istanbul Wildcats Academy,1.0,OK,34:25,blue,IW,   VICTORY   ,62.1k,13,  9 ,  1 ,  1 ,  3 ,  2 ,Thresh,Sylas,Nautilus,Leona,Viktor
+2020.0,spring,TPL_a,3,AURORA Academy,Istanbul Wildcats Academy,1.0,OK,34:25,red,AUR,   DEFEAT   ,56.2k,12,  4 ,  0 ,  0 ,  2 ,  0 ,Soraka,JarvanIV,Cassiopeia,Olaf,Leblanc
+2020.0,spring,TPL_a,3,SuperMassive Academy,Galakticos Academy,1.0,OK,30:49,blue,GAL,   DEFEAT   ,49.6k,10,  1 ,  0 ,  1 ,  1 ,  0 ,Pantheon,Ornn,MissFortune,Thresh,Syndra
+2020.0,spring,TPL_a,3,SuperMassive Academy,Galakticos Academy,1.0,OK,30:49,red,SUP,   VICTORY   ,63.6k,24,  9 ,  1 ,  1 ,  4 ,  2 ,Soraka,Sett,JarvanIV,Renekton,Leblanc
+2020.0,spring,TPL_a,3,AURORA Academy,5 Ronin Academy,1.0,OK,31:33,blue,AUR,   VICTORY   ,59.7k,15,  11 ,  2 ,  2 ,  4 ,  2 ,Syndra,Senna,Cassiopeia,MissFortune,Lucian
+2020.0,spring,TPL_a,3,AURORA Academy,5 Ronin Academy,1.0,OK,31:33,red,5R,   DEFEAT   ,49.4k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Thresh,Varus,JarvanIV,Elise,Olaf
+2020.0,spring,TPL_a,3,Istanbul Wildcats Academy,Besiktas Academy,1.0,OK,34:31,blue,BJK,   DEFEAT   ,54.8k,9,  2 ,  0 ,  1 ,  0 ,  2 ,Elise,Soraka,Aatrox,Olaf,Leblanc
+2020.0,spring,TPL_a,3,Istanbul Wildcats Academy,Besiktas Academy,1.0,OK,34:31,red,IW,   VICTORY   ,66.1k,18,  11 ,  3 ,  1 ,  5 ,  0 ,Amumu,Anivia,JarvanIV,Rakan,Yasuo
+2020.0,spring,TPL_a,3,Dark Passage Academy,Fenerbahce Academy,1.0,AttributeError,,,,,,,,,,,,,,,,
+2020.0,spring,TPL_a,4,Galakticos Academy,AURORA Academy,1.0,OK,33:21,blue,AUR,   DEFEAT   ,55.1k,12,  3 ,  0 ,  1 ,  1 ,  2 ,Lucian,Yasuo,Yuumi,Gragas,Leblanc
+2020.0,spring,TPL_a,4,Galakticos Academy,AURORA Academy,1.0,OK,33:21,red,GAL,   VICTORY   ,60.4k,20,  8 ,  1 ,  1 ,  4 ,  0 ,Thresh,Ziggs,JarvanIV,Sejuani,
+2020.0,spring,TPL_a,4,Besiktas Academy,5 Ronin Academy,1.0,OK,30:07,blue,5R,   VICTORY   ,56.1k,18,  9 ,  1 ,  1 ,  2 ,  1 ,Aphelios,Thresh,JarvanIV,Nautilus,Leona
+2020.0,spring,TPL_a,4,Besiktas Academy,5 Ronin Academy,1.0,OK,30:07,red,BJK,   DEFEAT   ,46.5k,14,  3 ,  0 ,  0 ,  3 ,  1 ,Yuumi,Syndra,Azir,RekSai,Leblanc
+2020.0,spring,TPL_a,4,Royal Youth Academy,Dark Passage Academy,1.0,OK,38:40,blue,DP,   VICTORY   ,70.1k,32,  7 ,  1 ,  1 ,  4 ,  1 ,Syndra,Pantheon,Ornn,Fiora,Aatrox
+2020.0,spring,TPL_a,4,Royal Youth Academy,Dark Passage Academy,1.0,OK,38:40,red,RYL,   DEFEAT   ,66.2k,21,  3 ,  0 ,  1 ,  2 ,  1 ,Karthus,JarvanIV,Nautilus,Olaf,Braum
+2020.0,spring,TPL_a,4,Fenerbahce Academy,Istanbul Wildcats Academy,1.0,OK,37:59,blue,IW,   VICTORY   ,67.6k,19,  9 ,  2 ,  1 ,  3 ,  2 ,LeeSin,Nautilus,Qiyana,Mordekaiser,Vladimir
+2020.0,spring,TPL_a,4,Fenerbahce Academy,Istanbul Wildcats Academy,1.0,OK,37:59,red,FB,   DEFEAT   ,57.5k,4,  3 ,  0 ,  0 ,  3 ,  0 ,Sett,Yuumi,Senna,Aphelios,Lucian
+2020.0,spring,TPL_a,4,Besiktas Academy,Galakticos Academy,1.0,OK,39:43,blue,GAL,   DEFEAT   ,62.8k,10,  5 ,  0 ,  0 ,  4 ,  1 ,Thresh,Ornn,Cassiopeia,Varus,Lucian
+2020.0,spring,TPL_a,4,Besiktas Academy,Galakticos Academy,1.0,OK,39:43,red,BJK,   VICTORY   ,73.1k,14,  11 ,  3 ,  2 ,  2 ,  1 ,Yuumi,Aphelios,Syndra,Mordekaiser,Rumble
+2020.0,spring,TPL_a,4,Istanbul Wildcats Academy,Dark Passage Academy,1.0,OK,33:02,blue,DP,   DEFEAT   ,54.8k,14,  2 ,  0 ,  0 ,  3 ,  2 ,Ornn,Mordekaiser,LeeSin,Olaf,Elise
+2020.0,spring,TPL_a,4,Istanbul Wildcats Academy,Dark Passage Academy,1.0,OK,33:02,red,IW,   VICTORY   ,63.2k,25,  9 ,  2 ,  1 ,  2 ,  0 ,Karthus,Sett,Zoe,Camille,Fiora
+2020.0,spring,TPL_a,4,5 Ronin Academy,Fenerbahce Academy,1.0,OK,43:50,blue,5R,   VICTORY   ,79.6k,29,  9 ,  3 ,  2 ,  4 ,  2 ,Aphelios,Yasuo,JarvanIV,Mordekaiser,Cassiopeia
+2020.0,spring,TPL_a,4,5 Ronin Academy,Fenerbahce Academy,1.0,OK,43:50,red,FB,   DEFEAT   ,73.8k,14,  4 ,  0 ,  1 ,  2 ,  0 ,Sett,Senna,Ornn,Varus,Ezreal
+2020.0,spring,TPL_a,4,SuperMassive Academy,Royal Youth Academy,1.0,OK,27:00,blue,RYL,   DEFEAT   ,40.1k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Pantheon,Lucian,Karthus,Sejuani,Mordekaiser
+2020.0,spring,TPL_a,4,SuperMassive Academy,Royal Youth Academy,1.0,OK,27:00,red,SUP,   VICTORY   ,53.5k,19,  11 ,  3 ,  1 ,  3 ,  2 ,Sett,Ornn,Cassiopeia,Gangplank,JarvanIV
+2020.0,spring,TPL_a,5,Galakticos Academy,Dark Passage Academy,1.0,OK,41:17,blue,GAL,   DEFEAT   ,65.3k,17,  3 ,  0 ,  0 ,  2 ,  1 ,Karthus,Sett,Pantheon,TahmKench,Nautilus
+2020.0,spring,TPL_a,5,Galakticos Academy,Dark Passage Academy,1.0,OK,41:17,red,DP,   VICTORY   ,74.7k,27,  9 ,  1 ,  1 ,  4 ,  1 ,Ornn,Yuumi,Thresh,Irelia,
+2020.0,spring,TPL_a,5,5 Ronin Academy,Istanbul Wildcats Academy,1.0,OK,27:32,blue,5R,   DEFEAT   ,44.0k,13,  3 ,  0 ,  0 ,  0 ,  2 ,Aphelios,JarvanIV,Yuumi,Trundle,Gragas
+2020.0,spring,TPL_a,5,5 Ronin Academy,Istanbul Wildcats Academy,1.0,OK,27:32,red,IW,   VICTORY   ,52.2k,23,  7 ,  1 ,  0 ,  4 ,  0 ,Sett,Olaf,Senna,Taric,Thresh
+2020.0,spring,TPL_a,5,Besiktas Academy,SuperMassive Academy,1.0,OK,28:24,blue,SUP,   DEFEAT   ,43.5k,7,  1 ,  0 ,  0 ,  1 ,  1 ,Sett,Cassiopeia,Yuumi,JarvanIV,Sejuani
+2020.0,spring,TPL_a,5,Besiktas Academy,SuperMassive Academy,1.0,OK,28:24,red,BJK,   VICTORY   ,55.6k,21,  8 ,  1 ,  1 ,  3 ,  1 ,Pantheon,Lucian,Senna,Nautilus,Irelia
+2020.0,spring,TPL_a,5,AURORA Academy,Royal Youth Academy,1.0,OK,26:55,blue,RYL,   DEFEAT   ,39.1k,7,  1 ,  0 ,  0 ,  1 ,  1 ,Pantheon,Olaf,Senna,Rumble,Ziggs
+2020.0,spring,TPL_a,5,AURORA Academy,Royal Youth Academy,1.0,OK,26:55,red,AUR,   VICTORY   ,53.7k,27,  10 ,  2 ,  1 ,  2 ,  1 ,Sett,Ornn,Thresh,Cassiopeia,Leblanc
+2020.0,spring,TPL_a,5,Fenerbahce Academy,AURORA Academy,1.0,OK,32:30,blue,AUR,   VICTORY   ,59.4k,24,  7 ,  1 ,  0 ,  4 ,  0 ,Yasuo,Yuumi,Pantheon,MissFortune,Varus
+2020.0,spring,TPL_a,5,Fenerbahce Academy,AURORA Academy,1.0,OK,32:30,red,FB,   DEFEAT   ,50.8k,11,  3 ,  0 ,  0 ,  1 ,  2 ,Senna,JarvanIV,Ornn,Aphelios,Lucian
+2020.0,spring,TPL_a,5,Dark Passage Academy,SuperMassive Academy,1.0,OK,29:34,blue,DP,   DEFEAT   ,43.4k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Ornn,Pantheon,Syndra,Braum,Irelia
+2020.0,spring,TPL_a,5,Dark Passage Academy,SuperMassive Academy,1.0,OK,29:34,red,SUP,   VICTORY   ,60.2k,27,  11 ,  3 ,  2 ,  4 ,  2 ,Senna,Sett,Karthus,Thresh,Nautilus
+2020.0,spring,TPL_a,5,Galakticos Academy,5 Ronin Academy,1.0,OK,36:53,blue,5R,   VICTORY   ,68.4k,11,  11 ,  3 ,  1 ,  5 ,  2 ,Aphelios,Ornn,Yuumi,Camille,Ezreal
+2020.0,spring,TPL_a,5,Galakticos Academy,5 Ronin Academy,1.0,OK,36:53,red,GAL,   DEFEAT   ,57.9k,5,  3 ,  0 ,  0 ,  1 ,  0 ,Kalista,Sett,Senna,Cassiopeia,Azir
+2020.0,spring,TPL_a,5,Besiktas Academy,Royal Youth Academy,1.0,OK,27:07,blue,RYL,   DEFEAT   ,40.9k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Thresh,JarvanIV,Aphelios,Zac,Varus
+2020.0,spring,TPL_a,5,Besiktas Academy,Royal Youth Academy,1.0,OK,27:07,red,BJK,   VICTORY   ,51.5k,22,  6 ,  1 ,  1 ,  4 ,  1 ,Sett,Ornn,Yuumi,Elise,RekSai
+2020.0,spring,TPL_a,6,Royal Youth Academy,Istanbul Wildcats Academy,1.0,OK,36:30,blue,IW,   VICTORY   ,69.5k,14,  9 ,  1 ,  1 ,  4 ,  2 ,Ornn,Amumu,Sett,Gangplank,Mordekaiser
+2020.0,spring,TPL_a,6,Royal Youth Academy,Istanbul Wildcats Academy,1.0,OK,36:30,red,RYL,   DEFEAT   ,63.3k,12,  2 ,  0 ,  1 ,  1 ,  0 ,Senna,Annie,Aatrox,LeeSin,RekSai
+2020.0,spring,TPL_a,6,Dark Passage Academy,5 Ronin Academy,1.0,OK,24:39,blue,5R,   VICTORY   ,47.9k,16,  10 ,  2 ,  0 ,  1 ,  2 ,Aphelios,Karthus,Senna,Ezreal,Lucian
+2020.0,spring,TPL_a,6,Dark Passage Academy,5 Ronin Academy,1.0,OK,24:39,red,DP,   DEFEAT   ,35.9k,4,  0 ,  0 ,  0 ,  2 ,  0 ,Ornn,Kalista,Sett,Ekko,Rumble
+2020.0,spring,TPL_a,6,SuperMassive Academy,AURORA Academy,1.0,OK,32:33,blue,AUR,   VICTORY   ,56.3k,14,  7 ,  1 ,  1 ,  4 ,  1 ,Yasuo,Thresh,Pantheon,Gragas,Karthus
+2020.0,spring,TPL_a,6,SuperMassive Academy,AURORA Academy,1.0,OK,32:33,red,SUP,   DEFEAT   ,49.6k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Sett,Kalista,JarvanIV,Olaf,Ziggs
+2020.0,spring,TPL_a,6,Fenerbahce Academy,Galakticos Academy,1.0,OK,40:00,blue,GAL,   DEFEAT   ,60.8k,10,  3 ,  0 ,  0 ,  3 ,  2 ,Qiyana,Pantheon,Yuumi,Zoe,Leona
+2020.0,spring,TPL_a,6,Fenerbahce Academy,Galakticos Academy,1.0,OK,40:00,red,FB,   VICTORY   ,68.8k,13,  10 ,  2 ,  2 ,  3 ,  0 ,Ornn,Senna,Syndra,Cassiopeia,Braum
+2020.0,spring,TPL_a,6,SuperMassive Academy,5 Ronin Academy,1.0,OK,28:05,blue,5R,   DEFEAT   ,44.6k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Thresh,Senna,Yasuo,Pantheon
+2020.0,spring,TPL_a,6,SuperMassive Academy,5 Ronin Academy,1.0,OK,28:05,red,SUP,   VICTORY   ,56.2k,23,  11 ,  2 ,  1 ,  4 ,  2 ,Sett,Kalista,Yuumi,Ornn,Cassiopeia
+2020.0,spring,TPL_a,6,Fenerbahce Academy,Royal Youth Academy,1.0,OK,30:41,blue,RYL,   DEFEAT   ,46.8k,8,  3 ,  0 ,  0 ,  1 ,  2 ,Thresh,Gragas,Rumble,Braum,Zilean
+2020.0,spring,TPL_a,6,Fenerbahce Academy,Royal Youth Academy,1.0,OK,30:41,red,FB,   VICTORY   ,57.6k,20,  9 ,  1 ,  1 ,  4 ,  0 ,Syndra,Ornn,JarvanIV,Aatrox,Mordekaiser
+2020.0,spring,TPL_a,6,Istanbul Wildcats Academy,AURORA Academy,1.0,OK,21:06,blue,AUR,   DEFEAT   ,32.9k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Vladimir,Varus,JarvanIV,Karthus
+2020.0,spring,TPL_a,6,Istanbul Wildcats Academy,AURORA Academy,1.0,OK,21:06,red,IW,   VICTORY   ,37.5k,14,  7 ,  1 ,  0 ,  2 ,  2 ,Sett,Ziggs,Sylas,Ezreal,MissFortune
+2020.0,spring,TPL_a,6,Dark Passage Academy,Besiktas Academy,1.0,OK,32:09,blue,BJK,   DEFEAT   ,48.0k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Karthus,Yuumi,Varus,Braum,Leona
+2020.0,spring,TPL_a,6,Dark Passage Academy,Besiktas Academy,1.0,OK,32:09,red,DP,   VICTORY   ,61.8k,15,  9 ,  2 ,  1 ,  5 ,  1 ,Ornn,Zac,Gragas,Olaf,
+2020.0,spring,TPL_a,7,AURORA Academy,Dark Passage Academy,1.0,OK,35:25,blue,DP,   DEFEAT   ,58.1k,18,  4 ,  0 ,  0 ,  2 ,  2 ,Kalista,JarvanIV,Ornn,Leona,Ziggs
+2020.0,spring,TPL_a,7,AURORA Academy,Dark Passage Academy,1.0,OK,35:25,red,AUR,   VICTORY   ,67.8k,30,  7 ,  1 ,  1 ,  4 ,  0 ,Karthus,Pantheon,Senna,Yasuo,Diana
+2020.0,spring,TPL_a,7,Istanbul Wildcats Academy,SuperMassive Academy,1.0,OK,25:30,blue,SUP,   DEFEAT   ,36.7k,3,  0 ,  0 ,  0 ,  1 ,  0 ,MissFortune,Senna,Sett,Ornn,Rumble
+2020.0,spring,TPL_a,7,Istanbul Wildcats Academy,SuperMassive Academy,1.0,OK,25:30,red,IW,   VICTORY   ,51.8k,24,  10 ,  2 ,  1 ,  3 ,  2 ,Thresh,Pantheon,Sylas,Irelia,Aatrox
+2020.0,spring,TPL_a,7,Royal Youth Academy,Galakticos Academy,1.0,OK,28:49,blue,GAL,   VICTORY   ,54.7k,21,  8 ,  1 ,  0 ,  3 ,  2 ,Elise,Thresh,Senna,Rumble,Syndra
+2020.0,spring,TPL_a,7,Royal Youth Academy,Galakticos Academy,1.0,OK,28:49,red,RYL,   DEFEAT   ,42.4k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Sett,Ornn,MonkeyKing,Taliyah,LeeSin
+2020.0,spring,TPL_a,7,Besiktas Academy,Fenerbahce Academy,1.0,OK,27:31,blue,BJK,   VICTORY   ,48.7k,16,  9 ,  2 ,  1 ,  3 ,  1 ,Thresh,Varus,Sett,TahmKench,Aatrox
+2020.0,spring,TPL_a,7,Besiktas Academy,Fenerbahce Academy,1.0,OK,27:31,red,FB,   DEFEAT   ,38.1k,3,  1 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Cassiopeia,Syndra,Braum,Yuumi
+2020.0,spring,TPL_a,7,Istanbul Wildcats Academy,Galakticos Academy,1.0,OK,33:41,blue,IW,   VICTORY   ,66.8k,30,  10 ,  1 ,  2 ,  2 ,  0 ,Pantheon,Leblanc,Camille,Sylas,Akali
+2020.0,spring,TPL_a,7,Istanbul Wildcats Academy,Galakticos Academy,1.0,OK,33:41,red,GAL,   DEFEAT   ,56.2k,20,  4 ,  0 ,  0 ,  3 ,  2 ,Aphelios,Senna,Syndra,Trundle,Elise
+2020.0,spring,TPL_a,7,AURORA Academy,Besiktas Academy,1.0,OK,33:37,blue,BJK,   DEFEAT   ,58.1k,10,  3 ,  0 ,  1 ,  2 ,  2 ,Kalista,Sett,JarvanIV,Gragas,Elise
+2020.0,spring,TPL_a,7,AURORA Academy,Besiktas Academy,1.0,OK,33:37,red,AUR,   VICTORY   ,59.7k,16,  7 ,  1 ,  0 ,  3 ,  0 ,Yasuo,Pantheon,Thresh,Taric,Karma
+2020.0,spring,TPL_a,7,SuperMassive Academy,Fenerbahce Academy,1.0,OK,25:44,blue,FB,   DEFEAT   ,36.4k,3,  1 ,  0 ,  0 ,  0 ,  2 ,Pantheon,MonkeyKing,Thresh,RekSai,Karthus
+2020.0,spring,TPL_a,7,SuperMassive Academy,Fenerbahce Academy,1.0,OK,25:44,red,SUP,   VICTORY   ,50.5k,22,  9 ,  1 ,  1 ,  4 ,  0 ,LeeSin,Elise,Sett,Senna,Varus
+2020.0,spring,TPL_a,7,Royal Youth Academy,5 Ronin Academy,1.0,OK,19:58,blue,5R,   VICTORY   ,39.8k,17,  8 ,  1 ,  0 ,  2 ,  2 ,Olaf,Ornn,JarvanIV,Irelia,Zoe
+2020.0,spring,TPL_a,7,Royal Youth Academy,5 Ronin Academy,1.0,OK,19:58,red,RYL,   DEFEAT   ,27.6k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Pantheon,MonkeyKing,Syndra,Gangplank,Qiyana
+2020.0,spring,TPL_a,8,Besiktas Academy,Istanbul Wildcats Academy,1.0,OK,24:02,blue,IW,   DEFEAT   ,34.9k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Mordekaiser,Sejuani,Senna,Gragas,Syndra
+2020.0,spring,TPL_a,8,Besiktas Academy,Istanbul Wildcats Academy,1.0,OK,24:02,red,BJK,   VICTORY   ,47.2k,14,  8 ,  1 ,  1 ,  4 ,  2 ,Trundle,TahmKench,Thresh,Elise,
+2020.0,spring,TPL_a,8,Fenerbahce Academy,Dark Passage Academy,1.0,OK,34:36,blue,DP,   VICTORY   ,65.1k,23,  8 ,  1 ,  1 ,  2 ,  2 ,Qiyana,Ornn,Thresh,Sett,Mordekaiser
+2020.0,spring,TPL_a,8,Fenerbahce Academy,Dark Passage Academy,1.0,OK,34:36,red,FB,   DEFEAT   ,56.9k,15,  1 ,  0 ,  1 ,  3 ,  0 ,Karthus,Camille,Pantheon,Yasuo,Aatrox
+2020.0,spring,TPL_a,8,5 Ronin Academy,AURORA Academy,1.0,OK,31:25,blue,AUR,   VICTORY   ,58.2k,23,  10 ,  2 ,  2 ,  3 ,  1 ,Syndra,Varus,MissFortune,Vayne,Aatrox
+2020.0,spring,TPL_a,8,5 Ronin Academy,AURORA Academy,1.0,OK,31:25,red,5R,   DEFEAT   ,49.6k,10,  3 ,  0 ,  0 ,  2 ,  1 ,JarvanIV,Kalista,Olaf,Sylas,TahmKench
+2020.0,spring,TPL_a,8,Galakticos Academy,SuperMassive Academy,1.0,OK,32:00,blue,SUP,   VICTORY   ,66.3k,25,  11 ,  2 ,  1 ,  4 ,  2 ,Karthus,Ornn,JarvanIV,Renekton,Cassiopeia
+2020.0,spring,TPL_a,8,Galakticos Academy,SuperMassive Academy,1.0,OK,32:00,red,GAL,   DEFEAT   ,51.7k,9,  0 ,  0 ,  0 ,  1 ,  0 ,Kalista,Pantheon,Sett,Olaf,Sejuani
+2020.0,spring,TPL_a,8,Dark Passage Academy,Royal Youth Academy,1.0,OK,33:10,blue,RYL,   DEFEAT   ,62.2k,27,  8 ,  1 ,  1 ,  3 ,  2 ,Yasuo,Kalista,Karthus,Diana,Camille
+2020.0,spring,TPL_a,8,Dark Passage Academy,Royal Youth Academy,1.0,OK,33:10,red,DP,   VICTORY   ,66.8k,29,  8 ,  1 ,  1 ,  2 ,  0 ,Ornn,Nautilus,Senna,Renekton,Lucian
+2020.0,spring,TPL_a,8,AURORA Academy,Galakticos Academy,1.0,OK,38:39,blue,GAL,   DEFEAT   ,65.2k,12,  5 ,  0 ,  0 ,  3 ,  2 ,Yuumi,Senna,JarvanIV,Renekton,Aatrox
+2020.0,spring,TPL_a,8,AURORA Academy,Galakticos Academy,1.0,OK,38:39,red,AUR,   VICTORY   ,69.7k,13,  9 ,  1 ,  1 ,  4 ,  0 ,Thresh,Varus,LeeSin,Cassiopeia,Leblanc
+2020.0,spring,TPL_a,8,Istanbul Wildcats Academy,Fenerbahce Academy,1.0,OK,25:39,blue,FB,   DEFEAT   ,40.9k,18,  0 ,  0 ,  0 ,  0 ,  0 ,Tryndamere,Riven,Shaco,TahmKench,Irelia
+2020.0,spring,TPL_a,8,Istanbul Wildcats Academy,Fenerbahce Academy,1.0,OK,25:39,red,IW,   VICTORY   ,59.1k,40,  11 ,  3 ,  1 ,  3 ,  1 ,Kennen,Kalista,Amumu,Renekton,Fizz
+2020.0,spring,TPL_a,8,5 Ronin Academy,Besiktas Academy,1.0,AttributeError,,,,,,,,,,,,,,,,

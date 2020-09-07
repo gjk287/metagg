@@ -1,0 +1,59 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,DL,1,mCon Rotterdam,Echo Zulu,1.0,27:36,OK,blue,MCN,   VICTORY   ,50.8k,21,  7 ,  1 ,  1 ,  3 ,  2 ,Olaf,JarvanIV,Nautilus,Kled,Ornn
+2020.0,spring,DL,1,mCon Rotterdam,Echo Zulu,1.0,27:36,OK,red,EZ,   DEFEAT   ,41.5k,9,  1 ,  0 ,  0 ,  1 ,  0 ,Karthus,Akali,Mordekaiser,Diana,Aatrox
+2020.0,spring,DL,1,THRILL,PSV,1.0,32:21,OK,blue,PSV,   VICTORY   ,61.5k,17,  11 ,  3 ,  1 ,  3 ,  2 ,Lucian,Elise,Braum,Fiora,Camille
+2020.0,spring,DL,1,THRILL,PSV,1.0,32:21,OK,red,TRL,   DEFEAT   ,50.0k,8,  1 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Akali,MissFortune,Mordekaiser,Ornn
+2020.0,spring,DL,1,mCon Rotterdam,Dynasty,1.0,28:00,OK,blue,DYN,   DEFEAT   ,40.3k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Mordekaiser,Elise,MissFortune,Fiora,Diana
+2020.0,spring,DL,1,mCon Rotterdam,Dynasty,1.0,28:00,OK,red,MCN,   VICTORY   ,50.3k,19,  8 ,  1 ,  0 ,  4 ,  2 ,Bard,Olaf,Akali,Thresh,Leona
+2020.0,spring,DL,1,THRILL,Defusekids,1.0,23:51,OK,blue,TRL,   DEFEAT   ,36.3k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Riven,Aphelios,Akali,Nautilus,Braum
+2020.0,spring,DL,1,THRILL,Defusekids,1.0,23:51,OK,red,DK,   VICTORY   ,47.3k,15,  7 ,  1 ,  1 ,  3 ,  1 ,Renekton,Cassiopeia,Olaf,Varus,Irelia
+2020.0,spring,DL,2,PSV,Dynasty,1.0,33:41,OK,blue,DYN,   DEFEAT   ,54.0k,9,  4 ,  0 ,  0 ,  2 ,  1 ,Mordekaiser,Lucian,Qiyana,Ornn,Rumble
+2020.0,spring,DL,2,PSV,Dynasty,1.0,33:41,OK,red,PSV,   VICTORY   ,65.6k,18,  10 ,  2 ,  2 ,  3 ,  1 ,Akali,Bard,Senna,Camille,Aatrox
+2020.0,spring,DL,2,Echo Zulu,Defusekids,1.0,27:02,OK,blue,DK,   VICTORY   ,51.0k,9,  11 ,  3 ,  1 ,  1 ,  2 ,Renekton,Sejuani,MissFortune,Orianna,Aatrox
+2020.0,spring,DL,2,Echo Zulu,Defusekids,1.0,27:02,OK,red,EZ,   DEFEAT   ,39.1k,4,  0 ,  0 ,  0 ,  3 ,  0 ,Akali,LeeSin,Yasuo,Gangplank,Irelia
+2020.0,spring,DL,2,PSV,mCon Rotterdam,1.0,33:11,OK,blue,PSV,   VICTORY   ,59.5k,19,  9 ,  2 ,  1 ,  1 ,  1 ,Senna,Thresh,Elise,Diana,Irelia
+2020.0,spring,DL,2,PSV,mCon Rotterdam,1.0,33:11,OK,red,MCN,   DEFEAT   ,51.3k,11,  2 ,  0 ,  0 ,  4 ,  1 ,Akali,Leblanc,Cassiopeia,Zoe,RekSai
+2020.0,spring,DL,2,Echo Zulu,THRILL,1.0,30:11,OK,blue,EZ,   VICTORY   ,54.4k,13,  9 ,  1 ,  1 ,  5 ,  1 ,Thresh,Yasuo,Qiyana,Renekton,Camille
+2020.0,spring,DL,2,Echo Zulu,THRILL,1.0,30:11,OK,red,TRL,   DEFEAT   ,45.3k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Ornn,Sejuani,JarvanIV,Aphelios,MissFortune
+2020.0,spring,DL,3,Dynasty,THRILL,1.0,34:20,OK,blue,DYN,   VICTORY   ,62.1k,19,  8 ,  1 ,  2 ,  2 ,  1 ,Elise,Lucian,Senna,Fiora,Cassiopeia
+2020.0,spring,DL,3,Dynasty,THRILL,1.0,34:20,OK,red,TRL,   DEFEAT   ,57.6k,16,  6 ,  1 ,  0 ,  4 ,  1 ,Bard,Sett,Akali,Xayah,Kled
+2020.0,spring,DL,3,Defusekids,mCon Rotterdam,1.0,34:45,OK,blue,MCN,   DEFEAT   ,55.1k,12,  5 ,  1 ,  0 ,  2 ,  1 ,Lucian,Aphelios,Braum,Gangplank,Mordekaiser
+2020.0,spring,DL,3,Defusekids,mCon Rotterdam,1.0,34:45,OK,red,DK,   VICTORY   ,62.9k,13,  9 ,  2 ,  1 ,  3 ,  1 ,Karthus,Thresh,MissFortune,TahmKench,Morgana
+2020.0,spring,DL,3,Dynasty,Echo Zulu,1.0,34:51,OK,blue,DYN,   VICTORY   ,58.3k,9,  10 ,  2 ,  1 ,  2 ,  1 ,Senna,Mordekaiser,MissFortune,Orianna,Lucian
+2020.0,spring,DL,3,Dynasty,Echo Zulu,1.0,34:51,OK,red,EZ,   DEFEAT   ,52.9k,6,  2 ,  0 ,  1 ,  4 ,  1 ,Bard,Akali,Olaf,JarvanIV,Kled
+2020.0,spring,DL,3,Defusekids,PSV,1.0,32:06,OK,blue,DK,   DEFEAT   ,52.1k,5,  3 ,  0 ,  1 ,  1 ,  1 ,Renekton,Cassiopeia,Sett,Fiora,Jax
+2020.0,spring,DL,3,Defusekids,PSV,1.0,32:06,OK,red,PSV,   VICTORY   ,57.8k,16,  9 ,  1 ,  1 ,  4 ,  1 ,Akali,Yasuo,Lucian,Thresh,Rakan
+2020.0,spring,DL,4,mCon Rotterdam,THRILL,1.0,40:40,OK,blue,MCN,   DEFEAT   ,67.5k,16,  7 ,  1 ,  0 ,  3 ,  1 ,Cassiopeia,Rumble,Soraka,Gangplank,Orianna
+2020.0,spring,DL,4,mCon Rotterdam,THRILL,1.0,40:40,OK,red,TRL,   VICTORY   ,71.6k,24,  9 ,  1 ,  1 ,  3 ,  1 ,Sett,Akali,Senna,Elise,Karthus
+2020.0,spring,DL,4,Dynasty,Defusekids,1.0,38:31,OK,blue,DK,   DEFEAT   ,63.8k,13,  5 ,  0 ,  0 ,  1 ,  1 ,Bard,Sett,Syndra,Kled,Aatrox
+2020.0,spring,DL,4,Dynasty,Defusekids,1.0,38:31,OK,red,DYN,   VICTORY   ,70.5k,21,  10 ,  2 ,  1 ,  5 ,  0 ,Akali,Lucian,Elise,Gangplank,Gragas
+2020.0,spring,DL,4,Echo Zulu,PSV,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,DL,5,THRILL,Defusekids,1.0,48:28,OK,blue,TRL,   VICTORY   ,82.4k,19,  6 ,  1 ,  2 ,  4 ,  0 ,Riven,Lucian,Qiyana,Thresh,Nautilus
+2020.0,spring,DL,5,THRILL,Defusekids,1.0,48:28,OK,red,DK,   DEFEAT   ,79.4k,12,  8 ,  1 ,  1 ,  3 ,  2 ,Syndra,Cassiopeia,Rumble,Xayah,MissFortune
+2020.0,spring,DL,5,mCon Rotterdam,Dynasty,1.0,31:37,OK,blue,MCN,   DEFEAT   ,48.2k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Bard,Gragas,JarvanIV,Diana,Leblanc
+2020.0,spring,DL,5,mCon Rotterdam,Dynasty,1.0,31:37,OK,red,DYN,   VICTORY   ,57.6k,18,  10 ,  2 ,  1 ,  4 ,  2 ,Elise,Soraka,Thresh,Sett,Fiora
+2020.0,spring,DL,5,THRILL,PSV,1.0,29:49,OK,blue,PSV,   VICTORY   ,55.3k,18,  9 ,  1 ,  0 ,  4 ,  2 ,Yasuo,Syndra,Lucian,Thresh,Pyke
+2020.0,spring,DL,5,THRILL,PSV,1.0,29:49,OK,red,TRL,   DEFEAT   ,47.3k,11,  1 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Braum,MissFortune,LeeSin,Elise
+2020.0,spring,DL,5,mCon Rotterdam,Echo Zulu,1.0,50:09,OK,blue,EZ,   DEFEAT   ,80.6k,13,  11 ,  6 ,  1 ,  2 ,  2 ,Karthus,Elise,Qiyana,Thresh,Mordekaiser
+2020.0,spring,DL,5,mCon Rotterdam,Echo Zulu,1.0,50:09,OK,red,MCN,   VICTORY   ,90.2k,25,  7 ,  1 ,  1 ,  6 ,  0 ,Ornn,JarvanIV,Syndra,Cassiopeia,Olaf
+2020.0,spring,DL,6,Echo Zulu,THRILL,1.0,37:53,OK,blue,EZ,   DEFEAT   ,59.4k,12,  4 ,  0 ,  0 ,  3 ,  0 ,Orianna,MissFortune,Syndra,Cassiopeia,Yasuo
+2020.0,spring,DL,6,Echo Zulu,THRILL,1.0,37:53,OK,red,TRL,   VICTORY   ,66.4k,14,  8 ,  1 ,  1 ,  3 ,  2 ,JarvanIV,Sejuani,Ornn,Soraka,Braum
+2020.0,spring,DL,6,PSV,mCon Rotterdam,1.0,40:57,OK,blue,MCN,   DEFEAT   ,65.3k,9,  4 ,  0 ,  0 ,  2 ,  1 ,Yuumi,Braum,Ornn,Cassiopeia,Zoe
+2020.0,spring,DL,6,PSV,mCon Rotterdam,1.0,40:57,OK,red,PSV,   VICTORY   ,74.4k,20,  10 ,  2 ,  1 ,  4 ,  1 ,Karthus,Soraka,Syndra,JarvanIV,Riven
+2020.0,spring,DL,6,Echo Zulu,Defusekids,1.0,35:14,OK,blue,EZ,   DEFEAT   ,55.2k,8,  2 ,  0 ,  0 ,  1 ,  2 ,Aphelios,Xerath,Mordekaiser,Qiyana,Irelia
+2020.0,spring,DL,6,Echo Zulu,Defusekids,1.0,35:14,OK,red,DK,   VICTORY   ,67.2k,20,  10 ,  2 ,  1 ,  4 ,  0 ,JarvanIV,Rumble,Sett,Braum,Syndra
+2020.0,spring,DL,6,PSV,Dynasty,1.0,32:08,OK,blue,PSV,   VICTORY   ,55.8k,11,  8 ,  1 ,  1 ,  3 ,  2 ,Bard,Kled,Syndra,Rakan,Leona
+2020.0,spring,DL,6,PSV,Dynasty,1.0,32:08,OK,red,DYN,   DEFEAT   ,48.1k,5,  2 ,  0 ,  1 ,  2 ,  0 ,Yuumi,Soraka,Lucian,Braum,Leblanc
+2020.0,spring,DL,7,Defusekids,PSV,1.0,28:09,OK,blue,DK,   VICTORY   ,54.2k,19,  9 ,  1 ,  1 ,  3 ,  0 ,JarvanIV,MissFortune,Sett,Aatrox,Gangplank
+2020.0,spring,DL,7,Defusekids,PSV,1.0,28:09,OK,red,PSV,   DEFEAT   ,41.2k,3,  3 ,  0 ,  0 ,  1 ,  2 ,Ornn,Lucian,Aphelios,Riven,Irelia
+2020.0,spring,DL,7,Dynasty,Echo Zulu,1.0,38:19,OK,blue,EZ,   DEFEAT   ,62.7k,7,  6 ,  0 ,  0 ,  2 ,  1 ,Bard,Gragas,Aatrox,Mordekaiser,Irelia
+2020.0,spring,DL,7,Dynasty,Echo Zulu,1.0,38:19,OK,red,DYN,   VICTORY   ,71.2k,19,  10 ,  2 ,  1 ,  4 ,  1 ,Ornn,Senna,Sett,Orianna,Syndra
+2020.0,spring,DL,7,Defusekids,mCon Rotterdam,1.0,33:45,OK,blue,DK,   VICTORY   ,62.7k,16,  10 ,  2 ,  2 ,  2 ,  1 ,JarvanIV,Syndra,Sett,Morgana,Nautilus
+2020.0,spring,DL,7,Defusekids,mCon Rotterdam,1.0,33:45,OK,red,MCN,   DEFEAT   ,52.3k,5,  5 ,  0 ,  0 ,  3 ,  1 ,Ornn,Lucian,Senna,Riven,Gangplank
+2020.0,spring,DL,7,Dynasty,THRILL,1.0,37:52,OK,blue,TRL,   VICTORY   ,68.0k,24,  8 ,  1 ,  1 ,  5 ,  0 ,Bard,Rakan,Gragas,Pyke,Nautilus
+2020.0,spring,DL,7,Dynasty,THRILL,1.0,37:52,OK,red,DYN,   DEFEAT   ,57.4k,10,  4 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Senna,Ornn,Aatrox,Gangplank
+2020.0,spring,DL,8,Dynasty,Defusekids,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,DL,8,Echo Zulu,PSV,1.0,23:29,OK,blue,PSV,   VICTORY   ,49.8k,21,  10 ,  2 ,  1 ,  2 ,  2 ,JarvanIV,Zac,Senna,Mordekaiser,Darius
+2020.0,spring,DL,8,Echo Zulu,PSV,1.0,23:29,OK,red,EZ,   DEFEAT   ,35.5k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Ziggs,Ornn,Zoe,Qiyana
+2020.0,spring,DL,8,mCon Rotterdam,THRILL,1.0,29:16,OK,blue,MCN,   DEFEAT   ,45.2k,11,  2 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Yuumi,Gragas,Aatrox,Gangplank
+2020.0,spring,DL,8,mCon Rotterdam,THRILL,1.0,29:16,OK,red,TRL,   VICTORY   ,56.6k,29,  9 ,  1 ,  0 ,  4 ,  2 ,Ornn,Senna,Karthus,Olaf,Sejuani

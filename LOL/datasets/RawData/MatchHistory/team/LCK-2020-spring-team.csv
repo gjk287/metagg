@@ -1,0 +1,443 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,LCK,1,T1,Damwon,1.0,40:41,OK,blue,T1,   DEFEAT   ,71.9k,14,  4 ,  1 ,  1 ,  3 ,  2 ,Syndra,Taliyah,Lucian,Leblanc,Thresh
+2020.0,spring,LCK,1,T1,Damwon,1.0,40:41,OK,red,DWG,   VICTORY   ,75.4k,20,  8 ,  1 ,  1 ,  3 ,  0 ,RekSai,Elise,Akali,Orianna,Nautilus
+2020.0,spring,LCK,1,T1,Damwon,2.0,47:50,OK,blue,DWG,   DEFEAT   ,80.2k,10,  7 ,  0 ,  1 ,  3 ,  2 ,RekSai,Elise,Mordekaiser,Renekton,Aatrox
+2020.0,spring,LCK,1,T1,Damwon,2.0,47:50,OK,red,T1,   VICTORY   ,86.7k,18,  9 ,  1 ,  1 ,  4 ,  0 ,Taliyah,Akali,Lucian,JarvanIV,Syndra
+2020.0,spring,LCK,1,T1,Damwon,3.0,47:17,OK,blue,T1,   VICTORY   ,86.1k,9,  11 ,  3 ,  1 ,  5 ,  2 ,Mordekaiser,Lucian,Taliyah,Syndra,Ryze
+2020.0,spring,LCK,1,T1,Damwon,3.0,47:17,OK,red,DWG,   DEFEAT   ,82.3k,7,  6 ,  0 ,  2 ,  2 ,  0 ,RekSai,Elise,Akali,Nautilus,Leblanc
+2020.0,spring,LCK,1,KT,GenG,1.0,29:08,OK,blue,KT,   VICTORY   ,52.9k,11,  9 ,  1 ,  1 ,  4 ,  1 ,Irelia,Gragas,Akali,Nautilus,Leblanc
+2020.0,spring,LCK,1,KT,GenG,1.0,29:08,OK,red,GEN,   DEFEAT   ,43.2k,2,  3 ,  0 ,  0 ,  0 ,  1 ,Olaf,Sett,Elise,Rumble,Blitzcrank
+2020.0,spring,LCK,1,KT,GenG,2.0,26:49,OK,blue,GEN,   VICTORY   ,49.9k,8,  9 ,  2 ,  1 ,  4 ,  2 ,Olaf,Aphelios,JarvanIV,Aatrox,Mordekaiser
+2020.0,spring,LCK,1,KT,GenG,2.0,26:49,OK,red,KT,   DEFEAT   ,40.1k,0,  2 ,  0 ,  0 ,  0 ,  0 ,Akali,Sett,Elise,Xayah,Varus
+2020.0,spring,LCK,1,KT,GenG,3.0,31:18,OK,blue,KT,   DEFEAT   ,47.8k,5,  2 ,  0 ,  0 ,  2 ,  2 ,Akali,Kalista,Zoe,Leblanc,Nautilus
+2020.0,spring,LCK,1,KT,GenG,3.0,31:18,OK,red,GEN,   VICTORY   ,56.8k,12,  10 ,  2 ,  1 ,  3 ,  0 ,Aphelios,Ornn,JarvanIV,Xayah,Leona
+2020.0,spring,LCK,1,Sandbox,SeolHaeOne Prince,1.0,22:21,OK,blue,SB,   VICTORY   ,43.6k,16,  7 ,  1 ,  0 ,  3 ,  2 ,Rumble,Pantheon,Qiyana,Ornn,Orianna
+2020.0,spring,LCK,1,Sandbox,SeolHaeOne Prince,1.0,22:21,OK,red,APK,   DEFEAT   ,33.0k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Olaf,Elise,TahmKench,Leona
+2020.0,spring,LCK,1,Sandbox,SeolHaeOne Prince,2.0,29:25,OK,blue,APK,   DEFEAT   ,42.2k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Syndra,Olaf,Elise,Zoe,Orianna
+2020.0,spring,LCK,1,Sandbox,SeolHaeOne Prince,2.0,29:25,OK,red,SB,   VICTORY   ,59.3k,21,  10 ,  2 ,  2 ,  4 ,  2 ,Rumble,Pantheon,Akali,Leblanc,Blitzcrank
+2020.0,spring,LCK,1,Griffin,Afreeca,1.0,51:08,OK,blue,GRF,   DEFEAT   ,77.4k,11,  6 ,  1 ,  1 ,  2 ,  1 ,Rumble,Mordekaiser,Elise,Karthus,Braum
+2020.0,spring,LCK,1,Griffin,Afreeca,1.0,51:08,OK,red,AF,   VICTORY   ,84.7k,10,  8 ,  1 ,  1 ,  6 ,  1 ,Taliyah,Yasuo,Akali,TahmKench,RekSai
+2020.0,spring,LCK,1,Griffin,Afreeca,2.0,37:43,OK,blue,AF,   VICTORY   ,72.9k,23,  10 ,  2 ,  2 ,  4 ,  0 ,Syndra,Taliyah,Lucian,Leona,Leblanc
+2020.0,spring,LCK,1,Griffin,Afreeca,2.0,37:43,OK,red,GRF,   DEFEAT   ,62.8k,18,  2 ,  0 ,  0 ,  1 ,  1 ,Akali,Sett,Elise,Rakan,Braum
+2020.0,spring,LCK,1,Hanwha,T1,1.0,37:25,OK,blue,HLE,   VICTORY   ,71.6k,20,  9 ,  1 ,  1 ,  4 ,  1 ,RekSai,Leblanc,Lucian,Ryze,Nautilus
+2020.0,spring,LCK,1,Hanwha,T1,1.0,37:25,OK,red,T1,   DEFEAT   ,60.1k,6,  2 ,  0 ,  0 ,  2 ,  1 ,Akali,Elise,Pantheon,LeeSin,Gragas
+2020.0,spring,LCK,1,Hanwha,T1,2.0,29:10,OK,blue,T1,   VICTORY   ,51.1k,7,  10 ,  2 ,  1 ,  2 ,  1 ,Diana,Pantheon,Rumble,Lucian,Renekton
+2020.0,spring,LCK,1,Hanwha,T1,2.0,29:10,OK,red,HLE,   DEFEAT   ,47.9k,4,  6 ,  0 ,  0 ,  2 ,  1 ,Akali,RekSai,Leblanc,Syndra,Yasuo
+2020.0,spring,LCK,1,Hanwha,T1,3.0,43:02,OK,blue,HLE,   VICTORY   ,71.0k,16,  8 ,  1 ,  1 ,  4 ,  2 ,RekSai,JarvanIV,Akali,Leblanc,Mordekaiser
+2020.0,spring,LCK,1,Hanwha,T1,3.0,43:02,OK,red,T1,   DEFEAT   ,72.0k,10,  6 ,  0 ,  1 ,  2 ,  0 ,Pantheon,Sett,Rumble,Blitzcrank,Lucian
+2020.0,spring,LCK,1,DragonX,KT,1.0,34:28,OK,blue,DRX,   DEFEAT   ,54.2k,7,  2 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Olaf,Elise,Yuumi,Thresh
+2020.0,spring,LCK,1,DragonX,KT,1.0,34:28,OK,red,KT,   VICTORY   ,63.3k,16,  9 ,  2 ,  1 ,  4 ,  2 ,Akali,Irelia,Lucian,MissFortune,Xayah
+2020.0,spring,LCK,1,DragonX,KT,2.0,33:50,OK,blue,KT,   DEFEAT   ,50.5k,2,  3 ,  0 ,  0 ,  1 ,  2 ,Irelia,Akali,Lucian,Thresh,Morgana
+2020.0,spring,LCK,1,DragonX,KT,2.0,33:50,OK,red,DRX,   VICTORY   ,65.6k,20,  11 ,  2 ,  1 ,  4 ,  0 ,Pantheon,Leblanc,Sett,Syndra,Qiyana
+2020.0,spring,LCK,1,DragonX,KT,3.0,36:32,OK,blue,DRX,   VICTORY   ,66.6k,13,  10 ,  3 ,  2 ,  4 ,  1 ,Leblanc,Elise,Sett,Kennen,Rumble
+2020.0,spring,LCK,1,DragonX,KT,3.0,36:32,OK,red,KT,   DEFEAT   ,59.3k,5,  4 ,  0 ,  0 ,  1 ,  0 ,Akali,Lucian,LeeSin,Thresh,Ornn
+2020.0,spring,LCK,1,SeolHaeOne Prince,Damwon,1.0,31:43,OK,blue,APK,   DEFEAT   ,57.0k,15,  5 ,  1 ,  1 ,  4 ,  2 ,Sett,Lucian,Syndra,Aatrox,Irelia
+2020.0,spring,LCK,1,SeolHaeOne Prince,Damwon,1.0,31:43,OK,red,DWG,   VICTORY   ,56.2k,12,  8 ,  1 ,  0 ,  1 ,  0 ,Pantheon,Akali,Elise,Zoe,Nautilus
+2020.0,spring,LCK,1,SeolHaeOne Prince,Damwon,2.0,28:04,OK,blue,DWG,   VICTORY   ,57.9k,24,  10 ,  1 ,  0 ,  3 ,  2 ,Pantheon,Rumble,Qiyana,Renekton,Kled
+2020.0,spring,LCK,1,SeolHaeOne Prince,Damwon,2.0,28:04,OK,red,APK,   DEFEAT   ,43.8k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Akali,Syndra,Sett,RekSai,JarvanIV
+2020.0,spring,LCK,1,GenG,Griffin,1.0,27:49,OK,blue,GEN,   VICTORY   ,52.4k,8,  11 ,  3 ,  1 ,  4 ,  2 ,Taliyah,Soraka,Mordekaiser,Qiyana,Tryndamere
+2020.0,spring,LCK,1,GenG,Griffin,1.0,27:49,OK,red,GRF,   DEFEAT   ,42.6k,0,  3 ,  0 ,  0 ,  0 ,  0 ,Akali,LeeSin,Sett,MissFortune,Rakan
+2020.0,spring,LCK,1,GenG,Griffin,2.0,39:22,OK,blue,GRF,   DEFEAT   ,60.6k,7,  3 ,  0 ,  0 ,  2 ,  1 ,Mordekaiser,LeeSin,Elise,Leblanc,Cassiopeia
+2020.0,spring,LCK,1,GenG,Griffin,2.0,39:22,OK,red,GEN,   VICTORY   ,69.9k,13,  10 ,  2 ,  1 ,  4 ,  1 ,Taliyah,Akali,Soraka,Rumble,Galio
+2020.0,spring,LCK,1,Sandbox,DragonX,1.0,35:27,OK,blue,SB,   VICTORY   ,67.2k,13,  10 ,  2 ,  2 ,  2 ,  1 ,Irelia,Ornn,LeeSin,Leblanc,Rumble
+2020.0,spring,LCK,1,Sandbox,DragonX,1.0,35:27,OK,red,DRX,   DEFEAT   ,55.8k,5,  1 ,  0 ,  0 ,  3 ,  1 ,Lucian,Akali,Sett,Leona,Thresh
+2020.0,spring,LCK,1,Sandbox,DragonX,2.0,32:22,OK,blue,DRX,   VICTORY   ,61.9k,17,  9 ,  1 ,  1 ,  1 ,  1 ,Elise,Olaf,Renekton,Leona,Irelia
+2020.0,spring,LCK,1,Sandbox,DragonX,2.0,32:22,OK,red,SB,   DEFEAT   ,52.8k,9,  2 ,  0 ,  0 ,  3 ,  1 ,Akali,Sett,Lucian,Leblanc,Syndra
+2020.0,spring,LCK,1,Sandbox,DragonX,3.0,46:37,OK,blue,SB,   DEFEAT   ,75.2k,8,  5 ,  2 ,  0 ,  4 ,  0 ,Irelia,Ornn,LeeSin,Leona,Nocturne
+2020.0,spring,LCK,1,Sandbox,DragonX,3.0,46:37,OK,red,DRX,   VICTORY   ,86.3k,18,  10 ,  2 ,  2 ,  3 ,  2 ,Lucian,Akali,Sett,Quinn,Blitzcrank
+2020.0,spring,LCK,1,Afreeca,Hanwha,1.0,32:37,OK,blue,AF,   DEFEAT   ,54.0k,8,  4 ,  0 ,  0 ,  1 ,  1 ,Diana,Yuumi,Sett,Soraka,Mordekaiser
+2020.0,spring,LCK,1,Afreeca,Hanwha,1.0,32:37,OK,red,HLE,   VICTORY   ,60.7k,18,  7 ,  1 ,  1 ,  4 ,  1 ,Akali,Lucian,Ashe,Blitzcrank,Renekton
+2020.0,spring,LCK,1,Afreeca,Hanwha,2.0,27:20,OK,blue,HLE,   DEFEAT   ,42.1k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Lucian,JarvanIV,Akali,Kennen,Blitzcrank
+2020.0,spring,LCK,1,Afreeca,Hanwha,2.0,27:20,OK,red,AF,   VICTORY   ,52.8k,16,  9 ,  1 ,  1 ,  3 ,  2 ,Yuumi,Taliyah,Sett,Diana,Olaf
+2020.0,spring,LCK,1,Afreeca,Hanwha,3.0,36:48,OK,blue,AF,   VICTORY   ,69.2k,15,  11 ,  3 ,  2 ,  4 ,  2 ,Yuumi,JarvanIV,Rumble,Ornn,Mordekaiser
+2020.0,spring,LCK,1,Afreeca,Hanwha,3.0,36:48,OK,red,HLE,   DEFEAT   ,60.2k,10,  1 ,  0 ,  0 ,  2 ,  0 ,Akali,Lucian,Sett,Aatrox,Leona
+2020.0,spring,LCK,2,SeolHaeOne Prince,Afreeca,1.0,41:38,OK,blue,APK,   DEFEAT   ,67.5k,12,  3 ,  0 ,  0 ,  3 ,  1 ,Lucian,JarvanIV,Sett,Aatrox,Renekton
+2020.0,spring,LCK,2,SeolHaeOne Prince,Afreeca,1.0,41:38,OK,red,AF,   VICTORY   ,71.7k,13,  7 ,  1 ,  1 ,  3 ,  1 ,Qiyana,Pantheon,Akali,Blitzcrank,Nautilus
+2020.0,spring,LCK,2,SeolHaeOne Prince,Afreeca,2.0,39:12,OK,blue,AF,   DEFEAT   ,56.5k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Qiyana,Pantheon,Rumble,Rakan,Ornn
+2020.0,spring,LCK,2,SeolHaeOne Prince,Afreeca,2.0,39:12,OK,red,APK,   VICTORY   ,69.5k,17,  11 ,  3 ,  2 ,  4 ,  2 ,Lucian,Akali,JarvanIV,Irelia,Aatrox
+2020.0,spring,LCK,2,SeolHaeOne Prince,Afreeca,3.0,28:48,OK,blue,APK,   DEFEAT   ,41.1k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Lucian,JarvanIV,Sett,Ashe,Varus
+2020.0,spring,LCK,2,SeolHaeOne Prince,Afreeca,3.0,28:48,OK,red,AF,   VICTORY   ,52.4k,12,  9 ,  1 ,  0 ,  3 ,  1 ,Qiyana,Olaf,Aphelios,Syndra,Ornn
+2020.0,spring,LCK,2,Griffin,Sandbox,1.0,39:05,OK,blue,GRF,   DEFEAT   ,60.0k,3,  3 ,  0 ,  0 ,  1 ,  2 ,Elise,Ornn,Sett,Irelia,Leblanc
+2020.0,spring,LCK,2,Griffin,Sandbox,1.0,39:05,OK,red,SB,   VICTORY   ,70.0k,9,  10 ,  2 ,  1 ,  5 ,  0 ,Akali,Aphelios,Lucian,Yasuo,Renekton
+2020.0,spring,LCK,2,Griffin,Sandbox,2.0,39:52,OK,blue,SB,   DEFEAT   ,66.5k,16,  5 ,  0 ,  0 ,  4 ,  1 ,Taliyah,Ornn,Renekton,Irelia,Jayce
+2020.0,spring,LCK,2,Griffin,Sandbox,2.0,39:52,OK,red,GRF,   VICTORY   ,69.8k,21,  8 ,  1 ,  0 ,  2 ,  1 ,Akali,Aatrox,Sett,Olaf,Leblanc
+2020.0,spring,LCK,2,Griffin,Sandbox,3.0,36:12,OK,blue,GRF,   VICTORY   ,62.8k,12,  7 ,  1 ,  1 ,  3 ,  1 ,Elise,Sett,Olaf,Leblanc,Zoe
+2020.0,spring,LCK,2,Griffin,Sandbox,3.0,36:12,OK,red,SB,   DEFEAT   ,58.4k,3,  4 ,  0 ,  0 ,  1 ,  1 ,Akali,Ornn,Taliyah,Yasuo,Irelia
+2020.0,spring,LCK,2,KT,T1,1.0,31:58,OK,blue,KT,   DEFEAT   ,49.6k,3,  2 ,  0 ,  0 ,  1 ,  2 ,RekSai,Gragas,Karthus,Leblanc,Sejuani
+2020.0,spring,LCK,2,KT,T1,1.0,31:58,OK,red,T1,   VICTORY   ,60.1k,12,  11 ,  3 ,  1 ,  4 ,  0 ,Pantheon,Soraka,Ornn,Leona,Rumble
+2020.0,spring,LCK,2,KT,T1,2.0,26:53,OK,blue,T1,   VICTORY   ,52.3k,9,  10 ,  2 ,  1 ,  3 ,  1 ,Pantheon,Soraka,MissFortune,Renekton,Mordekaiser
+2020.0,spring,LCK,2,KT,T1,2.0,26:53,OK,red,KT,   DEFEAT   ,40.7k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Aphelios,Sett,Akali,RekSai,Diana
+2020.0,spring,LCK,2,DragonX,Hanwha,1.0,24:17,OK,blue,DRX,   VICTORY   ,48.3k,11,  8 ,  1 ,  0 ,  3 ,  1 ,Yuumi,Renekton,Sett,Xayah,Varus
+2020.0,spring,LCK,2,DragonX,Hanwha,1.0,24:17,OK,red,HLE,   DEFEAT   ,37.5k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Lucian,Akali,Aphelios,Nautilus,Thresh
+2020.0,spring,LCK,2,DragonX,Hanwha,2.0,30:03,OK,blue,HLE,   DEFEAT   ,47.8k,10,  1 ,  0 ,  0 ,  0 ,  2 ,LeeSin,Lucian,Akali,Senna,Leblanc
+2020.0,spring,LCK,2,DragonX,Hanwha,2.0,30:03,OK,red,DRX,   VICTORY   ,59.6k,23,  8 ,  1 ,  1 ,  4 ,  0 ,Yuumi,Sett,Aphelios,Soraka,Renekton
+2020.0,spring,LCK,2,Damwon,GenG,1.0,32:28,OK,blue,DWG,   DEFEAT   ,49.3k,0,  3 ,  0 ,  0 ,  3 ,  1 ,Pantheon,Zoe,Ornn,JarvanIV,Elise
+2020.0,spring,LCK,2,Damwon,GenG,1.0,32:28,OK,red,GEN,   VICTORY   ,57.0k,7,  8 ,  1 ,  1 ,  2 ,  1 ,Akali,Mordekaiser,Syndra,LeeSin,Renekton
+2020.0,spring,LCK,2,Damwon,GenG,2.0,29:06,OK,blue,GEN,   VICTORY   ,56.7k,19,  9 ,  1 ,  1 ,  3 ,  2 ,Mordekaiser,Aatrox,Syndra,Kled,Lucian
+2020.0,spring,LCK,2,Damwon,GenG,2.0,29:06,OK,red,DWG,   DEFEAT   ,45.4k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Akali,Ornn,Zoe,Kalista,Xayah
+2020.0,spring,LCK,2,Griffin,SeolHaeOne Prince,1.0,42:02,OK,blue,GRF,   VICTORY   ,70.1k,16,  7 ,  1 ,  0 ,  4 ,  0 ,Pantheon,Soraka,Rumble,Syndra,Leblanc
+2020.0,spring,LCK,2,Griffin,SeolHaeOne Prince,1.0,42:02,OK,red,APK,   DEFEAT   ,63.7k,6,  3 ,  0 ,  0 ,  3 ,  2 ,Akali,Aphelios,Sett,JarvanIV,Elise
+2020.0,spring,LCK,2,Griffin,SeolHaeOne Prince,2.0,38:37,OK,blue,APK,   VICTORY   ,71.2k,26,  9 ,  3 ,  0 ,  4 ,  2 ,Lucian,Senna,Sett,Leblanc,Syndra
+2020.0,spring,LCK,2,Griffin,SeolHaeOne Prince,2.0,38:37,OK,red,GRF,   DEFEAT   ,68.5k,21,  4 ,  0 ,  2 ,  2 ,  0 ,Akali,Rumble,Soraka,Pantheon,Braum
+2020.0,spring,LCK,2,Griffin,SeolHaeOne Prince,3.0,46:07,OK,blue,GRF,   VICTORY   ,79.6k,13,  7 ,  1 ,  0 ,  5 ,  1 ,Qiyana,Soraka,Rumble,Pyke,Rakan
+2020.0,spring,LCK,2,Griffin,SeolHaeOne Prince,3.0,46:07,OK,red,APK,   DEFEAT   ,78.2k,9,  6 ,  0 ,  2 ,  3 ,  0 ,Akali,Sett,MissFortune,Thresh,Yasuo
+2020.0,spring,LCK,2,Afreeca,DragonX,1.0,36:17,OK,blue,AF,   VICTORY   ,67.5k,14,  10 ,  3 ,  2 ,  2 ,  1 ,Soraka,Mordekaiser,JarvanIV,Thresh,Ornn
+2020.0,spring,LCK,2,Afreeca,DragonX,1.0,36:17,OK,red,DRX,   DEFEAT   ,58.5k,4,  3 ,  0 ,  0 ,  3 ,  0 ,Akali,Lucian,Aphelios,Rakan,Ashe
+2020.0,spring,LCK,2,Afreeca,DragonX,2.0,33:29,OK,blue,DRX,   VICTORY   ,62.2k,11,  9 ,  1 ,  1 ,  1 ,  2 ,Renekton,Pantheon,Lucian,Kennen,Fiora
+2020.0,spring,LCK,2,Afreeca,DragonX,2.0,33:29,OK,red,AF,   DEFEAT   ,54.8k,12,  3 ,  0 ,  0 ,  3 ,  0 ,Akali,Sett,Aphelios,Leblanc,Mordekaiser
+2020.0,spring,LCK,2,Afreeca,DragonX,3.0,25:06,OK,blue,AF,   DEFEAT   ,42.0k,3,  4 ,  0 ,  0 ,  1 ,  1 ,Soraka,Mordekaiser,JarvanIV,Nidalee,LeeSin
+2020.0,spring,LCK,2,Afreeca,DragonX,3.0,25:06,OK,red,DRX,   VICTORY   ,46.3k,8,  7 ,  1 ,  1 ,  2 ,  1 ,Akali,Aphelios,Sett,Braum,Rakan
+2020.0,spring,LCK,2,Hanwha,Sandbox,1.0,41:50,OK,blue,HLE,   VICTORY   ,78.3k,24,  8 ,  1 ,  1 ,  4 ,  1 ,Lucian,Elise,Akali,Leblanc,Kennen
+2020.0,spring,LCK,2,Hanwha,Sandbox,1.0,41:50,OK,red,SB,   DEFEAT   ,73.3k,12,  5 ,  1 ,  1 ,  2 ,  1 ,Aphelios,Olaf,Sett,Ornn,Rumble
+2020.0,spring,LCK,2,Hanwha,Sandbox,2.0,44:07,OK,blue,SB,   DEFEAT   ,79.5k,16,  6 ,  0 ,  1 ,  3 ,  2 ,Yuumi,Olaf,Elise,Ornn,Soraka
+2020.0,spring,LCK,2,Hanwha,Sandbox,2.0,44:07,OK,red,HLE,   VICTORY   ,78.8k,14,  7 ,  1 ,  2 ,  4 ,  0 ,Lucian,Akali,Gragas,Thresh,Nautilus
+2020.0,spring,LCK,2,Damwon,KT,1.0,28:37,OK,blue,DWG,   VICTORY   ,58.9k,17,  11 ,  3 ,  1 ,  4 ,  1 ,Olaf,Aphelios,Mordekaiser,Yasuo,Braum
+2020.0,spring,LCK,2,Damwon,KT,1.0,28:37,OK,red,KT,   DEFEAT   ,43.0k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Akali,Sett,Syndra,Varus,Xayah
+2020.0,spring,LCK,2,Damwon,KT,2.0,33:02,OK,blue,KT,   DEFEAT   ,53.0k,7,  6 ,  0 ,  0 ,  1 ,  0 ,RekSai,Syndra,Akali,Leona,Mordekaiser
+2020.0,spring,LCK,2,Damwon,KT,2.0,33:02,OK,red,DWG,   VICTORY   ,62.2k,13,  9 ,  1 ,  2 ,  4 ,  2 ,Olaf,Ornn,Aphelios,Gragas,JarvanIV
+2020.0,spring,LCK,2,T1,GenG,1.0,43:40,OK,blue,T1,   VICTORY   ,74.4k,12,  7 ,  1 ,  1 ,  5 ,  1 ,Zoe,Pantheon,Ornn,Quinn,Bard
+2020.0,spring,LCK,2,T1,GenG,1.0,43:40,OK,red,GEN,   DEFEAT   ,67.7k,4,  3 ,  0 ,  1 ,  1 ,  1 ,RekSai,Sett,Soraka,Leblanc,Rumble
+2020.0,spring,LCK,2,T1,GenG,2.0,31:01,OK,blue,GEN,   VICTORY   ,56.9k,8,  8 ,  1 ,  0 ,  3 ,  2 ,Gragas,RekSai,Soraka,Renekton,Nautilus
+2020.0,spring,LCK,2,T1,GenG,2.0,31:01,OK,red,T1,   DEFEAT   ,47.1k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Ornn,Aphelios,Kalista,Kaisa
+2020.0,spring,LCK,2,T1,GenG,3.0,38:42,OK,blue,T1,   VICTORY   ,66.9k,9,  8 ,  1 ,  0 ,  4 ,  2 ,Pantheon,Zoe,Akali,Mordekaiser,Yasuo
+2020.0,spring,LCK,2,T1,GenG,3.0,38:42,OK,red,GEN,   DEFEAT   ,63.4k,4,  3 ,  0 ,  0 ,  2 ,  0 ,Soraka,Sett,Aphelios,Viktor,Nautilus
+2020.0,spring,LCK,3,GenG,Hanwha,1.0,31:59,OK,blue,GEN,   VICTORY   ,62.6k,16,  9 ,  1 ,  1 ,  4 ,  2 ,Soraka,Sett,Yuumi,LeeSin,Yasuo
+2020.0,spring,LCK,3,GenG,Hanwha,1.0,31:59,OK,red,HLE,   DEFEAT   ,49.8k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Aphelios,Xayah,Taric,TahmKench
+2020.0,spring,LCK,3,GenG,Hanwha,2.0,27:58,OK,blue,HLE,   DEFEAT   ,42.7k,4,  1 ,  0 ,  0 ,  0 ,  2 ,Kalista,Ezreal,Zoe,Gragas,Elise
+2020.0,spring,LCK,3,GenG,Hanwha,2.0,27:58,OK,red,GEN,   VICTORY   ,55.9k,20,  11 ,  3 ,  1 ,  3 ,  0 ,Soraka,Yuumi,JarvanIV,Shen,Braum
+2020.0,spring,LCK,3,DragonX,T1,1.0,34:28,OK,blue,DRX,   DEFEAT   ,55.0k,6,  3 ,  0 ,  0 ,  1 ,  2 ,Gragas,RekSai,Braum,Azir,Viktor
+2020.0,spring,LCK,3,DragonX,T1,1.0,34:28,OK,red,T1,   VICTORY   ,64.3k,19,  9 ,  2 ,  1 ,  4 ,  0 ,Aphelios,Yuumi,Zoe,Kindred,Elise
+2020.0,spring,LCK,3,DragonX,T1,2.0,34:01,OK,blue,T1,   DEFEAT   ,53.5k,5,  0 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Zoe,Elise,Rumble,LeeSin
+2020.0,spring,LCK,3,DragonX,T1,2.0,34:01,OK,red,DRX,   VICTORY   ,67.6k,15,  11 ,  3 ,  1 ,  4 ,  0 ,Gragas,Soraka,Aphelios,JarvanIV,RekSai
+2020.0,spring,LCK,3,DragonX,T1,3.0,34:54,OK,blue,DRX,   DEFEAT   ,58.9k,3,  5 ,  0 ,  1 ,  2 ,  1 ,Gragas,RekSai,Soraka,Leblanc,Azir
+2020.0,spring,LCK,3,DragonX,T1,3.0,34:54,OK,red,T1,   VICTORY   ,64.1k,14,  7 ,  1 ,  0 ,  3 ,  1 ,Aphelios,Yuumi,Zoe,Elise,Kindred
+2020.0,spring,LCK,3,Griffin,Damwon,1.0,34:40,OK,blue,GRF,   VICTORY   ,66.4k,13,  10 ,  1 ,  2 ,  5 ,  1 ,Zoe,LeeSin,Sett,Karthus,Sylas
+2020.0,spring,LCK,3,Griffin,Damwon,1.0,34:40,OK,red,DWG,   DEFEAT   ,55.7k,1,  4 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Qiyana,Ornn,Soraka,Nautilus
+2020.0,spring,LCK,3,Griffin,Damwon,2.0,28:36,OK,blue,DWG,   VICTORY   ,54.5k,6,  10 ,  2 ,  1 ,  3 ,  2 ,Azir,Aphelios,Yuumi,Olaf,Irelia
+2020.0,spring,LCK,3,Griffin,Damwon,2.0,28:36,OK,red,GRF,   DEFEAT   ,43.2k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Zoe,LeeSin,Aatrox,Lucian
+2020.0,spring,LCK,3,Griffin,Damwon,3.0,29:26,OK,blue,GRF,   DEFEAT   ,45.8k,5,  2 ,  0 ,  0 ,  1 ,  1 ,Sett,LeeSin,RekSai,Renekton,Syndra
+2020.0,spring,LCK,3,Griffin,Damwon,3.0,29:26,OK,red,DWG,   VICTORY   ,55.0k,12,  10 ,  2 ,  0 ,  3 ,  1 ,Aphelios,Ornn,Azir,Qiyana,Taliyah
+2020.0,spring,LCK,3,KT,SeolHaeOne Prince,1.0,40:36,OK,blue,KT,   DEFEAT   ,64.7k,10,  5 ,  0 ,  0 ,  3 ,  2 ,Qiyana,Soraka,Olaf,Pantheon,Leona
+2020.0,spring,LCK,3,KT,SeolHaeOne Prince,1.0,40:36,OK,red,APK,   VICTORY   ,70.0k,14,  6 ,  1 ,  1 ,  4 ,  0 ,Sett,Aphelios,JarvanIV,Kennen,TahmKench
+2020.0,spring,LCK,3,KT,SeolHaeOne Prince,2.0,34:45,OK,blue,APK,   VICTORY   ,60.4k,13,  8 ,  1 ,  1 ,  3 ,  1 ,Lucian,Sett,MissFortune,Varus,Ezreal
+2020.0,spring,LCK,3,KT,SeolHaeOne Prince,2.0,34:45,OK,red,KT,   DEFEAT   ,54.4k,6,  4 ,  0 ,  0 ,  2 ,  1 ,Soraka,Illaoi,Aphelios,JarvanIV,Qiyana
+2020.0,spring,LCK,3,Sandbox,Afreeca,1.0,44:37,OK,blue,SB,   DEFEAT   ,73.7k,11,  6 ,  0 ,  2 ,  2 ,  1 ,Soraka,Pantheon,JarvanIV,Renekton,Qiyana
+2020.0,spring,LCK,3,Sandbox,Afreeca,1.0,44:37,OK,red,AF,   VICTORY   ,78.0k,17,  8 ,  1 ,  1 ,  4 ,  1 ,Lucian,Aphelios,Syndra,Olaf,Azir
+2020.0,spring,LCK,3,Sandbox,Afreeca,2.0,34:15,OK,blue,AF,   DEFEAT   ,53.6k,7,  1 ,  0 ,  0 ,  1 ,  1 ,Soraka,Zoe,Syndra,Leblanc,Sejuani
+2020.0,spring,LCK,3,Sandbox,Afreeca,2.0,34:15,OK,red,SB,   VICTORY   ,62.0k,13,  9 ,  1 ,  0 ,  3 ,  1 ,Aphelios,Lucian,Pantheon,Gangplank,Olaf
+2020.0,spring,LCK,3,Sandbox,Afreeca,3.0,31:57,OK,blue,SB,   DEFEAT   ,48.4k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Soraka,Pantheon,Aphelios,Gangplank,Ekko
+2020.0,spring,LCK,3,Sandbox,Afreeca,3.0,31:57,OK,red,AF,   VICTORY   ,58.1k,16,  8 ,  1 ,  1 ,  4 ,  2 ,Lucian,Syndra,JarvanIV,Olaf,RekSai
+2020.0,spring,LCK,3,DragonX,GenG,1.0,36:51,OK,blue,DRX,   VICTORY   ,67.6k,11,  10 ,  3 ,  1 ,  4 ,  2 ,Sett,Morgana,Soraka,Renekton,Mordekaiser
+2020.0,spring,LCK,3,DragonX,GenG,1.0,36:51,OK,red,GEN,   DEFEAT   ,57.3k,2,  3 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Ornn,Yuumi,Thresh,TahmKench
+2020.0,spring,LCK,3,DragonX,GenG,2.0,30:55,OK,blue,GEN,   VICTORY   ,60.9k,19,  10 ,  2 ,  1 ,  3 ,  2 ,Olaf,Yuumi,Aatrox,Renekton,Karma
+2020.0,spring,LCK,3,DragonX,GenG,2.0,30:55,OK,red,DRX,   DEFEAT   ,49.2k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Ornn,Aphelios,RekSai,LeeSin
+2020.0,spring,LCK,3,DragonX,GenG,3.0,32:52,OK,blue,DRX,   DEFEAT   ,50.7k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Sett,Gragas,Soraka,Azir,Leblanc
+2020.0,spring,LCK,3,DragonX,GenG,3.0,32:52,OK,red,GEN,   VICTORY   ,60.7k,26,  7 ,  1 ,  1 ,  4 ,  2 ,Aphelios,Ornn,Zoe,Aatrox,Nautilus
+2020.0,spring,LCK,3,Hanwha,Griffin,1.0,36:41,OK,blue,HLE,   VICTORY   ,66.2k,11,  9 ,  2 ,  2 ,  5 ,  1 ,Azir,Ornn,Olaf,Renekton,Thresh
+2020.0,spring,LCK,3,Hanwha,Griffin,1.0,36:41,OK,red,GRF,   DEFEAT   ,56.5k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Soraka,Aphelios,Rumble,Shen
+2020.0,spring,LCK,3,Hanwha,Griffin,2.0,37:35,OK,blue,GRF,   VICTORY   ,71.5k,12,  9 ,  1 ,  0 ,  6 ,  2 ,Yuumi,Soraka,Sett,Camille,Kennen
+2020.0,spring,LCK,3,Hanwha,Griffin,2.0,37:35,OK,red,HLE,   DEFEAT   ,58.6k,4,  1 ,  0 ,  1 ,  0 ,  0 ,Ornn,Olaf,Aphelios,Renekton,Thresh
+2020.0,spring,LCK,3,Hanwha,Griffin,3.0,28:10,OK,blue,HLE,   VICTORY   ,56.6k,19,  9 ,  1 ,  1 ,  4 ,  2 ,Azir,Olaf,Ornn,Rumble,Zoe
+2020.0,spring,LCK,3,Hanwha,Griffin,3.0,28:10,OK,red,GRF,   DEFEAT   ,43.5k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Soraka,Aphelios,Leblanc,Syndra
+2020.0,spring,LCK,3,SeolHaeOne Prince,T1,1.0,31:37,OK,blue,APK,   DEFEAT   ,50.1k,5,  2 ,  0 ,  0 ,  1 ,  2 ,RekSai,Sett,Olaf,Lucian,Renekton
+2020.0,spring,LCK,3,SeolHaeOne Prince,T1,1.0,31:37,OK,red,T1,   VICTORY   ,57.1k,10,  9 ,  2 ,  1 ,  3 ,  0 ,Aphelios,Ornn,Soraka,Qiyana,Illaoi
+2020.0,spring,LCK,3,SeolHaeOne Prince,T1,2.0,37:21,OK,blue,T1,   VICTORY   ,71.0k,17,  10 ,  2 ,  1 ,  1 ,  0 ,Illaoi,Olaf,Soraka,Quinn,Braum
+2020.0,spring,LCK,3,SeolHaeOne Prince,T1,2.0,37:21,OK,red,APK,   DEFEAT   ,58.2k,7,  2 ,  0 ,  0 ,  4 ,  1 ,Aphelios,Sett,Ornn,Nautilus,Yuumi
+2020.0,spring,LCK,3,Afreeca,KT,1.0,32:30,OK,blue,AF,   DEFEAT   ,49.2k,3,  3 ,  0 ,  0 ,  2 ,  1 ,Renekton,Soraka,Ornn,Leblanc,Ekko
+2020.0,spring,LCK,3,Afreeca,KT,1.0,32:30,OK,red,KT,   VICTORY   ,63.1k,23,  10 ,  1 ,  1 ,  3 ,  1 ,Pantheon,Elise,Lucian,Karthus,Gragas
+2020.0,spring,LCK,3,Afreeca,KT,2.0,37:55,OK,blue,KT,   DEFEAT   ,58.0k,6,  4 ,  0 ,  0 ,  1 ,  1 ,Pantheon,Elise,Sett,Kennen,Lucian
+2020.0,spring,LCK,3,Afreeca,KT,2.0,37:55,OK,red,AF,   VICTORY   ,68.3k,19,  8 ,  1 ,  1 ,  4 ,  1 ,Ornn,Aphelios,Rumble,Zoe,Nautilus
+2020.0,spring,LCK,3,Afreeca,KT,3.0,37:01,OK,blue,AF,   DEFEAT   ,57.2k,5,  2 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Rumble,MissFortune,Yasuo,Irelia
+2020.0,spring,LCK,3,Afreeca,KT,3.0,37:01,OK,red,KT,   VICTORY   ,67.3k,15,  9 ,  2 ,  2 ,  4 ,  1 ,Pantheon,Elise,Ornn,Olaf,JarvanIV
+2020.0,spring,LCK,3,Sandbox,Damwon,1.0,32:16,OK,blue,SB,   VICTORY   ,55.9k,12,  7 ,  1 ,  0 ,  3 ,  0 ,Yuumi,Lucian,LeeSin,Nautilus,Syndra
+2020.0,spring,LCK,3,Sandbox,Damwon,1.0,32:16,OK,red,DWG,   DEFEAT   ,51.2k,5,  3 ,  0 ,  1 ,  2 ,  1 ,Aphelios,Olaf,RekSai,TahmKench,Renekton
+2020.0,spring,LCK,3,Sandbox,Damwon,2.0,34:46,OK,blue,DWG,   DEFEAT   ,61.3k,10,  4 ,  0 ,  0 ,  1 ,  1 ,Ezreal,Aphelios,Renekton,Morgana,TahmKench
+2020.0,spring,LCK,3,Sandbox,Damwon,2.0,34:46,OK,red,SB,   VICTORY   ,65.4k,23,  9 ,  3 ,  1 ,  4 ,  0 ,Ornn,Yuumi,LeeSin,Blitzcrank,Nautilus
+2020.0,spring,LCK,4,KT,Sandbox,1.0,32:26,OK,blue,KT,   DEFEAT   ,49.1k,1,  4 ,  0 ,  0 ,  3 ,  1 ,Zoe,Soraka,Olaf,Leblanc,Azir
+2020.0,spring,LCK,4,KT,Sandbox,1.0,32:26,OK,red,SB,   VICTORY   ,57.3k,10,  7 ,  1 ,  1 ,  2 ,  1 ,Aphelios,Ornn,Yuumi,Ekko,Sett
+2020.0,spring,LCK,4,KT,Sandbox,2.0,32:55,OK,blue,SB,   DEFEAT   ,51.7k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Soraka,TahmKench,Renekton,Ekko,Rumble
+2020.0,spring,LCK,4,KT,Sandbox,2.0,32:55,OK,red,KT,   VICTORY   ,63.3k,11,  9 ,  2 ,  1 ,  5 ,  2 ,Zoe,Ornn,Aphelios,LeeSin,Olaf
+2020.0,spring,LCK,4,KT,Sandbox,3.0,26:00,OK,blue,KT,   VICTORY   ,51.2k,15,  10 ,  2 ,  1 ,  4 ,  2 ,Zoe,Soraka,LeeSin,Syndra,Leblanc
+2020.0,spring,LCK,4,KT,Sandbox,3.0,26:00,OK,red,SB,   DEFEAT   ,39.7k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Ornn,Ziggs,Renekton,Gnar
+2020.0,spring,LCK,4,T1,Griffin,1.0,27:03,OK,blue,T1,   VICTORY   ,48.5k,11,  8 ,  1 ,  1 ,  3 ,  1 ,Senna,Azir,Sett,Thresh,Volibear
+2020.0,spring,LCK,4,T1,Griffin,1.0,27:03,OK,red,GRF,   DEFEAT   ,39.4k,0,  3 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Ornn,RekSai,Yuumi,Braum
+2020.0,spring,LCK,4,T1,Griffin,2.0,34:05,OK,blue,GRF,   DEFEAT   ,53.1k,9,  3 ,  0 ,  0 ,  3 ,  2 ,Soraka,RekSai,Sett,Lucian,Renekton
+2020.0,spring,LCK,4,T1,Griffin,2.0,34:05,OK,red,T1,   VICTORY   ,60.8k,19,  7 ,  1 ,  0 ,  2 ,  0 ,Aphelios,Ornn,Senna,Thresh,Volibear
+2020.0,spring,LCK,4,GenG,Afreeca,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,LCK,4,GenG,Afreeca,2.0,29:37,OK,blue,AF,   DEFEAT   ,48.7k,8,  1 ,  0 ,  0 ,  1 ,  1 ,Sett,Soraka,Yuumi,LeeSin,Trundle
+2020.0,spring,LCK,4,GenG,Afreeca,2.0,29:37,OK,red,GEN,   VICTORY   ,59.7k,21,  11 ,  3 ,  2 ,  4 ,  1 ,Aphelios,Ornn,Pantheon,Caitlyn,Kalista
+2020.0,spring,LCK,4,GenG,Afreeca,3.0,28:50,OK,blue,GEN,   VICTORY   ,56.1k,13,  9 ,  1 ,  1 ,  4 ,  2 ,Soraka,Elise,Aphelios,Renekton,Gangplank
+2020.0,spring,LCK,4,GenG,Afreeca,3.0,28:50,OK,red,AF,   DEFEAT   ,41.1k,0,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Leblanc,Ornn,Azir,Gragas
+2020.0,spring,LCK,4,Hanwha,Damwon,1.0,33:28,OK,blue,HLE,   DEFEAT   ,53.5k,5,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,Renekton,Senna,Leblanc,Nautilus
+2020.0,spring,LCK,4,Hanwha,Damwon,1.0,33:28,OK,red,DWG,   VICTORY   ,65.1k,15,  11 ,  3 ,  1 ,  5 ,  2 ,Aphelios,Ornn,Kalista,Ezreal,Quinn
+2020.0,spring,LCK,4,Hanwha,Damwon,2.0,26:49,OK,blue,DWG,   DEFEAT   ,42.4k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Azir,Soraka,Yuumi,Gragas,Sejuani
+2020.0,spring,LCK,4,Hanwha,Damwon,2.0,26:49,OK,red,HLE,   VICTORY   ,53.2k,17,  9 ,  1 ,  1 ,  2 ,  2 ,Zoe,Ornn,Leblanc,Gnar,Ekko
+2020.0,spring,LCK,4,Hanwha,Damwon,3.0,33:37,OK,blue,HLE,   DEFEAT   ,54.2k,8,  2 ,  0 ,  0 ,  3 ,  1 ,Zoe,Olaf,Renekton,Ekko,Camille
+2020.0,spring,LCK,4,Hanwha,Damwon,3.0,33:37,OK,red,DWG,   VICTORY   ,62.7k,18,  7 ,  1 ,  0 ,  2 ,  1 ,Aphelios,Ornn,Sett,Leblanc,Azir
+2020.0,spring,LCK,4,SeolHaeOne Prince,DragonX,1.0,28:10,OK,blue,APK,   DEFEAT   ,39.4k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Zoe,Lucian,Sett,Irelia,Leblanc
+2020.0,spring,LCK,4,SeolHaeOne Prince,DragonX,1.0,28:10,OK,red,DRX,   VICTORY   ,55.1k,18,  9 ,  1 ,  1 ,  4 ,  1 ,Renekton,Ornn,Aphelios,Pantheon,Syndra
+2020.0,spring,LCK,4,SeolHaeOne Prince,DragonX,2.0,31:02,OK,blue,DRX,   VICTORY   ,64.5k,25,  10 ,  3 ,  2 ,  2 ,  2 ,Renekton,Illaoi,Soraka,Leblanc,Syndra
+2020.0,spring,LCK,4,SeolHaeOne Prince,DragonX,2.0,31:02,OK,red,APK,   DEFEAT   ,48.4k,7,  1 ,  0 ,  0 ,  2 ,  0 ,Zoe,Sett,Lucian,Volibear,
+2020.0,spring,LCK,4,T1,Sandbox,1.0,30:38,OK,blue,T1,   VICTORY   ,56.2k,5,  11 ,  3 ,  1 ,  4 ,  2 ,Elise,Trundle,Ornn,Ryze,Nautilus
+2020.0,spring,LCK,4,T1,Sandbox,1.0,30:38,OK,red,SB,   DEFEAT   ,41.8k,0,  0 ,  0 ,  0 ,  0 ,  0 ,RekSai,Aphelios,Senna,Lucian,Viktor
+2020.0,spring,LCK,4,T1,Sandbox,2.0,29:44,OK,blue,SB,   DEFEAT   ,47.4k,3,  3 ,  0 ,  0 ,  1 ,  2 ,Senna,Ezreal,Leblanc,Kalista,Xayah
+2020.0,spring,LCK,4,T1,Sandbox,2.0,29:44,OK,red,T1,   VICTORY   ,59.9k,14,  11 ,  2 ,  2 ,  3 ,  0 ,Aphelios,Ornn,Olaf,Zoe,Rumble
+2020.0,spring,LCK,4,KT,Hanwha,1.0,34:25,OK,blue,KT,   VICTORY   ,62.5k,16,  10 ,  2 ,  0 ,  4 ,  2 ,Sett,Soraka,Yuumi,Thresh,Shen
+2020.0,spring,LCK,4,KT,Hanwha,1.0,34:25,OK,red,HLE,   DEFEAT   ,55.0k,10,  3 ,  0 ,  0 ,  2 ,  0 ,Ornn,Aphelios,Senna,Renekton,Lucian
+2020.0,spring,LCK,4,KT,Hanwha,2.0,30:51,OK,blue,HLE,   DEFEAT   ,47.8k,2,  3 ,  0 ,  0 ,  1 ,  0 ,Nautilus,Leblanc,Soraka,Renekton,Pantheon
+2020.0,spring,LCK,4,KT,Hanwha,2.0,30:51,OK,red,KT,   VICTORY   ,59.9k,10,  11 ,  3 ,  2 ,  4 ,  2 ,Sett,Aphelios,Ornn,Zoe,Rumble
+2020.0,spring,LCK,4,Damwon,Afreeca,1.0,25:46,OK,blue,DWG,   VICTORY   ,51.2k,13,  10 ,  2 ,  1 ,  3 ,  2 ,Pantheon,Elise,Sett,Yuumi,Ryze
+2020.0,spring,LCK,4,Damwon,Afreeca,1.0,25:46,OK,red,AF,   DEFEAT   ,38.5k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Zoe,Ornn,Nautilus,Camille
+2020.0,spring,LCK,4,Damwon,Afreeca,2.0,30:04,OK,blue,AF,   VICTORY   ,58.3k,20,  10 ,  2 ,  1 ,  3 ,  1 ,Senna,Leblanc,Zoe,LeeSin,Trundle
+2020.0,spring,LCK,4,Damwon,Afreeca,2.0,30:04,OK,red,DWG,   DEFEAT   ,52.1k,12,  6 ,  0 ,  0 ,  1 ,  1 ,Elise,Aphelios,Pantheon,Karthus,Olaf
+2020.0,spring,LCK,4,Damwon,Afreeca,3.0,42:19,OK,blue,DWG,   DEFEAT   ,67.9k,10,  1 ,  0 ,  1 ,  2 ,  2 ,Elise,Pantheon,Ornn,TahmKench,Ezreal
+2020.0,spring,LCK,4,Damwon,Afreeca,3.0,42:19,OK,red,AF,   VICTORY   ,74.9k,14,  11 ,  5 ,  1 ,  4 ,  0 ,Leblanc,Syndra,Quinn,Kayle,Renekton
+2020.0,spring,LCK,4,GenG,SeolHaeOne Prince,1.0,28:07,OK,blue,GEN,   VICTORY   ,54.6k,13,  11 ,  3 ,  1 ,  4 ,  1 ,Soraka,Illaoi,Aphelios,Olaf,Leblanc
+2020.0,spring,LCK,4,GenG,SeolHaeOne Prince,1.0,28:07,OK,red,APK,   DEFEAT   ,41.3k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Sett,Zoe,Senna,Lucian,JarvanIV
+2020.0,spring,LCK,4,GenG,SeolHaeOne Prince,2.0,32:44,OK,blue,APK,   DEFEAT   ,49.5k,5,  2 ,  0 ,  0 ,  1 ,  2 ,Zoe,Renekton,MissFortune,Leblanc,Ekko
+2020.0,spring,LCK,4,GenG,SeolHaeOne Prince,2.0,32:44,OK,red,GEN,   VICTORY   ,59.1k,16,  8 ,  1 ,  1 ,  4 ,  0 ,Soraka,Aphelios,Ornn,Olaf,Elise
+2020.0,spring,LCK,4,DragonX,Griffin,1.0,37:36,OK,blue,DRX,   VICTORY   ,70.5k,11,  10 ,  3 ,  2 ,  5 ,  2 ,Azir,Senna,Renekton,Syndra,Blitzcrank
+2020.0,spring,LCK,4,DragonX,Griffin,1.0,37:36,OK,red,GRF,   DEFEAT   ,56.7k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Zoe,LeeSin,Sett,Leblanc,Ekko
+2020.0,spring,LCK,4,DragonX,Griffin,2.0,32:21,OK,blue,GRF,   DEFEAT   ,49.3k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,Olaf,Elise,Gragas,Nidalee
+2020.0,spring,LCK,4,DragonX,Griffin,2.0,32:21,OK,red,DRX,   VICTORY   ,56.3k,12,  9 ,  1 ,  0 ,  4 ,  1 ,Aphelios,Ornn,Azir,Zac,JarvanIV
+2020.0,spring,LCK,5,Damwon,DragonX,1.0,33:08,OK,blue,DWG,   DEFEAT   ,52.4k,7,  2 ,  0 ,  0 ,  1 ,  2 ,Elise,Sett,Olaf,JarvanIV,RekSai
+2020.0,spring,LCK,5,Damwon,DragonX,1.0,33:08,OK,red,DRX,   VICTORY   ,61.9k,18,  7 ,  1 ,  1 ,  4 ,  0 ,Azir,Syndra,Zoe,Braum,Leona
+2020.0,spring,LCK,5,Damwon,DragonX,2.0,33:11,OK,blue,DRX,   VICTORY   ,69.6k,21,  10 ,  2 ,  2 ,  5 ,  2 ,Leblanc,Senna,Azir,Trundle,Renekton
+2020.0,spring,LCK,5,Damwon,DragonX,2.0,33:11,OK,red,DWG,   DEFEAT   ,53.9k,11,  2 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Sett,Ornn,Nautilus,Rumble
+2020.0,spring,LCK,5,Hanwha,SeolHaeOne Prince,1.0,31:05,OK,blue,HLE,   DEFEAT   ,49.7k,3,  3 ,  0 ,  0 ,  1 ,  2 ,Illaoi,Olaf,Ornn,Renekton,Janna
+2020.0,spring,LCK,5,Hanwha,SeolHaeOne Prince,1.0,31:05,OK,red,APK,   VICTORY   ,55.6k,8,  9 ,  2 ,  1 ,  4 ,  0 ,Senna,Aphelios,Sett,Zoe,Leblanc
+2020.0,spring,LCK,5,Hanwha,SeolHaeOne Prince,2.0,43:27,OK,blue,APK,   VICTORY   ,80.5k,20,  11 ,  3 ,  2 ,  5 ,  2 ,Yuumi,Leblanc,Sett,Renekton,Nocturne
+2020.0,spring,LCK,5,Hanwha,SeolHaeOne Prince,2.0,43:27,OK,red,HLE,   DEFEAT   ,71.3k,10,  6 ,  0 ,  0 ,  2 ,  0 ,Ornn,Aphelios,Senna,TahmKench,Taric
+2020.0,spring,LCK,5,Sandbox,GenG,1.0,47:34,OK,blue,SB,   DEFEAT   ,83.5k,18,  7 ,  1 ,  1 ,  2 ,  2 ,Azir,Leblanc,Sett,Olaf,JarvanIV
+2020.0,spring,LCK,5,Sandbox,GenG,1.0,47:34,OK,red,GEN,   VICTORY   ,91.3k,28,  7 ,  1 ,  1 ,  5 ,  0 ,Ornn,Aphelios,Senna,Aatrox,Syndra
+2020.0,spring,LCK,5,Sandbox,GenG,2.0,28:24,OK,blue,GEN,   VICTORY   ,57.1k,15,  9 ,  1 ,  1 ,  4 ,  2 ,TahmKench,Olaf,Senna,Azir,Cassiopeia
+2020.0,spring,LCK,5,Sandbox,GenG,2.0,28:24,OK,red,SB,   DEFEAT   ,42.0k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Leblanc,Aphelios,Ezreal,Kalista,Xayah
+2020.0,spring,LCK,5,Afreeca,T1,1.0,35:41,OK,blue,AF,   DEFEAT   ,54.3k,6,  3 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Senna,Aphelios,Azir,Cassiopeia
+2020.0,spring,LCK,5,Afreeca,T1,1.0,35:41,OK,red,T1,   VICTORY   ,68.2k,22,  11 ,  3 ,  1 ,  4 ,  2 ,Pantheon,Zoe,Ornn,Trundle,JarvanIV
+2020.0,spring,LCK,5,Afreeca,T1,2.0,34:12,OK,blue,T1,   DEFEAT   ,52.3k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Pantheon,Akali,Senna,Thresh,Taric
+2020.0,spring,LCK,5,Afreeca,T1,2.0,34:12,OK,red,AF,   VICTORY   ,65.4k,16,  11 ,  3 ,  2 ,  5 ,  1 ,Leblanc,Aphelios,Karma,Ezreal,Varus
+2020.0,spring,LCK,5,Afreeca,T1,3.0,41:59,OK,blue,AF,   VICTORY   ,76.5k,15,  9 ,  1 ,  1 ,  3 ,  1 ,Leblanc,Aphelios,Karma,Taric,Azir
+2020.0,spring,LCK,5,Afreeca,T1,3.0,41:59,OK,red,T1,   DEFEAT   ,69.1k,9,  3 ,  0 ,  0 ,  3 ,  0 ,Elise,Kalista,Senna,Olaf,JarvanIV
+2020.0,spring,LCK,5,Griffin,KT,1.0,36:09,OK,blue,GRF,   VICTORY   ,63.4k,12,  7 ,  1 ,  0 ,  4 ,  2 ,JarvanIV,Leblanc,Olaf,Renekton,Aatrox
+2020.0,spring,LCK,5,Griffin,KT,1.0,36:09,OK,red,KT,   DEFEAT   ,58.4k,1,  3 ,  0 ,  1 ,  1 ,  0 ,Ornn,Aphelios,Zoe,Nautilus,Sejuani
+2020.0,spring,LCK,5,Griffin,KT,2.0,33:32,OK,blue,KT,   VICTORY   ,63.8k,15,  11 ,  3 ,  1 ,  5 ,  2 ,Kalista,Varus,Yuumi,Zoe,Pantheon
+2020.0,spring,LCK,5,Griffin,KT,2.0,33:32,OK,red,GRF,   DEFEAT   ,52.0k,5,  3 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Ornn,Aphelios,Leblanc,Rumble
+2020.0,spring,LCK,5,Griffin,KT,3.0,29:37,OK,blue,GRF,   DEFEAT   ,41.2k,0,  0 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Leblanc,Olaf,Rumble,Nautilus
+2020.0,spring,LCK,5,Griffin,KT,3.0,29:37,OK,red,KT,   VICTORY   ,54.1k,11,  11 ,  4 ,  2 ,  4 ,  2 ,Ornn,Aphelios,Sett,Pantheon,Renekton
+2020.0,spring,LCK,6,GenG,Griffin,1.0,25:12,OK,blue,GRF,   DEFEAT   ,35.5k,5,  0 ,  0 ,  0 ,  1 ,  1 ,Olaf,Elise,Varus,Zoe,Galio
+2020.0,spring,LCK,6,GenG,Griffin,1.0,25:12,OK,red,GEN,   VICTORY   ,48.1k,13,  9 ,  1 ,  1 ,  3 ,  1 ,Aphelios,Senna,Taliyah,Trundle,Nautilus
+2020.0,spring,LCK,6,GenG,Griffin,2.0,26:25,OK,blue,GEN,   VICTORY   ,48.3k,11,  8 ,  1 ,  0 ,  1 ,  1 ,Rumble,Varus,Ornn,Leblanc,Azir
+2020.0,spring,LCK,6,GenG,Griffin,2.0,26:25,OK,red,GRF,   DEFEAT   ,40.0k,6,  0 ,  0 ,  0 ,  3 ,  0 ,Aphelios,Senna,Sett,Galio,Zoe
+2020.0,spring,LCK,6,Damwon,KT,1.0,28:09,OK,blue,KT,   VICTORY   ,52.9k,17,  8 ,  1 ,  0 ,  4 ,  0 ,Zoe,Sylas,Sett,Nautilus,Alistar
+2020.0,spring,LCK,6,Damwon,KT,1.0,28:09,OK,red,DWG,   DEFEAT   ,47.6k,4,  5 ,  0 ,  1 ,  0 ,  2 ,Aphelios,Senna,Olaf,Azir,Leblanc
+2020.0,spring,LCK,6,Damwon,KT,2.0,34:31,OK,blue,DWG,   VICTORY   ,65.5k,12,  11 ,  4 ,  1 ,  5 ,  2 ,Elise,Zoe,Olaf,Azir,Leblanc
+2020.0,spring,LCK,6,Damwon,KT,2.0,34:31,OK,red,KT,   DEFEAT   ,56.6k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Aphelios,Sylas,Maokai,Pantheon
+2020.0,spring,LCK,6,Damwon,KT,3.0,26:34,OK,blue,KT,   VICTORY   ,50.4k,12,  11 ,  2 ,  1 ,  4 ,  1 ,Zoe,Sylas,Sett,Nautilus,Leblanc
+2020.0,spring,LCK,6,Damwon,KT,3.0,26:34,OK,red,DWG,   DEFEAT   ,39.7k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Aphelios,Senna,Elise,Azir,Kennen
+2020.0,spring,LCK,6,Hanwha,DragonX,1.0,32:37,OK,blue,HLE,   DEFEAT   ,50.4k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Irelia,Renekton,Kaisa,Pyke,Nautilus
+2020.0,spring,LCK,6,Hanwha,DragonX,1.0,32:37,OK,red,DRX,   VICTORY   ,62.5k,21,  10 ,  2 ,  1 ,  4 ,  0 ,Aphelios,Kalista,Yuumi,JarvanIV,Gragas
+2020.0,spring,LCK,6,Hanwha,DragonX,2.0,33:41,OK,blue,DRX,   DEFEAT   ,58.5k,8,  3 ,  0 ,  0 ,  3 ,  1 ,Varus,Sett,Kalista,Renekton,Pantheon
+2020.0,spring,LCK,6,Hanwha,DragonX,2.0,33:41,OK,red,HLE,   VICTORY   ,61.6k,9,  9 ,  1 ,  1 ,  2 ,  1 ,Zoe,Olaf,Irelia,Leblanc,Morgana
+2020.0,spring,LCK,6,Hanwha,DragonX,3.0,36:34,OK,blue,HLE,   VICTORY   ,65.1k,14,  9 ,  1 ,  1 ,  4 ,  1 ,Olaf,Zoe,Ornn,Leblanc,Quinn
+2020.0,spring,LCK,6,Hanwha,DragonX,3.0,36:34,OK,red,DRX,   DEFEAT   ,60.0k,10,  4 ,  0 ,  0 ,  2 ,  1 ,Aphelios,Kalista,Sett,Gragas,Poppy
+2020.0,spring,LCK,6,Afreeca,Sandbox,1.0,31:23,OK,blue,AF,   DEFEAT   ,48.2k,4,  2 ,  0 ,  0 ,  1 ,  2 ,Elise,Varus,Ornn,Nautilus,Thresh
+2020.0,spring,LCK,6,Afreeca,Sandbox,1.0,31:23,OK,red,SB,   VICTORY   ,60.3k,16,  10 ,  2 ,  1 ,  4 ,  0 ,Aphelios,Kalista,Senna,Kennen,Kaisa
+2020.0,spring,LCK,6,Afreeca,Sandbox,2.0,37:40,OK,blue,SB,   VICTORY   ,68.3k,15,  9 ,  2 ,  1 ,  3 ,  0 ,Elise,Ornn,Varus,Leblanc,Yuumi
+2020.0,spring,LCK,6,Afreeca,Sandbox,2.0,37:40,OK,red,AF,   DEFEAT   ,58.6k,6,  3 ,  0 ,  0 ,  3 ,  2 ,Aphelios,Senna,Kalista,Nautilus,Morgana
+2020.0,spring,LCK,6,T1,SeolHaeOne Prince,1.0,23:47,OK,blue,T1,   VICTORY   ,47.1k,14,  9 ,  2 ,  1 ,  3 ,  2 ,Volibear,Varus,Olaf,MissFortune,Xayah
+2020.0,spring,LCK,6,T1,SeolHaeOne Prince,1.0,23:47,OK,red,APK,   DEFEAT   ,35.0k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Sett,Senna,Aphelios,Leblanc,Zoe
+2020.0,spring,LCK,6,T1,SeolHaeOne Prince,2.0,31:07,OK,blue,APK,   DEFEAT   ,53.7k,13,  1 ,  0 ,  0 ,  0 ,  1 ,Sett,Leblanc,Kalista,Braum,Renekton
+2020.0,spring,LCK,6,T1,SeolHaeOne Prince,2.0,31:07,OK,red,T1,   VICTORY   ,60.9k,23,  0 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Senna,Varus,Kindred,Qiyana
+2020.0,spring,LCK,6,GenG,Damwon,1.0,28:01,OK,blue,GEN,   VICTORY   ,53.6k,16,  10 ,  2 ,  1 ,  2 ,  0 ,Yuumi,Leblanc,Ornn,Renekton,Aatrox
+2020.0,spring,LCK,6,GenG,Damwon,1.0,28:01,OK,red,DWG,   DEFEAT   ,48.7k,3,  4 ,  0 ,  1 ,  2 ,  1 ,Aphelios,Senna,Taric,Varus,Morgana
+2020.0,spring,LCK,6,GenG,Damwon,2.0,35:06,OK,blue,DWG,   DEFEAT   ,58.8k,11,  8 ,  1 ,  0 ,  4 ,  2 ,Elise,Ezreal,Ornn,Nautilus,Azir
+2020.0,spring,LCK,6,GenG,Damwon,2.0,35:06,OK,red,GEN,   VICTORY   ,60.8k,9,  7 ,  1 ,  2 ,  2 ,  0 ,Aphelios,Senna,Aatrox,Renekton,Pantheon
+2020.0,spring,LCK,6,Hanwha,KT,1.0,29:02,OK,blue,HLE,   DEFEAT   ,45.6k,3,  3 ,  0 ,  0 ,  1 ,  2 ,Olaf,Ornn,Kalista,Kennen,Quinn
+2020.0,spring,LCK,6,Hanwha,KT,1.0,29:02,OK,red,KT,   VICTORY   ,54.8k,15,  8 ,  1 ,  1 ,  4 ,  0 ,Aphelios,Sett,Senna,Sivir,MissFortune
+2020.0,spring,LCK,6,Hanwha,KT,2.0,24:26,OK,blue,KT,   VICTORY   ,47.7k,18,  9 ,  2 ,  0 ,  3 ,  2 ,Sett,Sylas,Senna,Yuumi,TahmKench
+2020.0,spring,LCK,6,Hanwha,KT,2.0,24:26,OK,red,HLE,   DEFEAT   ,34.6k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Olaf,JarvanIV,Nautilus,Leblanc,Azir
+2020.0,spring,LCK,6,Sandbox,Griffin,1.0,30:36,OK,blue,SB,   DEFEAT   ,47.4k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Ornn,Varus,Leblanc,Zoe,Kennen
+2020.0,spring,LCK,6,Sandbox,Griffin,1.0,30:36,OK,red,GRF,   VICTORY   ,57.9k,23,  0 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Senna,Sejuani,LeeSin,RekSai
+2020.0,spring,LCK,6,Sandbox,Griffin,2.0,33:20,OK,blue,GRF,   DEFEAT   ,53.8k,8,  4 ,  0 ,  0 ,  3 ,  2 ,Elise,Varus,Ornn,MissFortune,Ezreal
+2020.0,spring,LCK,6,Sandbox,Griffin,2.0,33:20,OK,red,SB,   VICTORY   ,57.6k,16,  7 ,  1 ,  1 ,  1 ,  0 ,Aphelios,Kalista,Senna,Irelia,Leblanc
+2020.0,spring,LCK,6,Sandbox,Griffin,3.0,33:05,OK,blue,SB,   VICTORY   ,60.4k,11,  9 ,  1 ,  1 ,  4 ,  2 ,Rumble,Varus,Sett,Kaisa,Xayah
+2020.0,spring,LCK,6,Sandbox,Griffin,3.0,33:05,OK,red,GRF,   DEFEAT   ,46.0k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Senna,Sejuani,Leblanc,Zoe
+2020.0,spring,LCK,6,DragonX,T1,1.0,47:41,OK,blue,T1,   VICTORY   ,79.8k,11,  10 ,  2 ,  1 ,  4 ,  1 ,Zoe,Olaf,Varus,Kindred,Morgana
+2020.0,spring,LCK,6,DragonX,T1,1.0,47:41,OK,red,DRX,   DEFEAT   ,71.2k,4,  3 ,  0 ,  1 ,  3 ,  0 ,Aphelios,Senna,Azir,Renekton,JarvanIV
+2020.0,spring,LCK,6,DragonX,T1,2.0,33:04,OK,blue,DRX,   DEFEAT   ,53.3k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Azir,Varus,Kalista,Volibear,Leblanc
+2020.0,spring,LCK,6,DragonX,T1,2.0,33:04,OK,red,T1,   VICTORY   ,63.6k,16,  10 ,  2 ,  2 ,  4 ,  1 ,Zoe,Aphelios,Senna,Ezreal,Sivir
+2020.0,spring,LCK,6,Damwon,SeolHaeOne Prince,1.0,54:36,OK,blue,DWG,   VICTORY   ,106.6k,30,  11 ,  4 ,  4 ,  5 ,  2 ,Elise,Varus,Ornn,Ezreal,Xayah
+2020.0,spring,LCK,6,Damwon,SeolHaeOne Prince,1.0,54:36,OK,red,APK,   DEFEAT   ,96.6k,21,  6 ,  1 ,  1 ,  2 ,  0 ,Senna,Sett,Aphelios,Leblanc,Pantheon
+2020.0,spring,LCK,6,Damwon,SeolHaeOne Prince,2.0,33:36,OK,blue,APK,   DEFEAT   ,52.6k,7,  3 ,  0 ,  1 ,  2 ,  2 ,Sett,Leblanc,Varus,Braum,Taric
+2020.0,spring,LCK,6,Damwon,SeolHaeOne Prince,2.0,33:36,OK,red,DWG,   VICTORY   ,62.2k,21,  8 ,  1 ,  0 ,  4 ,  0 ,Aphelios,Senna,Kalista,Irelia,Azir
+2020.0,spring,LCK,6,Afreeca,GenG,1.0,39:41,OK,blue,AF,   DEFEAT   ,61.1k,10,  3 ,  0 ,  0 ,  3 ,  2 ,Azir,Varus,Ornn,Ezreal,Kaisa
+2020.0,spring,LCK,6,Afreeca,GenG,1.0,39:41,OK,red,GEN,   VICTORY   ,66.4k,17,  8 ,  1 ,  1 ,  3 ,  0 ,Aphelios,Kalista,Elise,Gragas,Karthus
+2020.0,spring,LCK,6,Afreeca,GenG,2.0,33:40,OK,blue,GEN,   VICTORY   ,58.0k,9,  10 ,  1 ,  1 ,  2 ,  1 ,Elise,Ornn,Sett,Rumble,Galio
+2020.0,spring,LCK,6,Afreeca,GenG,2.0,33:40,OK,red,AF,   DEFEAT   ,49.2k,3,  3 ,  0 ,  0 ,  3 ,  0 ,Azir,Senna,Taric,Morgana,Braum
+2020.0,spring,LCK,6,Griffin,DragonX,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,LCK,6,Griffin,DragonX,2.0,26:59,OK,blue,DRX,   VICTORY   ,55.0k,22,  9 ,  1 ,  0 ,  3 ,  2 ,Azir,Varus,Ornn,Irelia,Elise
+2020.0,spring,LCK,6,Griffin,DragonX,2.0,26:59,OK,red,GRF,   DEFEAT   ,41.2k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Aphelios,Senna,JarvanIV,Olaf
+2020.0,spring,LCK,6,T1,Hanwha,1.0,24:30,OK,blue,T1,   VICTORY   ,46.4k,14,  7 ,  1 ,  0 ,  3 ,  2 ,Yuumi,Sett,Senna,Gangplank,Zoe
+2020.0,spring,LCK,6,T1,Hanwha,1.0,24:30,OK,red,HLE,   DEFEAT   ,36.4k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Trundle,Aphelios,Leblanc,TahmKench
+2020.0,spring,LCK,6,T1,Hanwha,2.0,29:12,OK,blue,HLE,   VICTORY   ,53.9k,17,  10 ,  2 ,  1 ,  3 ,  1 ,Leblanc,Kalista,JarvanIV,Zoe,Thresh
+2020.0,spring,LCK,6,T1,Hanwha,2.0,29:12,OK,red,T1,   DEFEAT   ,46.2k,8,  1 ,  0 ,  0 ,  1 ,  1 ,Sett,Yuumi,Elise,Taric,Gangplank
+2020.0,spring,LCK,6,T1,Hanwha,3.0,39:38,OK,blue,T1,   VICTORY   ,70.5k,19,  10 ,  3 ,  1 ,  3 ,  1 ,Yuumi,Sett,Senna,Yasuo,Morgana
+2020.0,spring,LCK,6,T1,Hanwha,3.0,39:38,OK,red,HLE,   DEFEAT   ,63.0k,7,  3 ,  0 ,  1 ,  3 ,  1 ,Kalista,Aphelios,Leblanc,Kaisa,Sivir
+2020.0,spring,LCK,6,SeolHaeOne Prince,Sandbox,1.0,29:34,OK,blue,APK,   VICTORY   ,56.5k,14,  11 ,  2 ,  1 ,  2 ,  2 ,Sett,Varus,TahmKench,Kaisa,MissFortune
+2020.0,spring,LCK,6,SeolHaeOne Prince,Sandbox,1.0,29:34,OK,red,SB,   DEFEAT   ,44.6k,4,  2 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Kalista,Senna,Irelia,Leblanc
+2020.0,spring,LCK,6,SeolHaeOne Prince,Sandbox,2.0,40:06,OK,blue,SB,   DEFEAT   ,67.9k,14,  7 ,  0 ,  0 ,  3 ,  1 ,Irelia,Varus,KogMaw,Volibear,Ornn
+2020.0,spring,LCK,6,SeolHaeOne Prince,Sandbox,2.0,40:06,OK,red,APK,   VICTORY   ,72.4k,18,  7 ,  1 ,  2 ,  4 ,  1 ,Sett,Senna,Aphelios,Leblanc,Zoe
+2020.0,spring,LCK,6,KT,Afreeca,1.0,24:47,OK,blue,KT,   VICTORY   ,48.7k,18,  8 ,  1 ,  0 ,  3 ,  1 ,Elise,Sett,Sylas,Zoe,Rumble
+2020.0,spring,LCK,6,KT,Afreeca,1.0,24:47,OK,red,AF,   DEFEAT   ,35.9k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Kalista,Aphelios,Senna,Azir,Leblanc
+2020.0,spring,LCK,6,KT,Afreeca,2.0,34:48,OK,blue,AF,   VICTORY   ,61.5k,14,  10 ,  2 ,  1 ,  3 ,  1 ,Azir,Varus,Ornn,Leblanc,Kennen
+2020.0,spring,LCK,6,KT,Afreeca,2.0,34:48,OK,red,KT,   DEFEAT   ,53.5k,6,  4 ,  0 ,  0 ,  2 ,  1 ,Aphelios,Senna,Kalista,Elise,Sejuani
+2020.0,spring,LCK,6,KT,Afreeca,3.0,40:07,OK,blue,KT,   VICTORY   ,66.1k,13,  7 ,  1 ,  0 ,  4 ,  2 ,Elise,Sett,Sylas,Zoe,Azir
+2020.0,spring,LCK,6,KT,Afreeca,3.0,40:07,OK,red,AF,   DEFEAT   ,65.8k,12,  2 ,  0 ,  1 ,  1 ,  0 ,Aphelios,Kalista,Senna,Leblanc,Taric
+2020.0,spring,LCK,7,Sandbox,DragonX,1.0,29:57,OK,blue,DRX,   VICTORY   ,55.2k,9,  8 ,  1 ,  0 ,  3 ,  1 ,Leblanc,Azir,Trundle,Syndra,Viktor
+2020.0,spring,LCK,7,Sandbox,DragonX,1.0,29:57,OK,red,SB,   DEFEAT   ,46.7k,3,  2 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Zoe,JarvanIV,Elise,TahmKench
+2020.0,spring,LCK,7,Sandbox,DragonX,2.0,39:39,OK,blue,SB,   VICTORY   ,75.2k,25,  11 ,  3 ,  1 ,  3 ,  2 ,Zoe,Olaf,Varus,Taric,TahmKench
+2020.0,spring,LCK,7,Sandbox,DragonX,2.0,39:39,OK,red,DRX,   DEFEAT   ,62.8k,7,  1 ,  0 ,  0 ,  3 ,  0 ,Azir,Sett,Elise,Leblanc,Syndra
+2020.0,spring,LCK,7,Sandbox,DragonX,3.0,25:09,OK,blue,DRX,   VICTORY   ,49.2k,14,  8 ,  1 ,  1 ,  2 ,  2 ,Leblanc,Azir,Syndra,Gragas,Pantheon
+2020.0,spring,LCK,7,Sandbox,DragonX,3.0,25:09,OK,red,SB,   DEFEAT   ,36.7k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Zoe,Varus,Lucian,Renekton
+2020.0,spring,LCK,7,KT,Griffin,1.0,33:18,OK,blue,KT,   VICTORY   ,60.6k,10,  10 ,  2 ,  1 ,  5 ,  2 ,Sett,Sylas,Varus,Yuumi,Ezreal
+2020.0,spring,LCK,7,KT,Griffin,1.0,33:18,OK,red,GRF,   DEFEAT   ,50.5k,6,  3 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Elise,JarvanIV,Leblanc,Zoe
+2020.0,spring,LCK,7,KT,Griffin,2.0,36:20,OK,blue,GRF,   VICTORY   ,68.4k,15,  9 ,  2 ,  1 ,  4 ,  2 ,Sett,Leblanc,JarvanIV,Ornn,Velkoz
+2020.0,spring,LCK,7,KT,Griffin,2.0,36:20,OK,red,KT,   DEFEAT   ,54.9k,4,  3 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Senna,Sylas,Olaf,Kindred
+2020.0,spring,LCK,7,KT,Griffin,3.0,27:26,OK,blue,KT,   VICTORY   ,51.8k,11,  11 ,  3 ,  1 ,  4 ,  2 ,Sett,Azir,Varus,Rumble,Ornn
+2020.0,spring,LCK,7,KT,Griffin,3.0,27:26,OK,red,GRF,   DEFEAT   ,38.0k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Aphelios,JarvanIV,Senna,Aatrox,Leblanc
+2020.0,spring,LCK,7,GenG,T1,1.0,38:49,OK,blue,GEN,   VICTORY   ,66.8k,12,  8 ,  1 ,  0 ,  4 ,  1 ,Leblanc,Varus,Cassiopeia,Sylas,Trundle
+2020.0,spring,LCK,7,GenG,T1,1.0,38:49,OK,red,T1,   DEFEAT   ,66.2k,8,  6 ,  1 ,  1 ,  2 ,  1 ,Sett,JarvanIV,Zoe,Yuumi,TahmKench
+2020.0,spring,LCK,7,GenG,T1,2.0,27:07,OK,blue,T1,   VICTORY   ,51.2k,8,  11 ,  3 ,  1 ,  1 ,  2 ,JarvanIV,Zoe,Varus,Olaf,Elise
+2020.0,spring,LCK,7,GenG,T1,2.0,27:07,OK,red,GEN,   DEFEAT   ,41.5k,2,  2 ,  0 ,  0 ,  3 ,  0 ,Aphelios,Sett,Azir,Trundle,Leblanc
+2020.0,spring,LCK,7,GenG,T1,3.0,29:22,OK,blue,GEN,   DEFEAT   ,45.6k,3,  4 ,  0 ,  0 ,  1 ,  2 ,Leblanc,Varus,Aphelios,Kassadin,Ekko
+2020.0,spring,LCK,7,GenG,T1,3.0,29:22,OK,red,T1,   VICTORY   ,57.7k,18,  9 ,  1 ,  1 ,  4 ,  0 ,JarvanIV,Zoe,Sett,Trundle,RekSai
+2020.0,spring,LCK,7,SeolHaeOne Prince,Afreeca,1.0,36:56,OK,blue,AF,   DEFEAT   ,58.7k,14,  4 ,  0 ,  0 ,  2 ,  1 ,Varus,JarvanIV,Ornn,Elise,Maokai
+2020.0,spring,LCK,7,SeolHaeOne Prince,Afreeca,1.0,36:56,OK,red,APK,   VICTORY   ,64.7k,21,  8 ,  1 ,  1 ,  4 ,  1 ,Sett,Senna,Pantheon,Poppy,Kindred
+2020.0,spring,LCK,7,SeolHaeOne Prince,Afreeca,2.0,36:41,OK,blue,APK,   VICTORY   ,68.4k,22,  11 ,  3 ,  1 ,  2 ,  1 ,Sett,Varus,Qiyana,Rumble,Galio
+2020.0,spring,LCK,7,SeolHaeOne Prince,Afreeca,2.0,36:41,OK,red,AF,   DEFEAT   ,60.8k,19,  3 ,  0 ,  0 ,  3 ,  1 ,Azir,Senna,Taric,Zilean,Illaoi
+2020.0,spring,LCK,7,Hanwha,Damwon,1.0,26:26,OK,blue,DWG,   VICTORY   ,55.3k,19,  10 ,  2 ,  1 ,  4 ,  2 ,Elise,Varus,Trundle,Yuumi,Leblanc
+2020.0,spring,LCK,7,Hanwha,Damwon,1.0,26:26,OK,red,HLE,   DEFEAT   ,38.1k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Aphelios,Sylas,Irelia,Akali
+2020.0,spring,LCK,7,Hanwha,Damwon,2.0,25:06,OK,blue,HLE,   DEFEAT   ,35.3k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Sylas,Senna,Kalista,Akali,Aatrox
+2020.0,spring,LCK,7,Hanwha,Damwon,2.0,25:06,OK,red,DWG,   VICTORY   ,52.0k,20,  10 ,  2 ,  1 ,  4 ,  1 ,Sett,Elise,Taric,RekSai,Morgana
+2020.0,spring,LCK,7,KT,DragonX,1.0,28:23,OK,blue,KT,   DEFEAT   ,43.1k,2,  2 ,  0 ,  0 ,  1 ,  2 ,Zoe,Sylas,Sett,Taric,Leblanc
+2020.0,spring,LCK,7,KT,DragonX,1.0,28:23,OK,red,DRX,   VICTORY   ,52.5k,14,  7 ,  1 ,  0 ,  4 ,  0 ,Aphelios,Senna,Trundle,Varus,Blitzcrank
+2020.0,spring,LCK,7,KT,DragonX,2.0,27:54,OK,blue,DRX,   VICTORY   ,56.9k,19,  11 ,  2 ,  1 ,  2 ,  2 ,Trundle,Kennen,Galio,Kassadin,Rumble
+2020.0,spring,LCK,7,KT,DragonX,2.0,27:54,OK,red,KT,   DEFEAT   ,41.8k,3,  2 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Kalista,Zoe,Thresh,Leblanc
+2020.0,spring,LCK,7,GenG,Sandbox,1.0,27:56,OK,blue,GEN,   VICTORY   ,55.7k,19,  9 ,  1 ,  1 ,  3 ,  1 ,Gragas,Aatrox,Kalista,Renekton,Leblanc
+2020.0,spring,LCK,7,GenG,Sandbox,1.0,27:56,OK,red,SB,   DEFEAT   ,40.5k,3,  0 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Senna,Varus,Nautilus,Volibear
+2020.0,spring,LCK,7,GenG,Sandbox,2.0,34:32,OK,blue,SB,   DEFEAT   ,55.3k,4,  3 ,  0 ,  0 ,  4 ,  1 ,Varus,Leblanc,JarvanIV,Zoe,Irelia
+2020.0,spring,LCK,7,GenG,Sandbox,2.0,34:32,OK,red,GEN,   VICTORY   ,62.4k,13,  7 ,  1 ,  1 ,  1 ,  1 ,Aphelios,Kalista,Senna,Renekton,Aatrox
+2020.0,spring,LCK,7,T1,Griffin,1.0,38:19,OK,blue,GRF,   VICTORY   ,66.8k,10,  10 ,  2 ,  1 ,  2 ,  0 ,Leblanc,Taric,Olaf,Irelia,Aatrox
+2020.0,spring,LCK,7,T1,Griffin,1.0,38:19,OK,red,T1,   DEFEAT   ,67.1k,12,  7 ,  1 ,  1 ,  4 ,  2 ,Sett,Aphelios,JarvanIV,Ornn,Nocturne
+2020.0,spring,LCK,7,T1,Griffin,2.0,31:08,OK,blue,T1,   VICTORY   ,55.6k,7,  9 ,  2 ,  0 ,  2 ,  2 ,Varus,Lucian,Sett,JarvanIV,RekSai
+2020.0,spring,LCK,7,T1,Griffin,2.0,31:08,OK,red,GRF,   DEFEAT   ,46.2k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Olaf,Taric,Aphelios,Ornn,Nautilus
+2020.0,spring,LCK,7,T1,Griffin,3.0,30:18,OK,blue,GRF,   DEFEAT   ,47.0k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Leblanc,Olaf,Taric,Aatrox,Ornn
+2020.0,spring,LCK,7,T1,Griffin,3.0,30:18,OK,red,T1,   VICTORY   ,63.2k,20,  11 ,  1 ,  1 ,  4 ,  2 ,Sett,Aphelios,Sylas,Rumble,Trundle
+2020.0,spring,LCK,7,Afreeca,Damwon,1.0,41:40,OK,blue,AF,   DEFEAT   ,65.0k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Leblanc,Trundle,Senna,Irelia,Azir
+2020.0,spring,LCK,7,Afreeca,Damwon,1.0,41:40,OK,red,DWG,   VICTORY   ,74.7k,16,  10 ,  1 ,  2 ,  4 ,  1 ,Sett,Elise,Taric,Blitzcrank,Rumble
+2020.0,spring,LCK,7,Afreeca,Damwon,2.0,43:39,OK,blue,DWG,   VICTORY   ,77.5k,21,  8 ,  2 ,  2 ,  4 ,  1 ,Elise,Varus,Trundle,LeeSin,Sylas
+2020.0,spring,LCK,7,Afreeca,Damwon,2.0,43:39,OK,red,AF,   DEFEAT   ,69.7k,11,  6 ,  1 ,  1 ,  3 ,  1 ,Leblanc,Azir,Sett,Jayce,Rumble
+2020.0,spring,LCK,7,KT,SeolHaeOne Prince,1.0,40:26,OK,blue,APK,   VICTORY   ,76.4k,21,  11 ,  3 ,  2 ,  4 ,  2 ,Senna,Varus,Sett,Zoe,Galio
+2020.0,spring,LCK,7,KT,SeolHaeOne Prince,1.0,40:26,OK,red,KT,   DEFEAT   ,66.7k,8,  4 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Illaoi,Kalista,Zilean,Mordekaiser
+2020.0,spring,LCK,7,KT,SeolHaeOne Prince,2.0,31:02,OK,blue,KT,   VICTORY   ,60.6k,10,  11 ,  3 ,  1 ,  4 ,  1 ,Illaoi,Irelia,Varus,Leblanc,Zoe
+2020.0,spring,LCK,7,KT,SeolHaeOne Prince,2.0,31:02,OK,red,APK,   DEFEAT   ,48.3k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Senna,Aphelios,Sett,Renekton,Pantheon
+2020.0,spring,LCK,7,KT,SeolHaeOne Prince,3.0,31:00,OK,blue,APK,   VICTORY   ,60.5k,21,  8 ,  1 ,  0 ,  4 ,  2 ,Senna,Sett,Varus,Galio,Gangplank
+2020.0,spring,LCK,7,KT,SeolHaeOne Prince,3.0,31:00,OK,red,KT,   DEFEAT   ,50.6k,5,  3 ,  0 ,  1 ,  1 ,  0 ,Aphelios,Trundle,Kalista,Zilean,Illaoi
+2020.0,spring,LCK,7,Sandbox,Hanwha,1.0,36:20,OK,blue,SB,   DEFEAT   ,60.3k,9,  6 ,  1 ,  0 ,  4 ,  0 ,Yuumi,Sett,Rumble,Ornn,Maokai
+2020.0,spring,LCK,7,Sandbox,Hanwha,1.0,36:20,OK,red,HLE,   VICTORY   ,60.6k,9,  8 ,  2 ,  1 ,  2 ,  2 ,Kalista,Zoe,JarvanIV,Leblanc,Jayce
+2020.0,spring,LCK,7,Sandbox,Hanwha,2.0,29:25,OK,blue,HLE,   DEFEAT   ,44.1k,5,  2 ,  0 ,  0 ,  1 ,  1 ,Gnar,Leblanc,Kalista,Ezreal,Thresh
+2020.0,spring,LCK,7,Sandbox,Hanwha,2.0,29:25,OK,red,SB,   VICTORY   ,57.2k,22,  10 ,  2 ,  1 ,  3 ,  1 ,Aphelios,Senna,Varus,Yuumi,Morgana
+2020.0,spring,LCK,7,Sandbox,Hanwha,3.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,LCK,7,DragonX,GenG,1.0,34:23,OK,blue,GEN,   DEFEAT   ,53.9k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Olaf,Lucian,Aatrox,Taric,Thresh
+2020.0,spring,LCK,7,DragonX,GenG,1.0,34:23,OK,red,DRX,   VICTORY   ,67.4k,18,  9 ,  1 ,  2 ,  4 ,  1 ,Aphelios,Senna,Sett,Sylas,Akali
+2020.0,spring,LCK,7,DragonX,GenG,2.0,41:27,OK,blue,DRX,   VICTORY   ,75.5k,13,  9 ,  2 ,  1 ,  4 ,  2 ,JarvanIV,Varus,Trundle,Zilean,Akali
+2020.0,spring,LCK,7,DragonX,GenG,2.0,41:27,OK,red,GEN,   DEFEAT   ,66.6k,5,  3 ,  0 ,  1 ,  3 ,  0 ,Kalista,Aphelios,Sett,Volibear,Zoe
+2020.0,spring,LCK,7,T1,Damwon,1.0,25:44,OK,blue,DWG,   VICTORY   ,49.0k,10,  9 ,  1 ,  1 ,  4 ,  2 ,Leblanc,Varus,Olaf,Taric,Thresh
+2020.0,spring,LCK,7,T1,Damwon,1.0,25:44,OK,red,T1,   DEFEAT   ,39.7k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Kalista,Sett,Maokai,TahmKench
+2020.0,spring,LCK,7,T1,Damwon,2.0,31:38,OK,blue,T1,   DEFEAT   ,51.8k,7,  0 ,  0 ,  1 ,  1 ,  1 ,Sylas,Jayce,Kalista,Leblanc,Kassadin
+2020.0,spring,LCK,7,T1,Damwon,2.0,31:38,OK,red,DWG,   VICTORY   ,62.4k,17,  9 ,  2 ,  0 ,  4 ,  1 ,Sett,Aphelios,Olaf,Thresh,Rumble
+2020.0,spring,LCK,7,Griffin,SeolHaeOne Prince,1.0,36:41,OK,blue,APK,   DEFEAT   ,60.5k,4,  5 ,  0 ,  1 ,  5 ,  2 ,Sett,Varus,Senna,Nautilus,Aatrox
+2020.0,spring,LCK,7,Griffin,SeolHaeOne Prince,1.0,36:41,OK,red,GRF,   VICTORY   ,61.7k,14,  7 ,  1 ,  0 ,  0 ,  0 ,Aphelios,Taric,Leblanc,Illaoi,Zilean
+2020.0,spring,LCK,7,Griffin,SeolHaeOne Prince,2.0,29:27,OK,blue,GRF,   DEFEAT   ,45.3k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Irelia,Taric,Leblanc,Mordekaiser,Ornn
+2020.0,spring,LCK,7,Griffin,SeolHaeOne Prince,2.0,29:27,OK,red,APK,   VICTORY   ,57.1k,12,  11 ,  3 ,  1 ,  4 ,  2 ,Sett,Senna,Aphelios,Nocturne,JarvanIV
+2020.0,spring,LCK,7,Griffin,SeolHaeOne Prince,3.0,35:56,OK,blue,APK,   DEFEAT   ,58.7k,10,  2 ,  0 ,  0 ,  0 ,  2 ,Sett,Varus,Senna,Leona,Braum
+2020.0,spring,LCK,7,Griffin,SeolHaeOne Prince,3.0,35:56,OK,red,GRF,   VICTORY   ,69.4k,19,  10 ,  2 ,  1 ,  5 ,  0 ,Aphelios,Taric,Leblanc,Zoe,Ornn
+2020.0,spring,LCK,7,Afreeca,Hanwha,1.0,30:05,OK,blue,HLE,   VICTORY   ,53.9k,16,  7 ,  1 ,  0 ,  1 ,  1 ,Elise,Sylas,Jayce,LeeSin,Akali
+2020.0,spring,LCK,7,Afreeca,Hanwha,1.0,30:05,OK,red,AF,   DEFEAT   ,46.1k,7,  2 ,  0 ,  0 ,  3 ,  0 ,Yuumi,Aphelios,Senna,Kassadin,Lissandra
+2020.0,spring,LCK,7,Afreeca,Hanwha,2.0,28:44,OK,blue,AF,   DEFEAT   ,44.4k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Yuumi,Senna,Trundle,Kassadin,Sylas
+2020.0,spring,LCK,7,Afreeca,Hanwha,2.0,28:44,OK,red,HLE,   VICTORY   ,52.0k,21,  7 ,  1 ,  0 ,  4 ,  1 ,Elise,Kalista,Jayce,Gnar,Morgana
+2020.0,spring,LCK,8,Damwon,Griffin,1.0,39:23,OK,blue,DWG,   DEFEAT   ,63.3k,2,  3 ,  0 ,  0 ,  3 ,  1 ,Olaf,Varus,Trundle,Nocturne,Kassadin
+2020.0,spring,LCK,8,Damwon,Griffin,1.0,39:23,OK,red,GRF,   VICTORY   ,70.3k,12,  7 ,  1 ,  1 ,  3 ,  1 ,Senna,Sett,Thresh,Sylas,Akali
+2020.0,spring,LCK,8,Damwon,Griffin,2.0,27:52,OK,blue,GRF,   VICTORY   ,53.7k,13,  9 ,  2 ,  1 ,  4 ,  2 ,Taric,Senna,Trundle,Gangplank,Sylas
+2020.0,spring,LCK,8,Damwon,Griffin,2.0,27:52,OK,red,DWG,   DEFEAT   ,43.0k,1,  2 ,  0 ,  0 ,  0 ,  0 ,Sett,Aphelios,Olaf,Qiyana,Gragas
+2020.0,spring,LCK,8,SeolHaeOne Prince,GenG,1.0,31:14,OK,blue,APK,   DEFEAT   ,49.4k,5,  0 ,  0 ,  0 ,  0 ,  1 ,Sett,Varus,Senna,Yuumi,Nautilus
+2020.0,spring,LCK,8,SeolHaeOne Prince,GenG,1.0,31:14,OK,red,GEN,   VICTORY   ,61.0k,19,  10 ,  2 ,  1 ,  4 ,  1 ,Aphelios,Trundle,Leblanc,Elise,Gragas
+2020.0,spring,LCK,8,SeolHaeOne Prince,GenG,2.0,50:03,OK,blue,GEN,   DEFEAT   ,84.2k,22,  6 ,  2 ,  0 ,  4 ,  2 ,Leblanc,JarvanIV,Aphelios,Illaoi,Taric
+2020.0,spring,LCK,8,SeolHaeOne Prince,GenG,2.0,50:03,OK,red,APK,   VICTORY   ,90.0k,24,  10 ,  2 ,  3 ,  4 ,  0 ,Sett,Senna,Varus,Yuumi,Nautilus
+2020.0,spring,LCK,8,SeolHaeOne Prince,GenG,3.0,29:50,OK,blue,APK,   DEFEAT   ,42.3k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Sett,Varus,Senna,Yuumi,Akali
+2020.0,spring,LCK,8,SeolHaeOne Prince,GenG,3.0,29:50,OK,red,GEN,   VICTORY   ,58.4k,17,  11 ,  2 ,  1 ,  4 ,  1 ,Aphelios,Trundle,Kalista,Illaoi,Aatrox
+2020.0,spring,LCK,8,T1,Sandbox,1.0,31:37,OK,blue,SB,   DEFEAT   ,50.8k,4,  3 ,  0 ,  0 ,  3 ,  2 ,Leblanc,Trundle,Kalista,Sett,Jayce
+2020.0,spring,LCK,8,T1,Sandbox,1.0,31:37,OK,red,T1,   VICTORY   ,60.8k,13,  11 ,  3 ,  0 ,  2 ,  0 ,Aphelios,Senna,Varus,Yuumi,TahmKench
+2020.0,spring,LCK,8,T1,Sandbox,2.0,31:38,OK,blue,T1,   VICTORY   ,59.7k,16,  8 ,  1 ,  0 ,  3 ,  2 ,Gragas,Senna,Varus,Sett,Irelia
+2020.0,spring,LCK,8,T1,Sandbox,2.0,31:38,OK,red,SB,   DEFEAT   ,50.0k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Leblanc,Kalista,Azir,Ornn
+2020.0,spring,LCK,8,Griffin,Afreeca,1.0,39:21,OK,blue,AF,   VICTORY   ,75.2k,21,  11 ,  3 ,  2 ,  4 ,  1 ,Azir,Aphelios,Ornn,Ekko,Irelia
+2020.0,spring,LCK,8,Griffin,Afreeca,1.0,39:21,OK,red,GRF,   DEFEAT   ,62.5k,5,  2 ,  0 ,  0 ,  2 ,  1 ,Elise,Taric,Sett,Aatrox,Syndra
+2020.0,spring,LCK,8,Griffin,Afreeca,2.0,35:39,OK,blue,GRF,   DEFEAT   ,55.1k,10,  2 ,  0 ,  0 ,  1 ,  1 ,Elise,Sylas,JarvanIV,Renekton,Aatrox
+2020.0,spring,LCK,8,Griffin,Afreeca,2.0,35:39,OK,red,AF,   VICTORY   ,62.0k,13,  10 ,  1 ,  1 ,  4 ,  1 ,Azir,Aphelios,Taric,Leblanc,Zoe
+2020.0,spring,LCK,8,DragonX,Damwon,1.0,27:06,OK,blue,DRX,   VICTORY   ,55.8k,17,  10 ,  2 ,  1 ,  3 ,  2 ,Jayce,Corki,Kalista,Kassadin,Lissandra
+2020.0,spring,LCK,8,DragonX,Damwon,1.0,27:06,OK,red,DWG,   DEFEAT   ,41.0k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Senna,Varus,Taric,TahmKench
+2020.0,spring,LCK,8,DragonX,Damwon,2.0,33:49,OK,blue,DWG,   VICTORY   ,67.8k,20,  10 ,  2 ,  1 ,  4 ,  2 ,Zoe,Ornn,Varus,Aatrox,Karma
+2020.0,spring,LCK,8,DragonX,Damwon,2.0,33:49,OK,red,DRX,   DEFEAT   ,55.5k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Senna,Kalista,Kassadin,Corki
+2020.0,spring,LCK,8,DragonX,Damwon,3.0,42:24,OK,blue,DRX,   VICTORY   ,79.3k,15,  7 ,  1 ,  1 ,  3 ,  0 ,Jayce,Corki,Kalista,Zilean,Lucian
+2020.0,spring,LCK,8,DragonX,Damwon,3.0,42:24,OK,red,DWG,   DEFEAT   ,78.2k,12,  10 ,  2 ,  2 ,  3 ,  2 ,Zoe,Senna,Varus,Thresh,Aatrox
+2020.0,spring,LCK,8,KT,T1,1.0,35:48,OK,blue,T1,   DEFEAT   ,54.8k,3,  3 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Sett,Olaf,Irelia,Renekton
+2020.0,spring,LCK,8,KT,T1,1.0,35:48,OK,red,KT,   VICTORY   ,66.5k,8,  10 ,  2 ,  2 ,  5 ,  2 ,Aphelios,Trundle,Gragas,Lucian,Jayce
+2020.0,spring,LCK,8,KT,T1,2.0,37:26,OK,blue,KT,   VICTORY   ,68.7k,14,  10 ,  4 ,  1 ,  3 ,  2 ,Gragas,Trundle,Varus,Nautilus,Akali
+2020.0,spring,LCK,8,KT,T1,2.0,37:26,OK,red,T1,   DEFEAT   ,64.0k,10,  3 ,  0 ,  1 ,  2 ,  0 ,Aphelios,Senna,Kalista,Renekton,Aatrox
+2020.0,spring,LCK,8,Hanwha,SeolHaeOne Prince,1.0,33:39,OK,blue,APK,   VICTORY   ,62.1k,15,  9 ,  1 ,  2 ,  2 ,  0 ,Varus,Sett,Senna,RekSai,Kindred
+2020.0,spring,LCK,8,Hanwha,SeolHaeOne Prince,1.0,33:39,OK,red,HLE,   DEFEAT   ,53.0k,9,  2 ,  0 ,  0 ,  2 ,  2 ,Aphelios,Kalista,Ornn,Yuumi,Zilean
+2020.0,spring,LCK,8,Hanwha,SeolHaeOne Prince,2.0,40:36,OK,blue,HLE,   VICTORY   ,73.3k,16,  10 ,  3 ,  1 ,  5 ,  2 ,Leblanc,Ornn,Aphelios,Syndra,Zilean
+2020.0,spring,LCK,8,Hanwha,SeolHaeOne Prince,2.0,40:36,OK,red,APK,   DEFEAT   ,65.6k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Varus,Senna,JarvanIV,RekSai
+2020.0,spring,LCK,8,Hanwha,SeolHaeOne Prince,3.0,38:47,OK,blue,APK,   VICTORY   ,68.5k,9,  11 ,  4 ,  2 ,  4 ,  0 ,Varus,Sett,Senna,RekSai,Kindred
+2020.0,spring,LCK,8,Hanwha,SeolHaeOne Prince,3.0,38:47,OK,red,HLE,   DEFEAT   ,63.2k,5,  6 ,  0 ,  0 ,  2 ,  2 ,Aphelios,Kalista,Ornn,Yuumi,Zilean
+2020.0,spring,LCK,8,Sandbox,KT,1.0,31:01,OK,blue,SB,   DEFEAT   ,49.0k,4,  2 ,  0 ,  0 ,  1 ,  2 ,Leblanc,JarvanIV,Kalista,Kassadin,Ekko
+2020.0,spring,LCK,8,Sandbox,KT,1.0,31:01,OK,red,KT,   VICTORY   ,54.7k,14,  8 ,  1 ,  0 ,  3 ,  0 ,Aphelios,Senna,Zoe,Nautilus,Volibear
+2020.0,spring,LCK,8,Sandbox,KT,2.0,24:22,OK,blue,KT,   VICTORY   ,49.3k,14,  9 ,  1 ,  1 ,  3 ,  0 ,Zoe,Trundle,Varus,Sylas,Kennen
+2020.0,spring,LCK,8,Sandbox,KT,2.0,24:22,OK,red,SB,   DEFEAT   ,36.4k,1,  0 ,  0 ,  0 ,  0 ,  2 ,Aphelios,Kalista,Senna,Zilean,Leblanc
+2020.0,spring,LCK,8,DragonX,Afreeca,1.0,26:09,OK,blue,DRX,   VICTORY   ,52.8k,15,  11 ,  2 ,  1 ,  3 ,  1 ,Elise,Kalista,Trundle,Maokai,TahmKench
+2020.0,spring,LCK,8,DragonX,Afreeca,1.0,26:09,OK,red,AF,   DEFEAT   ,40.1k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Aphelios,Sett,Zoe,Karma,Leblanc
+2020.0,spring,LCK,8,DragonX,Afreeca,2.0,28:05,OK,blue,AF,   VICTORY   ,49.2k,11,  7 ,  1 ,  1 ,  4 ,  2 ,Zoe,Sett,Ornn,Azir,Karma
+2020.0,spring,LCK,8,DragonX,Afreeca,2.0,28:05,OK,red,DRX,   DEFEAT   ,42.6k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Senna,Pantheon,Lucian,
+2020.0,spring,LCK,8,DragonX,Afreeca,3.0,35:47,OK,blue,DRX,   VICTORY   ,69.4k,18,  8 ,  1 ,  0 ,  3 ,  1 ,Elise,Kalista,Jayce,Pantheon,Lucian
+2020.0,spring,LCK,8,DragonX,Afreeca,3.0,35:47,OK,red,AF,   DEFEAT   ,57.1k,10,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Sett,Trundle,Thresh,Azir
+2020.0,spring,LCK,8,Hanwha,GenG,1.0,36:55,OK,blue,HLE,   DEFEAT   ,58.2k,6,  3 ,  0 ,  0 ,  3 ,  1 ,Akali,Ornn,Jayce,Sylas,Leblanc
+2020.0,spring,LCK,8,Hanwha,GenG,1.0,36:55,OK,red,GEN,   VICTORY   ,67.6k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Sett,Senna,Gragas,Camille,Kennen
+2020.0,spring,LCK,8,Hanwha,GenG,2.0,42:22,OK,blue,GEN,   DEFEAT   ,71.6k,19,  5 ,  1 ,  1 ,  2 ,  1 ,Senna,Sett,Yuumi,Sylas,Taric
+2020.0,spring,LCK,8,Hanwha,GenG,2.0,42:22,OK,red,HLE,   VICTORY   ,74.5k,21,  7 ,  2 ,  1 ,  4 ,  1 ,Aphelios,Kalista,Trundle,Galio,Azir
+2020.0,spring,LCK,8,Hanwha,GenG,3.0,31:28,OK,blue,HLE,   VICTORY   ,55.6k,14,  7 ,  1 ,  1 ,  4 ,  1 ,Azir,Trundle,Kalista,Yuumi,Zoe
+2020.0,spring,LCK,8,Hanwha,GenG,3.0,31:28,OK,red,GEN,   DEFEAT   ,48.8k,7,  2 ,  0 ,  0 ,  1 ,  1 ,Sett,Senna,Aphelios,Kayle,Camille
+2020.0,spring,LCK,9,GenG,KT,1.0,40:11,OK,blue,GEN,   DEFEAT   ,63.2k,7,  1 ,  0 ,  0 ,  3 ,  0 ,Trundle,Yuumi,Leblanc,Aatrox,Zilean
+2020.0,spring,LCK,9,GenG,KT,1.0,40:11,OK,red,KT,   VICTORY   ,72.4k,21,  9 ,  3 ,  1 ,  3 ,  2 ,Aphelios,Senna,Zoe,JarvanIV,Elise
+2020.0,spring,LCK,9,GenG,KT,2.0,26:38,OK,blue,KT,   DEFEAT   ,41.3k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Leblanc,Varus,Rakan,Azir
+2020.0,spring,LCK,9,GenG,KT,2.0,26:38,OK,red,GEN,   VICTORY   ,53.6k,13,  10 ,  2 ,  1 ,  4 ,  2 ,Trundle,Senna,Taric,Zilean,Velkoz
+2020.0,spring,LCK,9,GenG,KT,3.0,35:34,OK,blue,GEN,   VICTORY   ,62.7k,10,  7 ,  1 ,  1 ,  2 ,  2 ,Trundle,Jayce,Yuumi,Aatrox,Sett
+2020.0,spring,LCK,9,GenG,KT,3.0,35:34,OK,red,KT,   DEFEAT   ,61.4k,8,  6 ,  0 ,  1 ,  4 ,  0 ,Aphelios,Senna,Zoe,Braum,Sylas
+2020.0,spring,LCK,9,Afreeca,T1,1.0,28:13,OK,blue,T1,   VICTORY   ,55.1k,14,  8 ,  1 ,  1 ,  2 ,  1 ,Elise,Kalista,Pantheon,Galio,Leblanc
+2020.0,spring,LCK,9,Afreeca,T1,1.0,28:13,OK,red,AF,   DEFEAT   ,43.4k,5,  1 ,  0 ,  0 ,  2 ,  0 ,Azir,Ornn,Sett,Zoe,Taric
+2020.0,spring,LCK,9,Afreeca,T1,2.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,LCK,9,Damwon,Sandbox,1.0,35:07,OK,blue,DWG,   DEFEAT   ,54.2k,4,  3 ,  0 ,  0 ,  2 ,  2 ,Qiyana,Olaf,Kalista,Yuumi,Gnar
+2020.0,spring,LCK,9,Damwon,Sandbox,1.0,35:07,OK,red,SB,   VICTORY   ,65.6k,17,  9 ,  2 ,  1 ,  4 ,  0 ,Aphelios,Senna,Varus,Kassadin,Sylas
+2020.0,spring,LCK,9,Damwon,Sandbox,2.0,31:40,OK,blue,SB,   DEFEAT   ,50.5k,11,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Sylas,Aphelios,Irelia,TahmKench
+2020.0,spring,LCK,9,Damwon,Sandbox,2.0,31:40,OK,red,DWG,   VICTORY   ,63.8k,16,  10 ,  2 ,  2 ,  4 ,  2 ,Senna,Qiyana,Trundle,Taric,Yuumi
+2020.0,spring,LCK,9,Damwon,Sandbox,3.0,32:19,OK,blue,DWG,   VICTORY   ,62.9k,14,  11 ,  2 ,  1 ,  4 ,  2 ,Qiyana,Leblanc,Sett,Kennen,Aatrox
+2020.0,spring,LCK,9,Damwon,Sandbox,3.0,32:19,OK,red,SB,   DEFEAT   ,49.6k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Senna,Varus,Thresh,Yuumi
+2020.0,spring,LCK,9,Griffin,Hanwha,1.0,34:34,OK,blue,GRF,   VICTORY   ,66.3k,11,  2 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Taric,Elise,Lucian,Kassadin
+2020.0,spring,LCK,9,Griffin,Hanwha,1.0,34:34,OK,red,HLE,   DEFEAT   ,54.8k,2,  3 ,  0 ,  0 ,  3 ,  2 ,Aphelios,Rumble,Gragas,Jayce,Azir
+2020.0,spring,LCK,9,Griffin,Hanwha,2.0,29:17,OK,blue,HLE,   DEFEAT   ,44.1k,1,  2 ,  0 ,  0 ,  1 ,  1 ,Ornn,Varus,Gragas,Galio,Azir
+2020.0,spring,LCK,9,Griffin,Hanwha,2.0,29:17,OK,red,GRF,   VICTORY   ,57.2k,13,  11 ,  3 ,  1 ,  3 ,  0 ,Sett,Elise,Yuumi,Trundle,Sejuani
+2020.0,spring,LCK,9,SeolHaeOne Prince,DragonX,1.0,25:12,OK,blue,DRX,   VICTORY   ,48.4k,17,  8 ,  1 ,  0 ,  3 ,  2 ,Illaoi,Trundle,Kalista,MissFortune,Ezreal
+2020.0,spring,LCK,9,SeolHaeOne Prince,DragonX,1.0,25:12,OK,red,APK,   DEFEAT   ,37.5k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Sett,Varus,Senna,Nautilus,Volibear
+2020.0,spring,LCK,9,SeolHaeOne Prince,DragonX,2.0,29:30,OK,blue,APK,   VICTORY   ,56.1k,14,  9 ,  1 ,  1 ,  1 ,  2 ,Sett,Varus,Senna,Akali,Zoe
+2020.0,spring,LCK,9,SeolHaeOne Prince,DragonX,2.0,29:30,OK,red,DRX,   DEFEAT   ,43.9k,5,  0 ,  0 ,  0 ,  2 ,  0 ,Leblanc,Trundle,Olaf,Irelia,Kassadin
+2020.0,spring,LCK,9,SeolHaeOne Prince,DragonX,3.0,24:36,OK,blue,DRX,   VICTORY   ,56.0k,37,  10 ,  1 ,  1 ,  2 ,  0 ,Illaoi,Kalista,Trundle,Ornn,Malphite
+2020.0,spring,LCK,9,SeolHaeOne Prince,DragonX,3.0,24:36,OK,red,APK,   DEFEAT   ,36.9k,9,  0 ,  0 ,  0 ,  0 ,  1 ,Sett,Senna,Aphelios,TahmKench,Braum

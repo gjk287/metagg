@@ -1,0 +1,182 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,TCL,1,1907 Fenerbahce,Papara SuperMassive,1.0,28:21,OK,blue,SUP,   VICTORY   ,53.9k,18,  8 ,  1 ,  1 ,  3 ,  0 ,Yuumi,Irelia,Aatrox,Braum,Morgana
+2019.0,summer,TCL,1,1907 Fenerbahce,Papara SuperMassive,1.0,28:21,OK,red,FB,   DEFEAT   ,45.4k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Zoe,Alistar,Sivir,Leblanc,Xayah
+2019.0,summer,TCL,1,Besiktas Esports,Bursaspor,1.0,28:35,OK,blue,BJK,   VICTORY   ,53.8k,10,  7 ,  1 ,  1 ,  2 ,  1 ,Rakan,Lux,Aatrox,Olaf,Trundle
+2019.0,summer,TCL,1,Besiktas Esports,Bursaspor,1.0,28:35,OK,red,BUR,   DEFEAT   ,47.9k,0,  3 ,  0 ,  0 ,  2 ,  0 ,Irelia,Yuumi,Jayce,Nautilus,Sivir
+2019.0,summer,TCL,1,Dark Passage,Galakticos,1.0,46:30,OK,blue,DP,   VICTORY   ,88.2k,24,  10 ,  2 ,  1 ,  1 ,  1 ,Sylas,Aatrox,Yuumi,JarvanIV,Akali
+2019.0,summer,TCL,1,Dark Passage,Galakticos,1.0,46:30,OK,red,GAL,   DEFEAT   ,83.4k,14,  11 ,  5 ,  2 ,  6 ,  0 ,Nautilus,Taric,Irelia,Jayce,Sejuani
+2019.0,summer,TCL,1,Galatasaray,Istanbul Wildcats,1.0,25:45,OK,blue,GS,   DEFEAT   ,40.9k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Kindred,Irelia,Aatrox,Sivir,Sona
+2019.0,summer,TCL,1,Galatasaray,Istanbul Wildcats,1.0,25:45,OK,red,IW,   VICTORY   ,51.5k,20,  8 ,  1 ,  1 ,  2 ,  1 ,RekSai,Thresh,Yuumi,TahmKench,Morgana
+2019.0,summer,TCL,1,Team Aurora,Royal Youth,1.0,25:41,OK,blue,RYL,   VICTORY   ,54.2k,18,  10 ,  1 ,  1 ,  3 ,  0 ,Yuumi,Jayce,Sejuani,Renekton,Jax
+2019.0,summer,TCL,1,Team Aurora,Royal Youth,1.0,25:41,OK,red,AUR,   DEFEAT   ,38.3k,6,  1 ,  0 ,  0 ,  0 ,  1 ,Sylas,Ryze,Aatrox,Draven,Lucian
+2019.0,summer,TCL,1,Galakticos,Besiktas Esports,1.0,36:05,OK,blue,BJK,   DEFEAT   ,58.8k,7,  3 ,  0 ,  0 ,  3 ,  0 ,Rakan,Nautilus,Aatrox,Thresh,RekSai
+2019.0,summer,TCL,1,Galakticos,Besiktas Esports,1.0,36:05,OK,red,GAL,   VICTORY   ,67.4k,11,  10 ,  3 ,  2 ,  2 ,  1 ,Sona,Sejuani,Irelia,Yasuo,Jayce
+2019.0,summer,TCL,1,Bursaspor,1907 Fenerbahce,1.0,47:19,OK,blue,BUR,   DEFEAT   ,75.6k,6,  3 ,  0 ,  1 ,  3 ,  0 ,Sona,Irelia,Draven,Camille,Jayce
+2019.0,summer,TCL,1,Bursaspor,1907 Fenerbahce,1.0,47:19,OK,red,FB,   VICTORY   ,85.3k,17,  10 ,  4 ,  2 ,  5 ,  1 ,Sylas,Aatrox,Yuumi,Kindred,Olaf
+2019.0,summer,TCL,1,Royal Youth,Papara SuperMassive,1.0,47:09,OK,blue,SUP,   DEFEAT   ,86.3k,20,  8 ,  1 ,  2 ,  3 ,  0 ,Yuumi,Irelia,Aatrox,Morgana,Xayah
+2019.0,summer,TCL,1,Royal Youth,Papara SuperMassive,1.0,47:09,OK,red,RYL,   VICTORY   ,90.9k,18,  11 ,  4 ,  1 ,  4 ,  1 ,Sylas,Sejuani,Olaf,Kaisa,Lucian
+2019.0,summer,TCL,1,Istanbul Wildcats,Team Aurora,1.0,34:00,OK,blue,IW,   DEFEAT   ,54.7k,10,  1 ,  0 ,  1 ,  1 ,  0 ,Yuumi,Azir,Elise,Fiora,Renekton
+2019.0,summer,TCL,1,Istanbul Wildcats,Team Aurora,1.0,34:00,OK,red,AUR,   VICTORY   ,65.7k,20,  10 ,  2 ,  0 ,  3 ,  1 ,Irelia,Sylas,Ryze,Rakan,Nautilus
+2019.0,summer,TCL,1,Galatasaray,Dark Passage,1.0,31:03,OK,blue,GS,   VICTORY   ,60.2k,18,  10 ,  3 ,  2 ,  3 ,  1 ,Sylas,Sejuani,Irelia,Orianna,Syndra
+2019.0,summer,TCL,1,Galatasaray,Dark Passage,1.0,31:03,OK,red,DP,   DEFEAT   ,47.2k,6,  1 ,  0 ,  0 ,  1 ,  0 ,RekSai,Yuumi,Ryze,Lux,Thresh
+2019.0,summer,TCL,2,1907 Fenerbahce,Royal Youth,1.0,38:11,OK,blue,RYL,   DEFEAT   ,60.7k,6,  3 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Renekton,Jayce,Gnar,JarvanIV
+2019.0,summer,TCL,2,1907 Fenerbahce,Royal Youth,1.0,38:11,OK,red,FB,   VICTORY   ,73.4k,25,  10 ,  4 ,  2 ,  6 ,  1 ,Sylas,Irelia,Aatrox,Leblanc,Neeko
+2019.0,summer,TCL,2,Papara SuperMassive,Istanbul Wildcats,1.0,22:20,OK,blue,IW,   DEFEAT   ,36.1k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Zoe,Neeko,Olaf,Nautilus,Alistar
+2019.0,summer,TCL,2,Papara SuperMassive,Istanbul Wildcats,1.0,22:20,OK,red,SUP,   VICTORY   ,47.1k,19,  8 ,  1 ,  0 ,  2 ,  1 ,Sona,Riven,Kindred,Braum,Sivir
+2019.0,summer,TCL,2,Besiktas Esports,Galatasaray,1.0,31:24,OK,blue,GS,   VICTORY   ,63.0k,23,  10 ,  2 ,  1 ,  4 ,  1 ,Irelia,Sylas,Sona,Karthus,Kindred
+2019.0,summer,TCL,2,Besiktas Esports,Galatasaray,1.0,31:24,OK,red,BJK,   DEFEAT   ,45.4k,3,  0 ,  0 ,  0 ,  1 ,  0 ,RekSai,Vladimir,Sejuani,XinZhao,Elise
+2019.0,summer,TCL,2,Team Aurora,Dark Passage,1.0,29:26,OK,blue,AUR,   VICTORY   ,57.8k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Xayah,Renekton,Ryze,Leblanc,Syndra
+2019.0,summer,TCL,2,Team Aurora,Dark Passage,1.0,29:26,OK,red,DP,   DEFEAT   ,45.9k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Sylas,Irelia,Jayce,Azir
+2019.0,summer,TCL,2,Bursaspor,Galakticos,1.0,29:46,OK,blue,BUR,   VICTORY   ,57.5k,8,  11 ,  3 ,  1 ,  5 ,  0 ,Ryze,Aatrox,Sona,Neeko,Leblanc
+2019.0,summer,TCL,2,Bursaspor,Galakticos,1.0,29:46,OK,red,GAL,   DEFEAT   ,46.2k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Sylas,Irelia,Sejuani,Vladimir,Ornn
+2019.0,summer,TCL,2,Team Aurora,Besiktas Esports,1.0,31:51,OK,blue,AUR,   DEFEAT   ,51.6k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Sona,Yuumi,Yasuo,Renekton,Jayce
+2019.0,summer,TCL,2,Team Aurora,Besiktas Esports,1.0,31:51,OK,red,BJK,   VICTORY   ,62.2k,21,  9 ,  2 ,  1 ,  4 ,  0 ,Aatrox,Camille,Thresh,Alistar,Rakan
+2019.0,summer,TCL,2,Dark Passage,Papara SuperMassive,1.0,31:20,OK,blue,DP,   VICTORY   ,62.5k,18,  10 ,  2 ,  1 ,  4 ,  0 ,Neeko,Sejuani,Sylas,Olaf,Skarner
+2019.0,summer,TCL,2,Dark Passage,Papara SuperMassive,1.0,31:20,OK,red,SUP,   DEFEAT   ,51.6k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Sona,RekSai,Ryze,JarvanIV,Karthus
+2019.0,summer,TCL,2,Galatasaray,Bursaspor,1.0,37:34,OK,blue,GS,   VICTORY   ,70.3k,23,  8 ,  2 ,  1 ,  3 ,  1 ,Sona,Sylas,Yuumi,Yorick,Orianna
+2019.0,summer,TCL,2,Galatasaray,Bursaspor,1.0,37:34,OK,red,BUR,   DEFEAT   ,59.8k,16,  3 ,  0 ,  0 ,  2 ,  0 ,Sejuani,Irelia,Aatrox,RekSai,Vladimir
+2019.0,summer,TCL,2,Istanbul Wildcats,Royal Youth,1.0,30:30,OK,blue,IW,   DEFEAT   ,46.5k,4,  0 ,  0 ,  0 ,  3 ,  0 ,Neeko,Jayce,Kennen,Lux,Nautilus
+2019.0,summer,TCL,2,Istanbul Wildcats,Royal Youth,1.0,30:30,OK,red,RYL,   VICTORY   ,57.5k,8,  11 ,  1 ,  1 ,  2 ,  1 ,Sylas,Aatrox,Sejuani,Sivir,Morgana
+2019.0,summer,TCL,2,Galakticos,1907 Fenerbahce,1.0,33:27,OK,blue,FB,   VICTORY   ,64.7k,17,  9 ,  1 ,  1 ,  3 ,  1 ,Yuumi,Irelia,Aatrox,Sivir,Ezreal
+2019.0,summer,TCL,2,Galakticos,1907 Fenerbahce,1.0,33:27,OK,red,GAL,   DEFEAT   ,51.2k,3,  2 ,  0 ,  0 ,  2 ,  0 ,Sejuani,Velkoz,Nautilus,Azir,Jayce
+2019.0,summer,TCL,3,Royal Youth,Dark Passage,1.0,27:10,OK,blue,DP,   DEFEAT   ,42.3k,9,  1 ,  0 ,  0 ,  2 ,  0 ,Neeko,Karthus,Renekton,Akali,Sejuani
+2019.0,summer,TCL,3,Royal Youth,Dark Passage,1.0,27:10,OK,red,RYL,   VICTORY   ,54.9k,14,  11 ,  3 ,  1 ,  1 ,  1 ,Karma,Aatrox,Irelia,Ryze,Syndra
+2019.0,summer,TCL,3,Galakticos,Galatasaray,1.0,39:42,OK,blue,GAL,   DEFEAT   ,69.1k,15,  8 ,  0 ,  1 ,  3 ,  1 ,Jayce,Akali,Aatrox,RekSai,Camille
+2019.0,summer,TCL,3,Galakticos,Galatasaray,1.0,39:42,OK,red,GS,   VICTORY   ,72.6k,16,  6 ,  2 ,  1 ,  2 ,  0 ,Karma,Sejuani,Xayah,Neeko,Olaf
+2019.0,summer,TCL,3,Papara SuperMassive,Besiktas Esports,1.0,34:24,OK,blue,BJK,   VICTORY   ,65.3k,16,  11 ,  3 ,  1 ,  5 ,  0 ,Camille,Aatrox,Irelia,Syndra,Fiora
+2019.0,summer,TCL,3,Papara SuperMassive,Besiktas Esports,1.0,34:24,OK,red,SUP,   DEFEAT   ,53.1k,6,  0 ,  0 ,  0 ,  0 ,  1 ,Sona,Yuumi,Karma,Jayce,Corki
+2019.0,summer,TCL,3,1907 Fenerbahce,Istanbul Wildcats,1.0,34:08,OK,blue,IW,   VICTORY   ,66.2k,17,  11 ,  3 ,  2 ,  3 ,  0 ,Yuumi,Velkoz,Olaf,Zoe,Taliyah
+2019.0,summer,TCL,3,1907 Fenerbahce,Istanbul Wildcats,1.0,34:08,OK,red,FB,   DEFEAT   ,52.7k,4,  2 ,  0 ,  0 ,  2 ,  1 ,Karma,Irelia,Sejuani,Leblanc,Kindred
+2019.0,summer,TCL,3,Bursaspor,Team Aurora,1.0,31:18,OK,blue,BUR,   DEFEAT   ,49.9k,9,  3 ,  0 ,  0 ,  0 ,  0 ,Irelia,Aatrox,Sivir,Jayce,Camille
+2019.0,summer,TCL,3,Bursaspor,Team Aurora,1.0,31:18,OK,red,AUR,   VICTORY   ,59.2k,15,  11 ,  2 ,  2 ,  3 ,  1 ,Karma,Sejuani,Nautilus,Olaf,JarvanIV
+2019.0,summer,TCL,3,Dark Passage,Istanbul Wildcats,1.0,32:45,OK,blue,DP,   DEFEAT   ,54.5k,7,  5 ,  0 ,  1 ,  3 ,  0 ,Evelynn,Neeko,Aatrox,Sivir,Braum
+2019.0,summer,TCL,3,Dark Passage,Istanbul Wildcats,1.0,32:45,OK,red,IW,   VICTORY   ,59.5k,13,  8 ,  1 ,  0 ,  1 ,  1 ,Yuumi,Elise,Olaf,Kennen,Vladimir
+2019.0,summer,TCL,3,Team Aurora,Galakticos,1.0,30:21,OK,blue,GAL,   DEFEAT   ,51.5k,11,  1 ,  0 ,  0 ,  0 ,  1 ,Xayah,Akali,Aatrox,Elise,Azir
+2019.0,summer,TCL,3,Team Aurora,Galakticos,1.0,30:21,OK,red,AUR,   VICTORY   ,59.4k,16,  11 ,  4 ,  1 ,  4 ,  0 ,Karma,Sejuani,Yuumi,JarvanIV,Skarner
+2019.0,summer,TCL,3,Galatasaray,1907 Fenerbahce,1.0,33:32,OK,blue,FB,   VICTORY   ,63.3k,19,  10 ,  2 ,  1 ,  4 ,  1 ,Irelia,Camille,Aatrox,Leblanc,Pyke
+2019.0,summer,TCL,3,Galatasaray,1907 Fenerbahce,1.0,33:32,OK,red,GS,   DEFEAT   ,50.8k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Karma,Sejuani,Xayah,Azir,Zilean
+2019.0,summer,TCL,3,Besiktas Esports,Royal Youth,1.0,29:01,OK,blue,RYL,   VICTORY   ,58.8k,16,  11 ,  3 ,  1 ,  4 ,  1 ,Sejuani,Jayce,Irelia,Yasuo,Gnar
+2019.0,summer,TCL,3,Besiktas Esports,Royal Youth,1.0,29:01,OK,red,BJK,   DEFEAT   ,47.4k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Karma,Aatrox,Rakan,Yuumi,Lux
+2019.0,summer,TCL,3,Papara SuperMassive,Bursaspor,1.0,36:34,OK,blue,SUP,   DEFEAT   ,60.3k,13,  1 ,  0 ,  0 ,  1 ,  1 ,Sona,Irelia,Yuumi,Yorick,Lissandra
+2019.0,summer,TCL,3,Papara SuperMassive,Bursaspor,1.0,36:34,OK,red,BUR,   VICTORY   ,67.8k,16,  7 ,  1 ,  1 ,  4 ,  0 ,Sejuani,Aatrox,Karma,Gangplank,Neeko
+2019.0,summer,TCL,4,Royal Youth,Bursaspor,1.0,26:35,OK,blue,RYL,   VICTORY   ,52.6k,14,  10 ,  2 ,  1 ,  3 ,  1 ,Azir,Jayce,Sejuani,Renekton,Yorick
+2019.0,summer,TCL,4,Royal Youth,Bursaspor,1.0,26:35,OK,red,BUR,   DEFEAT   ,38.2k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Karma,Aatrox,Neeko,Elise,Olaf
+2019.0,summer,TCL,4,Galatasaray,Team Aurora,1.0,26:44,OK,blue,AUR,   DEFEAT   ,40.1k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Sivir,Irelia,TwistedFate,Xerath
+2019.0,summer,TCL,4,Galatasaray,Team Aurora,1.0,26:44,OK,red,GS,   VICTORY   ,53.4k,20,  9 ,  1 ,  1 ,  3 ,  1 ,Karma,Yuumi,Thresh,Jayce,Orianna
+2019.0,summer,TCL,4,1907 Fenerbahce,Dark Passage,1.0,45:15,OK,blue,FB,   VICTORY   ,82.5k,16,  11 ,  2 ,  1 ,  4 ,  1 ,Irelia,Xayah,Sivir,Leblanc,Corki
+2019.0,summer,TCL,4,1907 Fenerbahce,Dark Passage,1.0,45:15,OK,red,DP,   DEFEAT   ,81.4k,13,  4 ,  0 ,  2 ,  3 ,  0 ,Sejuani,Karma,Velkoz,Gnar,Yasuo
+2019.0,summer,TCL,4,Galakticos,Papara SuperMassive,1.0,32:45,OK,blue,GAL,   VICTORY   ,58.5k,10,  10 ,  2 ,  0 ,  2 ,  0 ,Yasuo,Ezreal,Aatrox,Kennen,Rumble
+2019.0,summer,TCL,4,Galakticos,Papara SuperMassive,1.0,32:45,OK,red,SUP,   DEFEAT   ,58.3k,10,  6 ,  0 ,  1 ,  3 ,  1 ,Karma,Irelia,Neeko,Jayce,Vladimir
+2019.0,summer,TCL,4,Istanbul Wildcats,Besiktas Esports,1.0,48:38,OK,blue,BJK,   VICTORY   ,87.7k,24,  11 ,  4 ,  0 ,  5 ,  1 ,Evelynn,Irelia,Thresh,Olaf,Azir
+2019.0,summer,TCL,4,Istanbul Wildcats,Besiktas Esports,1.0,48:38,OK,red,IW,   DEFEAT   ,85.4k,14,  5 ,  0 ,  4 ,  3 ,  0 ,Karma,Sejuani,Gnar,Taliyah,Yasuo
+2019.0,summer,TCL,4,Papara SuperMassive,Galatasaray,1.0,29:30,OK,blue,SUP,   VICTORY   ,56.4k,13,  9 ,  1 ,  1 ,  4 ,  0 ,Pyke,Irelia,Aatrox,Vladimir,Akali
+2019.0,summer,TCL,4,Papara SuperMassive,Galatasaray,1.0,29:30,OK,red,GS,   DEFEAT   ,47.5k,10,  2 ,  0 ,  0 ,  0 ,  1 ,Karma,Olaf,Yuumi,Sona,Ashe
+2019.0,summer,TCL,4,Royal Youth,Galakticos,1.0,30:36,OK,blue,GAL,   DEFEAT   ,49.2k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Jayce,Sivir,Nautilus,Kennen,Caitlyn
+2019.0,summer,TCL,4,Royal Youth,Galakticos,1.0,30:36,OK,red,RYL,   VICTORY   ,60.3k,14,  11 ,  2 ,  1 ,  5 ,  1 ,Karma,Irelia,Aatrox,Camille,Akali
+2019.0,summer,TCL,4,Bursaspor,Istanbul Wildcats,1.0,40:59,OK,blue,BUR,   VICTORY   ,79.4k,16,  11 ,  5 ,  3 ,  5 ,  1 ,Evelynn,Irelia,Aatrox,Kindred,Riven
+2019.0,summer,TCL,4,Bursaspor,Istanbul Wildcats,1.0,40:59,OK,red,IW,   DEFEAT   ,69.5k,10,  2 ,  0 ,  0 ,  1 ,  0 ,Karma,JarvanIV,Yuumi,Orianna,Leblanc
+2019.0,summer,TCL,4,Team Aurora,1907 Fenerbahce,1.0,33:28,OK,blue,FB,   VICTORY   ,65.9k,21,  11 ,  2 ,  2 ,  5 ,  1 ,Xayah,Irelia,Aatrox,Azir,Neeko
+2019.0,summer,TCL,4,Team Aurora,1907 Fenerbahce,1.0,33:28,OK,red,AUR,   DEFEAT   ,55.9k,12,  2 ,  0 ,  0 ,  0 ,  0 ,Karma,Sejuani,Nautilus,Viktor,Gnar
+2019.0,summer,TCL,4,Besiktas Esports,Dark Passage,1.0,27:11,OK,blue,BJK,   VICTORY   ,51.0k,9,  10 ,  2 ,  1 ,  3 ,  0 ,Xayah,Aatrox,Thresh,Azir,Neeko
+2019.0,summer,TCL,4,Besiktas Esports,Dark Passage,1.0,27:11,OK,red,DP,   DEFEAT   ,42.6k,8,  2 ,  0 ,  0 ,  1 ,  1 ,Sejuani,Karma,Yuumi,Rumble,Kennen
+2019.0,summer,TCL,5,Galatasaray,Royal Youth,1.0,36:33,OK,blue,RYL,   VICTORY   ,67.4k,16,  8 ,  1 ,  1 ,  4 ,  0 ,Sejuani,Irelia,Aatrox,Vayne,Olaf
+2019.0,summer,TCL,5,Galatasaray,Royal Youth,1.0,36:33,OK,red,GS,   DEFEAT   ,59.2k,8,  3 ,  0 ,  1 ,  2 ,  1 ,Neeko,Sivir,Karma,Leblanc,Kaisa
+2019.0,summer,TCL,5,Istanbul Wildcats,Galakticos,1.0,26:09,OK,blue,GAL,   VICTORY   ,49.1k,7,  10 ,  2 ,  1 ,  0 ,  1 ,Neeko,Evelynn,Karma,Ezreal,Riven
+2019.0,summer,TCL,5,Istanbul Wildcats,Galakticos,1.0,26:09,OK,red,IW,   DEFEAT   ,40.7k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Mordekaiser,Irelia,Yuumi,Braum,Lux
+2019.0,summer,TCL,5,1907 Fenerbahce,Besiktas Esports,1.0,37:32,OK,blue,FB,   VICTORY   ,68.1k,18,  11 ,  3 ,  2 ,  4 ,  1 ,Irelia,Mordekaiser,Karma,Leblanc,Orianna
+2019.0,summer,TCL,5,1907 Fenerbahce,Besiktas Esports,1.0,37:32,OK,red,BJK,   DEFEAT   ,59.8k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Nautilus,Yasuo,Aatrox,LeeSin,RekSai
+2019.0,summer,TCL,5,Dark Passage,Bursaspor,1.0,37:06,OK,blue,DP,   VICTORY   ,73.3k,20,  9 ,  2 ,  2 ,  4 ,  0 ,Sejuani,Karma,Lux,Azir,Taliyah
+2019.0,summer,TCL,5,Dark Passage,Bursaspor,1.0,37:06,OK,red,BUR,   DEFEAT   ,59.6k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Mordekaiser,Aatrox,Yuumi,Gragas,Elise
+2019.0,summer,TCL,5,Team Aurora,Papara SuperMassive,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,summer,TCL,5,Bursaspor,Besiktas Esports,1.0,26:41,OK,blue,BUR,   DEFEAT   ,41.7k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Aatrox,Mordekaiser,Gragas,Vladimir
+2019.0,summer,TCL,5,Bursaspor,Besiktas Esports,1.0,26:41,OK,red,BJK,   VICTORY   ,51.7k,12,  10 ,  2 ,  1 ,  3 ,  1 ,Xayah,Azir,Yuumi,Jinx,JarvanIV
+2019.0,summer,TCL,5,Istanbul Wildcats,Galatasaray,1.0,27:03,OK,blue,GS,   VICTORY   ,59.0k,28,  10 ,  2 ,  1 ,  2 ,  1 ,Neeko,Aatrox,Mordekaiser,Braum,Nautilus
+2019.0,summer,TCL,5,Istanbul Wildcats,Galatasaray,1.0,27:03,OK,red,IW,   DEFEAT   ,39.5k,8,  0 ,  0 ,  0 ,  1 ,  0 ,Thresh,Sylas,Yuumi,Sivir,Caitlyn
+2019.0,summer,TCL,5,Royal Youth,Team Aurora,1.0,27:42,OK,blue,RYL,   VICTORY   ,57.4k,22,  9 ,  1 ,  1 ,  4 ,  1 ,Irelia,Akali,Sejuani,Sylas,RekSai
+2019.0,summer,TCL,5,Royal Youth,Team Aurora,1.0,27:42,OK,red,AUR,   DEFEAT   ,44.8k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Mordekaiser,Neeko,Sivir,Ashe,Varus
+2019.0,summer,TCL,5,Galakticos,Dark Passage,1.0,36:49,OK,blue,DP,   DEFEAT   ,57.7k,5,  3 ,  0 ,  0 ,  3 ,  1 ,Karma,Yuumi,Irelia,Camille,Jax
+2019.0,summer,TCL,5,Galakticos,Dark Passage,1.0,36:49,OK,red,GAL,   VICTORY   ,67.7k,11,  11 ,  3 ,  1 ,  2 ,  0 ,Xayah,Neeko,Mordekaiser,JarvanIV,Corki
+2019.0,summer,TCL,5,Papara SuperMassive,1907 Fenerbahce,1.0,37:43,OK,blue,FB,   DEFEAT   ,63.9k,11,  5 ,  1 ,  0 ,  1 ,  1 ,Sivir,Neeko,Caitlyn,Zoe,Lucian
+2019.0,summer,TCL,5,Papara SuperMassive,1907 Fenerbahce,1.0,37:43,OK,red,SUP,   VICTORY   ,70.8k,16,  9 ,  1 ,  1 ,  5 ,  0 ,Taliyah,Karma,Irelia,Sejuani,Yasuo
+2019.0,summer,TCL,6,Team Aurora,Istanbul Wildcats,1.0,28:33,OK,blue,AUR,   VICTORY   ,55.8k,17,  7 ,  1 ,  1 ,  2 ,  1 ,Yuumi,Renekton,Irelia,Yasuo,Sivir
+2019.0,summer,TCL,6,Team Aurora,Istanbul Wildcats,1.0,28:33,OK,red,IW,   DEFEAT   ,50.0k,19,  2 ,  0 ,  0 ,  2 ,  0 ,Azir,JarvanIV,Corki,Caitlyn,
+2019.0,summer,TCL,6,Papara SuperMassive,Royal Youth,1.0,37:19,OK,blue,SUP,   DEFEAT   ,62.5k,9,  2 ,  0 ,  2 ,  2 ,  0 ,Irelia,Mordekaiser,Nautilus,Sylas,LeeSin
+2019.0,summer,TCL,6,Papara SuperMassive,Royal Youth,1.0,37:19,OK,red,RYL,   VICTORY   ,72.9k,22,  10 ,  3 ,  0 ,  3 ,  1 ,Karma,Aatrox,Olaf,Caitlyn,Sivir
+2019.0,summer,TCL,6,Besiktas Esports,Galakticos,1.0,44:08,OK,blue,BJK,   VICTORY   ,83.0k,21,  10 ,  3 ,  3 ,  3 ,  1 ,Sejuani,Aatrox,Irelia,Fiora,Azir
+2019.0,summer,TCL,6,Besiktas Esports,Galakticos,1.0,44:08,OK,red,GAL,   DEFEAT   ,79.2k,19,  5 ,  0 ,  0 ,  2 ,  0 ,Yuumi,Sivir,Qiyana,Kalista,Kaisa
+2019.0,summer,TCL,6,1907 Fenerbahce,Bursaspor,1.0,31:04,OK,blue,BUR,   VICTORY   ,53.3k,5,  9 ,  1 ,  1 ,  3 ,  1 ,Yasuo,Irelia,Velkoz,Sejuani,Vladimir
+2019.0,summer,TCL,6,1907 Fenerbahce,Bursaspor,1.0,31:04,OK,red,FB,   DEFEAT   ,43.1k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Caitlyn,Xayah,Sivir,Leblanc,Yorick
+2019.0,summer,TCL,6,Dark Passage,Galatasaray,1.0,26:21,OK,blue,DP,   DEFEAT   ,44.3k,16,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Sylas,Karma,Vladimir,Corki
+2019.0,summer,TCL,6,Dark Passage,Galatasaray,1.0,26:21,OK,red,GS,   VICTORY   ,55.9k,21,  11 ,  1 ,  1 ,  3 ,  1 ,Lux,Mordekaiser,Neeko,Azir,Irelia
+2019.0,summer,TCL,6,Istanbul Wildcats,Papara SuperMassive,1.0,22:53,OK,blue,SUP,   VICTORY   ,46.7k,15,  8 ,  1 ,  0 ,  2 ,  1 ,Irelia,Neeko,Mordekaiser,Morgana,Riven
+2019.0,summer,TCL,6,Istanbul Wildcats,Papara SuperMassive,1.0,22:53,OK,red,IW,   DEFEAT   ,32.5k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Karma,Olaf,Aatrox,Kennen,Elise
+2019.0,summer,TCL,6,Galakticos,Bursaspor,1.0,30:33,OK,blue,GAL,   DEFEAT   ,46.3k,2,  2 ,  0 ,  0 ,  1 ,  1 ,Karma,Nautilus,Lux,Corki,Taliyah
+2019.0,summer,TCL,6,Galakticos,Bursaspor,1.0,30:33,OK,red,BUR,   VICTORY   ,55.0k,9,  8 ,  1 ,  0 ,  4 ,  0 ,Irelia,Mordekaiser,Yuumi,Zilean,Ezreal
+2019.0,summer,TCL,6,Dark Passage,Team Aurora,1.0,33:04,OK,blue,DP,   DEFEAT   ,53.8k,13,  1 ,  0 ,  0 ,  0 ,  1 ,Sejuani,Irelia,Lux,Fiora,Sylas
+2019.0,summer,TCL,6,Dark Passage,Team Aurora,1.0,33:04,OK,red,AUR,   VICTORY   ,65.4k,21,  11 ,  4 ,  2 ,  5 ,  0 ,Mordekaiser,Neeko,Sivir,Gangplank,Kennen
+2019.0,summer,TCL,6,Galatasaray,Besiktas Esports,1.0,38:57,OK,blue,GS,   DEFEAT   ,66.6k,15,  4 ,  0 ,  0 ,  2 ,  1 ,Lux,Mordekaiser,Qiyana,Renekton,Akali
+2019.0,summer,TCL,6,Galatasaray,Besiktas Esports,1.0,38:57,OK,red,BJK,   VICTORY   ,77.0k,28,  9 ,  1 ,  2 ,  3 ,  0 ,Thresh,Sivir,Karma,JarvanIV,Taliyah
+2019.0,summer,TCL,6,Royal Youth,1907 Fenerbahce,1.0,30:50,OK,blue,FB,   DEFEAT   ,45.9k,7,  1 ,  0 ,  0 ,  1 ,  1 ,Mordekaiser,Ashe,Sivir,Neeko,Rumble
+2019.0,summer,TCL,6,Royal Youth,1907 Fenerbahce,1.0,30:50,OK,red,RYL,   VICTORY   ,58.6k,14,  11 ,  3 ,  1 ,  2 ,  0 ,Karma,Aatrox,Nautilus,Olaf,Gragas
+2019.0,summer,TCL,7,Bursaspor,Galatasaray,1.0,37:47,OK,blue,GS,   VICTORY   ,70.5k,14,  8 ,  1 ,  1 ,  3 ,  1 ,Neeko,Lux,TahmKench,Azir,Yorick
+2019.0,summer,TCL,7,Bursaspor,Galatasaray,1.0,37:47,OK,red,BUR,   DEFEAT   ,67.5k,15,  5 ,  0 ,  1 ,  2 ,  0 ,Irelia,Qiyana,Karma,Vladimir,Elise
+2019.0,summer,TCL,7,Royal Youth,Istanbul Wildcats,1.0,37:15,OK,blue,RYL,   DEFEAT   ,62.7k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Irelia,Qiyana,Mordekaiser,Lucian,Jayce
+2019.0,summer,TCL,7,Royal Youth,Istanbul Wildcats,1.0,37:15,OK,red,IW,   VICTORY   ,72.7k,21,  9 ,  1 ,  3 ,  4 ,  0 ,Nautilus,Neeko,Aatrox,Corki,Kennen
+2019.0,summer,TCL,7,Besiktas Esports,Team Aurora,1.0,37:31,OK,blue,BJK,   DEFEAT   ,64.9k,18,  3 ,  0 ,  0 ,  2 ,  0 ,Azir,JarvanIV,Nautilus,RekSai,Elise
+2019.0,summer,TCL,7,Besiktas Esports,Team Aurora,1.0,37:31,OK,red,AUR,   VICTORY   ,71.4k,17,  8 ,  1 ,  2 ,  2 ,  1 ,Karma,Qiyana,Lux,Thresh,Rakan
+2019.0,summer,TCL,7,Papara SuperMassive,Dark Passage,1.0,28:26,OK,blue,SUP,   VICTORY   ,56.2k,10,  9 ,  2 ,  1 ,  4 ,  1 ,Irelia,Sylas,Mordekaiser,Viktor,Jayce
+2019.0,summer,TCL,7,Papara SuperMassive,Dark Passage,1.0,28:26,OK,red,DP,   DEFEAT   ,42.3k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Azir,Qiyana,Ezreal,Kaisa
+2019.0,summer,TCL,7,1907 Fenerbahce,Galakticos,1.0,25:21,OK,blue,GAL,   DEFEAT   ,37.1k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Velkoz,Lux,Ezreal,Kennen
+2019.0,summer,TCL,7,1907 Fenerbahce,Galakticos,1.0,25:21,OK,red,FB,   VICTORY   ,51.3k,19,  9 ,  1 ,  1 ,  3 ,  1 ,Mordekaiser,Qiyana,Aatrox,Sivir,Ashe
+2019.0,summer,TCL,7,Dark Passage,Royal Youth,1.0,24:27,OK,blue,RYL,   VICTORY   ,49.5k,13,  9 ,  2 ,  1 ,  3 ,  1 ,Irelia,Mordekaiser,Karma,Camille,Gnar
+2019.0,summer,TCL,7,Dark Passage,Royal Youth,1.0,24:27,OK,red,DP,   DEFEAT   ,35.1k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Neeko,JarvanIV,Jayce,Lucian
+2019.0,summer,TCL,7,Besiktas Esports,Papara SuperMassive,1.0,27:07,OK,blue,BJK,   DEFEAT   ,37.8k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Neeko,JarvanIV,Nautilus,TahmKench,Rakan
+2019.0,summer,TCL,7,Besiktas Esports,Papara SuperMassive,1.0,27:07,OK,red,SUP,   VICTORY   ,54.7k,14,  11 ,  3 ,  1 ,  4 ,  0 ,Irelia,Qiyana,Lux,Yasuo,Zed
+2019.0,summer,TCL,7,Galatasaray,Galakticos,1.0,34:12,OK,blue,GAL,   DEFEAT   ,58.3k,17,  3 ,  0 ,  0 ,  2 ,  1 ,Lux,Mordekaiser,Karma,Ezreal,Lucian
+2019.0,summer,TCL,7,Galatasaray,Galakticos,1.0,34:12,OK,red,GS,   VICTORY   ,65.2k,20,  11 ,  4 ,  2 ,  4 ,  0 ,Irelia,Azir,Qiyana,Corki,Xayah
+2019.0,summer,TCL,7,Istanbul Wildcats,1907 Fenerbahce,1.0,26:01,OK,blue,FB,   VICTORY   ,49.4k,9,  8 ,  1 ,  1 ,  4 ,  1 ,Mordekaiser,Qiyana,Aatrox,Riven,Neeko
+2019.0,summer,TCL,7,Istanbul Wildcats,1907 Fenerbahce,1.0,26:01,OK,red,IW,   DEFEAT   ,37.1k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Velkoz,Taliyah,Azir,Yasuo,Leblanc
+2019.0,summer,TCL,7,Team Aurora,Bursaspor,1.0,34:09,OK,blue,BUR,   DEFEAT   ,54.9k,9,  1 ,  0 ,  0 ,  1 ,  1 ,Irelia,Qiyana,Sylas,Draven,Kalista
+2019.0,summer,TCL,7,Team Aurora,Bursaspor,1.0,34:09,OK,red,AUR,   VICTORY   ,62.0k,7,  10 ,  1 ,  1 ,  4 ,  0 ,Karma,TahmKench,Neeko,Leblanc,Azir
+2019.0,summer,TCL,8,Galakticos,Team Aurora,1.0,34:39,OK,blue,AUR,   DEFEAT   ,58.0k,12,  4 ,  0 ,  0 ,  0 ,  0 ,Irelia,JarvanIV,Sylas,Gangplank,Skarner
+2019.0,summer,TCL,8,Galakticos,Team Aurora,1.0,34:39,OK,red,GAL,   VICTORY   ,68.1k,18,  11 ,  3 ,  1 ,  3 ,  1 ,Azir,Karthus,Karma,Sejuani,Olaf
+2019.0,summer,TCL,8,Bursaspor,Papara SuperMassive,1.0,29:31,OK,blue,SUP,   VICTORY   ,58.4k,11,  11 ,  3 ,  2 ,  3 ,  1 ,Yuumi,Qiyana,JarvanIV,Caitlyn,Kaisa
+2019.0,summer,TCL,8,Bursaspor,Papara SuperMassive,1.0,29:31,OK,red,BUR,   DEFEAT   ,44.4k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Neeko,Nautilus,Karma,Kennen,Gangplank
+2019.0,summer,TCL,8,Istanbul Wildcats,Dark Passage,1.0,27:34,OK,blue,DP,   VICTORY   ,56.4k,20,  9 ,  2 ,  1 ,  2 ,  0 ,Qiyana,Azir,Aatrox,Morgana,Cassiopeia
+2019.0,summer,TCL,8,Istanbul Wildcats,Dark Passage,1.0,27:34,OK,red,IW,   DEFEAT   ,47.6k,14,  3 ,  0 ,  0 ,  2 ,  1 ,Olaf,Neeko,Lucian,Sejuani,Gragas
+2019.0,summer,TCL,8,1907 Fenerbahce,Galatasaray,1.0,25:40,OK,blue,FB,   DEFEAT   ,41.7k,6,  3 ,  0 ,  0 ,  3 ,  1 ,Aatrox,Yuumi,Qiyana,Tristana,Camille
+2019.0,summer,TCL,8,1907 Fenerbahce,Galatasaray,1.0,25:40,OK,red,GS,   VICTORY   ,51.8k,16,  9 ,  2 ,  1 ,  1 ,  0 ,Velkoz,Nautilus,JarvanIV,Gnar,Viktor
+2019.0,summer,TCL,8,Royal Youth,Besiktas Esports,1.0,30:52,OK,blue,RYL,   VICTORY   ,62.5k,15,  11 ,  2 ,  1 ,  4 ,  1 ,Irelia,Qiyana,Sejuani,Gnar,Akali
+2019.0,summer,TCL,8,Royal Youth,Besiktas Esports,1.0,30:52,OK,red,BJK,   DEFEAT   ,50.2k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Azir,Neeko,Nautilus,RekSai,Sylas
+2019.0,summer,TCL,8,Papara SuperMassive,Galakticos,1.0,29:08,OK,blue,GAL,   DEFEAT   ,45.4k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Kled,Azir,Sylas,Jinx,Aatrox
+2019.0,summer,TCL,8,Papara SuperMassive,Galakticos,1.0,29:08,OK,red,SUP,   VICTORY   ,57.7k,16,  9 ,  1 ,  2 ,  4 ,  0 ,Yuumi,Irelia,Qiyana,Sivir,Kennen
+2019.0,summer,TCL,8,Team Aurora,Galatasaray,1.0,44:43,OK,blue,GS,   VICTORY   ,83.9k,20,  10 ,  2 ,  3 ,  4 ,  1 ,Nautilus,Azir,Corki,Akali,Elise
+2019.0,summer,TCL,8,Team Aurora,Galatasaray,1.0,44:43,OK,red,AUR,   DEFEAT   ,78.0k,20,  4 ,  0 ,  1 ,  2 ,  0 ,Karma,Lucian,Yuumi,Vladimir,Neeko
+2019.0,summer,TCL,8,Dark Passage,1907 Fenerbahce,1.0,29:19,OK,blue,FB,   DEFEAT   ,47.7k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Xayah,Sejuani,Aatrox,Skarner,Olaf
+2019.0,summer,TCL,8,Dark Passage,1907 Fenerbahce,1.0,29:19,OK,red,DP,   VICTORY   ,57.2k,18,  9 ,  2 ,  2 ,  2 ,  0 ,Nautilus,JarvanIV,Azir,Gnar,Kennen
+2019.0,summer,TCL,8,Bursaspor,Royal Youth,1.0,37:14,OK,blue,RYL,   VICTORY   ,69.4k,12,  8 ,  1 ,  1 ,  3 ,  0 ,Yuumi,Xayah,Azir,Camille,Irelia
+2019.0,summer,TCL,8,Bursaspor,Royal Youth,1.0,37:14,OK,red,BUR,   DEFEAT   ,66.2k,12,  4 ,  0 ,  0 ,  2 ,  1 ,Nautilus,Neeko,Karma,Ezreal,Corki
+2019.0,summer,TCL,8,Besiktas Esports,Istanbul Wildcats,1.0,48:12,OK,blue,IW,   VICTORY   ,88.7k,28,  8 ,  2 ,  1 ,  1 ,  0 ,Sejuani,Irelia,Vladimir,Akali,Yasuo
+2019.0,summer,TCL,8,Besiktas Esports,Istanbul Wildcats,1.0,48:12,OK,red,BJK,   DEFEAT   ,88.6k,26,  7 ,  2 ,  2 ,  5 ,  1 ,Azir,Aatrox,Sylas,Riven,Gnar
+2019.0,summer,TCL,9,Istanbul Wildcats,Bursaspor,1.0,39:06,OK,blue,BUR,   DEFEAT   ,61.1k,8,  4 ,  0 ,  0 ,  2 ,  1 ,Sylas,Irelia,Riven,Caitlyn,Neeko
+2019.0,summer,TCL,9,Istanbul Wildcats,Bursaspor,1.0,39:06,OK,red,IW,   VICTORY   ,73.9k,24,  8 ,  1 ,  3 ,  3 ,  0 ,Azir,Rakan,Ezreal,Renekton,Corki
+2019.0,summer,TCL,9,Dark Passage,Besiktas Esports,1.0,37:10,OK,blue,BJK,   VICTORY   ,66.8k,16,  8 ,  1 ,  1 ,  3 ,  0 ,Xayah,Sylas,Azir,Olaf,JarvanIV
+2019.0,summer,TCL,9,Dark Passage,Besiktas Esports,1.0,37:10,OK,red,DP,   DEFEAT   ,68.2k,19,  6 ,  1 ,  0 ,  2 ,  1 ,Qiyana,Yuumi,Lucian,Rumble,Gnar
+2019.0,summer,TCL,9,1907 Fenerbahce,Team Aurora,1.0,39:40,OK,blue,AUR,   VICTORY   ,69.3k,14,  6 ,  2 ,  1 ,  1 ,  1 ,Taliyah,Yasuo,Irelia,Vladimir,Kennen
+2019.0,summer,TCL,9,1907 Fenerbahce,Team Aurora,1.0,39:40,OK,red,FB,   DEFEAT   ,72.1k,13,  9 ,  2 ,  2 ,  5 ,  0 ,Yuumi,Aatrox,Azir,Jayce,Neeko
+2019.0,summer,TCL,9,Galakticos,Royal Youth,1.0,26:19,OK,blue,GAL,   DEFEAT   ,40.3k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Kled,Jayce,Neeko,Vladimir,Karthus
+2019.0,summer,TCL,9,Galakticos,Royal Youth,1.0,26:19,OK,red,RYL,   VICTORY   ,53.1k,17,  11 ,  3 ,  1 ,  2 ,  1 ,Sejuani,Aatrox,Olaf,Nautilus,Yuumi
+2019.0,summer,TCL,9,Galatasaray,Papara SuperMassive,1.0,32:26,OK,blue,SUP,   VICTORY   ,63.4k,18,  11 ,  3 ,  2 ,  2 ,  1 ,Yuumi,Sejuani,Aatrox,Jayce,Irelia
+2019.0,summer,TCL,9,Galatasaray,Papara SuperMassive,1.0,32:26,OK,red,GS,   DEFEAT   ,56.1k,9,  4 ,  0 ,  0 ,  2 ,  0 ,Nautilus,Ezreal,TahmKench,Neeko,Gangplank
+2019.0,summer,TCL,9,Bursaspor,Dark Passage,1.0,31:52,OK,blue,DP,   DEFEAT   ,47.8k,1,  2 ,  0 ,  0 ,  1 ,  1 ,TahmKench,Azir,Yuumi,Kennen,Trundle
+2019.0,summer,TCL,9,Bursaspor,Dark Passage,1.0,31:52,OK,red,BUR,   VICTORY   ,63.1k,21,  7 ,  1 ,  1 ,  3 ,  0 ,Irelia,Neeko,Qiyana,Akali,Camille
+2019.0,summer,TCL,9,Royal Youth,Galatasaray,1.0,28:45,OK,blue,GS,   DEFEAT   ,43.7k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Nautilus,Sylas,JarvanIV,Olaf,Zed
+2019.0,summer,TCL,9,Royal Youth,Galatasaray,1.0,28:45,OK,red,RYL,   VICTORY   ,52.0k,15,  9 ,  2 ,  1 ,  2 ,  1 ,Sejuani,Aatrox,Qiyana,Karthus,Elise
+2019.0,summer,TCL,9,Papara SuperMassive,Team Aurora,1.0,24:51,OK,blue,AUR,   DEFEAT   ,37.7k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Nautilus,Sejuani,Xayah,Sivir,Ezreal
+2019.0,summer,TCL,9,Papara SuperMassive,Team Aurora,1.0,24:51,OK,red,SUP,   VICTORY   ,51.5k,21,  9 ,  2 ,  1 ,  3 ,  0 ,Yuumi,Corki,Tristana,Braum,Kennen
+2019.0,summer,TCL,9,Besiktas Esports,1907 Fenerbahce,1.0,26:42,OK,blue,BJK,   VICTORY   ,51.1k,16,  11 ,  3 ,  1 ,  3 ,  0 ,Nautilus,Azir,Sylas,Gnar,Vladimir
+2019.0,summer,TCL,9,Besiktas Esports,1907 Fenerbahce,1.0,26:42,OK,red,FB,   DEFEAT   ,41.5k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Yuumi,Aatrox,Qiyana,Yasuo,Irelia
+2019.0,summer,TCL,9,Galakticos,Istanbul Wildcats,1.0,28:19,OK,blue,GAL,   DEFEAT   ,49.3k,15,  2 ,  0 ,  0 ,  1 ,  1 ,Akali,JarvanIV,Qiyana,Sivir,Lucian
+2019.0,summer,TCL,9,Galakticos,Istanbul Wildcats,1.0,28:19,OK,red,IW,   VICTORY   ,61.1k,29,  11 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Kennen,Skarner,Renekton,Yasuo
+2019.0,summer,TCL,Tiebreakers,Besiktas Esports,Team Aurora,1.0,37:59,OK,blue,BJK,   VICTORY   ,75.3k,27,  11 ,  3 ,  2 ,  4 ,  0 ,Azir,Sylas,Nautilus,Alistar,Thresh
+2019.0,summer,TCL,Tiebreakers,Besiktas Esports,Team Aurora,1.0,37:59,OK,red,AUR,   DEFEAT   ,70.1k,27,  8 ,  1 ,  0 ,  0 ,  1 ,Sejuani,Yuumi,Corki,Cassiopeia,Rumble

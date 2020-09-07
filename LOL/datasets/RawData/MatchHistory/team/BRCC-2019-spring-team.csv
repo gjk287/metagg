@@ -1,0 +1,91 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,BRCC,1,RED Canids,PAIN,1.0,33:43,OK,blue,RED,   DERROTA   ,53.7 mil,6,  1 ,  0 ,  0 ,  0 ,  1 ,Irelia,Morgana,Galio,Braum,Gragas
+2019.0,spring,BRCC,1,RED Canids,PAIN,1.0,33:43,OK,red,PNG,   VITÓRIA   ,63.3 mil,13,  10 ,  2 ,  1 ,  5 ,  0 ,Lucian,Aatrox,Cassiopeia,LeeSin,XinZhao
+2019.0,spring,BRCC,1,Falkol,Operation Kino,1.0,37:44,OK,blue,FKL,   VITÓRIA   ,70.4 mil,12,  11 ,  2 ,  1 ,  2 ,  1 ,Aatrox,Irelia,Galio,Syndra,Braum
+2019.0,spring,BRCC,1,Falkol,Operation Kino,1.0,37:44,OK,red,OPK,   DERROTA   ,60.0 mil,3,  1 ,  0 ,  0 ,  3 ,  0 ,Cassiopeia,Lucian,Urgot,Camille,Poppy
+2019.0,spring,BRCC,1,Team oNe,Havan Liberty Gaming,1.0,34:08,OK,blue,ONE,   VITÓRIA   ,65.4 mil,15,  11 ,  3 ,  1 ,  3 ,  0 ,Irelia,Aatrox,Lissandra,Akali,Zoe
+2019.0,spring,BRCC,1,Team oNe,Havan Liberty Gaming,1.0,34:08,OK,red,HL,   DERROTA   ,60.5 mil,15,  3 ,  0 ,  0 ,  1 ,  1 ,Urgot,Lucian,Galio,Olaf,XinZhao
+2019.0,spring,BRCC,1,PAIN,Operation Kino,1.0,26:09,OK,blue,PNG,   VITÓRIA   ,53.6 mil,12,  10 ,  2 ,  1 ,  4 ,  1 ,Irelia,Aatrox,Lucian,Caitlyn,Ezreal
+2019.0,spring,BRCC,1,PAIN,Operation Kino,1.0,26:09,OK,red,OPK,   DERROTA   ,35.8 mil,2,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Camille,Rakan,Nocturne,Lissandra
+2019.0,spring,BRCC,1,Team oNe,Falkol,1.0,34:19,OK,blue,ONE,   DERROTA   ,56.1 mil,4,  4 ,  0 ,  0 ,  0 ,  1 ,Rakan,Cassiopeia,Lissandra,Camille,Akali
+2019.0,spring,BRCC,1,Team oNe,Falkol,1.0,34:19,OK,red,FKL,   VITÓRIA   ,65.4 mil,16,  11 ,  4 ,  2 ,  3 ,  0 ,Galio,Sion,Aatrox,Viktor,Irelia
+2019.0,spring,BRCC,1,RED Canids,Havan Liberty Gaming,1.0,32:12,OK,blue,RED,   VITÓRIA   ,62.3 mil,21,  8 ,  1 ,  1 ,  3 ,  1 ,Irelia,Lissandra,Cassiopeia,Syndra,Fiora
+2019.0,spring,BRCC,1,RED Canids,Havan Liberty Gaming,1.0,32:12,OK,red,HL,   DERROTA   ,55.3 mil,12,  3 ,  0 ,  0 ,  2 ,  0 ,Urgot,Lucian,Galio,Poppy,Leblanc
+2019.0,spring,BRCC,2,Operation Kino,Havan Liberty Gaming,1.0,34:36,OK,blue,OPK,   DERROTA   ,54.0 mil,2,  2 ,  0 ,  0 ,  2 ,  1 ,Camille,Rakan,Karthus,Akali,Yasuo
+2019.0,spring,BRCC,2,Operation Kino,Havan Liberty Gaming,1.0,34:36,OK,red,HL,   VITÓRIA   ,65.8 mil,18,  11 ,  3 ,  1 ,  2 ,  0 ,Urgot,Aatrox,Irelia,Nocturne,XinZhao
+2019.0,spring,BRCC,2,Team oNe,RED Canids,1.0,25:04,OK,blue,ONE,   DERROTA   ,38.0 mil,5,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Karthus,Irelia,Thresh,Camille
+2019.0,spring,BRCC,2,Team oNe,RED Canids,1.0,25:04,OK,red,RED,   VITÓRIA   ,51.4 mil,17,  9 ,  1 ,  1 ,  3 ,  1 ,Cassiopeia,Lucian,Lissandra,Nocturne,Olaf
+2019.0,spring,BRCC,2,PAIN,Falkol,1.0,36:35,OK,blue,PNG,   VITÓRIA   ,66.9 mil,14,  11 ,  2 ,  1 ,  3 ,  0 ,Irelia,Rakan,Lucian,Leblanc,XinZhao
+2019.0,spring,BRCC,2,PAIN,Falkol,1.0,36:35,OK,red,FKL,   DERROTA   ,56.5 mil,4,  1 ,  0 ,  0 ,  1 ,  1 ,Cassiopeia,Galio,Aatrox,Graves,Nocturne
+2019.0,spring,BRCC,2,RED Canids,Operation Kino,1.0,29:39,OK,blue,RED,   VITÓRIA   ,60.1 mil,12,  10 ,  2 ,  1 ,  4 ,  0 ,Lucian,Galio,Lissandra,Xayah,Syndra
+2019.0,spring,BRCC,2,RED Canids,Operation Kino,1.0,29:39,OK,red,OPK,   DERROTA   ,44.1 mil,2,  1 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Aatrox,Urgot,Fiora,Akali
+2019.0,spring,BRCC,2,PAIN,Team oNe,1.0,26:37,OK,blue,PNG,   VITÓRIA   ,54.5 mil,14,  11 ,  2 ,  1 ,  1 ,  1 ,Irelia,Aatrox,Lucian,Karthus,Olaf
+2019.0,spring,BRCC,2,PAIN,Team oNe,1.0,26:37,OK,red,ONE,   DERROTA   ,39.7 mil,4,  2 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Akali,Camille,Graves,Nocturne
+2019.0,spring,BRCC,2,Havan Liberty Gaming,Falkol,1.0,38:44,OK,blue,HL,   VITÓRIA   ,68.0 mil,8,  9 ,  2 ,  1 ,  3 ,  0 ,Irelia,Rakan,Leblanc,Olaf,Lissandra
+2019.0,spring,BRCC,2,Havan Liberty Gaming,Falkol,1.0,38:44,OK,red,FKL,   DERROTA   ,58.5 mil,5,  2 ,  0 ,  0 ,  2 ,  1 ,Cassiopeia,Galio,Lucian,Viktor,Nocturne
+2019.0,spring,BRCC,3,Falkol,RED Canids,1.0,45:04,OK,blue,FKL,   DERROTA   ,75.9 mil,10,  6 ,  1 ,  1 ,  4 ,  1 ,Karthus,Draven,Aatrox,Braum,JarvanIV
+2019.0,spring,BRCC,3,Falkol,RED Canids,1.0,45:04,OK,red,RED,   VITÓRIA   ,80.2 mil,16,  8 ,  1 ,  2 ,  2 ,  0 ,Cassiopeia,Lucian,Sion,Syndra,Zoe
+2019.0,spring,BRCC,3,Havan Liberty Gaming,PAIN,1.0,34:01,OK,blue,HL,   DERROTA   ,53.7 mil,8,  1 ,  0 ,  1 ,  0 ,  0 ,Viktor,Lissandra,Camille,TahmKench,Ezreal
+2019.0,spring,BRCC,3,Havan Liberty Gaming,PAIN,1.0,34:01,OK,red,PNG,   VITÓRIA   ,68.6 mil,17,  9 ,  1 ,  1 ,  4 ,  1 ,Lucian,Cassiopeia,Thresh,Taliyah,LeeSin
+2019.0,spring,BRCC,3,Operation Kino,Team oNe,1.0,36:52,OK,blue,OPK,   VITÓRIA   ,70.1 mil,15,  9 ,  2 ,  1 ,  3 ,  0 ,Akali,Draven,Urgot,Soraka,TahmKench
+2019.0,spring,BRCC,3,Operation Kino,Team oNe,1.0,36:52,OK,red,ONE,   DERROTA   ,66.1 mil,8,  8 ,  2 ,  1 ,  2 ,  1 ,Cassiopeia,Lucian,Aatrox,Thresh,Alistar
+2019.0,spring,BRCC,3,PAIN,RED Canids,1.0,45:29,OK,blue,PNG,   DERROTA   ,74.3 mil,13,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Draven,Sion,Leblanc,Zoe
+2019.0,spring,BRCC,3,PAIN,RED Canids,1.0,45:29,OK,red,RED,   VITÓRIA   ,88.6 mil,23,  10 ,  3 ,  2 ,  3 ,  0 ,Lucian,Akali,Cassiopeia,Lissandra,Syndra
+2019.0,spring,BRCC,3,Havan Liberty Gaming,Team oNe,1.0,38:50,OK,blue,HL,   DERROTA   ,66.4 mil,8,  4 ,  0 ,  0 ,  1 ,  0 ,Karthus,Sion,Camille,Lissandra,Akali
+2019.0,spring,BRCC,3,Havan Liberty Gaming,Team oNe,1.0,38:50,OK,red,ONE,   VITÓRIA   ,76.5 mil,14,  11 ,  3 ,  2 ,  2 ,  1 ,Lucian,Cassiopeia,Sylas,Trundle,Olaf
+2019.0,spring,BRCC,3,Operation Kino,Falkol,1.0,29:22,OK,blue,OPK,   DERROTA   ,47.5 mil,6,  3 ,  0 ,  0 ,  0 ,  1 ,Akali,Varus,Sylas,Leblanc,Zoe
+2019.0,spring,BRCC,3,Operation Kino,Falkol,1.0,29:22,OK,red,FKL,   VITÓRIA   ,55.9 mil,10,  11 ,  3 ,  2 ,  3 ,  0 ,Karthus,Cassiopeia,Draven,Olaf,Sion
+2019.0,spring,BRCC,4,Operation Kino,PAIN,1.0,25:31,OK,blue,OPK,   DERROTA   ,37.6 mil,4,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Lissandra,Urgot,Trundle,Graves
+2019.0,spring,BRCC,4,Operation Kino,PAIN,1.0,25:31,OK,red,PNG,   VITÓRIA   ,55.4 mil,16,  10 ,  2 ,  1 ,  3 ,  1 ,Karthus,Lucian,Cassiopeia,Syndra,Leblanc
+2019.0,spring,BRCC,4,Falkol,Team oNe,1.0,46:16,OK,blue,FKL,   VITÓRIA   ,83.6 mil,15,  10 ,  4 ,  3 ,  3 ,  0 ,Karthus,Sion,Akali,Sejuani,Syndra
+2019.0,spring,BRCC,4,Falkol,Team oNe,1.0,46:16,OK,red,ONE,   DERROTA   ,76.5 mil,12,  4 ,  0 ,  0 ,  3 ,  1 ,Urgot,Sylas,Cassiopeia,Trundle,XinZhao
+2019.0,spring,BRCC,4,Havan Liberty Gaming,RED Canids,1.0,39:42,OK,blue,HL,   DERROTA   ,63.2 mil,9,  4 ,  0 ,  0 ,  3 ,  1 ,Karthus,Jayce,Draven,Leblanc,Sejuani
+2019.0,spring,BRCC,4,Havan Liberty Gaming,RED Canids,1.0,39:42,OK,red,RED,   VITÓRIA   ,77.5 mil,19,  11 ,  3 ,  1 ,  2 ,  0 ,Cassiopeia,Lucian,Lissandra,Syndra,TahmKench
+2019.0,spring,BRCC,4,Falkol,PAIN,1.0,28:28,OK,blue,FKL,   DERROTA   ,44.9 mil,2,  1 ,  0 ,  0 ,  0 ,  0 ,Draven,Karthus,Akali,Sejuani,Yasuo
+2019.0,spring,BRCC,4,Falkol,PAIN,1.0,28:28,OK,red,PNG,   VITÓRIA   ,56.3 mil,9,  11 ,  3 ,  1 ,  4 ,  1 ,Lucian,Cassiopeia,Lissandra,Irelia,Syndra
+2019.0,spring,BRCC,4,Havan Liberty Gaming,Operation Kino,1.0,30:51,OK,blue,HL,   VITÓRIA   ,57.7 mil,9,  9 ,  1 ,  1 ,  4 ,  0 ,Riven,Jayce,Karthus,Ryze,Zoe
+2019.0,spring,BRCC,4,Havan Liberty Gaming,Operation Kino,1.0,30:51,OK,red,OPK,   DERROTA   ,47.9 mil,1,  1 ,  0 ,  0 ,  0 ,  1 ,Akali,Cassiopeia,Lucian,Nocturne,Camille
+2019.0,spring,BRCC,4,RED Canids,Team oNe,1.0,41:39,OK,blue,RED,   VITÓRIA   ,77.4 mil,17,  9 ,  1 ,  1 ,  2 ,  1 ,Sion,Lucian,Aatrox,Nocturne,Sejuani
+2019.0,spring,BRCC,4,RED Canids,Team oNe,1.0,41:39,OK,red,ONE,   DERROTA   ,70.0 mil,14,  3 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Karthus,Draven,Khazix,Sylas
+2019.0,spring,BRCC,5,Operation Kino,RED Canids,1.0,32:25,OK,blue,OPK,   DERROTA   ,50.4 mil,7,  3 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Draven,Karthus,Nocturne,Varus
+2019.0,spring,BRCC,5,Operation Kino,RED Canids,1.0,32:25,OK,red,RED,   VITÓRIA   ,64.5 mil,17,  11 ,  3 ,  2 ,  4 ,  1 ,Braum,Lucian,Jayce,Syndra,JarvanIV
+2019.0,spring,BRCC,5,Falkol,Havan Liberty Gaming,1.0,52:58,OK,blue,FKL,   VITÓRIA   ,93.5 mil,18,  10 ,  2 ,  2 ,  3 ,  0 ,Draven,Thresh,Zoe,Ezreal,Alistar
+2019.0,spring,BRCC,5,Falkol,Havan Liberty Gaming,1.0,52:58,OK,red,HL,   DERROTA   ,85.6 mil,10,  6 ,  1 ,  1 ,  4 ,  1 ,Lucian,Cassiopeia,Yorick,Syndra,Ryze
+2019.0,spring,BRCC,5,Team oNe,PAIN,1.0,43:04,OK,blue,ONE,   DERROTA   ,73.2 mil,6,  8 ,  3 ,  1 ,  3 ,  0 ,Yorick,Yasuo,Karthus,Ezreal,Sion
+2019.0,spring,BRCC,5,Team oNe,PAIN,1.0,43:04,OK,red,PNG,   VITÓRIA   ,81.1 mil,13,  10 ,  2 ,  2 ,  2 ,  1 ,Lucian,Alistar,Zoe,Trundle,Olaf
+2019.0,spring,BRCC,5,RED Canids,Falkol,1.0,39:39,OK,blue,RED,   VITÓRIA   ,75.0 mil,15,  10 ,  1 ,  1 ,  5 ,  0 ,Sylas,Braum,Leblanc,Sivir,Yasuo
+2019.0,spring,BRCC,5,RED Canids,Falkol,1.0,39:39,OK,red,FKL,   DERROTA   ,59.1 mil,6,  2 ,  0 ,  0 ,  1 ,  1 ,Draven,Karthus,Lucian,Trundle,Nocturne
+2019.0,spring,BRCC,5,Team oNe,Operation Kino,1.0,26:35,OK,blue,ONE,   VITÓRIA   ,52.7 mil,21,  7 ,  2 ,  1 ,  2 ,  1 ,LeeSin,TahmKench,Karthus,Sivir,Ezreal
+2019.0,spring,BRCC,5,Team oNe,Operation Kino,1.0,26:35,OK,red,OPK,   DERROTA   ,38.2 mil,5,  0 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Lucian,JarvanIV,Leblanc,Jayce
+2019.0,spring,BRCC,5,PAIN,Havan Liberty Gaming,1.0,30:25,OK,blue,PNG,   VITÓRIA   ,61.1 mil,18,  11 ,  3 ,  1 ,  4 ,  1 ,Lissandra,Thresh,Lucian,Zoe,Leblanc
+2019.0,spring,BRCC,5,PAIN,Havan Liberty Gaming,1.0,30:25,OK,red,HL,   DERROTA   ,46.7 mil,9,  0 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Sion,Karthus,Kaisa,Sivir
+2019.0,spring,BRCC,6,Team oNe,Havan Liberty Gaming,1.0,28:34,OK,blue,ONE,   VITÓRIA   ,55.3 mil,20,  10 ,  2 ,  1 ,  4 ,  1 ,TahmKench,Yasuo,Sylas,Yorick,Camille
+2019.0,spring,BRCC,6,Team oNe,Havan Liberty Gaming,1.0,28:34,OK,red,HL,   DERROTA   ,44.8 mil,9,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Braum,Jayce,Ezreal,Kalista
+2019.0,spring,BRCC,6,Falkol,Operation Kino,1.0,50:42,OK,blue,FKL,   VITÓRIA   ,90.2 mil,25,  9 ,  1 ,  1 ,  5 ,  1 ,Sejuani,Karthus,Sion,Ezreal,Urgot
+2019.0,spring,BRCC,6,Falkol,Operation Kino,1.0,50:42,OK,red,OPK,   DERROTA   ,83.1 mil,20,  7 ,  3 ,  3 ,  3 ,  0 ,Cassiopeia,Lucian,Leblanc,JarvanIV,XinZhao
+2019.0,spring,BRCC,6,PAIN,RED Canids,1.0,31:39,OK,blue,PNG,   DERROTA   ,51.7 mil,8,  2 ,  0 ,  0 ,  0 ,  1 ,Ezreal,Leblanc,Jayce,Urgot,Irelia
+2019.0,spring,BRCC,6,PAIN,RED Canids,1.0,31:39,OK,red,RED,   VITÓRIA   ,60.7 mil,21,  10 ,  3 ,  2 ,  4 ,  0 ,Yorick,Lucian,Karthus,Xayah,Ryze
+2019.0,spring,BRCC,6,RED Canids,Havan Liberty Gaming,1.0,38:41,OK,blue,RED,   VITÓRIA   ,70.4 mil,13,  10 ,  3 ,  2 ,  5 ,  1 ,Draven,Thresh,Vladimir,XinZhao,JarvanIV
+2019.0,spring,BRCC,6,RED Canids,Havan Liberty Gaming,1.0,38:41,OK,red,HL,   DERROTA   ,63.4 mil,14,  2 ,  0 ,  0 ,  1 ,  0 ,Karthus,Lucian,Urgot,Nocturne,Jayce
+2019.0,spring,BRCC,6,Operation Kino,PAIN,1.0,29:44,OK,blue,OPK,   DERROTA   ,46.6 mil,4,  3 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Yorick,Yasuo,Sivir,Lissandra
+2019.0,spring,BRCC,6,Operation Kino,PAIN,1.0,29:44,OK,red,PNG,   VITÓRIA   ,60.0 mil,17,  9 ,  2 ,  1 ,  3 ,  1 ,Lucian,Karthus,Zoe,Urgot,Kalista
+2019.0,spring,BRCC,6,Team oNe,Falkol,1.0,26:37,OK,blue,ONE,   VITÓRIA   ,53.9 mil,20,  8 ,  1 ,  0 ,  4 ,  1 ,TahmKench,Sylas,Galio,Ezreal,Yorick
+2019.0,spring,BRCC,6,Team oNe,Falkol,1.0,26:37,OK,red,FKL,   DERROTA   ,39.2 mil,3,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Lucian,Yasuo,Jayce,Zed
+2019.0,spring,BRCC,7,Falkol,PAIN,1.0,23:44,OK,blue,FKL,   DERROTA   ,38.7 mil,4,  3 ,  0 ,  1 ,  2 ,  1 ,Vladimir,Yasuo,Karthus,Ezreal,Leblanc
+2019.0,spring,BRCC,7,Falkol,PAIN,1.0,23:44,OK,red,PNG,   VITÓRIA   ,41.4 mil,5,  7 ,  1 ,  0 ,  1 ,  0 ,Lucian,TahmKench,Neeko,Olaf,Lissandra
+2019.0,spring,BRCC,7,RED Canids,Team oNe,1.0,27:51,OK,blue,RED,   VITÓRIA   ,50.9 mil,10,  8 ,  2 ,  1 ,  2 ,  0 ,RekSai,Leblanc,Yasuo,Olaf,Yorick
+2019.0,spring,BRCC,7,RED Canids,Team oNe,1.0,27:51,OK,red,ONE,   DERROTA   ,44.3 mil,4,  4 ,  0 ,  0 ,  1 ,  1 ,Lucian,Karthus,Galio,Varus,Lissandra
+2019.0,spring,BRCC,7,Operation Kino,Havan Liberty Gaming,1.0,44:45,OK,blue,OPK,   DERROTA   ,75.2 mil,16,  6 ,  0 ,  1 ,  5 ,  1 ,Thresh,Lissandra,JarvanIV,Yorick,Ryze
+2019.0,spring,BRCC,7,Operation Kino,Havan Liberty Gaming,1.0,44:45,OK,red,HL,   VITÓRIA   ,78.0 mil,10,  10 ,  2 ,  1 ,  2 ,  0 ,Jayce,Neeko,Karthus,RekSai,Olaf
+2019.0,spring,BRCC,7,PAIN,Team oNe,1.0,38:48,OK,blue,PNG,   VITÓRIA   ,73.1 mil,23,  9 ,  2 ,  0 ,  6 ,  1 ,Yasuo,TahmKench,Lissandra,Yorick,Cassiopeia
+2019.0,spring,BRCC,7,PAIN,Team oNe,1.0,38:48,OK,red,ONE,   DERROTA   ,62.8 mil,14,  1 ,  0 ,  1 ,  0 ,  0 ,Lucian,Karthus,Thresh,Ryze,Syndra
+2019.0,spring,BRCC,7,Havan Liberty Gaming,Falkol,1.0,38:51,OK,blue,HL,   VITÓRIA   ,71.5 mil,17,  10 ,  4 ,  1 ,  3 ,  0 ,Leblanc,Kalista,Galio,Yorick,Ryze
+2019.0,spring,BRCC,7,Havan Liberty Gaming,Falkol,1.0,38:51,OK,red,FKL,   DERROTA   ,67.2 mil,14,  6 ,  0 ,  2 ,  3 ,  1 ,Yasuo,Neeko,Karthus,Thresh,TahmKench
+2019.0,spring,BRCC,7,Operation Kino,RED Canids,1.0,38:01,OK,blue,OPK,   VITÓRIA   ,69.7 mil,20,  6 ,  1 ,  1 ,  3 ,  0 ,Thresh,Lissandra,Galio,Yorick,Elise
+2019.0,spring,BRCC,7,Operation Kino,RED Canids,1.0,38:01,OK,red,RED,   DERROTA   ,67.4 mil,10,  10 ,  3 ,  0 ,  2 ,  1 ,Lucian,Karthus,Leblanc,Alistar,Rakan
+2019.0,spring,BRCC,8,Team oNe,Operation Kino,1.0,22:48,OK,blue,ONE,   VITÓRIA   ,49.3 mil,17,  11 ,  2 ,  0 ,  3 ,  1 ,Yasuo,Jayce,Karthus,Braum,Morgana
+2019.0,spring,BRCC,8,Team oNe,Operation Kino,1.0,22:48,OK,red,OPK,   DERROTA   ,34.0 mil,5,  0 ,  0 ,  0 ,  0 ,  0 ,RekSai,Lucian,Kalista,Draven,Ashe
+2019.0,spring,BRCC,8,PAIN,Havan Liberty Gaming,1.0,28:11,OK,blue,PNG,   VITÓRIA   ,53.9 mil,14,  9 ,  2 ,  1 ,  3 ,  1 ,Lucian,Draven,Leblanc,Yorick,Lissandra
+2019.0,spring,BRCC,8,PAIN,Havan Liberty Gaming,1.0,28:11,OK,red,HL,   DERROTA   ,39.9 mil,5,  0 ,  0 ,  0 ,  0 ,  0 ,Jayce,Karthus,Ryze,Graves,Irelia
+2019.0,spring,BRCC,8,RED Canids,Falkol,1.0,30:19,OK,blue,RED,   VITÓRIA   ,56.9 mil,11,  9 ,  1 ,  0 ,  4 ,  1 ,Taliyah,Vladimir,Cassiopeia,Ryze,Syndra
+2019.0,spring,BRCC,8,RED Canids,Falkol,1.0,30:19,OK,red,FKL,   DERROTA   ,50.4 mil,8,  2 ,  0 ,  0 ,  0 ,  0 ,Jayce,Karthus,Thresh,RekSai,Nocturne

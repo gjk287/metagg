@@ -1,0 +1,183 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,LEC,1,G2,Misfits,1.0,42:36,OK,blue,G2,   VICTORY   ,86.6k,18,  11 ,  4 ,  1 ,  2 ,  1 ,Shen,Malzahar,Azir,JarvanIV,Khazix
+2018.0,spring,LEC,1,G2,Misfits,1.0,42:36,OK,red,MSF,   DEFEAT   ,73.8k,7,  3 ,  0 ,  1 ,  3 ,  0 ,Ezreal,Zoe,Kalista,Tristana,Ziggs
+2018.0,spring,LEC,1,H2k Gaming,Team Vitality,1.0,33:05,OK,blue,H2K,   DEFEAT   ,55.0k,3,  3 ,  0 ,  1 ,  0 ,  1 ,Shen,Sejuani,KogMaw,Tristana,Varus
+2018.0,spring,LEC,1,H2k Gaming,Team Vitality,1.0,33:05,OK,red,VIT,   VICTORY   ,65.6k,17,  7 ,  1 ,  0 ,  3 ,  0 ,Alistar,Evelynn,Rengar,Zoe,Azir
+2018.0,spring,LEC,1,Unicorns Of Love,Giants Gaming,1.0,33:52,OK,blue,UOL,   DEFEAT   ,54.1k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Khazix,Alistar,Poppy,Malzahar,
+2018.0,spring,LEC,1,Unicorns Of Love,Giants Gaming,1.0,33:52,OK,red,GIA,   VICTORY   ,67.7k,12,  11 ,  3 ,  1 ,  2 ,  1 ,Kalista,Ezreal,Ryze,Braum,Zoe
+2018.0,spring,LEC,1,Team ROCCAT,FC Schalke,1.0,30:33,OK,blue,ROC,   DEFEAT   ,49.4k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Alistar,Zoe,KogMaw,Caitlyn,Tristana
+2018.0,spring,LEC,1,Team ROCCAT,FC Schalke,1.0,30:33,OK,red,S04,   VICTORY   ,60.7k,14,  7 ,  1 ,  1 ,  1 ,  1 ,Kalista,JarvanIV,Xayah,Sejuani,Vladimir
+2018.0,spring,LEC,1,Fnatic,Splyce,1.0,40:39,OK,blue,FNC,   VICTORY   ,81.0k,10,  11 ,  3 ,  2 ,  4 ,  1 ,Evelynn,Malzahar,Kalista,KogMaw,Braum
+2018.0,spring,LEC,1,Fnatic,Splyce,1.0,40:39,OK,red,SPY,   DEFEAT   ,67.5k,6,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,Shen,Gangplank,Camille,TahmKench
+2018.0,spring,LEC,1,Giants Gaming,Team Vitality,1.0,40:38,OK,blue,GIA,   DEFEAT   ,71.7k,7,  6 ,  0 ,  1 ,  0 ,  1 ,Shen,JarvanIV,Kalista,Ezreal,Varus
+2018.0,spring,LEC,1,Giants Gaming,Team Vitality,1.0,40:38,OK,red,VIT,   VICTORY   ,74.7k,10,  6 ,  1 ,  1 ,  2 ,  0 ,Alistar,Ornn,Gnar,Braum,Taric
+2018.0,spring,LEC,1,Splyce,Unicorns Of Love,1.0,1:08:09,OK,blue,UOL,   DEFEAT   ,133.2k,12,  11 ,  8 ,  2 ,  5 ,  1 ,Khazix,Alistar,Kalista,Gangplank,Skarner
+2018.0,spring,LEC,1,Splyce,Unicorns Of Love,1.0,1:08:09,OK,red,SPY,   VICTORY   ,126.1k,8,  11 ,  6 ,  3 ,  1 ,  0 ,Evelynn,Zoe,Shen,Sejuani,JarvanIV
+2018.0,spring,LEC,1,H2k Gaming,Fnatic,1.0,43:47,OK,blue,FNC,   DEFEAT   ,77.9k,8,  6 ,  0 ,  0 ,  3 ,  1 ,Evelynn,Kalista,Malzahar,Ezreal,Jayce
+2018.0,spring,LEC,1,H2k Gaming,Fnatic,1.0,43:47,OK,red,H2K,   VICTORY   ,84.1k,13,  8 ,  1 ,  3 ,  2 ,  0 ,Azir,Ornn,TahmKench,KogMaw,Tristana
+2018.0,spring,LEC,1,G2,Team ROCCAT,1.0,45:05,OK,blue,G2,   DEFEAT   ,82.5k,7,  6 ,  0 ,  1 ,  3 ,  0 ,Shen,Malzahar,Khazix,Sejuani,Camille
+2018.0,spring,LEC,1,G2,Team ROCCAT,1.0,45:05,OK,red,ROC,   VICTORY   ,87.0k,12,  10 ,  4 ,  2 ,  1 ,  1 ,Zoe,Kalista,Ezreal,Varus,Caitlyn
+2018.0,spring,LEC,1,Misfits,FC Schalke,1.0,42:05,OK,blue,MSF,   VICTORY   ,87.8k,18,  10 ,  1 ,  2 ,  2 ,  0 ,Shen,Malzahar,Zoe,Gnar,Ornn
+2018.0,spring,LEC,1,Misfits,FC Schalke,1.0,42:05,OK,red,S04,   DEFEAT   ,69.2k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Kalista,Xayah,JarvanIV,TahmKench,KogMaw
+2018.0,spring,LEC,2,Giants Gaming,G2,1.0,39:58,OK,blue,GIA,   VICTORY   ,76.3k,16,  10 ,  2 ,  2 ,  0 ,  0 ,Kalista,KogMaw,Ryze,Zac,Khazix
+2018.0,spring,LEC,2,Giants Gaming,G2,1.0,39:58,OK,red,G2,   DEFEAT   ,70.2k,7,  3 ,  0 ,  0 ,  4 ,  0 ,Galio,JarvanIV,Braum,Sivir,Tristana
+2018.0,spring,LEC,2,Splyce,Team ROCCAT,1.0,44:14,OK,blue,SPY,   DEFEAT   ,75.1k,7,  4 ,  0 ,  0 ,  2 ,  0 ,Kalista,Galio,Evelynn,Zac,Sejuani
+2018.0,spring,LEC,2,Splyce,Team ROCCAT,1.0,44:14,OK,red,ROC,   VICTORY   ,92.6k,13,  11 ,  4 ,  3 ,  2 ,  0 ,Janna,Gangplank,KogMaw,Caitlyn,Sivir
+2018.0,spring,LEC,2,Misfits,H2k Gaming,1.0,31:42,OK,blue,MSF,   VICTORY   ,63.1k,7,  8 ,  1 ,  1 ,  3 ,  0 ,Ryze,Sivir,Ezreal,Jayce,Camille
+2018.0,spring,LEC,2,Misfits,H2k Gaming,1.0,31:42,OK,red,H2K,   DEFEAT   ,52.3k,0,  2 ,  0 ,  0 ,  0 ,  1 ,Kalista,Xayah,Galio,Ornn,Khazix
+2018.0,spring,LEC,2,Fnatic,Team Vitality,1.0,41:00,OK,blue,FNC,   DEFEAT   ,75.9k,5,  5 ,  0 ,  1 ,  2 ,  1 ,TahmKench,Kalista,Zoe,Jayce,Camille
+2018.0,spring,LEC,2,Fnatic,Team Vitality,1.0,41:00,OK,red,VIT,   VICTORY   ,81.5k,12,  10 ,  3 ,  1 ,  2 ,  0 ,Gnar,Ornn,Alistar,Shen,Chogath
+2018.0,spring,LEC,2,Unicorns Of Love,FC Schalke,1.0,35:55,OK,blue,UOL,   DEFEAT   ,60.2k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Khazix,Rengar,Alistar,Gnar,Zoe
+2018.0,spring,LEC,2,Unicorns Of Love,FC Schalke,1.0,35:55,OK,red,S04,   VICTORY   ,71.2k,10,  10 ,  2 ,  1 ,  4 ,  0 ,Evelynn,Ryze,Kalista,Sejuani,Zac
+2018.0,spring,LEC,2,Giants Gaming,H2k Gaming,1.0,30:07,OK,blue,GIA,   VICTORY   ,57.6k,6,  8 ,  1 ,  1 ,  1 ,  0 ,Vladimir,Zoe,Jayce,Veigar,Galio
+2018.0,spring,LEC,2,Giants Gaming,H2k Gaming,1.0,30:07,OK,red,H2K,   DEFEAT   ,51.9k,3,  3 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Kalista,Sejuani,Khazix,Skarner
+2018.0,spring,LEC,2,Team ROCCAT,Unicorns Of Love,1.0,31:31,OK,blue,ROC,   VICTORY   ,64.2k,12,  11 ,  2 ,  1 ,  0 ,  1 ,Zoe,Sejuani,KogMaw,Zac,JarvanIV
+2018.0,spring,LEC,2,Team ROCCAT,Unicorns Of Love,1.0,31:31,OK,red,UOL,   DEFEAT   ,56.3k,2,  3 ,  0 ,  0 ,  2 ,  0 ,Evelynn,Ryze,TahmKench,Gnar,Khazix
+2018.0,spring,LEC,2,Misfits,Team Vitality,1.0,31:20,OK,blue,MSF,   VICTORY   ,63.3k,14,  8 ,  1 ,  2 ,  0 ,  0 ,Ryze,Galio,Ezreal,Jayce,Gangplank
+2018.0,spring,LEC,2,Misfits,Team Vitality,1.0,31:20,OK,red,VIT,   DEFEAT   ,54.8k,3,  6 ,  1 ,  0 ,  2 ,  1 ,Ornn,Kalista,Camille,Gnar,Vladimir
+2018.0,spring,LEC,2,FC Schalke,Splyce,1.0,47:57,OK,blue,S04,   DEFEAT   ,91.0k,5,  7 ,  0 ,  2 ,  2 ,  0 ,Skarner,Kalista,Velkoz,Braum,Janna
+2018.0,spring,LEC,2,FC Schalke,Splyce,1.0,47:57,OK,red,SPY,   VICTORY   ,92.6k,11,  10 ,  2 ,  1 ,  2 ,  0 ,KogMaw,Ryze,Rengar,Tristana,Gnar
+2018.0,spring,LEC,2,Fnatic,G2,1.0,43:39,OK,blue,FNC,   VICTORY   ,84.6k,11,  11 ,  4 ,  2 ,  2 ,  0 ,Ryze,KogMaw,Kalista,Ornn,Ezreal
+2018.0,spring,LEC,2,Fnatic,G2,1.0,43:39,OK,red,G2,   DEFEAT   ,79.3k,10,  4 ,  0 ,  0 ,  2 ,  0 ,Galio,Shen,Vladimir,JarvanIV,Zac
+2018.0,spring,LEC,3,Unicorns Of Love,H2k Gaming,1.0,35:06,OK,blue,UOL,   VICTORY   ,67.7k,9,  11 ,  3 ,  1 ,  3 ,  1 ,Camille,Galio,Kalista,Sejuani,Khazix
+2018.0,spring,LEC,3,Unicorns Of Love,H2k Gaming,1.0,35:06,OK,red,H2K,   DEFEAT   ,54.8k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Nunu,TahmKench,KogMaw,Varus,Xayah
+2018.0,spring,LEC,3,Giants Gaming,Team ROCCAT,1.0,39:09,OK,blue,GIA,   VICTORY   ,71.3k,16,  8 ,  2 ,  1 ,  2 ,  0 ,Zoe,Kalista,Ryze,Zac,Jax
+2018.0,spring,LEC,3,Giants Gaming,Team ROCCAT,1.0,39:09,OK,red,ROC,   DEFEAT   ,65.4k,9,  4 ,  0 ,  0 ,  1 ,  1 ,Nunu,Sejuani,KogMaw,Varus,TahmKench
+2018.0,spring,LEC,3,FC Schalke,Team Vitality,1.0,35:43,OK,blue,S04,   DEFEAT   ,59.6k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Zac,JarvanIV,Ryze,Tristana,Jinx
+2018.0,spring,LEC,3,FC Schalke,Team Vitality,1.0,35:43,OK,red,VIT,   VICTORY   ,66.8k,9,  11 ,  5 ,  2 ,  3 ,  1 ,KogMaw,Caitlyn,TahmKench,Evelynn,Ornn
+2018.0,spring,LEC,3,G2,Splyce,1.0,42:31,OK,blue,G2,   VICTORY   ,77.0k,7,  11 ,  3 ,  2 ,  4 ,  1 ,Zac,Galio,Caitlyn,Lulu,Zilean
+2018.0,spring,LEC,3,G2,Splyce,1.0,42:31,OK,red,SPY,   DEFEAT   ,67.2k,2,  4 ,  0 ,  1 ,  0 ,  0 ,Ryze,Kalista,Nunu,Braum,Camille
+2018.0,spring,LEC,3,Fnatic,Misfits,1.0,1:04:26,OK,blue,FNC,   DEFEAT   ,110.4k,9,  9 ,  10 ,  2 ,  3 ,  1 ,Caitlyn,Ryze,Kalista,Jayce,Camille
+2018.0,spring,LEC,3,Fnatic,Misfits,1.0,1:04:26,OK,red,MSF,   VICTORY   ,125.6k,19,  8 ,  1 ,  4 ,  3 ,  0 ,Tristana,Galio,TahmKench,JarvanIV,Zac
+2018.0,spring,LEC,3,Unicorns Of Love,Team Vitality,1.0,29:54,OK,blue,UOL,   DEFEAT   ,47.3k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Camille,Alistar,Sejuani,Gangplank,Gnar
+2018.0,spring,LEC,3,Unicorns Of Love,Team Vitality,1.0,29:54,OK,red,VIT,   VICTORY   ,56.8k,8,  7 ,  1 ,  1 ,  3 ,  1 ,TahmKench,Ryze,Kalista,Vladimir,Ornn
+2018.0,spring,LEC,3,FC Schalke,Giants Gaming,1.0,36:19,OK,blue,S04,   VICTORY   ,72.9k,22,  10 ,  2 ,  1 ,  0 ,  0 ,Azir,Zac,JarvanIV,Skarner,TahmKench
+2018.0,spring,LEC,3,FC Schalke,Giants Gaming,1.0,36:19,OK,red,GIA,   DEFEAT   ,59.0k,9,  5 ,  0 ,  0 ,  4 ,  1 ,Kalista,Ryze,Varus,Jinx,KogMaw
+2018.0,spring,LEC,3,Team ROCCAT,Fnatic,1.0,39:50,OK,blue,ROC,   DEFEAT   ,64.5k,3,  2 ,  0 ,  0 ,  0 ,  1 ,TahmKench,Zoe,Ryze,Ornn,Taliyah
+2018.0,spring,LEC,3,Team ROCCAT,Fnatic,1.0,39:50,OK,red,FNC,   VICTORY   ,79.2k,17,  11 ,  3 ,  2 ,  3 ,  0 ,Braum,Azir,Galio,Thresh,Janna
+2018.0,spring,LEC,3,H2k Gaming,G2,1.0,32:32,OK,blue,H2K,   DEFEAT   ,50.6k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Kalista,Zoe,TahmKench,Janna,Morgana
+2018.0,spring,LEC,3,H2k Gaming,G2,1.0,32:32,OK,red,G2,   VICTORY   ,69.2k,9,  11 ,  3 ,  2 ,  2 ,  0 ,Galio,Braum,Nunu,Caitlyn,Varus
+2018.0,spring,LEC,3,Misfits,Splyce,1.0,52:29,OK,blue,MSF,   DEFEAT   ,97.4k,14,  7 ,  0 ,  1 ,  4 ,  1 ,Sejuani,Azir,Caitlyn,Braum,Taric
+2018.0,spring,LEC,3,Misfits,Splyce,1.0,52:29,OK,red,SPY,   VICTORY   ,90.8k,10,  7 ,  1 ,  2 ,  1 ,  0 ,Ryze,Kalista,Zoe,Camille,Gangplank
+2018.0,spring,LEC,4,H2k Gaming,Splyce,1.0,34:02,OK,blue,H2K,   DEFEAT   ,55.2k,0,  2 ,  0 ,  1 ,  1 ,  1 ,Galio,TahmKench,Azir,Malzahar,Leblanc
+2018.0,spring,LEC,4,H2k Gaming,Splyce,1.0,34:02,OK,red,SPY,   VICTORY   ,62.2k,8,  7 ,  1 ,  0 ,  3 ,  0 ,Taliyah,Ryze,Kalista,Jinx,Xayah
+2018.0,spring,LEC,4,Team ROCCAT,Team Vitality,1.0,1:08:55,OK,blue,ROC,   DEFEAT   ,127.4k,6,  9 ,  8 ,  4 ,  2 ,  0 ,Zoe,Galio,Caitlyn,Thresh,Janna
+2018.0,spring,LEC,4,Team ROCCAT,Team Vitality,1.0,1:08:55,OK,red,VIT,   VICTORY   ,132.3k,14,  10 ,  2 ,  1 ,  2 ,  1 ,Camille,Kalista,TahmKench,Blitzcrank,Xayah
+2018.0,spring,LEC,4,Giants Gaming,Misfits,1.0,38:00,OK,blue,GIA,   VICTORY   ,69.5k,13,  6 ,  1 ,  1 ,  0 ,  0 ,Zoe,KogMaw,Xayah,Janna,Varus
+2018.0,spring,LEC,4,Giants Gaming,Misfits,1.0,38:00,OK,red,MSF,   DEFEAT   ,72.0k,8,  4 ,  0 ,  1 ,  4 ,  1 ,Galio,Sejuani,Caitlyn,Braum,Kalista
+2018.0,spring,LEC,4,Fnatic,Unicorns Of Love,1.0,34:35,OK,blue,FNC,   VICTORY   ,65.3k,16,  8 ,  1 ,  1 ,  0 ,  0 ,Ryze,Braum,Camille,Gangplank,Zac
+2018.0,spring,LEC,4,Fnatic,Unicorns Of Love,1.0,34:35,OK,red,UOL,   DEFEAT   ,59.9k,11,  6 ,  0 ,  1 ,  1 ,  1 ,TahmKench,Tristana,Azir,Twitch,Ornn
+2018.0,spring,LEC,4,G2,FC Schalke,1.0,57:39,OK,blue,G2,   VICTORY   ,107.5k,18,  8 ,  1 ,  2 ,  2 ,  0 ,Galio,Camille,Azir,Braum,Twitch
+2018.0,spring,LEC,4,G2,FC Schalke,1.0,57:39,OK,red,S04,   DEFEAT   ,104.1k,17,  9 ,  3 ,  1 ,  4 ,  1 ,Kalista,JarvanIV,Ryze,Xayah,KogMaw
+2018.0,spring,LEC,4,Splyce,Team Vitality,1.0,39:45,OK,blue,SPY,   DEFEAT   ,63.8k,8,  0 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Kalista,Ryze,Jinx,Taric
+2018.0,spring,LEC,4,Splyce,Team Vitality,1.0,39:45,OK,red,VIT,   VICTORY   ,82.4k,14,  11 ,  7 ,  3 ,  5 ,  1 ,Camille,TahmKench,Zac,Gnar,Ornn
+2018.0,spring,LEC,4,FC Schalke,H2k Gaming,1.0,30:07,OK,blue,S04,   VICTORY   ,62.9k,16,  11 ,  3 ,  1 ,  3 ,  0 ,JarvanIV,Kalista,Ryze,Malzahar,Taliyah
+2018.0,spring,LEC,4,FC Schalke,H2k Gaming,1.0,30:07,OK,red,H2K,   DEFEAT   ,46.1k,1,  2 ,  0 ,  0 ,  0 ,  1 ,TahmKench,Azir,Galio,Janna,Taric
+2018.0,spring,LEC,4,Team ROCCAT,Misfits,1.0,32:05,OK,blue,ROC,   VICTORY   ,65.4k,11,  11 ,  3 ,  1 ,  2 ,  0 ,Zoe,Gangplank,KogMaw,Kalista,Xayah
+2018.0,spring,LEC,4,Team ROCCAT,Misfits,1.0,32:05,OK,red,MSF,   DEFEAT   ,46.9k,0,  0 ,  0 ,  0 ,  0 ,  1 ,Galio,Sejuani,TahmKench,Braum,Ezreal
+2018.0,spring,LEC,4,Fnatic,Giants Gaming,1.0,31:37,OK,blue,FNC,   VICTORY   ,63.2k,14,  9 ,  1 ,  1 ,  2 ,  0 ,Camille,TahmKench,Gangplank,Caitlyn,Thresh
+2018.0,spring,LEC,4,Fnatic,Giants Gaming,1.0,31:37,OK,red,GIA,   DEFEAT   ,51.5k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Galio,Xayah,Vladimir,Zoe,Ryze
+2018.0,spring,LEC,4,G2,Unicorns Of Love,1.0,36:51,OK,blue,G2,   VICTORY   ,76.1k,12,  10 ,  1 ,  2 ,  2 ,  1 ,Galio,Rakan,Gnar,Kalista,Varus
+2018.0,spring,LEC,4,G2,Unicorns Of Love,1.0,36:51,OK,red,UOL,   DEFEAT   ,60.4k,10,  3 ,  0 ,  0 ,  2 ,  0 ,Ryze,TahmKench,Camille,Braum,Taric
+2018.0,spring,LEC,5,Giants Gaming,Splyce,1.0,27:09,OK,blue,GIA,   DEFEAT   ,43.2k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Caitlyn,Sejuani,Tristana,Rakan,Cassiopeia
+2018.0,spring,LEC,5,Giants Gaming,Splyce,1.0,27:09,OK,red,SPY,   VICTORY   ,55.3k,8,  11 ,  3 ,  1 ,  3 ,  1 ,Galio,Kalista,Azir,Ziggs,Thresh
+2018.0,spring,LEC,5,Team ROCCAT,H2k Gaming,1.0,36:04,OK,blue,ROC,   DEFEAT   ,62.8k,10,  5 ,  0 ,  1 ,  1 ,  0 ,Zoe,Taliyah,Galio,Jax,Fiora
+2018.0,spring,LEC,5,Team ROCCAT,H2k Gaming,1.0,36:04,OK,red,H2K,   VICTORY   ,68.7k,17,  7 ,  1 ,  1 ,  1 ,  1 ,Kalista,TahmKench,Azir,Tristana,Alistar
+2018.0,spring,LEC,5,Misfits,Unicorns Of Love,1.0,34:24,OK,blue,MSF,   VICTORY   ,65.3k,11,  8 ,  1 ,  1 ,  2 ,  1 ,Sejuani,Camille,Vladimir,Corki,Ryze
+2018.0,spring,LEC,5,Misfits,Unicorns Of Love,1.0,34:24,OK,red,UOL,   DEFEAT   ,52.2k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Gangplank,TahmKench,Kalista,Ornn,Jayce
+2018.0,spring,LEC,5,G2,Team Vitality,1.0,34:01,OK,blue,G2,   VICTORY   ,66.3k,11,  11 ,  3 ,  1 ,  2 ,  0 ,Ryze,JarvanIV,Camille,Thresh,Taric
+2018.0,spring,LEC,5,G2,Team Vitality,1.0,34:01,OK,red,VIT,   DEFEAT   ,51.5k,0,  0 ,  0 ,  0 ,  2 ,  0 ,TahmKench,Braum,Varus,Malzahar,Leblanc
+2018.0,spring,LEC,5,FC Schalke,Fnatic,1.0,32:37,OK,blue,S04,   DEFEAT   ,54.8k,5,  4 ,  0 ,  0 ,  2 ,  1 ,JarvanIV,Xayah,Sivir,Twitch,Varus
+2018.0,spring,LEC,5,FC Schalke,Fnatic,1.0,32:37,OK,red,FNC,   VICTORY   ,66.5k,10,  9 ,  1 ,  1 ,  2 ,  0 ,Camille,Zoe,TahmKench,Ryze,Azir
+2018.0,spring,LEC,5,Unicorns Of Love,Giants Gaming,1.0,33:29,OK,blue,UOL,   VICTORY   ,67.7k,22,  10 ,  2 ,  1 ,  4 ,  0 ,Camille,TahmKench,Rakan,Galio,Alistar
+2018.0,spring,LEC,5,Unicorns Of Love,Giants Gaming,1.0,33:29,OK,red,GIA,   DEFEAT   ,54.3k,11,  3 ,  0 ,  0 ,  0 ,  1 ,Ryze,Azir,Taliyah,Caitlyn,Kalista
+2018.0,spring,LEC,5,Team Vitality,H2k Gaming,1.0,33:01,OK,blue,VIT,   DEFEAT   ,59.5k,8,  4 ,  0 ,  0 ,  1 ,  0 ,Zac,Xayah,Thresh,Gnar,Vladimir
+2018.0,spring,LEC,5,Team Vitality,H2k Gaming,1.0,33:01,OK,red,H2K,   VICTORY   ,62.3k,10,  11 ,  3 ,  1 ,  3 ,  1 ,Kalista,TahmKench,Camille,Caitlyn,Varus
+2018.0,spring,LEC,5,FC Schalke,Team ROCCAT,1.0,37:41,OK,blue,S04,   DEFEAT   ,59.5k,2,  3 ,  0 ,  1 ,  2 ,  0 ,Gnar,Camille,Ryze,Galio,Kassadin
+2018.0,spring,LEC,5,FC Schalke,Team ROCCAT,1.0,37:41,OK,red,ROC,   VICTORY   ,65.8k,11,  7 ,  1 ,  0 ,  1 ,  1 ,Zoe,Gangplank,Caitlyn,Varus,Kalista
+2018.0,spring,LEC,5,Misfits,G2,1.0,36:52,OK,blue,MSF,   DEFEAT   ,63.8k,6,  5 ,  0 ,  0 ,  2 ,  1 ,Sejuani,Camille,TahmKench,Viktor,Alistar
+2018.0,spring,LEC,5,Misfits,G2,1.0,36:52,OK,red,G2,   VICTORY   ,68.5k,14,  10 ,  2 ,  1 ,  2 ,  0 ,Galio,Kalista,Gangplank,Ezreal,Braum
+2018.0,spring,LEC,5,Fnatic,Splyce,1.0,43:08,OK,blue,FNC,   VICTORY   ,82.0k,13,  10 ,  2 ,  0 ,  2 ,  1 ,Zilean,Camille,Zac,TahmKench,Morgana
+2018.0,spring,LEC,5,Fnatic,Splyce,1.0,43:08,OK,red,SPY,   DEFEAT   ,70.0k,7,  3 ,  0 ,  1 ,  3 ,  0 ,Tristana,Gangplank,Xayah,Twitch,Sivir
+2018.0,spring,LEC,6,Splyce,Unicorns Of Love,1.0,45:37,OK,blue,SPY,   DEFEAT   ,79.7k,17,  3 ,  0 ,  0 ,  0 ,  0 ,Xayah,Vladimir,Zoe,Ornn,Jax
+2018.0,spring,LEC,6,Splyce,Unicorns Of Love,1.0,45:37,OK,red,UOL,   VICTORY   ,88.3k,17,  9 ,  1 ,  3 ,  4 ,  1 ,Skarner,Camille,Caitlyn,TahmKench,Varus
+2018.0,spring,LEC,6,Team ROCCAT,G2,1.0,40:30,OK,blue,ROC,   DEFEAT   ,63.4k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Kalista,Galio,Jinx,Ryze
+2018.0,spring,LEC,6,Team ROCCAT,G2,1.0,40:30,OK,red,G2,   VICTORY   ,80.7k,10,  11 ,  4 ,  2 ,  3 ,  1 ,Gangplank,Skarner,Braum,Sejuani,Janna
+2018.0,spring,LEC,6,Fnatic,H2k Gaming,1.0,38:30,OK,blue,FNC,   VICTORY   ,75.8k,18,  10 ,  1 ,  1 ,  2 ,  0 ,Camille,Zoe,Galio,Braum,Alistar
+2018.0,spring,LEC,6,Fnatic,H2k Gaming,1.0,38:30,OK,red,H2K,   DEFEAT   ,60.8k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Tristana,Gangplank,TahmKench,Corki,Ornn
+2018.0,spring,LEC,6,Team Vitality,Giants Gaming,1.0,29:14,OK,blue,VIT,   DEFEAT   ,47.4k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Galio,Sejuani,Skarner,Braum,TahmKench
+2018.0,spring,LEC,6,Team Vitality,Giants Gaming,1.0,29:14,OK,red,GIA,   VICTORY   ,61.6k,16,  9 ,  2 ,  1 ,  2 ,  0 ,Zoe,Ryze,Camille,Gnar,Lucian
+2018.0,spring,LEC,6,FC Schalke,Misfits,1.0,37:38,OK,blue,S04,   VICTORY   ,66.1k,8,  9 ,  2 ,  1 ,  1 ,  0 ,Kalista,Xayah,Gangplank,Braum,Camille
+2018.0,spring,LEC,6,FC Schalke,Misfits,1.0,37:38,OK,red,MSF,   DEFEAT   ,62.8k,5,  7 ,  1 ,  1 ,  3 ,  1 ,Zoe,Galio,Skarner,Ornn,Chogath
+2018.0,spring,LEC,6,Unicorns Of Love,Team ROCCAT,1.0,49:14,OK,blue,UOL,   VICTORY   ,89.4k,15,  9 ,  2 ,  2 ,  3 ,  0 ,Camille,Caitlyn,Gangplank,Ezreal,Braum
+2018.0,spring,LEC,6,Unicorns Of Love,Team ROCCAT,1.0,49:14,OK,red,ROC,   DEFEAT   ,82.6k,12,  5 ,  0 ,  1 ,  2 ,  1 ,Zoe,Skarner,Ryze,JarvanIV,Zac
+2018.0,spring,LEC,6,H2k Gaming,Giants Gaming,1.0,51:30,OK,blue,H2K,   VICTORY   ,94.1k,13,  7 ,  1 ,  2 ,  0 ,  1 ,TahmKench,Tristana,Ryze,Thresh,Kassadin
+2018.0,spring,LEC,6,H2k Gaming,Giants Gaming,1.0,51:30,OK,red,GIA,   DEFEAT   ,95.6k,17,  10 ,  7 ,  2 ,  5 ,  0 ,Taliyah,Skarner,Zoe,Caitlyn,Alistar
+2018.0,spring,LEC,6,Splyce,FC Schalke,1.0,34:27,OK,blue,SPY,   VICTORY   ,63.2k,7,  8 ,  1 ,  1 ,  4 ,  1 ,Zoe,Jinx,Kalista,Alistar,Azir
+2018.0,spring,LEC,6,Splyce,FC Schalke,1.0,34:27,OK,red,S04,   DEFEAT   ,57.4k,6,  4 ,  2 ,  0 ,  0 ,  0 ,Skarner,Caitlyn,Sejuani,Rakan,Janna
+2018.0,spring,LEC,6,G2,Fnatic,1.0,41:03,OK,blue,G2,   DEFEAT   ,76.8k,6,  6 ,  0 ,  1 ,  2 ,  1 ,JarvanIV,Xayah,Tristana,Ezreal,Azir
+2018.0,spring,LEC,6,G2,Fnatic,1.0,41:03,OK,red,FNC,   VICTORY   ,73.8k,10,  6 ,  1 ,  1 ,  3 ,  0 ,Zoe,Camille,Zac,TahmKench,Taric
+2018.0,spring,LEC,6,Misfits,Team Vitality,1.0,36:25,OK,blue,MSF,   VICTORY   ,70.1k,22,  8 ,  2 ,  1 ,  0 ,  1 ,Ryze,Skarner,Gangplank,Jax,Fiora
+2018.0,spring,LEC,6,Misfits,Team Vitality,1.0,36:25,OK,red,VIT,   DEFEAT   ,60.0k,8,  3 ,  0 ,  0 ,  2 ,  0 ,Tristana,Galio,Sejuani,Braum,Alistar
+2018.0,spring,LEC,7,Team ROCCAT,Giants Gaming,1.0,32:59,OK,blue,ROC,   VICTORY   ,64.3k,11,  11 ,  3 ,  1 ,  2 ,  0 ,Sejuani,Galio,Gangplank,Janna,Brand
+2018.0,spring,LEC,7,Team ROCCAT,Giants Gaming,1.0,32:59,OK,red,GIA,   DEFEAT   ,49.4k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Camille,Ryze,Skarner,Taric,Chogath
+2018.0,spring,LEC,7,Unicorns Of Love,H2k Gaming,1.0,46:47,OK,blue,UOL,   VICTORY   ,85.3k,18,  10 ,  3 ,  2 ,  3 ,  0 ,Camille,Caitlyn,Fiora,Janna,Zilean
+2018.0,spring,LEC,7,Unicorns Of Love,H2k Gaming,1.0,46:47,OK,red,H2K,   DEFEAT   ,80.4k,16,  5 ,  0 ,  1 ,  1 ,  0 ,Ryze,Skarner,Galio,Alistar,Taric
+2018.0,spring,LEC,7,Splyce,G2,1.0,30:39,OK,blue,SPY,   VICTORY   ,57.7k,11,  10 ,  2 ,  2 ,  3 ,  1 ,Trundle,Khazix,Cassiopeia,Tristana,Ezreal
+2018.0,spring,LEC,7,Splyce,G2,1.0,30:39,OK,red,G2,   DEFEAT   ,47.2k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Skarner,Camille,Ryze,Shen,Zac
+2018.0,spring,LEC,7,FC Schalke,Team Vitality,1.0,41:11,OK,blue,S04,   DEFEAT   ,67.0k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Zac,JarvanIV,Khazix,Varus,Jinx
+2018.0,spring,LEC,7,FC Schalke,Team Vitality,1.0,41:11,OK,red,VIT,   VICTORY   ,78.2k,8,  11 ,  4 ,  3 ,  3 ,  0 ,Ryze,Galio,Camille,Chogath,Trundle
+2018.0,spring,LEC,7,Misfits,Fnatic,1.0,54:17,OK,blue,MSF,   VICTORY   ,101.3k,22,  10 ,  3 ,  3 ,  4 ,  1 ,Tristana,Azir,Galio,Kassadin,Taliyah
+2018.0,spring,LEC,7,Misfits,Fnatic,1.0,54:17,OK,red,FNC,   DEFEAT   ,93.9k,11,  4 ,  0 ,  1 ,  2 ,  0 ,Camille,Ryze,Skarner,Zac,Trundle
+2018.0,spring,LEC,7,Team ROCCAT,Splyce,1.0,46:33,OK,blue,ROC,   DEFEAT   ,79.0k,7,  4 ,  0 ,  1 ,  1 ,  1 ,Sejuani,Galio,Ivern,Rakan,Janna
+2018.0,spring,LEC,7,Team ROCCAT,Splyce,1.0,46:33,OK,red,SPY,   VICTORY   ,83.8k,9,  10 ,  2 ,  2 ,  4 ,  0 ,Khazix,Skarner,Braum,Jax,JarvanIV
+2018.0,spring,LEC,7,Unicorns Of Love,FC Schalke,1.0,34:00,OK,blue,UOL,   VICTORY   ,64.8k,17,  9 ,  1 ,  2 ,  2 ,  1 ,Camille,Cassiopeia,Caitlyn,Khazix,JarvanIV
+2018.0,spring,LEC,7,Unicorns Of Love,FC Schalke,1.0,34:00,OK,red,S04,   DEFEAT   ,53.6k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Skarner,Ryze,Xayah,Chogath,Ornn
+2018.0,spring,LEC,7,H2k Gaming,Misfits,1.0,37:18,OK,blue,H2K,   VICTORY   ,69.4k,9,  9 ,  2 ,  2 ,  0 ,  0 ,Shen,Galio,Cassiopeia,JarvanIV,Zac
+2018.0,spring,LEC,7,H2k Gaming,Misfits,1.0,37:18,OK,red,MSF,   DEFEAT   ,59.1k,4,  4 ,  0 ,  0 ,  4 ,  1 ,Skarner,Xayah,Zilean,Trundle,TahmKench
+2018.0,spring,LEC,7,Fnatic,Team Vitality,1.0,46:24,OK,blue,FNC,   VICTORY   ,86.3k,13,  11 ,  3 ,  2 ,  2 ,  0 ,Camille,TahmKench,Sejuani,Taric,Alistar
+2018.0,spring,LEC,7,Fnatic,Team Vitality,1.0,46:24,OK,red,VIT,   DEFEAT   ,82.0k,19,  8 ,  2 ,  1 ,  4 ,  1 ,Ryze,Galio,Skarner,Chogath,Shen
+2018.0,spring,LEC,7,G2,Giants Gaming,1.0,47:16,OK,blue,G2,   VICTORY   ,80.7k,9,  7 ,  1 ,  1 ,  0 ,  1 ,Xayah,Azir,Sejuani,Thresh,Taric
+2018.0,spring,LEC,7,G2,Giants Gaming,1.0,47:16,OK,red,GIA,   DEFEAT   ,85.1k,10,  9 ,  1 ,  2 ,  5 ,  0 ,Ryze,Camille,Varus,Cassiopeia,Corki
+2018.0,spring,LEC,8,Unicorns Of Love,Team Vitality,1.0,37:33,OK,blue,UOL,   DEFEAT   ,57.9k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Caitlyn,Galio,Varus,KogMaw
+2018.0,spring,LEC,8,Unicorns Of Love,Team Vitality,1.0,37:33,OK,red,VIT,   VICTORY   ,71.9k,10,  11 ,  4 ,  2 ,  3 ,  1 ,Ryze,Xayah,Tristana,Skarner,Olaf
+2018.0,spring,LEC,8,Giants Gaming,FC Schalke,1.0,34:31,OK,blue,GIA,   DEFEAT   ,56.2k,8,  3 ,  0 ,  0 ,  1 ,  1 ,Khazix,Sion,Camille,TahmKench,Braum
+2018.0,spring,LEC,8,Giants Gaming,FC Schalke,1.0,34:31,OK,red,S04,   VICTORY   ,64.1k,16,  8 ,  1 ,  1 ,  3 ,  0 ,Skarner,Ryze,Olaf,Galio,Veigar
+2018.0,spring,LEC,8,Misfits,Splyce,1.0,31:42,OK,blue,MSF,   DEFEAT   ,51.7k,7,  3 ,  0 ,  0 ,  3 ,  1 ,Cassiopeia,Camille,Tristana,Trundle,Sion
+2018.0,spring,LEC,8,Misfits,Splyce,1.0,31:42,OK,red,SPY,   VICTORY   ,59.9k,9,  11 ,  2 ,  1 ,  1 ,  0 ,Anivia,Shen,Xayah,Rakan,Alistar
+2018.0,spring,LEC,8,G2,H2k Gaming,1.0,39:51,OK,blue,G2,   DEFEAT   ,66.1k,13,  5 ,  0 ,  0 ,  2 ,  1 ,Camille,Sion,Galio,Khazix,Sejuani
+2018.0,spring,LEC,8,G2,H2k Gaming,1.0,39:51,OK,red,H2K,   VICTORY   ,74.2k,9,  9 ,  2 ,  2 ,  2 ,  0 ,Ryze,Tristana,Zac,Veigar,Corki
+2018.0,spring,LEC,8,Fnatic,Team ROCCAT,1.0,33:37,OK,blue,FNC,   VICTORY   ,68.2k,10,  11 ,  3 ,  1 ,  3 ,  1 ,Camille,Sion,Olaf,Rakan,Braum
+2018.0,spring,LEC,8,Fnatic,Team ROCCAT,1.0,33:37,OK,red,ROC,   DEFEAT   ,49.7k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Tristana,Skarner,TahmKench,Alistar
+2018.0,spring,LEC,8,Giants Gaming,Misfits,1.0,32:38,OK,blue,GIA,   VICTORY   ,64.9k,13,  11 ,  3 ,  1 ,  2 ,  0 ,Anivia,Camille,Xayah,Cassiopeia,TahmKench
+2018.0,spring,LEC,8,Giants Gaming,Misfits,1.0,32:38,OK,red,MSF,   DEFEAT   ,50.8k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Olaf,Skarner,Galio,Chogath,Janna
+2018.0,spring,LEC,8,H2k Gaming,Splyce,1.0,33:10,OK,blue,H2K,   DEFEAT   ,50.8k,0,  2 ,  0 ,  1 ,  0 ,  0 ,Camille,Zac,Galio,Janna,Zilean
+2018.0,spring,LEC,8,H2k Gaming,Splyce,1.0,33:10,OK,red,SPY,   VICTORY   ,63.5k,12,  11 ,  3 ,  1 ,  1 ,  1 ,Anivia,KogMaw,Ryze,Alistar,Corki
+2018.0,spring,LEC,8,Team ROCCAT,Team Vitality,1.0,29:22,OK,blue,ROC,   VICTORY   ,57.3k,15,  11 ,  4 ,  1 ,  2 ,  0 ,Cassiopeia,TahmKench,Sion,Corki,Thresh
+2018.0,spring,LEC,8,Team ROCCAT,Team Vitality,1.0,29:22,OK,red,VIT,   DEFEAT   ,49.1k,5,  3 ,  0 ,  1 ,  1 ,  1 ,Ryze,Xayah,Galio,Shen,Chogath
+2018.0,spring,LEC,8,Fnatic,Unicorns Of Love,1.0,30:31,OK,blue,FNC,   VICTORY   ,58.8k,11,  7 ,  1 ,  1 ,  3 ,  1 ,Azir,Olaf,Ryze,Chogath,Camille
+2018.0,spring,LEC,8,Fnatic,Unicorns Of Love,1.0,30:31,OK,red,UOL,   DEFEAT   ,46.2k,1,  2 ,  0 ,  0 ,  0 ,  0 ,Galio,Skarner,Xayah,Braum,Taric
+2018.0,spring,LEC,8,FC Schalke,G2,1.0,50:05,OK,blue,S04,   VICTORY   ,93.8k,14,  11 ,  4 ,  3 ,  3 ,  0 ,TahmKench,Zac,Olaf,Camille,Sion
+2018.0,spring,LEC,8,FC Schalke,G2,1.0,50:05,OK,red,G2,   DEFEAT   ,84.5k,10,  4 ,  0 ,  0 ,  1 ,  1 ,Ryze,Galio,Skarner,Trundle,Shen
+2018.0,spring,LEC,9,FC Schalke,H2k Gaming,1.0,34:12,OK,blue,S04,   DEFEAT   ,52.7k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Swain,TahmKench,Sejuani,Galio,Sion
+2018.0,spring,LEC,9,FC Schalke,H2k Gaming,1.0,34:12,OK,red,H2K,   VICTORY   ,66.8k,7,  11 ,  3 ,  2 ,  3 ,  0 ,Azir,Tristana,Ryze,Corki,Cassiopeia
+2018.0,spring,LEC,9,Misfits,Team ROCCAT,1.0,32:56,OK,blue,MSF,   DEFEAT   ,49.7k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Caitlyn,Sion,Olaf,KogMaw,Varus
+2018.0,spring,LEC,9,Misfits,Team ROCCAT,1.0,32:56,OK,red,ROC,   VICTORY   ,66.6k,9,  11 ,  3 ,  2 ,  3 ,  1 ,Galio,Ryze,Skarner,Gangplank,Cassiopeia
+2018.0,spring,LEC,9,Team Vitality,Splyce,1.0,33:40,OK,blue,VIT,   VICTORY   ,61.2k,11,  8 ,  1 ,  0 ,  2 ,  1 ,Zac,Galio,Xayah,Swain,Morgana
+2018.0,spring,LEC,9,Team Vitality,Splyce,1.0,33:40,OK,red,SPY,   DEFEAT   ,58.0k,15,  4 ,  0 ,  1 ,  2 ,  0 ,Ryze,TahmKench,Gangplank,Olaf,Skarner
+2018.0,spring,LEC,9,Fnatic,Giants Gaming,1.0,33:31,OK,blue,FNC,   VICTORY   ,68.3k,20,  11 ,  2 ,  1 ,  2 ,  0 ,Galio,Olaf,Skarner,Anivia,Shen
+2018.0,spring,LEC,9,Fnatic,Giants Gaming,1.0,33:31,OK,red,GIA,   DEFEAT   ,54.2k,8,  4 ,  0 ,  0 ,  0 ,  1 ,Tristana,Caitlyn,Khazix,Alistar,TahmKench
+2018.0,spring,LEC,9,Unicorns Of Love,G2,1.0,49:00,OK,blue,UOL,   DEFEAT   ,81.3k,8,  5 ,  0 ,  2 ,  4 ,  0 ,Olaf,Caitlyn,Swain,Ryze,TahmKench
+2018.0,spring,LEC,9,Unicorns Of Love,G2,1.0,49:00,OK,red,G2,   VICTORY   ,94.3k,10,  11 ,  2 ,  1 ,  1 ,  1 ,Sion,Skarner,Azir,JarvanIV,Khazix
+2018.0,spring,LEC,9,Giants Gaming,Splyce,1.0,26:06,OK,blue,GIA,   DEFEAT   ,40.3k,1,  1 ,  0 ,  0 ,  1 ,  1 ,Tristana,Sion,Camille,Swain,Corki
+2018.0,spring,LEC,9,Giants Gaming,Splyce,1.0,26:06,OK,red,SPY,   VICTORY   ,57.0k,20,  10 ,  1 ,  1 ,  1 ,  0 ,Olaf,Gnar,Galio,Morgana,Thresh
+2018.0,spring,LEC,9,Team ROCCAT,H2k Gaming,1.0,51:49,OK,blue,ROC,   DEFEAT   ,85.8k,12,  6 ,  1 ,  1 ,  5 ,  0 ,Xayah,Ezreal,Galio,Varus,Gangplank
+2018.0,spring,LEC,9,Team ROCCAT,H2k Gaming,1.0,51:49,OK,red,H2K,   VICTORY   ,93.4k,12,  9 ,  3 ,  3 ,  0 ,  1 ,Azir,Caitlyn,Tristana,Ryze,Cassiopeia
+2018.0,spring,LEC,9,Unicorns Of Love,Misfits,1.0,33:39,OK,blue,UOL,   DEFEAT   ,57.6k,15,  4 ,  0 ,  0 ,  2 ,  0 ,Galio,Olaf,Caitlyn,Camille,Gangplank
+2018.0,spring,LEC,9,Unicorns Of Love,Misfits,1.0,33:39,OK,red,MSF,   VICTORY   ,65.1k,21,  7 ,  1 ,  2 ,  2 ,  1 ,Sion,Skarner,Ryze,Poppy,Ornn
+2018.0,spring,LEC,9,G2,Team Vitality,1.0,43:47,OK,blue,G2,   VICTORY   ,84.1k,26,  11 ,  5 ,  0 ,  4 ,  0 ,Caitlyn,Xayah,Zac,Varus,Jinx
+2018.0,spring,LEC,9,G2,Team Vitality,1.0,43:47,OK,red,VIT,   DEFEAT   ,78.2k,12,  7 ,  1 ,  2 ,  1 ,  1 ,Galio,Camille,Tristana,Olaf,Taliyah
+2018.0,spring,LEC,9,Fnatic,FC Schalke,1.0,25:54,OK,blue,FNC,   VICTORY   ,53.0k,10,  10 ,  2 ,  1 ,  2 ,  0 ,Olaf,Camille,Skarner,Ryze,Cassiopeia
+2018.0,spring,LEC,9,Fnatic,FC Schalke,1.0,25:54,OK,red,S04,   DEFEAT   ,40.4k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Sion,Xayah,Galio,Ornn,Chogath
+2018.0,spring,LEC,Tiebreakers,Splyce,G2,1.0,32:42,OK,blue,SPY,   DEFEAT   ,52.0k,6,  2 ,  0 ,  0 ,  1 ,  0 ,TahmKench,KogMaw,Galio,Sivir,Ezreal
+2018.0,spring,LEC,Tiebreakers,Splyce,G2,1.0,32:42,OK,red,G2,   VICTORY   ,64.8k,15,  11 ,  4 ,  2 ,  3 ,  1 ,Caitlyn,Sion,Xayah,Alistar,Chogath

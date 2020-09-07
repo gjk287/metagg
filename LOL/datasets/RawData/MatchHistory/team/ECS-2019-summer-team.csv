@@ -1,0 +1,113 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,ECS,1,MachiX,Kowloon Esports,1.0,22:36,OK,blue,MCX,   VICTORY   ,46.4k,26,  7 ,  1 ,  0 ,  3 ,  1 ,Irelia,Ryze,Jayce,Rakan,Lux
+2019.0,summer,ECS,1,MachiX,Kowloon Esports,1.0,22:36,OK,red,KE,   DEFEAT   ,33.8k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Morgana,Yuumi,Aatrox,LeeSin,Nocturne
+2019.0,summer,ECS,1,MachiX,Kowloon Esports,2.0,24:37,OK,blue,KE,   DEFEAT   ,37.0k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Morgana,Yuumi,Neeko,Rumble,Nocturne
+2019.0,summer,ECS,1,MachiX,Kowloon Esports,2.0,24:37,OK,red,MCX,   VICTORY   ,52.2k,23,  10 ,  1 ,  1 ,  3 ,  1 ,Irelia,Ryze,Jayce,Sivir,Ezreal
+2019.0,summer,ECS,1,J Team 2,Flash Husky,1.0,28:47,OK,blue,JII,   VICTORY   ,59.9k,23,  10 ,  2 ,  1 ,  4 ,  1 ,Neeko,Jayce,Akali,Karthus,Yasuo
+2019.0,summer,ECS,1,J Team 2,Flash Husky,1.0,28:47,OK,red,FH,   DEFEAT   ,44.8k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Ryze,Olaf,Elise,JarvanIV
+2019.0,summer,ECS,1,J Team 2,Flash Husky,2.0,29:39,OK,blue,FH,   VICTORY   ,59.2k,16,  10 ,  1 ,  1 ,  2 ,  1 ,RekSai,Olaf,Akali,Gragas,Elise
+2019.0,summer,ECS,1,J Team 2,Flash Husky,2.0,29:39,OK,red,JII,   DEFEAT   ,48.1k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Neeko,Jayce,Sejuani,Renekton,JarvanIV
+2019.0,summer,ECS,1,Suns Gos Hawk,F-Soul Esports,1.0,22:47,OK,blue,SGH,   DEFEAT   ,32.1k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Neeko,Jayce,Olaf,RekSai,
+2019.0,summer,ECS,1,Suns Gos Hawk,F-Soul Esports,1.0,22:47,OK,red,FS,   VICTORY   ,47.0k,13,  8 ,  1 ,  0 ,  3 ,  1 ,Akali,Lucian,Sylas,Nocturne,Kindred
+2019.0,summer,ECS,1,Suns Gos Hawk,F-Soul Esports,2.0,21:17,OK,blue,FS,   VICTORY   ,43.2k,13,  8 ,  1 ,  0 ,  2 ,  0 ,Akali,RekSai,Jayce,Kindred,Nocturne
+2019.0,summer,ECS,1,Suns Gos Hawk,F-Soul Esports,2.0,21:17,OK,red,SGH,   DEFEAT   ,31.1k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Ryze,Sylas,Aatrox,Olaf,LeeSin
+2019.0,summer,ECS,1,ahq Fighter,G Rex Infinite,1.0,51:57,OK,blue,AF,   DEFEAT   ,94.8k,21,  9 ,  2 ,  1 ,  3 ,  0 ,Yuumi,JarvanIV,Irelia,Nautilus,Cassiopeia
+2019.0,summer,ECS,1,ahq Fighter,G Rex Infinite,1.0,51:57,OK,red,GRI,   VICTORY   ,96.8k,20,  7 ,  1 ,  3 ,  5 ,  1 ,Akali,Elise,Aatrox,Kaisa,Varus
+2019.0,summer,ECS,1,ahq Fighter,G Rex Infinite,2.0,35:39,OK,blue,GRI,   DEFEAT   ,56.5k,2,  3 ,  0 ,  0 ,  0 ,  1 ,Elise,Akali,Aatrox,Nautilus,Xayah
+2019.0,summer,ECS,1,ahq Fighter,G Rex Infinite,2.0,35:39,OK,red,AF,   VICTORY   ,65.8k,12,  10 ,  3 ,  2 ,  4 ,  0 ,Yuumi,Olaf,Irelia,Braum,
+2019.0,summer,ECS,2,G Rex Infinite,Flash Husky,1.0,37:12,OK,blue,GRI,   VICTORY   ,72.6k,12,  11 ,  3 ,  2 ,  2 ,  0 ,Vladimir,Aatrox,Sylas,Ezreal,Sivir
+2019.0,summer,ECS,2,G Rex Infinite,Flash Husky,1.0,37:12,OK,red,FH,   DEFEAT   ,59.6k,4,  2 ,  0 ,  0 ,  4 ,  1 ,Ryze,Jayce,Irelia,Sejuani,JarvanIV
+2019.0,summer,ECS,2,G Rex Infinite,Flash Husky,2.0,39:07,OK,blue,FH,   VICTORY   ,74.0k,24,  11 ,  3 ,  2 ,  2 ,  0 ,Irelia,Jayce,Sona,Yuumi,Morgana
+2019.0,summer,ECS,2,G Rex Infinite,Flash Husky,2.0,39:07,OK,red,GRI,   DEFEAT   ,73.7k,23,  7 ,  1 ,  0 ,  3 ,  1 ,Aatrox,Ryze,Sylas,Rakan,Lux
+2019.0,summer,ECS,2,ahq Fighter,Suns Gos Hawk,1.0,28:33,OK,blue,AF,   VICTORY   ,56.1k,13,  11 ,  3 ,  2 ,  3 ,  1 ,Akali,Jayce,Sivir,Fiora,Irelia
+2019.0,summer,ECS,2,ahq Fighter,Suns Gos Hawk,1.0,28:33,OK,red,SGH,   DEFEAT   ,45.3k,9,  0 ,  0 ,  0 ,  0 ,  0 ,RekSai,LeeSin,Nautilus,Xayah,
+2019.0,summer,ECS,2,ahq Fighter,Suns Gos Hawk,2.0,19:32,OK,blue,SGH,   DEFEAT   ,27.3k,5,  1 ,  0 ,  0 ,  1 ,  1 ,RekSai,Olaf,LeeSin,Ezreal,Rakan
+2019.0,summer,ECS,2,ahq Fighter,Suns Gos Hawk,2.0,19:32,OK,red,AF,   VICTORY   ,42.8k,21,  9 ,  2 ,  0 ,  1 ,  0 ,Aatrox,Sejuani,Akali,Sivir,Renekton
+2019.0,summer,ECS,2,MachiX,J Team 2,1.0,28:07,OK,blue,MCX,   DEFEAT   ,43.9k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Sylas,Irelia,Sivir,Sona,Nautilus
+2019.0,summer,ECS,2,MachiX,J Team 2,1.0,28:07,OK,red,JII,   VICTORY   ,56.6k,24,  10 ,  2 ,  1 ,  3 ,  1 ,Neeko,Kennen,Rumble,Syndra,
+2019.0,summer,ECS,2,MachiX,J Team 2,2.0,38:23,OK,blue,JII,   VICTORY   ,75.5k,28,  9 ,  1 ,  1 ,  4 ,  0 ,Neeko,Kennen,Olaf,Rumble,Riven
+2019.0,summer,ECS,2,MachiX,J Team 2,2.0,38:23,OK,red,MCX,   DEFEAT   ,69.8k,30,  3 ,  0 ,  1 ,  1 ,  1 ,Aatrox,Ryze,Sejuani,RekSai,JarvanIV
+2019.0,summer,ECS,2,F-Soul Esports,Kowloon Esports,1.0,24:32,OK,blue,FS,   VICTORY   ,50.3k,18,  9 ,  2 ,  1 ,  3 ,  1 ,Akali,Olaf,Aatrox,Neeko,
+2019.0,summer,ECS,2,F-Soul Esports,Kowloon Esports,1.0,24:32,OK,red,KE,   DEFEAT   ,35.0k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Sivir,Sona,,
+2019.0,summer,ECS,2,F-Soul Esports,Kowloon Esports,2.0,24:30,OK,blue,KE,   DEFEAT   ,38.0k,8,  1 ,  0 ,  0 ,  2 ,  0 ,Jayce,Morgana,Renekton,Kaisa,Sivir
+2019.0,summer,ECS,2,F-Soul Esports,Kowloon Esports,2.0,24:30,OK,red,FS,   VICTORY   ,52.9k,26,  9 ,  2 ,  1 ,  1 ,  1 ,Akali,Olaf,Aatrox,Yuumi,Braum
+2019.0,summer,ECS,3,J Team 2,Kowloon Esports,1.0,24:41,OK,blue,JII,   VICTORY   ,47.2k,13,  9 ,  1 ,  1 ,  2 ,  0 ,Lucian,Neeko,Olaf,Kalista,RekSai
+2019.0,summer,ECS,3,J Team 2,Kowloon Esports,1.0,24:41,OK,red,KE,   DEFEAT   ,33.8k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Sylas,Aatrox,Ryze,Yuumi,Nautilus
+2019.0,summer,ECS,3,J Team 2,Kowloon Esports,2.0,20:39,OK,blue,KE,   DEFEAT   ,28.9k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Sivir,Neeko,Sylas,Ezreal,Kaisa
+2019.0,summer,ECS,3,J Team 2,Kowloon Esports,2.0,20:39,OK,red,JII,   VICTORY   ,44.8k,29,  10 ,  2 ,  0 ,  2 ,  1 ,Lucian,Swain,Irelia,Olaf,RekSai
+2019.0,summer,ECS,3,MachiX,F-Soul Esports,1.0,30:37,OK,blue,MCX,   DEFEAT   ,44.2k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Sylas,Sejuani,Irelia,Lucian,Xayah
+2019.0,summer,ECS,3,MachiX,F-Soul Esports,1.0,30:37,OK,red,FS,   VICTORY   ,63.4k,23,  11 ,  3 ,  2 ,  3 ,  0 ,Akali,Neeko,Leblanc,Yuumi,JarvanIV
+2019.0,summer,ECS,3,MachiX,F-Soul Esports,2.0,28:54,OK,blue,FS,   VICTORY   ,56.2k,15,  8 ,  1 ,  1 ,  1 ,  1 ,Akali,Neeko,Leblanc,Yuumi,Nautilus
+2019.0,summer,ECS,3,MachiX,F-Soul Esports,2.0,28:54,OK,red,MCX,   DEFEAT   ,47.4k,6,  2 ,  0 ,  0 ,  2 ,  0 ,Sylas,Aatrox,Ryze,Ezreal,Lucian
+2019.0,summer,ECS,3,Flash Husky,ahq Fighter,1.0,32:09,OK,blue,FH,   DEFEAT   ,50.4k,1,  3 ,  0 ,  0 ,  0 ,  0 ,Irelia,Jayce,Sejuani,Rakan,Alistar
+2019.0,summer,ECS,3,Flash Husky,ahq Fighter,1.0,32:09,OK,red,AF,   VICTORY   ,63.4k,14,  11 ,  2 ,  2 ,  4 ,  1 ,Aatrox,Yuumi,Olaf,Lux,Nautilus
+2019.0,summer,ECS,3,Flash Husky,ahq Fighter,2.0,34:48,OK,blue,AF,   VICTORY   ,65.8k,9,  11 ,  1 ,  2 ,  5 ,  1 ,Yuumi,Sivir,Sejuani,Fiora,TahmKench
+2019.0,summer,ECS,3,Flash Husky,ahq Fighter,2.0,34:48,OK,red,FH,   DEFEAT   ,52.2k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Irelia,Jayce,Xayah,Kaisa
+2019.0,summer,ECS,3,Suns Gos Hawk,G Rex Infinite,1.0,32:39,OK,blue,SGH,   DEFEAT   ,52.0k,7,  1 ,  0 ,  0 ,  2 ,  1 ,Olaf,Ryze,Sivir,Irelia,Camille
+2019.0,summer,ECS,3,Suns Gos Hawk,G Rex Infinite,1.0,32:39,OK,red,GRI,   VICTORY   ,65.3k,11,  10 ,  2 ,  2 ,  2 ,  0 ,Neeko,Sylas,Kennen,Jayce,
+2019.0,summer,ECS,3,Suns Gos Hawk,G Rex Infinite,2.0,23:00,OK,blue,GRI,   VICTORY   ,43.0k,8,  10 ,  2 ,  0 ,  2 ,  0 ,Neeko,Nautilus,Aatrox,Kennen,JarvanIV
+2019.0,summer,ECS,3,Suns Gos Hawk,G Rex Infinite,2.0,23:00,OK,red,SGH,   DEFEAT   ,32.5k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Fiora,Camille,Irelia,Sejuani,RekSai
+2019.0,summer,ECS,4,ahq Fighter,MachiX,1.0,35:30,OK,blue,AF,   DEFEAT   ,58.4k,15,  4 ,  1 ,  0 ,  2 ,  1 ,Irelia,Neeko,Lux,Kennen,Azir
+2019.0,summer,ECS,4,ahq Fighter,MachiX,1.0,35:30,OK,red,MCX,   VICTORY   ,68.6k,27,  10 ,  2 ,  1 ,  3 ,  0 ,Karma,RekSai,Aatrox,Jayce,Akali
+2019.0,summer,ECS,4,ahq Fighter,MachiX,2.0,32:38,OK,blue,MCX,   VICTORY   ,66.9k,22,  10 ,  2 ,  1 ,  3 ,  0 ,Irelia,RekSai,Xayah,Akali,Jayce
+2019.0,summer,ECS,4,ahq Fighter,MachiX,2.0,32:38,OK,red,AF,   DEFEAT   ,57.3k,18,  3 ,  0 ,  0 ,  2 ,  1 ,Karma,Neeko,Aatrox,Leblanc,Taliyah
+2019.0,summer,ECS,4,F-Soul Esports,Flash Husky,1.0,25:45,OK,blue,FS,   VICTORY   ,52.5k,16,  11 ,  3 ,  1 ,  2 ,  1 ,Akali,Neeko,TahmKench,Olaf,RekSai
+2019.0,summer,ECS,4,F-Soul Esports,Flash Husky,1.0,25:45,OK,red,FH,   DEFEAT   ,36.0k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Karma,Renekton,Sivir,Fiora
+2019.0,summer,ECS,4,F-Soul Esports,Flash Husky,2.0,25:57,OK,blue,FH,   DEFEAT   ,43.0k,5,  3 ,  0 ,  0 ,  0 ,  1 ,Sejuani,Renekton,Irelia,JarvanIV,XinZhao
+2019.0,summer,ECS,4,F-Soul Esports,Flash Husky,2.0,25:57,OK,red,FS,   VICTORY   ,48.5k,10,  7 ,  1 ,  1 ,  4 ,  0 ,Akali,Karma,Aatrox,Gangplank,Leblanc
+2019.0,summer,ECS,4,G Rex Infinite,Kowloon Esports,1.0,39:38,OK,blue,GRI,   DEFEAT   ,63.8k,4,  2 ,  0 ,  0 ,  2 ,  1 ,Irelia,Olaf,Nautilus,Lux,
+2019.0,summer,ECS,4,G Rex Infinite,Kowloon Esports,1.0,39:38,OK,red,KE,   VICTORY   ,75.9k,16,  11 ,  3 ,  2 ,  4 ,  0 ,Sona,Rumble,Jayce,Lucian,Yuumi
+2019.0,summer,ECS,4,G Rex Infinite,Kowloon Esports,2.0,30:02,OK,blue,KE,   DEFEAT   ,44.2k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Sona,Rumble,Jayce,RekSai,Trundle
+2019.0,summer,ECS,4,G Rex Infinite,Kowloon Esports,2.0,30:02,OK,red,GRI,   VICTORY   ,55.1k,10,  8 ,  1 ,  1 ,  3 ,  1 ,Sejuani,Aatrox,Irelia,Yasuo,Olaf
+2019.0,summer,ECS,4,Suns Gos Hawk,J Team 2,1.0,26:56,OK,blue,SGH,   DEFEAT   ,41.1k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Nautilus,Karma,Aatrox,Neeko,Gangplank
+2019.0,summer,ECS,4,Suns Gos Hawk,J Team 2,1.0,26:56,OK,red,JII,   VICTORY   ,54.9k,15,  10 ,  2 ,  1 ,  2 ,  1 ,Sona,Kindred,Karthus,Lux,Braum
+2019.0,summer,ECS,4,Suns Gos Hawk,J Team 2,2.0,21:16,OK,blue,JII,   VICTORY   ,44.9k,17,  10 ,  2 ,  0 ,  2 ,  1 ,Sona,Kindred,Olaf,Trundle,Elise
+2019.0,summer,ECS,4,Suns Gos Hawk,J Team 2,2.0,21:16,OK,red,SGH,   DEFEAT   ,30.9k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Nautilus,Yuumi,Sivir,Lux,Thresh
+2019.0,summer,ECS,5,Flash Husky,Suns Gos Hawk,1.0,28:31,OK,blue,FH,   VICTORY   ,55.8k,15,  8 ,  1 ,  1 ,  3 ,  1 ,Sejuani,Irelia,Sivir,RekSai,
+2019.0,summer,ECS,5,Flash Husky,Suns Gos Hawk,1.0,28:31,OK,red,SGH,   DEFEAT   ,43.4k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Yuumi,Ryze,Olaf,Ashe,Ezreal
+2019.0,summer,ECS,5,Flash Husky,Suns Gos Hawk,2.0,30:26,OK,blue,SGH,   DEFEAT   ,53.1k,8,  6 ,  1 ,  0 ,  1 ,  1 ,Yuumi,Ryze,Olaf,JarvanIV,XinZhao
+2019.0,summer,ECS,5,Flash Husky,Suns Gos Hawk,2.0,30:26,OK,red,FH,   VICTORY   ,57.2k,13,  8 ,  1 ,  1 ,  4 ,  0 ,Sejuani,Karma,Renekton,Kalista,Draven
+2019.0,summer,ECS,5,Kowloon Esports,ahq Fighter,1.0,30:27,OK,blue,KE,   DEFEAT   ,51.5k,9,  3 ,  0 ,  1 ,  0 ,  0 ,Xayah,Olaf,RekSai,Fiora,Yasuo
+2019.0,summer,ECS,5,Kowloon Esports,ahq Fighter,1.0,30:27,OK,red,AF,   VICTORY   ,59.4k,22,  8 ,  1 ,  0 ,  4 ,  1 ,Karma,Sejuani,Irelia,Yuumi,Lux
+2019.0,summer,ECS,5,Kowloon Esports,ahq Fighter,2.0,25:31,OK,blue,AF,   VICTORY   ,51.6k,25,  10 ,  2 ,  1 ,  3 ,  0 ,Irelia,Yuumi,Sejuani,Neeko,Vladimir
+2019.0,summer,ECS,5,Kowloon Esports,ahq Fighter,2.0,25:31,OK,red,KE,   DEFEAT   ,36.4k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Olaf,RekSai,Nautilus,JarvanIV,Zoe
+2019.0,summer,ECS,5,MachiX,G Rex Infinite,1.0,31:45,OK,blue,MCX,   VICTORY   ,60.2k,14,  11 ,  3 ,  2 ,  1 ,  1 ,Irelia,Sivir,Karma,Jayce,Zoe
+2019.0,summer,ECS,5,MachiX,G Rex Infinite,1.0,31:45,OK,red,GRI,   DEFEAT   ,48.4k,7,  0 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Sejuani,Aatrox,XinZhao,Kennen
+2019.0,summer,ECS,5,MachiX,G Rex Infinite,2.0,35:10,OK,blue,GRI,   VICTORY   ,61.2k,14,  9 ,  1 ,  0 ,  4 ,  1 ,Taliyah,Olaf,Lux,Gragas,Irelia
+2019.0,summer,ECS,5,MachiX,G Rex Infinite,2.0,35:10,OK,red,MCX,   DEFEAT   ,52.7k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Karma,Sejuani,Aatrox,Renekton,Zoe
+2019.0,summer,ECS,5,J Team 2,F-Soul Esports,1.0,35:07,OK,blue,JII,   VICTORY   ,67.4k,18,  10 ,  2 ,  1 ,  2 ,  1 ,Sona,Zoe,Olaf,XinZhao,RekSai
+2019.0,summer,ECS,5,J Team 2,F-Soul Esports,1.0,35:07,OK,red,FS,   DEFEAT   ,57.2k,10,  3 ,  0 ,  0 ,  1 ,  0 ,Akali,Karma,Irelia,Camille,Renekton
+2019.0,summer,ECS,5,J Team 2,F-Soul Esports,2.0,32:04,OK,blue,FS,   DEFEAT   ,57.7k,16,  3 ,  0 ,  1 ,  1 ,  1 ,Akali,Sejuani,Yuumi,Lucian,Xayah
+2019.0,summer,ECS,5,J Team 2,F-Soul Esports,2.0,32:04,OK,red,JII,   VICTORY   ,58.5k,18,  7 ,  2 ,  0 ,  3 ,  0 ,Karma,Sona,Lux,JarvanIV,Zoe
+2019.0,summer,ECS,6,Suns Gos Hawk,MachiX,1.0,27:04,OK,blue,SGH,   DEFEAT   ,41.5k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Nautilus,Neeko,Olaf,Irelia,Camille
+2019.0,summer,ECS,6,Suns Gos Hawk,MachiX,1.0,27:04,OK,red,MCX,   VICTORY   ,56.3k,17,  11 ,  3 ,  1 ,  2 ,  1 ,Karma,Aatrox,Leblanc,Sivir,Sona
+2019.0,summer,ECS,6,Suns Gos Hawk,MachiX,2.0,27:38,OK,blue,MCX,   VICTORY   ,58.8k,30,  10 ,  2 ,  0 ,  3 ,  1 ,Irelia,Sona,Karma,Yasuo,Camille
+2019.0,summer,ECS,6,Suns Gos Hawk,MachiX,2.0,27:38,OK,red,SGH,   DEFEAT   ,47.0k,15,  1 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Lux,Nautilus,Sejuani,Kayn
+2019.0,summer,ECS,6,ahq Fighter,J Team 2,1.0,33:20,OK,blue,AF,   VICTORY   ,64.6k,17,  10 ,  2 ,  1 ,  3 ,  1 ,Irelia,Yasuo,Sejuani,Neeko,Renekton
+2019.0,summer,ECS,6,ahq Fighter,J Team 2,1.0,33:20,OK,red,JII,   DEFEAT   ,51.1k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Caitlyn,Karma,Olaf,Zoe,Azir
+2019.0,summer,ECS,6,ahq Fighter,J Team 2,2.0,24:55,OK,blue,JII,   DEFEAT   ,38.7k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Caitlyn,Olaf,Zoe,Leblanc,Alistar
+2019.0,summer,ECS,6,ahq Fighter,J Team 2,2.0,24:55,OK,red,AF,   VICTORY   ,54.3k,19,  10 ,  2 ,  1 ,  3 ,  1 ,Irelia,Sejuani,Yasuo,Xayah,Sivir
+2019.0,summer,ECS,6,Kowloon Esports,Flash Husky,1.0,28:48,OK,blue,KE,   DEFEAT   ,43.9k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Sona,Sivir,Karma,
+2019.0,summer,ECS,6,Kowloon Esports,Flash Husky,1.0,28:48,OK,red,FH,   VICTORY   ,56.9k,23,  9 ,  2 ,  1 ,  4 ,  1 ,Irelia,Sejuani,Vladimir,Olaf,Aatrox
+2019.0,summer,ECS,6,Kowloon Esports,Flash Husky,2.0,24:58,OK,blue,FH,   VICTORY   ,51.7k,22,  11 ,  2 ,  1 ,  3 ,  1 ,Irelia,Sejuani,Vladimir,Camille,Elise
+2019.0,summer,ECS,6,Kowloon Esports,Flash Husky,2.0,24:58,OK,red,KE,   DEFEAT   ,35.9k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Sona,Karma,Sylas,RekSai
+2019.0,summer,ECS,6,G Rex Infinite,F-Soul Esports,1.0,41:29,OK,blue,GRI,   VICTORY   ,71.5k,7,  10 ,  3 ,  0 ,  4 ,  0 ,Karthus,Sylas,Lux,Elise,Irelia
+2019.0,summer,ECS,6,G Rex Infinite,F-Soul Esports,1.0,41:29,OK,red,FS,   DEFEAT   ,66.2k,3,  3 ,  0 ,  1 ,  2 ,  1 ,Akali,Sejuani,Yuumi,Camille,Gragas
+2019.0,summer,ECS,6,G Rex Infinite,F-Soul Esports,2.0,36:45,OK,blue,FS,   VICTORY   ,64.9k,12,  9 ,  1 ,  0 ,  4 ,  1 ,Camille,Sona,Jayce,Kalista,Kaisa
+2019.0,summer,ECS,6,G Rex Infinite,F-Soul Esports,2.0,36:45,OK,red,GRI,   DEFEAT   ,61.9k,9,  6 ,  1 ,  1 ,  1 ,  0 ,Karthus,Lux,Sylas,Braum,TahmKench
+2019.0,summer,ECS,7,F-Soul Esports,ahq Fighter,1.0,38:21,OK,blue,FS,   DEFEAT   ,63.4k,11,  2 ,  0 ,  0 ,  0 ,  0 ,Camille,Aatrox,Karma,Zoe,Neeko
+2019.0,summer,ECS,7,F-Soul Esports,ahq Fighter,1.0,38:21,OK,red,AF,   VICTORY   ,73.7k,15,  9 ,  1 ,  2 ,  5 ,  1 ,Sejuani,TahmKench,Irelia,Lux,Yuumi
+2019.0,summer,ECS,7,F-Soul Esports,ahq Fighter,2.0,37:47,OK,blue,AF,   VICTORY   ,70.3k,20,  10 ,  3 ,  2 ,  2 ,  1 ,Irelia,Sejuani,TahmKench,Elise,Olaf
+2019.0,summer,ECS,7,F-Soul Esports,ahq Fighter,2.0,37:47,OK,red,FS,   DEFEAT   ,62.2k,14,  2 ,  0 ,  0 ,  2 ,  0 ,Camille,Karma,Jayce,Kaisa,Sivir
+2019.0,summer,ECS,7,Flash Husky,MachiX,1.0,30:58,OK,blue,FH,   DEFEAT   ,53.1k,13,  1 ,  0 ,  0 ,  1 ,  0 ,Irelia,Sejuani,Neeko,Taliyah,JarvanIV
+2019.0,summer,ECS,7,Flash Husky,MachiX,1.0,30:58,OK,red,MCX,   VICTORY   ,66.1k,28,  11 ,  3 ,  1 ,  3 ,  1 ,Karma,Jayce,Camille,Fiora,
+2019.0,summer,ECS,7,Flash Husky,MachiX,2.0,32:47,OK,blue,MCX,   DEFEAT   ,55.0k,9,  3 ,  0 ,  0 ,  0 ,  0 ,Irelia,Jayce,Karma,JarvanIV,LeeSin
+2019.0,summer,ECS,7,Flash Husky,MachiX,2.0,32:47,OK,red,FH,   VICTORY   ,67.6k,20,  9 ,  1 ,  2 ,  4 ,  1 ,Sejuani,Yuumi,Aatrox,Lux,Xayah
+2019.0,summer,ECS,7,Kowloon Esports,Suns Gos Hawk,1.0,30:54,OK,blue,KE,   VICTORY   ,68.3k,30,  11 ,  3 ,  2 ,  1 ,  0 ,Qiyana,Rakan,Sona,Ezreal,
+2019.0,summer,ECS,7,Kowloon Esports,Suns Gos Hawk,1.0,30:54,OK,red,SGH,   DEFEAT   ,54.2k,22,  1 ,  0 ,  0 ,  2 ,  1 ,Yuumi,Neeko,Karma,Sejuani,Sylas
+2019.0,summer,ECS,7,Kowloon Esports,Suns Gos Hawk,2.0,29:53,OK,blue,SGH,   DEFEAT   ,48.3k,13,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Yuumi,Neeko,Camille,Fiora
+2019.0,summer,ECS,7,Kowloon Esports,Suns Gos Hawk,2.0,29:53,OK,red,KE,   VICTORY   ,66.3k,27,  11 ,  3 ,  2 ,  4 ,  1 ,Qiyana,Karma,Lux,TahmKench,Jax
+2019.0,summer,ECS,7,J Team 2,G Rex Infinite,1.0,27:13,OK,blue,JII,   VICTORY   ,53.2k,16,  7 ,  1 ,  1 ,  3 ,  1 ,Jayce,Sona,Irelia,Braum,Yuumi
+2019.0,summer,ECS,7,J Team 2,G Rex Infinite,1.0,27:13,OK,red,GRI,   DEFEAT   ,42.7k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Karthus,Karma,Mordekaiser,Lux,TahmKench
+2019.0,summer,ECS,7,J Team 2,G Rex Infinite,2.0,31:11,OK,blue,GRI,   VICTORY   ,60.5k,21,  8 ,  1 ,  2 ,  2 ,  0 ,Karthus,Mordekaiser,Aatrox,Renekton,Azir
+2019.0,summer,ECS,7,J Team 2,G Rex Infinite,2.0,31:11,OK,red,JII,   DEFEAT   ,53.5k,13,  4 ,  0 ,  0 ,  2 ,  1 ,Jayce,Sona,Karma,Corki,Irelia

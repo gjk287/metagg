@@ -1,0 +1,268 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,VCS,1,Team Flash,EVOS Esports,1.0,26:16,OK,blue,FL,   DEFEAT   ,41.5k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Senna,Morgana,RekSai,Cassiopeia,Orianna
+2020.0,spring,VCS,1,Team Flash,EVOS Esports,1.0,26:16,OK,red,EVS,   VICTORY   ,52.6k,21,  10 ,  3 ,  1 ,  4 ,  1 ,Lucian,Gragas,Akali,LeeSin,Taliyah
+2020.0,spring,VCS,1,Team Flash,EVOS Esports,2.0,27:35,OK,blue,EVS,   DEFEAT   ,42.3k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Lucian,Gragas,LeeSin,Rakan,Leona
+2020.0,spring,VCS,1,Team Flash,EVOS Esports,2.0,27:35,OK,red,FL,   VICTORY   ,57.6k,16,  11 ,  3 ,  1 ,  3 ,  1 ,Senna,MissFortune,RekSai,Nidalee,Cassiopeia
+2020.0,spring,VCS,1,Team Flash,EVOS Esports,3.0,36:19,OK,blue,FL,   DEFEAT   ,68.9k,14,  6 ,  1 ,  1 ,  2 ,  1 ,Senna,MissFortune,RekSai,Morgana,Leona
+2020.0,spring,VCS,1,Team Flash,EVOS Esports,3.0,36:19,OK,red,EVS,   VICTORY   ,69.9k,18,  7 ,  2 ,  2 ,  4 ,  0 ,Lucian,Akali,Gragas,Caitlyn,Varus
+2020.0,spring,VCS,1,GAM Esports,Cerberus Esports,1.0,21:13,OK,blue,GAM,   VICTORY   ,46.1k,23,  8 ,  1 ,  0 ,  2 ,  2 ,RekSai,Renekton,Elise,Rumble,Zoe
+2020.0,spring,VCS,1,GAM Esports,Cerberus Esports,1.0,21:13,OK,red,CES,   DEFEAT   ,31.6k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Akali,LeeSin,Gragas,Leona,Braum
+2020.0,spring,VCS,1,GAM Esports,Cerberus Esports,2.0,36:39,OK,blue,CES,   DEFEAT   ,65.5k,17,  6 ,  2 ,  2 ,  2 ,  1 ,LeeSin,Gragas,Akali,Nidalee,Taliyah
+2020.0,spring,VCS,1,GAM Esports,Cerberus Esports,2.0,36:39,OK,red,GAM,   VICTORY   ,68.9k,24,  9 ,  2 ,  0 ,  3 ,  1 ,RekSai,Elise,Zoe,Qiyana,Rumble
+2020.0,spring,VCS,1,V Gaming Adonis,Saigon Buffalo,1.0,34:48,OK,blue,VGA,   VICTORY   ,65.2k,22,  10 ,  2 ,  1 ,  3 ,  1 ,Sett,Irelia,Senna,Leblanc,Aatrox
+2020.0,spring,VCS,1,V Gaming Adonis,Saigon Buffalo,1.0,34:48,OK,red,DBL,   DEFEAT   ,60.8k,20,  3 ,  0 ,  0 ,  2 ,  1 ,Akali,Yasuo,Gangplank,Vladimir,Ryze
+2020.0,spring,VCS,1,V Gaming Adonis,Saigon Buffalo,2.0,29:58,OK,blue,DBL,   VICTORY   ,55.5k,13,  9 ,  2 ,  1 ,  4 ,  2 ,Yasuo,Lucian,Gangplank,Ornn,Ryze
+2020.0,spring,VCS,1,V Gaming Adonis,Saigon Buffalo,2.0,29:58,OK,red,VGA,   DEFEAT   ,48.8k,8,  3 ,  0 ,  0 ,  1 ,  0 ,Sett,Akali,Senna,Orianna,Irelia
+2020.0,spring,VCS,1,V Gaming Adonis,Saigon Buffalo,3.0,23:37,OK,blue,VGA,   VICTORY   ,48.7k,24,  10 ,  2 ,  1 ,  3 ,  2 ,Sett,Irelia,Senna,Leblanc,Mordekaiser
+2020.0,spring,VCS,1,V Gaming Adonis,Saigon Buffalo,3.0,23:37,OK,red,DBL,   DEFEAT   ,36.5k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Lucian,Aphelios,Akali,Renekton,Ornn
+2020.0,spring,VCS,1,Team Secret,FTV Esports,1.0,21:36,OK,blue,LK,   VICTORY   ,42.3k,12,  11 ,  3 ,  0 ,  1 ,  2 ,JarvanIV,Gragas,Sett,Cassiopeia,MissFortune
+2020.0,spring,VCS,1,Team Secret,FTV Esports,1.0,21:36,OK,red,FTV,   DEFEAT   ,33.1k,6,  0 ,  0 ,  0 ,  2 ,  0 ,Senna,Akali,Lucian,Renekton,Mordekaiser
+2020.0,spring,VCS,1,Team Secret,FTV Esports,2.0,27:50,OK,blue,FTV,   DEFEAT   ,47.1k,11,  3 ,  0 ,  0 ,  2 ,  1 ,Aphelios,Senna,Akali,Irelia,Aatrox
+2020.0,spring,VCS,1,Team Secret,FTV Esports,2.0,27:50,OK,red,LK,   VICTORY   ,55.7k,21,  8 ,  1 ,  1 ,  2 ,  1 ,JarvanIV,Sett,Gragas,Renekton,Ornn
+2020.0,spring,VCS,1,Saigon Buffalo,Team Secret,1.0,34:02,OK,blue,DBL,   VICTORY   ,63.5k,20,  9 ,  2 ,  1 ,  3 ,  0 ,Lucian,Aphelios,Olaf,Ryze,Qiyana
+2020.0,spring,VCS,1,Saigon Buffalo,Team Secret,1.0,34:02,OK,red,LK,   DEFEAT   ,57.7k,13,  5 ,  0 ,  1 ,  2 ,  2 ,JarvanIV,Leona,Gragas,Elise,Ornn
+2020.0,spring,VCS,1,Saigon Buffalo,Team Secret,2.0,32:38,OK,blue,LK,   DEFEAT   ,54.7k,9,  3 ,  0 ,  0 ,  0 ,  1 ,JarvanIV,Cassiopeia,Olaf,Ryze,Ornn
+2020.0,spring,VCS,1,Saigon Buffalo,Team Secret,2.0,32:38,OK,red,DBL,   VICTORY   ,65.7k,22,  11 ,  2 ,  2 ,  5 ,  1 ,Akali,Sett,Lucian,Jayce,Yasuo
+2020.0,spring,VCS,1,FTV Esports,Team Flash,1.0,31:32,OK,blue,FTV,   DEFEAT   ,52.4k,16,  0 ,  0 ,  0 ,  1 ,  1 ,Renekton,Aphelios,Sett,Elise,LeeSin
+2020.0,spring,VCS,1,FTV Esports,Team Flash,1.0,31:32,OK,red,FL,   VICTORY   ,64.0k,21,  11 ,  4 ,  2 ,  4 ,  1 ,Lucian,Gragas,Leona,Cassiopeia,RekSai
+2020.0,spring,VCS,1,FTV Esports,Team Flash,2.0,36:56,OK,blue,FL,   VICTORY   ,69.5k,12,  9 ,  1 ,  1 ,  5 ,  1 ,Gragas,Leona,Elise,RekSai,JarvanIV
+2020.0,spring,VCS,1,FTV Esports,Team Flash,2.0,36:56,OK,red,FTV,   DEFEAT   ,63.4k,14,  7 ,  2 ,  2 ,  1 ,  1 ,Lucian,Akali,Aphelios,Renekton,Orianna
+2020.0,spring,VCS,2,Cerberus Esports,V Gaming Adonis,1.0,29:09,OK,blue,CES,   VICTORY   ,57.1k,17,  10 ,  2 ,  1 ,  4 ,  2 ,LeeSin,Gangplank,Gragas,Olaf,Nidalee
+2020.0,spring,VCS,2,Cerberus Esports,V Gaming Adonis,1.0,29:09,OK,red,VGA,   DEFEAT   ,45.6k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Sett,Elise,Lucian,MissFortune,Aphelios
+2020.0,spring,VCS,2,Cerberus Esports,V Gaming Adonis,2.0,29:33,OK,blue,VGA,   VICTORY   ,58.9k,22,  9 ,  2 ,  2 ,  1 ,  2 ,Sett,Akali,Irelia,Thresh,Senna
+2020.0,spring,VCS,2,Cerberus Esports,V Gaming Adonis,2.0,29:33,OK,red,CES,   DEFEAT   ,51.3k,15,  4 ,  1 ,  0 ,  3 ,  0 ,LeeSin,Gangplank,Yasuo,Ornn,Syndra
+2020.0,spring,VCS,2,Cerberus Esports,V Gaming Adonis,3.0,31:10,OK,blue,CES,   VICTORY   ,58.9k,22,  8 ,  1 ,  1 ,  4 ,  1 ,LeeSin,Lucian,Yasuo,Ryze,Mordekaiser
+2020.0,spring,VCS,2,Cerberus Esports,V Gaming Adonis,3.0,31:10,OK,red,VGA,   DEFEAT   ,54.4k,15,  5 ,  0 ,  0 ,  1 ,  1 ,Sett,Akali,Elise,Cassiopeia,Orianna
+2020.0,spring,VCS,2,EVOS Esports,GAM Esports,1.0,28:25,OK,blue,EVS,   DEFEAT   ,43.5k,5,  0 ,  0 ,  0 ,  2 ,  0 ,Tristana,Qiyana,Renekton,Irelia,Cassiopeia
+2020.0,spring,VCS,2,EVOS Esports,GAM Esports,1.0,28:25,OK,red,GAM,   VICTORY   ,55.4k,12,  11 ,  3 ,  1 ,  2 ,  2 ,Akali,JarvanIV,Vladimir,Mordekaiser,Rakan
+2020.0,spring,VCS,2,EVOS Esports,GAM Esports,2.0,26:08,OK,blue,GAM,   VICTORY   ,51.8k,23,  9 ,  2 ,  0 ,  4 ,  2 ,Vladimir,Elise,Akali,Gragas,Nidalee
+2020.0,spring,VCS,2,EVOS Esports,GAM Esports,2.0,26:08,OK,red,EVS,   DEFEAT   ,38.1k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Qiyana,Aphelios,Sett,Braum,Renekton
+2020.0,spring,VCS,2,Team Secret,Cerberus Esports,1.0,39:03,OK,blue,LK,   DEFEAT   ,66.6k,9,  5 ,  0 ,  2 ,  3 ,  0 ,Gragas,Elise,Sett,Orianna,Ornn
+2020.0,spring,VCS,2,Team Secret,Cerberus Esports,1.0,39:03,OK,red,CES,   VICTORY   ,70.0k,18,  7 ,  1 ,  0 ,  3 ,  2 ,Syndra,Akali,Aphelios,Aatrox,Braum
+2020.0,spring,VCS,2,Team Secret,Cerberus Esports,2.0,30:42,OK,blue,CES,   DEFEAT   ,51.2k,11,  5 ,  0 ,  0 ,  3 ,  1 ,Syndra,Aphelios,Gragas,Mordekaiser,Ryze
+2020.0,spring,VCS,2,Team Secret,Cerberus Esports,2.0,30:42,OK,red,LK,   VICTORY   ,58.6k,17,  8 ,  1 ,  1 ,  1 ,  0 ,Akali,Sett,Elise,Cassiopeia,Rumble
+2020.0,spring,VCS,2,Team Secret,Cerberus Esports,3.0,25:52,OK,blue,LK,   VICTORY   ,51.3k,19,  10 ,  2 ,  0 ,  4 ,  2 ,Elise,Gragas,Zoe,JarvanIV,Mordekaiser
+2020.0,spring,VCS,2,Team Secret,Cerberus Esports,3.0,25:52,OK,red,CES,   DEFEAT   ,40.5k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Syndra,Akali,Aphelios,Lucian,Irelia
+2020.0,spring,VCS,2,V Gaming Adonis,EVOS Esports,1.0,31:37,OK,blue,VGA,   DEFEAT   ,53.7k,16,  4 ,  0 ,  0 ,  3 ,  0 ,Elise,Irelia,Akali,Leona,Braum
+2020.0,spring,VCS,2,V Gaming Adonis,EVOS Esports,1.0,31:37,OK,red,EVS,   VICTORY   ,61.3k,20,  7 ,  1 ,  2 ,  1 ,  2 ,Lucian,Aphelios,LeeSin,Ornn,Gangplank
+2020.0,spring,VCS,2,V Gaming Adonis,EVOS Esports,2.0,27:31,OK,blue,EVS,   VICTORY   ,58.9k,30,  11 ,  3 ,  1 ,  2 ,  2 ,Lucian,Aphelios,LeeSin,Mordekaiser,RekSai
+2020.0,spring,VCS,2,V Gaming Adonis,EVOS Esports,2.0,27:31,OK,red,VGA,   DEFEAT   ,45.9k,9,  2 ,  0 ,  0 ,  2 ,  0 ,Akali,Elise,Irelia,Leona,Nautilus
+2020.0,spring,VCS,2,Team Flash,GAM Esports,1.0,31:23,OK,blue,FL,   DEFEAT   ,54.2k,18,  1 ,  0 ,  1 ,  1 ,  1 ,Tristana,Elise,Qiyana,Mordekaiser,Lucian
+2020.0,spring,VCS,2,Team Flash,GAM Esports,1.0,31:23,OK,red,GAM,   VICTORY   ,60.7k,26,  7 ,  1 ,  1 ,  3 ,  1 ,Blitzcrank,Aphelios,Xayah,Cassiopeia,Ryze
+2020.0,spring,VCS,2,Team Flash,GAM Esports,2.0,27:45,OK,blue,GAM,   DEFEAT   ,46.4k,11,  3 ,  0 ,  0 ,  1 ,  0 ,Blitzcrank,Xayah,Elise,Irelia,Lucian
+2020.0,spring,VCS,2,Team Flash,GAM Esports,2.0,27:45,OK,red,FL,   VICTORY   ,56.0k,24,  9 ,  1 ,  1 ,  3 ,  1 ,Tristana,Sett,Syndra,Leona,Akali
+2020.0,spring,VCS,2,Team Flash,GAM Esports,3.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,VCS,2,FTV Esports,Saigon Buffalo,1.0,36:37,OK,blue,FTV,   DEFEAT   ,62.7k,5,  4 ,  0 ,  0 ,  3 ,  1 ,Sett,Irelia,Karma,Leona,Thresh
+2020.0,spring,VCS,2,FTV Esports,Saigon Buffalo,1.0,36:37,OK,red,DBL,   VICTORY   ,64.1k,10,  8 ,  1 ,  1 ,  2 ,  1 ,Lucian,Akali,Gragas,TahmKench,Blitzcrank
+2020.0,spring,VCS,2,FTV Esports,Saigon Buffalo,2.0,30:00,OK,blue,DBL,   VICTORY   ,58.3k,21,  8 ,  1 ,  1 ,  3 ,  1 ,Gragas,Elise,Lucian,Ryze,Cassiopeia
+2020.0,spring,VCS,2,FTV Esports,Saigon Buffalo,2.0,30:00,OK,red,FTV,   DEFEAT   ,47.0k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Sett,Irelia,Karma,Braum,Leona
+2020.0,spring,VCS,3,Cerberus Esports,FTV Esports,1.0,31:21,OK,blue,CES,   VICTORY   ,61.0k,26,  8 ,  1 ,  1 ,  3 ,  0 ,Rumble,Gragas,Lucian,MissFortune,Gangplank
+2020.0,spring,VCS,3,Cerberus Esports,FTV Esports,1.0,31:21,OK,red,FTV,   DEFEAT   ,49.6k,12,  2 ,  0 ,  0 ,  2 ,  2 ,Elise,Sett,Akali,Renekton,Cassiopeia
+2020.0,spring,VCS,3,Cerberus Esports,FTV Esports,2.0,38:00,OK,blue,FTV,   DEFEAT   ,69.3k,14,  8 ,  3 ,  0 ,  1 ,  2 ,Elise,Renekton,Sett,Cassiopeia,Zoe
+2020.0,spring,VCS,3,Cerberus Esports,FTV Esports,2.0,38:00,OK,red,CES,   VICTORY   ,74.8k,19,  8 ,  1 ,  2 ,  5 ,  0 ,Rumble,Akali,Lucian,Qiyana,Nocturne
+2020.0,spring,VCS,3,GAM Esports,V Gaming Adonis,1.0,33:18,OK,blue,GAM,   VICTORY   ,63.6k,28,  8 ,  1 ,  1 ,  2 ,  1 ,Xayah,Gangplank,JarvanIV,RekSai,Olaf
+2020.0,spring,VCS,3,GAM Esports,V Gaming Adonis,1.0,33:18,OK,red,VGA,   DEFEAT   ,48.0k,8,  0 ,  0 ,  0 ,  3 ,  0 ,Akali,Lucian,Elise,LeeSin,Nidalee
+2020.0,spring,VCS,3,GAM Esports,V Gaming Adonis,2.0,26:57,OK,blue,VGA,   DEFEAT   ,42.7k,13,  0 ,  0 ,  0 ,  1 ,  0 ,Elise,LeeSin,Akali,Qiyana,Leona
+2020.0,spring,VCS,3,GAM Esports,V Gaming Adonis,2.0,26:57,OK,red,GAM,   VICTORY   ,54.3k,24,  7 ,  1 ,  1 ,  3 ,  2 ,JarvanIV,Gangplank,Sett,Olaf,Yasuo
+2020.0,spring,VCS,3,EVOS Esports,Team Secret,1.0,52:14,OK,blue,EVS,   DEFEAT   ,89.3k,28,  7 ,  3 ,  1 ,  1 ,  1 ,Olaf,Elise,Aphelios,LeeSin,RekSai
+2020.0,spring,VCS,3,EVOS Esports,Team Secret,1.0,52:14,OK,red,TS,   VICTORY   ,94.5k,28,  9 ,  1 ,  2 ,  5 ,  0 ,Irelia,Cassiopeia,JarvanIV,Ryze,Gragas
+2020.0,spring,VCS,3,EVOS Esports,Team Secret,2.0,31:11,OK,blue,TS,   DEFEAT   ,47.9k,8,  2 ,  0 ,  0 ,  0 ,  2 ,Irelia,Cassiopeia,Akali,Leona,Nautilus
+2020.0,spring,VCS,3,EVOS Esports,Team Secret,2.0,31:11,OK,red,EVS,   VICTORY   ,62.5k,21,  10 ,  2 ,  2 ,  4 ,  0 ,Olaf,Elise,Sett,Qiyana,LeeSin
+2020.0,spring,VCS,3,EVOS Esports,Team Secret,3.0,31:08,OK,blue,EVS,   DEFEAT   ,46.9k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Olaf,Elise,Senna,LeeSin,Qiyana
+2020.0,spring,VCS,3,EVOS Esports,Team Secret,3.0,31:08,OK,red,TS,   VICTORY   ,58.6k,16,  11 ,  4 ,  2 ,  3 ,  1 ,Blitzcrank,Akali,Syndra,MissFortune,Xayah
+2020.0,spring,VCS,3,Saigon Buffalo,Team Flash,1.0,41:34,OK,blue,DBL,   DEFEAT   ,69.0k,13,  6 ,  1 ,  1 ,  2 ,  1 ,Lucian,Ryze,Blitzcrank,Fiora,Aatrox
+2020.0,spring,VCS,3,Saigon Buffalo,Team Flash,1.0,41:34,OK,red,FL,   VICTORY   ,75.8k,16,  10 ,  1 ,  2 ,  5 ,  1 ,Akali,RekSai,Sett,Zoe,Elise
+2020.0,spring,VCS,3,Saigon Buffalo,Team Flash,2.0,23:42,OK,blue,FL,   DEFEAT   ,36.4k,3,  1 ,  0 ,  0 ,  0 ,  2 ,Zoe,JarvanIV,Akali,Leblanc,Ryze
+2020.0,spring,VCS,3,Saigon Buffalo,Team Flash,2.0,23:42,OK,red,DBL,   VICTORY   ,46.2k,12,  9 ,  2 ,  1 ,  4 ,  0 ,Sett,Lucian,LeeSin,MissFortune,Kennen
+2020.0,spring,VCS,3,Saigon Buffalo,Team Flash,3.0,29:11,OK,blue,DBL,   DEFEAT   ,44.3k,5,  3 ,  0 ,  0 ,  1 ,  2 ,Lucian,Ryze,Blitzcrank,MissFortune,Xayah
+2020.0,spring,VCS,3,Saigon Buffalo,Team Flash,3.0,29:11,OK,red,FL,   VICTORY   ,50.1k,11,  7 ,  1 ,  0 ,  4 ,  0 ,Sett,Akali,TahmKench,Braum,Mordekaiser
+2020.0,spring,VCS,3,Saigon Buffalo,Cerberus Esports,1.0,28:40,OK,blue,DBL,   DEFEAT   ,44.9k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Leona,Aatrox,Rumble,Ryze,Pantheon
+2020.0,spring,VCS,3,Saigon Buffalo,Cerberus Esports,1.0,28:40,OK,red,CES,   VICTORY   ,57.6k,18,  11 ,  2 ,  1 ,  4 ,  2 ,Sett,Akali,Mordekaiser,Ornn,Karma
+2020.0,spring,VCS,3,Saigon Buffalo,Cerberus Esports,2.0,32:01,OK,blue,CES,   VICTORY   ,57.8k,14,  9 ,  1 ,  1 ,  3 ,  2 ,Mordekaiser,TahmKench,Sett,JarvanIV,Qiyana
+2020.0,spring,VCS,3,Saigon Buffalo,Cerberus Esports,2.0,32:01,OK,red,DBL,   DEFEAT   ,48.7k,3,  1 ,  0 ,  0 ,  2 ,  0 ,Leona,Aatrox,Akali,Renekton,Pantheon
+2020.0,spring,VCS,3,Team Secret,GAM Esports,1.0,24:24,OK,blue,TS,   DEFEAT   ,35.6k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,JarvanIV,Cassiopeia,Senna,Renekton
+2020.0,spring,VCS,3,Team Secret,GAM Esports,1.0,24:24,OK,red,GAM,   VICTORY   ,44.8k,11,  7 ,  1 ,  0 ,  4 ,  2 ,Aphelios,Olaf,Sett,Taliyah,Gragas
+2020.0,spring,VCS,3,Team Secret,GAM Esports,2.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,VCS,4,FTV Esports,EVOS Esports,1.0,31:04,OK,blue,FTV,   VICTORY   ,59.5k,18,  9 ,  1 ,  1 ,  2 ,  2 ,JarvanIV,Blitzcrank,Cassiopeia,Thresh,Nautilus
+2020.0,spring,VCS,4,FTV Esports,EVOS Esports,1.0,31:04,OK,red,EVS,   DEFEAT   ,51.7k,6,  4 ,  0 ,  1 ,  2 ,  0 ,Nocturne,Elise,Syndra,Xayah,MissFortune
+2020.0,spring,VCS,4,FTV Esports,EVOS Esports,2.0,33:01,OK,blue,EVS,   VICTORY   ,63.2k,13,  9 ,  2 ,  1 ,  4 ,  1 ,Nocturne,Gragas,Elise,RekSai,Olaf
+2020.0,spring,VCS,4,FTV Esports,EVOS Esports,2.0,33:01,OK,red,FTV,   DEFEAT   ,53.9k,4,  3 ,  0 ,  0 ,  1 ,  1 ,Sett,Cassiopeia,JarvanIV,Xayah,Aphelios
+2020.0,spring,VCS,4,FTV Esports,EVOS Esports,3.0,32:15,OK,blue,FTV,   DEFEAT   ,51.4k,12,  1 ,  0 ,  0 ,  0 ,  1 ,JarvanIV,Blitzcrank,Mordekaiser,Xayah,MissFortune
+2020.0,spring,VCS,4,FTV Esports,EVOS Esports,3.0,32:15,OK,red,EVS,   VICTORY   ,63.2k,19,  9 ,  1 ,  1 ,  4 ,  1 ,Nocturne,Gragas,Elise,Ryze,Braum
+2020.0,spring,VCS,4,Team Flash,V Gaming Adonis,1.0,21:49,OK,blue,FL,   VICTORY   ,47.4k,23,  8 ,  1 ,  1 ,  3 ,  2 ,Soraka,JarvanIV,Sejuani,Gragas,Qiyana
+2020.0,spring,VCS,4,Team Flash,V Gaming Adonis,1.0,21:49,OK,red,VGA,   DEFEAT   ,32.2k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Syndra,Lucian,Elise,Ryze,Cassiopeia
+2020.0,spring,VCS,4,Team Flash,V Gaming Adonis,2.0,35:22,OK,blue,VGA,   DEFEAT   ,59.3k,12,  3 ,  0 ,  0 ,  2 ,  0 ,Syndra,Elise,Lucian,Olaf,Ryze
+2020.0,spring,VCS,4,Team Flash,V Gaming Adonis,2.0,35:22,OK,red,FL,   VICTORY   ,72.4k,20,  11 ,  4 ,  2 ,  3 ,  2 ,Soraka,JarvanIV,Sejuani,Yasuo,Vayne
+2020.0,spring,VCS,4,EVOS Esports,Saigon Buffalo,1.0,32:57,OK,blue,EVS,   DEFEAT   ,52.8k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Elise,Zoe,Leblanc,Orianna
+2020.0,spring,VCS,4,EVOS Esports,Saigon Buffalo,1.0,32:57,OK,red,DBL,   VICTORY   ,62.6k,16,  11 ,  2 ,  1 ,  4 ,  1 ,Xayah,Syndra,Blitzcrank,Braum,Thresh
+2020.0,spring,VCS,4,EVOS Esports,Saigon Buffalo,2.0,27:53,OK,blue,DBL,   DEFEAT   ,40.4k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Xayah,Syndra,Blitzcrank,Leona,Thresh
+2020.0,spring,VCS,4,EVOS Esports,Saigon Buffalo,2.0,27:53,OK,red,EVS,   VICTORY   ,56.6k,16,  9 ,  1 ,  0 ,  3 ,  2 ,Elise,Zoe,Aphelios,LeeSin,Gragas
+2020.0,spring,VCS,4,EVOS Esports,Saigon Buffalo,3.0,37:21,OK,blue,EVS,   VICTORY   ,69.8k,12,  9 ,  1 ,  2 ,  3 ,  2 ,Elise,Aphelios,Zoe,Varus,Ashe
+2020.0,spring,VCS,4,EVOS Esports,Saigon Buffalo,3.0,37:21,OK,red,DBL,   DEFEAT   ,58.3k,10,  2 ,  0 ,  0 ,  3 ,  0 ,Xayah,Syndra,Blitzcrank,LeeSin,RekSai
+2020.0,spring,VCS,4,GAM Esports,FTV Esports,1.0,22:06,OK,blue,GAM,   VICTORY   ,46.5k,18,  10 ,  2 ,  0 ,  2 ,  2 ,Morgana,Xayah,Braum,Mordekaiser,Ornn
+2020.0,spring,VCS,4,GAM Esports,FTV Esports,1.0,22:06,OK,red,FTV,   DEFEAT   ,34.0k,2,  4 ,  1 ,  0 ,  1 ,  0 ,Elise,Ryze,Pantheon,LeeSin,Qiyana
+2020.0,spring,VCS,4,GAM Esports,FTV Esports,2.0,34:09,OK,blue,FTV,   VICTORY   ,61.0k,27,  8 ,  2 ,  1 ,  2 ,  2 ,Fiora,Aphelios,Pantheon,Tristana,Vladimir
+2020.0,spring,VCS,4,GAM Esports,FTV Esports,2.0,34:09,OK,red,GAM,   DEFEAT   ,61.3k,25,  6 ,  1 ,  1 ,  3 ,  0 ,Xayah,Morgana,Azir,Thresh,Braum
+2020.0,spring,VCS,4,GAM Esports,FTV Esports,3.0,30:01,OK,blue,GAM,   VICTORY   ,57.2k,25,  8 ,  1 ,  1 ,  3 ,  1 ,Xayah,Kalista,Braum,Zoe,Azir
+2020.0,spring,VCS,4,GAM Esports,FTV Esports,3.0,30:01,OK,red,FTV,   DEFEAT   ,51.8k,18,  4 ,  0 ,  0 ,  2 ,  1 ,Sett,Elise,Pantheon,Renekton,Mordekaiser
+2020.0,spring,VCS,4,Cerberus Esports,Team Flash,1.0,33:13,OK,blue,CES,   DEFEAT   ,58.2k,15,  7 ,  2 ,  0 ,  4 ,  2 ,Syndra,Sett,Aphelios,Kennen,Kalista
+2020.0,spring,VCS,4,Cerberus Esports,Team Flash,1.0,33:13,OK,red,FL,   VICTORY   ,63.6k,16,  9 ,  2 ,  1 ,  1 ,  0 ,Elise,Blitzcrank,Cassiopeia,MissFortune,Leona
+2020.0,spring,VCS,4,Cerberus Esports,Team Flash,2.0,26:37,OK,blue,FL,   DEFEAT   ,42.7k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Elise,Zoe,Blitzcrank,Mordekaiser,Cassiopeia
+2020.0,spring,VCS,4,Cerberus Esports,Team Flash,2.0,26:37,OK,red,CES,   VICTORY   ,52.3k,18,  7 ,  1 ,  0 ,  4 ,  1 ,Syndra,Sett,JarvanIV,Nidalee,Olaf
+2020.0,spring,VCS,4,Cerberus Esports,Team Flash,3.0,34:55,OK,blue,CES,   DEFEAT   ,56.4k,16,  3 ,  0 ,  0 ,  1 ,  1 ,Syndra,Sett,JarvanIV,Tristana,MissFortune
+2020.0,spring,VCS,4,Cerberus Esports,Team Flash,3.0,34:55,OK,red,FL,   VICTORY   ,66.9k,22,  10 ,  1 ,  2 ,  4 ,  1 ,Elise,Cassiopeia,RekSai,Qiyana,Mordekaiser
+2020.0,spring,VCS,4,V Gaming Adonis,Team Secret,1.0,29:43,OK,blue,VGA,   DEFEAT   ,50.2k,13,  3 ,  0 ,  0 ,  1 ,  1 ,Syndra,Elise,Olaf,Mordekaiser,Orianna
+2020.0,spring,VCS,4,V Gaming Adonis,Team Secret,1.0,29:43,OK,red,TS,   VICTORY   ,56.6k,19,  8 ,  3 ,  2 ,  3 ,  1 ,Sejuani,Gragas,Qiyana,Blitzcrank,LeeSin
+2020.0,spring,VCS,4,V Gaming Adonis,Team Secret,2.0,28:53,OK,blue,TS,   VICTORY   ,58.3k,24,  10 ,  1 ,  1 ,  1 ,  2 ,Sejuani,Gragas,Blitzcrank,Morgana,Cassiopeia
+2020.0,spring,VCS,4,V Gaming Adonis,Team Secret,2.0,28:53,OK,red,VGA,   DEFEAT   ,45.5k,9,  2 ,  0 ,  0 ,  3 ,  0 ,Syndra,Elise,Olaf,Qiyana,Orianna
+2020.0,spring,VCS,5,FTV Esports,V Gaming Adonis,1.0,35:06,OK,blue,FTV,   DEFEAT   ,58.2k,12,  3 ,  0 ,  0 ,  1 ,  1 ,Lucian,Gragas,Cassiopeia,Syndra,Vayne
+2020.0,spring,VCS,5,FTV Esports,V Gaming Adonis,1.0,35:06,OK,red,VGA,   VICTORY   ,67.8k,27,  10 ,  3 ,  2 ,  4 ,  1 ,Elise,Xayah,Shyvana,Zoe,Irelia
+2020.0,spring,VCS,5,FTV Esports,V Gaming Adonis,2.0,28:30,OK,blue,VGA,   DEFEAT   ,49.2k,17,  3 ,  0 ,  0 ,  2 ,  1 ,Gragas,Elise,Shyvana,Leona,Nautilus
+2020.0,spring,VCS,5,FTV Esports,V Gaming Adonis,2.0,28:30,OK,red,FTV,   VICTORY   ,57.1k,20,  9 ,  2 ,  2 ,  3 ,  1 ,Aphelios,Lucian,Sett,Braum,Orianna
+2020.0,spring,VCS,5,FTV Esports,V Gaming Adonis,3.0,44:25,OK,blue,FTV,   VICTORY   ,85.9k,26,  8 ,  1 ,  3 ,  2 ,  2 ,Cassiopeia,Lucian,Sett,Orianna,Ryze
+2020.0,spring,VCS,5,FTV Esports,V Gaming Adonis,3.0,44:25,OK,red,VGA,   DEFEAT   ,77.1k,24,  7 ,  2 ,  0 ,  4 ,  0 ,Gragas,Elise,Shyvana,Zoe,Syndra
+2020.0,spring,VCS,5,Team Flash,Team Secret,1.0,35:16,OK,blue,FL,   DEFEAT   ,59.8k,11,  3 ,  0 ,  0 ,  3 ,  0 ,,,,,
+2020.0,spring,VCS,5,Team Flash,Team Secret,1.0,35:16,OK,red,TS,   VICTORY   ,67.3k,17,  11 ,  2 ,  2 ,  2 ,  2 ,,,,,
+2020.0,spring,VCS,5,Team Flash,Team Secret,2.0,35:10,OK,blue,TS,   VICTORY   ,63.8k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Kalista,Blitzcrank,Fiora,Irelia,Jayce
+2020.0,spring,VCS,5,Team Flash,Team Secret,2.0,35:10,OK,red,FL,   DEFEAT   ,57.3k,5,  4 ,  0 ,  0 ,  4 ,  1 ,Sett,Aphelios,Ornn,JarvanIV,RekSai
+2020.0,spring,VCS,5,Cerberus Esports,EVOS Esports,1.0,29:07,OK,blue,CES,   VICTORY   ,55.9k,11,  10 ,  1 ,  1 ,  4 ,  2 ,Syndra,Vladimir,Senna,Cassiopeia,Orianna
+2020.0,spring,VCS,5,Cerberus Esports,EVOS Esports,1.0,29:07,OK,red,EVS,   DEFEAT   ,42.6k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Renekton,RekSai,Elise,Kennen,Mordekaiser
+2020.0,spring,VCS,5,Cerberus Esports,EVOS Esports,2.0,32:59,OK,blue,EVS,   DEFEAT   ,56.2k,9,  6 ,  0 ,  1 ,  0 ,  2 ,Renekton,RekSai,Elise,Aphelios,Zoe
+2020.0,spring,VCS,5,Cerberus Esports,EVOS Esports,2.0,32:59,OK,red,CES,   VICTORY   ,58.4k,18,  6 ,  1 ,  0 ,  5 ,  0 ,Syndra,Vladimir,Senna,Nidalee,Sejuani
+2020.0,spring,VCS,5,Saigon Buffalo,GAM Esports,1.0,29:41,OK,blue,DBL,   DEFEAT   ,45.0k,8,  1 ,  0 ,  0 ,  2 ,  2 ,Syndra,Tristana,Elise,Taliyah,Nidalee
+2020.0,spring,VCS,5,Saigon Buffalo,GAM Esports,1.0,29:41,OK,red,GAM,   VICTORY   ,59.8k,24,  11 ,  3 ,  1 ,  2 ,  0 ,Sett,Aphelios,Olaf,JarvanIV,RekSai
+2020.0,spring,VCS,5,Saigon Buffalo,GAM Esports,2.0,24:04,OK,blue,GAM,   VICTORY   ,50.8k,19,  10 ,  1 ,  1 ,  4 ,  2 ,,,,,
+2020.0,spring,VCS,5,Saigon Buffalo,GAM Esports,2.0,24:04,OK,red,DBL,   DEFEAT   ,35.8k,8,  0 ,  0 ,  0 ,  0 ,  0 ,,,,,
+2020.0,spring,VCS,5,EVOS Esports,Team Flash,1.0,29:40,OK,blue,EVS,   DEFEAT   ,47.8k,5,  2 ,  0 ,  0 ,  0 ,  2 ,Blitzcrank,Fiora,Qiyana,Orianna,Ryze
+2020.0,spring,VCS,5,EVOS Esports,Team Flash,1.0,29:40,OK,red,FL,   VICTORY   ,57.8k,12,  11 ,  3 ,  1 ,  5 ,  0 ,Mordekaiser,TahmKench,JarvanIV,Xayah,MissFortune
+2020.0,spring,VCS,5,EVOS Esports,Team Flash,2.0,29:22,OK,blue,FL,   DEFEAT   ,45.4k,6,  1 ,  0 ,  0 ,  3 ,  2 ,Mordekaiser,TahmKench,JarvanIV,Irelia,RekSai
+2020.0,spring,VCS,5,EVOS Esports,Team Flash,2.0,29:22,OK,red,EVS,   VICTORY   ,58.0k,16,  9 ,  1 ,  2 ,  2 ,  0 ,Sett,Blitzcrank,Qiyana,Syndra,Gragas
+2020.0,spring,VCS,5,EVOS Esports,Team Flash,3.0,23:00,OK,blue,EVS,   DEFEAT   ,34.4k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Blitzcrank,Qiyana,Sett,LeeSin,Orianna
+2020.0,spring,VCS,5,EVOS Esports,Team Flash,3.0,23:00,OK,red,FL,   VICTORY   ,48.2k,12,  11 ,  3 ,  1 ,  3 ,  2 ,Mordekaiser,JarvanIV,Vladimir,RekSai,Renekton
+2020.0,spring,VCS,5,Cerberus Esports,GAM Esports,1.0,28:43,OK,blue,CES,   DEFEAT   ,45.1k,10,  1 ,  0 ,  0 ,  1 ,  1 ,Syndra,Aphelios,Senna,Tristana,Lucian
+2020.0,spring,VCS,5,Cerberus Esports,GAM Esports,1.0,28:43,OK,red,GAM,   VICTORY   ,59.2k,24,  9 ,  1 ,  1 ,  3 ,  1 ,RekSai,Zoe,Elise,JarvanIV,Qiyana
+2020.0,spring,VCS,5,Cerberus Esports,GAM Esports,2.0,33:30,OK,blue,GAM,   VICTORY   ,65.7k,31,  7 ,  1 ,  1 ,  4 ,  1 ,RekSai,Zoe,Elise,Cassiopeia,Aphelios
+2020.0,spring,VCS,5,Cerberus Esports,GAM Esports,2.0,33:30,OK,red,CES,   DEFEAT   ,56.9k,21,  3 ,  0 ,  0 ,  1 ,  1 ,Senna,Pantheon,Tristana,Leona,Braum
+2020.0,spring,VCS,6,Saigon Buffalo,V Gaming Adonis,1.0,32:36,OK,blue,DBL,   VICTORY   ,62.0k,16,  11 ,  3 ,  1 ,  2 ,  2 ,Gragas,Lucian,Ornn,Cassiopeia,Rakan
+2020.0,spring,VCS,6,Saigon Buffalo,V Gaming Adonis,1.0,32:36,OK,red,VGA,   DEFEAT   ,51.0k,6,  3 ,  0 ,  0 ,  3 ,  0 ,Sett,Zoe,Senna,Renekton,Irelia
+2020.0,spring,VCS,6,Saigon Buffalo,V Gaming Adonis,2.0,25:55,OK,blue,VGA,   VICTORY   ,49.2k,20,  9 ,  2 ,  1 ,  1 ,  2 ,Zoe,Senna,Sett,Mordekaiser,Irelia
+2020.0,spring,VCS,6,Saigon Buffalo,V Gaming Adonis,2.0,25:55,OK,red,DBL,   DEFEAT   ,43.2k,11,  4 ,  0 ,  0 ,  2 ,  0 ,Lucian,Aphelios,Ornn,TahmKench,Yasuo
+2020.0,spring,VCS,6,Saigon Buffalo,V Gaming Adonis,3.0,28:53,OK,blue,DBL,   VICTORY   ,55.6k,11,  11 ,  3 ,  1 ,  4 ,  2 ,Gragas,Lucian,Pantheon,Ornn,Ryze
+2020.0,spring,VCS,6,Saigon Buffalo,V Gaming Adonis,3.0,28:53,OK,red,VGA,   DEFEAT   ,42.6k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Sett,Zoe,Senna,Braum,Thresh
+2020.0,spring,VCS,6,FTV Esports,Team Secret,1.0,25:28,OK,blue,FTV,   DEFEAT   ,39.0k,4,  4 ,  0 ,  0 ,  0 ,  2 ,Syndra,Aphelios,Olaf,Cassiopeia,Irelia
+2020.0,spring,VCS,6,FTV Esports,Team Secret,1.0,25:28,OK,red,TS,   VICTORY   ,49.4k,18,  9 ,  2 ,  1 ,  3 ,  0 ,Gragas,Zoe,Sett,Vladimir,Braum
+2020.0,spring,VCS,6,FTV Esports,Team Secret,2.0,33:51,OK,blue,TS,   VICTORY   ,64.3k,19,  10 ,  2 ,  1 ,  2 ,  0 ,Gragas,Zoe,Sett,Taric,Yuumi
+2020.0,spring,VCS,6,FTV Esports,Team Secret,2.0,33:51,OK,red,FTV,   DEFEAT   ,52.3k,8,  3 ,  0 ,  0 ,  2 ,  2 ,Syndra,Aphelios,Elise,Azir,TahmKench
+2020.0,spring,VCS,6,Team Secret,Saigon Buffalo,1.0,28:39,OK,blue,TS,   DEFEAT   ,47.6k,9,  3 ,  0 ,  0 ,  0 ,  0 ,Sett,Zoe,Elise,Tristana,TahmKench
+2020.0,spring,VCS,6,Team Secret,Saigon Buffalo,1.0,28:39,OK,red,DBL,   VICTORY   ,53.2k,12,  9 ,  1 ,  1 ,  4 ,  2 ,Syndra,Olaf,Aphelios,Ryze,Mordekaiser
+2020.0,spring,VCS,6,Team Secret,Saigon Buffalo,2.0,31:20,OK,blue,DBL,   DEFEAT   ,47.7k,10,  1 ,  0 ,  0 ,  2 ,  0 ,Syndra,Gragas,Olaf,JarvanIV,Shyvana
+2020.0,spring,VCS,6,Team Secret,Saigon Buffalo,2.0,31:20,OK,red,TS,   VICTORY   ,58.8k,19,  11 ,  3 ,  2 ,  2 ,  2 ,Sett,Zoe,Mordekaiser,Leblanc,Rumble
+2020.0,spring,VCS,6,Team Secret,Saigon Buffalo,3.0,32:00,OK,blue,TS,   DEFEAT   ,51.4k,11,  3 ,  0 ,  0 ,  2 ,  1 ,Sett,Zoe,Mordekaiser,Leblanc,Cassiopeia
+2020.0,spring,VCS,6,Team Secret,Saigon Buffalo,3.0,32:00,OK,red,DBL,   VICTORY   ,63.6k,22,  11 ,  2 ,  2 ,  3 ,  1 ,Syndra,Aphelios,Ornn,Yuumi,Karma
+2020.0,spring,VCS,6,Team Flash,FTV Esports,1.0,30:25,OK,blue,FL,   VICTORY   ,58.4k,18,  9 ,  2 ,  2 ,  1 ,  1 ,Pantheon,Galio,Elise,Nocturne,Taliyah
+2020.0,spring,VCS,6,Team Flash,FTV Esports,1.0,30:25,OK,red,FTV,   DEFEAT   ,49.9k,14,  3 ,  0 ,  0 ,  3 ,  1 ,Sett,Aphelios,Syndra,Olaf,Cassiopeia
+2020.0,spring,VCS,6,Team Flash,FTV Esports,2.0,29:00,OK,blue,FTV,   VICTORY   ,53.1k,19,  11 ,  3 ,  1 ,  4 ,  2 ,Aphelios,Gragas,Ornn,Renekton,Kalista
+2020.0,spring,VCS,6,Team Flash,FTV Esports,2.0,29:00,OK,red,FL,   DEFEAT   ,45.4k,8,  3 ,  0 ,  0 ,  0 ,  0 ,Pantheon,Galio,Sett,Poppy,Nocturne
+2020.0,spring,VCS,6,Team Flash,FTV Esports,3.0,23:46,OK,blue,FL,   VICTORY   ,47.4k,15,  9 ,  1 ,  0 ,  2 ,  2 ,Galio,Pantheon,Diana,Poppy,Nocturne
+2020.0,spring,VCS,6,Team Flash,FTV Esports,3.0,23:46,OK,red,FTV,   DEFEAT   ,37.3k,3,  4 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Sett,Syndra,Xayah,Kalista
+2020.0,spring,VCS,6,V Gaming Adonis,Cerberus Esports,1.0,32:29,OK,blue,VGA,   VICTORY   ,59.5k,19,  9 ,  1 ,  1 ,  4 ,  2 ,Zoe,Sett,Aphelios,Syndra,Irelia
+2020.0,spring,VCS,6,V Gaming Adonis,Cerberus Esports,1.0,32:29,OK,red,CES,   DEFEAT   ,47.0k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Gragas,Pantheon,Senna,Braum,Cassiopeia
+2020.0,spring,VCS,6,V Gaming Adonis,Cerberus Esports,2.0,40:51,OK,blue,CES,   DEFEAT   ,73.3k,21,  8 ,  1 ,  2 ,  3 ,  2 ,,,,,
+2020.0,spring,VCS,6,V Gaming Adonis,Cerberus Esports,2.0,40:51,OK,red,VGA,   VICTORY   ,72.8k,23,  7 ,  1 ,  0 ,  3 ,  0 ,,,,,
+2020.0,spring,VCS,6,GAM Esports,EVOS Esports,1.0,32:52,OK,blue,GAM,   VICTORY   ,61.7k,16,  9 ,  3 ,  2 ,  1 ,  2 ,Vladimir,Xayah,Olaf,Renekton,Aphelios
+2020.0,spring,VCS,6,GAM Esports,EVOS Esports,1.0,32:52,OK,red,EVS,   DEFEAT   ,52.3k,6,  3 ,  0 ,  0 ,  3 ,  0 ,Pantheon,Elise,Sett,Gragas,Shyvana
+2020.0,spring,VCS,6,GAM Esports,EVOS Esports,2.0,34:55,OK,blue,EVS,   DEFEAT   ,59.5k,8,  3 ,  0 ,  2 ,  1 ,  0 ,Pantheon,Elise,Sett,Renekton,Fiora
+2020.0,spring,VCS,6,GAM Esports,EVOS Esports,2.0,34:55,OK,red,GAM,   VICTORY   ,66.5k,23,  9 ,  1 ,  0 ,  3 ,  2 ,Vladimir,Xayah,Mordekaiser,RekSai,Shyvana
+2020.0,spring,VCS,7,Cerberus Esports,Team Secret,1.0,26:02,OK,blue,CES,   DEFEAT   ,41.4k,6,  3 ,  0 ,  0 ,  0 ,  1 ,Olaf,Syndra,Lucian,LeeSin,Nidalee
+2020.0,spring,VCS,7,Cerberus Esports,Team Secret,1.0,26:02,OK,red,TS,   VICTORY   ,53.5k,24,  11 ,  3 ,  1 ,  4 ,  1 ,Elise,Blitzcrank,Sett,JarvanIV,RekSai
+2020.0,spring,VCS,7,Cerberus Esports,Team Secret,2.0,30:23,OK,blue,TS,   DEFEAT   ,48.7k,7,  5 ,  0 ,  0 ,  1 ,  0 ,Elise,Blitzcrank,Renekton,JarvanIV,Gragas
+2020.0,spring,VCS,7,Cerberus Esports,Team Secret,2.0,30:23,OK,red,CES,   VICTORY   ,58.9k,22,  9 ,  2 ,  1 ,  4 ,  2 ,Olaf,Senna,Lucian,Jayce,Tristana
+2020.0,spring,VCS,7,Cerberus Esports,Team Secret,3.0,27:33,OK,blue,CES,   VICTORY   ,51.8k,14,  8 ,  1 ,  1 ,  2 ,  2 ,Senna,Olaf,Lucian,Tristana,Jayce
+2020.0,spring,VCS,7,Cerberus Esports,Team Secret,3.0,27:33,OK,red,TS,   DEFEAT   ,42.0k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Elise,Blitzcrank,Aphelios,Sejuani,JarvanIV
+2020.0,spring,VCS,7,EVOS Esports,V Gaming Adonis,1.0,26:14,OK,blue,EVS,   VICTORY   ,52.5k,21,  10 ,  2 ,  1 ,  4 ,  1 ,Lucian,Gragas,Renekton,Nautilus,Leona
+2020.0,spring,VCS,7,EVOS Esports,V Gaming Adonis,1.0,26:14,OK,red,VGA,   DEFEAT   ,40.3k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Sett,Xayah,Aphelios,RekSai,JarvanIV
+2020.0,spring,VCS,7,EVOS Esports,V Gaming Adonis,2.0,33:35,OK,blue,VGA,   VICTORY   ,67.7k,24,  9 ,  1 ,  1 ,  4 ,  1 ,Syndra,Xayah,Elise,Sett,Mordekaiser
+2020.0,spring,VCS,7,EVOS Esports,V Gaming Adonis,2.0,33:35,OK,red,EVS,   DEFEAT   ,56.1k,11,  2 ,  0 ,  0 ,  1 ,  1 ,Lucian,Gragas,Renekton,Rumble,Orianna
+2020.0,spring,VCS,7,EVOS Esports,V Gaming Adonis,3.0,44:01,OK,blue,EVS,   VICTORY   ,81.9k,30,  9 ,  2 ,  1 ,  3 ,  1 ,Lucian,Gragas,Renekton,Aatrox,Fiora
+2020.0,spring,VCS,7,EVOS Esports,V Gaming Adonis,3.0,44:01,OK,red,VGA,   DEFEAT   ,77.9k,28,  5 ,  0 ,  0 ,  4 ,  1 ,Xayah,Vladimir,Irelia,Nidalee,Olaf
+2020.0,spring,VCS,7,GAM Esports,Team Flash,1.0,31:43,OK,blue,GAM,   VICTORY   ,64.5k,24,  10 ,  2 ,  1 ,  5 ,  0 ,Blitzcrank,Kalista,Aphelios,Olaf,Shyvana
+2020.0,spring,VCS,7,GAM Esports,Team Flash,1.0,31:43,OK,red,FL,   DEFEAT   ,50.9k,11,  1 ,  0 ,  0 ,  0 ,  2 ,Senna,Pantheon,Elise,Irelia,Galio
+2020.0,spring,VCS,7,GAM Esports,Team Flash,2.0,34:41,OK,blue,FL,   VICTORY   ,69.7k,21,  10 ,  2 ,  2 ,  5 ,  2 ,Pantheon,Senna,Lucian,MissFortune,Leona
+2020.0,spring,VCS,7,GAM Esports,Team Flash,2.0,34:41,OK,red,GAM,   DEFEAT   ,56.8k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Blitzcrank,Aphelios,Kalista,RekSai,Shyvana
+2020.0,spring,VCS,7,GAM Esports,Team Flash,3.0,32:11,OK,blue,GAM,   VICTORY   ,65.4k,24,  11 ,  2 ,  1 ,  4 ,  2 ,Kalista,Olaf,Thresh,Rakan,Fiora
+2020.0,spring,VCS,7,GAM Esports,Team Flash,3.0,32:11,OK,red,FL,   DEFEAT   ,48.5k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Pantheon,Senna,Sett,Lucian,Sylas
+2020.0,spring,VCS,7,Saigon Buffalo,FTV Esports,1.0,34:33,OK,blue,DBL,   VICTORY   ,62.5k,24,  8 ,  1 ,  0 ,  3 ,  1 ,Gragas,Diana,Elise,Leblanc,Maokai
+2020.0,spring,VCS,7,Saigon Buffalo,FTV Esports,1.0,34:33,OK,red,FTV,   DEFEAT   ,62.8k,20,  9 ,  3 ,  2 ,  2 ,  1 ,Sett,Aphelios,Senna,Renekton,Thresh
+2020.0,spring,VCS,7,Saigon Buffalo,FTV Esports,2.0,35:43,OK,blue,FTV,   DEFEAT   ,54.9k,7,  6 ,  0 ,  0 ,  2 ,  1 ,Senna,Syndra,Sett,Mordekaiser,Ornn
+2020.0,spring,VCS,7,Saigon Buffalo,FTV Esports,2.0,35:43,OK,red,DBL,   VICTORY   ,64.4k,20,  9 ,  3 ,  1 ,  4 ,  1 ,Gragas,Aphelios,Olaf,Renekton,Pantheon
+2020.0,spring,VCS,7,FTV Esports,Cerberus Esports,1.0,30:31,OK,blue,FTV,   VICTORY   ,59.3k,19,  9 ,  1 ,  2 ,  2 ,  1 ,Zoe,Thresh,Renekton,Mordekaiser,Ornn
+2020.0,spring,VCS,7,FTV Esports,Cerberus Esports,1.0,30:31,OK,red,CES,   DEFEAT   ,51.6k,14,  3 ,  0 ,  0 ,  3 ,  1 ,Gragas,Lucian,Senna,Olaf,JarvanIV
+2020.0,spring,VCS,7,FTV Esports,Cerberus Esports,2.0,23:23,OK,blue,CES,   VICTORY   ,51.2k,26,  9 ,  2 ,  1 ,  2 ,  2 ,Gragas,Lucian,Syndra,Rumble,Ekko
+2020.0,spring,VCS,7,FTV Esports,Cerberus Esports,2.0,23:23,OK,red,FTV,   DEFEAT   ,35.7k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Renekton,Zoe,Vladimir,Mordekaiser
+2020.0,spring,VCS,7,FTV Esports,Cerberus Esports,3.0,32:42,OK,blue,FTV,   VICTORY   ,64.4k,20,  9 ,  2 ,  1 ,  5 ,  1 ,Zoe,Thresh,Renekton,Ornn,Mordekaiser
+2020.0,spring,VCS,7,FTV Esports,Cerberus Esports,3.0,32:42,OK,red,CES,   DEFEAT   ,53.7k,11,  2 ,  0 ,  0 ,  0 ,  1 ,Syndra,Sett,Lucian,Jayce,Gangplank
+2020.0,spring,VCS,7,V Gaming Adonis,GAM Esports,1.0,28:34,OK,blue,VGA,   DEFEAT   ,46.2k,10,  3 ,  0 ,  0 ,  0 ,  1 ,Senna,Sett,Cassiopeia,Mordekaiser,Renekton
+2020.0,spring,VCS,7,V Gaming Adonis,GAM Esports,1.0,28:34,OK,red,GAM,   VICTORY   ,59.0k,24,  8 ,  1 ,  2 ,  3 ,  1 ,Thresh,Elise,Aphelios,XinZhao,JarvanIV
+2020.0,spring,VCS,7,V Gaming Adonis,GAM Esports,2.0,29:19,OK,blue,GAM,   VICTORY   ,60.0k,24,  11 ,  3 ,  1 ,  1 ,  1 ,Thresh,Elise,JarvanIV,Syndra,Sylas
+2020.0,spring,VCS,7,V Gaming Adonis,GAM Esports,2.0,29:19,OK,red,VGA,   DEFEAT   ,54.5k,15,  3 ,  0 ,  1 ,  3 ,  1 ,Sett,Senna,Pantheon,Renekton,Irelia
+2020.0,spring,VCS,8,Team Secret,EVOS Esports,1.0,43:14,OK,blue,TS,   DEFEAT   ,76.1k,12,  8 ,  2 ,  2 ,  2 ,  2 ,JarvanIV,Sejuani,Blitzcrank,Orianna,Cassiopeia
+2020.0,spring,VCS,8,Team Secret,EVOS Esports,1.0,43:14,OK,red,EVS,   VICTORY   ,81.5k,19,  10 ,  3 ,  2 ,  5 ,  0 ,Senna,Aphelios,Syndra,Thresh,Pantheon
+2020.0,spring,VCS,8,Team Secret,EVOS Esports,2.0,30:49,OK,blue,EVS,   DEFEAT   ,54.8k,11,  7 ,  1 ,  1 ,  1 ,  1 ,Senna,Aphelios,Syndra,Thresh,Braum
+2020.0,spring,VCS,8,Team Secret,EVOS Esports,2.0,30:49,OK,red,TS,   VICTORY   ,53.7k,10,  9 ,  1 ,  0 ,  3 ,  1 ,Vladimir,JarvanIV,Blitzcrank,Olaf,Sejuani
+2020.0,spring,VCS,8,Team Secret,EVOS Esports,3.0,23:49,OK,blue,TS,   DEFEAT   ,38.6k,5,  2 ,  0 ,  0 ,  0 ,  1 ,JarvanIV,Sejuani,Blitzcrank,Cassiopeia,Neeko
+2020.0,spring,VCS,8,Team Secret,EVOS Esports,3.0,23:49,OK,red,EVS,   VICTORY   ,47.0k,17,  8 ,  1 ,  0 ,  3 ,  1 ,Aphelios,Syndra,Senna,Nidalee,Skarner
+2020.0,spring,VCS,8,Team Flash,Saigon Buffalo,1.0,31:57,OK,blue,FL,   DEFEAT   ,52.2k,17,  0 ,  0 ,  0 ,  4 ,  0 ,TahmKench,Akali,Zoe,Cassiopeia,Lucian
+2020.0,spring,VCS,8,Team Flash,Saigon Buffalo,1.0,31:57,OK,red,DBL,   VICTORY   ,66.5k,34,  11 ,  3 ,  2 ,  1 ,  2 ,Sett,Syndra,Renekton,Nidalee,JarvanIV
+2020.0,spring,VCS,8,Team Flash,Saigon Buffalo,2.0,25:47,OK,blue,DBL,   DEFEAT   ,37.0k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Syndra,Renekton,Aphelios,Nidalee,Shyvana
+2020.0,spring,VCS,8,Team Flash,Saigon Buffalo,2.0,25:47,OK,red,FL,   VICTORY   ,48.8k,13,  10 ,  2 ,  1 ,  4 ,  1 ,TahmKench,Zoe,Sett,Rumble,RekSai
+2020.0,spring,VCS,8,Team Flash,Saigon Buffalo,3.0,29:45,OK,blue,FL,   VICTORY   ,54.3k,21,  8 ,  1 ,  0 ,  2 ,  2 ,Zoe,Senna,Akali,RekSai,Elise
+2020.0,spring,VCS,8,Team Flash,Saigon Buffalo,3.0,29:45,OK,red,DBL,   DEFEAT   ,44.7k,9,  0 ,  0 ,  0 ,  3 ,  0 ,Sett,Syndra,Renekton,Nidalee,Shyvana
+2020.0,spring,VCS,8,Cerberus Esports,Saigon Buffalo,1.0,36:42,OK,blue,CES,   VICTORY   ,66.1k,20,  10 ,  2 ,  2 ,  3 ,  1 ,Senna,Akali,Varus,Mordekaiser,Leblanc
+2020.0,spring,VCS,8,Cerberus Esports,Saigon Buffalo,1.0,36:42,OK,red,DBL,   DEFEAT   ,56.9k,14,  5 ,  0 ,  0 ,  3 ,  1 ,Elise,Aphelios,Renekton,Syndra,
+2020.0,spring,VCS,8,Cerberus Esports,Saigon Buffalo,2.0,25:57,OK,blue,DBL,   DEFEAT   ,42.2k,9,  2 ,  0 ,  0 ,  1 ,  1 ,Elise,Varus,Renekton,RekSai,Neeko
+2020.0,spring,VCS,8,Cerberus Esports,Saigon Buffalo,2.0,25:57,OK,red,CES,   VICTORY   ,52.3k,21,  10 ,  2 ,  1 ,  3 ,  1 ,Senna,Aphelios,Kalista,Leblanc,LeeSin
+2020.0,spring,VCS,8,GAM Esports,Team Secret,1.0,33:07,OK,blue,GAM,   DEFEAT   ,50.9k,6,  3 ,  0 ,  0 ,  2 ,  0 ,Olaf,Thresh,Elise,Ekko,Rumble
+2020.0,spring,VCS,8,GAM Esports,Team Secret,1.0,33:07,OK,red,TS,   VICTORY   ,59.5k,14,  10 ,  2 ,  1 ,  2 ,  1 ,Sett,Renekton,Pantheon,LeeSin,Qiyana
+2020.0,spring,VCS,8,GAM Esports,Team Secret,2.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,VCS,8,GAM Esports,Team Secret,3.0,30:37,OK,blue,GAM,   VICTORY   ,58.3k,21,  10 ,  2 ,  0 ,  4 ,  1 ,JarvanIV,Thresh,Elise,Jax,Fiora
+2020.0,spring,VCS,8,GAM Esports,Team Secret,3.0,30:37,OK,red,TS,   DEFEAT   ,47.3k,11,  2 ,  0 ,  1 ,  1 ,  1 ,Sett,Renekton,Pantheon,Olaf,Syndra
+2020.0,spring,VCS,8,EVOS Esports,FTV Esports,1.0,31:57,OK,blue,EVS,   VICTORY   ,61.7k,23,  11 ,  3 ,  1 ,  4 ,  0 ,Lucian,Elise,Gragas,Taric,Blitzcrank
+2020.0,spring,VCS,8,EVOS Esports,FTV Esports,1.0,31:57,OK,red,FTV,   DEFEAT   ,48.7k,3,  2 ,  0 ,  0 ,  1 ,  2 ,Olaf,Thresh,Sett,Neeko,Irelia
+2020.0,spring,VCS,8,EVOS Esports,FTV Esports,2.0,30:18,OK,blue,FTV,   DEFEAT   ,50.8k,8,  2 ,  0 ,  2 ,  1 ,  1 ,Thresh,Olaf,Mordekaiser,Sejuani,Syndra
+2020.0,spring,VCS,8,EVOS Esports,FTV Esports,2.0,30:18,OK,red,EVS,   VICTORY   ,60.4k,20,  10 ,  2 ,  0 ,  4 ,  1 ,Lucian,Elise,Diana,JarvanIV,Gragas
+2020.0,spring,VCS,8,V Gaming Adonis,Team Flash,1.0,29:33,OK,blue,VGA,   DEFEAT   ,50.0k,13,  2 ,  0 ,  0 ,  0 ,  0 ,Sett,Syndra,Elise,Olaf,Cassiopeia
+2020.0,spring,VCS,8,V Gaming Adonis,Team Flash,1.0,29:33,OK,red,FL,   VICTORY   ,61.2k,24,  11 ,  3 ,  1 ,  3 ,  2 ,Pantheon,Lucian,Kalista,Skarner,JarvanIV
+2020.0,spring,VCS,8,V Gaming Adonis,Team Flash,2.0,23:03,OK,blue,FL,   VICTORY   ,49.7k,23,  8 ,  1 ,  1 ,  2 ,  2 ,Pantheon,Lucian,Elise,Renekton,Jayce
+2020.0,spring,VCS,8,V Gaming Adonis,Team Flash,2.0,23:03,OK,red,VGA,   DEFEAT   ,38.3k,12,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Aphelios,Thresh,Irelia,Neeko
+2020.0,spring,VCS,9,Saigon Buffalo,EVOS Esports,1.0,30:34,OK,blue,DBL,   DEFEAT   ,46.1k,2,  2 ,  0 ,  0 ,  1 ,  2 ,JarvanIV,Sejuani,Sylas,Neeko,Syndra
+2020.0,spring,VCS,9,Saigon Buffalo,EVOS Esports,1.0,30:34,OK,red,EVS,   VICTORY   ,56.0k,10,  9 ,  2 ,  1 ,  3 ,  0 ,TahmKench,Elise,Zoe,Mordekaiser,Ornn
+2020.0,spring,VCS,9,Saigon Buffalo,EVOS Esports,2.0,35:27,OK,blue,EVS,   VICTORY   ,66.0k,15,  10 ,  2 ,  1 ,  3 ,  1 ,Zoe,Elise,TahmKench,Nautilus,Leblanc
+2020.0,spring,VCS,9,Saigon Buffalo,EVOS Esports,2.0,35:27,OK,red,DBL,   DEFEAT   ,55.0k,6,  3 ,  0 ,  0 ,  3 ,  1 ,Senna,Aphelios,Kalista,Sejuani,Neeko
+2020.0,spring,VCS,9,FTV Esports,GAM Esports,1.0,21:19,OK,blue,FTV,   DEFEAT   ,32.7k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Renekton,Lucian,Senna,Tristana,Qiyana
+2020.0,spring,VCS,9,FTV Esports,GAM Esports,1.0,21:19,OK,red,GAM,   VICTORY   ,43.8k,21,  7 ,  1 ,  0 ,  2 ,  2 ,Sett,Aphelios,Elise,Shyvana,Diana
+2020.0,spring,VCS,9,FTV Esports,GAM Esports,2.0,20:33,OK,blue,GAM,   VICTORY   ,46.7k,30,  9 ,  2 ,  0 ,  1 ,  0 ,JarvanIV,Elise,Zoe,Varus,Rumble
+2020.0,spring,VCS,9,FTV Esports,GAM Esports,2.0,20:33,OK,red,FTV,   DEFEAT   ,28.0k,6,  0 ,  0 ,  0 ,  1 ,  1 ,Sett,Aphelios,Syndra,Taliyah,Jayce
+2020.0,spring,VCS,9,Team Flash,Cerberus Esports,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,VCS,9,Team Flash,Cerberus Esports,2.0,32:11,OK,blue,CES,   DEFEAT   ,53.1k,14,  2 ,  0 ,  1 ,  1 ,  2 ,Syndra,Aphelios,Olaf,Neeko,LeeSin
+2020.0,spring,VCS,9,Team Flash,Cerberus Esports,2.0,32:11,OK,red,FL,   VICTORY   ,64.2k,25,  10 ,  2 ,  1 ,  4 ,  0 ,Renekton,Zoe,RekSai,Elise,Skarner
+2020.0,spring,VCS,9,Team Secret,V Gaming Adonis,1.0,27:35,OK,blue,TS,   VICTORY   ,55.2k,23,  11 ,  2 ,  1 ,  2 ,  2 ,Ornn,Lucian,JarvanIV,Sejuani,Zac
+2020.0,spring,VCS,9,Team Secret,V Gaming Adonis,1.0,27:35,OK,red,VGA,   DEFEAT   ,41.7k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Olaf,Elise,Aphelios,Nidalee,Shyvana
+2020.0,spring,VCS,9,Team Secret,V Gaming Adonis,2.0,32:03,OK,blue,VGA,   DEFEAT   ,54.3k,12,  5 ,  0 ,  0 ,  2 ,  1 ,Sett,Olaf,Pantheon,Kalista,Lucian
+2020.0,spring,VCS,9,Team Secret,V Gaming Adonis,2.0,32:03,OK,red,TS,   VICTORY   ,62.8k,25,  10 ,  1 ,  2 ,  3 ,  1 ,Ornn,JarvanIV,Aphelios,Morgana,Senna
+2020.0,spring,VCS,9,V Gaming Adonis,FTV Esports,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,spring,VCS,9,V Gaming Adonis,FTV Esports,2.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,spring,VCS,9,V Gaming Adonis,FTV Esports,3.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,spring,VCS,9,Team Secret,Team Flash,1.0,30:09,OK,blue,TS,   VICTORY   ,57.0k,26,  7 ,  2 ,  0 ,  3 ,  1 ,Kalista,Blitzcrank,Renekton,Sejuani,Maokai
+2020.0,spring,VCS,9,Team Secret,Team Flash,1.0,30:09,OK,red,FL,   DEFEAT   ,52.8k,15,  3 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Syndra,Sett,Pantheon,Ornn
+2020.0,spring,VCS,9,Team Secret,Team Flash,2.0,28:54,OK,blue,FL,   DEFEAT   ,46.7k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Rumble,Syndra,JarvanIV,Trundle,Aatrox
+2020.0,spring,VCS,9,Team Secret,Team Flash,2.0,28:54,OK,red,TS,   VICTORY   ,53.5k,20,  8 ,  1 ,  1 ,  2 ,  1 ,Blitzcrank,Sett,Renekton,Maokai,Fiora
+2020.0,spring,VCS,9,EVOS Esports,Cerberus Esports,1.0,34:39,OK,blue,EVS,   VICTORY   ,66.9k,17,  11 ,  3 ,  1 ,  1 ,  1 ,Zoe,Thresh,Renekton,Aatrox,Mordekaiser
+2020.0,spring,VCS,9,EVOS Esports,Cerberus Esports,1.0,34:39,OK,red,CES,   DEFEAT   ,59.6k,8,  5 ,  0 ,  1 ,  4 ,  1 ,Syndra,Sett,Nidalee,Sejuani,Olaf
+2020.0,spring,VCS,9,EVOS Esports,Cerberus Esports,2.0,22:27,OK,blue,CES,   VICTORY   ,47.9k,13,  10 ,  3 ,  1 ,  3 ,  2 ,Syndra,Nidalee,Senna,RekSai,Sejuani
+2020.0,spring,VCS,9,EVOS Esports,Cerberus Esports,2.0,22:27,OK,red,EVS,   DEFEAT   ,34.4k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Renekton,Thresh,Irelia,Orianna
+2020.0,spring,VCS,9,EVOS Esports,Cerberus Esports,3.0,24:06,OK,blue,EVS,   DEFEAT   ,39.1k,8,  1 ,  0 ,  0 ,  1 ,  1 ,Zoe,Thresh,Renekton,Orianna,Azir
+2020.0,spring,VCS,9,EVOS Esports,Cerberus Esports,3.0,24:06,OK,red,CES,   VICTORY   ,44.9k,12,  7 ,  1 ,  0 ,  2 ,  1 ,Syndra,Sett,Nidalee,Irelia,Jayce
+2020.0,spring,VCS,9,GAM Esports,Saigon Buffalo,1.0,19:08,OK,blue,GAM,   VICTORY   ,40.9k,16,  8 ,  1 ,  0 ,  2 ,  2 ,Zoe,JarvanIV,Elise,Azir,Cassiopeia
+2020.0,spring,VCS,9,GAM Esports,Saigon Buffalo,1.0,19:08,OK,red,DBL,   DEFEAT   ,29.5k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Sett,Aphelios,Renekton,Nidalee,Taliyah
+2020.0,spring,VCS,9,GAM Esports,Saigon Buffalo,2.0,18:06,OK,blue,DBL,   DEFEAT   ,28.2k,11,  0 ,  0 ,  0 ,  1 ,  0 ,Sett,Sejuani,Pantheon,Rumble,Galio
+2020.0,spring,VCS,9,GAM Esports,Saigon Buffalo,2.0,18:06,OK,red,GAM,   VICTORY   ,38.7k,21,  9 ,  1 ,  0 ,  0 ,  2 ,Aphelios,Zoe,Kalista,Volibear,Nautilus

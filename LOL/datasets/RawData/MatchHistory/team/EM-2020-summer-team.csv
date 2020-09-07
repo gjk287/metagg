@@ -1,0 +1,123 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,EM,1,LDLC OL,G2 Arctic,1.0,27:00,OK,blue,LDLC,   VICTORY   ,52.7k,11,  11 ,  3 ,  1 ,  3 ,  2 ,Ashe,Lucian,Ezreal,Ekko,TahmKench
+2020.0,summer,EM,1,LDLC OL,G2 Arctic,1.0,27:00,OK,red,G2AR,   DEFEAT   ,43.1k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Zoe,Leblanc,Caitlyn,Thresh,Nautilus
+2020.0,summer,EM,1,eSuba,Riddle Esports,1.0,40:16,OK,blue,ESB,   DEFEAT   ,69.4k,18,  4 ,  0 ,  0 ,  3 ,  2 ,Karthus,Thresh,Karma,Nautilus,Gnar
+2020.0,summer,EM,1,eSuba,Riddle Esports,1.0,40:16,OK,red,RDL,   VICTORY   ,76.3k,20,  11 ,  4 ,  2 ,  3 ,  0 ,Caitlyn,Azir,Ashe,Camille,Irelia
+2020.0,summer,EM,1,Iron Wolves,SAMCLAN,1.0,28:07,OK,blue,IW,   DEFEAT   ,45.3k,6,  5 ,  1 ,  0 ,  1 ,  1 ,Lux,Zoe,Senna,Ornn,Morgana
+2020.0,summer,EM,1,Iron Wolves,SAMCLAN,1.0,28:07,OK,red,SAM,   VICTORY   ,55.0k,19,  10 ,  2 ,  1 ,  4 ,  1 ,Caitlyn,Kalista,Jax,Gangplank,Thresh
+2020.0,summer,EM,1,7more7 Pompa,Five Kings,1.0,41:47,OK,blue,PT7,   DEFEAT   ,65.7k,11,  4 ,  0 ,  0 ,  3 ,  2 ,Veigar,Shen,Tristana,Syndra,Braum
+2020.0,summer,EM,1,7more7 Pompa,Five Kings,1.0,41:47,OK,red,5K,   VICTORY   ,71.2k,18,  8 ,  1 ,  1 ,  4 ,  0 ,Caitlyn,Sett,Lux,Thresh,Nautilus
+2020.0,summer,EM,1,CR4ZY,LowLandLions,1.0,23:07,OK,blue,CR4,   VICTORY   ,47.0k,20,  7 ,  1 ,  1 ,  2 ,  2 ,Karthus,Lucian,Caitlyn,Kled,Yasuo
+2020.0,summer,EM,1,CR4ZY,LowLandLions,1.0,23:07,OK,red,LLL,   DEFEAT   ,33.5k,1,  2 ,  0 ,  0 ,  1 ,  0 ,Chogath,Graves,Volibear,Camille,RekSai
+2020.0,summer,EM,1,Team GamerLegion,Electronik,1.0,24:36,OK,blue,GL,   VICTORY   ,48.0k,12,  10 ,  2 ,  0 ,  3 ,  2 ,TwistedFate,Ornn,MissFortune,Zac,RekSai
+2020.0,summer,EM,1,Team GamerLegion,Electronik,1.0,24:36,OK,red,EGN,   DEFEAT   ,37.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Heimerdinger,Nocturne,Taliyah,Lucian,Jayce
+2020.0,summer,EM,1,Racoon,Sector One,1.0,29:03,OK,blue,RCN,   VICTORY   ,54.5k,23,  9 ,  1 ,  1 ,  3 ,  0 ,Ezreal,Caitlyn,Karma,Shen,Camille
+2020.0,summer,EM,1,Racoon,Sector One,1.0,29:03,OK,red,S1,   DEFEAT   ,48.3k,12,  3 ,  0 ,  0 ,  1 ,  2 ,Taliyah,Nocturne,Renekton,Kindred,Akali
+2020.0,summer,EM,1,SINNERS Esports,Intrepid Fox Gaming,1.0,46:20,OK,blue,SIN,   DEFEAT   ,73.0k,21,  6 ,  2 ,  0 ,  4 ,  0 ,Cassiopeia,Irelia,Khazix,Shen,Camille
+2020.0,summer,EM,1,SINNERS Esports,Intrepid Fox Gaming,1.0,46:20,OK,red,IF,   VICTORY   ,81.7k,27,  9 ,  1 ,  1 ,  3 ,  2 ,Lux,Caitlyn,Elise,Volibear,Nidalee
+2020.0,summer,EM,1,LowLandLions,LDLC OL,1.0,30:09,OK,blue,LLL,   DEFEAT   ,48.3k,11,  1 ,  0 ,  0 ,  2 ,  0 ,Zoe,Leblanc,Graves,Aatrox,Mordekaiser
+2020.0,summer,EM,1,LowLandLions,LDLC OL,1.0,30:09,OK,red,LDLC,   VICTORY   ,64.3k,32,  11 ,  3 ,  1 ,  2 ,  2 ,Caitlyn,Bard,Karthus,Gragas,Yuumi
+2020.0,summer,EM,1,Electronik,eSuba,1.0,27:55,OK,blue,EGN,   DEFEAT   ,45.2k,10,  2 ,  0 ,  0 ,  2 ,  1 ,Irelia,Sona,Camille,Pantheon,MonkeyKing
+2020.0,summer,EM,1,Electronik,eSuba,1.0,27:55,OK,red,ESB,   VICTORY   ,52.2k,15,  11 ,  4 ,  1 ,  2 ,  1 ,Volibear,Caitlyn,MissFortune,Nautilus,Yuumi
+2020.0,summer,EM,1,Racoon,Iron Wolves,1.0,38:14,OK,blue,RCN,   VICTORY   ,67.6k,21,  9 ,  2 ,  0 ,  4 ,  2 ,Kled,Karma,Caitlyn,Azir,Camille
+2020.0,summer,EM,1,Racoon,Iron Wolves,1.0,38:14,OK,red,IW,   DEFEAT   ,62.6k,15,  3 ,  0 ,  0 ,  1 ,  0 ,Sett,Lux,Volibear,Orianna,Sylas
+2020.0,summer,EM,1,Intrepid Fox Gaming,7more7 Pompa,1.0,36:54,OK,blue,IF,   DEFEAT   ,61.5k,6,  6 ,  0 ,  0 ,  1 ,  2 ,Akali,Senna,Camille,Lucian,Leblanc
+2020.0,summer,EM,1,Intrepid Fox Gaming,7more7 Pompa,1.0,36:54,OK,red,PT7,   VICTORY   ,71.7k,17,  10 ,  2 ,  2 ,  5 ,  0 ,Khazix,Cassiopeia,Renekton,Shen,Malphite
+2020.0,summer,EM,1,G2 Arctic,CR4ZY,1.0,31:24,OK,blue,G2AR,   DEFEAT   ,49.4k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Sett,Chogath,Sona,Sejuani,Olaf
+2020.0,summer,EM,1,G2 Arctic,CR4ZY,1.0,31:24,OK,red,CR4,   VICTORY   ,58.1k,17,  7 ,  1 ,  0 ,  3 ,  2 ,Caitlyn,Lucian,Kalista,Lux,Thresh
+2020.0,summer,EM,1,Riddle Esports,Team GamerLegion,1.0,30:05,OK,blue,RDL,   VICTORY   ,55.7k,13,  7 ,  1 ,  1 ,  3 ,  2 ,Heimerdinger,Lux,Ziggs,Shyvana,Shen
+2020.0,summer,EM,1,Riddle Esports,Team GamerLegion,1.0,30:05,OK,red,GL,   DEFEAT   ,51.3k,10,  4 ,  0 ,  0 ,  2 ,  0 ,Nidalee,Orianna,TwistedFate,Renekton,Gangplank
+2020.0,summer,EM,1,SAMCLAN,Sector One,1.0,32:39,OK,blue,SAM,   DEFEAT   ,56.3k,10,  2 ,  0 ,  0 ,  3 ,  0 ,Nidalee,Volibear,Ashe,Camille,Karma
+2020.0,summer,EM,1,SAMCLAN,Sector One,1.0,32:39,OK,red,S1,   VICTORY   ,63.2k,15,  11 ,  3 ,  2 ,  2 ,  2 ,Sett,Caitlyn,Lux,TahmKench,Gangplank
+2020.0,summer,EM,1,Five Kings,SINNERS Esports,1.0,36:19,OK,blue,5K,   DEFEAT   ,59.6k,14,  3 ,  0 ,  0 ,  3 ,  1 ,Syndra,Corki,Lux,Kalista,Sion
+2020.0,summer,EM,1,Five Kings,SINNERS Esports,1.0,36:19,OK,red,SIN,   VICTORY   ,66.4k,12,  10 ,  2 ,  2 ,  3 ,  1 ,Shen,Senna,Caitlyn,Camille,Veigar
+2020.0,summer,EM,1,LDLC OL,CR4ZY,1.0,25:53,OK,blue,LDLC,   VICTORY   ,52.2k,16,  11 ,  3 ,  1 ,  4 ,  2 ,Ashe,Lux,Graves,Syndra,Akali
+2020.0,summer,EM,1,LDLC OL,CR4ZY,1.0,25:53,OK,red,CR4,   DEFEAT   ,37.8k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Leblanc,Caitlyn,Braum,Yuumi
+2020.0,summer,EM,1,eSuba,Team GamerLegion,1.0,27:28,OK,blue,ESB,   DEFEAT   ,43.2k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Heimerdinger,Karma,Ziggs,Sett,Nidalee
+2020.0,summer,EM,1,eSuba,Team GamerLegion,1.0,27:28,OK,red,GL,   VICTORY   ,53.7k,16,  8 ,  1 ,  1 ,  3 ,  1 ,Volibear,Lux,Graves,Gangplank,Olaf
+2020.0,summer,EM,1,Iron Wolves,Sector One,1.0,24:47,OK,blue,IW,   DEFEAT   ,36.8k,6,  2 ,  0 ,  0 ,  0 ,  1 ,LeeSin,Ezreal,Azir,Zoe,Shen
+2020.0,summer,EM,1,Iron Wolves,Sector One,1.0,24:47,OK,red,S1,   VICTORY   ,49.6k,21,  9 ,  1 ,  0 ,  4 ,  1 ,Kled,Caitlyn,Senna,Darius,Trundle
+2020.0,summer,EM,1,SINNERS Esports,7more7 Pompa,1.0,36:16,OK,blue,SIN,   DEFEAT   ,58.2k,13,  4 ,  0 ,  0 ,  3 ,  0 ,Sett,Camille,Ezreal,Shen,TahmKench
+2020.0,summer,EM,1,SINNERS Esports,7more7 Pompa,1.0,36:16,OK,red,PT7,   VICTORY   ,66.2k,25,  8 ,  1 ,  0 ,  2 ,  2 ,Elise,Kalista,Caitlyn,Blitzcrank,Thresh
+2020.0,summer,EM,1,G2 Arctic,LowLandLions,1.0,34:50,OK,blue,G2AR,   VICTORY   ,62.4k,21,  8 ,  1 ,  0 ,  4 ,  0 ,Sett,Karthus,Bard,Azir,Shyvana
+2020.0,summer,EM,1,G2 Arctic,LowLandLions,1.0,34:50,OK,red,LLL,   DEFEAT   ,55.9k,10,  2 ,  0 ,  1 ,  1 ,  1 ,Graves,Syndra,Morgana,Aatrox,Camille
+2020.0,summer,EM,1,Riddle Esports,Electronik,1.0,30:34,OK,blue,RDL,   VICTORY   ,59.0k,17,  11 ,  3 ,  1 ,  3 ,  1 ,MissFortune,Gangplank,Ashe,Thresh,Nautilus
+2020.0,summer,EM,1,Riddle Esports,Electronik,1.0,30:34,OK,red,EGN,   DEFEAT   ,49.1k,8,  2 ,  0 ,  0 ,  1 ,  1 ,Caitlyn,Kalista,Nidalee,TwistedFate,Galio
+2020.0,summer,EM,1,SAMCLAN,Racoon,1.0,32:10,OK,blue,SAM,   DEFEAT   ,54.0k,15,  3 ,  0 ,  0 ,  3 ,  2 ,Sett,Graves,Kalista,Azir,Renekton
+2020.0,summer,EM,1,SAMCLAN,Racoon,1.0,32:10,OK,red,RCN,   VICTORY   ,58.8k,22,  7 ,  1 ,  0 ,  2 ,  0 ,Caitlyn,Lux,Karma,Leona,Braum
+2020.0,summer,EM,1,Intrepid Fox Gaming,Five Kings,1.0,24:50,OK,blue,IF,   VICTORY   ,50.9k,27,  7 ,  1 ,  1 ,  2 ,  1 ,Sona,Shen,Graves,Velkoz,Camille
+2020.0,summer,EM,1,Intrepid Fox Gaming,Five Kings,1.0,24:50,OK,red,5K,   DEFEAT   ,37.4k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Irelia,Caitlyn,Khazix,Trundle,Shyvana
+2020.0,summer,EM,2,LowLandLions,CR4ZY,1.0,26:02,OK,blue,LLL,   DEFEAT   ,37.6k,4,  1 ,  0 ,  0 ,  2 ,  2 ,Senna,Bard,Ashe,Chogath,Akali
+2020.0,summer,EM,2,LowLandLions,CR4ZY,1.0,26:02,OK,red,CR4,   VICTORY   ,54.8k,24,  11 ,  3 ,  0 ,  2 ,  0 ,Karthus,Lucian,Caitlyn,Thresh,Nautilus
+2020.0,summer,EM,2,Electronik,Team GamerLegion,1.0,25:41,OK,blue,EGN,   DEFEAT   ,39.6k,8,  2 ,  0 ,  0 ,  0 ,  1 ,Heimerdinger,Ziggs,Lux,Elise,Karthus
+2020.0,summer,EM,2,Electronik,Team GamerLegion,1.0,25:41,OK,red,GL,   VICTORY   ,50.3k,16,  7 ,  1 ,  1 ,  4 ,  1 ,TwistedFate,Volibear,Ornn,Morgana,Nautilus
+2020.0,summer,EM,2,Sector One,Racoon,1.0,31:40,OK,blue,S1,   DEFEAT   ,50.1k,6,  3 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Nocturne,Orianna,LeeSin,Khazix
+2020.0,summer,EM,2,Sector One,Racoon,1.0,31:40,OK,red,RCN,   VICTORY   ,60.0k,20,  10 ,  2 ,  2 ,  3 ,  2 ,Ezreal,Karma,Caitlyn,Azir,Shen
+2020.0,summer,EM,2,Intrepid Fox Gaming,SINNERS Esports,1.0,31:31,OK,blue,IF,   VICTORY   ,61.5k,19,  9 ,  2 ,  2 ,  1 ,  0 ,Lux,Elise,Syndra,Akali,Orianna
+2020.0,summer,EM,2,Intrepid Fox Gaming,SINNERS Esports,1.0,31:31,OK,red,SIN,   DEFEAT   ,57.2k,23,  9 ,  1 ,  0 ,  4 ,  2 ,Cassiopeia,Irelia,Caitlyn,Shen,Azir
+2020.0,summer,EM,2,G2 Arctic,LDLC OL,1.0,40:25,OK,blue,G2AR,   DEFEAT   ,68.3k,19,  4 ,  0 ,  1 ,  3 ,  1 ,Zoe,Leblanc,Kalista,Galio,Ekko
+2020.0,summer,EM,2,G2 Arctic,LDLC OL,1.0,40:25,OK,red,LDLC,   VICTORY   ,79.1k,25,  11 ,  3 ,  2 ,  3 ,  1 ,Caitlyn,Yuumi,Ashe,Renekton,Sejuani
+2020.0,summer,EM,2,Riddle Esports,eSuba,1.0,28:07,OK,blue,RDL,   VICTORY   ,55.7k,19,  11 ,  3 ,  1 ,  4 ,  2 ,Azir,Ashe,Volibear,Orianna,Graves
+2020.0,summer,EM,2,Riddle Esports,eSuba,1.0,28:07,OK,red,ESB,   DEFEAT   ,42.6k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Karthus,Caitlyn,Kalista,Gnar,
+2020.0,summer,EM,2,SAMCLAN,Iron Wolves,1.0,40:11,OK,blue,SAM,   VICTORY   ,74.2k,27,  7 ,  2 ,  1 ,  4 ,  1 ,Graves,Leblanc,Ashe,TwistedFate,Camille
+2020.0,summer,EM,2,SAMCLAN,Iron Wolves,1.0,40:11,OK,red,IW,   DEFEAT   ,75.2k,28,  8 ,  1 ,  1 ,  2 ,  0 ,Lux,Zoe,Caitlyn,Nidalee,LeeSin
+2020.0,summer,EM,2,Five Kings,7more7 Pompa,1.0,29:26,OK,blue,5K,   DEFEAT   ,42.3k,8,  0 ,  0 ,  0 ,  2 ,  0 ,Sett,Camille,Lux,Akali,Corki
+2020.0,summer,EM,2,Five Kings,7more7 Pompa,1.0,29:26,OK,red,PT7,   VICTORY   ,54.7k,22,  9 ,  2 ,  0 ,  2 ,  2 ,Shen,Graves,Veigar,Renekton,Tryndamere
+2020.0,summer,EM,2,CR4ZY,LDLC OL,1.0,27:21,OK,blue,CR4,   DEFEAT   ,46.4k,17,  1 ,  0 ,  0 ,  1 ,  1 ,Zoe,Leblanc,Nidalee,Sona,Yuumi
+2020.0,summer,EM,2,CR4ZY,LDLC OL,1.0,27:21,OK,red,LDLC,   VICTORY   ,57.9k,23,  11 ,  2 ,  1 ,  3 ,  1 ,Caitlyn,Ashe,Bard,Khazix,Graves
+2020.0,summer,EM,2,Electronik,Riddle Esports,1.0,24:49,OK,blue,EGN,   DEFEAT   ,37.4k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Nidalee,TwistedFate,Sett,Lucian
+2020.0,summer,EM,2,Electronik,Riddle Esports,1.0,24:49,OK,red,RDL,   VICTORY   ,51.4k,19,  9 ,  2 ,  1 ,  4 ,  2 ,Volibear,Caitlyn,RekSai,LeeSin,
+2020.0,summer,EM,2,Sector One,SAMCLAN,1.0,33:41,OK,blue,S1,   VICTORY   ,66.3k,21,  10 ,  2 ,  1 ,  4 ,  2 ,Sett,Shen,Lux,Leblanc,Zoe
+2020.0,summer,EM,2,Sector One,SAMCLAN,1.0,33:41,OK,red,SAM,   DEFEAT   ,54.4k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Ezreal,LeeSin,Caitlyn,Galio,Azir
+2020.0,summer,EM,2,Five Kings,Intrepid Fox Gaming,1.0,28:25,OK,blue,5K,   VICTORY   ,49.9k,17,  6 ,  1 ,  1 ,  2 ,  1 ,Cassiopeia,Irelia,Khazix,Ekko,Malphite
+2020.0,summer,EM,2,Five Kings,Intrepid Fox Gaming,1.0,28:25,OK,red,IF,   DEFEAT   ,51.2k,15,  6 ,  1 ,  0 ,  2 ,  1 ,Graves,Caitlyn,Shen,Veigar,Azir
+2020.0,summer,EM,2,LowLandLions,G2 Arctic,1.0,31:07,OK,blue,LLL,   DEFEAT   ,50.4k,12,  1 ,  0 ,  0 ,  1 ,  0 ,Senna,Ezreal,Ashe,Renekton,Neeko
+2020.0,summer,EM,2,LowLandLions,G2 Arctic,1.0,31:07,OK,red,G2AR,   VICTORY   ,60.8k,27,  9 ,  2 ,  1 ,  4 ,  2 ,Karthus,Bard,Caitlyn,Azir,Orianna
+2020.0,summer,EM,2,Team GamerLegion,eSuba,1.0,30:50,OK,blue,GL,   VICTORY   ,61.0k,24,  8 ,  1 ,  1 ,  4 ,  1 ,Lux,TwistedFate,Azir,Orianna,Gangplank
+2020.0,summer,EM,2,Team GamerLegion,eSuba,1.0,30:50,OK,red,ESB,   DEFEAT   ,49.5k,11,  2 ,  0 ,  0 ,  1 ,  1 ,Heimerdinger,Ziggs,Caitlyn,Velkoz,MonkeyKing
+2020.0,summer,EM,2,Iron Wolves,Racoon,1.0,31:32,OK,blue,IW,   VICTORY   ,61.4k,26,  9 ,  1 ,  2 ,  3 ,  1 ,Sett,Volibear,Senna,Orianna,Camille
+2020.0,summer,EM,2,Iron Wolves,Racoon,1.0,31:32,OK,red,RCN,   DEFEAT   ,48.8k,12,  1 ,  0 ,  0 ,  2 ,  0 ,Caitlyn,Kled,Karma,Shen,Malphite
+2020.0,summer,EM,2,7more7 Pompa,SINNERS Esports,1.0,32:12,OK,blue,PT7,   VICTORY   ,59.5k,17,  7 ,  1 ,  2 ,  2 ,  2 ,Elise,Kalista,Lucian,Gangplank,Ornn
+2020.0,summer,EM,2,7more7 Pompa,SINNERS Esports,1.0,32:12,OK,red,SIN,   DEFEAT   ,50.7k,5,  4 ,  0 ,  0 ,  3 ,  0 ,Thresh,Caitlyn,Leblanc,Camille,Azir
+2020.0,summer,EM,2,CR4ZY,G2 Arctic,1.0,29:55,OK,blue,CR4,   DEFEAT   ,46.8k,7,  2 ,  0 ,  0 ,  1 ,  2 ,Kalista,Lucian,Caitlyn,Olaf,Graves
+2020.0,summer,EM,2,CR4ZY,G2 Arctic,1.0,29:55,OK,red,G2AR,   VICTORY   ,57.3k,20,  8 ,  1 ,  1 ,  4 ,  0 ,Chogath,Shen,Ashe,Lillia,Nidalee
+2020.0,summer,EM,2,eSuba,Electronik,1.0,26:55,OK,blue,ESB,   VICTORY   ,60.3k,37,  11 ,  3 ,  1 ,  4 ,  2 ,MissFortune,Thresh,Volibear,Gangplank,Shen
+2020.0,summer,EM,2,eSuba,Electronik,1.0,26:55,OK,red,EGN,   DEFEAT   ,39.9k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Irelia,Leblanc,Caitlyn,Azir,Zoe
+2020.0,summer,EM,2,Sector One,Iron Wolves,1.0,30:04,OK,blue,S1,   VICTORY   ,58.1k,27,  8 ,  2 ,  0 ,  4 ,  1 ,Kled,Darius,Zed,Pantheon,Akali
+2020.0,summer,EM,2,Sector One,Iron Wolves,1.0,30:04,OK,red,IW,   DEFEAT   ,47.4k,14,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,LeeSin,Ezreal,Orianna,TwistedFate
+2020.0,summer,EM,2,7more7 Pompa,Intrepid Fox Gaming,1.0,36:19,OK,blue,PT7,   DEFEAT   ,61.1k,12,  5 ,  1 ,  0 ,  2 ,  1 ,Cassiopeia,Khazix,Sylas,Corki,Azir
+2020.0,summer,EM,2,7more7 Pompa,Intrepid Fox Gaming,1.0,36:19,OK,red,IF,   VICTORY   ,73.0k,22,  9 ,  1 ,  3 ,  3 ,  1 ,Camille,Akali,Caitlyn,Renekton,Gnar
+2020.0,summer,EM,2,LDLC OL,LowLandLions,1.0,19:55,OK,blue,LDLC,   VICTORY   ,50.8k,39,  10 ,  2 ,  0 ,  1 ,  2 ,Ashe,Sett,Lucian,Morgana,Jax
+2020.0,summer,EM,2,LDLC OL,LowLandLions,1.0,19:55,OK,red,LLL,   DEFEAT   ,33.8k,15,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Leblanc,Caitlyn,Thresh,Nautilus
+2020.0,summer,EM,2,Team GamerLegion,Riddle Esports,1.0,34:54,OK,blue,GL,   VICTORY   ,68.7k,25,  10 ,  4 ,  2 ,  3 ,  2 ,Nidalee,TwistedFate,Gnar,Olaf,Azir
+2020.0,summer,EM,2,Team GamerLegion,Riddle Esports,1.0,34:54,OK,red,RDL,   DEFEAT   ,56.6k,12,  2 ,  0 ,  0 ,  3 ,  0 ,Heimerdinger,Volibear,Thresh,Velkoz,Sejuani
+2020.0,summer,EM,2,Racoon,SAMCLAN,1.0,34:35,OK,blue,RCN,   VICTORY   ,65.0k,28,  11 ,  5 ,  1 ,  4 ,  2 ,Caitlyn,Karma,Lux,Shen,Malphite
+2020.0,summer,EM,2,Racoon,SAMCLAN,1.0,34:35,OK,red,SAM,   DEFEAT   ,56.1k,8,  3 ,  0 ,  1 ,  1 ,  0 ,Orianna,LeeSin,Nautilus,Azir,Akali
+2020.0,summer,EM,2,SINNERS Esports,Five Kings,1.0,34:55,OK,blue,SIN,   VICTORY   ,70.9k,32,  11 ,  4 ,  3 ,  2 ,  2 ,Shen,Senna,Azir,TwistedFate,Taliyah
+2020.0,summer,EM,2,SINNERS Esports,Five Kings,1.0,34:55,OK,red,5K,   DEFEAT   ,58.7k,21,  1 ,  0 ,  0 ,  4 ,  0 ,Caitlyn,Syndra,Corki,Lucian,Zoe
+2020.0,summer,EM,Tiebreakers,CR4ZY,G2 Arctic,1.0,31:14,OK,blue,G2AR,   VICTORY   ,57.7k,15,  10 ,  1 ,  2 ,  2 ,  2 ,Chogath,Sett,Renekton,Mordekaiser,Shen
+2020.0,summer,EM,Tiebreakers,CR4ZY,G2 Arctic,1.0,31:14,OK,red,CR4,   DEFEAT   ,46.0k,8,  0 ,  0 ,  0 ,  2 ,  0 ,Lucian,Sejuani,Caitlyn,Morgana,Zoe
+2020.0,summer,EM,Tiebreakers,Riddle Esports,Team GamerLegion,1.0,47:59,OK,blue,GL,   VICTORY   ,87.2k,18,  10 ,  2 ,  2 ,  4 ,  2 ,Nidalee,TwistedFate,Gnar,Olaf,Azir
+2020.0,summer,EM,Tiebreakers,Riddle Esports,Team GamerLegion,1.0,47:59,OK,red,RDL,   DEFEAT   ,82.8k,16,  7 ,  1 ,  1 ,  3 ,  0 ,Heimerdinger,Ziggs,Morgana,Renekton,Tristana
+2020.0,summer,EM,Tiebreakers,7more7 Pompa,Intrepid Fox Gaming,1.0,30:08,OK,blue,IF,   VICTORY   ,56.2k,10,  10 ,  3 ,  2 ,  4 ,  1 ,Akali,Camille,Senna,Zoe,Leblanc
+2020.0,summer,EM,Tiebreakers,7more7 Pompa,Intrepid Fox Gaming,1.0,30:08,OK,red,PT7,   DEFEAT   ,45.7k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Khazix,Evelynn,Corki,Sylas
+2020.0,summer,EM,Stage,LDLC OL,Riddle Esports,1.0,24:06,OK,blue,LDLC,   VICTORY   ,50.9k,22,  11 ,  3 ,  1 ,  2 ,  2 ,Sett,Karthus,Ezreal,Ziggs,Camille
+2020.0,summer,EM,Stage,LDLC OL,Riddle Esports,1.0,24:06,OK,red,RDL,   DEFEAT   ,39.6k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Zoe,Kalista,Akali,Renekton
+2020.0,summer,EM,Stage,LDLC OL,Riddle Esports,2.0,24:50,OK,blue,RDL,   DEFEAT   ,37.3k,2,  2 ,  0 ,  0 ,  1 ,  1 ,Leblanc,Zoe,Kalista,Ashe,Lucian
+2020.0,summer,EM,Stage,LDLC OL,Riddle Esports,2.0,24:50,OK,red,LDLC,   VICTORY   ,48.3k,19,  7 ,  1 ,  1 ,  3 ,  1 ,Caitlyn,Karthus,Ezreal,Ziggs,Yuumi
+2020.0,summer,EM,Stage,Team GamerLegion,G2 Arctic,1.0,38:46,OK,blue,G2AR,   DEFEAT   ,63.3k,16,  3 ,  0 ,  1 ,  2 ,  1 ,Ziggs,Volibear,Heimerdinger,Nocturne,Galio
+2020.0,summer,EM,Stage,Team GamerLegion,G2 Arctic,1.0,38:46,OK,red,GL,   VICTORY   ,71.9k,25,  9 ,  2 ,  0 ,  4 ,  1 ,Kalista,Lucian,Malphite,Syndra,Orianna
+2020.0,summer,EM,Stage,Team GamerLegion,G2 Arctic,2.0,31:38,OK,blue,GL,   DEFEAT   ,50.0k,6,  2 ,  0 ,  0 ,  2 ,  2 ,Kalista,Lucian,Malphite,Cassiopeia,Syndra
+2020.0,summer,EM,Stage,Team GamerLegion,G2 Arctic,2.0,31:38,OK,red,G2AR,   VICTORY   ,59.4k,16,  9 ,  2 ,  1 ,  3 ,  0 ,Ziggs,Volibear,Heimerdinger,Zoe,Galio
+2020.0,summer,EM,Stage,Team GamerLegion,G2 Arctic,3.0,27:04,OK,blue,G2AR,   DEFEAT   ,38.6k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Ziggs,Heimerdinger,Ashe,Galio,Kalista
+2020.0,summer,EM,Stage,Team GamerLegion,G2 Arctic,3.0,27:04,OK,red,GL,   VICTORY   ,53.0k,12,  10 ,  2 ,  1 ,  4 ,  2 ,Caitlyn,Thresh,Gangplank,Camille,Jax
+2020.0,summer,EM,Stage,Racoon,7more7 Pompa,1.0,25:32,OK,blue,RCN,   DEFEAT   ,34.5k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Karma,Caitlyn,Camille,Orianna
+2020.0,summer,EM,Stage,Racoon,7more7 Pompa,1.0,25:32,OK,red,PT7,   VICTORY   ,52.4k,20,  10 ,  2 ,  1 ,  4 ,  2 ,Taliyah,Khazix,LeeSin,Olaf,MonkeyKing
+2020.0,summer,EM,Stage,Racoon,7more7 Pompa,2.0,23:34,OK,blue,RCN,   DEFEAT   ,39.2k,7,  5 ,  0 ,  0 ,  2 ,  1 ,Akali,Karma,Caitlyn,Jax,Shen
+2020.0,summer,EM,Stage,Racoon,7more7 Pompa,2.0,23:34,OK,red,PT7,   VICTORY   ,45.1k,15,  9 ,  1 ,  1 ,  1 ,  1 ,Taliyah,Khazix,Lux,Ezreal,Ziggs
+2020.0,summer,EM,Stage,Intrepid Fox Gaming,Sector One,1.0,33:28,OK,blue,IF,   VICTORY   ,63.4k,20,  8 ,  1 ,  1 ,  4 ,  1 ,LeeSin,Ezreal,Nidalee,Rakan,Karma
+2020.0,summer,EM,Stage,Intrepid Fox Gaming,Sector One,1.0,33:28,OK,red,S1,   DEFEAT   ,54.6k,11,  3 ,  0 ,  1 ,  1 ,  1 ,Cassiopeia,Irelia,Graves,Malphite,Shen
+2020.0,summer,EM,Stage,Intrepid Fox Gaming,Sector One,2.0,27:37,OK,blue,S1,   VICTORY   ,53.6k,21,  8 ,  1 ,  1 ,  4 ,  0 ,Cassiopeia,Irelia,Khazix,Camille,Azir
+2020.0,summer,EM,Stage,Intrepid Fox Gaming,Sector One,2.0,27:37,OK,red,IF,   DEFEAT   ,46.5k,9,  3 ,  0 ,  0 ,  0 ,  2 ,LeeSin,Nidalee,Caitlyn,Morgana,Shen
+2020.0,summer,EM,Stage,Intrepid Fox Gaming,Sector One,3.0,31:11,OK,blue,IF,   VICTORY   ,61.0k,26,  9 ,  2 ,  1 ,  4 ,  2 ,LeeSin,Nidalee,Caitlyn,Azir,Shen
+2020.0,summer,EM,Stage,Intrepid Fox Gaming,Sector One,3.0,31:11,OK,red,S1,   DEFEAT   ,48.0k,9,  1 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Irelia,Khazix,Camille,Trundle

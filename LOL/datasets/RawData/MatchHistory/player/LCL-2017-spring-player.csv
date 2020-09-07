@@ -1,0 +1,58 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,spring,LCL,1,Gambit,Natus Vincere.CIS,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,1,Vega Squadron,RoX,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,1,M19,Team Just Alpha,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,1,Vaevictis eSports,Virtus.pro,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,1,Virtus.pro,Vega Squadron,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,1,Gambit,M19,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,1,Natus Vincere.CIS,Vaevictis eSports,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,1,RoX,Team Just Alpha,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,2,Vaevictis eSports,M19,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,2,Virtus.pro,RoX,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,2,Team Just Alpha,Natus Vincere.CIS,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,2,Vega Squadron,Gambit,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,2,Gambit,Vaevictis eSports,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,2,RoX,M19,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,2,Vega Squadron,Natus Vincere.CIS,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,2,Team Just Alpha,Virtus.pro,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,3,Virtus.pro,Natus Vincere.CIS,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,3,RoX,Gambit,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,3,Vega Squadron,M19,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,3,Vaevictis eSports,Team Just Alpha,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,3,Team Just Alpha,Gambit,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,3,M19,Virtus.pro,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,3,Natus Vincere.CIS,RoX,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,3,Vaevictis eSports,Vega Squadron,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,4,RoX,Vaevictis eSports,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,4,Team Just Alpha,Vega Squadron,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,4,Gambit,Virtus.pro,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,4,M19,Natus Vincere.CIS,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,4,Natus Vincere.CIS,Virtus.pro,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,4,Team Just Alpha,M19,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,4,Vaevictis eSports,Gambit,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,4,RoX,Vega Squadron,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,5,Virtus.pro,Team Just Alpha,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,5,Gambit,Vega Squadron,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,5,Vaevictis eSports,RoX,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,5,Natus Vincere.CIS,M19,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,5,RoX,Natus Vincere.CIS,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,5,M19,Vega Squadron,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,5,Virtus.pro,Vaevictis eSports,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,5,Gambit,Team Just Alpha,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,6,Vega Squadron,Vaevictis eSports,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,6,Virtus.pro,Gambit,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,6,M19,RoX,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,6,Natus Vincere.CIS,Team Just Alpha,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,6,Gambit,RoX,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,6,Virtus.pro,M19,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,6,Team Just Alpha,Vaevictis eSports,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,6,Natus Vincere.CIS,Vega Squadron,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,7,RoX,Virtus.pro,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,7,M19,Gambit,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,7,Vega Squadron,Team Just Alpha,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,7,Vaevictis eSports,Natus Vincere.CIS,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,7,Team Just Alpha,RoX,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,7,Vega Squadron,Virtus.pro,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,7,M19,Vaevictis eSports,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,7,Natus Vincere.CIS,Gambit,1.0,this row doesn't have MH_url
+2017.0,spring,LCL,Tiebreakers,M19,Vega Squadron,1.0,this row doesn't have MH_url

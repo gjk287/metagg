@@ -1,0 +1,106 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,LCL,1,RoX,UOL.CIS,1.0,26:25,OK,blue,ROX,   DEFEAT   ,40.4k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Sett,MonkeyKing,Ezreal,Orianna,Pantheon
+2020.0,summer,LCL,1,RoX,UOL.CIS,1.0,26:25,OK,red,UOL,   VICTORY   ,55.2k,22,  10 ,  2 ,  1 ,  4 ,  2 ,Varus,Yorick,Aphelios,Zoe,Cassiopeia
+2020.0,summer,LCL,1,Vega Squadron,One Breath Gaming,1.0,29:59,OK,blue,VEG,   DEFEAT   ,45.3k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Kalista,Yuumi,Sett,Ashe,Soraka
+2020.0,summer,LCL,1,Vega Squadron,One Breath Gaming,1.0,29:59,OK,red,OBG,   VICTORY   ,56.8k,10,  10 ,  1 ,  1 ,  4 ,  1 ,Syndra,Varus,Ezreal,Azir,Lulu
+2020.0,summer,LCL,1,Gambit,CrowCrowd,1.0,36:07,OK,blue,GMB,   VICTORY   ,66.9k,11,  9 ,  2 ,  3 ,  2 ,  2 ,Syndra,Ezreal,Thresh,Orianna,Zoe
+2020.0,summer,LCL,1,Gambit,CrowCrowd,1.0,36:07,OK,red,CC,   DEFEAT   ,54.6k,4,  1 ,  0 ,  0 ,  3 ,  0 ,Varus,Karma,Aphelios,TwistedFate,Galio
+2020.0,summer,LCL,1,Elements Pro Gaming,Dragon Army,1.0,35:16,OK,blue,EPG,   DEFEAT   ,57.2k,14,  5 ,  1 ,  0 ,  1 ,  1 ,Karthus,Rumble,Pantheon,Kindred,Jayce
+2020.0,summer,LCL,1,Elements Pro Gaming,Dragon Army,1.0,35:16,OK,red,DA,   VICTORY   ,66.0k,22,  8 ,  1 ,  2 ,  4 ,  1 ,Graves,Syndra,Sett,Bard,Karma
+2020.0,summer,LCL,1,CrowCrowd,UOL.CIS,1.0,27:00,OK,blue,CC,   DEFEAT   ,41.6k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Thresh,Kalista,Nidalee,TwistedFate,Orianna
+2020.0,summer,LCL,1,CrowCrowd,UOL.CIS,1.0,27:00,OK,red,UOL,   VICTORY   ,55.8k,25,  10 ,  1 ,  1 ,  4 ,  1 ,Syndra,Ornn,Graves,Volibear,Renekton
+2020.0,summer,LCL,1,Vega Squadron,Elements Pro Gaming,1.0,38:17,OK,blue,VEG,   DEFEAT   ,64.1k,13,  3 ,  0 ,  1 ,  1 ,  2 ,Karma,Ornn,Graves,Mordekaiser,Orianna
+2020.0,summer,LCL,1,Vega Squadron,Elements Pro Gaming,1.0,38:17,OK,red,EPG,   VICTORY   ,68.6k,14,  9 ,  1 ,  0 ,  4 ,  0 ,Trundle,Syndra,Varus,Ryze,Azir
+2020.0,summer,LCL,1,One Breath Gaming,Dragon Army,1.0,32:59,OK,blue,OBG,   VICTORY   ,61.0k,11,  11 ,  3 ,  1 ,  4 ,  2 ,Trundle,Karthus,Sett,Olaf,JarvanIV
+2020.0,summer,LCL,1,One Breath Gaming,Dragon Army,1.0,32:59,OK,red,DA,   DEFEAT   ,48.6k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Kalista,Graves,Syndra,Leblanc,MonkeyKing
+2020.0,summer,LCL,1,Gambit,RoX,1.0,28:54,OK,blue,GMB,   VICTORY   ,56.2k,12,  10 ,  1 ,  1 ,  4 ,  2 ,Yorick,Syndra,Thresh,Mordekaiser,Zoe
+2020.0,summer,LCL,1,Gambit,RoX,1.0,28:54,OK,red,ROX,   DEFEAT   ,44.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Sett,Varus,Yuumi,Nidalee,Akali
+2020.0,summer,LCL,2,Gambit,Elements Pro Gaming,1.0,27:25,OK,blue,GMB,   VICTORY   ,55.5k,15,  11 ,  3 ,  1 ,  4 ,  2 ,Syndra,RekSai,Ezreal,Orianna,Graves
+2020.0,summer,LCL,2,Gambit,Elements Pro Gaming,1.0,27:25,OK,red,EPG,   DEFEAT   ,41.0k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Varus,Aphelios,Trundle,
+2020.0,summer,LCL,2,CrowCrowd,Vega Squadron,1.0,24:30,OK,blue,CC,   VICTORY   ,49.9k,16,  9 ,  2 ,  1 ,  4 ,  2 ,MonkeyKing,Karma,Ezreal,Azir,Corki
+2020.0,summer,LCL,2,CrowCrowd,Vega Squadron,1.0,24:30,OK,red,VEG,   DEFEAT   ,37.1k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Syndra,Aphelios,Varus,Thresh,Sett
+2020.0,summer,LCL,2,Dragon Army,UOL.CIS,1.0,22:30,OK,blue,DA,   DEFEAT   ,35.7k,8,  1 ,  0 ,  0 ,  2 ,  0 ,Kalista,Thresh,Nidalee,Azir,Zoe
+2020.0,summer,LCL,2,Dragon Army,UOL.CIS,1.0,22:30,OK,red,UOL,   VICTORY   ,45.4k,16,  8 ,  1 ,  1 ,  1 ,  2 ,Syndra,Ezreal,Aphelios,Ornn,Malphite
+2020.0,summer,LCL,2,One Breath Gaming,RoX,1.0,35:43,OK,blue,OBG,   VICTORY   ,67.4k,20,  8 ,  1 ,  0 ,  3 ,  1 ,MonkeyKing,Karma,Aphelios,Volibear,Yorick
+2020.0,summer,LCL,2,One Breath Gaming,RoX,1.0,35:43,OK,red,ROX,   DEFEAT   ,58.4k,11,  2 ,  0 ,  0 ,  3 ,  1 ,Cassiopeia,Graves,Syndra,Kassadin,Leblanc
+2020.0,summer,LCL,2,CrowCrowd,Elements Pro Gaming,1.0,36:03,OK,blue,CC,   VICTORY   ,63.7k,22,  8 ,  1 ,  1 ,  3 ,  2 ,RekSai,Karma,Yuumi,Ezreal,MissFortune
+2020.0,summer,LCL,2,CrowCrowd,Elements Pro Gaming,1.0,36:03,OK,red,EPG,   DEFEAT   ,56.0k,9,  3 ,  0 ,  0 ,  3 ,  0 ,Aphelios,Syndra,Varus,Viktor,Yasuo
+2020.0,summer,LCL,2,Gambit,Vega Squadron,1.0,32:36,OK,blue,GMB,   VICTORY   ,65.6k,15,  11 ,  3 ,  2 ,  2 ,  1 ,Ezreal,Sivir,MissFortune,,
+2020.0,summer,LCL,2,Gambit,Vega Squadron,1.0,32:36,OK,red,VEG,   DEFEAT   ,52.2k,10,  2 ,  0 ,  0 ,  3 ,  1 ,Volibear,Yuumi,Aphelios,Nidalee,Olaf
+2020.0,summer,LCL,2,UOL.CIS,One Breath Gaming,1.0,30:59,OK,blue,UOL,   VICTORY   ,65.9k,26,  10 ,  2 ,  2 ,  3 ,  1 ,Graves,Ornn,Karma,Cassiopeia,Leblanc
+2020.0,summer,LCL,2,UOL.CIS,One Breath Gaming,1.0,30:59,OK,red,OBG,   DEFEAT   ,51.5k,14,  1 ,  0 ,  0 ,  2 ,  1 ,MonkeyKing,Syndra,Kalista,Orianna,Zoe
+2020.0,summer,LCL,2,Dragon Army,RoX,1.0,28:54,OK,blue,DA,   VICTORY   ,55.4k,14,  11 ,  3 ,  1 ,  4 ,  0 ,Yorick,Kalista,Karma,Zoe,Nidalee
+2020.0,summer,LCL,2,Dragon Army,RoX,1.0,28:54,OK,red,ROX,   DEFEAT   ,44.8k,7,  1 ,  0 ,  0 ,  0 ,  2 ,Syndra,Jayce,Karthus,Mordekaiser,Ornn
+2020.0,summer,LCL,3,CrowCrowd,Dragon Army,1.0,33:35,OK,blue,CC,   VICTORY   ,64.8k,16,  8 ,  1 ,  1 ,  3 ,  1 ,Karma,Aphelios,Ezreal,Rumble,Orianna
+2020.0,summer,LCL,3,CrowCrowd,Dragon Army,1.0,33:35,OK,red,DA,   DEFEAT   ,54.3k,7,  4 ,  0 ,  0 ,  2 ,  1 ,Kalista,Nidalee,Syndra,Zoe,Yasuo
+2020.0,summer,LCL,3,Elements Pro Gaming,One Breath Gaming,1.0,30:35,OK,blue,EPG,   DEFEAT   ,46.7k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Kalista,Graves,Cassiopeia,Leblanc
+2020.0,summer,LCL,3,Elements Pro Gaming,One Breath Gaming,1.0,30:35,OK,red,OBG,   VICTORY   ,58.2k,17,  11 ,  3 ,  1 ,  5 ,  2 ,Varus,Ezreal,Syndra,Azir,Orianna
+2020.0,summer,LCL,3,UOL.CIS,Gambit,1.0,28:05,OK,blue,UOL,   VICTORY   ,55.8k,19,  10 ,  2 ,  1 ,  4 ,  2 ,Pantheon,Akali,Senna,Ezreal,Aphelios
+2020.0,summer,LCL,3,UOL.CIS,Gambit,1.0,28:05,OK,red,GMB,   DEFEAT   ,44.6k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Varus,Trundle,Kalista,Orianna,Kassadin
+2020.0,summer,LCL,3,RoX,Vega Squadron,1.0,30:43,OK,blue,ROX,   VICTORY   ,60.3k,23,  9 ,  1 ,  1 ,  3 ,  1 ,Lucian,Ashe,Varus,Orianna,Kassadin
+2020.0,summer,LCL,3,RoX,Vega Squadron,1.0,30:43,OK,red,VEG,   DEFEAT   ,51.1k,8,  2 ,  0 ,  0 ,  1 ,  1 ,Kalista,Zoe,Graves,Nidalee,Kindred
+2020.0,summer,LCL,3,One Breath Gaming,Gambit,1.0,30:31,OK,blue,OBG,   DEFEAT   ,47.9k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Pantheon,MonkeyKing,Senna,Olaf,Trundle
+2020.0,summer,LCL,3,One Breath Gaming,Gambit,1.0,30:31,OK,red,GMB,   VICTORY   ,56.8k,12,  11 ,  3 ,  1 ,  4 ,  2 ,Graves,Varus,RekSai,Cassiopeia,Leblanc
+2020.0,summer,LCL,3,RoX,CrowCrowd,1.0,29:53,OK,blue,ROX,   DEFEAT   ,47.5k,12,  2 ,  0 ,  0 ,  0 ,  0 ,Volibear,Mordekaiser,Graves,Kayle,Nidalee
+2020.0,summer,LCL,3,RoX,CrowCrowd,1.0,29:53,OK,red,CC,   VICTORY   ,58.6k,26,  9 ,  2 ,  1 ,  4 ,  2 ,Aphelios,Ezreal,MonkeyKing,Kindred,LeeSin
+2020.0,summer,LCL,3,UOL.CIS,Elements Pro Gaming,1.0,17:39,OK,blue,UOL,   VICTORY   ,38.5k,19,  9 ,  1 ,  0 ,  2 ,  2 ,Ornn,Jayce,Karma,Alistar,
+2020.0,summer,LCL,3,UOL.CIS,Elements Pro Gaming,1.0,17:39,OK,red,EPG,   DEFEAT   ,24.0k,4,  0 ,  0 ,  0 ,  0 ,  0 ,MonkeyKing,Varus,Thresh,TwistedFate,Orianna
+2020.0,summer,LCL,3,Vega Squadron,Dragon Army,1.0,33:00,OK,blue,VEG,   DEFEAT   ,51.2k,3,  3 ,  0 ,  0 ,  2 ,  1 ,Karthus,Yuumi,Varus,Trundle,Graves
+2020.0,summer,LCL,3,Vega Squadron,Dragon Army,1.0,33:00,OK,red,DA,   VICTORY   ,60.9k,11,  9 ,  1 ,  1 ,  4 ,  1 ,Syndra,MonkeyKing,Azir,Ryze,Sett
+2020.0,summer,LCL,4,Dragon Army,Gambit,1.0,28:10,OK,blue,DA,   DEFEAT   ,43.6k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,MonkeyKing,Olaf,TahmKench,Nidalee
+2020.0,summer,LCL,4,Dragon Army,Gambit,1.0,28:10,OK,red,GMB,   VICTORY   ,60.6k,24,  11 ,  2 ,  1 ,  4 ,  2 ,Volibear,Varus,Graves,Karthus,Fiddlesticks
+2020.0,summer,LCL,4,One Breath Gaming,CrowCrowd,1.0,29:16,OK,blue,OBG,   DEFEAT   ,43.1k,1,  2 ,  0 ,  0 ,  0 ,  2 ,MonkeyKing,Syndra,Senna,Karma,Blitzcrank
+2020.0,summer,LCL,4,One Breath Gaming,CrowCrowd,1.0,29:16,OK,red,CC,   VICTORY   ,56.0k,12,  11 ,  3 ,  1 ,  4 ,  0 ,Graves,LeeSin,RekSai,TwistedFate,Kassadin
+2020.0,summer,LCL,4,Elements Pro Gaming,RoX,1.0,32:59,OK,blue,EPG,   DEFEAT   ,54.7k,7,  4 ,  0 ,  0 ,  1 ,  2 ,Zoe,MonkeyKing,Ezreal,Yorick,Irelia
+2020.0,summer,LCL,4,Elements Pro Gaming,RoX,1.0,32:59,OK,red,ROX,   VICTORY   ,63.1k,14,  10 ,  2 ,  2 ,  4 ,  0 ,Varus,Orianna,Azir,Ornn,Akali
+2020.0,summer,LCL,4,UOL.CIS,Vega Squadron,1.0,26:11,OK,blue,UOL,   VICTORY   ,51.1k,17,  8 ,  1 ,  1 ,  2 ,  2 ,Karma,Trundle,MonkeyKing,Mordekaiser,Malphite
+2020.0,summer,LCL,4,UOL.CIS,Vega Squadron,1.0,26:11,OK,red,VEG,   DEFEAT   ,38.5k,3,  0 ,  0 ,  0 ,  2 ,  0 ,Karthus,Renekton,Volibear,Ornn,
+2020.0,summer,LCL,4,CrowCrowd,Gambit,1.0,35:09,OK,blue,CC,   DEFEAT   ,58.9k,14,  3 ,  0 ,  0 ,  3 ,  2 ,TwistedFate,Karma,MonkeyKing,Urgot,Mordekaiser
+2020.0,summer,LCL,4,CrowCrowd,Gambit,1.0,35:09,OK,red,GMB,   VICTORY   ,66.7k,16,  9 ,  1 ,  2 ,  2 ,  0 ,Varus,Syndra,Thresh,Graves,Nidalee
+2020.0,summer,LCL,4,Dragon Army,Elements Pro Gaming,1.0,31:24,OK,blue,DA,   VICTORY   ,59.8k,21,  10 ,  2 ,  1 ,  3 ,  2 ,Ryze,Syndra,Jayce,Sett,Nidalee
+2020.0,summer,LCL,4,Dragon Army,Elements Pro Gaming,1.0,31:24,OK,red,EPG,   DEFEAT   ,48.3k,10,  0 ,  0 ,  0 ,  2 ,  0 ,Karthus,Varus,Volibear,Lucian,Rumble
+2020.0,summer,LCL,4,UOL.CIS,RoX,1.0,27:57,OK,blue,UOL,   VICTORY   ,53.1k,21,  10 ,  2 ,  1 ,  3 ,  2 ,Ashe,Ezreal,Nidalee,Blitzcrank,Cassiopeia
+2020.0,summer,LCL,4,UOL.CIS,RoX,1.0,27:57,OK,red,ROX,   DEFEAT   ,42.7k,5,  3 ,  0 ,  0 ,  1 ,  0 ,Camille,Varus,Kalista,Mordekaiser,Malphite
+2020.0,summer,LCL,4,One Breath Gaming,Vega Squadron,1.0,25:38,OK,blue,OBG,   VICTORY   ,50.2k,18,  10 ,  2 ,  1 ,  3 ,  2 ,Karma,Trundle,MonkeyKing,Nautilus,Morgana
+2020.0,summer,LCL,4,One Breath Gaming,Vega Squadron,1.0,25:38,OK,red,VEG,   DEFEAT   ,35.7k,0,  1 ,  0 ,  0 ,  1 ,  0 ,Graves,Varus,Kalista,Nidalee,Thresh
+2020.0,summer,LCL,5,UOL.CIS,CrowCrowd,1.0,31:34,OK,blue,UOL,   VICTORY   ,60.0k,16,  11 ,  3 ,  1 ,  1 ,  1 ,Karma,Orianna,Ornn,Zoe,Galio
+2020.0,summer,LCL,5,UOL.CIS,CrowCrowd,1.0,31:34,OK,red,CC,   DEFEAT   ,55.0k,16,  4 ,  0 ,  0 ,  3 ,  1 ,TwistedFate,Karthus,MonkeyKing,Lucian,Senna
+2020.0,summer,LCL,5,Dragon Army,One Breath Gaming,1.0,52:33,OK,blue,DA,   DEFEAT   ,84.6k,12,  8 ,  4 ,  1 ,  4 ,  1 ,Nidalee,MonkeyKing,Graves,Thresh,Alistar
+2020.0,summer,LCL,5,Dragon Army,One Breath Gaming,1.0,52:33,OK,red,OBG,   VICTORY   ,89.8k,22,  10 ,  3 ,  2 ,  4 ,  1 ,Karthus,Karma,Olaf,Trundle,Shyvana
+2020.0,summer,LCL,5,Elements Pro Gaming,Vega Squadron,1.0,26:37,OK,blue,EPG,   DEFEAT   ,38.3k,3,  1 ,  0 ,  0 ,  2 ,  1 ,Volibear,Trundle,Karma,Khazix,Nocturne
+2020.0,summer,LCL,5,Elements Pro Gaming,Vega Squadron,1.0,26:37,OK,red,VEG,   VICTORY   ,49.3k,15,  11 ,  3 ,  1 ,  2 ,  1 ,Karthus,Ezreal,Thresh,Bard,Leona
+2020.0,summer,LCL,5,RoX,Gambit,1.0,20:00,OK,blue,ROX,   DEFEAT   ,28.4k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,MonkeyKing,TwistedFate,Camille,Galio
+2020.0,summer,LCL,5,RoX,Gambit,1.0,20:00,OK,red,GMB,   VICTORY   ,42.1k,17,  8 ,  1 ,  0 ,  3 ,  2 ,Karma,Bard,Volibear,Zoe,
+2020.0,summer,LCL,5,Vega Squadron,CrowCrowd,1.0,35:38,OK,blue,VEG,   DEFEAT   ,59.4k,16,  3 ,  1 ,  1 ,  1 ,  0 ,Karthus,Nidalee,Orianna,Urgot,Khazix
+2020.0,summer,LCL,5,Vega Squadron,CrowCrowd,1.0,35:38,OK,red,CC,   VICTORY   ,67.3k,21,  10 ,  3 ,  1 ,  4 ,  2 ,Karma,Aphelios,Sett,RekSai,Nocturne
+2020.0,summer,LCL,5,Elements Pro Gaming,Gambit,1.0,33:57,OK,blue,EPG,   DEFEAT   ,55.1k,14,  2 ,  0 ,  0 ,  1 ,  0 ,TwistedFate,MonkeyKing,Volibear,Irelia,Pantheon
+2020.0,summer,LCL,5,Elements Pro Gaming,Gambit,1.0,33:57,OK,red,GMB,   VICTORY   ,65.7k,15,  11 ,  3 ,  1 ,  4 ,  2 ,Karma,Bard,Syndra,Jayce,Ornn
+2020.0,summer,LCL,5,RoX,One Breath Gaming,1.0,28:03,OK,blue,ROX,   DEFEAT   ,42.6k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Karthus,Graves,Volibear,LeeSin,RekSai
+2020.0,summer,LCL,5,RoX,One Breath Gaming,1.0,28:03,OK,red,OBG,   VICTORY   ,52.9k,16,  9 ,  2 ,  1 ,  4 ,  2 ,Nidalee,Karma,Yorick,Ornn,Zoe
+2020.0,summer,LCL,5,UOL.CIS,Dragon Army,1.0,28:42,OK,blue,UOL,   VICTORY   ,61.3k,24,  10 ,  1 ,  1 ,  3 ,  2 ,Karma,Ezreal,Ornn,Braum,TahmKench
+2020.0,summer,LCL,5,UOL.CIS,Dragon Army,1.0,28:42,OK,red,DA,   DEFEAT   ,49.0k,14,  0 ,  0 ,  0 ,  1 ,  0 ,Thresh,MonkeyKing,Karthus,Blitzcrank,Leona
+2020.0,summer,LCL,6,One Breath Gaming,UOL.CIS,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,6,Elements Pro Gaming,CrowCrowd,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,6,Vega Squadron,Gambit,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,6,RoX,Dragon Army,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,6,Vega Squadron,RoX,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,6,One Breath Gaming,Elements Pro Gaming,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,6,Dragon Army,CrowCrowd,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,6,Gambit,UOL.CIS,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,7,CrowCrowd,RoX,1.0,34:05,OK,blue,CC,   VICTORY   ,62.9k,19,  8 ,  2 ,  1 ,  4 ,  1 ,Karma,Sona,Ashe,Mordekaiser,Kennen
+2020.0,summer,LCL,7,CrowCrowd,RoX,1.0,34:05,OK,red,ROX,   DEFEAT   ,55.7k,6,  5 ,  2 ,  0 ,  2 ,  1 ,Orianna,Caitlyn,Volibear,MonkeyKing,Camille
+2020.0,summer,LCL,7,Gambit,One Breath Gaming,1.0,26:44,OK,blue,GMB,   VICTORY   ,54.7k,16,  10 ,  2 ,  1 ,  3 ,  2 ,Graves,Lux,Syndra,Cassiopeia,Orianna
+2020.0,summer,LCL,7,Gambit,One Breath Gaming,1.0,26:44,OK,red,OBG,   DEFEAT   ,40.3k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Akali,Pantheon,Camille,MonkeyKing,
+2020.0,summer,LCL,7,Dragon Army,Vega Squadron,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2020.0,summer,LCL,7,Elements Pro Gaming,UOL.CIS,1.0,25:56,OK,blue,EPG,   DEFEAT   ,37.9k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Thresh,Volibear,Irelia,Camille,MonkeyKing
+2020.0,summer,LCL,7,Elements Pro Gaming,UOL.CIS,1.0,25:56,OK,red,UOL,   VICTORY   ,48.8k,15,  11 ,  4 ,  1 ,  3 ,  2 ,Ornn,Sett,Jayce,Kennen,Gangplank
+2020.0,summer,LCL,7,CrowCrowd,One Breath Gaming,1.0,32:52,OK,blue,CC,   DEFEAT   ,50.7k,11,  4 ,  0 ,  0 ,  1 ,  1 ,Sona,Cassiopeia,Ashe,Kassadin,Gangplank
+2020.0,summer,LCL,7,CrowCrowd,One Breath Gaming,1.0,32:52,OK,red,OBG,   VICTORY   ,56.3k,15,  7 ,  1 ,  1 ,  4 ,  1 ,Orianna,Volibear,Caitlyn,TahmKench,Urgot
+2020.0,summer,LCL,7,Vega Squadron,UOL.CIS,1.0,28:31,OK,blue,VEG,   DEFEAT   ,44.7k,8,  1 ,  0 ,  0 ,  0 ,  0 ,Lux,Karma,Camille,Zoe,
+2020.0,summer,LCL,7,Vega Squadron,UOL.CIS,1.0,28:31,OK,red,UOL,   VICTORY   ,55.2k,17,  8 ,  1 ,  1 ,  4 ,  2 ,Orianna,Graves,Sett,TahmKench,Ornn
+2020.0,summer,LCL,7,Gambit,Dragon Army,1.0,21:16,OK,blue,GMB,   VICTORY   ,45.1k,19,  10 ,  1 ,  0 ,  3 ,  2 ,Karthus,Graves,Fiddlesticks,Orianna,Syndra
+2020.0,summer,LCL,7,Gambit,Dragon Army,1.0,21:16,OK,red,DA,   DEFEAT   ,31.4k,5,  0 ,  0 ,  0 ,  0 ,  0 ,TwistedFate,MonkeyKing,Volibear,Ryze,Vladimir
+2020.0,summer,LCL,7,RoX,Elements Pro Gaming,1.0,32:34,OK,blue,ROX,   DEFEAT   ,51.1k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Karthus,Orianna,Sona,Morgana,Jayce
+2020.0,summer,LCL,7,RoX,Elements Pro Gaming,1.0,32:34,OK,red,EPG,   VICTORY   ,62.8k,14,  11 ,  3 ,  1 ,  4 ,  2 ,Thresh,Volibear,Zoe,Irelia,Yorick
+2020.0,summer,LCL,Tiebreakers,Vega Squadron,Elements Pro Gaming,1.0,33:51,OK,blue,VEG,   DEFEAT   ,55.0k,5,  5 ,  0 ,  0 ,  1 ,  1 ,Karthus,Sona,Caitlyn,Nidalee,Khazix
+2020.0,summer,LCL,Tiebreakers,Vega Squadron,Elements Pro Gaming,1.0,33:51,OK,red,EPG,   VICTORY   ,59.6k,11,  9 ,  1 ,  1 ,  4 ,  1 ,Sett,Volibear,Ashe,Aphelios,Camille

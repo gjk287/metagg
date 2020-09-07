@@ -1,0 +1,61 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,DL,1,THRILL,mCon Rotterdam,1.0,26:08,OK,blue,MCN,   DEFEAT   ,37.3k,5,  0 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Olaf,Graves,Aphelios,Ezreal
+2020.0,summer,DL,1,THRILL,mCon Rotterdam,1.0,26:08,OK,red,TRL,   VICTORY   ,51.9k,12,  9 ,  1 ,  1 ,  4 ,  2 ,Varus,Syndra,Aatrox,Cassiopeia,Leblanc
+2020.0,summer,DL,1,Echo Zulu,Dynasty,1.0,42:10,OK,blue,DYN,   DEFEAT   ,66.1k,9,  6 ,  0 ,  0 ,  2 ,  2 ,Ivern,Sett,Senna,Yuumi,JarvanIV
+2020.0,summer,DL,1,Echo Zulu,Dynasty,1.0,42:10,OK,red,EZ,   VICTORY   ,73.2k,15,  11 ,  4 ,  2 ,  5 ,  0 ,Syndra,Varus,Trundle,Zoe,Mordekaiser
+2020.0,summer,DL,1,THRILL,LowLandLions,1.0,28:43,OK,blue,LLL,   DEFEAT   ,46.8k,11,  3 ,  0 ,  0 ,  0 ,  0 ,Thresh,Pyke,Graves,Fiora,Jax
+2020.0,summer,DL,1,THRILL,LowLandLions,1.0,28:43,OK,red,TRL,   VICTORY   ,56.9k,21,  9 ,  2 ,  1 ,  4 ,  2 ,Trundle,Varus,Syndra,Cassiopeia,Kled
+2020.0,summer,DL,1,Echo Zulu,PSV,1.0,26:41,OK,blue,PSV,   VICTORY   ,54.7k,19,  11 ,  3 ,  1 ,  2 ,  2 ,Ivern,Senna,Varus,Orianna,Renekton
+2020.0,summer,DL,1,Echo Zulu,PSV,1.0,26:41,OK,red,EZ,   DEFEAT   ,40.4k,3,  2 ,  0 ,  0 ,  2 ,  0 ,Syndra,Ziggs,Sett,Zoe,Leblanc
+2020.0,summer,DL,2,Dynasty,LowLandLions,1.0,29:25,OK,blue,DYN,   DEFEAT   ,44.4k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Yuumi,Senna,LeeSin,Sett,Kled
+2020.0,summer,DL,2,Dynasty,LowLandLions,1.0,29:25,OK,red,LLL,   VICTORY   ,56.7k,17,  11 ,  3 ,  1 ,  4 ,  1 ,Varus,Syndra,Aatrox,Zoe,Mordekaiser
+2020.0,summer,DL,2,mCon Rotterdam,PSV,1.0,30:23,OK,blue,MCN,   DEFEAT   ,45.7k,6,  2 ,  0 ,  0 ,  1 ,  2 ,Aphelios,Ornn,Graves,Cassiopeia,Leblanc
+2020.0,summer,DL,2,mCon Rotterdam,PSV,1.0,30:23,OK,red,PSV,   VICTORY   ,60.6k,20,  10 ,  2 ,  1 ,  3 ,  0 ,Syndra,Varus,Sett,Karma,Yuumi
+2020.0,summer,DL,2,Dynasty,THRILL,1.0,32:35,OK,blue,TRL,   VICTORY   ,59.6k,19,  10 ,  2 ,  0 ,  4 ,  0 ,Trundle,Graves,Yuumi,Ezreal,Zoe
+2020.0,summer,DL,2,Dynasty,THRILL,1.0,32:35,OK,red,DYN,   DEFEAT   ,51.7k,6,  2 ,  0 ,  1 ,  1 ,  2 ,Syndra,Senna,Varus,Kalista,Leblanc
+2020.0,summer,DL,2,mCon Rotterdam,Echo Zulu,1.0,36:51,OK,blue,EZ,   VICTORY   ,67.2k,19,  9 ,  2 ,  1 ,  3 ,  1 ,Taric,Gragas,Senna,Aatrox,Sylas
+2020.0,summer,DL,2,mCon Rotterdam,Echo Zulu,1.0,36:51,OK,red,MCN,   DEFEAT   ,58.5k,12,  3 ,  0 ,  1 ,  3 ,  1 ,Ivern,Varus,Syndra,Yuumi,Rakan
+2020.0,summer,DL,3,LowLandLions,Echo Zulu,1.0,27:57,OK,blue,LLL,   VICTORY   ,54.3k,15,  9 ,  1 ,  1 ,  4 ,  2 ,Ivern,Ezreal,Varus,JarvanIV,Orianna
+2020.0,summer,DL,3,LowLandLions,Echo Zulu,1.0,27:57,OK,red,EZ,   DEFEAT   ,40.6k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Thresh,Syndra,Kalista,Kled,Azir
+2020.0,summer,DL,3,PSV,THRILL,1.0,38:59,OK,blue,PSV,   DEFEAT   ,67.7k,13,  7 ,  0 ,  1 ,  2 ,  1 ,Karma,Senna,Thresh,Renekton,Kayle
+2020.0,summer,DL,3,PSV,THRILL,1.0,38:59,OK,red,TRL,   VICTORY   ,74.3k,27,  8 ,  1 ,  1 ,  4 ,  1 ,Graves,Aphelios,Sett,LeeSin,Nidalee
+2020.0,summer,DL,3,LowLandLions,mCon Rotterdam,1.0,22:05,OK,blue,LLL,   VICTORY   ,45.1k,16,  8 ,  1 ,  0 ,  2 ,  2 ,Aatrox,Soraka,Varus,Azir,JarvanIV
+2020.0,summer,DL,3,LowLandLions,mCon Rotterdam,1.0,22:05,OK,red,MCN,   DEFEAT   ,31.5k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Thresh,Syndra,Senna,Mordekaiser,Leblanc
+2020.0,summer,DL,3,PSV,Dynasty,1.0,31:44,OK,blue,DYN,   DEFEAT   ,49.6k,12,  4 ,  0 ,  0 ,  2 ,  2 ,Graves,Senna,MonkeyKing,Sylas,Leblanc
+2020.0,summer,DL,3,PSV,Dynasty,1.0,31:44,OK,red,PSV,   VICTORY   ,58.7k,15,  8 ,  1 ,  2 ,  3 ,  0 ,Varus,Syndra,Trundle,Azir,Zoe
+2020.0,summer,DL,4,THRILL,Echo Zulu,1.0,30:56,OK,blue,EZ,   DEFEAT   ,45.4k,4,  1 ,  0 ,  0 ,  1 ,  1 ,Thresh,Yuumi,Volibear,Vladimir,LeeSin
+2020.0,summer,DL,4,THRILL,Echo Zulu,1.0,30:56,OK,red,TRL,   VICTORY   ,61.8k,24,  9 ,  1 ,  1 ,  4 ,  1 ,Ivern,Trundle,Graves,JarvanIV,Elise
+2020.0,summer,DL,4,LowLandLions,PSV,1.0,38:09,OK,blue,PSV,   VICTORY   ,71.2k,17,  11 ,  3 ,  1 ,  3 ,  0 ,Kalista,Yasuo,Thresh,Nidalee,Mordekaiser
+2020.0,summer,DL,4,LowLandLions,PSV,1.0,38:09,OK,red,LLL,   DEFEAT   ,60.9k,8,  4 ,  0 ,  0 ,  3 ,  2 ,Syndra,Volibear,Yuumi,Renekton,Ornn
+2020.0,summer,DL,4,mCon Rotterdam,Dynasty,1.0,36:56,OK,blue,MCN,   DEFEAT   ,55.1k,6,  2 ,  0 ,  0 ,  3 ,  2 ,Ornn,Graves,Trundle,Olaf,Mordekaiser
+2020.0,summer,DL,4,mCon Rotterdam,Dynasty,1.0,36:56,OK,red,DYN,   VICTORY   ,65.2k,18,  10 ,  3 ,  2 ,  3 ,  0 ,Aatrox,Syndra,Senna,Leblanc,MonkeyKing
+2020.0,summer,DL,5,Echo Zulu,PSV,1.0,33:06,OK,blue,EZ,   VICTORY   ,57.3k,14,  7 ,  1 ,  1 ,  4 ,  1 ,MonkeyKing,Yuumi,Aphelios,Syndra,Sylas
+2020.0,summer,DL,5,Echo Zulu,PSV,1.0,33:06,OK,red,PSV,   DEFEAT   ,57.3k,5,  7 ,  1 ,  0 ,  1 ,  1 ,Ivern,Ezreal,Volibear,Renekton,Thresh
+2020.0,summer,DL,5,THRILL,LowLandLions,1.0,34:56,OK,blue,TRL,   VICTORY   ,64.6k,22,  9 ,  1 ,  1 ,  4 ,  1 ,Graves,Sett,LeeSin,Renekton,Orianna
+2020.0,summer,DL,5,THRILL,LowLandLions,1.0,34:56,OK,red,LLL,   DEFEAT   ,55.5k,6,  4 ,  0 ,  1 ,  2 ,  1 ,Volibear,Yuumi,Syndra,Olaf,MonkeyKing
+2020.0,summer,DL,5,Echo Zulu,Dynasty,1.0,34:45,OK,blue,EZ,   VICTORY   ,61.1k,9,  10 ,  2 ,  1 ,  2 ,  1 ,Yuumi,Olaf,Zoe,Aphelios,Kalista
+2020.0,summer,DL,5,Echo Zulu,Dynasty,1.0,34:45,OK,red,DYN,   DEFEAT   ,53.5k,5,  4 ,  0 ,  0 ,  3 ,  1 ,Ivern,Ezreal,Orianna,Nautilus,Varus
+2020.0,summer,DL,5,THRILL,mCon Rotterdam,1.0,26:37,OK,blue,TRL,   VICTORY   ,61.8k,38,  10 ,  1 ,  0 ,  3 ,  2 ,Graves,Sett,Aatrox,Cassiopeia,Taric
+2020.0,summer,DL,5,THRILL,mCon Rotterdam,1.0,26:37,OK,red,MCN,   DEFEAT   ,40.5k,10,  0 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Yuumi,Volibear,Kayle,Sylas
+2020.0,summer,DL,6,mCon Rotterdam,Echo Zulu,1.0,31:03,OK,blue,MCN,   VICTORY   ,56.3k,18,  7 ,  1 ,  1 ,  2 ,  0 ,Ivern,Orianna,Thresh,Nautilus,Lulu
+2020.0,summer,DL,6,mCon Rotterdam,Echo Zulu,1.0,31:03,OK,red,EZ,   DEFEAT   ,49.6k,6,  3 ,  0 ,  0 ,  3 ,  2 ,Taric,Syndra,Volibear,Cassiopeia,Ornn
+2020.0,summer,DL,6,Dynasty,THRILL,1.0,37:48,OK,blue,TRL,   DEFEAT   ,64.7k,13,  7 ,  1 ,  0 ,  2 ,  1 ,Trundle,Graves,Yuumi,Karma,Nautilus
+2020.0,summer,DL,6,Dynasty,THRILL,1.0,37:48,OK,red,DYN,   VICTORY   ,67.4k,22,  7 ,  2 ,  2 ,  4 ,  1 ,LeeSin,Rumble,TwistedFate,Renekton,Aphelios
+2020.0,summer,DL,6,mCon Rotterdam,PSV,1.0,20:11,OK,blue,PSV,   VICTORY   ,42.7k,17,  8 ,  1 ,  0 ,  3 ,  2 ,Soraka,Volibear,Varus,Malphite,Blitzcrank
+2020.0,summer,DL,6,mCon Rotterdam,PSV,1.0,20:11,OK,red,MCN,   DEFEAT   ,28.9k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Syndra,Graves,Ezreal,Lulu,Thresh
+2020.0,summer,DL,6,Dynasty,LowLandLions,1.0,33:44,OK,blue,LLL,   VICTORY   ,61.2k,12,  8 ,  1 ,  1 ,  4 ,  1 ,Volibear,Zoe,Malphite,Yuumi,Karma
+2020.0,summer,DL,6,Dynasty,LowLandLions,1.0,33:44,OK,red,DYN,   DEFEAT   ,53.0k,10,  4 ,  0 ,  0 ,  2 ,  1 ,LeeSin,Trundle,Elise,Mordekaiser,Ornn
+2020.0,summer,DL,7,PSV,Dynasty,1.0,27:27,OK,blue,PSV,   VICTORY   ,53.2k,14,  11 ,  3 ,  1 ,  3 ,  2 ,Thresh,Trundle,Volibear,Malphite,Mordekaiser
+2020.0,summer,DL,7,PSV,Dynasty,1.0,27:27,OK,red,DYN,   DEFEAT   ,40.1k,0,  2 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Orianna,Graves,MonkeyKing,Gangplank
+2020.0,summer,DL,7,LowLandLions,mCon Rotterdam,1.0,29:34,OK,blue,LLL,   VICTORY   ,57.0k,16,  11 ,  3 ,  1 ,  4 ,  1 ,Volibear,Aatrox,Karma,Yuumi,Kassadin
+2020.0,summer,DL,7,LowLandLions,mCon Rotterdam,1.0,29:34,OK,red,MCN,   DEFEAT   ,43.9k,9,  1 ,  0 ,  0 ,  0 ,  1 ,Thresh,Kalista,Nidalee,Mordekaiser,Kled
+2020.0,summer,DL,7,PSV,THRILL,1.0,37:35,OK,blue,TRL,   DEFEAT   ,61.6k,6,  2 ,  0 ,  0 ,  2 ,  1 ,Sett,Graves,Nautilus,Malphite,Azir
+2020.0,summer,DL,7,PSV,THRILL,1.0,37:35,OK,red,PSV,   VICTORY   ,69.5k,20,  8 ,  1 ,  1 ,  3 ,  1 ,Syndra,Thresh,Karma,Nidalee,TwistedFate
+2020.0,summer,DL,7,LowLandLions,Echo Zulu,1.0,30:44,OK,blue,LLL,   VICTORY   ,58.0k,24,  9 ,  2 ,  1 ,  3 ,  1 ,Volibear,Ivern,Ezreal,Lulu,Yorick
+2020.0,summer,DL,7,LowLandLions,Echo Zulu,1.0,30:44,OK,red,EZ,   DEFEAT   ,50.0k,15,  2 ,  0 ,  0 ,  2 ,  1 ,Thresh,Ashe,Syndra,Kled,Trundle
+2020.0,summer,DL,8,mCon Rotterdam,Dynasty,1.0,30:28,OK,blue,DYN,   VICTORY   ,57.2k,19,  11 ,  3 ,  1 ,  2 ,  2 ,Aatrox,Karma,Trundle,JarvanIV,Sejuani
+2020.0,summer,DL,8,mCon Rotterdam,Dynasty,1.0,30:28,OK,red,MCN,   DEFEAT   ,44.3k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Thresh,Zoe,Olaf,Yuumi,Bard
+2020.0,summer,DL,8,LowLandLions,PSV,1.0,25:28,OK,blue,LLL,   DEFEAT   ,44.4k,18,  3 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Olaf,Nocturne,Malphite,MonkeyKing
+2020.0,summer,DL,8,LowLandLions,PSV,1.0,25:28,OK,red,PSV,   VICTORY   ,55.4k,36,  9 ,  1 ,  1 ,  4 ,  2 ,Shyvana,Thresh,Ezreal,,
+2020.0,summer,DL,8,THRILL,Echo Zulu,1.0,30:54,OK,blue,EZ,   DEFEAT   ,52.3k,11,  2 ,  0 ,  0 ,  2 ,  0 ,Thresh,Khazix,Ezreal,,
+2020.0,summer,DL,8,THRILL,Echo Zulu,1.0,30:54,OK,red,TRL,   VICTORY   ,58.0k,16,  8 ,  1 ,  1 ,  3 ,  2 ,Ivern,Nautilus,Volibear,Ornn,Syndra

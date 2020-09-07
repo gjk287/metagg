@@ -1,0 +1,126 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,spring,LMS,1,AHQ,Flash Wolves,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,AHQ,Flash Wolves,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,AHQ,Flash Wolves,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,Hong Kong Esports,Fireball,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,Hong Kong Esports,Fireball,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,Hong Kong Esports,Fireball,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,J Team,Machi Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,J Team,Machi Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,J Team,Machi Esports,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,eXtreme Gamers,Wayi Spider,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,eXtreme Gamers,Wayi Spider,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,1,eXtreme Gamers,Wayi Spider,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,Flash Wolves,J Team,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,Flash Wolves,J Team,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,Wayi Spider,Hong Kong Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,Wayi Spider,Hong Kong Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,Flash Wolves,Machi Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,Flash Wolves,Machi Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,J Team,eXtreme Gamers,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,J Team,eXtreme Gamers,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,Fireball,eXtreme Gamers,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,Fireball,eXtreme Gamers,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,AHQ,Machi Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,2,AHQ,Machi Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Hong Kong Esports,J Team,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Hong Kong Esports,J Team,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Fireball,Machi Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Fireball,Machi Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Fireball,Machi Esports,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Fireball,Wayi Spider,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Fireball,Wayi Spider,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,AHQ,Hong Kong Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,AHQ,Hong Kong Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,AHQ,eXtreme Gamers,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,AHQ,eXtreme Gamers,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Wayi Spider,Flash Wolves,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,3,Wayi Spider,Flash Wolves,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Wayi Spider,AHQ,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Wayi Spider,AHQ,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Fireball,J Team,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Fireball,J Team,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Fireball,J Team,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Wayi Spider,Machi Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Wayi Spider,Machi Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Flash Wolves,Hong Kong Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,4,Flash Wolves,Hong Kong Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Hong Kong Esports,eXtreme Gamers,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Hong Kong Esports,eXtreme Gamers,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Hong Kong Esports,eXtreme Gamers,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,J Team,Wayi Spider,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,J Team,Wayi Spider,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Fireball,Flash Wolves,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Fireball,Flash Wolves,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,J Team,AHQ,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,J Team,AHQ,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Fireball,AHQ,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Fireball,AHQ,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Machi Esports,eXtreme Gamers,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,5,Machi Esports,eXtreme Gamers,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Machi Esports,Hong Kong Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Machi Esports,Hong Kong Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Machi Esports,Hong Kong Esports,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Flash Wolves,eXtreme Gamers,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Flash Wolves,eXtreme Gamers,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Fireball,Hong Kong Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Fireball,Hong Kong Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Flash Wolves,AHQ,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Flash Wolves,AHQ,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Wayi Spider,eXtreme Gamers,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Wayi Spider,eXtreme Gamers,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Machi Esports,J Team,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Machi Esports,J Team,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,6,Machi Esports,J Team,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,eXtreme Gamers,Fireball,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,eXtreme Gamers,Fireball,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,eXtreme Gamers,Fireball,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,Hong Kong Esports,Wayi Spider,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,Hong Kong Esports,Wayi Spider,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,Machi Esports,Flash Wolves,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,Machi Esports,Flash Wolves,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,eXtreme Gamers,J Team,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,eXtreme Gamers,J Team,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,Machi Esports,AHQ,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,Machi Esports,AHQ,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,J Team,Flash Wolves,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,7,J Team,Flash Wolves,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,J Team,Hong Kong Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,J Team,Hong Kong Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Machi Esports,Fireball,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Machi Esports,Fireball,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Machi Esports,Fireball,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Hong Kong Esports,AHQ,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Hong Kong Esports,AHQ,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Wayi Spider,Fireball,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Wayi Spider,Fireball,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,eXtreme Gamers,AHQ,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,eXtreme Gamers,AHQ,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Flash Wolves,Wayi Spider,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,8,Flash Wolves,Wayi Spider,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,J Team,Fireball,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,J Team,Fireball,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,AHQ,Wayi Spider,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,AHQ,Wayi Spider,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,Machi Esports,Wayi Spider,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,Machi Esports,Wayi Spider,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,Machi Esports,Wayi Spider,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,eXtreme Gamers,Hong Kong Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,eXtreme Gamers,Hong Kong Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,eXtreme Gamers,Flash Wolves,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,eXtreme Gamers,Flash Wolves,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,Hong Kong Esports,Machi Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,9,Hong Kong Esports,Machi Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,Wayi Spider,J Team,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,Wayi Spider,J Team,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,eXtreme Gamers,Machi Esports,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,eXtreme Gamers,Machi Esports,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,Flash Wolves,Fireball,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,Flash Wolves,Fireball,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,AHQ,J Team,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,AHQ,J Team,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,AHQ,J Team,3.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,AHQ,Fireball,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,AHQ,Fireball,2.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,Hong Kong Esports,Flash Wolves,1.0,this row doesn't have MH_url
+2017.0,spring,LMS,10,Hong Kong Esports,Flash Wolves,2.0,this row doesn't have MH_url

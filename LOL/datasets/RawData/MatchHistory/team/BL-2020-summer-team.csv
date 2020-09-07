@@ -1,0 +1,59 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,BL,1,Sector One,Brussels Guardians,1.0,25:01,OK,blue,S1,   VICTORY   ,50.8k,18,  11 ,  2 ,  1 ,  4 ,  2 ,Heimerdinger,Bard,Varus,Gragas,Nautilus
+2020.0,summer,BL,1,Sector One,Brussels Guardians,1.0,25:01,OK,red,BG,   DEFEAT   ,35.2k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Aphelios,Syndra,Ornn,Camille
+2020.0,summer,BL,1,RSCA,KV Mechelen,1.0,32:32,OK,blue,KVM,   DEFEAT   ,50.3k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Urgot,JarvanIV,Gragas,Leona,Nautilus
+2020.0,summer,BL,1,RSCA,KV Mechelen,1.0,32:32,OK,red,AND,   VICTORY   ,59.0k,21,  10 ,  3 ,  1 ,  4 ,  2 ,Varus,Thresh,Sett,Darius,Fiora
+2020.0,summer,BL,1,Sector One,Aethra,1.0,23:38,OK,blue,ATR,   DEFEAT   ,34.3k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Ezreal,Syndra,Graves,Thresh,Ornn
+2020.0,summer,BL,1,Sector One,Aethra,1.0,23:38,OK,red,S1,   VICTORY   ,47.7k,22,  10 ,  2 ,  0 ,  3 ,  1 ,Bard,Varus,Aatrox,Leblanc,Irelia
+2020.0,summer,BL,1,RSCA,Team 7AM,1.0,27:44,OK,blue,7AM,   DEFEAT   ,40.9k,7,  0 ,  0 ,  0 ,  2 ,  0 ,Urgot,Kled,MissFortune,Nautilus,Bard
+2020.0,summer,BL,1,RSCA,Team 7AM,1.0,27:44,OK,red,AND,   VICTORY   ,49.3k,14,  8 ,  1 ,  1 ,  2 ,  1 ,Zoe,Varus,Thresh,Leblanc,Akali
+2020.0,summer,BL,2,KV Mechelen,Aethra,1.0,24:42,OK,blue,ATR,   DEFEAT   ,36.4k,4,  1 ,  0 ,  0 ,  1 ,  1 ,Darius,Trundle,Graves,Renekton,Shen
+2020.0,summer,BL,2,KV Mechelen,Aethra,1.0,24:42,OK,red,KVM,   VICTORY   ,49.0k,17,  11 ,  3 ,  1 ,  3 ,  1 ,Aatrox,Bard,Varus,Irelia,Gangplank
+2020.0,summer,BL,2,Brussels Guardians,Team 7AM,1.0,34:15,OK,blue,BG,   DEFEAT   ,48.2k,3,  0 ,  0 ,  0 ,  1 ,  2 ,Syndra,Nautilus,Thresh,Cassiopeia,Leona
+2020.0,summer,BL,2,Brussels Guardians,Team 7AM,1.0,34:15,OK,red,7AM,   VICTORY   ,63.3k,17,  11 ,  1 ,  1 ,  4 ,  0 ,Heimerdinger,Yuumi,Varus,Kassadin,TwistedFate
+2020.0,summer,BL,2,KV Mechelen,Sector One,1.0,37:59,OK,blue,S1,   VICTORY   ,69.1k,17,  9 ,  1 ,  1 ,  3 ,  0 ,Sett,Thresh,Trundle,Renekton,Darius
+2020.0,summer,BL,2,KV Mechelen,Sector One,1.0,37:59,OK,red,KVM,   DEFEAT   ,58.2k,14,  4 ,  0 ,  0 ,  3 ,  2 ,Syndra,Ezreal,Graves,Aatrox,Zoe
+2020.0,summer,BL,2,Brussels Guardians,RSCA,1.0,39:02,OK,blue,AND,   DEFEAT   ,58.6k,8,  2 ,  0 ,  1 ,  3 ,  0 ,Heimerdinger,Yuumi,Graves,Nocturne,Leblanc
+2020.0,summer,BL,2,Brussels Guardians,RSCA,1.0,39:02,OK,red,BG,   VICTORY   ,70.6k,30,  10 ,  3 ,  1 ,  3 ,  1 ,Urgot,Kled,JarvanIV,Yasuo,Sion
+2020.0,summer,BL,3,Aethra,RSCA,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,summer,BL,3,Team 7AM,Sector One,1.0,28:55,OK,blue,7AM,   DEFEAT   ,44.2k,6,  0 ,  0 ,  0 ,  3 ,  0 ,Syndra,LeeSin,Kalista,Camille,Aatrox
+2020.0,summer,BL,3,Team 7AM,Sector One,1.0,28:55,OK,red,S1,   VICTORY   ,59.9k,17,  11 ,  3 ,  2 ,  2 ,  2 ,Varus,Zoe,Sett,Xerath,Shen
+2020.0,summer,BL,3,Aethra,Brussels Guardians,1.0,31:34,OK,blue,BG,   VICTORY   ,52.1k,10,  6 ,  1 ,  1 ,  4 ,  0 ,Irelia,Aatrox,Bard,Leblanc,Syndra
+2020.0,summer,BL,3,Aethra,Brussels Guardians,1.0,31:34,OK,red,ATR,   DEFEAT   ,50.6k,4,  6 ,  0 ,  0 ,  0 ,  2 ,Varus,Graves,Ornn,Gnar,Thresh
+2020.0,summer,BL,3,Team 7AM,KV Mechelen,1.0,29:07,OK,blue,7AM,   DEFEAT   ,41.4k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Syndra,Sett,Thresh,Darius,Kassadin
+2020.0,summer,BL,3,Team 7AM,KV Mechelen,1.0,29:07,OK,red,KVM,   VICTORY   ,55.9k,16,  11 ,  3 ,  1 ,  4 ,  2 ,Zoe,Yuumi,Varus,Xerath,Ornn
+2020.0,summer,BL,4,Sector One,RSCA,1.0,30:29,OK,blue,S1,   VICTORY   ,57.4k,28,  10 ,  2 ,  1 ,  3 ,  2 ,Urgot,Kled,Varus,Trundle,Ornn
+2020.0,summer,BL,4,Sector One,RSCA,1.0,30:29,OK,red,AND,   DEFEAT   ,42.7k,6,  1 ,  0 ,  0 ,  2 ,  0 ,LeeSin,Graves,Syndra,Camille,Mordekaiser
+2020.0,summer,BL,4,Aethra,Team 7AM,1.0,28:50,OK,blue,ATR,   VICTORY   ,51.0k,10,  8 ,  1 ,  0 ,  3 ,  2 ,Zoe,Karma,Aphelios,Ornn,Syndra
+2020.0,summer,BL,4,Aethra,Team 7AM,1.0,28:50,OK,red,7AM,   DEFEAT   ,42.4k,5,  0 ,  0 ,  0 ,  2 ,  0 ,Bard,Varus,Graves,LeeSin,Pyke
+2020.0,summer,BL,4,Brussels Guardians,KV Mechelen,1.0,42:58,OK,blue,KVM,   VICTORY   ,77.8k,22,  10 ,  2 ,  1 ,  4 ,  1 ,Heimerdinger,Soraka,Rumble,Orianna,TwistedFate
+2020.0,summer,BL,4,Brussels Guardians,KV Mechelen,1.0,42:58,OK,red,BG,   DEFEAT   ,73.8k,14,  5 ,  1 ,  1 ,  2 ,  1 ,Darius,Varus,Aphelios,Leblanc,Braum
+2020.0,summer,BL,5,RSCA,Team 7AM,1.0,30:12,OK,blue,AND,   DEFEAT   ,46.1k,11,  3 ,  0 ,  0 ,  0 ,  2 ,Graves,Thresh,Trundle,JarvanIV,RekSai
+2020.0,summer,BL,5,RSCA,Team 7AM,1.0,30:12,OK,red,7AM,   VICTORY   ,56.7k,18,  8 ,  1 ,  1 ,  5 ,  0 ,Kled,Urgot,Yuumi,TwistedFate,Syndra
+2020.0,summer,BL,5,Sector One,Aethra,1.0,41:03,OK,blue,S1,   DEFEAT   ,64.5k,13,  4 ,  0 ,  0 ,  2 ,  2 ,Heimerdinger,Ziggs,Leblanc,Bard,RekSai
+2020.0,summer,BL,5,Sector One,Aethra,1.0,41:03,OK,red,ATR,   VICTORY   ,74.9k,30,  8 ,  1 ,  1 ,  4 ,  0 ,Syndra,Ezreal,Aphelios,Mordekaiser,Ornn
+2020.0,summer,BL,5,RSCA,KV Mechelen,1.0,29:23,OK,blue,AND,   DEFEAT   ,46.0k,7,  1 ,  0 ,  0 ,  3 ,  1 ,Graves,Ezreal,Aphelios,Thresh,Leblanc
+2020.0,summer,BL,5,RSCA,KV Mechelen,1.0,29:23,OK,red,KVM,   VICTORY   ,56.7k,16,  11 ,  3 ,  2 ,  2 ,  1 ,Urgot,Varus,Kled,Heimerdinger,Ashe
+2020.0,summer,BL,5,Sector One,Brussels Guardians,1.0,26:14,OK,blue,S1,   VICTORY   ,54.1k,22,  10 ,  1 ,  1 ,  1 ,  2 ,Heimerdinger,Ziggs,Varus,Ornn,Volibear
+2020.0,summer,BL,5,Sector One,Brussels Guardians,1.0,26:14,OK,red,BG,   DEFEAT   ,38.3k,11,  0 ,  0 ,  0 ,  3 ,  0 ,Syndra,Ezreal,Graves,MonkeyKing,Karma
+2020.0,summer,BL,6,Brussels Guardians,Team 7AM,1.0,27:02,OK,blue,BG,   DEFEAT   ,40.7k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Zoe,Graves,Thresh,Vladimir,MonkeyKing
+2020.0,summer,BL,6,Brussels Guardians,Team 7AM,1.0,27:02,OK,red,7AM,   VICTORY   ,49.7k,16,  6 ,  1 ,  1 ,  4 ,  1 ,Varus,Heimerdinger,MissFortune,Aatrox,Gnar
+2020.0,summer,BL,6,KV Mechelen,Sector One,1.0,37:04,OK,blue,S1,   VICTORY   ,67.1k,8,  10 ,  4 ,  0 ,  5 ,  2 ,Trundle,Darius,Varus,Leblanc,Blitzcrank
+2020.0,summer,BL,6,KV Mechelen,Sector One,1.0,37:04,OK,red,KVM,   DEFEAT   ,59.8k,8,  1 ,  0 ,  1 ,  1 ,  0 ,Syndra,Ezreal,LeeSin,Camille,JarvanIV
+2020.0,summer,BL,6,Brussels Guardians,RSCA,1.0,37:53,OK,blue,BG,   DEFEAT   ,66.8k,12,  5 ,  0 ,  0 ,  1 ,  1 ,Urgot,Kled,Ezreal,Cassiopeia,Blitzcrank
+2020.0,summer,BL,6,Brussels Guardians,RSCA,1.0,37:53,OK,red,AND,   VICTORY   ,72.5k,22,  11 ,  5 ,  2 ,  5 ,  1 ,Heimerdinger,Orianna,Gnar,Syndra,Ornn
+2020.0,summer,BL,6,KV Mechelen,Aethra,1.0,32:44,OK,blue,KVM,   VICTORY   ,57.4k,12,  8 ,  1 ,  2 ,  2 ,  2 ,Aatrox,Bard,Ziggs,Blitzcrank,Pyke
+2020.0,summer,BL,6,KV Mechelen,Aethra,1.0,32:44,OK,red,ATR,   DEFEAT   ,55.9k,13,  4 ,  0 ,  0 ,  4 ,  0 ,Aphelios,Ezreal,Darius,Mordekaiser,Ornn
+2020.0,summer,BL,7,Team 7AM,KV Mechelen,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,summer,BL,7,Aethra,Brussels Guardians,1.0,31:46,OK,blue,BG,   DEFEAT   ,51.9k,8,  5 ,  0 ,  0 ,  0 ,  2 ,Aatrox,MonkeyKing,Bard,Karma,Renekton
+2020.0,summer,BL,7,Aethra,Brussels Guardians,1.0,31:46,OK,red,ATR,   VICTORY   ,65.3k,18,  11 ,  4 ,  1 ,  5 ,  0 ,Ezreal,Soraka,Orianna,Kassadin,Syndra
+2020.0,summer,BL,7,Team 7AM,Sector One,1.0,32:25,OK,blue,S1,   DEFEAT   ,61.2k,12,  10 ,  2 ,  1 ,  0 ,  2 ,Shen,Zoe,Varus,,
+2020.0,summer,BL,7,Team 7AM,Sector One,1.0,32:25,OK,red,7AM,   VICTORY   ,62.4k,22,  5 ,  1 ,  1 ,  5 ,  0 ,Karma,LeeSin,Ezreal,Syndra,Bard
+2020.0,summer,BL,7,Aethra,RSCA,1.0,31:27,OK,blue,ATR,   VICTORY   ,62.2k,19,  9 ,  2 ,  2 ,  5 ,  1 ,Urgot,Syndra,Ezreal,Varus,Thresh
+2020.0,summer,BL,7,Aethra,RSCA,1.0,31:27,OK,red,AND,   DEFEAT   ,47.0k,7,  1 ,  0 ,  0 ,  0 ,  1 ,MonkeyKing,Bard,Leblanc,Fiora,Pyke
+2020.0,summer,BL,8,Brussels Guardians,KV Mechelen,1.0,32:31,OK,blue,BG,   DEFEAT   ,48.9k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Darius,Aphelios,Volibear,Diana,Renekton
+2020.0,summer,BL,8,Brussels Guardians,KV Mechelen,1.0,32:31,OK,red,KVM,   VICTORY   ,63.2k,13,  9 ,  2 ,  1 ,  4 ,  1 ,Soraka,Rakan,Karthus,Nocturne,Orianna
+2020.0,summer,BL,8,Aethra,Team 7AM,1.0,34:24,OK,blue,7AM,   DEFEAT   ,54.0k,7,  3 ,  0 ,  0 ,  3 ,  1 ,Aatrox,Bard,MonkeyKing,Gangplank,Leblanc
+2020.0,summer,BL,8,Aethra,Team 7AM,1.0,34:24,OK,red,ATR,   VICTORY   ,61.4k,9,  8 ,  1 ,  1 ,  2 ,  1 ,Nunu,Zoe,Aphelios,Soraka,Orianna
+2020.0,summer,BL,8,Sector One,RSCA,1.0,27:30,OK,blue,AND,   DEFEAT   ,41.5k,9,  1 ,  0 ,  0 ,  1 ,  0 ,Karma,LeeSin,Ezreal,Camille,Zoe
+2020.0,summer,BL,8,Sector One,RSCA,1.0,27:30,OK,red,S1,   VICTORY   ,54.5k,26,  7 ,  1 ,  1 ,  3 ,  2 ,Urgot,Kled,Volibear,Nautilus,Leona

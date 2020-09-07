@@ -1,0 +1,178 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,LCS_a,1,TSM Academy,CLG Academy,1.0,25:57,OK,blue,TSMA,   DEFEAT   ,39.5k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Morgana,Brand,Irelia,Gangplank,Vladimir
+2018.0,summer,LCS_a,1,TSM Academy,CLG Academy,1.0,25:57,OK,red,CLGA,   VICTORY   ,48.1k,9,  8 ,  1 ,  1 ,  2 ,  1 ,Zoe,Ornn,Taliyah,Nocturne,Graves
+2018.0,summer,LCS_a,1,TL Academy,Echo Fox Academy,1.0,27:07,OK,blue,TLA,   VICTORY   ,54.3k,17,  9 ,  1 ,  1 ,  2 ,  1 ,Zoe,MasterYi,Talon,Morgana,Alistar
+2018.0,summer,LCS_a,1,TL Academy,Echo Fox Academy,1.0,27:07,OK,red,FOXA,   DEFEAT   ,45.3k,8,  4 ,  0 ,  0 ,  1 ,  0 ,Riven,Taliyah,Yasuo,Ezreal,KogMaw
+2018.0,summer,LCS_a,1,Cloud9 Academy,FlyQuest Academy,1.0,29:33,OK,blue,C9A,   VICTORY   ,59.0k,14,  10 ,  2 ,  1 ,  3 ,  1 ,Morgana,Lucian,Shen,Taric,Rakan
+2018.0,summer,LCS_a,1,Cloud9 Academy,FlyQuest Academy,1.0,29:33,OK,red,FLYA,   DEFEAT   ,48.2k,11,  1 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Irelia,Camille,Renekton,Graves
+2018.0,summer,LCS_a,1,100 Thieves Academy,OpTic Gaming Academy,1.0,29:11,OK,blue,100A,   DEFEAT   ,46.7k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Lucian,Irelia,Kaisa,Ezreal
+2018.0,summer,LCS_a,1,100 Thieves Academy,OpTic Gaming Academy,1.0,29:11,OK,red,OPTA,   VICTORY   ,55.3k,15,  8 ,  1 ,  1 ,  1 ,  1 ,Taliyah,Graves,Zoe,Lulu,Braum
+2018.0,summer,LCS_a,1,Clutch Gaming Academy,Golden Guardians Academy,1.0,31:54,OK,blue,CGA,   DEFEAT   ,48.6k,9,  3 ,  0 ,  0 ,  1 ,  1 ,Rakan,MasterYi,Mordekaiser,Kaisa,Brand
+2018.0,summer,LCS_a,1,Clutch Gaming Academy,Golden Guardians Academy,1.0,31:54,OK,red,GGSA,   VICTORY   ,59.4k,22,  7 ,  1 ,  1 ,  3 ,  0 ,Taliyah,Zoe,Irelia,Morgana,Braum
+2018.0,summer,LCS_a,1,Echo Fox Academy,FlyQuest Academy,1.0,31:54,OK,blue,FOXA,   DEFEAT   ,45.3k,2,  0 ,  0 ,  0 ,  1 ,  1 ,Pyke,Camille,Lulu,Graves,XinZhao
+2018.0,summer,LCS_a,1,Echo Fox Academy,FlyQuest Academy,1.0,31:54,OK,red,FLYA,   VICTORY   ,62.2k,13,  9 ,  1 ,  1 ,  3 ,  0 ,Taliyah,Lucian,Shen,Alistar,Nautilus
+2018.0,summer,LCS_a,1,CLG Academy,Cloud9 Academy,1.0,25:15,OK,blue,CLGA,   VICTORY   ,48.4k,12,  7 ,  1 ,  1 ,  3 ,  1 ,Irelia,Ornn,Taliyah,Kennen,Riven
+2018.0,summer,LCS_a,1,CLG Academy,Cloud9 Academy,1.0,25:15,OK,red,C9A,   DEFEAT   ,39.2k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Lucian,Yasuo,Zoe,Orianna,Singed
+2018.0,summer,LCS_a,1,Golden Guardians Academy,100 Thieves Academy,1.0,40:49,OK,blue,GGSA,   DEFEAT   ,59.2k,7,  2 ,  0 ,  0 ,  3 ,  1 ,Taric,Camille,Ornn,Leblanc,Kaisa
+2018.0,summer,LCS_a,1,Golden Guardians Academy,100 Thieves Academy,1.0,40:49,OK,red,100A,   VICTORY   ,83.3k,22,  10 ,  2 ,  1 ,  2 ,  0 ,Taliyah,Lucian,Mordekaiser,Alistar,Ezreal
+2018.0,summer,LCS_a,1,OpTic Gaming Academy,Clutch Gaming Academy,1.0,32:15,OK,blue,OPTA,   VICTORY   ,59.7k,10,  8 ,  1 ,  0 ,  0 ,  0 ,Morgana,MasterYi,Zoe,Singed,Nocturne
+2018.0,summer,LCS_a,1,OpTic Gaming Academy,Clutch Gaming Academy,1.0,32:15,OK,red,CGA,   DEFEAT   ,57.0k,4,  6 ,  0 ,  2 ,  4 ,  1 ,Taliyah,Irelia,Rakan,Alistar,Pyke
+2018.0,summer,LCS_a,1,TSM Academy,TL Academy,1.0,32:21,OK,blue,TSMA,   DEFEAT   ,48.0k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Kaisa,Riven,Irelia,Yasuo,Ezreal
+2018.0,summer,LCS_a,1,TSM Academy,TL Academy,1.0,32:21,OK,red,TLA,   VICTORY   ,61.4k,10,  9 ,  1 ,  2 ,  3 ,  1 ,Taliyah,Brand,MasterYi,Camille,XinZhao
+2018.0,summer,LCS_a,2,Cloud9 Academy,100 Thieves Academy,1.0,24:02,OK,blue,C9A,   VICTORY   ,49.5k,15,  8 ,  1 ,  1 ,  2 ,  1 ,Nocturne,Renekton,Graves,Vladimir,Singed
+2018.0,summer,LCS_a,2,Cloud9 Academy,100 Thieves Academy,1.0,24:02,OK,red,100A,   DEFEAT   ,35.8k,1,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Aatrox,Lulu,Pyke,Alistar
+2018.0,summer,LCS_a,2,OpTic Gaming Academy,TSM Academy,1.0,32:50,OK,blue,OPTA,   VICTORY   ,61.3k,9,  9 ,  1 ,  0 ,  1 ,  1 ,Camille,Nidalee,Lulu,Rakan,Swain
+2018.0,summer,LCS_a,2,OpTic Gaming Academy,TSM Academy,1.0,32:50,OK,red,TSMA,   DEFEAT   ,54.8k,10,  3 ,  0 ,  1 ,  2 ,  0 ,Nocturne,Irelia,Zoe,Yasuo,Orianna
+2018.0,summer,LCS_a,2,FlyQuest Academy,Golden Guardians Academy,1.0,40:12,OK,blue,FLYA,   VICTORY   ,71.5k,18,  8 ,  1 ,  1 ,  1 ,  1 ,Brand,Irelia,Lucian,Gangplank,Aatrox
+2018.0,summer,LCS_a,2,FlyQuest Academy,Golden Guardians Academy,1.0,40:12,OK,red,GGSA,   DEFEAT   ,66.2k,15,  4 ,  0 ,  0 ,  3 ,  0 ,Zoe,Nocturne,Shen,Ornn,DrMundo
+2018.0,summer,LCS_a,2,TL Academy,Clutch Gaming Academy,1.0,35:08,OK,blue,TLA,   VICTORY   ,70.1k,14,  8 ,  1 ,  2 ,  3 ,  1 ,Alistar,Lucian,Irelia,Rengar,XinZhao
+2018.0,summer,LCS_a,2,TL Academy,Clutch Gaming Academy,1.0,35:08,OK,red,CGA,   DEFEAT   ,58.8k,9,  4 ,  0 ,  0 ,  1 ,  0 ,Taric,Zoe,Kaisa,Morgana,Braum
+2018.0,summer,LCS_a,2,CLG Academy,Echo Fox Academy,1.0,35:11,OK,blue,CLGA,   VICTORY   ,68.7k,21,  10 ,  2 ,  2 ,  3 ,  1 ,Vladimir,Camille,Ornn,Kaisa,Lucian
+2018.0,summer,LCS_a,2,CLG Academy,Echo Fox Academy,1.0,35:11,OK,red,FOXA,   DEFEAT   ,59.3k,15,  4 ,  0 ,  0 ,  1 ,  0 ,Zoe,Brand,Pyke,Renekton,Lulu
+2018.0,summer,LCS_a,2,Cloud9 Academy,Golden Guardians Academy,1.0,42:14,OK,blue,C9A,   VICTORY   ,77.3k,16,  11 ,  3 ,  1 ,  2 ,  1 ,Alistar,Trundle,Lulu,Braum,DrMundo
+2018.0,summer,LCS_a,2,Cloud9 Academy,Golden Guardians Academy,1.0,42:14,OK,red,GGSA,   DEFEAT   ,74.0k,8,  5 ,  0 ,  0 ,  2 ,  0 ,Zoe,Nocturne,Irelia,Kaisa,Ezreal
+2018.0,summer,LCS_a,2,Clutch Gaming Academy,CLG Academy,1.0,42:01,OK,blue,CGA,   DEFEAT   ,75.7k,19,  7 ,  1 ,  1 ,  3 ,  0 ,Brand,DrMundo,Zoe,Varus,Ezreal
+2018.0,summer,LCS_a,2,Clutch Gaming Academy,CLG Academy,1.0,42:01,OK,red,CLGA,   VICTORY   ,81.7k,27,  9 ,  1 ,  1 ,  2 ,  1 ,Lucian,Ornn,Nocturne,Shen,Chogath
+2018.0,summer,LCS_a,2,FlyQuest Academy,TSM Academy,1.0,33:47,OK,blue,FLYA,   DEFEAT   ,54.5k,2,  4 ,  0 ,  0 ,  1 ,  1 ,Brand,Lucian,Camille,Xayah,Olaf
+2018.0,summer,LCS_a,2,FlyQuest Academy,TSM Academy,1.0,33:47,OK,red,TSMA,   VICTORY   ,63.1k,17,  10 ,  2 ,  1 ,  3 ,  0 ,Nocturne,Zoe,Irelia,Morgana,Alistar
+2018.0,summer,LCS_a,2,100 Thieves Academy,Echo Fox Academy,1.0,34:16,OK,blue,100A,   VICTORY   ,63.9k,14,  9 ,  1 ,  1 ,  1 ,  1 ,Shen,Irelia,Zoe,Galio,Ornn
+2018.0,summer,LCS_a,2,100 Thieves Academy,Echo Fox Academy,1.0,34:16,OK,red,FOXA,   DEFEAT   ,54.7k,6,  3 ,  0 ,  0 ,  3 ,  0 ,Graves,Nocturne,Rakan,Morgana,Alistar
+2018.0,summer,LCS_a,2,TL Academy,OpTic Gaming Academy,1.0,29:40,OK,blue,TLA,   VICTORY   ,61.7k,19,  8 ,  1 ,  0 ,  2 ,  0 ,Alistar,XinZhao,Morgana,Camille,Yasuo
+2018.0,summer,LCS_a,2,TL Academy,OpTic Gaming Academy,1.0,29:40,OK,red,OPTA,   DEFEAT   ,50.8k,8,  2 ,  0 ,  1 ,  1 ,  1 ,Riven,Irelia,Zoe,Renekton,Galio
+2018.0,summer,LCS_a,3,Golden Guardians Academy,TSM Academy,1.0,33:59,OK,blue,GGSA,   DEFEAT   ,54.7k,3,  5 ,  1 ,  0 ,  1 ,  1 ,Shen,Irelia,Morgana,Alistar,Fiddlesticks
+2018.0,summer,LCS_a,3,Golden Guardians Academy,TSM Academy,1.0,33:59,OK,red,TSMA,   VICTORY   ,58.1k,8,  6 ,  1 ,  0 ,  2 ,  0 ,Zoe,Nocturne,Taliyah,Jayce,Renekton
+2018.0,summer,LCS_a,3,TSM Academy,Echo Fox Academy,1.0,27:30,OK,blue,TSMA,   DEFEAT   ,44.0k,4,  4 ,  0 ,  0 ,  0 ,  1 ,Lucian,Shen,Rakan,Vladimir,Morgana
+2018.0,summer,LCS_a,3,TSM Academy,Echo Fox Academy,1.0,27:30,OK,red,FOXA,   VICTORY   ,55.9k,20,  8 ,  1 ,  1 ,  3 ,  0 ,Nocturne,Taliyah,Swain,Fiddlesticks,Draven
+2018.0,summer,LCS_a,3,Echo Fox Academy,Cloud9 Academy,1.0,28:45,OK,blue,FOXA,   DEFEAT   ,51.0k,13,  5 ,  1 ,  0 ,  2 ,  1 ,Rakan,Taliyah,Braum,Singed,Morgana
+2018.0,summer,LCS_a,3,Echo Fox Academy,Cloud9 Academy,1.0,28:45,OK,red,C9A,   VICTORY   ,57.0k,6,  10 ,  1 ,  1 ,  1 ,  0 ,Nocturne,Irelia,Zoe,Swain,Lulu
+2018.0,summer,LCS_a,3,Cloud9 Academy,OpTic Gaming Academy,1.0,33:31,OK,blue,OPTA,   DEFEAT   ,54.3k,5,  2 ,  0 ,  1 ,  1 ,  1 ,Kayle,Sejuani,Braum,Fiddlesticks,Renekton
+2018.0,summer,LCS_a,3,Cloud9 Academy,OpTic Gaming Academy,1.0,33:31,OK,red,C9A,   VICTORY   ,65.8k,13,  10 ,  3 ,  0 ,  2 ,  0 ,Taliyah,Zoe,Nocturne,Shen,DrMundo
+2018.0,summer,LCS_a,3,OpTic Gaming Academy,CLG Academy,1.0,30:02,OK,blue,OPTA,   VICTORY   ,60.1k,18,  9 ,  1 ,  1 ,  0 ,  0 ,Sejuani,Swain,Soraka,Camille,Ornn
+2018.0,summer,LCS_a,3,OpTic Gaming Academy,CLG Academy,1.0,30:02,OK,red,CLGA,   DEFEAT   ,46.9k,5,  3 ,  0 ,  0 ,  2 ,  1 ,Nocturne,Lucian,Zoe,Aatrox,Jayce
+2018.0,summer,LCS_a,3,CLG Academy,100 Thieves Academy,1.0,33:57,OK,blue,CLGA,   DEFEAT   ,59.8k,13,  6 ,  1 ,  1 ,  0 ,  0 ,Swain,Sejuani,Morgana,Aatrox,Vladimir
+2018.0,summer,LCS_a,3,CLG Academy,100 Thieves Academy,1.0,33:57,OK,red,100A,   VICTORY   ,65.4k,17,  10 ,  1 ,  1 ,  4 ,  1 ,Nocturne,Taliyah,Irelia,Ornn,Kennen
+2018.0,summer,LCS_a,3,100 Thieves Academy,Clutch Gaming Academy,1.0,26:39,OK,blue,100A,   DEFEAT   ,39.0k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Lucian,Kaisa,Morgana,Braum,Ornn
+2018.0,summer,LCS_a,3,100 Thieves Academy,Clutch Gaming Academy,1.0,26:39,OK,red,CGA,   VICTORY   ,55.1k,13,  9 ,  1 ,  1 ,  2 ,  1 ,Nocturne,Taliyah,Swain,Malzahar,Irelia
+2018.0,summer,LCS_a,3,Clutch Gaming Academy,FlyQuest Academy,1.0,35:41,OK,blue,CGA,   VICTORY   ,68.3k,18,  11 ,  3 ,  1 ,  4 ,  1 ,Shen,Swain,Rakan,Braum,Morgana
+2018.0,summer,LCS_a,3,Clutch Gaming Academy,FlyQuest Academy,1.0,35:41,OK,red,FLYA,   DEFEAT   ,58.0k,13,  1 ,  0 ,  1 ,  0 ,  0 ,Taliyah,Nocturne,Aatrox,TahmKench,Soraka
+2018.0,summer,LCS_a,3,FlyQuest Academy,TL Academy,1.0,36:01,OK,blue,FLYA,   VICTORY   ,69.5k,15,  11 ,  3 ,  1 ,  1 ,  0 ,Vladimir,Riven,Rakan,Rumble,Talon
+2018.0,summer,LCS_a,3,FlyQuest Academy,TL Academy,1.0,36:01,OK,red,TLA,   DEFEAT   ,62.0k,5,  4 ,  1 ,  0 ,  2 ,  0 ,Nocturne,Taliyah,Swain,Nidalee,Trundle
+2018.0,summer,LCS_a,3,TL Academy,Golden Guardians Academy,1.0,23:06,OK,blue,TLA,   VICTORY   ,48.3k,14,  8 ,  1 ,  1 ,  2 ,  1 ,Rakan,Lucian,Jayce,Vladimir,Brand
+2018.0,summer,LCS_a,3,TL Academy,Golden Guardians Academy,1.0,23:06,OK,red,GGSA,   DEFEAT   ,36.5k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Taliyah,Riven,Aatrox,Jax
+2018.0,summer,LCS_a,3,Cloud9 Academy,TL Academy,1.0,24:35,OK,blue,C9A,   VICTORY   ,51.1k,15,  7 ,  1 ,  1 ,  0 ,  0 ,Riven,Irelia,Morgana,Swain,Zoe
+2018.0,summer,LCS_a,3,Cloud9 Academy,TL Academy,1.0,24:35,OK,red,TLA,   DEFEAT   ,39.7k,4,  2 ,  0 ,  0 ,  2 ,  1 ,Nocturne,Taliyah,Rakan,Vladimir,Brand
+2018.0,summer,LCS_a,3,CLG Academy,Golden Guardians Academy,1.0,40:46,OK,blue,CLGA,   VICTORY   ,81.6k,20,  6 ,  1 ,  3 ,  1 ,  0 ,Camille,Lucian,Zoe,Kled,Aatrox
+2018.0,summer,LCS_a,3,CLG Academy,Golden Guardians Academy,1.0,40:46,OK,red,GGSA,   DEFEAT   ,71.3k,11,  11 ,  3 ,  0 ,  5 ,  1 ,Nocturne,Taliyah,Irelia,DrMundo,Morgana
+2018.0,summer,LCS_a,3,100 Thieves Academy,FlyQuest Academy,1.0,26:58,OK,blue,100A,   DEFEAT   ,42.3k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Ornn,Sejuani,Zoe,Braum,DrMundo
+2018.0,summer,LCS_a,3,100 Thieves Academy,FlyQuest Academy,1.0,26:58,OK,red,FLYA,   VICTORY   ,53.1k,11,  9 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Nocturne,Rakan,Nunu,Kennen
+2018.0,summer,LCS_a,3,Echo Fox Academy,OpTic Gaming Academy,1.0,27:35,OK,blue,FOXA,   DEFEAT   ,42.5k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Rakan,Braum,Taliyah,Morgana,Lulu
+2018.0,summer,LCS_a,3,Echo Fox Academy,OpTic Gaming Academy,1.0,27:35,OK,red,OPTA,   VICTORY   ,57.1k,12,  11 ,  2 ,  1 ,  2 ,  0 ,Nocturne,Zoe,Irelia,Rumble,TahmKench
+2018.0,summer,LCS_a,3,Clutch Gaming Academy,TSM Academy,1.0,32:25,OK,blue,CGA,   VICTORY   ,63.4k,14,  9 ,  2 ,  1 ,  1 ,  1 ,Swain,Morgana,Taliyah,Fiora,Renekton
+2018.0,summer,LCS_a,3,Clutch Gaming Academy,TSM Academy,1.0,32:25,OK,red,TSMA,   DEFEAT   ,55.6k,9,  5 ,  2 ,  0 ,  2 ,  0 ,Zoe,Nocturne,Xayah,Ryze,
+2018.0,summer,LCS_a,4,TSM Academy,Cloud9 Academy,1.0,42:38,OK,blue,TSMA,   DEFEAT   ,71.1k,6,  4 ,  0 ,  2 ,  1 ,  0 ,Zoe,Swain,Riven,Darius,
+2018.0,summer,LCS_a,4,TSM Academy,Cloud9 Academy,1.0,42:38,OK,red,C9A,   VICTORY   ,77.5k,12,  8 ,  1 ,  1 ,  5 ,  1 ,Aatrox,Nocturne,Rakan,Orianna,Yasuo
+2018.0,summer,LCS_a,4,CLG Academy,FlyQuest Academy,1.0,31:36,OK,blue,CLGA,   VICTORY   ,59.6k,13,  9 ,  1 ,  1 ,  2 ,  0 ,Morgana,Lulu,Zoe,Fiddlesticks,Soraka
+2018.0,summer,LCS_a,4,CLG Academy,FlyQuest Academy,1.0,31:36,OK,red,FLYA,   DEFEAT   ,50.2k,8,  3 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Nocturne,Rakan,Alistar,Gangplank
+2018.0,summer,LCS_a,4,100 Thieves Academy,TL Academy,1.0,42:07,OK,blue,100A,   VICTORY   ,74.8k,13,  9 ,  2 ,  2 ,  3 ,  1 ,Shen,Zoe,Taliyah,Soraka,TahmKench
+2018.0,summer,LCS_a,4,100 Thieves Academy,TL Academy,1.0,42:07,OK,red,TLA,   DEFEAT   ,72.3k,16,  4 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Nocturne,Rakan,Kennen,Renekton
+2018.0,summer,LCS_a,4,Echo Fox Academy,Clutch Gaming Academy,1.0,35:51,OK,blue,FOXA,   DEFEAT   ,56.5k,9,  1 ,  0 ,  0 ,  2 ,  1 ,Pyke,Rakan,Taliyah,Alistar,Ashe
+2018.0,summer,LCS_a,4,Echo Fox Academy,Clutch Gaming Academy,1.0,35:51,OK,red,CGA,   VICTORY   ,67.5k,19,  11 ,  4 ,  2 ,  2 ,  0 ,Nocturne,Zoe,Aatrox,Galio,Fiddlesticks
+2018.0,summer,LCS_a,4,OpTic Gaming Academy,Golden Guardians Academy,1.0,26:00,OK,blue,OPTA,   VICTORY   ,55.4k,21,  11 ,  2 ,  1 ,  3 ,  1 ,Heimerdinger,Morgana,Aatrox,Kennen,Darius
+2018.0,summer,LCS_a,4,OpTic Gaming Academy,Golden Guardians Academy,1.0,26:00,OK,red,GGSA,   DEFEAT   ,41.5k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Taliyah,Zoe,Ornn,DrMundo
+2018.0,summer,LCS_a,4,FlyQuest Academy,OpTic Gaming Academy,1.0,27:29,OK,blue,FLYA,   VICTORY   ,52.9k,14,  11 ,  3 ,  1 ,  2 ,  0 ,Morgana,Taliyah,Zoe,Camille,Gragas
+2018.0,summer,LCS_a,4,FlyQuest Academy,OpTic Gaming Academy,1.0,27:29,OK,red,OPTA,   DEFEAT   ,40.8k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Nocturne,Kindred,DrMundo,XinZhao
+2018.0,summer,LCS_a,4,Clutch Gaming Academy,Cloud9 Academy,1.0,38:58,OK,blue,CGA,   DEFEAT   ,65.2k,10,  6 ,  0 ,  1 ,  2 ,  1 ,Swain,Kindred,Taliyah,Riven,Darius
+2018.0,summer,LCS_a,4,Clutch Gaming Academy,Cloud9 Academy,1.0,38:58,OK,red,C9A,   VICTORY   ,71.5k,14,  9 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Rakan,Nocturne,Ashe,Heimerdinger
+2018.0,summer,LCS_a,4,TSM Academy,100 Thieves Academy,1.0,31:28,OK,blue,TSMA,   DEFEAT   ,44.8k,3,  1 ,  0 ,  0 ,  1 ,  1 ,Zoe,Lulu,Taliyah,Kennen,Gragas
+2018.0,summer,LCS_a,4,TSM Academy,100 Thieves Academy,1.0,31:28,OK,red,100A,   VICTORY   ,66.4k,17,  11 ,  2 ,  1 ,  2 ,  0 ,Nocturne,Aatrox,Rakan,Fiddlesticks,Ryze
+2018.0,summer,LCS_a,4,Golden Guardians Academy,Echo Fox Academy,1.0,35:44,OK,blue,GGSA,   VICTORY   ,67.8k,16,  10 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Kindred,Rakan,Talon,Irelia
+2018.0,summer,LCS_a,4,Golden Guardians Academy,Echo Fox Academy,1.0,35:44,OK,red,FOXA,   DEFEAT   ,58.9k,10,  5 ,  0 ,  1 ,  1 ,  1 ,Nocturne,Taliyah,Jayce,Kennen,Alistar
+2018.0,summer,LCS_a,4,TL Academy,CLG Academy,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2018.0,summer,LCS_a,5,Golden Guardians Academy,TL Academy,1.0,28:13,OK,blue,GGSA,   DEFEAT   ,43.2k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Morgana,Rakan,Taliyah,Darius,Riven
+2018.0,summer,LCS_a,5,Golden Guardians Academy,TL Academy,1.0,28:13,OK,red,TLA,   VICTORY   ,59.9k,25,  10 ,  2 ,  1 ,  3 ,  1 ,Aatrox,Zoe,Alistar,Vladimir,Heimerdinger
+2018.0,summer,LCS_a,5,TL Academy,FlyQuest Academy,1.0,,AttributeError,,,,,,,,,,,,,,,
+2018.0,summer,LCS_a,5,FlyQuest Academy,Clutch Gaming Academy,1.0,41:02,OK,blue,FLYA,   DEFEAT   ,65.4k,6,  4 ,  0 ,  1 ,  3 ,  0 ,Morgana,Taliyah,Ryze,Jhin,Varus
+2018.0,summer,LCS_a,5,FlyQuest Academy,Clutch Gaming Academy,1.0,41:02,OK,red,CGA,   VICTORY   ,69.8k,13,  8 ,  1 ,  0 ,  2 ,  1 ,Nocturne,Aatrox,Swain,Olaf,Trundle
+2018.0,summer,LCS_a,5,Clutch Gaming Academy,100 Thieves Academy,1.0,38:16,OK,blue,CGA,   VICTORY   ,72.4k,22,  9 ,  1 ,  1 ,  3 ,  1 ,Morgana,Kindred,Rakan,Kennen,Gnar
+2018.0,summer,LCS_a,5,Clutch Gaming Academy,100 Thieves Academy,1.0,38:16,OK,red,100A,   DEFEAT   ,64.3k,9,  3 ,  0 ,  1 ,  1 ,  0 ,Nocturne,Aatrox,Zoe,DrMundo,Talon
+2018.0,summer,LCS_a,5,100 Thieves Academy,CLG Academy,1.0,33:57,OK,blue,100A,   VICTORY   ,64.3k,14,  11 ,  3 ,  1 ,  3 ,  1 ,Braum,Rakan,Zoe,Orianna,Irelia
+2018.0,summer,LCS_a,5,100 Thieves Academy,CLG Academy,1.0,33:57,OK,red,CLGA,   DEFEAT   ,54.8k,10,  3 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Talon,Nocturne,Ezreal,Kindred
+2018.0,summer,LCS_a,5,CLG Academy,OpTic Gaming Academy,1.0,30:36,OK,blue,CLGA,   VICTORY   ,57.6k,20,  10 ,  2 ,  1 ,  2 ,  0 ,Swain,Zoe,Rakan,Pyke,Shen
+2018.0,summer,LCS_a,5,CLG Academy,OpTic Gaming Academy,1.0,30:36,OK,red,OPTA,   DEFEAT   ,46.8k,9,  4 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Graves,Nocturne,Camille,Taliyah
+2018.0,summer,LCS_a,5,OpTic Gaming Academy,Cloud9 Academy,1.0,36:35,OK,blue,OPTA,   DEFEAT   ,56.5k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Zoe,TahmKench,Darius,Gnar
+2018.0,summer,LCS_a,5,OpTic Gaming Academy,Cloud9 Academy,1.0,36:35,OK,red,C9A,   VICTORY   ,73.2k,22,  11 ,  4 ,  2 ,  2 ,  1 ,Aatrox,Nocturne,Kindred,Trundle,Lulu
+2018.0,summer,LCS_a,5,Cloud9 Academy,Echo Fox Academy,1.0,29:28,OK,blue,C9A,   VICTORY   ,57.2k,14,  11 ,  3 ,  1 ,  1 ,  1 ,Morgana,Swain,Heimerdinger,Gnar,Darius
+2018.0,summer,LCS_a,5,Cloud9 Academy,Echo Fox Academy,1.0,29:28,OK,red,FOXA,   DEFEAT   ,44.5k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Kindred,Aatrox,Nocturne,Yasuo,Talon
+2018.0,summer,LCS_a,5,Echo Fox Academy,TSM Academy,1.0,34:24,OK,blue,FOXA,   DEFEAT   ,59.9k,8,  9 ,  2 ,  1 ,  1 ,  0 ,Swain,Kindred,Taliyah,Trundle,Skarner
+2018.0,summer,LCS_a,5,Echo Fox Academy,TSM Academy,1.0,34:24,OK,red,TSMA,   VICTORY   ,61.3k,11,  8 ,  1 ,  0 ,  2 ,  1 ,Aatrox,Nocturne,Morgana,Varus,DrMundo
+2018.0,summer,LCS_a,5,TSM Academy,Golden Guardians Academy,1.0,46:50,OK,blue,TSMA,   VICTORY   ,84.6k,9,  10 ,  2 ,  2 ,  3 ,  1 ,Zoe,TahmKench,Taliyah,Darius,XinZhao
+2018.0,summer,LCS_a,5,TSM Academy,Golden Guardians Academy,1.0,46:50,OK,red,GGSA,   DEFEAT   ,83.0k,14,  5 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Nocturne,Kindred,Fiddlesticks,Sejuani
+2018.0,summer,LCS_a,5,TL Academy,Cloud9 Academy,1.0,34:32,OK,blue,TLA,   DEFEAT   ,60.5k,10,  6 ,  0 ,  1 ,  3 ,  0 ,Morgana,Zoe,Alistar,Fiora,Taliyah
+2018.0,summer,LCS_a,5,TL Academy,Cloud9 Academy,1.0,34:32,OK,red,C9A,   VICTORY   ,67.8k,23,  10 ,  2 ,  1 ,  1 ,  1 ,Nocturne,Aatrox,Kennen,Talon,Galio
+2018.0,summer,LCS_a,5,Golden Guardians Academy,CLG Academy,1.0,34:36,OK,blue,GGSA,   DEFEAT   ,56.0k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Morgana,Rakan,Yasuo,Graves,Camille
+2018.0,summer,LCS_a,5,Golden Guardians Academy,CLG Academy,1.0,34:36,OK,red,CLGA,   VICTORY   ,65.5k,20,  9 ,  2 ,  0 ,  3 ,  1 ,Nocturne,Taliyah,Aatrox,Darius,Gnar
+2018.0,summer,LCS_a,5,FlyQuest Academy,100 Thieves Academy,1.0,35:34,OK,blue,FLYA,   VICTORY   ,64.9k,17,  7 ,  1 ,  1 ,  3 ,  1 ,Talon,Taliyah,Kindred,Yasuo,Gangplank
+2018.0,summer,LCS_a,5,FlyQuest Academy,100 Thieves Academy,1.0,35:34,OK,red,100A,   DEFEAT   ,55.6k,9,  3 ,  0 ,  0 ,  1 ,  0 ,Nocturne,Aatrox,Zoe,DrMundo,AurelionSol
+2018.0,summer,LCS_a,5,OpTic Gaming Academy,Echo Fox Academy,1.0,37:30,OK,blue,OPTA,   DEFEAT   ,59.3k,11,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,DrMundo,TahmKench,Talon,Darius
+2018.0,summer,LCS_a,5,OpTic Gaming Academy,Echo Fox Academy,1.0,37:30,OK,red,FOXA,   VICTORY   ,73.3k,16,  11 ,  5 ,  2 ,  4 ,  1 ,Aatrox,Nocturne,Kindred,Kled,Orianna
+2018.0,summer,LCS_a,5,TSM Academy,Clutch Gaming Academy,1.0,35:37,OK,blue,TSMA,   VICTORY   ,63.8k,13,  8 ,  1 ,  0 ,  4 ,  1 ,Zoe,Kindred,Taliyah,TahmKench,Fiddlesticks
+2018.0,summer,LCS_a,5,TSM Academy,Clutch Gaming Academy,1.0,35:37,OK,red,CGA,   DEFEAT   ,55.0k,1,  4 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Aatrox,Heimerdinger,Trundle,Sejuani
+2018.0,summer,LCS_a,6,TSM Academy,CLG Academy,1.0,33:07,OK,blue,TSMA,   DEFEAT   ,47.6k,4,  1 ,  0 ,  0 ,  2 ,  1 ,Zoe,TahmKench,Taliyah,Fiddlesticks,Nami
+2018.0,summer,LCS_a,6,TSM Academy,CLG Academy,1.0,33:07,OK,red,CLGA,   VICTORY   ,58.3k,10,  9 ,  1 ,  1 ,  1 ,  0 ,Nocturne,Aatrox,Kindred,Graves,Gragas
+2018.0,summer,LCS_a,6,Echo Fox Academy,TL Academy,1.0,41:11,OK,blue,FOXA,   VICTORY   ,77.9k,18,  10 ,  3 ,  2 ,  3 ,  0 ,Riven,Pyke,Kindred,Morgana,TwistedFate
+2018.0,summer,LCS_a,6,Echo Fox Academy,TL Academy,1.0,41:11,OK,red,TLA,   DEFEAT   ,68.4k,6,  4 ,  0 ,  1 ,  2 ,  1 ,Zoe,Taliyah,Nocturne,Poppy,Jhin
+2018.0,summer,LCS_a,6,Cloud9 Academy,FlyQuest Academy,1.0,28:58,OK,blue,C9A,   VICTORY   ,56.0k,16,  10 ,  2 ,  1 ,  2 ,  1 ,Morgana,Kindred,Varus,Xayah,Lucian
+2018.0,summer,LCS_a,6,Cloud9 Academy,FlyQuest Academy,1.0,28:58,OK,red,FLYA,   DEFEAT   ,41.3k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Nocturne,Swain,Graves,Taliyah
+2018.0,summer,LCS_a,6,OpTic Gaming Academy,100 Thieves Academy,1.0,38:05,OK,blue,OPTA,   DEFEAT   ,64.0k,12,  3 ,  0 ,  0 ,  2 ,  0 ,Morgana,Graves,Taliyah,Rumble,Varus
+2018.0,summer,LCS_a,6,OpTic Gaming Academy,100 Thieves Academy,1.0,38:05,OK,red,100A,   VICTORY   ,74.4k,11,  11 ,  2 ,  2 ,  2 ,  1 ,Aatrox,Nocturne,Zoe,Syndra,Lucian
+2018.0,summer,LCS_a,6,Golden Guardians Academy,Clutch Gaming Academy,1.0,37:05,OK,blue,GGSA,   DEFEAT   ,58.1k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Morgana,Rakan,Taliyah,Darius,Lucian
+2018.0,summer,LCS_a,6,Golden Guardians Academy,Clutch Gaming Academy,1.0,37:05,OK,red,CGA,   VICTORY   ,72.6k,14,  11 ,  3 ,  2 ,  4 ,  0 ,Aatrox,Nocturne,Zoe,Jayce,Gangplank
+2018.0,summer,LCS_a,6,FlyQuest Academy,Echo Fox Academy,1.0,47:24,OK,blue,FLYA,   VICTORY   ,89.1k,29,  11 ,  3 ,  2 ,  2 ,  0 ,TahmKench,Fiddlesticks,Nocturne,Alistar,DrMundo
+2018.0,summer,LCS_a,6,FlyQuest Academy,Echo Fox Academy,1.0,47:24,OK,red,FOXA,   DEFEAT   ,78.4k,15,  3 ,  0 ,  1 ,  4 ,  1 ,Aatrox,Swain,Morgana,Yasuo,Orianna
+2018.0,summer,LCS_a,6,CLG Academy,Cloud9 Academy,1.0,31:22,OK,blue,CLGA,   DEFEAT   ,46.8k,3,  3 ,  0 ,  0 ,  2 ,  0 ,Morgana,Swain,Taliyah,Aatrox,Gangplank
+2018.0,summer,LCS_a,6,CLG Academy,Cloud9 Academy,1.0,31:22,OK,red,C9A,   VICTORY   ,61.4k,13,  11 ,  3 ,  1 ,  1 ,  1 ,Nocturne,Rakan,DrMundo,Varus,Rumble
+2018.0,summer,LCS_a,6,100 Thieves Academy,Golden Guardians Academy,1.0,32:30,OK,blue,100A,   VICTORY   ,60.8k,17,  8 ,  1 ,  0 ,  3 ,  0 ,Morgana,Swain,Zoe,Braum,Shen
+2018.0,summer,LCS_a,6,100 Thieves Academy,Golden Guardians Academy,1.0,32:30,OK,red,GGSA,   DEFEAT   ,52.3k,5,  2 ,  0 ,  1 ,  1 ,  1 ,Aatrox,Nocturne,Taliyah,Graves,Trundle
+2018.0,summer,LCS_a,6,Clutch Gaming Academy,OpTic Gaming Academy,1.0,47:26,OK,blue,CGA,   VICTORY   ,87.8k,21,  10 ,  2 ,  1 ,  3 ,  0 ,Swain,Taliyah,Trundle,DrMundo,Braum
+2018.0,summer,LCS_a,6,Clutch Gaming Academy,OpTic Gaming Academy,1.0,47:26,OK,red,OPTA,   DEFEAT   ,79.2k,16,  3 ,  0 ,  3 ,  2 ,  1 ,Nocturne,Morgana,Varus,Graves,Ashe
+2018.0,summer,LCS_a,6,TL Academy,TSM Academy,1.0,33:23,OK,blue,TLA,   VICTORY   ,64.8k,14,  11 ,  3 ,  1 ,  1 ,  0 ,Zoe,Morgana,Rakan,Yasuo,Orianna
+2018.0,summer,LCS_a,6,TL Academy,TSM Academy,1.0,33:23,OK,red,TSMA,   DEFEAT   ,52.1k,6,  1 ,  0 ,  0 ,  2 ,  1 ,Nocturne,Taliyah,Aatrox,Riven,Gangplank
+2018.0,summer,LCS_a,7,Cloud9 Academy,100 Thieves Academy,1.0,,AttributeError,,,,,,,,,,,,,,,
+2018.0,summer,LCS_a,7,TSM Academy,OpTic Gaming Academy,1.0,39:32,OK,blue,TSMA,   VICTORY   ,78.3k,13,  11 ,  5 ,  2 ,  4 ,  1 ,Morgana,Yasuo,Trundle,Orianna,Chogath
+2018.0,summer,LCS_a,7,TSM Academy,OpTic Gaming Academy,1.0,39:32,OK,red,OPTA,   DEFEAT   ,65.8k,6,  4 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Nocturne,Swain,Vladimir,Varus
+2018.0,summer,LCS_a,7,FlyQuest Academy,Golden Guardians Academy,1.0,46:13,OK,blue,FLYA,   VICTORY   ,90.4k,16,  10 ,  2 ,  3 ,  4 ,  0 ,Swain,Zoe,Kindred,Leblanc,Jayce
+2018.0,summer,LCS_a,7,FlyQuest Academy,Golden Guardians Academy,1.0,46:13,OK,red,GGSA,   DEFEAT   ,70.9k,7,  3 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Nocturne,Taliyah,Soraka,Braum
+2018.0,summer,LCS_a,7,Clutch Gaming Academy,TL Academy,1.0,30:39,OK,blue,CGA,   VICTORY   ,58.0k,15,  8 ,  1 ,  1 ,  3 ,  1 ,Riven,Kindred,Varus,Pyke,Kennen
+2018.0,summer,LCS_a,7,Clutch Gaming Academy,TL Academy,1.0,30:39,OK,red,TLA,   DEFEAT   ,51.7k,13,  4 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Orianna,Gnar,Graves
+2018.0,summer,LCS_a,7,Echo Fox Academy,CLG Academy,1.0,40:27,OK,blue,FOXA,   DEFEAT   ,64.1k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Trundle,DrMundo,Morgana,Kennen,Rumble
+2018.0,summer,LCS_a,7,Echo Fox Academy,CLG Academy,1.0,40:27,OK,red,CLGA,   VICTORY   ,75.3k,16,  11 ,  2 ,  2 ,  4 ,  1 ,Aatrox,Nocturne,Kindred,Graves,Taliyah
+2018.0,summer,LCS_a,7,Golden Guardians Academy,Cloud9 Academy,1.0,27:32,OK,blue,GGSA,   VICTORY   ,56.7k,21,  10 ,  2 ,  1 ,  3 ,  1 ,Taliyah,Yasuo,Morgana,Varus,Ezreal
+2018.0,summer,LCS_a,7,Golden Guardians Academy,Cloud9 Academy,1.0,27:32,OK,red,C9A,   DEFEAT   ,43.7k,4,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Kindred,Trundle,Rumble
+2018.0,summer,LCS_a,7,CLG Academy,Clutch Gaming Academy,1.0,26:30,OK,blue,CLGA,   VICTORY   ,55.6k,22,  9 ,  2 ,  1 ,  2 ,  1 ,Ryze,Zoe,Kindred,Braum,Alistar
+2018.0,summer,LCS_a,7,CLG Academy,Clutch Gaming Academy,1.0,26:30,OK,red,CGA,   DEFEAT   ,39.6k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Trundle,Kennen,Brand
+2018.0,summer,LCS_a,7,TSM Academy,FlyQuest Academy,1.0,43:13,OK,blue,TSMA,   VICTORY   ,81.7k,22,  9 ,  2 ,  0 ,  2 ,  0 ,Morgana,Varus,Trundle,DrMundo,Gnar
+2018.0,summer,LCS_a,7,TSM Academy,FlyQuest Academy,1.0,43:13,OK,red,FLYA,   DEFEAT   ,76.1k,17,  5 ,  0 ,  2 ,  2 ,  1 ,Aatrox,Zoe,Swain,Camille,Kennen
+2018.0,summer,LCS_a,7,100 Thieves Academy,Echo Fox Academy,1.0,25:21,OK,blue,100A,   VICTORY   ,55.5k,18,  11 ,  3 ,  1 ,  2 ,  1 ,Yasuo,Zoe,Nocturne,AurelionSol,Ahri
+2018.0,summer,LCS_a,7,100 Thieves Academy,Echo Fox Academy,1.0,25:21,OK,red,FOXA,   DEFEAT   ,38.4k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Morgana,Trundle,Rumble,DrMundo
+2018.0,summer,LCS_a,7,TL Academy,OpTic Gaming Academy,1.0,33:53,OK,blue,TLA,   VICTORY   ,69.2k,18,  11 ,  4 ,  2 ,  3 ,  1 ,Alistar,Taliyah,Swain,Yasuo,Orianna
+2018.0,summer,LCS_a,7,TL Academy,OpTic Gaming Academy,1.0,33:53,OK,red,OPTA,   DEFEAT   ,53.1k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Riven,Nocturne,Morgana,Ezreal
+2018.0,summer,LCS_a,8,TSM Academy,Cloud9 Academy,1.0,36:35,OK,blue,TSMA,   DEFEAT   ,59.5k,8,  4 ,  0 ,  1 ,  3 ,  1 ,Morgana,LeeSin,Yasuo,Riven,Ryze
+2018.0,summer,LCS_a,8,TSM Academy,Cloud9 Academy,1.0,36:35,OK,red,C9A,   VICTORY   ,65.4k,15,  7 ,  1 ,  1 ,  1 ,  0 ,Nocturne,Aatrox,Xayah,Varus,Ashe
+2018.0,summer,LCS_a,8,FlyQuest Academy,CLG Academy,1.0,36:31,OK,blue,FLYA,   VICTORY   ,69.6k,18,  10 ,  2 ,  2 ,  3 ,  1 ,TahmKench,Syndra,Yasuo,Graves,Trundle
+2018.0,summer,LCS_a,8,FlyQuest Academy,CLG Academy,1.0,36:31,OK,red,CLGA,   DEFEAT   ,55.7k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Akali,Kindred,Galio,Lulu
+2018.0,summer,LCS_a,8,TL Academy,100 Thieves Academy,1.0,40:34,OK,blue,TLA,   VICTORY   ,75.1k,19,  10 ,  2 ,  1 ,  2 ,  0 ,Alistar,Akali,LeeSin,Camille,Ryze
+2018.0,summer,LCS_a,8,TL Academy,100 Thieves Academy,1.0,40:34,OK,red,100A,   DEFEAT   ,69.1k,17,  5 ,  1 ,  1 ,  2 ,  1 ,Nocturne,Aatrox,Fizz,Kaisa,Irelia
+2018.0,summer,LCS_a,8,Clutch Gaming Academy,Echo Fox Academy,1.0,39:55,OK,blue,CGA,   VICTORY   ,71.5k,13,  9 ,  2 ,  1 ,  1 ,  1 ,Yasuo,Zoe,Nocturne,Caitlyn,Jhin
+2018.0,summer,LCS_a,8,Clutch Gaming Academy,Echo Fox Academy,1.0,39:55,OK,red,FOXA,   DEFEAT   ,61.6k,5,  3 ,  0 ,  0 ,  3 ,  0 ,Aatrox,Akali,Varus,Ezreal,Lucian
+2018.0,summer,LCS_a,8,Golden Guardians Academy,OpTic Gaming Academy,1.0,29:55,OK,blue,GGSA,   VICTORY   ,62.5k,24,  11 ,  3 ,  1 ,  2 ,  0 ,Yasuo,Morgana,Taliyah,Yorick,Gragas
+2018.0,summer,LCS_a,8,Golden Guardians Academy,OpTic Gaming Academy,1.0,29:55,OK,red,OPTA,   DEFEAT   ,47.4k,10,  2 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Xayah,Galio,Gangplank
+2018.0,summer,LCS_a,8,Cloud9 Academy,Clutch Gaming Academy,1.0,38:37,OK,blue,C9A,   VICTORY   ,74.0k,12,  11 ,  3 ,  1 ,  1 ,  0 ,Morgana,TahmKench,Braum,Ryze,Kindred
+2018.0,summer,LCS_a,8,Cloud9 Academy,Clutch Gaming Academy,1.0,38:37,OK,red,CGA,   DEFEAT   ,61.2k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Nocturne,Rakan,Varus,Graves,Trundle
+2018.0,summer,LCS_a,8,CLG Academy,TL Academy,1.0,41:12,OK,blue,CLGA,   DEFEAT   ,69.3k,15,  3 ,  0 ,  0 ,  1 ,  0 ,Ryze,Kennen,Rakan,Riven,Pyke
+2018.0,summer,LCS_a,8,CLG Academy,TL Academy,1.0,41:12,OK,red,TLA,   VICTORY   ,79.8k,21,  9 ,  2 ,  2 ,  4 ,  1 ,Aatrox,Nocturne,Yasuo,Kaisa,Ashe
+2018.0,summer,LCS_a,8,100 Thieves Academy,TSM Academy,1.0,25:58,OK,blue,100A,   VICTORY   ,52.7k,15,  9 ,  1 ,  1 ,  2 ,  1 ,Akali,Swain,Pyke,Kindred,Camille
+2018.0,summer,LCS_a,8,100 Thieves Academy,TSM Academy,1.0,25:58,OK,red,TSMA,   DEFEAT   ,39.6k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Rakan,Varus,Jhin
+2018.0,summer,LCS_a,8,Echo Fox Academy,Golden Guardians Academy,1.0,37:00,OK,blue,FOXA,   VICTORY   ,70.4k,11,  11 ,  3 ,  2 ,  3 ,  0 ,Leblanc,Braum,TahmKench,Varus,Zoe
+2018.0,summer,LCS_a,8,Echo Fox Academy,Golden Guardians Academy,1.0,37:00,OK,red,GGSA,   DEFEAT   ,63.5k,15,  5 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Yasuo,Akali,Poppy,Kennen
+2018.0,summer,LCS_a,8,OpTic Gaming Academy,FlyQuest Academy,1.0,40:25,OK,blue,OPTA,   DEFEAT   ,65.4k,14,  4 ,  0 ,  0 ,  1 ,  0 ,Varus,Rakan,Galio,Ashe,Kaisa
+2018.0,summer,LCS_a,8,OpTic Gaming Academy,FlyQuest Academy,1.0,40:25,OK,red,FLYA,   VICTORY   ,77.0k,19,  10 ,  3 ,  2 ,  4 ,  1 ,Aatrox,Nocturne,TahmKench,Caitlyn,Swain

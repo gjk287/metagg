@@ -1,0 +1,132 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,CBLOL,1,INTZ,Vivo Keyd,1.0,35:48,OK,blue,ITZ,   DERROTA   ,60.6 mil,7,  5 ,  0 ,  0 ,  0 ,  0 ,Malzahar,Shen,Alistar,TahmKench,Gnar
+2018.0,spring,CBLOL,1,INTZ,Vivo Keyd,1.0,35:48,OK,red,VK,   VITÓRIA   ,69.4 mil,19,  7 ,  1 ,  1 ,  3 ,  0 ,Camille,Kalista,Braum,Vladimir,Illaoi
+2018.0,spring,CBLOL,1,INTZ,Vivo Keyd,2.0,28:42,OK,blue,VK,   VITÓRIA   ,61.5 mil,15,  11 ,  3 ,  1 ,  3 ,  0 ,Camille,Ornn,Alistar,Vladimir,Braum
+2018.0,spring,CBLOL,1,INTZ,Vivo Keyd,2.0,28:42,OK,red,ITZ,   DERROTA   ,43.1 mil,2,  0 ,  0 ,  0 ,  0 ,  0 ,Malzahar,Shen,Ezreal,Khazix,Sejuani
+2018.0,spring,CBLOL,1,CNB,Kabum,1.0,32:15,OK,blue,CNB,   DERROTA   ,51.9 mil,9,  3 ,  0 ,  0 ,  2 ,  1 ,Camille,Zoe,Braum,Khazix,Alistar
+2018.0,spring,CBLOL,1,CNB,Kabum,1.0,32:15,OK,red,KBM,   VITÓRIA   ,63.6 mil,12,  8 ,  1 ,  1 ,  2 ,  0 ,Sejuani,Shen,Kalista,Tristana,Varus
+2018.0,spring,CBLOL,1,CNB,Kabum,2.0,30:39,OK,blue,KBM,   VITÓRIA   ,63.4 mil,11,  11 ,  2 ,  1 ,  2 ,  1 ,Sejuani,Shen,Kalista,Karma,Taric
+2018.0,spring,CBLOL,1,CNB,Kabum,2.0,30:39,OK,red,CNB,   DERROTA   ,48.4 mil,5,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Camille,Vladimir,Khazix,XinZhao
+2018.0,spring,CBLOL,1,PAIN,Team oNe,1.0,46:09,OK,blue,PNG,   VITÓRIA   ,87.8 mil,16,  11 ,  5 ,  2 ,  1 ,  0 ,Gangplank,Shen,KogMaw,Illaoi,Kassadin
+2018.0,spring,CBLOL,1,PAIN,Team oNe,1.0,46:09,OK,red,ONE,   DERROTA   ,80.0 mil,6,  2 ,  0 ,  0 ,  5 ,  1 ,TahmKench,Zoe,Ryze,Trundle,Sivir
+2018.0,spring,CBLOL,1,PAIN,Team oNe,2.0,34:02,OK,blue,ONE,   DERROTA   ,59.8 mil,7,  2 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Zoe,Ryze,Vladimir,Tristana
+2018.0,spring,CBLOL,1,PAIN,Team oNe,2.0,34:02,OK,red,PNG,   VITÓRIA   ,64.1 mil,11,  11 ,  4 ,  1 ,  3 ,  1 ,Gangplank,KogMaw,Azir,Orianna,Zilean
+2018.0,spring,CBLOL,1,RED Canids,ProGaming Esports,1.0,30:47,OK,blue,RED,   VITÓRIA   ,64.0 mil,9,  9 ,  1 ,  2 ,  1 ,  1 ,Ornn,Camille,TahmKench,Jayce,Alistar
+2018.0,spring,CBLOL,1,RED Canids,ProGaming Esports,1.0,30:47,OK,red,PRG,   DERROTA   ,49.5 mil,0,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,KogMaw,Shen,Ryze,Malzahar
+2018.0,spring,CBLOL,1,RED Canids,ProGaming Esports,2.0,34:29,OK,blue,PRG,   VITÓRIA   ,70.4 mil,15,  11 ,  3 ,  2 ,  2 ,  0 ,Shen,Braum,Ryze,Malzahar,Cassiopeia
+2018.0,spring,CBLOL,1,RED Canids,ProGaming Esports,2.0,34:29,OK,red,RED,   DERROTA   ,56.8 mil,3,  1 ,  0 ,  0 ,  1 ,  0 ,KogMaw,Ezreal,Kalista,Janna,Jayce
+2018.0,spring,CBLOL,1,RED Canids,ProGaming Esports,3.0,44:04,OK,blue,RED,   VITÓRIA   ,79.9 mil,15,  9 ,  1 ,  1 ,  4 ,  0 ,Evelynn,Ornn,Kalista,JarvanIV,Camille
+2018.0,spring,CBLOL,1,RED Canids,ProGaming Esports,3.0,44:04,OK,red,PRG,   DERROTA   ,76.1 mil,15,  6 ,  1 ,  1 ,  1 ,  1 ,Shen,Braum,Azir,Cassiopeia,Ryze
+2018.0,spring,CBLOL,2,RED Canids,CNB,1.0,37:04,OK,blue,RED,   VITÓRIA   ,78.2 mil,24,  11 ,  3 ,  2 ,  2 ,  1 ,Ornn,KogMaw,TahmKench,Varus,Tristana
+2018.0,spring,CBLOL,2,RED Canids,CNB,1.0,37:04,OK,red,CNB,   DERROTA   ,64.3 mil,12,  4 ,  0 ,  0 ,  2 ,  0 ,Jayce,Azir,Shen,Cassiopeia,Ryze
+2018.0,spring,CBLOL,2,RED Canids,CNB,2.0,27:51,OK,blue,CNB,   DERROTA   ,44.1 mil,5,  2 ,  0 ,  0 ,  0 ,  0 ,Jayce,Camille,Azir,Chogath,Gnar
+2018.0,spring,CBLOL,2,RED Canids,CNB,2.0,27:51,OK,red,RED,   VITÓRIA   ,61.0 mil,14,  10 ,  1 ,  1 ,  2 ,  1 ,Kalista,KogMaw,Shen,Cassiopeia,Malzahar
+2018.0,spring,CBLOL,2,Team oNe,INTZ,1.0,27:45,OK,blue,ONE,   DERROTA   ,47.4 mil,3,  1 ,  0 ,  0 ,  0 ,  0 ,Jayce,Zoe,Braum,Ornn,Camille
+2018.0,spring,CBLOL,2,Team oNe,INTZ,1.0,27:45,OK,red,ITZ,   VITÓRIA   ,56.1 mil,11,  8 ,  1 ,  1 ,  2 ,  0 ,Cassiopeia,Azir,Kalista,KogMaw,Sivir
+2018.0,spring,CBLOL,2,Team oNe,INTZ,2.0,53:35,OK,blue,ITZ,   DERROTA   ,104.4 mil,29,  7 ,  1 ,  2 ,  1 ,  1 ,Malzahar,Sejuani,TahmKench,Taric,Braum
+2018.0,spring,CBLOL,2,Team oNe,INTZ,2.0,53:35,OK,red,ONE,   VITÓRIA   ,106.4 mil,17,  11 ,  8 ,  2 ,  5 ,  0 ,Jayce,Zoe,Camille,Zac,Illaoi
+2018.0,spring,CBLOL,2,Team oNe,INTZ,3.0,35:12,OK,blue,ONE,   VITÓRIA   ,68.7 mil,13,  11 ,  3 ,  1 ,  2 ,  0 ,Jayce,Zoe,Camille,Ryze,Illaoi
+2018.0,spring,CBLOL,2,Team oNe,INTZ,3.0,35:12,OK,red,ITZ,   DERROTA   ,57.6 mil,5,  0 ,  0 ,  0 ,  1 ,  1 ,Malzahar,Azir,Tristana,Gangplank,Orianna
+2018.0,spring,CBLOL,2,Vivo Keyd,ProGaming Esports,1.0,32:38,OK,blue,VK,   DERROTA   ,52.5 mil,1,  1 ,  0 ,  0 ,  0 ,  1 ,Evelynn,Camille,Sejuani,Sivir,Varus
+2018.0,spring,CBLOL,2,Vivo Keyd,ProGaming Esports,1.0,32:38,OK,red,PRG,   VITÓRIA   ,60.0 mil,9,  11 ,  5 ,  1 ,  4 ,  0 ,Kalista,KogMaw,Azir,Gnar,Gangplank
+2018.0,spring,CBLOL,2,Vivo Keyd,ProGaming Esports,2.0,28:33,OK,blue,PRG,   VITÓRIA   ,57.3 mil,15,  10 ,  2 ,  1 ,  0 ,  1 ,Cassiopeia,KogMaw,Ryze,Gnar,Gangplank
+2018.0,spring,CBLOL,2,Vivo Keyd,ProGaming Esports,2.0,28:33,OK,red,VK,   DERROTA   ,47.5 mil,4,  3 ,  0 ,  0 ,  2 ,  0 ,Evelynn,Kalista,Camille,JarvanIV,Jax
+2018.0,spring,CBLOL,2,Kabum,PAIN,1.0,33:04,OK,blue,KBM,   VITÓRIA   ,69.2 mil,15,  8 ,  1 ,  2 ,  2 ,  1 ,Camille,Ezreal,Galio,Tristana,KogMaw
+2018.0,spring,CBLOL,2,Kabum,PAIN,1.0,33:04,OK,red,PNG,   DERROTA   ,53.6 mil,5,  1 ,  0 ,  0 ,  1 ,  0 ,Jax,Azir,TahmKench,Zoe,Cassiopeia
+2018.0,spring,CBLOL,2,Kabum,PAIN,2.0,33:58,OK,blue,PNG,   VITÓRIA   ,65.1 mil,11,  7 ,  1 ,  1 ,  2 ,  0 ,Zoe,Vladimir,Shen,Gnar,Gangplank
+2018.0,spring,CBLOL,2,Kabum,PAIN,2.0,33:58,OK,red,KBM,   DERROTA   ,58.8 mil,1,  4 ,  0 ,  1 ,  1 ,  1 ,Azir,Camille,Kalista,Evelynn,Zac
+2018.0,spring,CBLOL,2,Kabum,PAIN,3.0,29:56,OK,blue,KBM,   VITÓRIA   ,65.0 mil,7,  10 ,  2 ,  2 ,  4 ,  1 ,Camille,Ezreal,Sejuani,Jayce,Orianna
+2018.0,spring,CBLOL,2,Kabum,PAIN,3.0,29:56,OK,red,PNG,   DERROTA   ,47.9 mil,1,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,Vladimir,TahmKench,Braum,XinZhao
+2018.0,spring,CBLOL,3,CNB,PAIN,1.0,39:57,OK,blue,CNB,   VITÓRIA   ,71.1 mil,8,  9 ,  1 ,  1 ,  0 ,  0 ,Camille,Khazix,Azir,Varus,Caitlyn
+2018.0,spring,CBLOL,3,CNB,PAIN,1.0,39:57,OK,red,PNG,   DERROTA   ,69.9 mil,14,  5 ,  0 ,  1 ,  3 ,  1 ,Kalista,KogMaw,Sejuani,Cassiopeia,Taliyah
+2018.0,spring,CBLOL,3,CNB,PAIN,2.0,38:03,OK,blue,PNG,   VITÓRIA   ,69.2 mil,13,  8 ,  1 ,  2 ,  2 ,  0 ,Gnar,KogMaw,Sejuani,Chogath,Corki
+2018.0,spring,CBLOL,3,CNB,PAIN,2.0,38:03,OK,red,CNB,   DERROTA   ,62.2 mil,10,  4 ,  0 ,  0 ,  1 ,  0 ,Azir,Kalista,Camille,Ryze,Zoe
+2018.0,spring,CBLOL,3,CNB,PAIN,3.0,28:03,OK,blue,CNB,   VITÓRIA   ,54.0 mil,12,  9 ,  1 ,  1 ,  3 ,  1 ,Camille,Khazix,Azir,Gnar,Chogath
+2018.0,spring,CBLOL,3,CNB,PAIN,3.0,28:03,OK,red,PNG,   DERROTA   ,45.3 mil,4,  2 ,  0 ,  0 ,  0 ,  0 ,Kalista,KogMaw,Sejuani,Cassiopeia,Zoe
+2018.0,spring,CBLOL,3,Team oNe,Vivo Keyd,1.0,,AttributeError,,,,,,,,,,,,,,,
+2018.0,spring,CBLOL,3,Team oNe,Vivo Keyd,2.0,36:22,OK,blue,VK,   VITÓRIA   ,74.3 mil,26,  11 ,  4 ,  2 ,  3 ,  1 ,Tristana,Ornn,Varus,Gangplank,Braum
+2018.0,spring,CBLOL,3,Team oNe,Vivo Keyd,2.0,36:22,OK,red,ONE,   DERROTA   ,57.5 mil,10,  1 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Camille,Azir,Zoe,Alistar
+2018.0,spring,CBLOL,3,Kabum,RED Canids,1.0,33:00,OK,blue,KBM,   VITÓRIA   ,64.4 mil,10,  11 ,  3 ,  2 ,  3 ,  0 ,Galio,TahmKench,Braum,Camille,Sejuani
+2018.0,spring,CBLOL,3,Kabum,RED Canids,1.0,33:00,OK,red,RED,   DERROTA   ,54.2 mil,8,  3 ,  0 ,  0 ,  1 ,  1 ,Kalista,JarvanIV,Taric,Jayce,Vladimir
+2018.0,spring,CBLOL,3,Kabum,RED Canids,2.0,28:00,OK,blue,RED,   DERROTA   ,41.4 mil,3,  1 ,  0 ,  0 ,  1 ,  0 ,Taric,Tristana,Alistar,Sejuani,Khazix
+2018.0,spring,CBLOL,3,Kabum,RED Canids,2.0,28:00,OK,red,KBM,   VITÓRIA   ,55.0 mil,9,  11 ,  2 ,  1 ,  1 ,  1 ,Galio,TahmKench,KogMaw,Thresh,Jayce
+2018.0,spring,CBLOL,3,ProGaming Esports,INTZ,1.0,42:25,OK,blue,PRG,   VITÓRIA   ,87.0 mil,21,  10 ,  3 ,  2 ,  3 ,  1 ,Ryze,Sejuani,Azir,Vladimir,Rumble
+2018.0,spring,CBLOL,3,ProGaming Esports,INTZ,1.0,42:25,OK,red,ITZ,   DERROTA   ,74.9 mil,12,  6 ,  1 ,  0 ,  3 ,  0 ,Tristana,TahmKench,Ornn,Galio,Gnar
+2018.0,spring,CBLOL,3,ProGaming Esports,INTZ,2.0,31:19,OK,blue,ITZ,   DERROTA   ,50.2 mil,3,  5 ,  0 ,  0 ,  2 ,  0 ,TahmKench,Azir,Camille,Taliyah,Galio
+2018.0,spring,CBLOL,3,ProGaming Esports,INTZ,2.0,31:19,OK,red,PRG,   VITÓRIA   ,56.4 mil,13,  9 ,  2 ,  1 ,  1 ,  1 ,Ryze,Zoe,Kalista,Rumble,Orianna
+2018.0,spring,CBLOL,4,Vivo Keyd,PAIN,1.0,34:55,OK,blue,VK,   DERROTA   ,59.6 mil,8,  3 ,  0 ,  0 ,  1 ,  0 ,Tristana,Taliyah,Camille,Cassiopeia,Syndra
+2018.0,spring,CBLOL,4,Vivo Keyd,PAIN,1.0,34:55,OK,red,PNG,   VITÓRIA   ,69.4 mil,17,  11 ,  4 ,  2 ,  2 ,  1 ,Zoe,Azir,Sejuani,Taric,Alistar
+2018.0,spring,CBLOL,4,Vivo Keyd,PAIN,2.0,35:44,OK,blue,PNG,   DERROTA   ,58.9 mil,6,  3 ,  0 ,  0 ,  0 ,  0 ,Azir,Camille,Sejuani,Taric,Alistar
+2018.0,spring,CBLOL,4,Vivo Keyd,PAIN,2.0,35:44,OK,red,VK,   VITÓRIA   ,68.2 mil,13,  10 ,  2 ,  2 ,  2 ,  1 ,Tristana,Taliyah,Vladimir,Rakan,Skarner
+2018.0,spring,CBLOL,4,Vivo Keyd,PAIN,3.0,41:55,OK,blue,VK,   VITÓRIA   ,80.6 mil,17,  11 ,  3 ,  1 ,  0 ,  0 ,Tristana,Taliyah,Camille,Xayah,Varus
+2018.0,spring,CBLOL,4,Vivo Keyd,PAIN,3.0,41:55,OK,red,PNG,   DERROTA   ,69.2 mil,11,  4 ,  0 ,  0 ,  2 ,  1 ,Zoe,Azir,Sejuani,JarvanIV,Skarner
+2018.0,spring,CBLOL,4,Kabum,ProGaming Esports,1.0,32:48,OK,blue,KBM,   VITÓRIA   ,64.4 mil,15,  9 ,  1 ,  2 ,  3 ,  0 ,Evelynn,Galio,Gangplank,Taliyah,Syndra
+2018.0,spring,CBLOL,4,Kabum,ProGaming Esports,1.0,32:48,OK,red,PRG,   DERROTA   ,47.7 mil,5,  1 ,  0 ,  0 ,  0 ,  1 ,Kalista,Vladimir,Azir,Khazix,Jayce
+2018.0,spring,CBLOL,4,Kabum,ProGaming Esports,2.0,38:33,OK,blue,PRG,   VITÓRIA   ,72.3 mil,12,  10 ,  2 ,  1 ,  4 ,  0 ,Vladimir,Azir,Ezreal,Kassadin,Alistar
+2018.0,spring,CBLOL,4,Kabum,ProGaming Esports,2.0,38:33,OK,red,KBM,   DERROTA   ,64.8 mil,4,  2 ,  0 ,  1 ,  0 ,  0 ,Evelynn,Galio,Ryze,Zac,Camille
+2018.0,spring,CBLOL,4,Kabum,ProGaming Esports,3.0,34:34,OK,blue,KBM,   VITÓRIA   ,67.3 mil,20,  10 ,  2 ,  2 ,  2 ,  0 ,Evelynn,Galio,Gangplank,Camille,Zac
+2018.0,spring,CBLOL,4,Kabum,ProGaming Esports,3.0,34:34,OK,red,PRG,   DERROTA   ,56.0 mil,15,  3 ,  0 ,  0 ,  2 ,  1 ,Vladimir,Azir,Zoe,Taric,TahmKench
+2018.0,spring,CBLOL,4,Team oNe,RED Canids,1.0,31:22,OK,blue,ONE,   DERROTA   ,50.0 mil,2,  2 ,  0 ,  0 ,  2 ,  1 ,Kalista,Zoe,Skarner,Khazix,JarvanIV
+2018.0,spring,CBLOL,4,Team oNe,RED Canids,1.0,31:22,OK,red,RED,   VITÓRIA   ,62.5 mil,8,  9 ,  2 ,  1 ,  0 ,  0 ,Varus,Alistar,Camille,Gnar,Swain
+2018.0,spring,CBLOL,4,Team oNe,RED Canids,2.0,42:12,OK,blue,RED,   VITÓRIA   ,86.2 mil,25,  9 ,  1 ,  2 ,  1 ,  1 ,Varus,Taric,Camille,Swain,Gnar
+2018.0,spring,CBLOL,4,Team oNe,RED Canids,2.0,42:12,OK,red,ONE,   DERROTA   ,72.3 mil,13,  5 ,  0 ,  1 ,  3 ,  0 ,Kalista,Zoe,Galio,Taliyah,Syndra
+2018.0,spring,CBLOL,4,INTZ,CNB,1.0,28:27,OK,blue,ITZ,   VITÓRIA   ,57.7 mil,15,  10 ,  2 ,  1 ,  2 ,  0 ,Ornn,TahmKench,Corki,Cassiopeia,Kassadin
+2018.0,spring,CBLOL,4,INTZ,CNB,1.0,28:27,OK,red,CNB,   DERROTA   ,45.4 mil,5,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Gangplank,Zoe,Zac,Khazix
+2018.0,spring,CBLOL,4,INTZ,CNB,2.0,43:01,OK,blue,CNB,   DERROTA   ,73.4 mil,9,  4 ,  0 ,  0 ,  1 ,  1 ,Camille,Zoe,Galio,Kassadin,Ryze
+2018.0,spring,CBLOL,4,INTZ,CNB,2.0,43:01,OK,red,ITZ,   VITÓRIA   ,83.2 mil,20,  11 ,  5 ,  2 ,  2 ,  0 ,TahmKench,Tristana,Ornn,Cassiopeia,Azir
+2018.0,spring,CBLOL,5,Kabum,Team oNe,1.0,29:25,OK,blue,KBM,   VITÓRIA   ,58.8 mil,11,  9 ,  1 ,  1 ,  1 ,  1 ,Gangplank,Galio,Olaf,Sejuani,Zac
+2018.0,spring,CBLOL,5,Kabum,Team oNe,1.0,29:25,OK,red,ONE,   DERROTA   ,44.0 mil,2,  1 ,  0 ,  0 ,  1 ,  0 ,Zoe,Ezreal,Kalista,Taric,Braum
+2018.0,spring,CBLOL,5,Kabum,Team oNe,2.0,27:00,OK,blue,ONE,   DERROTA   ,43.5 mil,10,  4 ,  0 ,  0 ,  1 ,  0 ,Kalista,Ezreal,Azir,Jayce,TahmKench
+2018.0,spring,CBLOL,5,Kabum,Team oNe,2.0,27:00,OK,red,KBM,   VITÓRIA   ,54.1 mil,20,  9 ,  1 ,  1 ,  1 ,  1 ,Galio,Gangplank,Rakan,Taric,Caitlyn
+2018.0,spring,CBLOL,5,Vivo Keyd,RED Canids,1.0,37:32,OK,blue,VK,   DERROTA   ,60.4 mil,3,  3 ,  0 ,  0 ,  2 ,  0 ,TahmKench,Xayah,Camille,Swain,Vladimir
+2018.0,spring,CBLOL,5,Vivo Keyd,RED Canids,1.0,37:32,OK,red,RED,   VITÓRIA   ,68.9 mil,17,  7 ,  1 ,  1 ,  0 ,  0 ,Gangplank,Ezreal,Skarner,Cassiopeia,Ryze
+2018.0,spring,CBLOL,5,Vivo Keyd,RED Canids,2.0,38:52,OK,blue,RED,   VITÓRIA   ,75.8 mil,16,  8 ,  2 ,  2 ,  3 ,  0 ,Xayah,Camille,Gnar,Ornn,Sejuani
+2018.0,spring,CBLOL,5,Vivo Keyd,RED Canids,2.0,38:52,OK,red,VK,   DERROTA   ,65.8 mil,2,  6 ,  0 ,  0 ,  1 ,  1 ,Gangplank,TahmKench,Skarner,Zac,JarvanIV
+2018.0,spring,CBLOL,5,INTZ,PAIN,1.0,38:48,OK,blue,ITZ,   VITÓRIA   ,72.1 mil,14,  10 ,  2 ,  2 ,  2 ,  1 ,Xayah,TahmKench,Galio,Taliyah,Janna
+2018.0,spring,CBLOL,5,INTZ,PAIN,1.0,38:48,OK,red,PNG,   DERROTA   ,60.9 mil,7,  3 ,  0 ,  0 ,  2 ,  0 ,Zoe,Skarner,Ezreal,Varus,Caitlyn
+2018.0,spring,CBLOL,5,INTZ,PAIN,2.0,36:01,OK,blue,PNG,   VITÓRIA   ,68.2 mil,10,  11 ,  4 ,  2 ,  3 ,  1 ,Tristana,Camille,Zoe,Orianna,Kassadin
+2018.0,spring,CBLOL,5,INTZ,PAIN,2.0,36:01,OK,red,ITZ,   DERROTA   ,56.0 mil,1,  2 ,  0 ,  0 ,  0 ,  0 ,Xayah,TahmKench,Galio,Taliyah,Braum
+2018.0,spring,CBLOL,5,INTZ,PAIN,3.0,33:14,OK,blue,ITZ,   VITÓRIA   ,58.6 mil,12,  9 ,  2 ,  0 ,  0 ,  1 ,Xayah,TahmKench,Skarner,Azir,Taliyah
+2018.0,spring,CBLOL,5,INTZ,PAIN,3.0,33:14,OK,red,PNG,   DERROTA   ,57.3 mil,8,  3 ,  0 ,  1 ,  2 ,  0 ,Camille,Zoe,Galio,Orianna,Syndra
+2018.0,spring,CBLOL,5,ProGaming Esports,CNB,1.0,40:12,OK,blue,PRG,   VITÓRIA   ,77.4 mil,12,  11 ,  5 ,  3 ,  3 ,  1 ,Vladimir,Tristana,JarvanIV,Sejuani,Zac
+2018.0,spring,CBLOL,5,ProGaming Esports,CNB,1.0,40:12,OK,red,CNB,   DERROTA   ,64.6 mil,9,  2 ,  0 ,  0 ,  3 ,  0 ,Zoe,Gangplank,Galio,Shen,Taric
+2018.0,spring,CBLOL,5,ProGaming Esports,CNB,2.0,44:35,OK,blue,CNB,   VITÓRIA   ,85.4 mil,13,  11 ,  5 ,  2 ,  3 ,  1 ,Taliyah,Galio,Skarner,Veigar,Zac
+2018.0,spring,CBLOL,5,ProGaming Esports,CNB,2.0,44:35,OK,red,PRG,   DERROTA   ,76.5 mil,9,  3 ,  0 ,  1 ,  1 ,  0 ,Tristana,Zoe,Vladimir,Taric,TahmKench
+2018.0,spring,CBLOL,5,ProGaming Esports,CNB,3.0,39:11,OK,blue,PRG,   DERROTA   ,62.2 mil,6,  4 ,  0 ,  0 ,  1 ,  0 ,Azir,JarvanIV,Varus,Ezreal,Kalista
+2018.0,spring,CBLOL,5,ProGaming Esports,CNB,3.0,39:11,OK,red,CNB,   VITÓRIA   ,74.6 mil,16,  10 ,  2 ,  2 ,  3 ,  1 ,Zoe,Galio,Skarner,Ryze,Orianna
+2018.0,spring,CBLOL,6,RED Canids,INTZ,1.0,1:04:57,OK,blue,RED,   VITÓRIA   ,120.2 mil,15,  11 ,  8 ,  4 ,  5 ,  0 ,Camille,Braum,Varus,Rakan,Fizz
+2018.0,spring,CBLOL,6,RED Canids,INTZ,1.0,1:04:57,OK,red,ITZ,   DERROTA   ,112.7 mil,19,  6 ,  1 ,  2 ,  3 ,  0 ,TahmKench,Alistar,Galio,Fiora,Gnar
+2018.0,spring,CBLOL,6,RED Canids,INTZ,2.0,38:35,OK,blue,ITZ,   VITÓRIA   ,71.0 mil,15,  10 ,  2 ,  2 ,  1 ,  1 ,TahmKench,Alistar,Galio,Fiora,Gnar
+2018.0,spring,CBLOL,6,RED Canids,INTZ,2.0,38:35,OK,red,RED,   DERROTA   ,64.9 mil,11,  4 ,  0 ,  0 ,  3 ,  0 ,Ezreal,Sion,Camille,Fizz,Azir
+2018.0,spring,CBLOL,6,RED Canids,INTZ,3.0,35:29,OK,blue,ITZ,   DERROTA   ,55.9 mil,6,  4 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Alistar,Galio,Fiora,Gnar
+2018.0,spring,CBLOL,6,RED Canids,INTZ,3.0,35:29,OK,red,RED,   VITÓRIA   ,71.6 mil,15,  11 ,  4 ,  2 ,  2 ,  1 ,Camille,Skarner,Xayah,Vladimir,Taric
+2018.0,spring,CBLOL,6,PAIN,ProGaming Esports,1.0,46:31,OK,blue,PNG,   VITÓRIA   ,86.6 mil,13,  10 ,  4 ,  2 ,  2 ,  1 ,Alistar,Camille,Rakan,TahmKench,Taric
+2018.0,spring,CBLOL,6,PAIN,ProGaming Esports,1.0,46:31,OK,red,PRG,   DERROTA   ,74.9 mil,6,  5 ,  1 ,  1 ,  3 ,  0 ,Vladimir,Sion,Galio,Ryze,Ornn
+2018.0,spring,CBLOL,6,PAIN,ProGaming Esports,2.0,42:56,OK,blue,PRG,   VITÓRIA   ,76.4 mil,15,  9 ,  2 ,  1 ,  3 ,  1 ,Vladimir,Sion,Galio,Shen,Ryze
+2018.0,spring,CBLOL,6,PAIN,ProGaming Esports,2.0,42:56,OK,red,PNG,   DERROTA   ,70.9 mil,8,  8 ,  2 ,  2 ,  1 ,  0 ,Camille,Rakan,Azir,TahmKench,Taric
+2018.0,spring,CBLOL,6,PAIN,ProGaming Esports,3.0,48:56,OK,blue,PNG,   DERROTA   ,73.4 mil,2,  4 ,  0 ,  1 ,  0 ,  0 ,Camille,Rakan,Alistar,Kassadin,Ryze
+2018.0,spring,CBLOL,6,PAIN,ProGaming Esports,3.0,48:56,OK,red,PRG,   VITÓRIA   ,84.9 mil,8,  10 ,  1 ,  2 ,  6 ,  1 ,Vladimir,Caitlyn,Galio,Ezreal,Tristana
+2018.0,spring,CBLOL,6,CNB,Team oNe,1.0,32:58,OK,blue,CNB,   VITÓRIA   ,65.5 mil,19,  11 ,  5 ,  2 ,  3 ,  1 ,Gangplank,Sion,Galio,Braum,Corki
+2018.0,spring,CBLOL,6,CNB,Team oNe,1.0,32:58,OK,red,ONE,   DERROTA   ,55.5 mil,11,  3 ,  0 ,  0 ,  0 ,  0 ,Zilean,Azir,Vladimir,Skarner,Zac
+2018.0,spring,CBLOL,6,CNB,Team oNe,2.0,29:02,OK,blue,ONE,   DERROTA   ,45.1 mil,6,  1 ,  0 ,  0 ,  0 ,  1 ,Zilean,Azir,Camille,Ornn,Varus
+2018.0,spring,CBLOL,6,CNB,Team oNe,2.0,29:02,OK,red,CNB,   VITÓRIA   ,55.4 mil,12,  11 ,  4 ,  2 ,  3 ,  0 ,Sion,Galio,Xayah,Taric,Shen
+2018.0,spring,CBLOL,6,Vivo Keyd,Kabum,1.0,26:28,OK,blue,VK,   VITÓRIA   ,53.9 mil,17,  9 ,  1 ,  1 ,  2 ,  1 ,Galio,Camille,Azir,Alistar,Braum
+2018.0,spring,CBLOL,6,Vivo Keyd,Kabum,1.0,26:28,OK,red,KBM,   DERROTA   ,47.3 mil,10,  5 ,  0 ,  0 ,  1 ,  0 ,Caitlyn,Sion,Xayah,TahmKench,Shen
+2018.0,spring,CBLOL,6,Vivo Keyd,Kabum,2.0,26:28,OK,blue,KBM,   DERROTA   ,41.7 mil,8,  2 ,  0 ,  0 ,  0 ,  0 ,Caitlyn,Ryze,Sion,Ornn,Chogath
+2018.0,spring,CBLOL,6,Vivo Keyd,Kabum,2.0,26:28,OK,red,VK,   VITÓRIA   ,53.1 mil,16,  8 ,  1 ,  1 ,  1 ,  1 ,Galio,Camille,Alistar,Corki,Taliyah
+2018.0,spring,CBLOL,7,ProGaming Esports,Team oNe,1.0,35:44,OK,blue,PRG,   DERROTA   ,54.0 mil,6,  3 ,  0 ,  0 ,  1 ,  0 ,Corki,Olaf,Sion,Orianna,Cassiopeia
+2018.0,spring,CBLOL,7,ProGaming Esports,Team oNe,1.0,35:44,OK,red,ONE,   VITÓRIA   ,66.6 mil,10,  9 ,  1 ,  2 ,  3 ,  1 ,Evelynn,Camille,JarvanIV,Caitlyn,Varus
+2018.0,spring,CBLOL,7,ProGaming Esports,Team oNe,2.0,41:37,OK,blue,ONE,   VITÓRIA   ,76.3 mil,7,  11 ,  3 ,  1 ,  3 ,  0 ,Evelynn,Camille,Skarner,Azir,Cassiopeia
+2018.0,spring,CBLOL,7,ProGaming Esports,Team oNe,2.0,41:37,OK,red,PRG,   DERROTA   ,72.0 mil,7,  5 ,  0 ,  1 ,  0 ,  0 ,Sion,Xayah,Galio,Fiora,Orianna
+2018.0,spring,CBLOL,7,CNB,Vivo Keyd,1.0,25:00,OK,blue,CNB,   VITÓRIA   ,47.7 mil,12,  9 ,  2 ,  1 ,  1 ,  0 ,Ezreal,Cassiopeia,Ryze,Alistar,Leona
+2018.0,spring,CBLOL,7,CNB,Vivo Keyd,1.0,25:00,OK,red,VK,   DERROTA   ,41.4 mil,4,  4 ,  0 ,  0 ,  1 ,  1 ,Shen,Camille,Braum,JarvanIV,Sejuani
+2018.0,spring,CBLOL,7,CNB,Vivo Keyd,2.0,36:21,OK,blue,VK,   DERROTA   ,61.9 mil,12,  6 ,  2 ,  1 ,  0 ,  1 ,Shen,Xayah,Azir,Alistar,Poppy
+2018.0,spring,CBLOL,7,CNB,Vivo Keyd,2.0,36:21,OK,red,CNB,   VITÓRIA   ,68.0 mil,20,  9 ,  3 ,  1 ,  3 ,  0 ,Ezreal,Cassiopeia,Ryze,LeeSin,Khazix
+2018.0,spring,CBLOL,7,INTZ,Kabum,1.0,40:42,OK,blue,ITZ,   DERROTA   ,68.5 mil,16,  5 ,  0 ,  0 ,  1 ,  1 ,Tristana,Ezreal,Azir,Morgana,TahmKench
+2018.0,spring,CBLOL,7,INTZ,Kabum,1.0,40:42,OK,red,KBM,   VITÓRIA   ,77.7 mil,19,  9 ,  2 ,  2 ,  4 ,  0 ,Camille,Varus,Olaf,JarvanIV,Zac
+2018.0,spring,CBLOL,7,INTZ,Kabum,2.0,26:23,OK,blue,KBM,   VITÓRIA   ,51.0 mil,9,  9 ,  2 ,  1 ,  0 ,  1 ,Camille,Varus,Xayah,Sejuani,Khazix
+2018.0,spring,CBLOL,7,INTZ,Kabum,2.0,26:23,OK,red,ITZ,   DERROTA   ,40.8 mil,3,  2 ,  0 ,  0 ,  0 ,  0 ,Azir,Ezreal,Tristana,Taric,Braum
+2018.0,spring,CBLOL,7,PAIN,RED Canids,1.0,46:38,OK,blue,PNG,   DERROTA   ,82.0 mil,6,  4 ,  0 ,  2 ,  2 ,  1 ,Ryze,Ezreal,Sion,Alistar,Gnar
+2018.0,spring,CBLOL,7,PAIN,RED Canids,1.0,46:38,OK,red,RED,   VITÓRIA   ,88.9 mil,13,  10 ,  3 ,  1 ,  2 ,  0 ,Xayah,Caitlyn,TahmKench,Skarner,Camille
+2018.0,spring,CBLOL,7,PAIN,RED Canids,2.0,37:25,OK,blue,RED,   VITÓRIA   ,79.2 mil,16,  11 ,  6 ,  2 ,  5 ,  1 ,TahmKench,Sion,Caitlyn,Shen,Orianna
+2018.0,spring,CBLOL,7,PAIN,RED Canids,2.0,37:25,OK,red,PNG,   DERROTA   ,61.4 mil,8,  0 ,  0 ,  1 ,  0 ,  0 ,Ezreal,Galio,Corki,Fiora,Trundle

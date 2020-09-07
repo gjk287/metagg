@@ -1,0 +1,109 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2018.0,summer,ECS,1,J Team 2,Forger Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,J Team 2,Forger Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,BUFF,NoFancy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,BUFF,NoFancy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,17 Academy,SuperEsports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,17 Academy,SuperEsports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,Kowloon Esports,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,Kowloon Esports,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,J Team 2,BUFF,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,J Team 2,BUFF,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,Kowloon Esports,17 Academy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,Kowloon Esports,17 Academy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,NoFancy,Forger Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,1,NoFancy,Forger Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,17 Academy,J Team 2,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,17 Academy,J Team 2,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,Kowloon Esports,NoFancy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,Kowloon Esports,NoFancy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,Forger Esports,SuperEsports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,Forger Esports,SuperEsports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,BUFF,Kowloon Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,BUFF,Kowloon Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,SuperEsports,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,2,SuperEsports,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,J Team 2,Kowloon Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,J Team 2,Kowloon Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,BUFF,17 Academy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,BUFF,17 Academy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,Forger Esports,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,Forger Esports,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,NoFancy,SuperEsports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,NoFancy,SuperEsports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,Alice Queen,J Team 2,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,Alice Queen,J Team 2,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,17 Academy,NoFancy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,17 Academy,NoFancy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,SuperEsports,Kowloon Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,SuperEsports,Kowloon Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,Alice Queen,NoFancy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,Alice Queen,NoFancy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,SuperEsports,BUFF,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,3,SuperEsports,BUFF,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,BUFF,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,BUFF,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,Forger Esports,17 Academy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,Forger Esports,17 Academy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,J Team 2,NoFancy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,J Team 2,NoFancy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,Kowloon Esports,Forger Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,Kowloon Esports,Forger Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,SuperEsports,J Team 2,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,SuperEsports,J Team 2,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,Forger Esports,BUFF,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,Forger Esports,BUFF,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,17 Academy,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,4,17 Academy,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,Forger Esports,J Team 2,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,Forger Esports,J Team 2,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,NoFancy,BUFF,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,NoFancy,BUFF,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,SuperEsports,17 Academy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,SuperEsports,17 Academy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,Alice Queen,Kowloon Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,Alice Queen,Kowloon Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,BUFF,J Team 2,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,BUFF,J Team 2,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,17 Academy,Kowloon Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,17 Academy,Kowloon Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,Forger Esports,NoFancy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,5,Forger Esports,NoFancy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,Kowloon Esports,BUFF,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,Kowloon Esports,BUFF,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,SuperEsports,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,SuperEsports,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,NoFancy,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,NoFancy,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,BUFF,SuperEsports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,BUFF,SuperEsports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,J Team 2,17 Academy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,J Team 2,17 Academy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,NoFancy,Kowloon Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,NoFancy,Kowloon Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,SuperEsports,Forger Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,6,SuperEsports,Forger Esports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,Kowloon Esports,J Team 2,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,Kowloon Esports,J Team 2,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,17 Academy,BUFF,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,17 Academy,BUFF,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,Forger Esports,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,SuperEsports,NoFancy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,SuperEsports,NoFancy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,J Team 2,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,J Team 2,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,NoFancy,17 Academy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,NoFancy,17 Academy,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,Kowloon Esports,SuperEsports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,7,Kowloon Esports,SuperEsports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,BUFF,Alice Queen,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,BUFF,Alice Queen,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,17 Academy,Forger Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,NoFancy,J Team 2,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,NoFancy,J Team 2,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,Forger Esports,Kowloon Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,J Team 2,SuperEsports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,J Team 2,SuperEsports,2.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,BUFF,Forger Esports,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,Alice Queen,17 Academy,1.0,this row doesn't have MH_url
+2018.0,summer,ECS,8,Alice Queen,17 Academy,2.0,this row doesn't have MH_url

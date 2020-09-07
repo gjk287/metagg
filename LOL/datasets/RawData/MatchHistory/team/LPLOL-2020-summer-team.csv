@@ -1,0 +1,115 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,LPLOL,1,SAMCLAN,Karma,1.0,27:47,OK,blue,SAM,   VICTORY   ,53.8k,14,  9 ,  2 ,  1 ,  3 ,  2 ,Syndra,Thresh,Gragas,MonkeyKing,Renekton
+2020.0,summer,LPLOL,1,SAMCLAN,Karma,1.0,27:47,OK,red,KRM,   DEFEAT   ,44.1k,4,  5 ,  0 ,  0 ,  1 ,  0 ,Sett,Varus,Draven,Azir,Taric
+2020.0,summer,LPLOL,1,GeekCase,GTZ,1.0,43:25,OK,blue,GC,   DEFEAT   ,67.4k,8,  2 ,  0 ,  0 ,  2 ,  1 ,Lulu,Nidalee,Yuumi,Leblanc,LeeSin
+2020.0,summer,LPLOL,1,GeekCase,GTZ,1.0,43:25,OK,red,GTZ,   VICTORY   ,77.1k,20,  9 ,  1 ,  2 ,  4 ,  1 ,Varus,Senna,Karma,Thresh,Leona
+2020.0,summer,LPLOL,1,Electronik,OFFSET,1.0,43:30,OK,blue,EGN,   VICTORY   ,80.6k,16,  11 ,  2 ,  3 ,  3 ,  2 ,Leblanc,LeeSin,Karma,Cassiopeia,Viktor
+2020.0,summer,LPLOL,1,Electronik,OFFSET,1.0,43:30,OK,red,OFF7,   DEFEAT   ,70.0k,19,  3 ,  0 ,  0 ,  4 ,  0 ,Gangplank,RekSai,Morgana,Thresh,Sylas
+2020.0,summer,LPLOL,1,For The Win,Boavista,1.0,27:08,OK,blue,FTW,   DEFEAT   ,43.6k,1,  4 ,  0 ,  0 ,  0 ,  1 ,Blitzcrank,Ekko,Akali,Senna,MissFortune
+2020.0,summer,LPLOL,1,For The Win,Boavista,1.0,27:08,OK,red,BFC,   VICTORY   ,52.5k,15,  10 ,  2 ,  1 ,  4 ,  1 ,Graves,Aphelios,Thresh,Leblanc,Zoe
+2020.0,summer,LPLOL,1,OFFSET,For The Win,1.0,28:50,OK,blue,OFF7,   DEFEAT   ,42.3k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Thresh,Syndra,Maokai,Yuumi,Bard
+2020.0,summer,LPLOL,1,OFFSET,For The Win,1.0,28:50,OK,red,FTW,   VICTORY   ,58.5k,21,  9 ,  1 ,  1 ,  3 ,  2 ,Varus,Karma,Ornn,Nautilus,Leona
+2020.0,summer,LPLOL,1,Boavista,SAMCLAN,1.0,43:24,OK,blue,BFC,   VICTORY   ,76.3k,12,  11 ,  3 ,  2 ,  2 ,  2 ,Ornn,Zoe,Graves,Renekton,Azir
+2020.0,summer,LPLOL,1,Boavista,SAMCLAN,1.0,43:24,OK,red,SAM,   DEFEAT   ,76.3k,16,  6 ,  0 ,  1 ,  4 ,  0 ,Blitzcrank,Akali,Ekko,TahmKench,Kled
+2020.0,summer,LPLOL,1,GTZ,Electronik,1.0,29:29,OK,blue,GTZ,   DEFEAT   ,41.6k,2,  1 ,  0 ,  0 ,  0 ,  2 ,RekSai,Gangplank,Sylas,Ryze,Trundle
+2020.0,summer,LPLOL,1,GTZ,Electronik,1.0,29:29,OK,red,EGN,   VICTORY   ,55.0k,19,  9 ,  1 ,  1 ,  4 ,  0 ,Aphelios,Leblanc,Galio,Syndra,Graves
+2020.0,summer,LPLOL,1,Karma,GeekCase,1.0,29:41,OK,blue,KRM,   DEFEAT   ,44.2k,7,  1 ,  0 ,  0 ,  1 ,  2 ,Cassiopeia,Karma,Varus,Bard,Nautilus
+2020.0,summer,LPLOL,1,Karma,GeekCase,1.0,29:41,OK,red,GC,   VICTORY   ,54.2k,14,  10 ,  1 ,  1 ,  4 ,  0 ,Gragas,Thresh,Syndra,Leblanc,Aphelios
+2020.0,summer,LPLOL,2,For The Win,GTZ,1.0,25:32,OK,blue,FTW,   VICTORY   ,46.6k,12,  9 ,  2 ,  1 ,  2 ,  2 ,Galio,Ornn,Syndra,Sett,Darius
+2020.0,summer,LPLOL,2,For The Win,GTZ,1.0,25:32,OK,red,GTZ,   DEFEAT   ,33.7k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Maokai,Zoe,,
+2020.0,summer,LPLOL,2,Electronik,Karma,1.0,26:46,OK,blue,EGN,   VICTORY   ,54.0k,19,  10 ,  2 ,  1 ,  3 ,  1 ,Zoe,Leblanc,Syndra,Cassiopeia,Karma
+2020.0,summer,LPLOL,2,Electronik,Karma,1.0,26:46,OK,red,KRM,   DEFEAT   ,41.0k,8,  1 ,  0 ,  0 ,  1 ,  1 ,MissFortune,Varus,Senna,Yuumi,Sylas
+2020.0,summer,LPLOL,2,SAMCLAN,GeekCase,1.0,29:53,OK,blue,SAM,   DEFEAT   ,42.4k,0,  1 ,  0 ,  0 ,  1 ,  0 ,Syndra,Leblanc,Illaoi,Ornn,Yorick
+2020.0,summer,LPLOL,2,SAMCLAN,GeekCase,1.0,29:53,OK,red,GC,   VICTORY   ,56.7k,11,  9 ,  1 ,  2 ,  4 ,  2 ,Lulu,Graves,MonkeyKing,Zoe,Orianna
+2020.0,summer,LPLOL,2,Boavista,OFFSET,1.0,28:38,OK,blue,BFC,   DEFEAT   ,48.2k,10,  3 ,  0 ,  0 ,  2 ,  2 ,Leblanc,LeeSin,Ornn,Zoe,Syndra
+2020.0,summer,LPLOL,2,Boavista,OFFSET,1.0,28:38,OK,red,OFF7,   VICTORY   ,56.1k,22,  8 ,  1 ,  1 ,  2 ,  0 ,Ekko,Galio,Varus,Trundle,Fizz
+2020.0,summer,LPLOL,2,GeekCase,Electronik,1.0,27:27,OK,blue,GC,   DEFEAT   ,43.2k,8,  2 ,  0 ,  0 ,  2 ,  1 ,Gangplank,Soraka,Graves,Ezreal,MissFortune
+2020.0,summer,LPLOL,2,GeekCase,Electronik,1.0,27:27,OK,red,EGN,   VICTORY   ,56.0k,24,  9 ,  2 ,  1 ,  2 ,  1 ,Illaoi,Olaf,Syndra,Cassiopeia,Zoe
+2020.0,summer,LPLOL,2,GTZ,Boavista,1.0,30:48,OK,blue,GTZ,   VICTORY   ,56.1k,15,  8 ,  1 ,  1 ,  5 ,  2 ,,,,,
+2020.0,summer,LPLOL,2,GTZ,Boavista,1.0,30:48,OK,red,BFC,   DEFEAT   ,48.0k,6,  3 ,  0 ,  0 ,  0 ,  0 ,Ornn,Galio,Yuumi,Akali,Leblanc
+2020.0,summer,LPLOL,2,Karma,For The Win,1.0,30:28,OK,blue,KRM,   DEFEAT   ,42.4k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Varus,Trundle,Gangplank,Maokai,Elise
+2020.0,summer,LPLOL,2,Karma,For The Win,1.0,30:28,OK,red,FTW,   VICTORY   ,59.9k,14,  10 ,  2 ,  2 ,  3 ,  2 ,Graves,Ornn,Syndra,RekSai,Fiddlesticks
+2020.0,summer,LPLOL,2,OFFSET,SAMCLAN,1.0,51:34,OK,blue,OFF7,   VICTORY   ,88.5k,17,  9 ,  1 ,  3 ,  4 ,  1 ,Zoe,Lux,MissFortune,Camille,Vladimir
+2020.0,summer,LPLOL,2,OFFSET,SAMCLAN,1.0,51:34,OK,red,SAM,   DEFEAT   ,84.7k,19,  5 ,  0 ,  0 ,  4 ,  1 ,Varus,Syndra,LeeSin,Karma,Yuumi
+2020.0,summer,LPLOL,2,OFFSET,GTZ,1.0,34:14,OK,blue,OFF7,   VICTORY   ,56.5k,11,  8 ,  1 ,  0 ,  1 ,  1 ,Graves,Lulu,Varus,Maokai,Khazix
+2020.0,summer,LPLOL,2,OFFSET,GTZ,1.0,34:14,OK,red,GTZ,   DEFEAT   ,54.7k,14,  4 ,  0 ,  1 ,  4 ,  1 ,LeeSin,Leblanc,Ornn,Trundle,Olaf
+2020.0,summer,LPLOL,2,For The Win,GeekCase,1.0,27:44,OK,blue,FTW,   VICTORY   ,53.6k,12,  10 ,  2 ,  1 ,  3 ,  2 ,Galio,Blitzcrank,Trundle,Illaoi,Camille
+2020.0,summer,LPLOL,2,For The Win,GeekCase,1.0,27:44,OK,red,GC,   DEFEAT   ,41.5k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Varus,Thresh,Syndra,Azir,Leblanc
+2020.0,summer,LPLOL,2,Boavista,Karma,1.0,27:57,OK,blue,BFC,   VICTORY   ,54.8k,17,  10 ,  1 ,  1 ,  2 ,  2 ,Thresh,Syndra,Ezreal,Braum,Galio
+2020.0,summer,LPLOL,2,Boavista,Karma,1.0,27:57,OK,red,KRM,   DEFEAT   ,40.3k,4,  0 ,  0 ,  0 ,  2 ,  0 ,Ekko,Elise,Varus,Nautilus,Leona
+2020.0,summer,LPLOL,2,SAMCLAN,Electronik,1.0,32:03,OK,blue,SAM,   VICTORY   ,59.9k,19,  8 ,  1 ,  1 ,  3 ,  1 ,Gangplank,Sylas,Soraka,Sett,MonkeyKing
+2020.0,summer,LPLOL,2,SAMCLAN,Electronik,1.0,32:03,OK,red,EGN,   DEFEAT   ,52.2k,6,  2 ,  0 ,  0 ,  2 ,  1 ,Zoe,Yuumi,Syndra,Leona,Taric
+2020.0,summer,LPLOL,3,GeekCase,Boavista,1.0,31:11,OK,blue,GC,   DEFEAT   ,46.3k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Ekko,Blitzcrank,Varus,Akali,Kennen
+2020.0,summer,LPLOL,3,GeekCase,Boavista,1.0,31:11,OK,red,BFC,   VICTORY   ,61.3k,13,  11 ,  3 ,  2 ,  4 ,  2 ,Syndra,Illaoi,Cassiopeia,Zoe,Leblanc
+2020.0,summer,LPLOL,3,Karma,OFFSET,1.0,35:10,OK,blue,KRM,   DEFEAT   ,55.7k,10,  5 ,  0 ,  1 ,  2 ,  0 ,Syndra,Varus,MonkeyKing,Aatrox,
+2020.0,summer,LPLOL,3,Karma,OFFSET,1.0,35:10,OK,red,OFF7,   VICTORY   ,63.5k,14,  9 ,  1 ,  1 ,  4 ,  2 ,Aphelios,Ornn,Leblanc,RekSai,Olaf
+2020.0,summer,LPLOL,3,GTZ,SAMCLAN,1.0,31:52,OK,blue,GTZ,   DEFEAT   ,49.5k,5,  0 ,  0 ,  0 ,  2 ,  0 ,Soraka,Volibear,Ornn,Zoe,Azir
+2020.0,summer,LPLOL,3,GTZ,SAMCLAN,1.0,31:52,OK,red,SAM,   VICTORY   ,64.3k,12,  11 ,  4 ,  2 ,  3 ,  2 ,Varus,Syndra,Galio,Leblanc,Orianna
+2020.0,summer,LPLOL,3,Electronik,For The Win,1.0,33:30,OK,blue,EGN,   VICTORY   ,68.4k,24,  11 ,  3 ,  0 ,  5 ,  0 ,Leblanc,Zoe,Trundle,Azir,Jayce
+2020.0,summer,LPLOL,3,Electronik,For The Win,1.0,33:30,OK,red,FTW,   DEFEAT   ,52.9k,4,  1 ,  0 ,  1 ,  0 ,  2 ,Sylas,RekSai,Ornn,Ekko,Blitzcrank
+2020.0,summer,LPLOL,3,Boavista,Electronik,1.0,33:51,OK,blue,BFC,   DEFEAT   ,52.6k,12,  2 ,  0 ,  0 ,  3 ,  1 ,Ornn,Gangplank,Sylas,Thresh,Nautilus
+2020.0,summer,LPLOL,3,Boavista,Electronik,1.0,33:51,OK,red,EGN,   VICTORY   ,66.8k,17,  10 ,  1 ,  1 ,  2 ,  1 ,Kled,Kennen,Ekko,Akali,Fizz
+2020.0,summer,LPLOL,3,SAMCLAN,For The Win,1.0,35:40,OK,blue,SAM,   VICTORY   ,65.6k,10,  11 ,  4 ,  2 ,  4 ,  2 ,Gangplank,Kalista,Renekton,Ornn,Azir
+2020.0,summer,LPLOL,3,SAMCLAN,For The Win,1.0,35:40,OK,red,FTW,   DEFEAT   ,57.0k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Graves,Syndra,Varus,Leblanc,Zoe
+2020.0,summer,LPLOL,3,OFFSET,GeekCase,1.0,28:54,OK,blue,OFF7,   VICTORY   ,54.4k,20,  10 ,  2 ,  1 ,  3 ,  1 ,Illaoi,Galio,Varus,Aphelios,MissFortune
+2020.0,summer,LPLOL,3,OFFSET,GeekCase,1.0,28:54,OK,red,GC,   DEFEAT   ,42.7k,5,  1 ,  0 ,  0 ,  1 ,  1 ,LeeSin,Yuumi,Leblanc,Khazix,RekSai
+2020.0,summer,LPLOL,3,GTZ,Karma,1.0,41:55,OK,blue,GTZ,   VICTORY   ,71.4k,18,  11 ,  3 ,  0 ,  5 ,  2 ,Ezreal,Volibear,MissFortune,Nautilus,Lulu
+2020.0,summer,LPLOL,3,GTZ,Karma,1.0,41:55,OK,red,KRM,   DEFEAT   ,65.1k,13,  2 ,  0 ,  1 ,  1 ,  0 ,Aphelios,Syndra,Graves,Trundle,
+2020.0,summer,LPLOL,4,Karma,SAMCLAN,1.0,37:58,OK,blue,KRM,   DEFEAT   ,63.7k,13,  8 ,  2 ,  1 ,  3 ,  2 ,Sett,Aphelios,Senna,Cassiopeia,Yuumi
+2020.0,summer,LPLOL,4,Karma,SAMCLAN,1.0,37:58,OK,red,SAM,   VICTORY   ,69.4k,20,  9 ,  2 ,  1 ,  3 ,  0 ,Syndra,Varus,Leblanc,MonkeyKing,Gangplank
+2020.0,summer,LPLOL,4,GTZ,GeekCase,1.0,42:12,OK,blue,GTZ,   DEFEAT   ,72.0k,25,  3 ,  0 ,  1 ,  3 ,  1 ,Ezreal,Volibear,TwistedFate,Trundle,Azir
+2020.0,summer,LPLOL,4,GTZ,GeekCase,1.0,42:12,OK,red,GC,   VICTORY   ,76.1k,20,  10 ,  2 ,  2 ,  4 ,  1 ,Graves,Syndra,Lulu,Corki,Orianna
+2020.0,summer,LPLOL,4,OFFSET,Electronik,1.0,27:46,OK,blue,OFF7,   DEFEAT   ,39.8k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Gangplank,Morgana,TwistedFate,Thresh,Bard
+2020.0,summer,LPLOL,4,OFFSET,Electronik,1.0,27:46,OK,red,EGN,   VICTORY   ,53.6k,20,  8 ,  1 ,  1 ,  3 ,  2 ,Karma,Leblanc,LeeSin,Cassiopeia,Corki
+2020.0,summer,LPLOL,4,Boavista,For The Win,1.0,34:47,OK,blue,BFC,   VICTORY   ,66.3k,19,  8 ,  1 ,  0 ,  3 ,  1 ,Ezreal,TwistedFate,Rumble,LeeSin,Gangplank
+2020.0,summer,LPLOL,4,Boavista,For The Win,1.0,34:47,OK,red,FTW,   DEFEAT   ,58.4k,13,  2 ,  0 ,  0 ,  2 ,  1 ,Blitzcrank,Kled,Kalista,Galio,Nautilus
+2020.0,summer,LPLOL,4,For The Win,OFFSET,1.0,21:53,OK,blue,FTW,   VICTORY   ,45.4k,21,  9 ,  1 ,  0 ,  3 ,  2 ,Leblanc,Zac,Kalista,Azir,Zoe
+2020.0,summer,LPLOL,4,For The Win,OFFSET,1.0,21:53,OK,red,OFF7,   DEFEAT   ,29.5k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Thresh,Renekton,Syndra,Gangplank,Rumble
+2020.0,summer,LPLOL,4,SAMCLAN,Boavista,1.0,29:28,OK,blue,SAM,   VICTORY   ,57.9k,16,  10 ,  1 ,  1 ,  4 ,  2 ,Ekko,Kled,Blitzcrank,Karma,Bard
+2020.0,summer,LPLOL,4,SAMCLAN,Boavista,1.0,29:28,OK,red,BFC,   DEFEAT   ,42.1k,1,  0 ,  0 ,  0 ,  0 ,  0 ,TwistedFate,Zoe,Ezreal,Leblanc,Orianna
+2020.0,summer,LPLOL,4,Electronik,GTZ,1.0,31:37,OK,blue,EGN,   VICTORY   ,58.2k,13,  9 ,  1 ,  0 ,  3 ,  2 ,Orianna,Darius,Quinn,Thresh,Leblanc
+2020.0,summer,LPLOL,4,Electronik,GTZ,1.0,31:37,OK,red,GTZ,   DEFEAT   ,49.1k,6,  1 ,  0 ,  1 ,  2 ,  0 ,Ezreal,Volibear,TwistedFate,Varus,MissFortune
+2020.0,summer,LPLOL,4,GeekCase,Karma,1.0,27:43,OK,blue,GC,   VICTORY   ,51.2k,17,  11 ,  3 ,  1 ,  4 ,  1 ,Leblanc,Graves,Lulu,Thresh,Taric
+2020.0,summer,LPLOL,4,GeekCase,Karma,1.0,27:43,OK,red,KRM,   DEFEAT   ,44.7k,11,  1 ,  0 ,  0 ,  0 ,  1 ,Sett,Syndra,Cassiopeia,Camille,Illaoi
+2020.0,summer,LPLOL,4,GTZ,For The Win,1.0,32:45,OK,blue,GTZ,   DEFEAT   ,50.9k,7,  1 ,  0 ,  0 ,  1 ,  2 ,Varus,Volibear,TwistedFate,Gangplank,MonkeyKing
+2020.0,summer,LPLOL,4,GTZ,For The Win,1.0,32:45,OK,red,FTW,   VICTORY   ,64.7k,22,  10 ,  2 ,  2 ,  4 ,  0 ,Graves,Ornn,Syndra,Azir,Galio
+2020.0,summer,LPLOL,4,Karma,Electronik,1.0,24:26,OK,blue,KRM,   DEFEAT   ,36.2k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Sylas,Gangplank,Sett,Varus,MissFortune
+2020.0,summer,LPLOL,4,Karma,Electronik,1.0,24:26,OK,red,EGN,   VICTORY   ,50.3k,17,  11 ,  3 ,  1 ,  3 ,  2 ,Leblanc,Gragas,Urgot,Kassadin,Orianna
+2020.0,summer,LPLOL,4,GeekCase,SAMCLAN,1.0,28:07,OK,blue,GC,   DEFEAT   ,40.5k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Graves,Lulu,Zoe,Orianna,Azir
+2020.0,summer,LPLOL,4,GeekCase,SAMCLAN,1.0,28:07,OK,red,SAM,   VICTORY   ,56.8k,18,  10 ,  2 ,  1 ,  4 ,  1 ,Varus,Illaoi,Syndra,Thresh,Cassiopeia
+2020.0,summer,LPLOL,4,OFFSET,Boavista,1.0,33:59,OK,blue,OFF7,   VICTORY   ,64.2k,24,  9 ,  1 ,  1 ,  4 ,  1 ,Ekko,Galio,Blitzcrank,Akali,Thresh
+2020.0,summer,LPLOL,4,OFFSET,Boavista,1.0,33:59,OK,red,BFC,   DEFEAT   ,52.8k,5,  3 ,  0 ,  0 ,  1 ,  1 ,TwistedFate,Leblanc,Zoe,Braum,Yuumi
+2020.0,summer,LPLOL,5,Electronik,GeekCase,1.0,27:27,OK,blue,EGN,   VICTORY   ,53.8k,16,  11 ,  3 ,  1 ,  4 ,  1 ,Illaoi,Trundle,Olaf,Sett,Camille
+2020.0,summer,LPLOL,5,Electronik,GeekCase,1.0,27:27,OK,red,GC,   DEFEAT   ,40.9k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Sylas,RekSai,Syndra,Orianna,TwistedFate
+2020.0,summer,LPLOL,5,Boavista,GTZ,1.0,26:57,OK,blue,BFC,   VICTORY   ,53.7k,14,  11 ,  3 ,  1 ,  2 ,  2 ,Ornn,Galio,Kalista,Lulu,Quinn
+2020.0,summer,LPLOL,5,Boavista,GTZ,1.0,26:57,OK,red,GTZ,   DEFEAT   ,41.4k,4,  0 ,  0 ,  0 ,  2 ,  0 ,Ekko,Volibear,TwistedFate,Kled,Corki
+2020.0,summer,LPLOL,5,For The Win,Karma,1.0,26:15,OK,blue,FTW,   VICTORY   ,51.9k,12,  11 ,  3 ,  1 ,  2 ,  2 ,Leblanc,Ornn,Kalista,Trundle,Gragas
+2020.0,summer,LPLOL,5,For The Win,Karma,1.0,26:15,OK,red,KRM,   DEFEAT   ,37.9k,4,  0 ,  0 ,  0 ,  1 ,  0 ,LeeSin,Ezreal,Volibear,RekSai,Kled
+2020.0,summer,LPLOL,5,SAMCLAN,OFFSET,1.0,28:37,OK,blue,SAM,   VICTORY   ,56.9k,15,  10 ,  2 ,  1 ,  4 ,  2 ,MissFortune,Ezreal,Kalista,Thresh,Nautilus
+2020.0,summer,LPLOL,5,SAMCLAN,OFFSET,1.0,28:37,OK,red,OFF7,   DEFEAT   ,40.0k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Varus,Lux,Syndra,Leblanc
+2020.0,summer,LPLOL,5,GTZ,OFFSET,1.0,26:02,OK,blue,GTZ,   DEFEAT   ,37.2k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Kalista,LeeSin,Nautilus,Thresh,
+2020.0,summer,LPLOL,5,GTZ,OFFSET,1.0,26:02,OK,red,OFF7,   VICTORY   ,48.4k,12,  10 ,  2 ,  1 ,  4 ,  1 ,Varus,Syndra,Graves,Galio,Orianna
+2020.0,summer,LPLOL,5,GeekCase,For The Win,1.0,40:34,OK,blue,GC,   DEFEAT   ,65.5k,18,  5 ,  0 ,  1 ,  3 ,  0 ,Varus,Thresh,Lulu,Karma,
+2020.0,summer,LPLOL,5,GeekCase,For The Win,1.0,40:34,OK,red,FTW,   VICTORY   ,75.0k,27,  7 ,  1 ,  1 ,  3 ,  2 ,Ezreal,Ekko,Volibear,Trundle,RekSai
+2020.0,summer,LPLOL,5,Karma,Boavista,1.0,38:55,OK,blue,KRM,   DEFEAT   ,63.2k,14,  2 ,  0 ,  0 ,  2 ,  1 ,Ekko,Kled,Blitzcrank,Karma,Viktor
+2020.0,summer,LPLOL,5,Karma,Boavista,1.0,38:55,OK,red,BFC,   VICTORY   ,72.5k,17,  10 ,  2 ,  1 ,  4 ,  1 ,Leblanc,Zoe,TwistedFate,Aatrox,Sett
+2020.0,summer,LPLOL,5,Electronik,SAMCLAN,1.0,29:41,OK,blue,EGN,   VICTORY   ,59.2k,18,  11 ,  3 ,  1 ,  3 ,  1 ,Zoe,Lux,Trundle,Camille,Irelia
+2020.0,summer,LPLOL,5,Electronik,SAMCLAN,1.0,29:41,OK,red,SAM,   DEFEAT   ,44.6k,3,  0 ,  0 ,  0 ,  1 ,  1 ,Gangplank,Sylas,Varus,RekSai,Volibear
+2020.0,summer,LPLOL,6,Boavista,GeekCase,1.0,35:58,OK,blue,BFC,   VICTORY   ,64.9k,19,  8 ,  1 ,  1 ,  4 ,  2 ,Syndra,Illaoi,Cassiopeia,Karma,Thresh
+2020.0,summer,LPLOL,6,Boavista,GeekCase,1.0,35:58,OK,red,GC,   DEFEAT   ,57.0k,9,  4 ,  0 ,  0 ,  2 ,  0 ,Blitzcrank,Varus,Ekko,Aphelios,Kalista
+2020.0,summer,LPLOL,6,OFFSET,Karma,1.0,26:41,OK,blue,OFF7,   VICTORY   ,52.0k,17,  10 ,  2 ,  1 ,  4 ,  2 ,Gangplank,Thresh,Leblanc,Nautilus,Blitzcrank
+2020.0,summer,LPLOL,6,OFFSET,Karma,1.0,26:41,OK,red,KRM,   DEFEAT   ,41.8k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Ornn,Syndra,Ezreal,Aphelios,TwistedFate
+2020.0,summer,LPLOL,6,SAMCLAN,GTZ,1.0,27:10,OK,blue,SAM,   VICTORY   ,54.9k,20,  9 ,  2 ,  1 ,  3 ,  2 ,Aatrox,RekSai,Kalista,Ornn,Syndra
+2020.0,summer,LPLOL,6,SAMCLAN,GTZ,1.0,27:10,OK,red,GTZ,   DEFEAT   ,38.3k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Graves,Ashe,Camille,Zoe,
+2020.0,summer,LPLOL,6,For The Win,Electronik,1.0,33:35,OK,blue,FTW,   DEFEAT   ,54.2k,15,  2 ,  0 ,  0 ,  3 ,  1 ,RekSai,Sylas,Ekko,Thresh,Morgana
+2020.0,summer,LPLOL,6,For The Win,Electronik,1.0,33:35,OK,red,EGN,   VICTORY   ,59.5k,18,  8 ,  2 ,  1 ,  2 ,  1 ,Orianna,Xayah,Leblanc,Aphelios,Ezreal
+2020.0,summer,LPLOL,6,Electronik,Boavista,1.0,25:00,OK,blue,EGN,   VICTORY   ,49.3k,17,  10 ,  2 ,  1 ,  4 ,  2 ,Ekko,Kled,Blitzcrank,Fizz,Orianna
+2020.0,summer,LPLOL,6,Electronik,Boavista,1.0,25:00,OK,red,BFC,   DEFEAT   ,38.6k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Ornn,TwistedFate,Thresh,Soraka
+2020.0,summer,LPLOL,6,For The Win,SAMCLAN,1.0,38:29,OK,blue,FTW,   DEFEAT   ,64.0k,9,  9 ,  1 ,  1 ,  1 ,  1 ,Karma,Zoe,Trundle,Camille,Braum
+2020.0,summer,LPLOL,6,For The Win,SAMCLAN,1.0,38:29,OK,red,SAM,   VICTORY   ,66.2k,4,  8 ,  1 ,  1 ,  5 ,  1 ,Orianna,Azir,Thresh,Aphelios,Ashe
+2020.0,summer,LPLOL,6,GeekCase,OFFSET,1.0,34:30,OK,blue,GC,   DEFEAT   ,47.6k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Graves,LeeSin,TwistedFate,Orianna,Azir
+2020.0,summer,LPLOL,6,GeekCase,OFFSET,1.0,34:30,OK,red,OFF7,   VICTORY   ,60.8k,14,  10 ,  2 ,  1 ,  4 ,  2 ,Illaoi,Syndra,Thresh,Yorick,Camille
+2020.0,summer,LPLOL,6,Karma,GTZ,1.0,32:45,OK,blue,KRM,   DEFEAT   ,52.4k,7,  3 ,  0 ,  1 ,  1 ,  1 ,Vladimir,Ezreal,Graves,Gragas,Sett
+2020.0,summer,LPLOL,6,Karma,GTZ,1.0,32:45,OK,red,GTZ,   VICTORY   ,55.7k,10,  9 ,  1 ,  1 ,  4 ,  1 ,Senna,Syndra,Volibear,Nautilus,Ashe
+2020.0,summer,LPLOL,Tiebreakers,GeekCase,GTZ,1.0,34:48,OK,blue,GTZ,   VICTORY   ,66.3k,21,  9 ,  1 ,  2 ,  3 ,  0 ,Syndra,Senna,Yorick,Viktor,Cassiopeia
+2020.0,summer,LPLOL,Tiebreakers,GeekCase,GTZ,1.0,34:48,OK,red,GC,   DEFEAT   ,55.9k,11,  5 ,  0 ,  0 ,  2 ,  2 ,Graves,Volibear,Nautilus,Orianna,Galio

@@ -1,0 +1,157 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,spring,LEC,1,Origen,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,Origen,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,G2,Fnatic,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,G2,Fnatic,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,G2,Fnatic,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,Misfits,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,Misfits,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,Misfits,Giants Gaming,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,Unicorns Of Love,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,Unicorns Of Love,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,Team ROCCAT,G2,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,Team ROCCAT,G2,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,H2k Gaming,Splyce,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,1,H2k Gaming,Splyce,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Unicorns Of Love,Origen,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Unicorns Of Love,Origen,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Misfits,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Misfits,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Team Vitality,Splyce,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Team Vitality,Splyce,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Giants Gaming,Fnatic,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Giants Gaming,Fnatic,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Giants Gaming,Fnatic,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Unicorns Of Love,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Unicorns Of Love,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Unicorns Of Love,H2k Gaming,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Misfits,G2,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Misfits,G2,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Misfits,G2,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Team Vitality,Origen,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Team Vitality,Origen,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Giants Gaming,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Giants Gaming,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,2,Giants Gaming,Team ROCCAT,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Splyce,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Splyce,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Splyce,Unicorns Of Love,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Fnatic,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Fnatic,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Team Vitality,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Team Vitality,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Team Vitality,H2k Gaming,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Giants Gaming,G2,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Giants Gaming,G2,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Origen,Splyce,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Origen,Splyce,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Team ROCCAT,Fnatic,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Team ROCCAT,Fnatic,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,3,Team ROCCAT,Fnatic,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,Giants Gaming,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,Giants Gaming,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,G2,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,G2,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,G2,H2k Gaming,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,Splyce,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,Splyce,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,Fnatic,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,Fnatic,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,Fnatic,Team Vitality,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,H2k Gaming,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,H2k Gaming,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,G2,Origen,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,4,G2,Origen,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,G2,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,G2,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Fnatic,Splyce,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Fnatic,Splyce,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Fnatic,Splyce,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Team Vitality,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Team Vitality,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,H2k Gaming,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,H2k Gaming,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Splyce,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Splyce,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Fnatic,Origen,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,5,Fnatic,Origen,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Unicorns Of Love,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Unicorns Of Love,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Unicorns Of Love,Misfits,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Fnatic,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Fnatic,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,G2,Team Vitality,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,G2,Team Vitality,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Splyce,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Splyce,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Origen,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Origen,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Team ROCCAT,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,6,Team ROCCAT,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Team Vitality,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Team Vitality,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Team Vitality,Giants Gaming,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Team ROCCAT,Origen,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Team ROCCAT,Origen,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Team ROCCAT,Origen,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,G2,Splyce,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,G2,Splyce,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,G2,Splyce,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Fnatic,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Fnatic,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Fnatic,Unicorns Of Love,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Team Vitality,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Team Vitality,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Misfits,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Misfits,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Origen,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Origen,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,7,Origen,Giants Gaming,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Team Vitality,Origen,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Team Vitality,Origen,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Team ROCCAT,Fnatic,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Team ROCCAT,Fnatic,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Team ROCCAT,Fnatic,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Unicorns Of Love,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Unicorns Of Love,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,G2,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,G2,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,G2,Misfits,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Team ROCCAT,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Team ROCCAT,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Splyce,Origen,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,8,Splyce,Origen,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Team Vitality,Splyce,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Team Vitality,Splyce,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,G2,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,G2,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Team ROCCAT,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Team ROCCAT,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Origen,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Origen,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Team Vitality,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Team Vitality,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Team Vitality,H2k Gaming,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Fnatic,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Fnatic,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,9,Fnatic,Giants Gaming,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Splyce,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Splyce,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Splyce,Unicorns Of Love,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,G2,Fnatic,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,G2,Fnatic,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,G2,Fnatic,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Origen,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Origen,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Giants Gaming,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Giants Gaming,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Team Vitality,Unicorns Of Love,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Team Vitality,Unicorns Of Love,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,G2,Team ROCCAT,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,G2,Team ROCCAT,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,G2,Team ROCCAT,3.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Splyce,H2k Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Splyce,H2k Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Fnatic,Misfits,1.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Fnatic,Misfits,2.0,this row doesn't have MH_url
+2017.0,spring,LEC,10,Fnatic,Misfits,3.0,this row doesn't have MH_url
