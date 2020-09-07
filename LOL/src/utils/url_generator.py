@@ -115,3 +115,68 @@ class UrlGamepedia(UrlGenerator):
 				else:
 					pass
 		return url_list
+
+
+class UrlOddsportal(UrlGenerator):
+	def __init__(self):
+		super().__init__()
+		self.nation_dict = {
+			'Korea':['south-korea', 'champions-korea'], #2020: 4, 2019: 4, 2018: 4, 2017: 4   #year: page_num
+			'Australia':['australia', 'oceanic-pro-league'], #2020: 4, 2019: 4, 2018: 2, 2017: 2
+			'Brazil':['brazil', 'circuito-brasileiro-de-league-of-legends'], #2020: 4, 2019: 4, 2018: 2, 2017: 1
+			'China':['china', 'lol-pro-league'], #2020: 6, 2019: 6, 2018: 6, 2017: 5
+			'Europe':['europe', 'european-championship'], #2020: 4, 2019: 4
+			'Russia':['russia', 'lol-continental-league'], #2020: 3, 2019: 3, 2018: 3, 2017: 3
+			'USA':['usa', 'championship-series']
+		}
+		self.availableYearForEachLeague_dict = {
+			**dict.fromkeys(['Korea', 'Australia', 'Brazil', 'China', 'Russia', 'USA'], [2017 + x for x in range(4)]),
+			**dict.fromkeys(['Europe'], [2019, 2020])
+		}
+		self.availablePageForEachLeague_dict = {
+			**dict.fromkeys([('Brazil', 2017), ], 1),
+			**dict.fromkeys([('Australia', 2017), ('Australia', 2018), ('Brazil', 2018), ], 2),
+			**dict.fromkeys([('Russia', 2017), ('Russia', 2018), ('Russia', 2019), ('Russia', 2020), ], 3),
+			**dict.fromkeys([('Korea', 2017), ('Korea', 2018), ('Korea', 2019), ('Korea', 2020), ('Australia', 2019), ('Australia', 2020), 
+			('Brazil', 2019), ('Brazil', 2020), ('Europe', 2019), ('Europe', 2020), ('USA', 2019), ('USA', 2020)], 4),
+			**dict.fromkeys([('China', 2017), ], 5),
+			**dict.fromkeys([('China', 2018), ('China', 2019), ('China', 2020), ], 6),
+			**dict.fromkeys([('USA', 2017), ], 7),
+			**dict.fromkeys([('USA', 2018), ], 8),
+		}
+		self.leagueCountry_dict = {
+			'LCK':'Korea',
+			'OPL':'Australia',
+			'CBLOL':'Brazil',
+			'LPL':'China',
+			'LEC':'Europe',
+			'LCL':'Russia',
+			'LCS':'USA'
+		}
+
+	def get_all_leagues(self):
+		return list(self.leagueCountry_dict.keys())
+
+	def set_league(self, league=None):
+		if not league:
+			self.league = self.get_all_leagues()
+		else:
+			self.league = league
+		return
+
+	def generate_url(self):
+		url_dict = dict()
+		for league in self.league:
+			country = self.leagueCountry_dict[league]
+			yr_range = self.end_year - self.start_year
+			for year in [self.start_year + x for x in range(yr_range+1)]:
+				if year in self.availableYearForEachLeague_dict[country]:
+					country_url = self.nation_dict[country][0]
+					league_url = self.nation_dict[country][-1]
+					page_num = self.availablePageForEachLeague_dict[(country, year)]
+					if year == 2020:
+						temp_url = f'https://www.oddsportal.com/esports/{country_url}/league-of-legends-{league_url}/results/'
+					else:
+						temp_url = f'https://www.oddsportal.com/esports/{country_url}/league-of-legends-{league_url}-{int(year)}/results/'
+					url_dict[temp_url] = {'Country': country, 'page_num': page_num, 'League': league, 'Year': year}
+		return url_dict
