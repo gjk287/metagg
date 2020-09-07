@@ -1,0 +1,17 @@
+year,season,league_name,week,date,team_1,team_2,result
+2017.0,spring,LCS_a,1,2017-01-26,TS,EUN,1-1
+2017.0,spring,LCS_a,1,2017-01-26,DFX,TG,2-0
+2017.0,spring,LCS_a,1,2017-01-26,BGJ,GCU,1-1
+2017.0,spring,LCS_a,2,2017-02-02,BGJ,DFX,1-1
+2017.0,spring,LCS_a,2,2017-02-02,GCU,EUN,1-1
+2017.0,spring,LCS_a,2,2017-02-02,TG,TS,0-2
+2017.0,spring,LCS_a,3,2017-02-09,GCU,TS,1-1
+2017.0,spring,LCS_a,3,2017-02-09,EUN,DFX,2-0
+2017.0,spring,LCS_a,3,2017-02-09,TG,BGJ,0-2
+2017.0,spring,LCS_a,4,2017-02-16,EUN,TG,2-0
+2017.0,spring,LCS_a,4,2017-02-16,TS,BGJ,1-1
+2017.0,spring,LCS_a,4,2017-02-16,DFX,GCU,0-2
+2017.0,spring,LCS_a,5,2017-03-02,GCU,TG,2-0
+2017.0,spring,LCS_a,5,2017-03-02,TS,DFX,2-0
+2017.0,spring,LCS_a,5,2017-03-02,EUN,BGJ,2-0
+2017.0,spring,LCS_a,Tiebreakers,2017-03-02,GCU,TS,1-0
