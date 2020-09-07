@@ -1,0 +1,13 @@
+date,league_name,year,season,team_1,team_2,betting_site,saved_time,set_number,special:Winner:home,special:Winner:away,over_under:Total Towers Destroyed:12.50:over,over_under:Total Towers Destroyed:12.50:under,over_under:Total Barons Slain:1.50:over,over_under:Total Barons Slain:1.50:under,over_under:Total Dragons Slain:4.50:over,over_under:Total Dragons Slain:4.50:under,both:Teams to Slay a Dragon:yes,both:Teams to Slay a Dragon:no,both:Teams to Slay a Baron:yes,both:Teams to Slay a Baron:no,both:Teams to Destroy an Inhibitor:yes,both:Teams to Destroy an Inhibitor:no,special:Team to Destroy the First Tower:home,special:Team to Destroy the First Tower:away
+2020-09-06,LJL,2020.0,summer,Detonation FocusMe,V3 Esports,unikrn,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,
+2020-09-06,LJL,2020.0,summer,Detonation FocusMe,V3 Esports,unikrn,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,
+2020-09-06,LJL,2020.0,summer,Detonation FocusMe,V3 Esports,unikrn,2020-09-06 23:00:00,3.0,2.1,1.66,,,,,,,,,,,,,,
+2020-09-07,LEC,2020.0,summer,G2,Fnatic,unikrn,2020-09-06 23:00:00,1.0,2.1,1.66,1.83,1.83,2.37,1.53,1.53,2.37,,,,,7.0,1.1,1.83,1.83
+2020-09-07,LEC,2020.0,summer,G2,Fnatic,unikrn,2020-09-06 23:00:00,2.0,2.1,1.66,1.83,1.83,2.37,1.53,1.53,2.37,1.22,4.0,6.0,1.12,,,,
+2020-09-07,LEC,2020.0,summer,G2,Fnatic,unikrn,2020-09-06 23:00:00,3.0,2.1,1.66,1.83,1.83,2.37,1.53,1.53,2.37,1.22,4.0,,,,,,
+2020-09-07,LCS,2020.0,summer,FlyQuest,TSM,unikrn,2020-09-06 23:00:00,1.0,1.83,1.83,2.0,1.72,2.37,1.53,1.4,2.75,,,,,7.0,1.1,1.83,1.83
+2020-09-07,LCS,2020.0,summer,FlyQuest,TSM,unikrn,2020-09-06 23:00:00,2.0,1.83,1.83,2.0,1.72,2.37,1.53,1.4,2.75,1.22,4.0,6.0,1.12,,,,
+2020-09-07,LCS,2020.0,summer,FlyQuest,TSM,unikrn,2020-09-06 23:00:00,3.0,1.83,1.83,2.0,1.72,2.37,1.53,1.4,2.75,1.22,4.0,,,,,,
+2020-09-07,LCK,2020.0,summer,Afreeca,KT,unikrn,2020-09-06 23:00:00,1.0,1.53,2.37,,,,,,,,,,,8.0,1.08,1.83,1.83
+2020-09-07,LCK,2020.0,summer,Afreeca,KT,unikrn,2020-09-06 23:00:00,2.0,1.53,2.37,,,,,,,1.28,3.5,6.5,1.11,,,,
+2020-09-07,LCK,2020.0,summer,Afreeca,KT,unikrn,2020-09-06 23:00:00,3.0,1.53,2.37,,,,,,,1.28,3.5,,,,,,

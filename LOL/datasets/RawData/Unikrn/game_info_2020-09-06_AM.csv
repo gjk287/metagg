@@ -1,0 +1,15 @@
+date,league_name,year,season,team_1,team_2,betting_site,special:game_win:home,special:game_win:away,saved_time,special:Map 4 Team to Slay the First Dragon:home,special:Map 4 Team to Slay the First Dragon:away,special:Map 4 Team to Destroy the First Tower:home,special:Map 4 Team to Destroy the First Tower:away,special:Map 4 Team to Slay the First Baron:home,special:Map 4 Team to Slay the First Baron:away,special:Map 4 Winner:home,special:Map 4 Winner:away,special:Team to Score a Quadra Kill:home,special:Team to Score a Quadra Kill:away,special:Team to Score a Penta Kill:home,special:Team to Score a Penta Kill:away,over_under:Total Maps Played:4.50:over,over_under:Total Maps Played:4.50:under,handicap:set_handicap:+1.50:home,handicap:set_handicap:-1.50:away,special:3-0,special:3-1,special:3-2,special:0-3,special:1-3,special:2-3,over_under:Total Maps Played:3.50:over,over_under:Total Maps Played:3.50:under,handicap:set_handicap:-1.50:home,handicap:set_handicap:+1.50:away
+2020-09-06,LCS,2020.0,summer,TSM,TL,unikrn,4.50,1.20,2020-09-06 11:00:00,1.72,2.0,1.72,2.0,1.66,2.1,1.66,2.1,,,,,,,,,,,,,,,,,,
+2020-09-06,CBLOL,2020.0,summer,INTZ,PAIN,unikrn,1.20,4.50,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-06,LJL,2020.0,summer,Detonation FocusMe,V3 Esports,unikrn,2.20,1.61,2020-09-06 11:00:00,,,,,,,,,3.0,2.8,12.0,12.0,2.5,1.5,1.5,2.5,DetonatioN FM 3-0:8.0,DetonatioN FM 3-1:5.5,DetonatioN FM 3-2:5.0,V3 3-0:5.5,V3 3-1:3.8,V3 3-2:4.33,,,,
+2020-09-06,LOL Development League,2020.0,summer,IG Young,Shu Dai Xiong Gaming,unikrn,1.33,3.25,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,IGY 3-0:3.2,IGY 3-1:3.4,IGY 3-2:4.33,Shu Dai Xiong Gaming 3-0:15.0,Shu Dai Xiong Gaming 3-1:8.0,Shu Dai Xiong Gaming 3-2:6.5,1.4,2.75,1.72,2.0
+2020-09-07,LEC,2020.0,summer,G2,Fnatic,unikrn,1.50,2.50,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-07,LCK,2020.0,summer,Afreeca,KT,unikrn,1.40,2.75,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,AF 3-0:3.6,AF 3-1:3.5,AF 3-2:4.33,KT 3-0:10.0,KT 3-1:7.5,KT 3-2:6.5,1.4,2.75,1.83,1.83
+2020-09-08,LFL,2020.0,summer,gameward,MCES,unikrn,1.36,3.00,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-08,LFL,2020.0,summer,Vitality.Bee,IZI Dream,unikrn,1.53,2.37,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-08,LFL,2020.0,summer,Solary,GamersOrigin,unikrn,3.00,1.36,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-08,LFL,2020.0,summer,Misfits Premier,LDLC OL,unikrn,1.66,2.10,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-09,LFL,2020.0,summer,MCES,GamersOrigin,unikrn,5.00,1.16,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-09,LFL,2020.0,summer,gameward,LDLC OL,unikrn,2.37,1.53,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-09,LFL,2020.0,summer,Vitality.Bee,Misfits Premier,unikrn,2.37,1.53,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,
+2020-09-09,LFL,2020.0,summer,Solary,IZI Dream,unikrn,1.83,1.83,2020-09-06 11:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,13 @@
+date,league_name,year,season,team_1,team_2,betting_site,special:game_win:home,special:game_win:away,saved_time,special:Map 4 Team to Slay the First Dragon:home,special:Map 4 Team to Slay the First Dragon:away,special:Map 4 Team to Slay the First Baron:home,special:Map 4 Team to Slay the First Baron:away,special:Team to Score a Quadra Kill:home,special:Team to Score a Quadra Kill:away,special:Team to Score a Penta Kill:home,special:Team to Score a Penta Kill:away,special:Map 4 Winner:home,special:Map 4 Winner:away,over_under:Total Maps Played:4.50:over,over_under:Total Maps Played:4.50:under,handicap:set_handicap:+1.50:home,handicap:set_handicap:-1.50:away,special:3-0,special:3-1,special:3-2,special:0-3,special:1-3,special:2-3,handicap:set_handicap:-1.50:home,handicap:set_handicap:+1.50:away
+2020-09-06,LJL,2020.0,summer,Detonation FocusMe,V3 Esports,unikrn,2.25,1.57,2020-09-06 23:00:00,1.83,1.83,2.0,1.72,4.5,4.0,21.0,21.0,2.1,1.66,,,,,,,,,,,,
+2020-09-07,LEC,2020.0,summer,G2,Fnatic,unikrn,1.53,2.37,2020-09-06 23:00:00,,,,,3.25,2.8,15.0,12.0,,,2.5,1.5,1.57,2.25,Fnatic 3-0:8.5,Fnatic 3-1:6.0,Fnatic 3-2:5.0,G2 3-0:5.0,G2 3-1:3.8,G2 3-2:4.33,,
+2020-09-07,LCS,2020.0,summer,FlyQuest,TSM,unikrn,1.72,2.00,2020-09-06 23:00:00,,,,,3.0,3.0,12.0,12.0,,,2.5,1.5,,,FLY 3-0:6.0,FLY 3-1:4.33,FLY 3-2:4.33,TSM 3-0:7.0,TSM 3-1:5.0,TSM 3-2:5.0,2.62,1.44
+2020-09-07,LCK,2020.0,summer,Afreeca,KT,unikrn,1.40,2.75,2020-09-06 23:00:00,,,,,2.8,3.6,12.0,15.0,,,2.62,1.44,,,AF 3-0:3.6,AF 3-1:3.5,AF 3-2:4.5,KT 3-0:12.0,KT 3-1:7.0,KT 3-2:6.0,1.83,1.83
+2020-09-08,LFL,2020.0,summer,gameward,MCES,unikrn,1.36,3.00,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,,,,,,
+2020-09-08,LFL,2020.0,summer,Vitality.Bee,IZI Dream,unikrn,1.53,2.37,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,,,,,,
+2020-09-08,LFL,2020.0,summer,Solary,GamersOrigin,unikrn,3.00,1.36,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,,,,,,
+2020-09-08,LFL,2020.0,summer,Misfits Premier,LDLC OL,unikrn,1.66,2.10,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,,,,,,
+2020-09-09,LFL,2020.0,summer,MCES,GamersOrigin,unikrn,5.00,1.16,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,,,,,,
+2020-09-09,LFL,2020.0,summer,gameward,LDLC OL,unikrn,2.25,1.57,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,,,,,,
+2020-09-09,LFL,2020.0,summer,Vitality.Bee,Misfits Premier,unikrn,2.37,1.53,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,,,,,,
+2020-09-09,LFL,2020.0,summer,Solary,IZI Dream,unikrn,1.83,1.83,2020-09-06 23:00:00,,,,,,,,,,,,,,,,,,,,,,
