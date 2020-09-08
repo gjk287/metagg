@@ -12,8 +12,8 @@ def main():
 	preprocess_and_save('match_history_url')
 
 
-def preprocess_and_save(data_type='game_schedule'):
-	if data_type == 'game_schedule':
+def preprocess_and_save(data_name='game_schedule', table_name=None, save=True):
+	if data_name == 'game_schedule':
 		df = pd.DataFrame()
 		for file in glob.glob('LOL\\datasets\\RawData\\Gamepedia\\game_schedule\\*csv'):
 			# open file
@@ -28,7 +28,7 @@ def preprocess_and_save(data_type='game_schedule'):
 		# save
 		newPath = f'LOL\\datasets\\DerivedData\\None_DB_table\\game_schedule.csv'
 
-	elif data_type == 'match_history_url':
+	elif data_name == 'match_history_url':
 		df = pd.DataFrame()
 		for file in glob.glob('LOL\\datasets\\RawData\\Gamepedia\\match_history_url\\*csv'):
 			# open file
@@ -44,7 +44,14 @@ def preprocess_and_save(data_type='game_schedule'):
 	else:
 		print('wrong data')
 
-	df.to_csv(newPath, index=False)
+	if save:
+		try:
+			df.to_csv(newPath, index=False)
+		except:
+			newPath = f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\{newPath}'
+			df.to_csv(newPath, index=False)
+	else:
+		return df
 
 
 if __name__ == "__main__":
