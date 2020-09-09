@@ -13,7 +13,7 @@ from database_utils import tableUniqueKey, tableFK_dict, tablePK_dict, func_exte
 
 
 class DB(object):
-	def __init__(self, host='loldbinstance.crj9bbxpdcgf.ap-northeast-2.rds.amazonaws.com', database='meta-gg', user='postgres', password='Rlwjd132'):
+	def __init__(self, host='loldbinstance.crj9bbxpdcgf.ap-northeast-2.rds.amazonaws.com', database='meta-gg', user='postgres', password='metagg2020'):
 		self.host = host
 		self.database = database
 		self.user = user
