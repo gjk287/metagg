@@ -22,3 +22,4 @@
 # language #
 ############
 *.pyc
+.ipynb_checkpoints
