@@ -1,6 +1,6 @@
 import pandas as pd
 
-def func_extend_idToValue(self, matching_dict, row):
+def func_extend_idToValue(matching_dict, row):
 	length = len(list(matching_dict['idToValue'].values())[0])
 	temp_list = []
 	for i in range(length):
