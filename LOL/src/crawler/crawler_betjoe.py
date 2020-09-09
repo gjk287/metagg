@@ -5,7 +5,7 @@ import os
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from crawler import Crawler
-from utils import GameDictionary
+from utils import GameDictionary, date_to_datetime_to_string
 
 
 class Betjoe(Crawler):
@@ -48,9 +48,12 @@ class Betjoe(Crawler):
 			all_game = group.find_elements_by_class_name('_1NtMe')
 			for game in all_game:
 				# get value for href_df
-				game_date = game.find_element_by_css_selector('a').text.split('\n')[0]
-				team_1 = game.find_element_by_css_selector('a').text.split('\n')[-2]
-				team_2 = game.find_element_by_css_selector('a').text.split('\n')[-1]
+				# game_date = game.find_element_by_css_selector('a').text.split('\n')[0]
+				# team_1 = game.find_element_by_css_selector('a').text.split('\n')[-2]
+				# team_2 = game.find_element_by_css_selector('a').text.split('\n')[-1]
+				game_date = game.find_element_by_class_name('_3tR88').text
+				team_1 = game.find_element_by_class_name('OY9uM._3YXvb').text.split('\n')[0]
+				team_2 = game.find_element_by_class_name('OY9uM._3YXvb').text.split('\n')[-1]
 				href_url = game.find_element_by_css_selector('a').get_attribute('href')
 				year = now.year
 				season = 'summer'
@@ -404,8 +407,11 @@ class Betjoe(Crawler):
 		self.game_info_df['date'] = self.game_info_df['date'].apply(lambda x: '2020 ' + x)
 		self.special_odds_df['date'] = self.special_odds_df['date'].apply(lambda x: '2020 ' + x)
 		
-		self.game_info_df['date'] = self.game_info_df['date'].apply(lambda x: datetime.strptime(x, '%Y %d %b').strftime('%Y-%m-%d'))		
-		self.special_odds_df['date'] = self.special_odds_df['date'].apply(lambda x: datetime.strptime(x, '%Y %d %b').strftime('%Y-%m-%d'))
+		self.game_info_df['date'] = self.game_info_df['date'].apply(date_to_datetime_to_string)		
+		self.special_odds_df['date'] = self.special_odds_df['date'].apply(date_to_datetime_to_string)
+
+		self.game_info_df['date'] = self.game_info_df['date'].fillna(method='ffill')
+		self.special_odds_df['date'] = self.special_odds_df['date'].fillna(method='ffill')
 
 		PATH = 'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\LOL\\datasets\\RawData\\Betjoe'
 		TIME = date.today().strftime('%Y-%m-%d')

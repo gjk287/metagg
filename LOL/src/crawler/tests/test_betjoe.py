@@ -4,21 +4,22 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from crawler_betjoe import Betjoe
 
 def main():
-	result = None
-	while result is None:
-		try:
-			result = crawl_and_save()
-		except:
-			pass
-
-def crawl_and_save():
 	url = 'https://sports.betjoe.com/sport/esports'
 	
 	# instantiate
 	betjoe = Betjoe(url)
-
-	# get selenium driver and go to the link
 	betjoe.get_driver()
+
+	result = None
+	while result is None:
+		try:
+			result = crawl_and_save(betjoe)
+		except:
+			pass
+
+def crawl_and_save(betjoe):
+	# get selenium driver and go to the link
+	
 	betjoe.go_to_link()
 
 	# get into League of Legends section

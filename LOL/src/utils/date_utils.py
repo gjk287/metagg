@@ -27,3 +27,11 @@ def str_to_datetime(date):
 		else:
 			dateObj = None
 	return dateObj
+
+
+def date_to_datetime_to_string(date):
+	try:
+		return_date = datetime.strptime(date, '%Y %d %b').strftime('%Y-%m-%d')
+	except:
+		return_date = None
+	return return_date
