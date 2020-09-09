@@ -58,7 +58,7 @@ def get_OracleElixir():
 	return oe_df.reset_index(drop=True)
 
 def get_matchSchedule():
-	df = pd.read_csv(r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta-gg\League_of_Legends\datasets\DerivedData\None_DB_table\game_schedule.csv')
+	df = pd.read_csv(r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta.gg\LOL\datasets\DerivedData\None_DB_table\game_schedule.csv')
 	return df
 
 def toWDL(string, homeAway='home'):
