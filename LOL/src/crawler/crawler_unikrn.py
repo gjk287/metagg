@@ -137,6 +137,7 @@ class Unikrn(Crawler):
 		temp_df = self.game_info_df
 		# iterate through href dataframe
 		for idx, val in self.href_df.iterrows():
+			bet12_class_name = 'style__Selections-dbdcsb-13.dNrWxB'
 			# if url exists
 			if val['event_url_href']:
 				self.driver.get(val['event_url_href'])
@@ -188,7 +189,7 @@ class Unikrn(Crawler):
 									# get bet_type and odds for set_match related bets
 									if ('Over/Under' in new_bet_name) | ('over/under' in new_bet_name):
 										bet_type = 'over_under'
-										bet_12 = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.bhqKla').text.split('\n')
+										bet_12 = each_bet.find_element_by_class_name(bet12_class_name).text.split('\n')
 										if len(bet_12) == 4:
 											# get odds for over, under. If odds are not float then go to next bet
 											try:
@@ -208,7 +209,7 @@ class Unikrn(Crawler):
 
 									elif ('Both' in new_bet_name):
 										bet_type = 'both'
-										bet_12 = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.bhqKla').text.split('\n')
+										bet_12 = each_bet.find_element_by_class_name(bet12_class_name).text.split('\n')
 										if len(bet_12) == 4:
 											# get odds for over, under. If odds are not float then go to next bet
 											try:
@@ -221,7 +222,7 @@ class Unikrn(Crawler):
 											special_betting_df.loc[count+map_set[Map]-1, f'{bet_type}:{" ".join(new_bet_name.split(" ")[1:])}:no'] = odd_2
 									else:
 										bet_type = 'special'
-										bet_12 = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.bhqKla').text.split('\n')
+										bet_12 = each_bet.find_element_by_class_name(bet12_class_name).text.split('\n')
 										if len(bet_12) == 4:
 											# get odds for over, under. If odds are not float then go to next bet
 											try:
@@ -237,7 +238,7 @@ class Unikrn(Crawler):
 							try:
 								if 'Handicap' in bet_name:
 									bet_type = 'handicap'
-									bet_12 = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.bhqKla').text.split('\n')
+									bet_12 = each_bet.find_element_by_class_name(bet12_class_name).text.split('\n')
 									if len(bet_12) == 4:
 										# get odds for over, under. If odds are not float then go to next bet
 										try:
@@ -249,7 +250,7 @@ class Unikrn(Crawler):
 										temp_df.loc[idx, f'{bet_type}:set_handicap:{bet_12[2].split(" ")[-1]}:away'] = odd_2
 								elif 'Over/Under' in bet_name:
 									bet_type = 'over_under'
-									bet_12 = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.bhqKla').text.split('\n')
+									bet_12 = each_bet.find_element_by_class_name(bet12_class_name).text.split('\n')
 									if len(bet_12) == 4:
 										# get odds for over, under. If odds are not float then go to next bet
 										try:
@@ -261,7 +262,7 @@ class Unikrn(Crawler):
 										temp_df.loc[idx, f'{bet_type}:{" ".join(bet_name.split(" ")[:-2])}:{bet_name.split(" ")[-1]}:under'] = odd_2
 								else:
 									bet_type = 'special'
-									bet_12 = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.bhqKla').text.split('\n')
+									bet_12 = each_bet.find_element_by_class_name(bet12_class_name).text.split('\n')
 									if len(bet_12) == 4:
 										# get odds for over, under. If odds are not float then go to next bet
 										try:
@@ -275,7 +276,7 @@ class Unikrn(Crawler):
 							except:
 								try:
 									bet_type = 'special'
-									bet_12 = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.crvkfG').text.split('\n')
+									bet_12 = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.eVkDnl').text.split('\n')
 									# best of 3
 									if len(bet_12) == 8:
 										team_2_0 = float(bet_12[1])

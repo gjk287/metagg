@@ -5,19 +5,18 @@ from crawler import Unikrn
 
 
 def main():
-	result = None
-	while result is None:
-		try:
-			result = crawl_and_save()
-		except:
-			pass
-
-def crawl_and_save():
 	url = 'https://unikrn.com/bet/games/league-of-legends'
-	
 	# instantiate
 	unikrn = Unikrn(url)
 
+	result = None
+	while result is None:
+		try:
+			result = crawl_and_save(unikrn)
+		except:
+			pass
+
+def crawl_and_save(unikrn):
 	# get selenium driver and go to the link
 	unikrn.get_driver()
 	unikrn.go_to_link()
