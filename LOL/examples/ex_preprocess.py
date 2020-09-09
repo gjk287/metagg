@@ -3,6 +3,7 @@ import os
 import sys
 sys.path.append(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'src\\preprocess\\tests'))
 from test_preprocess_gamepedia import preprocess_and_save as pas_gamepedia
+from test_preprocess_oracleelixir import preprocess_and_save as pas_oracleelixir
 
 sys.path.append(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'src\\preprocess'))
 from preprocess_create_table import preprocess_and_save as pas_create_table
@@ -57,17 +58,50 @@ def main():
 	# preprocess_and_input(table_name)
 	# input_to_csv(table_name)
 
-	table_name = 'set_match'
+	# table_name = 'set_match'
+	# preprocess_and_input(table_name)
+	# input_to_csv(table_name)
+	
+	# table_name = 'set_match_info_by_team'
+	# preprocess_and_input(table_name)
+	# input_to_csv(table_name)
+	
+	# table_name = 'player'
+	# preprocess_and_input(table_name)
+	# input_to_csv(table_name)
+
+	# table_name = 'champion'
+	# preprocess_and_input(table_name)
+	# input_to_csv(table_name)
+
+	# ## get patch for match table from oracle elixir
+	# table_name = 'match'
+	# preprocess_and_input(table_name, data_name='oracle_elixir')
+
+	# ## get ckpm, gamelength for set_match table from oracle elixir
+	# table_name = 'set_match'
+	# preprocess_and_input(table_name, data_name='oracle_elixir')
+
+	# ## get all other columns for set_match_info_by_team from oracle elixir
+	# table_name = 'set_match_info_by_team'
+	# preprocess_and_input(table_name, data_name='oracle_elixir')
+
+	## create set_match_player_performance unique table 
+	table_name = 'set_match_player_performance'
 	preprocess_and_input(table_name)
 	input_to_csv(table_name)
-	
-	
-	
+
+	## get all other columns for set_match_player_performance from oracle elixir
+	table_name = 'set_match_player_performance'
+	preprocess_and_input(table_name, data_name='oracle_elixir')
+
+
+
 	#pas_gamepedia('match_history_url')
 
 
 
-def preprocess_and_input(table_name=None):
+def preprocess_and_input(table_name=None, data_name=None):
 	if table_name == 'league':
 		pas_create_table(table_name)
 
@@ -93,12 +127,36 @@ def preprocess_and_input(table_name=None):
 
 	elif table_name == 'match':
 		pas_matchschedule(table_name)
+		if data_name == 'oracle_elixir':
+			pas_oracleelixir(table_name)
+			return
 
 	elif table_name == 'match_info_by_team':
 		pas_matchschedule(table_name)
 
 	elif table_name == 'set_match':
 		pas_matchschedule(table_name)
+		if data_name == 'oracle_elixir':
+			pas_oracleelixir(table_name)
+			return
+
+	elif table_name == 'set_match_info_by_team':
+		pas_matchschedule(table_name)
+		if data_name == 'oracle_elixir':
+			pas_oracleelixir(table_name)
+			return
+
+	elif table_name == 'player':
+		pas_oracleelixir(table_name)
+
+	elif table_name == 'champion':
+		pas_oracleelixir(table_name)
+
+	elif table_name == 'set_match_player_performance':
+		pas_create_table(table_name)
+		if data_name == 'oracle_elixir':
+			pas_oracleelixir(table_name)
+			return
 
 
 	db.pkInput(pd.read_csv(f'LOL\\datasets\\DerivedData\\DB_table\\{table_name}\\{table_name}_unique.csv'), table_name)

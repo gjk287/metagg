@@ -3,11 +3,15 @@ import os
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils import tableUniqueKey
+from database import DB
+
+db = DB()
+db.initialise()
 
 def main():
 	pass
 
-def preprocess_and_save(data_name, table_name=None, save=True):
+def preprocess_and_save(data_name=None, table_name=None, save=True):
 	if data_name == 'league':
 		league_value = [['LCK', 'Korea', 1], ['LPL', 'China', 1], ['LEC', 'Europe', 1],
 						['LCS', 'North America', 1], ['BL', 'Belgium', 2], ['BRCC', 'Brazil', 2],
@@ -36,6 +40,38 @@ def preprocess_and_save(data_name, table_name=None, save=True):
 
 		# change for unique
 		df = df[tableUniqueKey[data_name]]
+
+	elif data_name == 'set_match_player_performance':
+		temp_df = pd.read_csv(f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\LOL\\datasets\\DerivedData\\DB_table\\set_match_info_by_team\\set_match_info_by_team_details.csv')
+		
+		playerDict = db.get_dict('player')['valueToID']
+		temp_df['top_player_id'] = temp_df['top_player'].replace(playerDict)
+		temp_df['jg_player_id'] = temp_df['jg_player'].replace(playerDict)
+		temp_df['mid_player_id'] = temp_df['mid_player'].replace(playerDict)
+		temp_df['bot_player_id'] = temp_df['bot_player'].replace(playerDict)
+		temp_df['sup_player_id'] = temp_df['sup_player'].replace(playerDict)
+		set_match_player_performance = temp_df[['set_match_info_by_team_id', 'league_name', 'year', 'season', 'date', 'team_1', 'team_2', 'set_number', 'match_round', 'tiebreaker', 'league_id', 'match_id', 'home_team_id', 'away_team_id']]
+
+		# iterate through players and concat all
+		concat_df = pd.DataFrame()
+		iter_col = ['top_player_id', 'jg_player_id', 'mid_player_id', 'bot_player_id', 'sup_player_id']
+		for col in iter_col:
+			temp_player_df = temp_df[['set_match_info_by_team_id', col]]
+			temp_player_df.columns = ['set_match_info_by_team_id', 'player_id']
+			merged_df = pd.merge(set_match_player_performance, temp_player_df, how='inner', left_on='set_match_info_by_team_id', right_on='set_match_info_by_team_id')
+			concat_df = pd.concat([concat_df, merged_df]).reset_index(drop=True)
+
+		df = concat_df
+		df = df.dropna(subset=['player_id']).reset_index(drop=True)
+		# drop unknown player
+		df = df[df['player_id'] != 549]
+
+		# path
+		newPath = f'LOL\\datasets\\DerivedData\\DB_table\\{data_name}\\{data_name}_unique.csv'
+
+		# change for unique
+		df = df[tableUniqueKey[data_name]]
+
 
 	elif data_name == 'bet_type':
 		if table_name == 'bet_type_special':
@@ -120,6 +156,8 @@ def preprocess_and_save(data_name, table_name=None, save=True):
                              ['both_team_inhib', 'yes'], ['both_team_inhib', 'no']]
 			df = pd.DataFrame(data=bet_type_value, columns = ['bet_name', 'yes_no'])
 
+		
+
 		# path
 		newPath = f'LOL\\datasets\\DerivedData\\DB_table\\{table_name}\\{table_name}_unique.csv'
 
@@ -127,7 +165,7 @@ def preprocess_and_save(data_name, table_name=None, save=True):
 		df = df[tableUniqueKey[table_name]]
 
 	else:
-		print('It is not league or betting site table. Please check again')
+		print(f'{table_name} cannot be created. Please check again')
 
 	
 	if save:

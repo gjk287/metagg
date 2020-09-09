@@ -52,7 +52,7 @@ def check_duplicate_player(player_list):
 
 def get_OracleElixir():
 	oe_df = pd.DataFrame()
-	for file in glob.glob(r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta-gg\League_of_Legends\datasets\RawData\OracleElixir\*csv'):
+	for file in glob.glob(r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta.gg\LOL\datasets\RawData\OracleElixir\*csv'):
 		temp_df = pd.read_csv(file)
 		oe_df = pd.concat([oe_df, temp_df])
 	return oe_df.reset_index(drop=True)
