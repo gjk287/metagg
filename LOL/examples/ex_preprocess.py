@@ -86,10 +86,10 @@ def main():
 	# table_name = 'set_match_info_by_team'
 	# preprocess_and_input(table_name, data_name='oracle_elixir')
 
-	## create set_match_player_performance unique table 
-	table_name = 'set_match_player_performance'
-	preprocess_and_input(table_name)
-	input_to_csv(table_name)
+	# ## create set_match_player_performance unique table 
+	# table_name = 'set_match_player_performance'
+	# preprocess_and_input(table_name)
+	# input_to_csv(table_name)
 
 	## get all other columns for set_match_player_performance from oracle elixir
 	table_name = 'set_match_player_performance'

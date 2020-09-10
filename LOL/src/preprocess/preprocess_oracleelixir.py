@@ -11,8 +11,7 @@ from database import DB
 from preprocess import Preprocess
 from utils import GameDictionary, datetime_to_strft, str_to_datetime, stringDate_to_strft, oddsToFloat, matchTypeToSeason, set_match_info_result_to_wdl
 
-db = DB()
-db.initialise()
+
 
 
 class OracleElixir(Preprocess):
@@ -21,6 +20,10 @@ class OracleElixir(Preprocess):
 		self.reference_table = None
 
 	def pp(self, table_name, ref_table=None):
+		# instantiate database
+		db = DB()
+		db.initialise()
+		
 		# instantiate dictionary and replace
 		g_dict = GameDictionary()
 		temp_df = self.original_df
@@ -108,7 +111,7 @@ class OracleElixir(Preprocess):
 
 			# db connection 열렸나 체크용
 			player_dict = db.get_dict('player')['valueToID']
-			
+
 			for idx, val in ref_table.copy().iterrows():
 				# 진도율 확인용
 				if idx % 3000 == 0:
@@ -255,9 +258,16 @@ class OracleElixir(Preprocess):
 				
 				if idx % 10000 == 0:
 					print(idx)
-
-			ref_table = ref_table.where(pd.notnull(ref_table), None)
-			ref_table = ref_table.dropna(subset=['player_id']).reset_index(drop=True)
-			ref_table = ref_table[ref_table['player_name'] != 'unknown player'].reset_index(drop=True)
-			ref_table['champion_id'] = ref_table['champion'].replace(db.get_dict('champion')['valueToID'])
+			try:
+				ref_table = ref_table.where(pd.notnull(ref_table), None)
+				ref_table = ref_table.dropna(subset=['player_id']).reset_index(drop=True)
+				ref_table = ref_table[ref_table['player_name'] != 'unknown player'].reset_index(drop=True)
+				ref_table['champion_id'] = ref_table['champion'].replace(db.get_dict('champion')['valueToID'])
+			except:
+				db = DB()
+				db.initialise()
+				ref_table = ref_table.where(pd.notnull(ref_table), None)
+				ref_table = ref_table.dropna(subset=['player_id']).reset_index(drop=True)
+				ref_table = ref_table[ref_table['player_name'] != 'unknown player'].reset_index(drop=True)
+				ref_table['champion_id'] = ref_table['champion'].replace(db.get_dict('champion')['valueToID'])
 			return ref_table.reset_index(drop=True)
