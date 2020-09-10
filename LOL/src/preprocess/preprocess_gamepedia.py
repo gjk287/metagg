@@ -36,7 +36,7 @@ class Gamepedia(Preprocess):
 
 			self.preprocessed_df = temp_df
 		
-		elif table_name == 'match_history_url':
+		elif table_name == 'set_match_url':
 			# get original_df = 바꾸려는 gamepedia 데이터
 			temp_df = self.original_df.copy()
 
