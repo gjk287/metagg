@@ -26,8 +26,6 @@ class Crawler(object):
 		return
 
 	def get_driver(self):
-		# self.driver = webdriver.Chrome(
-		# 	r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta-gg\chromedriver\chromedriver.exe')
 		self.driver = webdriver.Chrome(ChromeDriverManager().install())
 
 	def scroll_down(self):
