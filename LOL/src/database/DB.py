@@ -179,3 +179,20 @@ class DB(object):
 		if drop:
 			return df_copy.drop(id_name, axis=1)
 		return df_copy
+
+
+	def extend_valueToID(self, df, table_name):
+		# check if it has all the unique cols to make pk
+		unique_cols = tableUniqueKey[table_name]
+		if not set(unique_cols) <= set(df.columns):
+			print('Not enough unique columns in the dataframe')
+			return
+
+		# get that table dictionary
+		tableDict = self.get_dict(table_name)
+		valueToID_dict = tableDict['valueToID']
+
+		# combine those unique cols to make pk
+		col_to_use = tableDict['uniqueColumn']
+		df[tablePK_dict[table_name]] = df[col_to_use].apply(lambda row: valueToID_dict[tuple(row)], axis=1)
+		return df

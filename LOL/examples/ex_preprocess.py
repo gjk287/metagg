@@ -17,87 +17,93 @@ db = DB()
 db.initialise()
 
 def main():
-	# # create league, betting_site, bet_type table and input to DB
-	# table_name = 'league'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	# create league, betting_site, bet_type table and input to DB
+	table_name = 'league'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'betting_site'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'betting_site'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'bet_type_special'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'bet_type_special'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'bet_type_ou'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'bet_type_ou'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'bet_type_handicap'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'bet_type_handicap'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'bet_type_both'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'bet_type_both'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# # preprocess gamepedia data
-	# pas_gamepedia('game_schedule')
+	# preprocess gamepedia data
+	pas_gamepedia('game_schedule')
 
-	# # create team, match and input to DB
-	# table_name = 'team'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	# create team, match and input to DB
+	table_name = 'team'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'match'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'match'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'match_info_by_team'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'match_info_by_team'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'set_match'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'set_match'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 	
-	# table_name = 'set_match_info_by_team'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'set_match_info_by_team'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 	
-	# table_name = 'player'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'player'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# table_name = 'champion'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	table_name = 'champion'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
-	# ## get patch for match table from oracle elixir
-	# table_name = 'match'
-	# preprocess_and_input(table_name, data_name='oracle_elixir')
+	## get patch for match table from oracle elixir
+	table_name = 'match'
+	preprocess_and_input(table_name, data_name='oracle_elixir')
 
-	# ## get ckpm, gamelength for set_match table from oracle elixir
-	# table_name = 'set_match'
-	# preprocess_and_input(table_name, data_name='oracle_elixir')
+	## get ckpm, gamelength for set_match table from oracle elixir
+	table_name = 'set_match'
+	preprocess_and_input(table_name, data_name='oracle_elixir')
 
-	# ## get all other columns for set_match_info_by_team from oracle elixir
-	# table_name = 'set_match_info_by_team'
-	# preprocess_and_input(table_name, data_name='oracle_elixir')
+	## get all other columns for set_match_info_by_team from oracle elixir
+	table_name = 'set_match_info_by_team'
+	preprocess_and_input(table_name, data_name='oracle_elixir')
 
-	# ## create set_match_player_performance unique table 
-	# table_name = 'set_match_player_performance'
-	# preprocess_and_input(table_name)
-	# input_to_csv(table_name)
+	## create set_match_player_performance unique table 
+	table_name = 'set_match_player_performance'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
 	## get all other columns for set_match_player_performance from oracle elixir
 	table_name = 'set_match_player_performance'
 	preprocess_and_input(table_name, data_name='oracle_elixir')
 
+	# get set_match_url table
+	table_name = 'set_match_url'
+	preprocess_and_input(table_name)
+	input_to_csv(table_name)
 
+	# get mvp for set match
+	table_name = 'set_match'
+	preprocess_and_input(table_name, data_name='gamepedia')
 
-	#pas_gamepedia('match_history_url')
 
 
 
@@ -139,6 +145,9 @@ def preprocess_and_input(table_name=None, data_name=None):
 		if data_name == 'oracle_elixir':
 			pas_oracleelixir(table_name)
 			return
+		elif data_name == 'gamepedia':
+			pas_gamepedia(table_name)
+			return
 
 	elif table_name == 'set_match_info_by_team':
 		pas_matchschedule(table_name)
@@ -157,6 +166,9 @@ def preprocess_and_input(table_name=None, data_name=None):
 		if data_name == 'oracle_elixir':
 			pas_oracleelixir(table_name)
 			return
+
+	elif table_name == 'set_match_url':
+		pas_gamepedia(table_name)
 
 
 	db.pkInput(pd.read_csv(f'LOL\\datasets\\DerivedData\\DB_table\\{table_name}\\{table_name}_unique.csv'), table_name)
