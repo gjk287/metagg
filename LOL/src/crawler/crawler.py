@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 import pandas as pd
 import sys
@@ -25,8 +26,9 @@ class Crawler(object):
 		return
 
 	def get_driver(self):
-		self.driver = webdriver.Chrome(
-			r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta-gg\chromedriver\chromedriver.exe')
+		# self.driver = webdriver.Chrome(
+		# 	r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta-gg\chromedriver\chromedriver.exe')
+		self.driver = webdriver.Chrome(ChromeDriverManager().install())
 
 	def scroll_down(self):
 		SCROLL_PAUSE_TIME = 1
