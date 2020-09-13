@@ -111,6 +111,22 @@ def set_match_info_result_to_wdl(string):
 	except:
 		return None
 
+def change_fb_matchhistory(df):
+	first_blood_t = df['first_blood'].value_counts().idxmin()
+	df['first_blood'] = df['first_blood'].apply(lambda x: 1 if x==first_blood_t else 0)
+	return df
+
+def time_to_sec(string):
+	try:
+		min = int(string.split(':')[0])
+		sec = int(string.split(':')[-1])
+		return 60 * min + sec
+	except:
+		return None
+
+def ckpm_feature(ckill, game_length):
+	return ckill / game_length * 60
+
 
 set_match_url_column_dict = {
 	'MH': 'match_history_url',
