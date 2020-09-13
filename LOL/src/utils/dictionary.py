@@ -1,8 +1,25 @@
 class GameDictionary(object):
 	def __init__(self):
 		self.championName_dict = {
-			"Cho'gath": "Cho gath", "Cho'Gath": "Cho gath", "Kha'zix": "Kha zix", "Rek'Sai": "Rek Sai", "Vel'koz": "Vel koz", "Kog'Maw": "Kog Maw", "Kai'sa": "Kai sa", "Kai'Sa": "Kai sa",
-			"Kha'Zix": "Kha zix", "Vel'Koz": "Vel koz"
+			**dict.fromkeys(["Cho'gath", "Cho'Gath", 'Chogath'], 'Cho gath'),
+			**dict.fromkeys(["Kha'zix", "Kha'Zix", 'Khazix'], 'Kha zix'),
+			**dict.fromkeys(["Rek'Sai", 'RekSai'], 'Rek Sai'),
+			**dict.fromkeys(["Vel'koz", "Vel'Koz", 'Velkoz'], 'Vel koz'),
+			**dict.fromkeys(["Kog'Maw"], 'Kog Maw'),
+			**dict.fromkeys(["Kai'sa", "Kai'Sa", 'Kaisa'], 'Kai sa'),
+			**dict.fromkeys(["Kog'Maw", 'KogMaw'], 'Kog Maw'),
+			**dict.fromkeys(["Nunu"], 'Nunu & Willump'),
+			**dict.fromkeys(["TwistedFate"], 'Twisted Fate'),
+			**dict.fromkeys(["Leblanc"], 'LeBlanc'),
+			**dict.fromkeys(["XinZhao"], 'Xin Zhao'),
+			**dict.fromkeys(["DrMundo"], 'Dr. Mundo'),
+			**dict.fromkeys(["LeeSin"], 'Lee Sin'),
+			**dict.fromkeys(["MonkeyKing"], 'Wukong'),
+			**dict.fromkeys(["TahmKench"], 'Tahm Kench'),
+			**dict.fromkeys(["MasterYi"], 'Master Yi'),
+			**dict.fromkeys(["MissFortune"], 'Miss Fortune'),
+			**dict.fromkeys(["AurelionSol"], 'Aurelion Sol'),
+			**dict.fromkeys(["JarvanIV"], 'Jarvan IV')
 		}
 
 		self.leagueName_dict = {
@@ -39,7 +56,7 @@ class GameDictionary(object):
 
 		self.teamName_dict = {
 			# Korea (LCK)
-			**dict.fromkeys(['Afreeca', 'Afreeca Freecs', 'AF', '1AF'], 'Afreeca'),
+			**dict.fromkeys(['Afreeca', 'Afreeca Freecs', 'AF', '1AF', 'AFs'], 'Afreeca'),
 			**dict.fromkeys(['APK', 'APK Prince', 'SeolHaeOne Prince', 'SP'], 'SeolHaeOne Prince'),
 			**dict.fromkeys(['Damwon', 'DAMWON Gaming', 'DWG', 'Damwon Gaming', 'MiraGe Gaming'], 'Damwon'),
 			**dict.fromkeys(['DragonX', 'DRX', 'KZ', 'LZ', 'Longzhu Gaming', 'Kingzone DragonX', 'Longzhu', 'LZ2'], 'DragonX'),
@@ -49,12 +66,12 @@ class GameDictionary(object):
 			**dict.fromkeys(['Sandbox', 'SANDBOX Gaming', 'SB', 'Sandbox Gaming'], 'Sandbox'),
 			**dict.fromkeys(['T1', 'SKT', 'SK Telecom T1'], 'T1'),
 			**dict.fromkeys(['Dynamics', 'DYN', 'Team Dynamics'], 'Dynamics'),
-			**dict.fromkeys(['GRF', 'Griffin'], 'Griffin'),
+			**dict.fromkeys(['GRF', 'Griffin', 'FIN'], 'Griffin'),
 			**dict.fromkeys(['JAG', 'Jin Air Green Wings', '1JAG', 'Jin Air'], 'Jin Air'),
 			**dict.fromkeys(['MVP'], 'MVP'),
-			**dict.fromkeys(['bbq', 'BBQ Olivers', 'bbq Olivers'], 'bbq'),
+			**dict.fromkeys(['bbq', 'BBQ Olivers', 'bbq Olivers', 'BBQ'], 'bbq'),
 			**dict.fromkeys(['KDM', 'Kongdoo Monster', 'Kongdoo'], 'Kongdoo'),
-			**dict.fromkeys(['ROX', 'ROX Tigers'], 'ROX'),
+			**dict.fromkeys(['ROX Tigers'], 'ROX'),
 			**dict.fromkeys(['E8W', 'Ever8 Winners', 'EEW', 'Ever8'], 'Ever8'),
 			**dict.fromkeys(['SSG', 'Samsung Galaxy', 'SSG1'], 'Samsung Galaxy'),
 
@@ -85,7 +102,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['QGR', 'QG Reapers', 'Qiao Gu Reapers'], 'QG Reapers'),
 
 			# Europe (LEC) //betjoe
-			**dict.fromkeys(['Excel Esports', 'exceL', 'XL', 'exceL eSports', 'Excel'], 'Excel Esports'),
+			**dict.fromkeys(['Excel Esports', 'exceL', 'exceL eSports', 'Excel'], 'Excel Esports'),
 			**dict.fromkeys(['FC Schalke', 'FC 살케 04', 'S04', 'FC Schalke 04', 'Schalke 04', 'FC Schalke 04 Esports'], 'FC Schalke'),
 			**dict.fromkeys(['Fnatic', '프나틱', 'FNC'], 'Fnatic'),
 			**dict.fromkeys(['G2', 'G2 Esports'], 'G2'),
@@ -94,7 +111,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['Origen', 'OG'], 'Origen'),
 			**dict.fromkeys(['Rogue', 'RGE', 'Team Rogue'], 'Rogue'),
 			**dict.fromkeys(['SK Gaming', 'SK', 'SK 게이밍'], 'SK Gaming'),
-			**dict.fromkeys(['Team Vitality', 'VIT', 'Vitality'], 'Team Vitality'),
+			**dict.fromkeys(['Team Vitality', 'Vitality'], 'Team Vitality'),
 			**dict.fromkeys(['SPY', 'Splyce'], 'Splyce'),
 			**dict.fromkeys(['ROC', 'Roccat', 'Team ROCCAT'], 'Team ROCCAT'),
 			**dict.fromkeys(['UOL', 'Unicorns of Love', 'Unicorns Of Love'], 'Unicorns Of Love'),
@@ -110,7 +127,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['Dignitas', 'DIG', '디니타스', 'Team Dignitas'], 'Dignitas'),
 			**dict.fromkeys(['Evil Geniuses', 'EG', '에빌 지니어스'], 'Evil Geniuses'),
 			**dict.fromkeys(['FlyQuest', 'FLY', 'Flyquest', 'FlyQuest eSports'], 'FlyQuest'),
-			**dict.fromkeys(['Golden Guardians', 'GG'], 'Golden Guardians'),
+			**dict.fromkeys(['Golden Guardians', 'GG', 'GGS'], 'Golden Guardians'),
 			**dict.fromkeys(['Immortals', 'IMT', '이모탈'], 'Immortals'),
 			**dict.fromkeys(['TL', '팀 리퀴드', 'Team Liquid'], 'TL'),
 			**dict.fromkeys(['TSM', 'Team Solo Mid', 'Team SoloMid'], 'TSM'),
@@ -182,7 +199,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['ABY', 'Abyss Esports', 'Abyss'], 'Abyss'),
 			**dict.fromkeys(['tM', 'TM Gaming'], 'TM Gaming'),
 			**dict.fromkeys(['RGC', 'Team Regicide'], 'Team Regicide'),
-			**dict.fromkeys(['TM', 'Tainted Minds'], 'Tainted Minds'),
+			**dict.fromkeys(['Tainted Minds', 'TM'], 'Tainted Minds'),
 			**dict.fromkeys(['X5', 'Team Exile5'], 'Team Exile5'),
 
 			# HK, Macau, SEA (PCS)
@@ -192,7 +209,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['Hong Kong Attitude', 'HKA'], 'Hong Kong Attitude'),
 			**dict.fromkeys(['J Team', 'JT'], 'J Team'),
 			**dict.fromkeys(['Liyab Esports', 'LYB', '3LYB', '4LYB', '5LYB', '7LYB', '8LYB', 'LYB6'], 'Liyab Esports'),
-			**dict.fromkeys(['Machi Esports', 'MCX', 'Machi 17'], 'Machi Esports'),
+			**dict.fromkeys(['Machi Esports', 'MCX', 'Machi 17', 'M17'], 'Machi Esports'),
 			**dict.fromkeys(['Nova Esports', 'NOV', 'Team Nova'], 'Nova Esports'),
 			**dict.fromkeys(['Resurgence', 'RSG'], 'Resurgence'),
 			**dict.fromkeys(['Talon Esports', 'TLN', 'PSG', 'Talon', 'PSG Talon'], 'Talon Esports'),
@@ -200,7 +217,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['GRX', 'G-Rex', 'G Rex'], 'G Rex'),
 			**dict.fromkeys(['FW', 'Flash Wolves'], 'Flash Wolves'),
 			**dict.fromkeys(['DG', 'Dragon Gate Team'], 'Dragon Gate Team'),
-			**dict.fromkeys(['Afro', 'Team Afro'], 'Team Afro'),
+			**dict.fromkeys(['Afro', 'Team Afro', 'AFR'], 'Team Afro'),
 			**dict.fromkeys(['Raise', 'Raise Gaming'], 'Raise Gaming'),
 			**dict.fromkeys(['WS', 'Wayi Spider'], 'Wayi Spider'),
 			**dict.fromkeys(['FBL', 'Fire Ball', 'Fireball'], 'Fireball'),
@@ -212,7 +229,7 @@ class GameDictionary(object):
 			# Japan (LJL)
 			**dict.fromkeys(['AXIZ', 'AXZ'], 'AXIZ'),
 			**dict.fromkeys(['Burning Core', 'BC'], 'Burning Core'),
-			**dict.fromkeys(['Crest Gaming Act', 'CGA'], 'Crest Gaming Act'),
+			**dict.fromkeys(['Crest Gaming Act'], 'Crest Gaming Act'),
 			**dict.fromkeys(['Detonation FocusMe', 'DFM', 'DetonatioN FM', 'DetonatioN FocusMe', 'DetonatioN Rising'], 'Detonation FocusMe'),
 			**dict.fromkeys(['Fukuoka SoftBank Hawks', 'SHG', 'SoftBank Hawk', 'Fukuoka SoftBank Hawks gaming'], 'Fukuoka SoftBank Hawks'),
 			**dict.fromkeys(['Rascal Jester', 'RJ'], 'Rascal Jester'),
@@ -222,8 +239,8 @@ class GameDictionary(object):
 			**dict.fromkeys(['PGM', '1PGM', 'PGM1', 'PENTAGRAM'], 'PENTAGRAM'),
 			**dict.fromkeys(['7h', '7th heaven'], '7th heaven'),
 			**dict.fromkeys(['RPG', 'Rampage'], 'Rampage'),
-			**dict.fromkeys(['SCARZ', 'SCARZ Burning Core'], 'SCARZ'),
-			**dict.fromkeys(['AE', 'AKIHABARA ENCOUNT', 'AKIBA ENCOUNT'], 'AKIHABARA ENCOUNT'),
+			**dict.fromkeys(['SCARZ', 'SCARZ Burning Core', 'SZ'], 'SCARZ'),
+			**dict.fromkeys(['AKIHABARA ENCOUNT', 'AKIBA ENCOUNT'], 'AKIHABARA ENCOUNT'),
 			**dict.fromkeys(['BQB', 'BowQen Blackbucks'], 'BowQen Blackbucks'),
 
 			# Latin America (LLA)
@@ -245,7 +262,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['OverPower Esports', 'OverPower', 'OPG'], 'OverPower Esports'),
 			**dict.fromkeys(['Percent Esports'], 'Percent Esports'),
 			**dict.fromkeys(['Saigon Buffalo', 'PVB', 'DBL', 'SGB', 'Phong Vũ Buffalo'], 'Saigon Buffalo'),
-			**dict.fromkeys(['Team Flash', 'FL'], 'Team Flash'),
+			**dict.fromkeys(['Team Flash', 'FL', 'Fl'], 'Team Flash'),
 			**dict.fromkeys(['Team Secret', '팀 시크릿', 'LK', 'Lowkey Esports.Vietnam'], 'Team Secret'),
 			**dict.fromkeys(['CR', 'Cherry Esports'], 'Cherry Esports'),
 			**dict.fromkeys(['FFQ', 'Friends Forever Gaming'], 'Friends Forever Gaming'),
@@ -274,7 +291,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['Vega Squadron', 'VEG'], 'Vega Squadron'),
 			**dict.fromkeys(['One Breath Gaming', 'OBG'], 'One Breath Gaming'),
 			**dict.fromkeys(['M19'], 'M19'),
-			**dict.fromkeys(['VS', 'Vaevictis eSports'], 'Vaevictis eSports'),
+			**dict.fromkeys(['VS', 'Vaevictis eSports', 'VAE'], 'Vaevictis eSports'),
 			**dict.fromkeys(['Just A', 'Team Just Alpha'], 'Team Just Alpha'),
 			**dict.fromkeys(['NV.CIS', 'Natus Vincere', 'Natus Vincere.CIS', 'Natus Vincere CIS'], 'Natus Vincere.CIS'),
 			**dict.fromkeys(['TJ', 'Team Just'], 'Team Just'),
@@ -288,7 +305,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['KVM', 'KV Mechelen'], 'KV Mechelen'),
 			**dict.fromkeys(['S1', 'Sector One'], 'Sector One'),
 			**dict.fromkeys(['7AM', 'Team 7AM'], 'Team 7AM'),
-			**dict.fromkeys(['RSCA', 'RSCA Esports'], 'RSCA'),
+			**dict.fromkeys(['RSCA', 'RSCA Esports', 'AND'], 'RSCA'),
 			**dict.fromkeys(['TO', 'Timeout Esports'], 'Timeout Esports'),
 
 			# Dutch (DL)
@@ -331,7 +348,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['Team GamerLegion', 'GamerLegion', 'GL'], 'Team GamerLegion'),
 			**dict.fromkeys(['EURONICS Gaming', 'EURONICS'], 'EURONICS Gaming'),
 			**dict.fromkeys(['Ad Hoc Gaming', 'ad hoc gaming'], 'Ad Hoc Gaming'),
-			**dict.fromkeys(['mousesports', 'Mousesports', 'MOUZ'], 'mousesports'),
+			**dict.fromkeys(['mousesports', 'Mousesports', 'MOUZ', 'MOU'], 'mousesports'),
 			**dict.fromkeys(['BIG', 'Berlin International Gaming'], 'BIG'),
 
 			# LCS_a
@@ -341,16 +358,16 @@ class GameDictionary(object):
 			**dict.fromkeys(['BGJ', 'Big Gods Jackals'], 'Big Gods Jackals'),
 			**dict.fromkeys(['TG', 'Team Gates'], 'Team Gates'),
 			**dict.fromkeys(['DFX', 'Delta Fox'], 'Delta Fox'),
-			**dict.fromkeys(['CLG.A', 'CLG Academy'], 'CLG Academy'),
-			**dict.fromkeys(['FOX.A', 'Echo Fox Academy'], 'Echo Fox Academy'),
-			**dict.fromkeys(['TL.A', 'TL Academy', 'Team Liquid Academy'], 'TL Academy'),
-			**dict.fromkeys(['C9.A', 'Cloud9 Academy'], 'Cloud9 Academy'),
-			**dict.fromkeys(['FLY.A', 'FlyQuest Academy'], 'FlyQuest Academy'),
-			**dict.fromkeys(['TSM.A', 'TSM Academy'], 'TSM Academy'),
-			**dict.fromkeys(['CG.A', 'Clutch Gaming Academy'], 'Clutch Gaming Academy'),
-			**dict.fromkeys(['100.A', '100 Thieves Academy'], '100 Thieves Academy'),
-			**dict.fromkeys(['OPT.A', 'OpTic Gaming Academy'], 'OpTic Gaming Academy'),
-			**dict.fromkeys(['GG.A', 'Golden Guardians Academy'], 'Golden Guardians Academy'),
+			**dict.fromkeys(['CLG.A', 'CLG Academy', 'CLGA'], 'CLG Academy'),
+			**dict.fromkeys(['FOX.A', 'Echo Fox Academy', 'FOXA'], 'Echo Fox Academy'),
+			**dict.fromkeys(['TL.A', 'TL Academy', 'Team Liquid Academy', 'TLA'], 'TL Academy'),
+			**dict.fromkeys(['C9.A', 'Cloud9 Academy', 'C9A'], 'Cloud9 Academy'),
+			**dict.fromkeys(['FLY.A', 'FlyQuest Academy', 'FLYA'], 'FlyQuest Academy'),
+			**dict.fromkeys(['TSM.A', 'TSM Academy', 'TSMA'], 'TSM Academy'),
+			**dict.fromkeys(['CG.A', 'Clutch Gaming Academy', 'CGA'], 'Clutch Gaming Academy'),
+			**dict.fromkeys(['100.A', '100 Thieves Academy', '100A'], '100 Thieves Academy'),
+			**dict.fromkeys(['OPT.A', 'OpTic Gaming Academy', 'OPTA'], 'OpTic Gaming Academy'),
+			**dict.fromkeys(['GG.A', 'Golden Guardians Academy', 'GGSA'], 'Golden Guardians Academy'),
 			**dict.fromkeys(['DIG.A', 'Dignitas Academy'], 'Dignitas Academy'),
 			**dict.fromkeys(['EG.A', 'Evil Geniuses Academy'], 'Evil Geniuses Academy'),
 			**dict.fromkeys(['IMT.A', 'Immortals Academy'], 'Immortals Academy'),
@@ -386,7 +403,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['AC', 'All Combo'], 'All Combo'),
 			**dict.fromkeys(['ESY', 'eStar Young'], 'eStar Young'),
 			**dict.fromkeys(['JNG', 'JingNetGame'], 'JingNetGame'),
-			**dict.fromkeys(['OSE', 'Optical Spectrum E-sport', 'optical spectrum E-sports'], 'Optical Spectrum E-sport'),
+			**dict.fromkeys(['Optical Spectrum E-sport', 'optical spectrum E-sports'], 'Optical Spectrum E-sport'),
 			**dict.fromkeys(['DS', 'DS Gaming'], 'DS Gaming'),
 			**dict.fromkeys(['LD', 'Legend Dragon'], 'Legend Dragon'),
 			**dict.fromkeys(['NON', 'Now or Never'], 'Now or Never'),
@@ -404,12 +421,12 @@ class GameDictionary(object):
 			
 			# OCS
 			**dict.fromkeys(['NX', 'Team Noxide'], 'Team Noxide'),
-			**dict.fromkeys(['OLW', 'Outlaws'], 'Outlaws'),
-			**dict.fromkeys(['SNA', 'Sin Academy'], 'Sin Academy'),
+			**dict.fromkeys(['OLW', 'Outlaws', 'OW'], 'Outlaws'),
+			**dict.fromkeys(['SNA', 'Sin Academy', 'S1N'], 'Sin Academy'),
 			**dict.fromkeys(['CVD', 'Corvidae'], 'Corvidae'),
 			**dict.fromkeys(['AS', 'Alpha Sydney'], 'Alpha Sydney'),
 			**dict.fromkeys(['LGG', 'Legacy Genesis'], 'Legacy Genesis'),
-			**dict.fromkeys(['TM.B', 'Tainted Minds Blue'], 'Tainted Minds Blue'),
+			**dict.fromkeys(['TM.B', 'Tainted Minds Blue', 'TMB'], 'Tainted Minds Blue'),
 			**dict.fromkeys(['ATH', 'Athletico Esports'], 'Athletico Esports'),
 			**dict.fromkeys(['LX', 'Lynx'], 'Lynx'),
 			**dict.fromkeys(['Abyss Academy'], 'Abyss Academy'),
@@ -482,20 +499,20 @@ class GameDictionary(object):
 			**dict.fromkeys(['MSF.A', 'Misfits Academy'], 'Misfits Academy'),
 			**dict.fromkeys(['MIL', 'Millenium'], 'Millenium'),
 			**dict.fromkeys(['TK', 'Team Kinguin'], 'Team Kinguin'),
-			**dict.fromkeys(['RB', 'Red Bulls'], 'Red Bulls'),
+			**dict.fromkeys(['Red Bulls'], 'Red Bulls'),
 			**dict.fromkeys(['WAR', 'Wind and Rain'], 'Wind and Rain'),
 			**dict.fromkeys(['ESB', 'eSuba'], 'eSuba'),
 			**dict.fromkeys(['ENC', 'Enclave Gaming'], 'Enclave Gaming'),
 			**dict.fromkeys(['4G', 'Team Forge'], 'Team Forge'),
 			**dict.fromkeys(['MRS', 'Movistar Riders'], 'Movistar Riders'),
 			**dict.fromkeys(['CBB', 'Could Be Better'], 'Could Be Better'),
-			**dict.fromkeys(['Klik', 'KlikTech'], 'KlikTech'),
+			**dict.fromkeys(['Klik', 'KlikTech', 'KLT'], 'KlikTech'),
 			**dict.fromkeys(['ACT', 'Team Ascent'], 'Team Ascent'),
-			**dict.fromkeys(['K1CK', 'K1CK eSports', 'K1', 'K1CK Neosurf', 'K1ck Neosurf'], 'K1CK Neosurf'),
+			**dict.fromkeys(['K1CK', 'K1CK eSports', 'K1', 'K1CK Neosurf', 'K1ck Neosurf', 'K1K'], 'K1CK Neosurf'),
 			**dict.fromkeys(['SP5', 'Spain5'], 'Spain5'),
 			**dict.fromkeys(['PPK', 'Packa Pappas Kappsack', 'Packa Pappas Kappsäck'], 'Packa Pappas Kappsack'),
 			**dict.fromkeys(['SM', 'Szata Maga'], 'Szata Maga'),
-			**dict.fromkeys(['Gent', 'Gentside'], 'Gentside'),
+			**dict.fromkeys(['Gent', 'Gentside', 'GEC'], 'Gentside'),
 			**dict.fromkeys(['VGIA', 'Vodafone Giants', 'Vodafone Giants.Spain'], 'Vodafone Giants'),
 			**dict.fromkeys(['CZV', 'Crvena zvezda', 'Crvena zvezda Esports'], 'Crvena zvezda'),
 			**dict.fromkeys(['SKP', 'SK Gaming Prime'], 'SK Gaming Prime'),
@@ -505,8 +522,8 @@ class GameDictionary(object):
 			**dict.fromkeys(['NKI', 'NYYRIKKI White'], 'NYYRIKKI White'),
 			**dict.fromkeys(['OGB', 'Origen BCN'], 'Origen BCN'),
 			**dict.fromkeys(['VITB', 'Vitality.Bee'], 'Vitality.Bee'),
-			**dict.fromkeys(['REC', 'Rogue Esports Club'], 'Rogue Esports Club'),
-			**dict.fromkeys(['FLK', 'FALKN'], 'FALKN'),
+			**dict.fromkeys(['Rogue Esports Club', 'REC'], 'Rogue Esports Club'),
+			**dict.fromkeys(['FLK', 'FALKN', 'FKN'], 'FALKN'),
 			**dict.fromkeys(['ASUS', 'ASUS ROG ELITE'], 'ASUS ROG ELITE'),
 			**dict.fromkeys(['VIP', 'Vipers Inc'], 'Vipers Inc'),
 			**dict.fromkeys(['IF', 'Intrepid Fox Gaming'], 'Intrepid Fox Gaming'),
@@ -514,7 +531,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['KEN', 'Kenty'], 'Kenty'),
 			**dict.fromkeys(['WLG', 'WLGaming Esports'], 'WLGaming Esports'),
 			**dict.fromkeys(['PIG', 'PIGSPORTS'], 'PIGSPORTS'),
-			**dict.fromkeys(['Team-LDLC', 'LDLC', 'LDLC OL'], 'LDLC OL'),
+			**dict.fromkeys(['Team-LDLC', 'LDLC', 'LDLC OL', 'DLC', 'TLD'], 'LDLC OL'),
 			**dict.fromkeys(['G2AR', 'G2 Arctic'], 'G2 Arctic'),
 			**dict.fromkeys(['CR4', 'CR4ZY'], 'CR4ZY'),
 			**dict.fromkeys(['RDL', 'Riddle Esports'], 'Riddle Esports'),
@@ -533,7 +550,7 @@ class GameDictionary(object):
 			**dict.fromkeys(['R5', 'Random 5'], 'Random 5'),
 			**dict.fromkeys(['eN', 'eNsure'], 'eNsure'),
 			**dict.fromkeys(['FNC.R', 'Fnatic Rising'], 'Fnatic Rising'),
-			**dict.fromkeys(['AST', 'AS Trencin esports', 'AS Trenčín esports'], 'AS Trencin esports'),
+			**dict.fromkeys(['AS Trencin esports', 'AS Trenčín esports'], 'AS Trencin esports'),
 			**dict.fromkeys(['SVP', 'Splyce Vipers'], 'Splyce Vipers'),
 			**dict.fromkeys(['GOD', 'Godsent'], 'Godsent'),
 			**dict.fromkeys(['GO', 'GamersOrigin'], 'GamersOrigin'),
@@ -548,15 +565,15 @@ class GameDictionary(object):
 
 			# CIS_CL
 			**dict.fromkeys(['DOL', 'Dolphins'], 'Dolphins'),
-			**dict.fromkeys(['Salary', 'The Largest Salary'], 'The Largest Salary'),
-			**dict.fromkeys(['CMCE', 'Comanche'], 'Comanche'),
-			**dict.fromkeys(['J.ICE', 'Team Just.ICE', 'Team Just Ice'], 'Team Just.ICE'),
-			**dict.fromkeys(['DA.A', 'Dragon Army Academy'], 'Dragon Army Academy'),
+			**dict.fromkeys(['Salary', 'The Largest Salary', 'TLS'], 'The Largest Salary'),
+			**dict.fromkeys(['CMCE', 'Comanche', 'CMN'], 'Comanche'),
+			**dict.fromkeys(['J.ICE', 'Team Just.ICE', 'Team Just Ice', 'TJI'], 'Team Just.ICE'),
+			**dict.fromkeys(['DA.A', 'Dragon Army Academy', 'DAA'], 'Dragon Army Academy'),
 			**dict.fromkeys(['Aston', 'Aston eSports'], 'Aston eSports'),
-			**dict.fromkeys(['PPC58', 'PlaPro.c58'], 'PlaPro.c58'),
-			**dict.fromkeys(['AVN', 'AVANGAR'], 'AVANGAR'),
+			**dict.fromkeys(['PPC58', 'PlaPro.c58', 'C58'], 'PlaPro.c58'),
+			**dict.fromkeys(['AVN', 'AVANGAR', 'AVG'], 'AVANGAR'),
 			**dict.fromkeys(['MNL', 'Monolith Gaming'], 'Monolith Gaming'),
-			**dict.fromkeys(['SEAD', 'SeaDoggos'], 'SeaDoggos'),
+			**dict.fromkeys(['SEAD', 'SeaDoggos', 'SOS'], 'SeaDoggos'),
 			
 			# BRCC
 			**dict.fromkeys(['INTZ G', 'INTZ.Genesis'], 'INTZ.Genesis'),
@@ -575,7 +592,48 @@ class GameDictionary(object):
 		}
 
 		self.playerName_dict = {
-			**dict.fromkeys(['reje'], 'Reje')
+			**dict.fromkeys(['reje'], 'Reje'),
+			**dict.fromkeys(['KingJJJ'], 'KingJ'),
+			**dict.fromkeys(['AlternativeX'], 'Alternative'),
+			**dict.fromkeys(['Azhl'], 'Azhi'),
+			**dict.fromkeys(['Brizz22'], 'Brizz'),
+			**dict.fromkeys(['Candyy'], 'Candy'),
+			**dict.fromkeys(['Céos'], 'Ceos'),
+			**dict.fromkeys(['DanChung', 'Dancheong'], 'Danchung'),
+			**dict.fromkeys(['Gardan'], 'Garden'),
+			**dict.fromkeys(['HellMa', 'HellMа'], 'HellMa'),
+			**dict.fromkeys(['Intgrаtion', 'Intgration'], 'Intgration'),
+			**dict.fromkeys(['Vata', 'Vаta', 'Vatа'], 'Vata'),
+			**dict.fromkeys(['PewPewSоlari'], 'PewPewSolari'),
+			**dict.fromkeys(['Ionï'], 'Ioni'),
+			**dict.fromkeys(['Jiizuké'], 'Jiizuke'),
+			**dict.fromkeys(['Jooo'], 'Joo'),
+			**dict.fromkeys(['Kektzzz'], 'Kektz'),
+			**dict.fromkeys(['Mikkell'], 'Mikkel'),
+			**dict.fromkeys(['Nikοla', 'Nikola'], 'Nikola'),
+			**dict.fromkeys(['Own3rr'], 'Own3r'),
+			**dict.fromkeys(['Papa Chau', 'Papachau'], 'PapaChau'),
+			**dict.fromkeys(['Rakin VPP'], 'Rakin'),
+			**dict.fromkeys(['Rawbin'], 'Rawbin IV'),
+			**dict.fromkeys(['Reat1vo', 'Reat1voo'], 'ReAt1vo'),
+			**dict.fromkeys(['SaNTaS', 'santas', 'SaNTаS'], 'SaNTaS'),
+			**dict.fromkeys(['Sevensix'], 'seven six'),
+			**dict.fromkeys(['SimSinJJ'], 'SimSin'),
+			**dict.fromkeys(['Slayerrr', 'slayer'], 'Slayer'),
+			**dict.fromkeys(['Tuomarí'], 'Tuomari'),
+			**dict.fromkeys(['V1PER'], 'V1per'),
+			**dict.fromkeys(['Bushybooboo'], 'BushyBooBoo'),
+			**dict.fromkeys(['Camanagazo'], 'Camanagozo'),
+			**dict.fromkeys(['Chen9'], 'chen9'),
+			**dict.fromkeys(['Den Voksne'], 'DenVoksne'),
+			**dict.fromkeys(['Dragonmin'], 'Dragonminkim'),
+			**dict.fromkeys(['EviI'], 'Evil'),
+			**dict.fromkeys(['evr0t', 'EvVvrot'], 'Evrot'),
+			**dict.fromkeys(['Hamez'], 'Hamezz'),
+			**dict.fromkeys(['itsC0RTEZ', 'itsCORTEZ'], 'ItsCortez'),
+			**dict.fromkeys(['SpieleAufDe'], 'SpieleAufDeutsch'),
+			**dict.fromkeys(['Tobio rapido', 'Tobio'], 'Tobio Rapido'),
+			**dict.fromkeys(['UNMANAGEABLE'], 'UNMANAGABLE')
 		}
 
 		self.betType_dict = {
@@ -663,6 +721,8 @@ class GamepediaDict(GameDictionary):
 			self.teamName_dict['DYN'] = 'Dynamics'
 			self.teamName_dict['AF'] = 'Afreeca'
 			self.teamName_dict['SPG'] = 'Awesome Spear'
+			self.teamName_dict['ROX'] = 'ROX'
+			
 			
 		elif (league == 'CBLOL'):
 			if (year == 2017):
@@ -677,44 +737,70 @@ class GamepediaDict(GameDictionary):
 			else:
 				self.teamName_dict['PRG'] = 'Prodigy'
 				self.teamName_dict['UP'] = 'Uppercut'
+		
 		elif (league == 'BRCC'):
 			if (year == 2017):
 				self.teamName_dict['PRG'] = 'ProGaming Esports'
 			elif (year == 2019):
 				self.teamName_dict['PRG'] = 'ProGaming Esports'
+		
 		elif (league == 'LEC'):
 			self.teamName_dict['MAD'] = 'MAD'
 			self.teamName_dict['UOL'] = 'Unicorns Of Love'
+			self.teamName_dict['XL'] = 'Excel Esports'
+			self.teamName_dict['VIT'] = 'Team Vitality'
+			self.teamName_dict['REC'] = 'Rogue'
+			self.playerName_dict['Shadow'] = 'Shad0w'
+		
 		elif (league == 'PCS') | (league == 'LMS') | (league == 'ECS'):
 			self.teamName_dict['MAD'] = 'MAD Team'
 			self.teamName_dict['RSG'] = 'Resurgence'
 			self.teamName_dict['AF'] = 'ahq Fighter'
 			self.teamName_dict['MCX'] = 'Machi Esports'
 			self.teamName_dict['PSG'] = 'Talon Esports'
+			self.teamName_dict['OSE'] = 'ONE SEVEN EIGHT'
 			if (year == 2017) & (league == 'ECS'):
 				self.teamName_dict['MAD'] = 'MAD Dragon'
 			elif (year == 2019) & (league == 'ECS'):
 				self.teamName_dict['MCX'] = 'MachiX'
+		
 		elif (league == 'LDL'):
 			self.teamName_dict['SG'] = 'Scorpio Game'
 			self.teamName_dict['UP'] = 'Unlimited Potential'
 			self.teamName_dict['RYL'] = 'Royal Club'
 			self.teamName_dict['MSC'] = 'Moss Seven Club'
 			self.teamName_dict['VP'] = 'VP Game'
+			self.teamName_dict['OSE'] = 'Optical Spectrum E-sport'
+			
 		elif (league == 'LJL'):
 			self.teamName_dict['SG'] = 'Sengoku Gaming'
 			self.teamName_dict['PGM'] = 'PENTAGRAM'
+			self.teamName_dict['AE'] = 'AKIHABARA ENCOUNT'
+			self.teamName_dict['CGA'] = 'Crest Gaming Act'
+		
 		elif (league == 'TCL'):
 			self.teamName_dict['RYL'] = 'Royal Youth'
 			self.teamName_dict['IW'] = 'Istanbul Wildcats'
+			self.teamName_dict['RB'] = 'Royal Bandits'
+			self.teamName_dict['SUP'] = 'Papara SuperMassive'
+		
 		elif (league == 'OCS'):
 			self.teamName_dict['ABY'] = 'Abyss Academy'
+			self.teamName_dict['SIN'] = 'Sin Academy'
+		
 		elif (league == 'OPL'):
 			self.teamName_dict['ABY'] = 'Abyss'
 			self.teamName_dict['SIN'] = 'Sin Gaming'
+			self.teamName_dict['AE'] = 'Abyss'
+			if (year == 2017) & (season == 'summer'):
+				self.teamName_dict['TM'] = 'TM Gaming'
+			else:
+				self.teamName_dict['TM'] = 'Tainted Minds'
+		
 		elif (league == 'Challengers Korea'):
 			self.teamName_dict['RSG'] = 'Rising Star Gaming'
 			self.teamName_dict['SPG'] = 'Awesome Spear'
+		
 		elif (league == 'EM'):
 			self.teamName_dict['PSG'] = 'Paris Saint-Germain'
 			self.teamName_dict['CG'] = 'Cyber Gaming'
@@ -722,27 +808,50 @@ class GamepediaDict(GameDictionary):
 			self.teamName_dict['TS'] = 'Turing eSports'
 			self.teamName_dict['IW'] = 'Iron Wolves'
 			self.teamName_dict['DBL'] = 'Diabolus Esports'
+			self.teamName_dict['AST'] = 'AS Trencin esports'
+			self.teamName_dict['XL'] = 'BT Excel'
+			self.teamName_dict['VIT'] = 'Vitality.Bee'
+			self.teamName_dict['REC'] = 'Rogue Esports Club'
+			self.teamName_dict['RB'] = 'Red Bulls'
 			
 			if (year == 2018):
 				self.teamName_dict['MAD'] = 'MAD Lions E.C.'
 				self.teamName_dict['SPG'] = 'SPGeSports'
 			elif (year == 2019):
 				self.teamName_dict['MAD'] = 'MAD Lions E.C.'
+		
 		elif (league == 'LCL'):
 			self.teamName_dict['VP'] = 'Virtus.pro'
 			self.teamName_dict['UOL'] = 'UOL.CIS'
 			self.teamName_dict['CC'] = 'CrowCrowd'
+			self.teamName_dict['ROX'] = 'RoX'
+		
 		elif (league == 'LPLOL'):
 			self.teamName_dict['CC'] = 'Cidade Curiosa Esports'
+		
 		elif (league == 'CIS_CL'):
 			self.teamName_dict['CC'] = 'CrowCrowd'
+			self.teamName_dict['AST'] = 'Aston eSports'
+		
 		elif (league == 'LCS'):
 			self.teamName_dict['CG'] = 'Clutch Gaming'
+		
 		elif (league == 'LCS_a'):
 			self.teamName_dict['TS'] = 'Tempo Storm'
+		
 		elif (league == 'VCS'):
 			self.teamName_dict['DBL'] = 'Saigon Buffalo'
 			self.teamName_dict['TS'] = 'Team Secret'
+			self.teamName_dict['YG'] = 'Young Generation'
+			self.teamName_dict['VK'] = 'Vikings Gaming'
+
+		elif (league == 'TPL_a'):
+			self.teamName_dict['SUP'] = 'SuperMassive Academy'
+			self.teamName_dict['FB'] = 'Fenerbahce Academy'
+			self.teamName_dict['BJK'] = 'Besiktas Academy'
+			self.teamName_dict['AUR'] = 'AURORA Academy'
+			self.teamName_dict['IW'] = 'Istanbul Wildcats Academy'
+
 
 		else:
 			self.teamName_dict['MSC'] = 'Mid Season Cup'
