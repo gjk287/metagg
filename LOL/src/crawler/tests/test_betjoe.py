@@ -11,11 +11,15 @@ def main():
 	betjoe.get_driver()
 
 	result = None
+	count = 0
 	while result is None:
 		try:
 			result = crawl_and_save(betjoe)
 		except:
-			pass
+			count += 1
+		
+		if count == 7:
+			result = 'Failed'
 
 def crawl_and_save(betjoe):
 	# get selenium driver and go to the link

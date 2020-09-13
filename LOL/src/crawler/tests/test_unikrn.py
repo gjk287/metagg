@@ -14,7 +14,10 @@ def main():
 		try:
 			result = crawl_and_save(unikrn)
 		except:
-			pass
+			count += 1
+		
+		if count == 7:
+			result = 'Failed'
 
 def crawl_and_save(unikrn):
 	# get selenium driver and go to the link
