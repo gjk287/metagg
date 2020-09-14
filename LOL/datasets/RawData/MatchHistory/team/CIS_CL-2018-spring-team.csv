@@ -1,0 +1,61 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,CIS_CL,1,Dragon Army Academy,Dolphins,1.0,37:22,OK,blue,DAA,   DEFEAT   ,61.5k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Jax,Gragas,Azir,Braum,Alistar
+2018.0,spring,CIS_CL,1,Dragon Army Academy,Dolphins,1.0,37:22,OK,red,DOL,   VICTORY   ,75.6k,16,  11 ,  4 ,  2 ,  3 ,  1 ,Zoe,Camille,Caitlyn,Xayah,Varus
+2018.0,spring,CIS_CL,1,Comanche,Aston eSports,1.0,40:42,OK,blue,CMN,   VICTORY   ,78.7k,18,  11 ,  2 ,  1 ,  2 ,  0 ,Camille,Ivern,Azir,Jayce,Nunu
+2018.0,spring,CIS_CL,1,Comanche,Aston eSports,1.0,40:42,OK,red,AST,   DEFEAT   ,65.5k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Zac,Zoe,Taric,Janna
+2018.0,spring,CIS_CL,1,Team Just.ICE,The Largest Salary,1.0,39:04,OK,blue,TJI,   DEFEAT   ,63.7k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Yorick,Nunu,Kalista,Kassadin,Nasus
+2018.0,spring,CIS_CL,1,Team Just.ICE,The Largest Salary,1.0,39:04,OK,red,TLS,   VICTORY   ,70.5k,11,  7 ,  1 ,  2 ,  1 ,  0 ,Gangplank,Xayah,Gnar,Camille,Zoe
+2018.0,spring,CIS_CL,1,Aston eSports,Team Just.ICE,1.0,34:31,OK,blue,AST,   DEFEAT   ,54.8k,10,  1 ,  0 ,  0 ,  2 ,  0 ,TahmKench,Braum,Zoe,Khazix,JarvanIV
+2018.0,spring,CIS_CL,1,Aston eSports,Team Just.ICE,1.0,34:31,OK,red,TJI,   VICTORY   ,66.9k,13,  11 ,  3 ,  2 ,  1 ,  0 ,Ivern,Nunu,Sejuani,Graves,Nidalee
+2018.0,spring,CIS_CL,1,The Largest Salary,Dragon Army Academy,1.0,28:37,OK,blue,TLS,   VICTORY   ,59.7k,11,  11 ,  3 ,  1 ,  3 ,  1 ,Gangplank,Camille,Zoe,Caitlyn,Vladimir
+2018.0,spring,CIS_CL,1,The Largest Salary,Dragon Army Academy,1.0,28:37,OK,red,DAA,   DEFEAT   ,44.3k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Nunu,Khazix,Nidalee,Taric,TahmKench
+2018.0,spring,CIS_CL,1,Dolphins,Comanche,1.0,36:10,OK,blue,DOL,   VICTORY   ,64.8k,14,  8 ,  1 ,  1 ,  1 ,  1 ,Camille,Zoe,Caitlyn,Illaoi,Yorick
+2018.0,spring,CIS_CL,1,Dolphins,Comanche,1.0,36:10,OK,red,CMN,   DEFEAT   ,57.8k,6,  4 ,  0 ,  0 ,  1 ,  0 ,Gnar,Gangplank,Tristana,TahmKench,Taric
+2018.0,spring,CIS_CL,2,The Largest Salary,Aston eSports,1.0,38:07,OK,blue,TLS,   ПОБЕДА   ,74.5 тыс.,16,  11 ,  3 ,  2 ,  2 ,  1 ,Ivern,Azir,Sejuani,Gnar,Skarner
+2018.0,spring,CIS_CL,2,The Largest Salary,Aston eSports,1.0,38:07,OK,red,AST,   ПОРАЖЕНИЕ   ,60.2 тыс.,8,  1 ,  0 ,  0 ,  1 ,  0 ,Galio,Yorick,Zoe,Urgot,Taric
+2018.0,spring,CIS_CL,2,Team Just.ICE,Dolphins,1.0,30:01,OK,blue,TJI,   ПОРАЖЕНИЕ   ,48.2 тыс.,3,  4 ,  0 ,  0 ,  0 ,  0 ,Azir,Cassiopeia,Sejuani,Lulu,Janna
+2018.0,spring,CIS_CL,2,Team Just.ICE,Dolphins,1.0,30:01,OK,red,DOL,   ПОБЕДА   ,56.0 тыс.,5,  9 ,  2 ,  1 ,  2 ,  0 ,Caitlyn,Camille,Varus,JarvanIV,Rakan
+2018.0,spring,CIS_CL,2,Dragon Army Academy,Comanche,1.0,47:10,OK,blue,DAA,   ПОРАЖЕНИЕ   ,83.6 тыс.,15,  3 ,  0 ,  0 ,  2 ,  0 ,Caitlyn,Taliyah,Braum,Yorick,Gnar
+2018.0,spring,CIS_CL,2,Dragon Army Academy,Comanche,1.0,47:10,OK,red,CMN,   ПОБЕДА   ,89.5 тыс.,25,  11 ,  4 ,  2 ,  3 ,  1 ,Camille,TahmKench,Zoe,Taric,Alistar
+2018.0,spring,CIS_CL,2,Comanche,Team Just.ICE,1.0,30:43,OK,blue,CMN,   ПОБЕДА   ,62.1 тыс.,22,  10 ,  2 ,  1 ,  4 ,  0 ,Camille,Sejuani,TahmKench,Ryze,Orianna
+2018.0,spring,CIS_CL,2,Comanche,Team Just.ICE,1.0,30:43,OK,red,TJI,   ПОРАЖЕНИЕ   ,51.4 тыс.,2,  7 ,  1 ,  0 ,  0 ,  1 ,Zoe,Taliyah,Caitlyn,Galio,Azir
+2018.0,spring,CIS_CL,2,Dolphins,The Largest Salary,1.0,33:22,OK,blue,DOL,   ПОБЕДА   ,65.3 тыс.,14,  11 ,  1 ,  1 ,  2 ,  0 ,Yorick,Urgot,Xayah,Janna,Alistar
+2018.0,spring,CIS_CL,2,Dolphins,The Largest Salary,1.0,33:22,OK,red,TLS,   ПОРАЖЕНИЕ   ,54.8 тыс.,11,  2 ,  0 ,  0 ,  2 ,  0 ,Gangplank,Gnar,Tristana,Azir,Cassiopeia
+2018.0,spring,CIS_CL,2,Aston eSports,Dragon Army Academy,1.0,38:04,OK,blue,AST,   ПОРАЖЕНИЕ   ,63.9 тыс.,12,  3 ,  0 ,  1 ,  0 ,  0 ,Camille,Gangplank,Zoe,Gnar,
+2018.0,spring,CIS_CL,2,Aston eSports,Dragon Army Academy,1.0,38:04,OK,red,DAA,   ПОБЕДА   ,73.3 тыс.,19,  10 ,  1 ,  1 ,  4 ,  0 ,Taliyah,Azir,TahmKench,Galio,Orianna
+2018.0,spring,CIS_CL,3,The Largest Salary,Comanche,1.0,29:34,OK,blue,TLS,   ПОБЕДА   ,56.4 тыс.,15,  8 ,  1 ,  1 ,  2 ,  0 ,Taliyah,Sejuani,Galio,Aatrox,Vladimir
+2018.0,spring,CIS_CL,3,The Largest Salary,Comanche,1.0,29:34,OK,red,CMN,   ПОРАЖЕНИЕ   ,46.1 тыс.,8,  2 ,  0 ,  0 ,  1 ,  1 ,Skarner,Tristana,Ryze,Zac,JarvanIV
+2018.0,spring,CIS_CL,3,Dragon Army Academy,Team Just.ICE,1.0,33:52,OK,blue,DAA,   ПОБЕДА   ,62.3 тыс.,15,  8 ,  2 ,  1 ,  3 ,  1 ,Galio,Azir,Jax,Alistar,Illaoi
+2018.0,spring,CIS_CL,3,Dragon Army Academy,Team Just.ICE,1.0,33:52,OK,red,TJI,   ПОРАЖЕНИЕ   ,53.5 тыс.,8,  2 ,  0 ,  0 ,  0 ,  0 ,Ivern,Ryze,Morgana,Orianna,Corki
+2018.0,spring,CIS_CL,3,Aston eSports,Dolphins,1.0,36:40,OK,blue,AST,   ПОБЕДА   ,74.6 тыс.,23,  10 ,  2 ,  2 ,  3 ,  0 ,Cassiopeia,Sejuani,Azir,Ryze,
+2018.0,spring,CIS_CL,3,Aston eSports,Dolphins,1.0,36:40,OK,red,DOL,   ПОРАЖЕНИЕ   ,64.2 тыс.,12,  5 ,  0 ,  0 ,  2 ,  1 ,Taliyah,Caitlyn,Skarner,Zac,JarvanIV
+2018.0,spring,CIS_CL,3,Dolphins,Dragon Army Academy,1.0,44:53,OK,blue,DOL,   ПОБЕДА   ,80.8 тыс.,15,  11 ,  2 ,  1 ,  2 ,  0 ,Ivern,Camille,Galio,Sion,Jayce
+2018.0,spring,CIS_CL,3,Dolphins,Dragon Army Academy,1.0,44:53,OK,red,DAA,   ПОРАЖЕНИЕ   ,79.0 тыс.,13,  7 ,  0 ,  2 ,  2 ,  0 ,Sejuani,Skarner,Ryze,Cassiopeia,Ornn
+2018.0,spring,CIS_CL,3,Aston eSports,Comanche,1.0,27:33,OK,blue,AST,   ПОРАЖЕНИЕ   ,41.9 тыс.,3,  1 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Rakan,Taliyah,Azir,Orianna
+2018.0,spring,CIS_CL,3,Aston eSports,Comanche,1.0,27:33,OK,red,CMN,   ПОБЕДА   ,54.1 тыс.,14,  9 ,  1 ,  1 ,  3 ,  0 ,Skarner,Camille,Galio,Zac,Sejuani
+2018.0,spring,CIS_CL,3,The Largest Salary,Team Just.ICE,1.0,33:08,OK,blue,TLS,   ПОБЕДА   ,64.2 тыс.,10,  9 ,  1 ,  1 ,  4 ,  1 ,Skarner,Fiora,Sejuani,Illaoi,Camille
+2018.0,spring,CIS_CL,3,The Largest Salary,Team Just.ICE,1.0,33:08,OK,red,TJI,   ПОРАЖЕНИЕ   ,49.5 тыс.,5,  0 ,  0 ,  0 ,  0 ,  0 ,Yorick,Sion,Ryze,Zac,JarvanIV
+2018.0,spring,CIS_CL,4,Team Just.ICE,Aston eSports,1.0,26:27,OK,blue,TJI,   ПОБЕДА   ,51.5 тыс.,11,  9 ,  1 ,  1 ,  1 ,  1 ,Taliyah,Jinx,Sejuani,Nunu,Ivern
+2018.0,spring,CIS_CL,4,Team Just.ICE,Aston eSports,1.0,26:27,OK,red,AST,   ПОРАЖЕНИЕ   ,38.0 тыс.,2,  0 ,  0 ,  0 ,  2 ,  0 ,Galio,Skarner,Olaf,Ryze,Yorick
+2018.0,spring,CIS_CL,4,Dragon Army Academy,The Largest Salary,1.0,31:23,OK,blue,DAA,   ПОРАЖЕНИЕ   ,46.8 тыс.,5,  1 ,  0 ,  0 ,  0 ,  0 ,Yorick,Xayah,Ryze,Cassiopeia,Azir
+2018.0,spring,CIS_CL,4,Dragon Army Academy,The Largest Salary,1.0,31:23,OK,red,TLS,   ПОБЕДА   ,62.7 тыс.,18,  11 ,  3 ,  1 ,  3 ,  0 ,Camille,Morgana,Galio,Fiora,Chogath
+2018.0,spring,CIS_CL,4,Comanche,Dolphins,1.0,34:36,OK,blue,CMN,   ПОРАЖЕНИЕ   ,57.4 тыс.,12,  5 ,  0 ,  0 ,  1 ,  1 ,Tristana,Cassiopeia,Skarner,Trundle,Ornn
+2018.0,spring,CIS_CL,4,Comanche,Dolphins,1.0,34:36,OK,red,DOL,   ПОБЕДА   ,59.7 тыс.,14,  6 ,  1 ,  1 ,  0 ,  0 ,Galio,Taliyah,Caitlyn,Viktor,Rakan
+2018.0,spring,CIS_CL,4,Aston eSports,The Largest Salary,1.0,26:01,OK,blue,AST,   ПОРАЖЕНИЕ   ,43.7 тыс.,6,  2 ,  0 ,  0 ,  0 ,  0 ,Sion,Galio,Azir,Olaf,JarvanIV
+2018.0,spring,CIS_CL,4,Aston eSports,The Largest Salary,1.0,26:01,OK,red,TLS,   ПОБЕДА   ,56.0 тыс.,19,  11 ,  4 ,  1 ,  2 ,  1 ,Camille,Braum,TahmKench,Cassiopeia,Fiora
+2018.0,spring,CIS_CL,4,Dolphins,Team Just.ICE,1.0,28:58,OK,blue,DOL,   ПОРАЖЕНИЕ   ,42.8 тыс.,0,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Xayah,Khazix,Janna,Lulu
+2018.0,spring,CIS_CL,4,Dolphins,Team Just.ICE,1.0,28:58,OK,red,TJI,   ПОБЕДА   ,54.8 тыс.,9,  10 ,  2 ,  1 ,  1 ,  1 ,Zilean,Galio,Jinx,Chogath,Ornn
+2018.0,spring,CIS_CL,4,Comanche,Dragon Army Academy,1.0,30:31,OK,blue,CMN,   ПОБЕДА   ,58.5 тыс.,21,  10 ,  3 ,  1 ,  3 ,  1 ,Ivern,Jinx,Skarner,Camille,Tristana
+2018.0,spring,CIS_CL,4,Comanche,Dragon Army Academy,1.0,30:31,OK,red,DAA,   ПОРАЖЕНИЕ   ,48.2 тыс.,9,  1 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Sion,Xayah,Fiora,Yorick
+2018.0,spring,CIS_CL,5,Team Just.ICE,Comanche,1.0,48:44,OK,blue,TJI,   DEFEAT   ,79.5k,13,  4 ,  0 ,  1 ,  2 ,  0 ,Taliyah,Xayah,Galio,Orianna,Corki
+2018.0,spring,CIS_CL,5,Team Just.ICE,Comanche,1.0,48:44,OK,red,CMN,   VICTORY   ,86.1k,15,  9 ,  2 ,  2 ,  3 ,  1 ,Skarner,Cassiopeia,Caitlyn,Alistar,Taric
+2018.0,spring,CIS_CL,5,The Largest Salary,Dolphins,1.0,38:13,OK,blue,TLS,   DEFEAT   ,62.2k,15,  4 ,  0 ,  0 ,  1 ,  1 ,Azir,Gnar,Sejuani,Zilean,Janna
+2018.0,spring,CIS_CL,5,The Largest Salary,Dolphins,1.0,38:13,OK,red,DOL,   VICTORY   ,74.2k,24,  9 ,  1 ,  2 ,  3 ,  0 ,Yorick,Xayah,Caitlyn,Braum,TahmKench
+2018.0,spring,CIS_CL,5,Dragon Army Academy,Aston eSports,1.0,25:10,OK,blue,DAA,   VICTORY   ,49.8k,16,  8 ,  1 ,  1 ,  3 ,  1 ,Xayah,Khazix,Cassiopeia,Chogath,
+2018.0,spring,CIS_CL,5,Dragon Army Academy,Aston eSports,1.0,25:10,OK,red,AST,   DEFEAT   ,35.7k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Skarner,Galio,Alistar,Ryze,
+2018.0,spring,CIS_CL,5,Comanche,The Largest Salary,1.0,38:47,OK,blue,CMN,   DEFEAT   ,63.5k,10,  4 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Skarner,Yorick,Alistar,Swain
+2018.0,spring,CIS_CL,5,Comanche,The Largest Salary,1.0,38:47,OK,red,TLS,   VICTORY   ,67.0k,9,  8 ,  1 ,  1 ,  2 ,  1 ,Xayah,Taliyah,Aatrox,Sivir,
+2018.0,spring,CIS_CL,5,Team Just.ICE,Dragon Army Academy,1.0,30:09,OK,blue,TJI,   VICTORY   ,58.3k,14,  9 ,  1 ,  1 ,  2 ,  0 ,Ivern,Warwick,Olaf,Lulu,Morgana
+2018.0,spring,CIS_CL,5,Team Just.ICE,Dragon Army Academy,1.0,30:09,OK,red,DAA,   DEFEAT   ,44.6k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Skarner,Xayah,Sion,Kassadin,Galio
+2018.0,spring,CIS_CL,5,Dolphins,Aston eSports,1.0,35:58,OK,blue,DOL,   VICTORY   ,68.5k,19,  11 ,  3 ,  1 ,  3 ,  1 ,Camille,Olaf,Galio,Jinx,Varus
+2018.0,spring,CIS_CL,5,Dolphins,Aston eSports,1.0,35:58,OK,red,AST,   DEFEAT   ,62.3k,8,  4 ,  0 ,  1 ,  0 ,  0 ,Sion,Skarner,Sejuani,Cassiopeia,Ryze

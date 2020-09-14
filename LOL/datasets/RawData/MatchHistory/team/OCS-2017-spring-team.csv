@@ -1,0 +1,54 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2017.0,spring,OCS,1,Alpha Sydney,Team Regicide,1.0,47:14,OK,blue,AS,   DEFEAT   ,69.7k,6,  0 ,  0 ,  0 ,  2 ,  0 ,Khazix,Leblanc,Camille,Jayce,Fiora
+2017.0,spring,OCS,1,Alpha Sydney,Team Regicide,1.0,47:14,OK,red,RGC,   VICTORY   ,92.2k,16,  11 ,  3 ,  2 ,  3 ,  0 ,,,,,
+2017.0,spring,OCS,1,Corvidae,Tainted Minds Blue,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2017.0,spring,OCS,1,Sin Academy,Legacy Genesis,1.0,32:50,OK,blue,S1N,   VICTORY   ,63.5k,19,  10 ,  2 ,  1 ,  2 ,  0 ,Malzahar,LeeSin,Leblanc,MissFortune,Poppy
+2017.0,spring,OCS,1,Sin Academy,Legacy Genesis,1.0,32:50,OK,red,LGG,   DEFEAT   ,51.1k,13,  2 ,  0 ,  0 ,  0 ,  0 ,Camille,Rengar,Khazix,Fiora,Elise
+2017.0,spring,OCS,1,Team Noxide,Outlaws,1.0,34:35,OK,blue,NX,   DEFEAT   ,53.4k,7,  4 ,  0 ,  0 ,  1 ,  0 ,Shen,Khazix,Fiora,Varus,Zyra
+2017.0,spring,OCS,1,Team Noxide,Outlaws,1.0,34:35,OK,red,OW,   VICTORY   ,64.0k,20,  10 ,  1 ,  1 ,  2 ,  0 ,Rengar,Camille,Leblanc,Ashe,Malzahar
+2017.0,spring,OCS,2,Tainted Minds Blue,Alpha Sydney,1.0,35:27,OK,blue,TMB,   DEFEAT   ,57.0k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Darius,Malzahar,Zyra,Irelia,
+2017.0,spring,OCS,2,Tainted Minds Blue,Alpha Sydney,1.0,35:27,OK,red,AS,   VICTORY   ,68.4k,19,  9 ,  1 ,  2 ,  2 ,  0 ,Camille,Leblanc,Jayce,Fiora,Gangplank
+2017.0,spring,OCS,2,Sin Academy,Team Regicide,1.0,34:41,OK,blue,SNA,   DEFEAT   ,58.6k,18,  4 ,  0 ,  1 ,  3 ,  0 ,Zac,MasterYi,Zilean,Janna,Cassiopeia
+2017.0,spring,OCS,2,Sin Academy,Team Regicide,1.0,34:41,OK,red,RGC,   VICTORY   ,69.3k,34,  9 ,  1 ,  1 ,  1 ,  0 ,Aatrox,Leblanc,Amumu,Ahri,Akali
+2017.0,spring,OCS,2,Outlaws,Corvidae,1.0,34:34,OK,blue,OLW,   VICTORY   ,65.4k,17,  9 ,  1 ,  1 ,  0 ,  0 ,Malzahar,Taliyah,Camille,Hecarim,Khazix
+2017.0,spring,OCS,2,Outlaws,Corvidae,1.0,34:34,OK,red,CVD,   DEFEAT   ,56.4k,12,  5 ,  0 ,  0 ,  4 ,  1 ,Syndra,Ivern,Leblanc,Varus,Fiora
+2017.0,spring,OCS,2,Team Noxide,Legacy Genesis,1.0,32:44,OK,blue,NX,   VICTORY   ,63.0k,23,  10 ,  3 ,  1 ,  2 ,  0 ,LeeSin,Khazix,Leblanc,Shen,Malzahar
+2017.0,spring,OCS,2,Team Noxide,Legacy Genesis,1.0,32:44,OK,red,LGG,   DEFEAT   ,49.2k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Jayce,Rengar,Zyra,Fiora
+2017.0,spring,OCS,3,Alpha Sydney,Sin Academy,1.0,34:52,OK,blue,AS,   VICTORY   ,68.1k,20,  11 ,  3 ,  1 ,  3 ,  0 ,Khazix,Leblanc,Camille,Graves,Corki
+2017.0,spring,OCS,3,Alpha Sydney,Sin Academy,1.0,34:52,OK,red,SNA,   DEFEAT   ,54.2k,3,  3 ,  0 ,  0 ,  1 ,  0 ,,,,,
+2017.0,spring,OCS,3,Tainted Minds Blue,Outlaws,1.0,46:31,OK,blue,TMB,   DEFEAT   ,76.2k,10,  6 ,  0 ,  0 ,  2 ,  0 ,,,,,
+2017.0,spring,OCS,3,Tainted Minds Blue,Outlaws,1.0,46:31,OK,red,OLW,   VICTORY   ,83.0k,17,  10 ,  2 ,  1 ,  4 ,  0 ,Anivia,Camille,Leblanc,Poppy,Taliyah
+2017.0,spring,OCS,3,Team Regicide,Team Noxide,1.0,35:31,OK,blue,RGC,   VICTORY   ,66.5k,13,  9 ,  1 ,  2 ,  1 ,  0 ,Jayce,Syndra,Malzahar,Thresh,
+2017.0,spring,OCS,3,Team Regicide,Team Noxide,1.0,35:31,OK,red,NX,   DEFEAT   ,55.3k,12,  1 ,  0 ,  0 ,  2 ,  0 ,Camille,Leblanc,Rengar,Zyra,MissFortune
+2017.0,spring,OCS,3,Corvidae,Legacy Genesis,1.0,36:42,OK,blue,CVD,   VICTORY   ,68.1k,13,  9 ,  1 ,  2 ,  3 ,  1 ,Rengar,Graves,Syndra,Maokai,Rumble
+2017.0,spring,OCS,3,Corvidae,Legacy Genesis,1.0,36:42,OK,red,LGG,   DEFEAT   ,56.5k,7,  2 ,  0 ,  0 ,  1 ,  0 ,,,,,
+2017.0,spring,OCS,4,Corvidae,Team Regicide,1.0,40:53,OK,blue,CVD,   DEFEAT   ,61.9k,10,  4 ,  0 ,  0 ,  2 ,  0 ,Zed,Graves,Rengar,Syndra,Fiora
+2017.0,spring,OCS,4,Corvidae,Team Regicide,1.0,40:53,OK,red,RGC,   VICTORY   ,74.1k,19,  8 ,  1 ,  1 ,  3 ,  0 ,Khazix,Leblanc,Ivern,Elise,
+2017.0,spring,OCS,4,Team Noxide,Sin Academy,1.0,44:35,OK,blue,NX,   DEFEAT   ,74.0k,6,  4 ,  0 ,  2 ,  1 ,  0 ,,,,,
+2017.0,spring,OCS,4,Team Noxide,Sin Academy,1.0,44:35,OK,red,SNA,   VICTORY   ,78.8k,15,  9 ,  1 ,  0 ,  5 ,  0 ,Camille,Leblanc,Malzahar,Jhin,Ashe
+2017.0,spring,OCS,4,Legacy Genesis,Tainted Minds Blue,1.0,41:57,OK,blue,LGG,   VICTORY   ,74.7k,19,  9 ,  3 ,  1 ,  4 ,  0 ,Camille,Anivia,Syndra,Fiora,Orianna
+2017.0,spring,OCS,4,Legacy Genesis,Tainted Minds Blue,1.0,41:57,OK,red,TMB,   DEFEAT   ,75.6k,21,  7 ,  0 ,  1 ,  1 ,  1 ,Leblanc,Ryze,Rengar,Rumble,Cassiopeia
+2017.0,spring,OCS,4,Outlaws,Alpha Sydney,1.0,40:03,OK,blue,OLW,   VICTORY   ,72.5k,13,  11 ,  3 ,  1 ,  3 ,  0 ,Rengar,Karma,Fiora,Nami,Darius
+2017.0,spring,OCS,4,Outlaws,Alpha Sydney,1.0,40:03,OK,red,AS,   DEFEAT   ,63.3k,10,  3 ,  0 ,  0 ,  1 ,  0 ,Camille,Leblanc,Varus,Ezreal,Ashe
+2017.0,spring,OCS,5,Alpha Sydney,Team Noxide,1.0,30:20,OK,blue,AS,   DEFEAT   ,44.2k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Poppy,Karma,Leblanc,Camille,RekSai
+2017.0,spring,OCS,5,Alpha Sydney,Team Noxide,1.0,30:20,OK,red,NX,   VICTORY   ,62.2k,22,  11 ,  3 ,  1 ,  3 ,  1 ,Varus,Graves,Orianna,Jhin,TahmKench
+2017.0,spring,OCS,5,Outlaws,Legacy Genesis,1.0,29:21,OK,blue,OLW,   DEFEAT   ,47.8k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Rengar,Rumble,Graves,Elise,Poppy
+2017.0,spring,OCS,5,Outlaws,Legacy Genesis,1.0,29:21,OK,red,LGG,   VICTORY   ,62.1k,21,  10 ,  2 ,  1 ,  2 ,  0 ,Syndra,Leblanc,Varus,Jhin,Jayce
+2017.0,spring,OCS,5,Sin Academy,Corvidae,1.0,45:15,OK,blue,SNA,   VICTORY   ,85.5k,29,  9 ,  1 ,  1 ,  1 ,  0 ,Ekko,Leblanc,Khazix,Jhin,Ashe
+2017.0,spring,OCS,5,Sin Academy,Corvidae,1.0,45:15,OK,red,CVD,   DEFEAT   ,81.6k,26,  10 ,  1 ,  1 ,  3 ,  1 ,Fiora,Jayce,Graves,Orianna,Yasuo
+2017.0,spring,OCS,5,Team Regicide,Tainted Minds Blue,1.0,27:12,OK,blue,RGC,   VICTORY   ,54.2k,19,  8 ,  1 ,  1 ,  2 ,  1 ,Anivia,Camille,Varus,Fiora,Orianna
+2017.0,spring,OCS,5,Team Regicide,Tainted Minds Blue,1.0,27:12,OK,red,TMB,   DEFEAT   ,41.4k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Rengar,Rumble,Leblanc,Khazix,TahmKench
+2017.0,spring,OCS,6,Team Regicide,Outlaws,1.0,33:23,OK,blue,RGC,   VICTORY   ,67.2k,25,  10 ,  1 ,  1 ,  2 ,  0 ,LeeSin,Lucian,Ezreal,Jhin,KogMaw
+2017.0,spring,OCS,6,Team Regicide,Outlaws,1.0,33:23,OK,red,OLW,   DEFEAT   ,50.1k,9,  3 ,  0 ,  0 ,  0 ,  0 ,Rumble,Syndra,Graves,Rengar,Fiora
+2017.0,spring,OCS,6,Corvidae,Team Noxide,1.0,40:10,OK,blue,CVD,   DEFEAT   ,68.9k,17,  8 ,  2 ,  2 ,  3 ,  1 ,Yasuo,Jayce,Ivern,Camille,Gangplank
+2017.0,spring,OCS,6,Corvidae,Team Noxide,1.0,40:10,OK,red,NX,   VICTORY   ,75.6k,23,  11 ,  3 ,  0 ,  1 ,  0 ,Graves,Leblanc,Orianna,Velkoz,Renekton
+2017.0,spring,OCS,6,Legacy Genesis,Alpha Sydney,1.0,49:55,OK,blue,LGG,   DEFEAT   ,90.8k,14,  4 ,  0 ,  1 ,  2 ,  0 ,Renekton,Camille,Teemo,Jhin,Ashe
+2017.0,spring,OCS,6,Legacy Genesis,Alpha Sydney,1.0,49:55,OK,red,AS,   VICTORY   ,92.9k,16,  11 ,  5 ,  1 ,  3 ,  0 ,Rengar,Nidalee,Varus,Rumble,Jayce
+2017.0,spring,OCS,6,Tainted Minds Blue,Sin Academy,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2017.0,spring,OCS,7,Alpha Sydney,Corvidae,1.0,31:13,OK,blue,AS,   DEFEAT   ,46.3k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Syndra,Camille,Braum,Lulu
+2017.0,spring,OCS,7,Alpha Sydney,Corvidae,1.0,31:13,OK,red,CVD,   VICTORY   ,64.0k,20,  11 ,  3 ,  2 ,  2 ,  0 ,Gragas,Fiora,Graves,Shen,Talon
+2017.0,spring,OCS,7,Legacy Genesis,Team Regicide,1.0,25:30,OK,blue,LGG,   DEFEAT   ,37.9k,10,  0 ,  0 ,  0 ,  1 ,  0 ,Lulu,Fiora,Karma,Ekko,Nautilus
+2017.0,spring,OCS,7,Legacy Genesis,Team Regicide,1.0,25:30,OK,red,RGC,   VICTORY   ,57.8k,30,  11 ,  3 ,  1 ,  1 ,  1 ,Rumble,Ahri,Lucian,Ezreal,
+2017.0,spring,OCS,7,Team Noxide,Tainted Minds Blue,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2017.0,spring,OCS,7,Outlaws,Sin Academy,1.0,34:20,OK,blue,OLW,   VICTORY   ,61.0k,17,  8 ,  1 ,  0 ,  1 ,  0 ,Camille,Graves,Fiora,Poppy,Maokai
+2017.0,spring,OCS,7,Outlaws,Sin Academy,1.0,34:20,OK,red,SIN,   DEFEAT   ,56.1k,15,  3 ,  0 ,  1 ,  3 ,  0 ,Shen,Syndra,Ekko,TahmKench,Braum

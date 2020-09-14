@@ -1,0 +1,141 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,CBLOL,1,INTZ,Kabum,1.0,28:36,OK,blue,ITZ,   VITÓRIA   ,54.7 mil,17,  11 ,  3 ,  1 ,  1 ,  1 ,Vladimir,Yasuo,Irelia,Morgana,Braum
+2018.0,summer,CBLOL,1,INTZ,Kabum,1.0,28:36,OK,red,KBM,   DERROTA   ,46.9 mil,7,  3 ,  0 ,  0 ,  2 ,  0 ,MasterYi,Mordekaiser,Graves,Leblanc,Ornn
+2018.0,summer,CBLOL,1,INTZ,Kabum,2.0,31:07,OK,blue,KBM,   VITÓRIA   ,63.9 mil,22,  10 ,  2 ,  1 ,  1 ,  1 ,Lucian,Irelia,Camille,Skarner,Trundle
+2018.0,summer,CBLOL,1,INTZ,Kabum,2.0,31:07,OK,red,ITZ,   DERROTA   ,48.6 mil,10,  0 ,  0 ,  0 ,  1 ,  0 ,Vladimir,Rakan,Mordekaiser,Caitlyn,Draven
+2018.0,summer,CBLOL,1,INTZ,Kabum,3.0,34:12,OK,blue,ITZ,   VITÓRIA   ,63.5 mil,18,  10 ,  2 ,  2 ,  1 ,  1 ,Vladimir,Zoe,Irelia,Urgot,Kaisa
+2018.0,summer,CBLOL,1,INTZ,Kabum,3.0,34:12,OK,red,KBM,   DERROTA   ,56.6 mil,9,  3 ,  0 ,  0 ,  2 ,  0 ,Mordekaiser,Graves,Rakan,Camille,Leblanc
+2018.0,summer,CBLOL,1,Vivo Keyd,ProGaming Esports,1.0,27:06,OK,blue,VK,   VITÓRIA   ,58.1 mil,17,  11 ,  3 ,  1 ,  3 ,  1 ,Karthus,Taliyah,Lucian,Nidalee,Ezreal
+2018.0,summer,CBLOL,1,Vivo Keyd,ProGaming Esports,1.0,27:06,OK,red,PRG,   DERROTA   ,39.6 mil,7,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Graves,Karma,Shen,Alistar
+2018.0,summer,CBLOL,1,Vivo Keyd,ProGaming Esports,2.0,32:40,OK,blue,PRG,   DERROTA   ,53.4 mil,8,  5 ,  0 ,  0 ,  2 ,  1 ,Rakan,Graves,Taliyah,Alistar,Pyke
+2018.0,summer,CBLOL,1,Vivo Keyd,ProGaming Esports,2.0,32:40,OK,red,VK,   VITÓRIA   ,60.4 mil,16,  6 ,  1 ,  1 ,  2 ,  0 ,Yasuo,Lucian,Mordekaiser,Morgana,TahmKench
+2018.0,summer,CBLOL,1,CNB,RED Canids,1.0,34:10,OK,blue,CNB,   VITÓRIA   ,62.3 mil,14,  11 ,  2 ,  1 ,  3 ,  0 ,Yasuo,Irelia,Ezreal,Chogath,Zoe
+2018.0,summer,CBLOL,1,CNB,RED Canids,1.0,34:10,OK,red,RED,   DERROTA   ,56.9 mil,11,  4 ,  0 ,  0 ,  0 ,  1 ,Braum,Graves,Mordekaiser,Galio,XinZhao
+2018.0,summer,CBLOL,1,CNB,RED Canids,2.0,25:27,OK,blue,RED,   DERROTA   ,37.7 mil,2,  3 ,  0 ,  0 ,  2 ,  0 ,Graves,Irelia,Ornn,Galio,Zoe
+2018.0,summer,CBLOL,1,CNB,RED Canids,2.0,25:27,OK,red,CNB,   VITÓRIA   ,50.8 mil,11,  11 ,  2 ,  1 ,  1 ,  1 ,Ezreal,Alistar,Lucian,Leona,Chogath
+2018.0,summer,CBLOL,1,Flamengo,IDM Gaming,1.0,44:05,OK,blue,FLA,   DERROTA   ,78.3 mil,16,  5 ,  0 ,  0 ,  4 ,  1 ,Rakan,Taliyah,Alistar,Pyke,Janna
+2018.0,summer,CBLOL,1,Flamengo,IDM Gaming,1.0,44:05,OK,red,IDM,   VITÓRIA   ,84.9 mil,21,  9 ,  1 ,  3 ,  1 ,  0 ,Nidalee,Lucian,Braum,Ezreal,Mordekaiser
+2018.0,summer,CBLOL,1,Flamengo,IDM Gaming,2.0,28:02,OK,blue,IDM,   DERROTA   ,42.0 mil,1,  1 ,  0 ,  0 ,  1 ,  0 ,Nidalee,Taliyah,Irelia,Ezreal,Zoe
+2018.0,summer,CBLOL,1,Flamengo,IDM Gaming,2.0,28:02,OK,red,FLA,   VITÓRIA   ,57.3 mil,10,  10 ,  2 ,  1 ,  3 ,  1 ,Rakan,Ornn,Yasuo,Fiora,Jax
+2018.0,summer,CBLOL,1,Flamengo,IDM Gaming,3.0,32:23,OK,blue,FLA,   DERROTA   ,51.4 mil,11,  2 ,  0 ,  0 ,  0 ,  0 ,Rakan,Yasuo,Taliyah,Pyke,Camille
+2018.0,summer,CBLOL,1,Flamengo,IDM Gaming,3.0,32:23,OK,red,IDM,   VITÓRIA   ,64.3 mil,22,  10 ,  2 ,  1 ,  3 ,  1 ,Nidalee,Lucian,Braum,Zoe,Graves
+2018.0,summer,CBLOL,2,ProGaming Esports,RED Canids,1.0,38:24,OK,blue,PRG,   VITÓRIA   ,68.1 mil,14,  8 ,  1 ,  1 ,  5 ,  0 ,Taliyah,Lucian,Graves,Ornn,Shen
+2018.0,summer,CBLOL,2,ProGaming Esports,RED Canids,1.0,38:24,OK,red,RED,   DERROTA   ,61.0 mil,9,  6 ,  0 ,  0 ,  0 ,  1 ,Camille,Pyke,Irelia,Alistar,Thresh
+2018.0,summer,CBLOL,2,ProGaming Esports,RED Canids,2.0,34:57,OK,blue,RED,   DERROTA   ,55.4 mil,13,  3 ,  0 ,  0 ,  1 ,  1 ,Lulu,Pyke,Yasuo,Galio,Malzahar
+2018.0,summer,CBLOL,2,ProGaming Esports,RED Canids,2.0,34:57,OK,red,PRG,   VITÓRIA   ,67.8 mil,18,  10 ,  1 ,  1 ,  3 ,  0 ,Lucian,Mordekaiser,Zoe,Fiora,Ornn
+2018.0,summer,CBLOL,2,Vivo Keyd,INTZ,1.0,29:46,OK,blue,VK,   VITÓRIA   ,59.6 mil,17,  8 ,  1 ,  1 ,  1 ,  0 ,MasterYi,Lucian,Ryze,Yasuo,Trundle
+2018.0,summer,CBLOL,2,Vivo Keyd,INTZ,1.0,29:46,OK,red,ITZ,   DERROTA   ,45.7 mil,7,  1 ,  0 ,  0 ,  2 ,  0 ,Pyke,Taliyah,Graves,Shen,Braum
+2018.0,summer,CBLOL,2,Vivo Keyd,INTZ,2.0,35:50,OK,blue,ITZ,   DERROTA   ,59.2 mil,14,  4 ,  0 ,  0 ,  2 ,  0 ,Pyke,Graves,Irelia,Alistar,Shen
+2018.0,summer,CBLOL,2,Vivo Keyd,INTZ,2.0,35:50,OK,red,VK,   VITÓRIA   ,69.2 mil,20,  7 ,  1 ,  2 ,  2 ,  1 ,MasterYi,Lucian,Ryze,XinZhao,Jayce
+2018.0,summer,CBLOL,2,Kabum,Flamengo,1.0,28:28,OK,blue,KBM,   DERROTA   ,41.2 mil,2,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,MasterYi,Nunu,Thresh,Braum
+2018.0,summer,CBLOL,2,Kabum,Flamengo,1.0,28:28,OK,red,FLA,   VITÓRIA   ,58.8 mil,14,  10 ,  2 ,  1 ,  4 ,  1 ,Zoe,Lulu,Lucian,Ornn,Draven
+2018.0,summer,CBLOL,2,Kabum,Flamengo,2.0,48:54,OK,blue,FLA,   DERROTA   ,87.7 mil,21,  9 ,  6 ,  0 ,  2 ,  1 ,Lulu,Lucian,Irelia,XinZhao,Trundle
+2018.0,summer,CBLOL,2,Kabum,Flamengo,2.0,48:54,OK,red,KBM,   VITÓRIA   ,95.4 mil,19,  7 ,  1 ,  3 ,  4 ,  0 ,MasterYi,Karthus,Zoe,Yasuo,Karma
+2018.0,summer,CBLOL,2,Kabum,Flamengo,3.0,29:06,OK,blue,KBM,   DERROTA   ,46.8 mil,5,  2 ,  0 ,  0 ,  0 ,  1 ,Irelia,Mordekaiser,Taliyah,Brand,Ornn
+2018.0,summer,CBLOL,2,Kabum,Flamengo,3.0,29:06,OK,red,FLA,   VITÓRIA   ,57.7 mil,13,  11 ,  3 ,  1 ,  4 ,  0 ,Zoe,Lucian,Lulu,Alistar,Pyke
+2018.0,summer,CBLOL,2,IDM Gaming,CNB,1.0,28:00,OK,blue,IDM,   DERROTA   ,44.5 mil,4,  3 ,  0 ,  0 ,  2 ,  1 ,Taliyah,Vladimir,MasterYi,Urgot,Brand
+2018.0,summer,CBLOL,2,IDM Gaming,CNB,1.0,28:00,OK,red,CNB,   VITÓRIA   ,51.4 mil,10,  6 ,  1 ,  1 ,  1 ,  0 ,Trundle,Graves,Irelia,Ornn,Fiora
+2018.0,summer,CBLOL,2,IDM Gaming,CNB,2.0,26:18,OK,blue,CNB,   VITÓRIA   ,57.8 mil,19,  11 ,  3 ,  1 ,  3 ,  1 ,Trundle,Irelia,Braum,Alistar,Rakan
+2018.0,summer,CBLOL,2,IDM Gaming,CNB,2.0,26:18,OK,red,IDM,   DERROTA   ,40.4 mil,5,  1 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Vladimir,MasterYi,Kayle,Fiddlesticks
+2018.0,summer,CBLOL,3,INTZ,Flamengo,1.0,34:13,OK,blue,ITZ,   DERROTA   ,52.9 mil,10,  3 ,  0 ,  0 ,  2 ,  1 ,Fiddlesticks,Nocturne,Irelia,Braum,Shen
+2018.0,summer,CBLOL,3,INTZ,Flamengo,1.0,34:13,OK,red,FLA,   VITÓRIA   ,65.0 mil,18,  10 ,  2 ,  1 ,  2 ,  0 ,MasterYi,Camille,Zoe,Aatrox,Galio
+2018.0,summer,CBLOL,3,INTZ,Flamengo,2.0,26:47,OK,blue,FLA,   DERROTA   ,42.5 mil,6,  1 ,  0 ,  0 ,  0 ,  1 ,MasterYi,Camille,Lucian,Lulu,Morgana
+2018.0,summer,CBLOL,3,INTZ,Flamengo,2.0,26:47,OK,red,ITZ,   VITÓRIA   ,51.9 mil,9,  9 ,  1 ,  1 ,  3 ,  0 ,Fiddlesticks,Nocturne,Graves,Fiora,Kennen
+2018.0,summer,CBLOL,3,INTZ,Flamengo,3.0,38:47,OK,blue,FLA,   VITÓRIA   ,74.4 mil,13,  11 ,  2 ,  1 ,  5 ,  1 ,Rakan,Aatrox,Camille,Lulu,Alistar
+2018.0,summer,CBLOL,3,INTZ,Flamengo,3.0,38:47,OK,red,ITZ,   DERROTA   ,62.0 mil,11,  2 ,  0 ,  0 ,  0 ,  0 ,Fiddlesticks,Graves,Nocturne,Ornn,DrMundo
+2018.0,summer,CBLOL,3,CNB,ProGaming Esports,1.0,51:04,OK,blue,CNB,   DERROTA   ,93.7 mil,21,  8 ,  4 ,  1 ,  3 ,  0 ,Urgot,Nocturne,Zoe,Kaisa,DrMundo
+2018.0,summer,CBLOL,3,CNB,ProGaming Esports,1.0,51:04,OK,red,PRG,   VITÓRIA   ,99.9 mil,30,  9 ,  3 ,  3 ,  4 ,  1 ,Graves,Lulu,Darius,Aatrox,Ziggs
+2018.0,summer,CBLOL,3,CNB,ProGaming Esports,2.0,39:05,OK,blue,PRG,   DERROTA   ,73.2 mil,16,  6 ,  0 ,  1 ,  3 ,  1 ,Lulu,Mordekaiser,Darius,Morgana,Zilean
+2018.0,summer,CBLOL,3,CNB,ProGaming Esports,2.0,39:05,OK,red,CNB,   VITÓRIA   ,72.5 mil,18,  9 ,  1 ,  1 ,  2 ,  0 ,Urgot,Camille,Zoe,Shen,Fiddlesticks
+2018.0,summer,CBLOL,3,CNB,ProGaming Esports,3.0,40:35,OK,blue,CNB,   VITÓRIA   ,78.0 mil,19,  11 ,  4 ,  2 ,  1 ,  1 ,Urgot,Zoe,Swain,Taric,Braum
+2018.0,summer,CBLOL,3,CNB,ProGaming Esports,3.0,40:35,OK,red,PRG,   DERROTA   ,67.4 mil,7,  3 ,  0 ,  0 ,  3 ,  0 ,Graves,MasterYi,Kayle,Morgana,Rakan
+2018.0,summer,CBLOL,3,IDM Gaming,Vivo Keyd,1.0,26:25,OK,blue,IDM,   VITÓRIA   ,53.4 mil,17,  9 ,  2 ,  1 ,  2 ,  0 ,Camille,Zoe,Taliyah,Darius,Alistar
+2018.0,summer,CBLOL,3,IDM Gaming,Vivo Keyd,1.0,26:25,OK,red,VK,   DERROTA   ,39.7 mil,4,  2 ,  0 ,  0 ,  1 ,  1 ,Nocturne,Lulu,Trundle,Fiddlesticks,DrMundo
+2018.0,summer,CBLOL,3,IDM Gaming,Vivo Keyd,2.0,25:32,OK,blue,VK,   VITÓRIA   ,53.5 mil,14,  11 ,  1 ,  1 ,  2 ,  0 ,MasterYi,Lulu,Irelia,Yasuo,Fiddlesticks
+2018.0,summer,CBLOL,3,IDM Gaming,Vivo Keyd,2.0,25:32,OK,red,IDM,   DERROTA   ,38.8 mil,3,  2 ,  0 ,  0 ,  1 ,  1 ,Camille,Zoe,Taliyah,Darius,Mordekaiser
+2018.0,summer,CBLOL,3,IDM Gaming,Vivo Keyd,3.0,23:51,OK,blue,VK,   DERROTA   ,35.2 mil,9,  0 ,  0 ,  0 ,  1 ,  0 ,MasterYi,Irelia,Lulu,TahmKench,Fiddlesticks
+2018.0,summer,CBLOL,3,IDM Gaming,Vivo Keyd,3.0,23:51,OK,red,IDM,   VITÓRIA   ,49.8 mil,15,  11 ,  3 ,  1 ,  1 ,  1 ,Camille,Taliyah,Nocturne,Alistar,Lucian
+2018.0,summer,CBLOL,3,RED Canids,Kabum,1.0,39:56,OK,blue,RED,   DERROTA   ,70.8 mil,18,  2 ,  0 ,  0 ,  3 ,  1 ,Camille,Lulu,Shen,Trundle,Skarner
+2018.0,summer,CBLOL,3,RED Canids,Kabum,1.0,39:56,OK,red,KBM,   VITÓRIA   ,75.4 mil,14,  11 ,  4 ,  1 ,  2 ,  0 ,Zoe,Taliyah,Taric,Rakan,Irelia
+2018.0,summer,CBLOL,3,RED Canids,Kabum,2.0,25:37,OK,blue,KBM,   VITÓRIA   ,52.5 mil,12,  11 ,  4 ,  1 ,  2 ,  1 ,Yasuo,Irelia,Taric,Nidalee,Fiddlesticks
+2018.0,summer,CBLOL,3,RED Canids,Kabum,2.0,25:37,OK,red,RED,   DERROTA   ,38.3 mil,4,  0 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Taliyah,Lulu,DrMundo,Poppy
+2018.0,summer,CBLOL,4,Kabum,Vivo Keyd,1.0,27:11,OK,blue,KBM,   DERROTA   ,39.5 mil,1,  0 ,  0 ,  0 ,  1 ,  0 ,Camille,Vladimir,Shen,Yasuo,Irelia
+2018.0,summer,CBLOL,4,Kabum,Vivo Keyd,1.0,27:11,OK,red,VK,   VITÓRIA   ,55.1 mil,15,  10 ,  2 ,  1 ,  1 ,  1 ,MasterYi,Nocturne,Zoe,Ezreal,Lucian
+2018.0,summer,CBLOL,4,Kabum,Vivo Keyd,2.0,32:53,OK,blue,VK,   DERROTA   ,56.8 mil,14,  3 ,  0 ,  0 ,  0 ,  1 ,MasterYi,Shen,Zoe,Ezreal,Lucian
+2018.0,summer,CBLOL,4,Kabum,Vivo Keyd,2.0,32:53,OK,red,KBM,   VITÓRIA   ,65.0 mil,17,  11 ,  3 ,  2 ,  2 ,  0 ,Morgana,Taliyah,Camille,Kaisa,Galio
+2018.0,summer,CBLOL,4,Kabum,Vivo Keyd,3.0,33:52,OK,blue,VK,   DERROTA   ,58.1 mil,16,  3 ,  0 ,  0 ,  2 ,  0 ,MasterYi,Swain,Aatrox,Irelia,Leblanc
+2018.0,summer,CBLOL,4,Kabum,Vivo Keyd,3.0,33:52,OK,red,KBM,   VITÓRIA   ,61.1 mil,18,  7 ,  3 ,  1 ,  1 ,  1 ,Morgana,Camille,Taliyah,Lucian,Kaisa
+2018.0,summer,CBLOL,4,Flamengo,ProGaming Esports,1.0,36:36,OK,blue,FLA,   VITÓRIA   ,74.0 mil,21,  11 ,  3 ,  1 ,  3 ,  1 ,Rakan,Aatrox,Taliyah,Jax,Fiora
+2018.0,summer,CBLOL,4,Flamengo,ProGaming Esports,1.0,36:36,OK,red,PRG,   DERROTA   ,57.7 mil,9,  1 ,  0 ,  0 ,  1 ,  0 ,Lulu,Nocturne,Zoe,Trundle,Sejuani
+2018.0,summer,CBLOL,4,Flamengo,ProGaming Esports,2.0,36:29,OK,blue,PRG,   VITÓRIA   ,72.5 mil,24,  11 ,  3 ,  0 ,  1 ,  1 ,Lulu,Morgana,Lucian,Rakan,Alistar
+2018.0,summer,CBLOL,4,Flamengo,ProGaming Esports,2.0,36:29,OK,red,FLA,   DERROTA   ,64.7 mil,15,  2 ,  0 ,  1 ,  3 ,  0 ,Zoe,Nocturne,Camille,Graves,Sejuani
+2018.0,summer,CBLOL,4,Flamengo,ProGaming Esports,3.0,27:30,OK,blue,PRG,   VITÓRIA   ,52.0 mil,11,  8 ,  1 ,  1 ,  2 ,  1 ,Lulu,Irelia,Lucian,Syndra,Taliyah
+2018.0,summer,CBLOL,4,Flamengo,ProGaming Esports,3.0,27:30,OK,red,FLA,   DERROTA   ,45.3 mil,7,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Nocturne,Camille,TahmKench,Rakan
+2018.0,summer,CBLOL,4,RED Canids,IDM Gaming,1.0,41:04,OK,blue,RED,   DERROTA   ,72.3 mil,13,  3 ,  0 ,  1 ,  1 ,  1 ,Zoe,Taliyah,Irelia,Yasuo,Jayce
+2018.0,summer,CBLOL,4,RED Canids,IDM Gaming,1.0,41:04,OK,red,IDM,   VITÓRIA   ,80.2 mil,20,  11 ,  4 ,  1 ,  4 ,  0 ,Ezreal,Nocturne,Lulu,Camille,Galio
+2018.0,summer,CBLOL,4,RED Canids,IDM Gaming,2.0,45:18,OK,blue,IDM,   DERROTA   ,78.1 mil,15,  6 ,  1 ,  2 ,  0 ,  1 ,Ezreal,Nocturne,Lulu,Aatrox,Lucian
+2018.0,summer,CBLOL,4,RED Canids,IDM Gaming,2.0,45:18,OK,red,RED,   VITÓRIA   ,85.9 mil,22,  7 ,  1 ,  0 ,  4 ,  0 ,Zoe,Morgana,Swain,Xayah,MasterYi
+2018.0,summer,CBLOL,4,RED Canids,IDM Gaming,3.0,24:43,OK,blue,RED,   VITÓRIA   ,49.0 mil,9,  9 ,  2 ,  1 ,  1 ,  1 ,Zoe,Taliyah,Fiora,MasterYi,Xayah
+2018.0,summer,CBLOL,4,RED Canids,IDM Gaming,3.0,24:43,OK,red,IDM,   DERROTA   ,35.5 mil,1,  0 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Nocturne,Lulu,Galio,Yasuo
+2018.0,summer,CBLOL,4,CNB,INTZ,1.0,20:39,OK,blue,CNB,   VITÓRIA   ,41.7 mil,13,  9 ,  1 ,  0 ,  1 ,  1 ,Lucian,Ezreal,Rakan,Aatrox,DrMundo
+2018.0,summer,CBLOL,4,CNB,INTZ,1.0,20:39,OK,red,ITZ,   DERROTA   ,28.6 mil,3,  0 ,  0 ,  0 ,  1 ,  0 ,Darius,Camille,Taliyah,Swain,Morgana
+2018.0,summer,CBLOL,4,CNB,INTZ,2.0,23:28,OK,blue,ITZ,   DERROTA   ,32.9 mil,2,  0 ,  0 ,  0 ,  0 ,  0 ,Darius,Camille,MasterYi,Lulu,Vladimir
+2018.0,summer,CBLOL,4,CNB,INTZ,2.0,23:28,OK,red,CNB,   VITÓRIA   ,44.7 mil,8,  8 ,  1 ,  1 ,  2 ,  1 ,Lucian,Ezreal,Rakan,Jax,Renekton
+2018.0,summer,CBLOL,5,Flamengo,CNB,1.0,32:10,OK,blue,FLA,   VITÓRIA   ,64.4 mil,13,  11 ,  2 ,  1 ,  3 ,  0 ,Morgana,Camille,Zoe,Yasuo,Darius
+2018.0,summer,CBLOL,5,Flamengo,CNB,1.0,32:10,OK,red,CNB,   DERROTA   ,49.5 mil,4,  3 ,  0 ,  0 ,  1 ,  1 ,Kindred,Graves,Lucian,Sivir,Ziggs
+2018.0,summer,CBLOL,5,Flamengo,CNB,2.0,24:21,OK,blue,CNB,   VITÓRIA   ,47.4 mil,15,  8 ,  1 ,  1 ,  2 ,  0 ,Kindred,Graves,Braum,Soraka,TahmKench
+2018.0,summer,CBLOL,5,Flamengo,CNB,2.0,24:21,OK,red,FLA,   DERROTA   ,39.9 mil,10,  1 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Zoe,Yasuo,Heimerdinger,Swain
+2018.0,summer,CBLOL,5,Flamengo,CNB,3.0,32:38,OK,blue,CNB,   DERROTA   ,57.8 mil,11,  8 ,  2 ,  0 ,  1 ,  1 ,Kindred,Graves,Braum,Soraka,TahmKench
+2018.0,summer,CBLOL,5,Flamengo,CNB,3.0,32:38,OK,red,FLA,   VITÓRIA   ,64.8 mil,21,  8 ,  2 ,  2 ,  3 ,  0 ,Aatrox,Camille,Zoe,Yasuo,Jayce
+2018.0,summer,CBLOL,5,Kabum,IDM Gaming,1.0,22:39,OK,blue,KBM,   VITÓRIA   ,46.0 mil,14,  11 ,  3 ,  0 ,  0 ,  1 ,Rakan,Morgana,Jayce,Fiddlesticks,Vladimir
+2018.0,summer,CBLOL,5,Kabum,IDM Gaming,1.0,22:39,OK,red,IDM,   DERROTA   ,33.5 mil,1,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Ezreal,Zoe,DrMundo,Lucian
+2018.0,summer,CBLOL,5,Kabum,IDM Gaming,2.0,30:58,OK,blue,IDM,   DERROTA   ,48.3 mil,5,  2 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Lucian,Zoe,Fiora,Varus
+2018.0,summer,CBLOL,5,Kabum,IDM Gaming,2.0,30:58,OK,red,KBM,   VITÓRIA   ,60.0 mil,12,  10 ,  2 ,  1 ,  2 ,  0 ,Aatrox,Rakan,Morgana,TahmKench,Yasuo
+2018.0,summer,CBLOL,5,INTZ,ProGaming Esports,1.0,42:35,OK,blue,ITZ,   VITÓRIA   ,76.7 mil,20,  11 ,  5 ,  1 ,  2 ,  1 ,Morgana,Cassiopeia,Taliyah,Camille,Irelia
+2018.0,summer,CBLOL,5,INTZ,ProGaming Esports,1.0,42:35,OK,red,PRG,   DERROTA   ,74.3 mil,8,  5 ,  0 ,  1 ,  3 ,  0 ,Rakan,Aatrox,Swain,Heimerdinger,DrMundo
+2018.0,summer,CBLOL,5,INTZ,ProGaming Esports,2.0,48:44,OK,blue,PRG,   VITÓRIA   ,90.9 mil,13,  10 ,  2 ,  2 ,  1 ,  0 ,Rakan,Karthus,Morgana,Vladimir,DrMundo
+2018.0,summer,CBLOL,5,INTZ,ProGaming Esports,2.0,48:44,OK,red,ITZ,   DERROTA   ,81.8 mil,12,  6 ,  1 ,  1 ,  5 ,  1 ,Aatrox,Taliyah,Swain,Urgot,Darius
+2018.0,summer,CBLOL,5,INTZ,ProGaming Esports,3.0,33:14,OK,blue,ITZ,   VITÓRIA   ,61.1 mil,16,  9 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Morgana,Ezreal,Lucian,Yasuo
+2018.0,summer,CBLOL,5,INTZ,ProGaming Esports,3.0,33:14,OK,red,PRG,   DERROTA   ,53.5 mil,10,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Rakan,Karthus,Darius,Gnar
+2018.0,summer,CBLOL,5,RED Canids,Vivo Keyd,1.0,28:47,OK,blue,RED,   VITÓRIA   ,55.7 mil,13,  10 ,  1 ,  1 ,  3 ,  1 ,Zoe,Morgana,Taliyah,TahmKench,DrMundo
+2018.0,summer,CBLOL,5,RED Canids,Vivo Keyd,1.0,28:47,OK,red,VK,   DERROTA   ,43.6 mil,4,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Yasuo,Darius,Gnar
+2018.0,summer,CBLOL,5,RED Canids,Vivo Keyd,2.0,33:46,OK,blue,VK,   DERROTA   ,56.7 mil,11,  3 ,  0 ,  0 ,  0 ,  1 ,Kindred,Rakan,Zoe,Camille,Gnar
+2018.0,summer,CBLOL,5,RED Canids,Vivo Keyd,2.0,33:46,OK,red,RED,   VITÓRIA   ,69.4 mil,28,  10 ,  3 ,  2 ,  3 ,  0 ,Aatrox,Morgana,Swain,TahmKench,Alistar
+2018.0,summer,CBLOL,6,ProGaming Esports,IDM Gaming,1.0,44:08,OK,blue,PRG,   DERROTA   ,77.0 mil,6,  7 ,  0 ,  1 ,  3 ,  1 ,Morgana,TahmKench,Fiora,Yasuo,Vladimir
+2018.0,summer,CBLOL,6,ProGaming Esports,IDM Gaming,1.0,44:08,OK,red,IDM,   VITÓRIA   ,77.3 mil,15,  7 ,  1 ,  0 ,  2 ,  0 ,Kindred,Shen,Taliyah,Camille,Swain
+2018.0,summer,CBLOL,6,ProGaming Esports,IDM Gaming,2.0,25:10,OK,blue,IDM,   DERROTA   ,38.5 mil,5,  2 ,  0 ,  0 ,  2 ,  0 ,Kindred,Taliyah,Shen,Sejuani,Graves
+2018.0,summer,CBLOL,6,ProGaming Esports,IDM Gaming,2.0,25:10,OK,red,PRG,   VITÓRIA   ,50.5 mil,14,  10 ,  2 ,  1 ,  0 ,  1 ,Aatrox,TahmKench,Morgana,Vladimir,Darius
+2018.0,summer,CBLOL,6,ProGaming Esports,IDM Gaming,3.0,31:32,OK,blue,IDM,   VITÓRIA   ,55.6 mil,12,  7 ,  1 ,  0 ,  2 ,  1 ,Kindred,Shen,Taliyah,Jayce,Swain
+2018.0,summer,CBLOL,6,ProGaming Esports,IDM Gaming,3.0,31:32,OK,red,PRG,   DERROTA   ,51.6 mil,8,  2 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Morgana,Aatrox,Gragas,Sejuani
+2018.0,summer,CBLOL,6,Vivo Keyd,Flamengo,1.0,34:49,OK,blue,VK,   DERROTA   ,55.9 mil,12,  2 ,  0 ,  0 ,  1 ,  0 ,Kindred,Trundle,Taliyah,Urgot,DrMundo
+2018.0,summer,CBLOL,6,Vivo Keyd,Flamengo,1.0,34:49,OK,red,FLA,   VITÓRIA   ,62.9 mil,15,  8 ,  1 ,  0 ,  2 ,  1 ,Aatrox,Camille,Shen,Jayce,Gnar
+2018.0,summer,CBLOL,6,Vivo Keyd,Flamengo,2.0,36:19,OK,blue,FLA,   VITÓRIA   ,64.8 mil,14,  8 ,  1 ,  1 ,  0 ,  0 ,Shen,Camille,Trundle,Gnar,Irelia
+2018.0,summer,CBLOL,6,Vivo Keyd,Flamengo,2.0,36:19,OK,red,VK,   DERROTA   ,63.0 mil,15,  5 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Kindred,Taliyah,Urgot,Kennen
+2018.0,summer,CBLOL,6,INTZ,RED Canids,1.0,29:33,OK,blue,ITZ,   VITÓRIA   ,56.4 mil,8,  11 ,  2 ,  1 ,  1 ,  1 ,Kindred,Yasuo,Swain,Camille,Fiora
+2018.0,summer,CBLOL,6,INTZ,RED Canids,1.0,29:33,OK,red,RED,   DERROTA   ,42.8 mil,1,  2 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Morgana,Orianna,Fiddlesticks,Rakan
+2018.0,summer,CBLOL,6,INTZ,RED Canids,2.0,35:01,OK,blue,RED,   VITÓRIA   ,65.2 mil,11,  11 ,  3 ,  1 ,  3 ,  1 ,Taliyah,Morgana,Zoe,Ashe,Urgot
+2018.0,summer,CBLOL,6,INTZ,RED Canids,2.0,35:01,OK,red,ITZ,   DERROTA   ,55.5 mil,6,  4 ,  0 ,  0 ,  1 ,  0 ,Kindred,Aatrox,Camille,Yasuo,Azir
+2018.0,summer,CBLOL,6,INTZ,RED Canids,3.0,42:21,OK,blue,ITZ,   VITÓRIA   ,78.6 mil,15,  11 ,  4 ,  2 ,  2 ,  0 ,Kindred,Yasuo,Gnar,Leblanc,Azir
+2018.0,summer,CBLOL,6,INTZ,RED Canids,3.0,42:21,OK,red,RED,   DERROTA   ,69.9 mil,12,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Zoe,Morgana,Urgot,JarvanIV
+2018.0,summer,CBLOL,6,Kabum,CNB,1.0,31:02,OK,blue,KBM,   VITÓRIA   ,62.6 mil,22,  10 ,  2 ,  1 ,  3 ,  1 ,Camille,Morgana,Heimerdinger,Fiddlesticks,Orianna
+2018.0,summer,CBLOL,6,Kabum,CNB,1.0,31:02,OK,red,CNB,   DERROTA   ,51.5 mil,13,  3 ,  0 ,  0 ,  0 ,  0 ,Lucian,Ezreal,TahmKench,Varus,Azir
+2018.0,summer,CBLOL,6,Kabum,CNB,2.0,24:00,OK,blue,CNB,   DERROTA   ,36.9 mil,9,  1 ,  0 ,  0 ,  1 ,  1 ,Lucian,Ezreal,Shen,Zoe,Azir
+2018.0,summer,CBLOL,6,Kabum,CNB,2.0,24:00,OK,red,KBM,   VITÓRIA   ,50.7 mil,15,  11 ,  3 ,  1 ,  1 ,  0 ,Aatrox,Morgana,Camille,Varus,Urgot
+2018.0,summer,CBLOL,7,ProGaming Esports,Kabum,1.0,34:45,OK,blue,PRG,   DERROTA   ,56.1 mil,6,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Azir,TahmKench,Leblanc,Zed
+2018.0,summer,CBLOL,7,ProGaming Esports,Kabum,1.0,34:45,OK,red,KBM,   VITÓRIA   ,68.5 mil,13,  9 ,  1 ,  2 ,  4 ,  1 ,Aatrox,Camille,Varus,Alistar,Shen
+2018.0,summer,CBLOL,7,ProGaming Esports,Kabum,2.0,28:03,OK,blue,KBM,   VITÓRIA   ,55.9 mil,11,  10 ,  2 ,  1 ,  3 ,  1 ,Camille,Varus,Orianna,Jayce,DrMundo
+2018.0,summer,CBLOL,7,ProGaming Esports,Kabum,2.0,28:03,OK,red,PRG,   DERROTA   ,44.0 mil,7,  2 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Zoe,Braum,Xayah,Jhin
+2018.0,summer,CBLOL,7,Vivo Keyd,CNB,1.0,33:37,OK,blue,VK,   VITÓRIA   ,69.7 mil,25,  11 ,  3 ,  2 ,  3 ,  0 ,Khazix,Leblanc,Camille,Lucian,Rumble
+2018.0,summer,CBLOL,7,Vivo Keyd,CNB,1.0,33:37,OK,red,CNB,   DERROTA   ,54.3 mil,7,  2 ,  0 ,  0 ,  0 ,  1 ,Taliyah,TahmKench,Aatrox,Trundle,Kindred
+2018.0,summer,CBLOL,7,Vivo Keyd,CNB,2.0,31:47,OK,blue,CNB,   DERROTA   ,51.0 mil,13,  3 ,  0 ,  0 ,  2 ,  0 ,Taliyah,TahmKench,Ryze,Sejuani,Trundle
+2018.0,summer,CBLOL,7,Vivo Keyd,CNB,2.0,31:47,OK,red,VK,   VITÓRIA   ,64.8 mil,31,  9 ,  2 ,  1 ,  1 ,  1 ,Aatrox,Khazix,Camille,Rumble,XinZhao
+2018.0,summer,CBLOL,7,IDM Gaming,INTZ,1.0,39:17,OK,blue,IDM,   DERROTA   ,63.0 mil,6,  2 ,  0 ,  0 ,  0 ,  0 ,Kindred,Taliyah,Braum,Urgot,Syndra
+2018.0,summer,CBLOL,7,IDM Gaming,INTZ,1.0,39:17,OK,red,ITZ,   VITÓRIA   ,72.3 mil,11,  10 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Trundle,Camille,DrMundo,Gnar
+2018.0,summer,CBLOL,7,IDM Gaming,INTZ,2.0,32:09,OK,blue,ITZ,   DERROTA   ,50.1 mil,3,  2 ,  0 ,  0 ,  1 ,  1 ,Yasuo,TahmKench,Fiora,Camille,Urgot
+2018.0,summer,CBLOL,7,IDM Gaming,INTZ,2.0,32:09,OK,red,IDM,   VITÓRIA   ,59.3 mil,14,  11 ,  3 ,  0 ,  3 ,  0 ,Kindred,Taliyah,Aatrox,Leblanc,Chogath
+2018.0,summer,CBLOL,7,IDM Gaming,INTZ,3.0,46:20,OK,blue,ITZ,   DERROTA   ,79.9 mil,12,  8 ,  0 ,  2 ,  0 ,  0 ,Yasuo,Morgana,Varus,Lucian,Ashe
+2018.0,summer,CBLOL,7,IDM Gaming,INTZ,3.0,46:20,OK,red,IDM,   VITÓRIA   ,84.0 mil,15,  10 ,  3 ,  1 ,  5 ,  1 ,Taliyah,Kindred,Leblanc,Shen,Graves
+2018.0,summer,CBLOL,7,RED Canids,Flamengo,1.0,42:37,OK,blue,RED,   DERROTA   ,70.1 mil,12,  2 ,  0 ,  0 ,  2 ,  0 ,Zoe,Varus,Orianna,Lucian,Gnar
+2018.0,summer,CBLOL,7,RED Canids,Flamengo,1.0,42:37,OK,red,FLA,   VITÓRIA   ,77.6 mil,11,  11 ,  5 ,  3 ,  4 ,  1 ,Aatrox,TahmKench,Camille,Chogath,Renekton
+2018.0,summer,CBLOL,7,RED Canids,Flamengo,2.0,34:07,OK,blue,FLA,   VITÓRIA   ,69.1 mil,17,  11 ,  4 ,  2 ,  3 ,  1 ,TahmKench,Shen,Camille,Ashe,Ezreal
+2018.0,summer,CBLOL,7,RED Canids,Flamengo,2.0,34:07,OK,red,RED,   DERROTA   ,57.2 mil,16,  1 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Taliyah,Varus,Yasuo,Jayce

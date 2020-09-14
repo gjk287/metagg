@@ -1,0 +1,117 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,LCL,1,UOL.CIS,Vega Squadron,1.0,23:35,OK,blue,UOL,   VICTORY   ,46.2k,13,  10 ,  2 ,  1 ,  3 ,  2 ,Ziggs,Heimerdinger,Zoe,Ezreal,Varus
+2020.0,spring,LCL,1,UOL.CIS,Vega Squadron,1.0,23:35,OK,red,VEG,   DEFEAT   ,33.2k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Karthus,Syndra,Soraka,Leblanc,Elise
+2020.0,spring,LCL,1,Dragon Army,Gambit,1.0,29:45,OK,blue,DA,   DEFEAT   ,45.5k,12,  0 ,  0 ,  0 ,  1 ,  0 ,Elise,Pantheon,Soraka,Yasuo,Gragas
+2020.0,spring,LCL,1,Dragon Army,Gambit,1.0,29:45,OK,red,GMB,   VICTORY   ,57.5k,19,  11 ,  3 ,  1 ,  3 ,  2 ,Leblanc,Karthus,MissFortune,Ziggs,Nautilus
+2020.0,spring,LCL,1,Elements Pro Gaming,CrowCrowd,1.0,38:42,OK,blue,EPG,   VICTORY   ,68.2k,14,  10 ,  4 ,  2 ,  2 ,  2 ,Karthus,Leblanc,Syndra,JarvanIV,Sejuani
+2020.0,spring,LCL,1,Elements Pro Gaming,CrowCrowd,1.0,38:42,OK,red,CC,   DEFEAT   ,58.6k,11,  2 ,  0 ,  0 ,  3 ,  0 ,Soraka,Elise,Aphelios,Olaf,Gragas
+2020.0,spring,LCL,1,RoX,M19,1.0,36:10,OK,blue,ROX,   VICTORY   ,66.5k,21,  10 ,  2 ,  2 ,  2 ,  2 ,Soraka,Yuumi,Mordekaiser,Syndra,Vladimir
+2020.0,spring,LCL,1,RoX,M19,1.0,36:10,OK,red,M19,   DEFEAT   ,56.6k,13,  2 ,  0 ,  0 ,  3 ,  0 ,Pantheon,Braum,Aphelios,Gragas,Karthus
+2020.0,spring,LCL,1,Dragon Army,RoX,1.0,44:37,OK,blue,DA,   DEFEAT   ,70.9k,22,  4 ,  1 ,  0 ,  5 ,  1 ,Pantheon,Elise,Irelia,Ryze,Qiyana
+2020.0,spring,LCL,1,Dragon Army,RoX,1.0,44:37,OK,red,ROX,   VICTORY   ,75.5k,20,  11 ,  3 ,  3 ,  1 ,  1 ,Karthus,Leblanc,Soraka,Olaf,Trundle
+2020.0,spring,LCL,1,CrowCrowd,Vega Squadron,1.0,28:12,OK,blue,CC,   VICTORY   ,50.6k,16,  7 ,  1 ,  0 ,  3 ,  2 ,Ziggs,Heimerdinger,Mordekaiser,Ezreal,MissFortune
+2020.0,spring,LCL,1,CrowCrowd,Vega Squadron,1.0,28:12,OK,red,VEG,   DEFEAT   ,39.9k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Syndra,Soraka,Ornn,Leblanc,Thresh
+2020.0,spring,LCL,1,Gambit,M19,1.0,34:22,OK,blue,GMB,   VICTORY   ,63.5k,20,  9 ,  1 ,  2 ,  3 ,  1 ,MissFortune,Sejuani,Syndra,Corki,Ryze
+2020.0,spring,LCL,1,Gambit,M19,1.0,34:22,OK,red,M19,   DEFEAT   ,53.6k,11,  1 ,  0 ,  0 ,  2 ,  1 ,Aphelios,Pantheon,Olaf,Ziggs,Ezreal
+2020.0,spring,LCL,1,Elements Pro Gaming,UOL.CIS,1.0,34:37,OK,blue,EPG,   DEFEAT   ,49.6k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Karthus,Aatrox,Vayne,Braum,Mordekaiser
+2020.0,spring,LCL,1,Elements Pro Gaming,UOL.CIS,1.0,34:37,OK,red,UOL,   VICTORY   ,63.0k,27,  9 ,  2 ,  1 ,  5 ,  1 ,Nautilus,Ornn,Sejuani,Alistar,Leona
+2020.0,spring,LCL,2,Elements Pro Gaming,RoX,1.0,35:13,OK,blue,EPG,   DEFEAT   ,52.9k,5,  3 ,  0 ,  0 ,  2 ,  1 ,Irelia,Kayle,Senna,Vladimir,Sett
+2020.0,spring,LCL,2,Elements Pro Gaming,RoX,1.0,35:13,OK,red,ROX,   VICTORY   ,62.6k,15,  10 ,  2 ,  1 ,  4 ,  1 ,RekSai,Aphelios,Nautilus,Varus,Aatrox
+2020.0,spring,LCL,2,CrowCrowd,Dragon Army,1.0,51:02,OK,blue,CC,   VICTORY   ,79.4k,15,  8 ,  1 ,  0 ,  5 ,  2 ,Karthus,Leblanc,Syndra,Zac,Gragas
+2020.0,spring,LCL,2,CrowCrowd,Dragon Army,1.0,51:02,OK,red,DA,   DEFEAT   ,78.4k,16,  4 ,  0 ,  1 ,  3 ,  0 ,Pantheon,Aphelios,Elise,Senna,Braum
+2020.0,spring,LCL,2,M19,Vega Squadron,1.0,43:09,OK,blue,M19,   DEFEAT   ,72.1k,21,  6 ,  0 ,  0 ,  3 ,  2 ,Zoe,JarvanIV,Sejuani,Leblanc,Olaf
+2020.0,spring,LCL,2,M19,Vega Squadron,1.0,43:09,OK,red,VEG,   VICTORY   ,74.4k,18,  7 ,  1 ,  1 ,  3 ,  0 ,Syndra,Aphelios,Blitzcrank,Rakan,Nautilus
+2020.0,spring,LCL,2,Gambit,UOL.CIS,1.0,33:00,OK,blue,GMB,   DEFEAT   ,49.3k,11,  1 ,  0 ,  1 ,  2 ,  1 ,Syndra,Karthus,Aatrox,Braum,Trundle
+2020.0,spring,LCL,2,Gambit,UOL.CIS,1.0,33:00,OK,red,UOL,   VICTORY   ,57.3k,17,  7 ,  1 ,  0 ,  3 ,  1 ,Senna,Pantheon,Thresh,Yuumi,Lucian
+2020.0,spring,LCL,2,Elements Pro Gaming,Dragon Army,1.0,34:56,OK,blue,EPG,   VICTORY   ,60.6k,13,  9 ,  1 ,  0 ,  3 ,  2 ,Karthus,Leblanc,MissFortune,Mordekaiser,Aatrox
+2020.0,spring,LCL,2,Elements Pro Gaming,Dragon Army,1.0,34:56,OK,red,DA,   DEFEAT   ,53.5k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Pantheon,RekSai,Elise,Olaf
+2020.0,spring,LCL,2,CrowCrowd,RoX,1.0,34:52,OK,blue,CC,   DEFEAT   ,55.6k,6,  3 ,  0 ,  0 ,  2 ,  1 ,Senna,Yuumi,Aphelios,Akali,Pantheon
+2020.0,spring,LCL,2,CrowCrowd,RoX,1.0,34:52,OK,red,ROX,   VICTORY   ,67.8k,22,  9 ,  1 ,  2 ,  4 ,  1 ,Zoe,Syndra,Sett,Lucian,Yasuo
+2020.0,spring,LCL,2,Vega Squadron,Gambit,1.0,37:14,OK,blue,VEG,   VICTORY   ,67.4k,23,  10 ,  2 ,  1 ,  3 ,  1 ,Senna,Pantheon,Mordekaiser,Braum,Nautilus
+2020.0,spring,LCL,2,Vega Squadron,Gambit,1.0,37:14,OK,red,GMB,   DEFEAT   ,63.8k,17,  3 ,  0 ,  1 ,  2 ,  1 ,Heimerdinger,Syndra,Ornn,Trundle,Olaf
+2020.0,spring,LCL,2,M19,UOL.CIS,1.0,28:02,OK,blue,M19,   DEFEAT   ,43.6k,11,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Pantheon,Senna,Thresh,Lucian
+2020.0,spring,LCL,2,M19,UOL.CIS,1.0,28:02,OK,red,UOL,   VICTORY   ,57.9k,21,  10 ,  1 ,  1 ,  3 ,  2 ,Sett,Ornn,Syndra,Mordekaiser,Urgot
+2020.0,spring,LCL,3,CrowCrowd,M19,1.0,21:31,OK,blue,CC,   VICTORY   ,45.3k,19,  10 ,  2 ,  0 ,  3 ,  2 ,Blitzcrank,Syndra,Sett,Viktor,Corki
+2020.0,spring,LCL,3,CrowCrowd,M19,1.0,21:31,OK,red,M19,   DEFEAT   ,32.6k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Ziggs,Ornn,Zoe,Leblanc
+2020.0,spring,LCL,3,Vega Squadron,Elements Pro Gaming,1.0,39:38,OK,blue,VEG,   VICTORY   ,68.8k,13,  9 ,  1 ,  2 ,  4 ,  1 ,Senna,Nautilus,Mordekaiser,JarvanIV,RekSai
+2020.0,spring,LCL,3,Vega Squadron,Elements Pro Gaming,1.0,39:38,OK,red,EPG,   DEFEAT   ,62.9k,4,  3 ,  0 ,  0 ,  2 ,  1 ,Heimerdinger,Aphelios,Yuumi,Qiyana,Sylas
+2020.0,spring,LCL,3,UOL.CIS,Dragon Army,1.0,24:26,OK,blue,UOL,   VICTORY   ,49.2k,23,  8 ,  1 ,  1 ,  3 ,  2 ,MissFortune,Sett,Yuumi,Camille,Gangplank
+2020.0,spring,LCL,3,UOL.CIS,Dragon Army,1.0,24:26,OK,red,DA,   DEFEAT   ,35.7k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Pantheon,Ornn,Aphelios,Aatrox,Kassadin
+2020.0,spring,LCL,3,RoX,Gambit,1.0,34:02,OK,blue,ROX,   VICTORY   ,60.1k,17,  7 ,  1 ,  0 ,  3 ,  0 ,Aphelios,Thresh,Yuumi,Varus,Xayah
+2020.0,spring,LCL,3,RoX,Gambit,1.0,34:02,OK,red,GMB,   DEFEAT   ,55.3k,13,  4 ,  0 ,  1 ,  2 ,  2 ,Sett,Pantheon,Senna,Karthus,Trundle
+2020.0,spring,LCL,3,Gambit,Elements Pro Gaming,1.0,37:27,OK,blue,GMB,   DEFEAT   ,55.8k,9,  1 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Senna,Sett,Sylas,Viktor
+2020.0,spring,LCL,3,Gambit,Elements Pro Gaming,1.0,37:27,OK,red,EPG,   VICTORY   ,68.8k,18,  11 ,  3 ,  2 ,  4 ,  1 ,Olaf,RekSai,Thresh,Yasuo,Aatrox
+2020.0,spring,LCL,3,UOL.CIS,CrowCrowd,1.0,21:50,OK,blue,UOL,   VICTORY   ,45.7k,28,  8 ,  1 ,  0 ,  3 ,  1 ,Ornn,Yuumi,Aphelios,MissFortune,Ezreal
+2020.0,spring,LCL,3,UOL.CIS,CrowCrowd,1.0,21:50,OK,red,CC,   DEFEAT   ,34.7k,12,  1 ,  0 ,  0 ,  0 ,  1 ,Senna,Pantheon,Vayne,Syndra,Ekko
+2020.0,spring,LCL,3,Dragon Army,M19,1.0,25:40,OK,blue,DA,   VICTORY   ,53.1k,22,  8 ,  1 ,  1 ,  1 ,  1 ,LeeSin,Blitzcrank,Ornn,Leona,Braum
+2020.0,spring,LCL,3,Dragon Army,M19,1.0,25:40,OK,red,M19,   DEFEAT   ,42.6k,11,  1 ,  0 ,  0 ,  3 ,  1 ,Karthus,Thresh,Sett,Aatrox,Leblanc
+2020.0,spring,LCL,3,Vega Squadron,RoX,1.0,30:02,OK,blue,VEG,   DEFEAT   ,41.9k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Nautilus,MissFortune,Yuumi,Mordekaiser,Kayle
+2020.0,spring,LCL,3,Vega Squadron,RoX,1.0,30:02,OK,red,ROX,   VICTORY   ,56.8k,15,  9 ,  2 ,  1 ,  3 ,  2 ,Aphelios,Ornn,Thresh,Leblanc,Zoe
+2020.0,spring,LCL,4,Vega Squadron,Dragon Army,1.0,31:56,OK,blue,VEG,   DEFEAT   ,47.8k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Karthus,Yuumi,Senna,JarvanIV,Kalista
+2020.0,spring,LCL,4,Vega Squadron,Dragon Army,1.0,31:56,OK,red,DA,   VICTORY   ,61.8k,24,  10 ,  2 ,  2 ,  4 ,  1 ,Thresh,Sylas,Aphelios,Khazix,Ekko
+2020.0,spring,LCL,4,Gambit,CrowCrowd,1.0,29:37,OK,blue,GMB,   VICTORY   ,53.3k,21,  7 ,  1 ,  0 ,  2 ,  2 ,Syndra,MissFortune,Kalista,Leblanc,Ekko
+2020.0,spring,LCL,4,Gambit,CrowCrowd,1.0,29:37,OK,red,CC,   DEFEAT   ,43.8k,9,  0 ,  0 ,  0 ,  2 ,  0 ,Senna,Pantheon,Aphelios,Neeko,Olaf
+2020.0,spring,LCL,4,M19,Elements Pro Gaming,1.0,29:23,OK,blue,M19,   DEFEAT   ,44.0k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Sylas,Ziggs,Senna,Sejuani,Viktor
+2020.0,spring,LCL,4,M19,Elements Pro Gaming,1.0,29:23,OK,red,EPG,   VICTORY   ,60.2k,27,  11 ,  3 ,  1 ,  3 ,  1 ,Syndra,Vladimir,Aphelios,JarvanIV,Olaf
+2020.0,spring,LCL,4,RoX,UOL.CIS,1.0,25:21,OK,blue,ROX,   VICTORY   ,48.7k,18,  8 ,  1 ,  1 ,  2 ,  0 ,Karthus,Cassiopeia,Lucian,Ekko,Thresh
+2020.0,spring,LCL,4,RoX,UOL.CIS,1.0,25:21,OK,red,UOL,   DEFEAT   ,40.9k,9,  2 ,  0 ,  0 ,  1 ,  2 ,Senna,MissFortune,Yuumi,Rumble,Viktor
+2020.0,spring,LCL,4,Vega Squadron,UOL.CIS,1.0,23:25,OK,blue,VEG,   DEFEAT   ,35.4k,13,  0 ,  0 ,  0 ,  1 ,  0 ,Karthus,Nautilus,Aphelios,Leblanc,LeeSin
+2020.0,spring,LCL,4,Vega Squadron,UOL.CIS,1.0,23:25,OK,red,UOL,   VICTORY   ,50.2k,32,  11 ,  3 ,  0 ,  1 ,  2 ,Ornn,Sett,Zoe,Elise,Sejuani
+2020.0,spring,LCL,4,Gambit,Dragon Army,1.0,31:05,OK,blue,GMB,   VICTORY   ,59.0k,25,  11 ,  3 ,  1 ,  2 ,  2 ,Karthus,Sett,MissFortune,Camille,Olaf
+2020.0,spring,LCL,4,Gambit,Dragon Army,1.0,31:05,OK,red,DA,   DEFEAT   ,46.4k,5,  1 ,  0 ,  0 ,  2 ,  0 ,Pantheon,Thresh,Aphelios,Diana,Syndra
+2020.0,spring,LCL,4,CrowCrowd,Elements Pro Gaming,1.0,29:08,OK,blue,CC,   DEFEAT   ,45.6k,7,  0 ,  0 ,  0 ,  3 ,  0 ,Nautilus,Ziggs,Mordekaiser,Anivia,Rumble
+2020.0,spring,LCL,4,CrowCrowd,Elements Pro Gaming,1.0,29:08,OK,red,EPG,   VICTORY   ,57.7k,21,  11 ,  4 ,  2 ,  2 ,  2 ,MissFortune,Yuumi,Aphelios,Thresh,Aatrox
+2020.0,spring,LCL,4,M19,RoX,1.0,26:16,OK,blue,M19,   DEFEAT   ,39.0k,4,  1 ,  0 ,  0 ,  2 ,  1 ,Gragas,Pantheon,Senna,RekSai,Akali
+2020.0,spring,LCL,4,M19,RoX,1.0,26:16,OK,red,ROX,   VICTORY   ,52.2k,19,  10 ,  1 ,  1 ,  2 ,  1 ,Ornn,Aphelios,MissFortune,Elise,JarvanIV
+2020.0,spring,LCL,5,RoX,Dragon Army,1.0,27:11,OK,blue,ROX,   VICTORY   ,53.7k,13,  11 ,  3 ,  1 ,  3 ,  2 ,Leblanc,Yuumi,Karthus,Lucian,Ekko
+2020.0,spring,LCL,5,RoX,Dragon Army,1.0,27:11,OK,red,DA,   DEFEAT   ,37.1k,0,  0 ,  0 ,  0 ,  1 ,  0 ,Pantheon,Mordekaiser,Leona,Sett,Irelia
+2020.0,spring,LCL,5,Vega Squadron,CrowCrowd,1.0,30:10,OK,blue,VEG,   DEFEAT   ,44.4k,3,  1 ,  0 ,  0 ,  1 ,  1 ,Syndra,Lucian,Mordekaiser,Kalista,Kaisa
+2020.0,spring,LCL,5,Vega Squadron,CrowCrowd,1.0,30:10,OK,red,CC,   VICTORY   ,59.5k,15,  10 ,  3 ,  2 ,  4 ,  1 ,Ornn,Senna,MissFortune,Leblanc,Ekko
+2020.0,spring,LCL,5,M19,Gambit,1.0,33:29,OK,blue,M19,   DEFEAT   ,56.9k,12,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Thresh,Pantheon,Braum,TahmKench
+2020.0,spring,LCL,5,M19,Gambit,1.0,33:29,OK,red,GMB,   VICTORY   ,66.5k,20,  10 ,  1 ,  1 ,  4 ,  1 ,Zac,Senna,Ornn,MissFortune,Syndra
+2020.0,spring,LCL,5,UOL.CIS,Elements Pro Gaming,1.0,22:07,OK,blue,UOL,   VICTORY   ,47.9k,20,  10 ,  2 ,  1 ,  1 ,  2 ,Ornn,Varus,Aphelios,MissFortune,Sylas
+2020.0,spring,LCL,5,UOL.CIS,Elements Pro Gaming,1.0,22:07,OK,red,EPG,   DEFEAT   ,30.8k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Karthus,Thresh,Senna,Qiyana,Yasuo
+2020.0,spring,LCL,5,RoX,Elements Pro Gaming,1.0,50:36,OK,blue,ROX,   VICTORY   ,92.5k,25,  11 ,  3 ,  2 ,  4 ,  2 ,Nautilus,RekSai,Ornn,Anivia,Alistar
+2020.0,spring,LCL,5,RoX,Elements Pro Gaming,1.0,50:36,OK,red,EPG,   DEFEAT   ,87.5k,16,  8 ,  2 ,  1 ,  4 ,  0 ,Pantheon,Olaf,Aphelios,Renekton,Aatrox
+2020.0,spring,LCL,5,Dragon Army,CrowCrowd,1.0,34:43,OK,blue,DA,   DEFEAT   ,55.7k,19,  4 ,  0 ,  0 ,  3 ,  2 ,Renekton,Syndra,Mordekaiser,Cassiopeia,Zoe
+2020.0,spring,LCL,5,Dragon Army,CrowCrowd,1.0,34:43,OK,red,CC,   VICTORY   ,56.0k,14,  6 ,  1 ,  1 ,  2 ,  0 ,Karthus,Senna,MissFortune,Leblanc,Kindred
+2020.0,spring,LCL,5,Vega Squadron,M19,1.0,33:49,OK,blue,VEG,   DEFEAT   ,54.9k,7,  5 ,  0 ,  1 ,  0 ,  2 ,Syndra,JarvanIV,Mordekaiser,Zac,Olaf
+2020.0,spring,LCL,5,Vega Squadron,M19,1.0,33:49,OK,red,M19,   VICTORY   ,59.7k,14,  6 ,  1 ,  1 ,  5 ,  0 ,Senna,RekSai,Pantheon,Sejuani,Yuumi
+2020.0,spring,LCL,5,UOL.CIS,Gambit,1.0,31:41,OK,blue,UOL,   VICTORY   ,59.6k,21,  11 ,  3 ,  0 ,  3 ,  2 ,Ornn,Ezreal,Gangplank,Sejuani,JarvanIV
+2020.0,spring,LCL,5,UOL.CIS,Gambit,1.0,31:41,OK,red,GMB,   DEFEAT   ,50.7k,8,  3 ,  0 ,  1 ,  2 ,  0 ,Sett,Karthus,Gragas,RekSai,Pantheon
+2020.0,spring,LCL,6,Dragon Army,Elements Pro Gaming,1.0,42:01,OK,blue,DA,   DEFEAT   ,68.4k,19,  4 ,  0 ,  0 ,  2 ,  1 ,Mordekaiser,Senna,Sett,RekSai,Elise
+2020.0,spring,LCL,6,Dragon Army,Elements Pro Gaming,1.0,42:01,OK,red,EPG,   VICTORY   ,77.1k,24,  9 ,  1 ,  2 ,  4 ,  1 ,Pantheon,Karthus,Rumble,MissFortune,JarvanIV
+2020.0,spring,LCL,6,RoX,CrowCrowd,1.0,47:11,OK,blue,ROX,   VICTORY   ,80.8k,20,  10 ,  2 ,  1 ,  4 ,  0 ,Syndra,Zoe,Kalista,Vladimir,Lucian
+2020.0,spring,LCL,6,RoX,CrowCrowd,1.0,47:11,OK,red,CC,   DEFEAT   ,72.6k,11,  4 ,  0 ,  0 ,  3 ,  2 ,Senna,Pantheon,Ornn,Mordekaiser,Rumble
+2020.0,spring,LCL,6,Gambit,Vega Squadron,1.0,27:48,OK,blue,GMB,   VICTORY   ,58.2k,22,  10 ,  1 ,  1 ,  2 ,  0 ,Zoe,Elise,Ornn,Varus,MissFortune
+2020.0,spring,LCL,6,Gambit,Vega Squadron,1.0,27:48,OK,red,VEG,   DEFEAT   ,44.5k,8,  3 ,  0 ,  0 ,  2 ,  2 ,Syndra,Senna,Pantheon,Gragas,Sejuani
+2020.0,spring,LCL,6,UOL.CIS,M19,1.0,23:05,OK,blue,UOL,   VICTORY   ,47.0k,14,  10 ,  2 ,  1 ,  2 ,  2 ,Ornn,Zac,Kalista,Viktor,Ryze
+2020.0,spring,LCL,6,UOL.CIS,M19,1.0,23:05,OK,red,M19,   DEFEAT   ,37.9k,11,  0 ,  0 ,  0 ,  1 ,  0 ,Senna,Pantheon,Syndra,Lucian,Azir
+2020.0,spring,LCL,6,M19,CrowCrowd,1.0,33:29,OK,blue,M19,   DEFEAT   ,51.0k,8,  0 ,  0 ,  0 ,  2 ,  1 ,Zoe,RekSai,Kalista,Braum,Taric
+2020.0,spring,LCL,6,M19,CrowCrowd,1.0,33:29,OK,red,CC,   VICTORY   ,63.6k,19,  10 ,  2 ,  1 ,  3 ,  1 ,Senna,Zac,Ornn,MissFortune,Kaisa
+2020.0,spring,LCL,6,Elements Pro Gaming,Vega Squadron,1.0,27:22,OK,blue,EPG,   DEFEAT   ,41.5k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Pantheon,MissFortune,Ornn,Qiyana,Yasuo
+2020.0,spring,LCL,6,Elements Pro Gaming,Vega Squadron,1.0,27:22,OK,red,VEG,   VICTORY   ,51.5k,23,  9 ,  2 ,  1 ,  2 ,  2 ,Syndra,Senna,RekSai,Aphelios,Varus
+2020.0,spring,LCL,6,Dragon Army,UOL.CIS,1.0,22:52,OK,blue,DA,   DEFEAT   ,31.5k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Karthus,Senna,Mordekaiser,Fiora,Aatrox
+2020.0,spring,LCL,6,Dragon Army,UOL.CIS,1.0,22:52,OK,red,UOL,   VICTORY   ,46.1k,19,  8 ,  1 ,  1 ,  3 ,  1 ,Ornn,Sett,Pantheon,Varus,Camille
+2020.0,spring,LCL,6,Gambit,RoX,1.0,34:04,OK,blue,GMB,   DEFEAT   ,50.0k,6,  2 ,  0 ,  0 ,  2 ,  0 ,Gragas,Pantheon,Karthus,Sejuani,Elise
+2020.0,spring,LCL,6,Gambit,RoX,1.0,34:04,OK,red,ROX,   VICTORY   ,61.3k,13,  9 ,  1 ,  1 ,  3 ,  2 ,Renekton,Kalista,Sett,Olaf,Aatrox
+2020.0,spring,LCL,7,Elements Pro Gaming,Gambit,1.0,29:34,OK,blue,EPG,   VICTORY   ,55.8k,13,  8 ,  1 ,  2 ,  4 ,  2 ,Aatrox,Azir,Olaf,Braum,Yasuo
+2020.0,spring,LCL,7,Elements Pro Gaming,Gambit,1.0,29:34,OK,red,GMB,   DEFEAT   ,46.6k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Sett,Senna,Renekton,LeeSin,RekSai
+2020.0,spring,LCL,7,CrowCrowd,UOL.CIS,1.0,25:24,OK,blue,CC,   DEFEAT   ,36.0k,5,  0 ,  0 ,  0 ,  0 ,  1 ,Senna,Pantheon,LeeSin,Azir,Kassadin
+2020.0,spring,LCL,7,CrowCrowd,UOL.CIS,1.0,25:24,OK,red,UOL,   VICTORY   ,54.0k,26,  11 ,  3 ,  1 ,  4 ,  1 ,Ornn,Syndra,Sett,Elise,Trundle
+2020.0,spring,LCL,7,M19,Dragon Army,1.0,29:41,OK,blue,M19,   VICTORY   ,58.1k,23,  8 ,  1 ,  1 ,  4 ,  2 ,Pantheon,Karthus,Kalista,TahmKench,MissFortune
+2020.0,spring,LCL,7,M19,Dragon Army,1.0,29:41,OK,red,DA,   DEFEAT   ,45.3k,10,  0 ,  0 ,  0 ,  0 ,  0 ,Blitzcrank,Sett,Senna,Braum,Thresh
+2020.0,spring,LCL,7,RoX,Vega Squadron,1.0,23:25,OK,blue,ROX,   VICTORY   ,49.4k,23,  9 ,  2 ,  1 ,  2 ,  2 ,Ekko,Khazix,Irelia,Ziggs,Nautilus
+2020.0,spring,LCL,7,RoX,Vega Squadron,1.0,23:25,OK,red,VEG,   DEFEAT   ,35.8k,10,  0 ,  0 ,  0 ,  1 ,  0 ,Senna,Akali,Pantheon,Braum,Rumble
+2020.0,spring,LCL,7,Dragon Army,Vega Squadron,1.0,29:20,OK,blue,DA,   VICTORY   ,53.1k,19,  7 ,  1 ,  1 ,  3 ,  1 ,Azir,Alistar,Brand,Yuumi,Amumu
+2020.0,spring,LCL,7,Dragon Army,Vega Squadron,1.0,29:20,OK,red,VEG,   DEFEAT   ,48.6k,12,  3 ,  0 ,  0 ,  1 ,  1 ,Karthus,Syndra,Jayce,Ezreal,Nautilus
+2020.0,spring,LCL,7,CrowCrowd,Gambit,1.0,34:03,OK,blue,CC,   DEFEAT   ,55.1k,11,  4 ,  0 ,  1 ,  2 ,  0 ,Azir,Aphelios,Senna,JarvanIV,Kassadin
+2020.0,spring,LCL,7,CrowCrowd,Gambit,1.0,34:03,OK,red,GMB,   VICTORY   ,58.0k,12,  7 ,  1 ,  0 ,  3 ,  2 ,Sett,Renekton,Syndra,Karthus,Elise
+2020.0,spring,LCL,7,Elements Pro Gaming,M19,1.0,29:33,OK,blue,EPG,   DEFEAT   ,47.4k,9,  2 ,  0 ,  0 ,  0 ,  1 ,Karthus,Zac,Gragas,Ornn,Maokai
+2020.0,spring,LCL,7,Elements Pro Gaming,M19,1.0,29:33,OK,red,M19,   VICTORY   ,57.3k,26,  8 ,  2 ,  1 ,  4 ,  1 ,RekSai,Senna,Sett,Pantheon,Gangplank
+2020.0,spring,LCL,7,UOL.CIS,RoX,1.0,18:40,OK,blue,UOL,   VICTORY   ,40.4k,17,  8 ,  1 ,  0 ,  3 ,  2 ,Ornn,Irelia,Pantheon,LeeSin,Gragas
+2020.0,spring,LCL,7,UOL.CIS,RoX,1.0,18:40,OK,red,ROX,   DEFEAT   ,26.2k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Sett,Senna,Azir,Ekko
+2020.0,spring,LCL,Tiebreakers,M19,Dragon Army,1.0,37:49,OK,blue,DA,   VICTORY   ,66.1k,23,  11 ,  6 ,  2 ,  4 ,  2 ,Taric,Kalista,Sion,Azir,Syndra
+2020.0,spring,LCL,Tiebreakers,M19,Dragon Army,1.0,37:49,OK,red,M19,   DEFEAT   ,66.4k,14,  2 ,  0 ,  0 ,  2 ,  0 ,Senna,Karthus,Sett,Leona,Gangplank
+2020.0,spring,LCL,Tiebreakers,UOL.CIS,RoX,1.0,37:24,OK,blue,UOL,   DEFEAT   ,60.0k,11,  2 ,  0 ,  0 ,  1 ,  1 ,Ornn,Irelia,Pantheon,Varus,Aphelios
+2020.0,spring,LCL,Tiebreakers,UOL.CIS,RoX,1.0,37:24,OK,red,ROX,   VICTORY   ,72.0k,27,  9 ,  1 ,  2 ,  5 ,  1 ,Sett,Kalista,Senna,Kassadin,Renekton

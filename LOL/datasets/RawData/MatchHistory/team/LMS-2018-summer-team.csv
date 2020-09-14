@@ -1,0 +1,275 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,LMS,1,Machi Esports,MAD Team,1.0,33:15,OK,blue,M17,   VICTORY   ,60.0k,8,  8 ,  1 ,  1 ,  2 ,  0 ,Lucian,Nocturne,Vladimir,Trundle,Morgana
+2018.0,summer,LMS,1,Machi Esports,MAD Team,1.0,33:15,OK,red,MAD,   DEFEAT   ,51.9k,4,  3 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Swain,Taliyah,Rakan,Fiddlesticks
+2018.0,summer,LMS,1,Machi Esports,MAD Team,2.0,22:36,OK,blue,MAD,   VICTORY   ,44.7k,14,  11 ,  3 ,  0 ,  2 ,  1 ,Aatrox,Cassiopeia,Skarner,Fiddlesticks,Rakan
+2018.0,summer,LMS,1,Machi Esports,MAD Team,2.0,22:36,OK,red,M17,   DEFEAT   ,31.1k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Ezreal,Taliyah,TahmKench,Morgana
+2018.0,summer,LMS,1,Machi Esports,MAD Team,3.0,30:10,OK,blue,M17,   DEFEAT   ,43.6k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Nocturne,Zoe,Ryze,Alistar
+2018.0,summer,LMS,1,Machi Esports,MAD Team,3.0,30:10,OK,red,MAD,   VICTORY   ,59.7k,15,  9 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Cassiopeia,Skarner,Rakan,Fiddlesticks
+2018.0,summer,LMS,1,AHQ,Flash Wolves,1.0,31:21,OK,blue,AHQ,   DEFEAT   ,50.1k,5,  5 ,  0 ,  0 ,  2 ,  0 ,Irelia,Camille,Nocturne,Rakan,Alistar
+2018.0,summer,LMS,1,AHQ,Flash Wolves,1.0,31:21,OK,red,FW,   VICTORY   ,60.0k,10,  9 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Swain,Skarner,Aatrox,Ashe
+2018.0,summer,LMS,1,AHQ,Flash Wolves,2.0,28:05,OK,blue,AHQ,   DEFEAT   ,45.1k,12,  1 ,  0 ,  0 ,  0 ,  1 ,Nocturne,Irelia,Zoe,Singed,Nidalee
+2018.0,summer,LMS,1,AHQ,Flash Wolves,2.0,28:05,OK,red,FW,   VICTORY   ,56.5k,19,  8 ,  1 ,  1 ,  3 ,  0 ,Taliyah,Swain,Skarner,Aatrox,Darius
+2018.0,summer,LMS,1,Team Afro,J Team,1.0,37:37,OK,blue,AFR,   DEFEAT   ,60.3k,6,  4 ,  0 ,  1 ,  1 ,  1 ,Yasuo,Leblanc,Taliyah,Braum,Nidalee
+2018.0,summer,LMS,1,Team Afro,J Team,1.0,37:37,OK,red,JT,   VICTORY   ,66.4k,14,  7 ,  1 ,  0 ,  2 ,  0 ,Kaisa,Vladimir,Lulu,Alistar,Lucian
+2018.0,summer,LMS,1,Team Afro,J Team,2.0,36:40,OK,blue,JT,   VICTORY   ,63.7k,14,  7 ,  2 ,  0 ,  3 ,  1 ,Brand,Heimerdinger,Kaisa,Ryze,Lulu
+2018.0,summer,LMS,1,Team Afro,J Team,2.0,36:40,OK,red,AFR,   DEFEAT   ,56.3k,10,  2 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Taliyah,Zoe,Irelia,Aatrox
+2018.0,summer,LMS,1,Hong Kong Attitude,G Rex,1.0,28:28,OK,blue,HKA,   VICTORY   ,55.1k,18,  7 ,  1 ,  1 ,  2 ,  1 ,Ornn,Taric,Nocturne,Kalista,Ezreal
+2018.0,summer,LMS,1,Hong Kong Attitude,G Rex,1.0,28:28,OK,red,GRX,   DEFEAT   ,45.8k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Vladimir,Camille,Malphite,DrMundo
+2018.0,summer,LMS,1,Hong Kong Attitude,G Rex,2.0,27:38,OK,blue,HKA,   VICTORY   ,55.7k,18,  9 ,  1 ,  1 ,  2 ,  0 ,Ornn,Taric,Nocturne,Aatrox,Lulu
+2018.0,summer,LMS,1,Hong Kong Attitude,G Rex,2.0,27:38,OK,red,GRX,   DEFEAT   ,41.8k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Vladimir,Swain,Morgana,TahmKench
+2018.0,summer,LMS,2,Flash Wolves,Machi Esports,1.0,32:58,OK,blue,FW,   VICTORY   ,62.8k,15,  8 ,  1 ,  1 ,  2 ,  1 ,Braum,Swain,Irelia,Lulu,Ryze
+2018.0,summer,LMS,2,Flash Wolves,Machi Esports,1.0,32:58,OK,red,M17,   DEFEAT   ,54.0k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Nocturne,Zoe,Morgana,Alistar
+2018.0,summer,LMS,2,Flash Wolves,Machi Esports,2.0,22:40,OK,blue,M17,   DEFEAT   ,32.4k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Rakan,Aatrox,Skarner,Camille
+2018.0,summer,LMS,2,Flash Wolves,Machi Esports,2.0,22:40,OK,red,FW,   VICTORY   ,48.5k,20,  8 ,  1 ,  0 ,  1 ,  1 ,Taliyah,Swain,Zoe,Kaisa,Varus
+2018.0,summer,LMS,2,AHQ,Hong Kong Attitude,1.0,39:06,OK,blue,HKA,   VICTORY   ,71.3k,9,  10 ,  3 ,  1 ,  4 ,  0 ,Nunu,Taric,Skarner,Irelia,Ryze
+2018.0,summer,LMS,2,AHQ,Hong Kong Attitude,1.0,39:06,OK,red,AHQ,   DEFEAT   ,58.3k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Camille,Nocturne,Jax,Mordekaiser
+2018.0,summer,LMS,2,AHQ,Hong Kong Attitude,2.0,37:39,OK,blue,HKA,   VICTORY   ,74.6k,23,  11 ,  4 ,  1 ,  4 ,  1 ,Nunu,Taric,Skarner,Ziggs,Ezreal
+2018.0,summer,LMS,2,AHQ,Hong Kong Attitude,2.0,37:39,OK,red,AHQ,   DEFEAT   ,65.9k,16,  3 ,  0 ,  1 ,  1 ,  0 ,Swain,Nocturne,Taliyah,Vladimir,Mordekaiser
+2018.0,summer,LMS,2,Team Afro,Flash Wolves,1.0,23:32,OK,blue,AFR,   DEFEAT   ,32.3k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Talon,Shen,Braum,Alistar,Rakan
+2018.0,summer,LMS,2,Team Afro,Flash Wolves,1.0,23:32,OK,red,FW,   VICTORY   ,47.4k,10,  9 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Zoe,Swain,Renekton,Fiddlesticks
+2018.0,summer,LMS,2,Team Afro,Flash Wolves,2.0,21:07,OK,blue,FW,   VICTORY   ,46.1k,19,  8 ,  1 ,  0 ,  2 ,  1 ,Heimerdinger,Nocturne,Irelia,Brand,Ornn
+2018.0,summer,LMS,2,Team Afro,Flash Wolves,2.0,21:07,OK,red,AFR,   DEFEAT   ,31.2k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Vladimir,Zoe,Morgana,TahmKench
+2018.0,summer,LMS,2,MAD Team,G Rex,1.0,33:53,OK,blue,MAD,   VICTORY   ,60.5k,15,  7 ,  1 ,  0 ,  4 ,  0 ,Aatrox,Ornn,Skarner,Morgana,Kaisa
+2018.0,summer,LMS,2,MAD Team,G Rex,1.0,33:53,OK,red,GRX,   DEFEAT   ,53.3k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Nocturne,Camille,Lucian,Ezreal
+2018.0,summer,LMS,2,MAD Team,G Rex,2.0,29:23,OK,blue,GRX,   VICTORY   ,57.8k,16,  9 ,  1 ,  1 ,  3 ,  1 ,Lucian,Camille,Shen,Vladimir,TahmKench
+2018.0,summer,LMS,2,MAD Team,G Rex,2.0,29:23,OK,red,MAD,   DEFEAT   ,43.0k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Skarner,Zoe,Morgana,Swain
+2018.0,summer,LMS,2,MAD Team,G Rex,3.0,29:47,OK,blue,MAD,   VICTORY   ,57.7k,16,  9 ,  1 ,  1 ,  1 ,  0 ,Aatrox,Skarner,Ornn,Kalista,Xayah
+2018.0,summer,LMS,2,MAD Team,G Rex,3.0,29:47,OK,red,GRX,   DEFEAT   ,45.6k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Zoe,Lucian,DrMundo,Ezreal,Ashe
+2018.0,summer,LMS,2,Machi Esports,Team Afro,1.0,36:00,OK,blue,M17,   DEFEAT   ,65.8k,15,  6 ,  0 ,  1 ,  3 ,  1 ,Zoe,Camille,Heimerdinger,Aatrox,Alistar
+2018.0,summer,LMS,2,Machi Esports,Team Afro,1.0,36:00,OK,red,AFR,   VICTORY   ,70.5k,26,  10 ,  1 ,  0 ,  1 ,  0 ,Cassiopeia,Nocturne,Swain,Lulu,Morgana
+2018.0,summer,LMS,2,Machi Esports,Team Afro,2.0,34:23,OK,blue,M17,   DEFEAT   ,54.4k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Vladimir,Zoe,Taliyah,Heimerdinger,Shen
+2018.0,summer,LMS,2,Machi Esports,Team Afro,2.0,34:23,OK,red,AFR,   VICTORY   ,64.6k,18,  8 ,  1 ,  1 ,  2 ,  1 ,Nocturne,Cassiopeia,Kaisa,Lulu,Braum
+2018.0,summer,LMS,2,J Team,MAD Team,1.0,34:10,OK,blue,JT,   DEFEAT   ,50.9k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Swain,Taliyah,Ryze,Rakan,Fiddlesticks
+2018.0,summer,LMS,2,J Team,MAD Team,1.0,34:10,OK,red,MAD,   VICTORY   ,63.0k,16,  6 ,  2 ,  1 ,  4 ,  0 ,Aatrox,Leblanc,Zoe,Singed,Darius
+2018.0,summer,LMS,2,J Team,MAD Team,2.0,31:07,OK,blue,MAD,   DEFEAT   ,48.1k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Leblanc,Fiddlesticks,Rakan,Alistar
+2018.0,summer,LMS,2,J Team,MAD Team,2.0,31:07,OK,red,JT,   VICTORY   ,62.5k,19,  9 ,  1 ,  1 ,  3 ,  1 ,Taliyah,Zoe,Nocturne,Lucian,Swain
+2018.0,summer,LMS,2,J Team,MAD Team,3.0,39:08,OK,blue,MAD,   VICTORY   ,73.8k,15,  8 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Leblanc,Singed,Vladimir,Pyke
+2018.0,summer,LMS,2,J Team,MAD Team,3.0,39:08,OK,red,JT,   DEFEAT   ,60.4k,7,  2 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Zoe,Nocturne,Lucian,Rakan
+2018.0,summer,LMS,2,Hong Kong Attitude,J Team,1.0,38:10,OK,blue,JT,   VICTORY   ,73.2k,19,  11 ,  3 ,  2 ,  2 ,  1 ,Nocturne,Taliyah,Leblanc,Singed,Swain
+2018.0,summer,LMS,2,Hong Kong Attitude,J Team,1.0,38:10,OK,red,HKA,   DEFEAT   ,61.0k,9,  3 ,  0 ,  0 ,  3 ,  0 ,Camille,Vladimir,Sejuani,Aatrox,DrMundo
+2018.0,summer,LMS,2,Hong Kong Attitude,J Team,2.0,35:11,OK,blue,JT,   DEFEAT   ,53.7k,11,  1 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Taliyah,Leblanc,Galio,Swain
+2018.0,summer,LMS,2,Hong Kong Attitude,J Team,2.0,35:11,OK,red,HKA,   VICTORY   ,70.3k,19,  10 ,  2 ,  2 ,  3 ,  1 ,Camille,Vladimir,Zoe,Ezreal,Varus
+2018.0,summer,LMS,2,Hong Kong Attitude,J Team,3.0,31:18,OK,blue,HKA,   DEFEAT   ,50.1k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Leblanc,Yasuo,Xayah,Ezreal
+2018.0,summer,LMS,2,Hong Kong Attitude,J Team,3.0,31:18,OK,red,JT,   VICTORY   ,61.5k,19,  8 ,  1 ,  1 ,  3 ,  1 ,Nocturne,Taliyah,Zoe,Singed,Ashe
+2018.0,summer,LMS,2,G Rex,AHQ,1.0,42:02,OK,blue,AHQ,   VICTORY   ,78.6k,16,  11 ,  4 ,  2 ,  2 ,  1 ,Camille,Aatrox,Nocturne,Singed,Kennen
+2018.0,summer,LMS,2,G Rex,AHQ,1.0,42:02,OK,red,GRX,   DEFEAT   ,73.1k,10,  5 ,  0 ,  1 ,  3 ,  0 ,Zoe,Irelia,Taliyah,Ashe,DrMundo
+2018.0,summer,LMS,2,G Rex,AHQ,2.0,38:37,OK,blue,AHQ,   DEFEAT   ,60.3k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Camille,Aatrox,Nocturne,Singed,Kennen
+2018.0,summer,LMS,2,G Rex,AHQ,2.0,38:37,OK,red,GRX,   VICTORY   ,72.6k,18,  8 ,  1 ,  1 ,  2 ,  0 ,Zoe,Trundle,Taliyah,DrMundo,Veigar
+2018.0,summer,LMS,2,G Rex,AHQ,3.0,32:21,OK,blue,GRX,   DEFEAT   ,51.7k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Morgana,Yasuo,Sejuani,Swain,Darius
+2018.0,summer,LMS,2,G Rex,AHQ,3.0,32:21,OK,red,AHQ,   VICTORY   ,65.5k,17,  9 ,  2 ,  2 ,  1 ,  1 ,Taliyah,Nocturne,Zoe,Jax,Vladimir
+2018.0,summer,LMS,3,AHQ,Machi Esports,1.0,44:50,OK,blue,AHQ,   DEFEAT   ,73.0k,16,  4 ,  0 ,  0 ,  2 ,  0 ,Rakan,Camille,Cassiopeia,Kennen,Rumble
+2018.0,summer,LMS,3,AHQ,Machi Esports,1.0,44:50,OK,red,M17,   VICTORY   ,83.1k,18,  8 ,  1 ,  2 ,  3 ,  0 ,Zoe,Aatrox,Morgana,Heimerdinger,Darius
+2018.0,summer,LMS,3,AHQ,Machi Esports,2.0,30:18,OK,blue,M17,   VICTORY   ,57.2k,9,  8 ,  1 ,  1 ,  4 ,  0 ,Zoe,Morgana,Swain,Darius,Alistar
+2018.0,summer,LMS,3,AHQ,Machi Esports,2.0,30:18,OK,red,AHQ,   DEFEAT   ,47.9k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Nocturne,Aatrox,Ryze,Kennen
+2018.0,summer,LMS,3,J Team,Flash Wolves,1.0,32:47,OK,blue,JT,   VICTORY   ,62.2k,23,  9 ,  1 ,  0 ,  4 ,  0 ,Mordekaiser,Morgana,Rakan,DrMundo,Gangplank
+2018.0,summer,LMS,3,J Team,Flash Wolves,1.0,32:47,OK,red,FW,   DEFEAT   ,54.6k,3,  5 ,  0 ,  1 ,  0 ,  1 ,Zoe,Aatrox,Swain,Lissandra,Varus
+2018.0,summer,LMS,3,J Team,Flash Wolves,2.0,32:52,OK,blue,FW,   VICTORY   ,60.2k,14,  8 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Zoe,Swain,Darius,Sejuani
+2018.0,summer,LMS,3,J Team,Flash Wolves,2.0,32:52,OK,red,JT,   DEFEAT   ,56.2k,14,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Mordekaiser,Nocturne,DrMundo,Gangplank
+2018.0,summer,LMS,3,J Team,Flash Wolves,3.0,27:48,OK,blue,JT,   DEFEAT   ,43.3k,9,  1 ,  0 ,  0 ,  0 ,  1 ,Morgana,Mordekaiser,Galio,Ashe,Varus
+2018.0,summer,LMS,3,J Team,Flash Wolves,3.0,27:48,OK,red,FW,   VICTORY   ,59.5k,23,  8 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Zoe,Taliyah,Darius,Yasuo
+2018.0,summer,LMS,3,Flash Wolves,G Rex,1.0,37:56,OK,blue,FW,   VICTORY   ,74.3k,18,  10 ,  1 ,  2 ,  3 ,  0 ,Swain,TahmKench,Zoe,Morgana,Darius
+2018.0,summer,LMS,3,Flash Wolves,G Rex,1.0,37:56,OK,red,GRX,   DEFEAT   ,62.0k,11,  5 ,  1 ,  0 ,  2 ,  1 ,Aatrox,Rakan,Taliyah,Alistar,Pyke
+2018.0,summer,LMS,3,Flash Wolves,G Rex,2.0,25:33,OK,blue,GRX,   DEFEAT   ,37.0k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Morgana,Mordekaiser,Kennen,Shen
+2018.0,summer,LMS,3,Flash Wolves,G Rex,2.0,25:33,OK,red,FW,   VICTORY   ,51.7k,21,  8 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Zoe,Taliyah,Yasuo,TahmKench
+2018.0,summer,LMS,3,Hong Kong Attitude,Team Afro,1.0,44:05,OK,blue,HKA,   VICTORY   ,79.0k,11,  11 ,  2 ,  1 ,  2 ,  1 ,Heimerdinger,Vladimir,Irelia,Ornn,DrMundo
+2018.0,summer,LMS,3,Hong Kong Attitude,Team Afro,1.0,44:05,OK,red,AFR,   DEFEAT   ,72.5k,10,  3 ,  0 ,  1 ,  3 ,  0 ,Aatrox,Nocturne,Zoe,Singed,Talon
+2018.0,summer,LMS,3,Hong Kong Attitude,Team Afro,2.0,34:50,OK,blue,AFR,   DEFEAT   ,49.3k,3,  2 ,  0 ,  0 ,  3 ,  0 ,Nocturne,Kennen,Singed,Leblanc,Talon
+2018.0,summer,LMS,3,Hong Kong Attitude,Team Afro,2.0,34:50,OK,red,HKA,   VICTORY   ,67.1k,18,  10 ,  2 ,  1 ,  1 ,  1 ,Heimerdinger,Aatrox,Karthus,Ornn,Alistar
+2018.0,summer,LMS,3,MAD Team,AHQ,1.0,47:28,OK,blue,MAD,   VICTORY   ,89.9k,15,  10 ,  2 ,  2 ,  5 ,  1 ,Morgana,Galio,Aatrox,Veigar,DrMundo
+2018.0,summer,LMS,3,MAD Team,AHQ,1.0,47:28,OK,red,AHQ,   DEFEAT   ,74.3k,3,  4 ,  0 ,  0 ,  1 ,  0 ,Kindred,Nocturne,Camille,TahmKench,Mordekaiser
+2018.0,summer,LMS,3,MAD Team,AHQ,2.0,28:55,OK,blue,AHQ,   DEFEAT   ,42.6k,3,  1 ,  0 ,  0 ,  3 ,  0 ,Kindred,Nocturne,Camille,Pyke,Shen
+2018.0,summer,LMS,3,MAD Team,AHQ,2.0,28:55,OK,red,MAD,   VICTORY   ,57.0k,17,  8 ,  1 ,  1 ,  0 ,  1 ,Morgana,Aatrox,Zoe,Veigar,Lux
+2018.0,summer,LMS,3,Machi Esports,Hong Kong Attitude,1.0,34:09,OK,blue,M17,   VICTORY   ,62.2k,17,  8 ,  1 ,  0 ,  4 ,  1 ,Zoe,Morgana,Swain,Darius,Kennen
+2018.0,summer,LMS,3,Machi Esports,Hong Kong Attitude,1.0,34:09,OK,red,HKA,   DEFEAT   ,56.3k,10,  3 ,  0 ,  1 ,  0 ,  0 ,Aatrox,Rakan,Kindred,Alistar,Pyke
+2018.0,summer,LMS,3,Machi Esports,Hong Kong Attitude,2.0,35:11,OK,blue,HKA,   VICTORY   ,67.9k,13,  11 ,  2 ,  1 ,  3 ,  0 ,Mordekaiser,Galio,Rakan,Anivia,DrMundo
+2018.0,summer,LMS,3,Machi Esports,Hong Kong Attitude,2.0,35:11,OK,red,M17,   DEFEAT   ,52.8k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Zoe,Aatrox,Morgana,Darius,Talon
+2018.0,summer,LMS,3,Machi Esports,Hong Kong Attitude,3.0,32:36,OK,blue,M17,   VICTORY   ,61.9k,14,  9 ,  1 ,  1 ,  3 ,  1 ,Zoe,Morgana,Swain,Darius,Vladimir
+2018.0,summer,LMS,3,Machi Esports,Hong Kong Attitude,3.0,32:36,OK,red,HKA,   DEFEAT   ,48.3k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Rakan,Galio,Anivia,DrMundo
+2018.0,summer,LMS,3,MAD Team,Team Afro,1.0,36:05,OK,blue,MAD,   VICTORY   ,67.7k,13,  10 ,  3 ,  2 ,  4 ,  0 ,Kled,Irelia,Heimerdinger,Vladimir,Karthus
+2018.0,summer,LMS,3,MAD Team,Team Afro,1.0,36:05,OK,red,AFR,   DEFEAT   ,56.6k,6,  5 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Zoe,Nocturne,TahmKench,Shen
+2018.0,summer,LMS,3,MAD Team,Team Afro,2.0,25:49,OK,blue,AFR,   DEFEAT   ,38.4k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Mordekaiser,Pyke,Taliyah,Kindred
+2018.0,summer,LMS,3,MAD Team,Team Afro,2.0,25:49,OK,red,MAD,   VICTORY   ,54.1k,20,  10 ,  2 ,  1 ,  2 ,  1 ,Kled,Zoe,Aatrox,Sejuani,Skarner
+2018.0,summer,LMS,3,G Rex,J Team,1.0,38:21,OK,blue,GRX,   DEFEAT   ,63.6k,11,  2 ,  0 ,  1 ,  1 ,  0 ,Taliyah,Zoe,Nocturne,Ezreal,Vladimir
+2018.0,summer,LMS,3,G Rex,J Team,1.0,38:21,OK,red,JT,   VICTORY   ,74.6k,26,  10 ,  1 ,  0 ,  3 ,  1 ,Aatrox,Swain,Shen,DrMundo,Orianna
+2018.0,summer,LMS,3,G Rex,J Team,2.0,33:17,OK,blue,GRX,   VICTORY   ,64.6k,15,  11 ,  2 ,  1 ,  4 ,  0 ,Sejuani,TahmKench,Kled,Alistar,Rakan
+2018.0,summer,LMS,3,G Rex,J Team,2.0,33:17,OK,red,JT,   DEFEAT   ,48.6k,8,  0 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Zoe,Taliyah,Orianna,Vladimir
+2018.0,summer,LMS,3,G Rex,J Team,3.0,25:50,OK,blue,JT,   VICTORY   ,52.9k,19,  10 ,  2 ,  1 ,  2 ,  0 ,Heimerdinger,Talon,DrMundo,Shen,Rakan
+2018.0,summer,LMS,3,G Rex,J Team,3.0,25:50,OK,red,GRX,   DEFEAT   ,39.0k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Zoe,TahmKench,Kled,Leblanc
+2018.0,summer,LMS,4,J Team,AHQ,1.0,50:57,OK,blue,JT,   VICTORY   ,94.7k,20,  11 ,  4 ,  1 ,  3 ,  0 ,Veigar,Morgana,Kindred,DrMundo,Darius
+2018.0,summer,LMS,4,J Team,AHQ,1.0,50:57,OK,red,AHQ,   DEFEAT   ,85.1k,9,  4 ,  0 ,  1 ,  2 ,  1 ,Zoe,Taliyah,Aatrox,Kennen,Vladimir
+2018.0,summer,LMS,4,J Team,AHQ,2.0,30:02,OK,blue,AHQ,   DEFEAT   ,48.8k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Talon,Leblanc,Swain,Kennen,Darius
+2018.0,summer,LMS,4,J Team,AHQ,2.0,30:02,OK,red,JT,   VICTORY   ,59.3k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Aatrox,Zoe,Taliyah,Gangplank,Veigar
+2018.0,summer,LMS,4,G Rex,Machi Esports,1.0,30:59,OK,blue,GRX,   VICTORY   ,56.3k,10,  7 ,  1 ,  1 ,  3 ,  0 ,TahmKench,Camille,Kindred,Alistar,Darius
+2018.0,summer,LMS,4,G Rex,Machi Esports,1.0,30:59,OK,red,M17,   DEFEAT   ,46.8k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Zoe,Taliyah,Kennen,Trundle
+2018.0,summer,LMS,4,G Rex,Machi Esports,2.0,37:09,OK,blue,M17,   DEFEAT   ,59.3k,11,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Talon,Heimerdinger,Kennen,Zac
+2018.0,summer,LMS,4,G Rex,Machi Esports,2.0,37:09,OK,red,GRX,   VICTORY   ,70.2k,16,  10 ,  2 ,  2 ,  4 ,  1 ,Aatrox,Taliyah,TahmKench,Swain,Ezreal
+2018.0,summer,LMS,4,MAD Team,Hong Kong Attitude,1.0,35:35,OK,blue,MAD,   DEFEAT   ,53.6k,2,  2 ,  0 ,  0 ,  2 ,  0 ,Camille,Morgana,Aatrox,Nocturne,Trundle
+2018.0,summer,LMS,4,MAD Team,Hong Kong Attitude,1.0,35:35,OK,red,HKA,   VICTORY   ,61.2k,9,  8 ,  1 ,  0 ,  2 ,  1 ,Swain,Rakan,Zoe,Kindred,Irelia
+2018.0,summer,LMS,4,MAD Team,Hong Kong Attitude,2.0,34:12,OK,blue,HKA,   VICTORY   ,67.3k,11,  11 ,  1 ,  1 ,  1 ,  1 ,Irelia,Rakan,Mordekaiser,Syndra,Vladimir
+2018.0,summer,LMS,4,MAD Team,Hong Kong Attitude,2.0,34:12,OK,red,MAD,   DEFEAT   ,54.7k,9,  4 ,  0 ,  0 ,  3 ,  0 ,Aatrox,Zoe,Swain,Leblanc,Heimerdinger
+2018.0,summer,LMS,4,Team Afro,AHQ,1.0,29:58,OK,blue,AFR,   DEFEAT   ,44.5k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Nocturne,Camille,Trundle,Veigar
+2018.0,summer,LMS,4,Team Afro,AHQ,1.0,29:58,OK,red,AHQ,   VICTORY   ,60.2k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Zoe,Kled,Aatrox,Vladimir,Irelia
+2018.0,summer,LMS,4,Team Afro,AHQ,2.0,30:51,OK,blue,AHQ,   VICTORY   ,63.7k,20,  11 ,  2 ,  1 ,  3 ,  0 ,Kled,Vladimir,Kennen,Jax,Fiora
+2018.0,summer,LMS,4,Team Afro,AHQ,2.0,30:51,OK,red,AFR,   DEFEAT   ,50.0k,10,  3 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Zoe,Nocturne,Yasuo,Galio
+2018.0,summer,LMS,4,Flash Wolves,Hong Kong Attitude,1.0,26:57,OK,blue,FW,   VICTORY   ,52.6k,12,  9 ,  2 ,  1 ,  3 ,  1 ,Shen,Heimerdinger,Varus,Darius,Singed
+2018.0,summer,LMS,4,Flash Wolves,Hong Kong Attitude,1.0,26:57,OK,red,HKA,   DEFEAT   ,39.5k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Rakan,Swain,Ashe,Vladimir
+2018.0,summer,LMS,4,Flash Wolves,Hong Kong Attitude,2.0,25:42,OK,blue,HKA,   DEFEAT   ,41.0k,4,  3 ,  0 ,  0 ,  2 ,  1 ,Rakan,Nocturne,Mordekaiser,Galio,Irelia
+2018.0,summer,LMS,4,Flash Wolves,Hong Kong Attitude,2.0,25:42,OK,red,FW,   VICTORY   ,54.2k,13,  10 ,  1 ,  1 ,  0 ,  0 ,Aatrox,Swain,Zoe,Darius,Talon
+2018.0,summer,LMS,4,Machi Esports,J Team,1.0,35:54,OK,blue,M17,   DEFEAT   ,53.5k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,TahmKench,Taliyah,Darius,Talon
+2018.0,summer,LMS,4,Machi Esports,J Team,1.0,35:54,OK,red,JT,   VICTORY   ,72.0k,15,  10 ,  2 ,  2 ,  4 ,  0 ,Aatrox,Mordekaiser,Galio,Cassiopeia,Anivia
+2018.0,summer,LMS,4,Machi Esports,J Team,2.0,32:37,OK,blue,M17,   VICTORY   ,63.8k,10,  11 ,  3 ,  1 ,  4 ,  0 ,Zoe,Taliyah,Varus,Leblanc,Ryze
+2018.0,summer,LMS,4,Machi Esports,J Team,2.0,32:37,OK,red,JT,   DEFEAT   ,48.7k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Mordekaiser,Galio,Cassiopeia,Anivia
+2018.0,summer,LMS,4,Machi Esports,J Team,3.0,39:47,OK,blue,M17,   DEFEAT   ,63.5k,5,  4 ,  0 ,  1 ,  4 ,  0 ,Zoe,Taliyah,Varus,Vladimir,Darius
+2018.0,summer,LMS,4,Machi Esports,J Team,3.0,39:47,OK,red,JT,   VICTORY   ,71.5k,14,  9 ,  1 ,  1 ,  0 ,  1 ,Aatrox,Mordekaiser,Galio,Cassiopeia,Anivia
+2018.0,summer,LMS,4,Team Afro,G Rex,1.0,32:31,OK,blue,AFR,   DEFEAT   ,48.5k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Sejuani,Zac,Nocturne,Gragas,Camille
+2018.0,summer,LMS,4,Team Afro,G Rex,1.0,32:31,OK,red,GRX,   VICTORY   ,63.8k,12,  9 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Zoe,TahmKench,XinZhao,Kindred
+2018.0,summer,LMS,4,Team Afro,G Rex,2.0,35:52,OK,blue,GRX,   DEFEAT   ,55.7k,6,  3 ,  0 ,  0 ,  1 ,  0 ,Kled,Vladimir,Heimerdinger,Swain,Kennen
+2018.0,summer,LMS,4,Team Afro,G Rex,2.0,35:52,OK,red,AFR,   VICTORY   ,60.7k,13,  8 ,  1 ,  0 ,  2 ,  1 ,Aatrox,Nocturne,Zoe,Poppy,Zac
+2018.0,summer,LMS,4,Team Afro,G Rex,3.0,57:29,OK,blue,AFR,   VICTORY   ,96.7k,22,  8 ,  3 ,  1 ,  3 ,  0 ,Zac,Talon,Nocturne,Swain,Trundle
+2018.0,summer,LMS,4,Team Afro,G Rex,3.0,57:29,OK,red,GRX,   DEFEAT   ,103.3k,23,  10 ,  2 ,  2 ,  2 ,  1 ,Aatrox,Kled,Morgana,Alistar,Rakan
+2018.0,summer,LMS,4,Flash Wolves,MAD Team,1.0,18:52,OK,blue,FW,   VICTORY   ,38.2k,11,  9 ,  1 ,  0 ,  2 ,  1 ,Taliyah,Nocturne,Zoe,Darius,XinZhao
+2018.0,summer,LMS,4,Flash Wolves,MAD Team,1.0,18:52,OK,red,MAD,   DEFEAT   ,25.7k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Talon,Vladimir,Rakan,Gangplank,Kennen
+2018.0,summer,LMS,4,Flash Wolves,MAD Team,2.0,28:45,OK,blue,MAD,   DEFEAT   ,43.9k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Talon,Swain,Mordekaiser,Gangplank,Darius
+2018.0,summer,LMS,4,Flash Wolves,MAD Team,2.0,28:45,OK,red,FW,   VICTORY   ,54.9k,16,  9 ,  1 ,  1 ,  2 ,  1 ,Zoe,Taliyah,Aatrox,Irelia,Syndra
+2018.0,summer,LMS,5,Team Afro,MAD Team,1.0,26:52,OK,blue,AFR,   DEFEAT   ,40.0k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Trundle,Nocturne,TahmKench,DrMundo,Mordekaiser
+2018.0,summer,LMS,5,Team Afro,MAD Team,1.0,26:52,OK,red,MAD,   VICTORY   ,54.1k,14,  10 ,  3 ,  1 ,  3 ,  1 ,Kled,Zoe,Aatrox,Darius,Orianna
+2018.0,summer,LMS,5,Team Afro,MAD Team,2.0,33:05,OK,blue,MAD,   VICTORY   ,60.6k,15,  9 ,  2 ,  1 ,  2 ,  1 ,Kled,Heimerdinger,Darius,Kindred,Sejuani
+2018.0,summer,LMS,5,Team Afro,MAD Team,2.0,33:05,OK,red,AFR,   DEFEAT   ,52.5k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Zoe,Nocturne,Ezreal,Xayah
+2018.0,summer,LMS,5,Hong Kong Attitude,Flash Wolves,1.0,35:31,OK,blue,FW,   VICTORY   ,66.2k,25,  7 ,  1 ,  1 ,  0 ,  1 ,Shen,Heimerdinger,Varus,Ezreal,Ashe
+2018.0,summer,LMS,5,Hong Kong Attitude,Flash Wolves,1.0,35:31,OK,red,HKA,   DEFEAT   ,58.7k,12,  4 ,  0 ,  1 ,  4 ,  0 ,Aatrox,Rakan,Swain,Vladimir,Mordekaiser
+2018.0,summer,LMS,5,Hong Kong Attitude,Flash Wolves,2.0,26:33,OK,blue,FW,   VICTORY   ,49.7k,11,  10 ,  2 ,  0 ,  1 ,  1 ,Shen,Nocturne,Varus,Darius,Gnar
+2018.0,summer,LMS,5,Hong Kong Attitude,Flash Wolves,2.0,26:33,OK,red,HKA,   DEFEAT   ,37.7k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Rakan,Swain,Yasuo,Ornn
+2018.0,summer,LMS,5,Machi Esports,G Rex,1.0,43:59,OK,blue,M17,   DEFEAT   ,76.0k,7,  6 ,  0 ,  1 ,  3 ,  1 ,Zoe,Heimerdinger,Talon,Jayce,Kled
+2018.0,summer,LMS,5,Machi Esports,G Rex,1.0,43:59,OK,red,GRX,   VICTORY   ,76.5k,13,  8 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Taliyah,TahmKench,Xayah,Kennen
+2018.0,summer,LMS,5,Machi Esports,G Rex,2.0,38:17,OK,blue,GRX,   DEFEAT   ,56.8k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Rakan,TahmKench,Kled,Yasuo,Kennen
+2018.0,summer,LMS,5,Machi Esports,G Rex,2.0,38:17,OK,red,M17,   VICTORY   ,71.4k,16,  9 ,  1 ,  1 ,  4 ,  0 ,Aatrox,Taliyah,Talon,Camille,Vladimir
+2018.0,summer,LMS,5,Machi Esports,G Rex,3.0,32:06,OK,blue,M17,   DEFEAT   ,48.3k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Talon,Heimerdinger,Zoe,Kled,Kindred
+2018.0,summer,LMS,5,Machi Esports,G Rex,3.0,32:06,OK,red,GRX,   VICTORY   ,60.6k,18,  9 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Taliyah,TahmKench,Ezreal,Leblanc
+2018.0,summer,LMS,5,AHQ,J Team,1.0,34:00,OK,blue,AHQ,   VICTORY   ,66.7k,22,  9 ,  1 ,  1 ,  2 ,  1 ,Trundle,Orianna,Talon,Darius,Leblanc
+2018.0,summer,LMS,5,AHQ,J Team,1.0,34:00,OK,red,JT,   DEFEAT   ,55.4k,9,  3 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Veigar,Rakan,Nocturne,Swain
+2018.0,summer,LMS,5,AHQ,J Team,2.0,36:48,OK,blue,JT,   DEFEAT   ,60.2k,10,  7 ,  1 ,  0 ,  1 ,  0 ,Veigar,Rakan,Yasuo,Gangplank,Darius
+2018.0,summer,LMS,5,AHQ,J Team,2.0,36:48,OK,red,AHQ,   VICTORY   ,64.3k,8,  7 ,  1 ,  0 ,  4 ,  1 ,Zoe,Taliyah,Aatrox,Kennen,Leblanc
+2018.0,summer,LMS,5,J Team,G Rex,1.0,36:23,OK,blue,JT,   VICTORY   ,71.8k,19,  11 ,  3 ,  1 ,  3 ,  1 ,Talon,Heimerdinger,Orianna,Chogath,Darius
+2018.0,summer,LMS,5,J Team,G Rex,1.0,36:23,OK,red,GRX,   DEFEAT   ,56.8k,12,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Trundle,Kennen,Kindred
+2018.0,summer,LMS,5,J Team,G Rex,2.0,41:41,OK,blue,GRX,   VICTORY   ,78.4k,15,  10 ,  3 ,  3 ,  3 ,  1 ,Yasuo,Zoe,TahmKench,Kennen,Gnar
+2018.0,summer,LMS,5,J Team,G Rex,2.0,41:41,OK,red,JT,   DEFEAT   ,72.0k,18,  5 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Heimerdinger,Orianna,Darius,Chogath
+2018.0,summer,LMS,5,J Team,G Rex,3.0,36:25,OK,blue,JT,   DEFEAT   ,56.5k,6,  1 ,  0 ,  1 ,  0 ,  0 ,Heimerdinger,Talon,Kindred,Gragas,Ornn
+2018.0,summer,LMS,5,J Team,G Rex,3.0,36:25,OK,red,GRX,   VICTORY   ,64.0k,14,  7 ,  1 ,  1 ,  4 ,  1 ,Aatrox,Taliyah,Zoe,Darius,Gnar
+2018.0,summer,LMS,5,MAD Team,Flash Wolves,1.0,34:39,OK,blue,MAD,   DEFEAT   ,60.5k,14,  5 ,  1 ,  0 ,  4 ,  0 ,Talon,Vladimir,Rakan,Orianna,Ryze
+2018.0,summer,LMS,5,MAD Team,Flash Wolves,1.0,34:39,OK,red,FW,   VICTORY   ,64.9k,10,  8 ,  1 ,  1 ,  0 ,  1 ,Aatrox,Zoe,Taliyah,Mordekaiser,Irelia
+2018.0,summer,LMS,5,MAD Team,Flash Wolves,2.0,30:44,OK,blue,FW,   VICTORY   ,57.7k,14,  8 ,  1 ,  0 ,  3 ,  1 ,Taliyah,Swain,Shen,Pyke,Braum
+2018.0,summer,LMS,5,MAD Team,Flash Wolves,2.0,30:44,OK,red,MAD,   DEFEAT   ,48.2k,5,  1 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Zoe,Rakan,Talon,Leblanc
+2018.0,summer,LMS,5,Hong Kong Attitude,AHQ,1.0,29:44,OK,blue,HKA,   VICTORY   ,58.4k,7,  11 ,  3 ,  1 ,  2 ,  0 ,Camille,Nocturne,Taliyah,Talon,Gnar
+2018.0,summer,LMS,5,Hong Kong Attitude,AHQ,1.0,29:44,OK,red,AHQ,   DEFEAT   ,45.3k,1,  3 ,  0 ,  0 ,  1 ,  1 ,Zoe,Aatrox,Swain,Yasuo,Kennen
+2018.0,summer,LMS,5,Hong Kong Attitude,AHQ,2.0,56:08,OK,blue,AHQ,   VICTORY   ,102.9k,22,  10 ,  2 ,  3 ,  5 ,  1 ,Shen,Leblanc,Talon,Darius,Kennen
+2018.0,summer,LMS,5,Hong Kong Attitude,AHQ,2.0,56:08,OK,red,HKA,   DEFEAT   ,91.2k,9,  7 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Zoe,Galio,Ryze,
+2018.0,summer,LMS,5,Hong Kong Attitude,AHQ,3.0,36:38,OK,blue,HKA,   VICTORY   ,75.2k,13,  11 ,  3 ,  2 ,  4 ,  1 ,Camille,Nocturne,Yasuo,TahmKench,Alistar
+2018.0,summer,LMS,5,Hong Kong Attitude,AHQ,3.0,36:38,OK,red,AHQ,   DEFEAT   ,57.5k,10,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Aatrox,Taliyah,Ezreal,Heimerdinger
+2018.0,summer,LMS,5,Team Afro,Machi Esports,1.0,43:33,OK,blue,AFR,   DEFEAT   ,70.7k,8,  4 ,  0 ,  0 ,  1 ,  1 ,Nocturne,Kindred,Taliyah,Chogath,Galio
+2018.0,summer,LMS,5,Team Afro,Machi Esports,1.0,43:33,OK,red,M17,   VICTORY   ,83.5k,21,  9 ,  1 ,  1 ,  3 ,  0 ,Zoe,Aatrox,Shen,Vladimir,Heimerdinger
+2018.0,summer,LMS,5,Team Afro,Machi Esports,2.0,44:17,OK,blue,AFR,   VICTORY   ,85.0k,23,  10 ,  1 ,  2 ,  3 ,  0 ,Nocturne,Kindred,Taliyah,Anivia,Yasuo
+2018.0,summer,LMS,5,Team Afro,Machi Esports,2.0,44:17,OK,red,M17,   DEFEAT   ,72.1k,10,  3 ,  0 ,  0 ,  2 ,  0 ,Zoe,Aatrox,Shen,Heimerdinger,Vladimir
+2018.0,summer,LMS,5,Team Afro,Machi Esports,3.0,47:52,OK,blue,AFR,   VICTORY   ,85.1k,8,  9 ,  1 ,  1 ,  4 ,  1 ,Nocturne,Kindred,Taliyah,Anivia,Yasuo
+2018.0,summer,LMS,5,Team Afro,Machi Esports,3.0,47:52,OK,red,M17,   DEFEAT   ,83.0k,9,  6 ,  0 ,  1 ,  1 ,  0 ,Zoe,Aatrox,Kled,Heimerdinger,Viktor
+2018.0,summer,LMS,6,G Rex,Team Afro,1.0,40:04,OK,blue,GRX,   VICTORY   ,73.2k,10,  9 ,  2 ,  1 ,  3 ,  0 ,Kled,Darius,Heimerdinger,Kennen,Gnar
+2018.0,summer,LMS,6,G Rex,Team Afro,1.0,40:04,OK,red,AFR,   DEFEAT   ,63.0k,5,  2 ,  0 ,  0 ,  2 ,  1 ,Nocturne,Yasuo,Aatrox,Chogath,Varus
+2018.0,summer,LMS,6,G Rex,Team Afro,2.0,44:24,OK,blue,AFR,   VICTORY   ,82.7k,19,  11 ,  5 ,  2 ,  3 ,  1 ,Yasuo,Nocturne,TahmKench,Chogath,Varus
+2018.0,summer,LMS,6,G Rex,Team Afro,2.0,44:24,OK,red,GRX,   DEFEAT   ,70.9k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Darius,Taliyah,Camille,Sejuani
+2018.0,summer,LMS,6,G Rex,Team Afro,3.0,48:49,OK,blue,GRX,   VICTORY   ,87.2k,16,  10 ,  2 ,  1 ,  3 ,  0 ,Kled,Darius,XinZhao,Heimerdinger,Kennen
+2018.0,summer,LMS,6,G Rex,Team Afro,3.0,48:49,OK,red,AFR,   DEFEAT   ,81.0k,15,  3 ,  0 ,  1 ,  1 ,  1 ,Nocturne,Aatrox,Yasuo,Kindred,Chogath
+2018.0,summer,LMS,6,J Team,Hong Kong Attitude,1.0,44:07,OK,blue,JT,   VICTORY   ,86.3k,15,  11 ,  4 ,  2 ,  4 ,  1 ,Kindred,Camille,Varus,Leblanc,Orianna
+2018.0,summer,LMS,6,J Team,Hong Kong Attitude,1.0,44:07,OK,red,HKA,   DEFEAT   ,76.8k,8,  6 ,  1 ,  0 ,  1 ,  0 ,Aatrox,Zoe,Trundle,Ryze,Ashe
+2018.0,summer,LMS,6,J Team,Hong Kong Attitude,2.0,35:03,OK,blue,HKA,   VICTORY   ,61.7k,9,  7 ,  1 ,  0 ,  1 ,  1 ,Taliyah,Rakan,Yasuo,Swain,Camille
+2018.0,summer,LMS,6,J Team,Hong Kong Attitude,2.0,35:03,OK,red,JT,   DEFEAT   ,58.4k,9,  6 ,  0 ,  1 ,  2 ,  0 ,Kindred,Aatrox,Zoe,Leblanc,Talon
+2018.0,summer,LMS,6,J Team,Hong Kong Attitude,3.0,27:41,OK,blue,HKA,   VICTORY   ,52.1k,12,  8 ,  1 ,  0 ,  2 ,  1 ,Taliyah,Rakan,Yasuo,Trundle,LeeSin
+2018.0,summer,LMS,6,J Team,Hong Kong Attitude,3.0,27:41,OK,red,JT,   DEFEAT   ,43.5k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Kindred,Aatrox,Varus,Ashe,Nocturne
+2018.0,summer,LMS,6,MAD Team,Machi Esports,1.0,31:40,OK,blue,MAD,   VICTORY   ,62.3k,10,  10 ,  1 ,  2 ,  3 ,  1 ,Alistar,Ryze,Sejuani,Rakan,Soraka
+2018.0,summer,LMS,6,MAD Team,Machi Esports,1.0,31:40,OK,red,M17,   DEFEAT   ,48.7k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Aatrox,Taliyah,Azir,Varus
+2018.0,summer,LMS,6,MAD Team,Machi Esports,2.0,27:16,OK,blue,M17,   DEFEAT   ,44.5k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Zoe,TahmKench,Swain,Mordekaiser,Kaisa
+2018.0,summer,LMS,6,MAD Team,Machi Esports,2.0,27:16,OK,red,MAD,   VICTORY   ,50.7k,9,  7 ,  1 ,  1 ,  2 ,  0 ,Alistar,Kindred,Aatrox,Velkoz,Irelia
+2018.0,summer,LMS,6,Flash Wolves,AHQ,1.0,35:57,OK,blue,AHQ,   DEFEAT   ,60.4k,5,  6 ,  1 ,  0 ,  1 ,  1 ,Rakan,Taliyah,Nocturne,Gangplank,Yasuo
+2018.0,summer,LMS,6,Flash Wolves,AHQ,1.0,35:57,OK,red,FW,   VICTORY   ,64.9k,13,  7 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Zoe,Swain,Galio,Varus
+2018.0,summer,LMS,6,Flash Wolves,AHQ,2.0,24:34,OK,blue,AHQ,   DEFEAT   ,37.2k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Taliyah,Nocturne,Gangplank,Karma
+2018.0,summer,LMS,6,Flash Wolves,AHQ,2.0,24:34,OK,red,FW,   VICTORY   ,54.3k,21,  11 ,  4 ,  1 ,  2 ,  1 ,Aatrox,Zoe,Swain,Camille,Gragas
+2018.0,summer,LMS,6,Flash Wolves,Team Afro,1.0,31:36,OK,blue,AFR,   VICTORY   ,58.8k,13,  9 ,  1 ,  1 ,  4 ,  1 ,Yasuo,Nocturne,TahmKench,Leblanc,Galio
+2018.0,summer,LMS,6,Flash Wolves,Team Afro,1.0,31:36,OK,red,FW,   DEFEAT   ,48.4k,1,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Swain,Zoe,Rumble,Azir
+2018.0,summer,LMS,6,Flash Wolves,Team Afro,2.0,45:00,OK,blue,AFR,   DEFEAT   ,75.8k,8,  7 ,  1 ,  2 ,  3 ,  0 ,Yasuo,Nocturne,TahmKench,Leblanc,Xayah
+2018.0,summer,LMS,6,Flash Wolves,Team Afro,2.0,45:00,OK,red,FW,   VICTORY   ,79.9k,20,  7 ,  1 ,  0 ,  2 ,  0 ,Aatrox,Taliyah,Zoe,Alistar,Shen
+2018.0,summer,LMS,6,Flash Wolves,Team Afro,3.0,30:47,OK,blue,FW,   VICTORY   ,59.4k,19,  9 ,  2 ,  1 ,  3 ,  1 ,Taliyah,Rakan,Varus,Gragas,Sejuani
+2018.0,summer,LMS,6,Flash Wolves,Team Afro,3.0,30:47,OK,red,AFR,   DEFEAT   ,46.2k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Yasuo,Gangplank,Jayce
+2018.0,summer,LMS,6,G Rex,Hong Kong Attitude,1.0,40:09,OK,blue,GRX,   VICTORY   ,70.6k,15,  8 ,  1 ,  0 ,  2 ,  0 ,Shen,Kindred,Taliyah,Camille,Darius
+2018.0,summer,LMS,6,G Rex,Hong Kong Attitude,1.0,40:09,OK,red,HKA,   DEFEAT   ,66.5k,10,  3 ,  0 ,  1 ,  2 ,  0 ,Aatrox,Zoe,Trundle,Yasuo,Ashe
+2018.0,summer,LMS,6,G Rex,Hong Kong Attitude,2.0,31:59,OK,blue,HKA,   VICTORY   ,65.9k,12,  9 ,  1 ,  2 ,  2 ,  1 ,Taliyah,Rakan,Yasuo,Ornn,Gragas
+2018.0,summer,LMS,6,G Rex,Hong Kong Attitude,2.0,31:59,OK,red,GRX,   DEFEAT   ,51.2k,9,  3 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Zoe,Camille,Darius,Kindred
+2018.0,summer,LMS,6,G Rex,Hong Kong Attitude,3.0,35:17,OK,blue,GRX,   DEFEAT   ,54.8k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Shen,Zoe,Ryze,Morgana,Braum
+2018.0,summer,LMS,6,G Rex,Hong Kong Attitude,3.0,35:17,OK,red,HKA,   VICTORY   ,69.1k,19,  10 ,  2 ,  1 ,  3 ,  1 ,Aatrox,TahmKench,Orianna,Kalista,Tristana
+2018.0,summer,LMS,6,MAD Team,J Team,1.0,31:44,OK,blue,MAD,   VICTORY   ,62.8k,13,  10 ,  2 ,  1 ,  3 ,  1 ,Yasuo,Leblanc,Aatrox,Camille,Kled
+2018.0,summer,LMS,6,MAD Team,J Team,1.0,31:44,OK,red,JT,   DEFEAT   ,48.3k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Zoe,Kindred,Jayce,DrMundo
+2018.0,summer,LMS,6,MAD Team,J Team,2.0,50:39,OK,blue,MAD,   VICTORY   ,98.5k,16,  10 ,  2 ,  3 ,  4 ,  1 ,Yasuo,Leblanc,Aatrox,Camille,Gangplank
+2018.0,summer,LMS,6,MAD Team,J Team,2.0,50:39,OK,red,JT,   DEFEAT   ,84.6k,8,  5 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Zoe,Trundle,Xayah,Jayce
+2018.0,summer,LMS,6,Machi Esports,AHQ,1.0,42:17,OK,blue,M17,   VICTORY   ,82.7k,11,  11 ,  4 ,  2 ,  2 ,  1 ,Yasuo,TahmKench,Morgana,Galio,Gnar
+2018.0,summer,LMS,6,Machi Esports,AHQ,1.0,42:17,OK,red,AHQ,   DEFEAT   ,68.0k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Zoe,Alistar,Jayce,Xayah
+2018.0,summer,LMS,6,Machi Esports,AHQ,2.0,25:19,OK,blue,AHQ,   DEFEAT   ,38.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Alistar,Taliyah,Kindred,Nocturne,Graves
+2018.0,summer,LMS,6,Machi Esports,AHQ,2.0,25:19,OK,red,M17,   VICTORY   ,52.6k,13,  11 ,  3 ,  1 ,  3 ,  1 ,Zoe,Aatrox,Camille,Xayah,Yasuo
+2018.0,summer,LMS,7,Team Afro,Hong Kong Attitude,1.0,28:02,OK,blue,AFR,   DEFEAT   ,41.0k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Ryze,Leblanc,Taliyah,Trundle
+2018.0,summer,LMS,7,Team Afro,Hong Kong Attitude,1.0,28:02,OK,red,HKA,   VICTORY   ,55.9k,13,  9 ,  1 ,  1 ,  2 ,  1 ,Kled,Aatrox,Heimerdinger,Xayah,Kaisa
+2018.0,summer,LMS,7,Team Afro,Hong Kong Attitude,2.0,35:12,OK,blue,HKA,   VICTORY   ,65.2k,9,  10 ,  2 ,  1 ,  2 ,  1 ,Taliyah,Camille,Varus,Kaisa,Lucian
+2018.0,summer,LMS,7,Team Afro,Hong Kong Attitude,2.0,35:12,OK,red,AFR,   DEFEAT   ,56.8k,9,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Leblanc,Zoe,Gnar,Kennen
+2018.0,summer,LMS,7,G Rex,MAD Team,1.0,35:12,OK,blue,GRX,   DEFEAT   ,56.7k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Kindred,Nocturne,Trundle,Ezreal,Kaisa
+2018.0,summer,LMS,7,G Rex,MAD Team,1.0,35:12,OK,red,MAD,   VICTORY   ,63.5k,11,  9 ,  1 ,  1 ,  3 ,  0 ,Yasuo,Aatrox,Zoe,Orianna,Ryze
+2018.0,summer,LMS,7,G Rex,MAD Team,2.0,35:53,OK,blue,MAD,   DEFEAT   ,59.7k,9,  5 ,  1 ,  1 ,  0 ,  1 ,Ryze,Orianna,Aatrox,Varus,Chogath
+2018.0,summer,LMS,7,G Rex,MAD Team,2.0,35:53,OK,red,GRX,   VICTORY   ,63.4k,11,  7 ,  1 ,  0 ,  4 ,  0 ,Taliyah,Kindred,Zoe,Ezreal,Jayce
+2018.0,summer,LMS,7,G Rex,MAD Team,3.0,31:47,OK,blue,GRX,   VICTORY   ,59.0k,8,  11 ,  3 ,  1 ,  2 ,  1 ,Kindred,Taliyah,TahmKench,Ezreal,Jayce
+2018.0,summer,LMS,7,G Rex,MAD Team,3.0,31:47,OK,red,MAD,   DEFEAT   ,48.4k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Zoe,Ryze,Kalista,Caitlyn
+2018.0,summer,LMS,7,J Team,Machi Esports,1.0,46:38,OK,blue,JT,   DEFEAT   ,72.5k,5,  3 ,  0 ,  0 ,  4 ,  0 ,Kindred,Ryze,Camille,Kaisa,Ezreal
+2018.0,summer,LMS,7,J Team,Machi Esports,1.0,46:38,OK,red,M17,   VICTORY   ,88.6k,13,  11 ,  3 ,  2 ,  1 ,  0 ,Zoe,Taliyah,Aatrox,Leblanc,Orianna
+2018.0,summer,LMS,7,J Team,Machi Esports,2.0,33:46,OK,blue,JT,   DEFEAT   ,53.6k,4,  4 ,  0 ,  0 ,  2 ,  1 ,Kindred,Ryze,Camille,Gnar,Gangplank
+2018.0,summer,LMS,7,J Team,Machi Esports,2.0,33:46,OK,red,M17,   VICTORY   ,62.0k,7,  11 ,  3 ,  1 ,  2 ,  0 ,Zoe,Aatrox,Taliyah,Skarner,Gragas
+2018.0,summer,LMS,7,AHQ,Team Afro,1.0,37:08,OK,blue,AHQ,   DEFEAT   ,54.7k,4,  3 ,  0 ,  0 ,  0 ,  0 ,Varus,Alistar,Rakan,Ornn,Leblanc
+2018.0,summer,LMS,7,AHQ,Team Afro,1.0,37:08,OK,red,AFR,   VICTORY   ,68.3k,14,  8 ,  1 ,  1 ,  4 ,  1 ,TahmKench,Camille,Aatrox,Gnar,Olaf
+2018.0,summer,LMS,7,AHQ,Team Afro,2.0,38:54,OK,blue,AFR,   DEFEAT   ,63.9k,6,  4 ,  1 ,  0 ,  2 ,  0 ,TahmKench,Yasuo,Skarner,Ashe,Ezreal
+2018.0,summer,LMS,7,AHQ,Team Afro,2.0,38:54,OK,red,AHQ,   VICTORY   ,74.7k,10,  10 ,  2 ,  2 ,  2 ,  0 ,Aatrox,Zoe,Taliyah,Chogath,Ornn
+2018.0,summer,LMS,7,AHQ,Team Afro,3.0,46:43,OK,blue,AHQ,   DEFEAT   ,82.6k,7,  8 ,  3 ,  0 ,  4 ,  1 ,Varus,Rakan,Taliyah,Leblanc,Nocturne
+2018.0,summer,LMS,7,AHQ,Team Afro,3.0,46:43,OK,red,AFR,   VICTORY   ,82.3k,8,  9 ,  2 ,  2 ,  1 ,  0 ,TahmKench,Yasuo,Aatrox,Jhin,Kindred
+2018.0,summer,LMS,7,Hong Kong Attitude,MAD Team,1.0,31:41,OK,blue,HKA,   VICTORY   ,58.6k,12,  8 ,  1 ,  0 ,  2 ,  1 ,Taliyah,Rakan,Swain,Syndra,Irelia
+2018.0,summer,LMS,7,Hong Kong Attitude,MAD Team,1.0,31:41,OK,red,MAD,   DEFEAT   ,50.1k,4,  1 ,  0 ,  1 ,  2 ,  0 ,Zoe,Aatrox,Varus,Camille,Trundle
+2018.0,summer,LMS,7,Hong Kong Attitude,MAD Team,2.0,34:54,OK,blue,MAD,   VICTORY   ,67.0k,15,  11 ,  3 ,  1 ,  2 ,  1 ,Varus,Leblanc,Ryze,Gnar,Jayce
+2018.0,summer,LMS,7,Hong Kong Attitude,MAD Team,2.0,34:54,OK,red,HKA,   DEFEAT   ,55.1k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Zoe,Swain,Azir,Syndra
+2018.0,summer,LMS,7,Hong Kong Attitude,MAD Team,3.0,47:12,OK,blue,HKA,   DEFEAT   ,80.7k,14,  7 ,  1 ,  1 ,  4 ,  1 ,Taliyah,Rakan,Zoe,Syndra,Jayce
+2018.0,summer,LMS,7,Hong Kong Attitude,MAD Team,3.0,47:12,OK,red,MAD,   VICTORY   ,85.8k,23,  9 ,  1 ,  1 ,  1 ,  0 ,Leblanc,Varus,Aatrox,Ashe,Ezreal
+2018.0,summer,LMS,7,Machi Esports,Flash Wolves,1.0,34:28,OK,blue,M17,   DEFEAT   ,58.8k,7,  3 ,  0 ,  0 ,  0 ,  1 ,Leblanc,Rakan,Yasuo,Morgana,Shen
+2018.0,summer,LMS,7,Machi Esports,Flash Wolves,1.0,34:28,OK,red,FW,   VICTORY   ,70.4k,13,  11 ,  4 ,  2 ,  3 ,  0 ,Aatrox,Taliyah,TahmKench,Kindred,Camille
+2018.0,summer,LMS,7,Machi Esports,Flash Wolves,2.0,28:47,OK,blue,FW,   DEFEAT   ,45.8k,5,  3 ,  0 ,  0 ,  0 ,  1 ,Ryze,Kindred,Camille,Gangplank,Skarner
+2018.0,summer,LMS,7,Machi Esports,Flash Wolves,2.0,28:47,OK,red,M17,   VICTORY   ,57.0k,14,  9 ,  2 ,  1 ,  2 ,  0 ,Aatrox,TahmKench,Taliyah,Jayce,Swain
+2018.0,summer,LMS,7,Machi Esports,Flash Wolves,3.0,29:59,OK,blue,M17,   DEFEAT   ,48.0k,6,  3 ,  0 ,  0 ,  2 ,  0 ,Leblanc,Rakan,Ryze,Kindred,Gangplank
+2018.0,summer,LMS,7,Machi Esports,Flash Wolves,3.0,29:59,OK,red,FW,   VICTORY   ,55.7k,12,  8 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Taliyah,Kaisa,Evelynn,Nocturne
+2018.0,summer,LMS,7,Flash Wolves,J Team,1.0,25:14,OK,blue,FW,   VICTORY   ,50.2k,14,  10 ,  2 ,  1 ,  1 ,  1 ,Zoe,Trundle,Yasuo,Azir,Orianna
+2018.0,summer,LMS,7,Flash Wolves,J Team,1.0,25:14,OK,red,JT,   DEFEAT   ,39.4k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,AurelionSol,Taliyah,Sejuani,Skarner
+2018.0,summer,LMS,7,Flash Wolves,J Team,2.0,31:08,OK,blue,FW,   VICTORY   ,58.4k,18,  10 ,  2 ,  1 ,  3 ,  1 ,Zoe,Trundle,Yasuo,Gangplank,Ezreal
+2018.0,summer,LMS,7,Flash Wolves,J Team,2.0,31:08,OK,red,JT,   DEFEAT   ,49.2k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,TahmKench,Nocturne,Skarner
+2018.0,summer,LMS,7,AHQ,G Rex,1.0,36:01,OK,blue,AHQ,   DEFEAT   ,57.4k,5,  3 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Rakan,Braum,Trundle,Nocturne
+2018.0,summer,LMS,7,AHQ,G Rex,1.0,36:01,OK,red,GRX,   VICTORY   ,71.4k,16,  11 ,  4 ,  2 ,  4 ,  0 ,Aatrox,Zoe,TahmKench,Caitlyn,Varus
+2018.0,summer,LMS,7,AHQ,G Rex,2.0,35:20,OK,blue,AHQ,   DEFEAT   ,54.1k,4,  2 ,  0 ,  0 ,  3 ,  1 ,Taliyah,Rakan,Orianna,Chogath,Alistar
+2018.0,summer,LMS,7,AHQ,G Rex,2.0,35:20,OK,red,GRX,   VICTORY   ,66.7k,13,  11 ,  2 ,  1 ,  1 ,  0 ,Aatrox,TahmKench,Camille,Caitlyn,Varus
+2018.0,summer,LMS,8,J Team,Team Afro,1.0,40:44,OK,blue,AFR,   DEFEAT   ,66.7k,13,  2 ,  0 ,  0 ,  0 ,  1 ,Gnar,TahmKench,Trundle,Darius,Gangplank
+2018.0,summer,LMS,8,J Team,Team Afro,1.0,40:44,OK,red,JT,   VICTORY   ,74.0k,17,  8 ,  1 ,  0 ,  3 ,  0 ,Aatrox,Taliyah,Zoe,Orianna,Azir
+2018.0,summer,LMS,8,J Team,Team Afro,2.0,32:21,OK,blue,AFR,   VICTORY   ,64.0k,14,  11 ,  2 ,  2 ,  2 ,  1 ,Gnar,TahmKench,Trundle,Zoe,Yasuo
+2018.0,summer,LMS,8,J Team,Team Afro,2.0,32:21,OK,red,JT,   DEFEAT   ,50.1k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Caitlyn,Camille,Sejuani
+2018.0,summer,LMS,8,J Team,Team Afro,3.0,28:40,OK,blue,AFR,   DEFEAT   ,41.4k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Gnar,TahmKench,Trundle,Yasuo,Zoe
+2018.0,summer,LMS,8,J Team,Team Afro,3.0,28:40,OK,red,JT,   VICTORY   ,59.2k,19,  11 ,  2 ,  1 ,  3 ,  1 ,Aatrox,Taliyah,LeeSin,Orianna,Ryze
+2018.0,summer,LMS,8,Hong Kong Attitude,Machi Esports,1.0,47:42,OK,blue,HKA,   DEFEAT   ,76.0k,8,  4 ,  0 ,  0 ,  1 ,  0 ,Camille,Kaisa,Taliyah,Trundle,Skarner
+2018.0,summer,LMS,8,Hong Kong Attitude,Machi Esports,1.0,47:42,OK,red,M17,   VICTORY   ,91.2k,14,  10 ,  3 ,  2 ,  3 ,  0 ,Zoe,Aatrox,TahmKench,Alistar,Jayce
+2018.0,summer,LMS,8,Hong Kong Attitude,Machi Esports,2.0,38:55,OK,blue,M17,   VICTORY   ,70.4k,8,  8 ,  1 ,  2 ,  2 ,  0 ,Leblanc,Zoe,Ryze,Camille,Gnar
+2018.0,summer,LMS,8,Hong Kong Attitude,Machi Esports,2.0,38:55,OK,red,HKA,   DEFEAT   ,68.0k,6,  5 ,  0 ,  0 ,  2 ,  1 ,Taliyah,Aatrox,TahmKench,Evelynn,Nidalee
+2018.0,summer,LMS,8,AHQ,MAD Team,1.0,40:29,OK,blue,AHQ,   VICTORY   ,79.0k,10,  11 ,  3 ,  1 ,  4 ,  1 ,Kaisa,Kindred,Taliyah,Ezreal,Jayce
+2018.0,summer,LMS,8,AHQ,MAD Team,1.0,40:29,OK,red,MAD,   DEFEAT   ,67.8k,5,  3 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Zoe,Yasuo,Skarner,Gragas
+2018.0,summer,LMS,8,AHQ,MAD Team,2.0,29:04,OK,blue,MAD,   VICTORY   ,53.9k,12,  8 ,  1 ,  1 ,  2 ,  1 ,Ryze,Camille,Leblanc,Gnar,Kennen
+2018.0,summer,LMS,8,AHQ,MAD Team,2.0,29:04,OK,red,AHQ,   DEFEAT   ,42.2k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,TahmKench,Jayce,Kaisa
+2018.0,summer,LMS,8,AHQ,MAD Team,3.0,28:01,OK,blue,AHQ,   DEFEAT   ,44.3k,0,  5 ,  0 ,  0 ,  1 ,  0 ,Kaisa,Kindred,Camille,Jayce,Syndra
+2018.0,summer,LMS,8,AHQ,MAD Team,3.0,28:01,OK,red,MAD,   VICTORY   ,56.1k,17,  9 ,  1 ,  1 ,  2 ,  1 ,Aatrox,TahmKench,Zoe,Varus,Ashe
+2018.0,summer,LMS,8,G Rex,Flash Wolves,1.0,34:17,OK,blue,FW,   VICTORY   ,61.2k,14,  8 ,  1 ,  0 ,  2 ,  1 ,Trundle,Tristana,Taliyah,Xayah,Varus
+2018.0,summer,LMS,8,G Rex,Flash Wolves,1.0,34:17,OK,red,GRX,   DEFEAT   ,57.2k,9,  3 ,  0 ,  1 ,  2 ,  0 ,Aatrox,TahmKench,Kindred,Skarner,Graves
+2018.0,summer,LMS,8,G Rex,Flash Wolves,2.0,26:05,OK,blue,FW,   VICTORY   ,51.2k,17,  10 ,  2 ,  1 ,  2 ,  1 ,Trundle,Tristana,Taliyah,Varus,Ashe
+2018.0,summer,LMS,8,G Rex,Flash Wolves,2.0,26:05,OK,red,GRX,   DEFEAT   ,37.8k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,TahmKench,Olaf,Kennen,Kindred
+2018.0,summer,LMS,Tiebreakers,J Team,G Rex,1.0,47:35,OK,blue,GRX,   DEFEAT   ,76.7k,10,  7 ,  0 ,  1 ,  3 ,  1 ,Trundle,Leblanc,TahmKench,Sejuani,Varus
+2018.0,summer,LMS,Tiebreakers,J Team,G Rex,1.0,47:35,OK,red,JT,   VICTORY   ,87.3k,19,  8 ,  1 ,  2 ,  2 ,  0 ,Alistar,Orianna,Aatrox,Ashe,Caitlyn

@@ -1,0 +1,113 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,spring,TCL,1,Papara SuperMassive,Dark Passage,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Papara SuperMassive,Dark Passage,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Galatasaray,Crew eSports,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Galatasaray,Crew eSports,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Galakticos,1907 Fenerbahce,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Galakticos,1907 Fenerbahce,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,HWA Gaming,Team Aurora,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,HWA Gaming,Team Aurora,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Crew eSports,Galakticos,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Crew eSports,Galakticos,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Dark Passage,Galatasaray,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Dark Passage,Galatasaray,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Papara SuperMassive,HWA Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Papara SuperMassive,HWA Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Team Aurora,1907 Fenerbahce,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,1,Team Aurora,1907 Fenerbahce,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Galakticos,Team Aurora,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Galakticos,Team Aurora,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,1907 Fenerbahce,Papara SuperMassive,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,1907 Fenerbahce,Papara SuperMassive,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,HWA Gaming,Galatasaray,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,HWA Gaming,Galatasaray,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Crew eSports,Dark Passage,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Crew eSports,Dark Passage,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Galatasaray,1907 Fenerbahce,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Galatasaray,1907 Fenerbahce,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Galakticos,Papara SuperMassive,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Galakticos,Papara SuperMassive,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Dark Passage,HWA Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Dark Passage,HWA Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Team Aurora,Crew eSports,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,2,Team Aurora,Crew eSports,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Galatasaray,Galakticos,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Galatasaray,Galakticos,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,1907 Fenerbahce,Dark Passage,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,1907 Fenerbahce,Dark Passage,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,HWA Gaming,Crew eSports,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,HWA Gaming,Crew eSports,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Papara SuperMassive,Team Aurora,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Papara SuperMassive,Team Aurora,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,HWA Gaming,1907 Fenerbahce,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,HWA Gaming,1907 Fenerbahce,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Dark Passage,Galakticos,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Dark Passage,Galakticos,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Crew eSports,Papara SuperMassive,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Crew eSports,Papara SuperMassive,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Galatasaray,Team Aurora,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,3,Galatasaray,Team Aurora,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Galakticos,HWA Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Galakticos,HWA Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Team Aurora,Dark Passage,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Team Aurora,Dark Passage,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Crew eSports,1907 Fenerbahce,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Crew eSports,1907 Fenerbahce,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Papara SuperMassive,Galatasaray,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Papara SuperMassive,Galatasaray,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,1907 Fenerbahce,Galakticos,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,1907 Fenerbahce,Galakticos,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Team Aurora,HWA Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Team Aurora,HWA Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Dark Passage,Papara SuperMassive,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Dark Passage,Papara SuperMassive,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Crew eSports,Galatasaray,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,4,Crew eSports,Galatasaray,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Galatasaray,Dark Passage,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Galatasaray,Dark Passage,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Galakticos,Crew eSports,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Galakticos,Crew eSports,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,HWA Gaming,Papara SuperMassive,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,HWA Gaming,Papara SuperMassive,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,1907 Fenerbahce,Team Aurora,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,1907 Fenerbahce,Team Aurora,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Galatasaray,HWA Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Galatasaray,HWA Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Dark Passage,Crew eSports,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Dark Passage,Crew eSports,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Papara SuperMassive,1907 Fenerbahce,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Papara SuperMassive,1907 Fenerbahce,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Team Aurora,Galakticos,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,5,Team Aurora,Galakticos,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Crew eSports,Team Aurora,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Crew eSports,Team Aurora,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,HWA Gaming,Dark Passage,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,HWA Gaming,Dark Passage,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Papara SuperMassive,Galakticos,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Papara SuperMassive,Galakticos,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,1907 Fenerbahce,Galatasaray,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,1907 Fenerbahce,Galatasaray,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Team Aurora,Papara SuperMassive,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Team Aurora,Papara SuperMassive,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Crew eSports,HWA Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Crew eSports,HWA Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Dark Passage,1907 Fenerbahce,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Dark Passage,1907 Fenerbahce,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Galakticos,Galatasaray,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,6,Galakticos,Galatasaray,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Galakticos,Dark Passage,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Galakticos,Dark Passage,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Papara SuperMassive,Crew eSports,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Papara SuperMassive,Crew eSports,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,1907 Fenerbahce,HWA Gaming,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,1907 Fenerbahce,HWA Gaming,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Team Aurora,Galatasaray,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Team Aurora,Galatasaray,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,HWA Gaming,Galakticos,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,HWA Gaming,Galakticos,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,1907 Fenerbahce,Crew eSports,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,1907 Fenerbahce,Crew eSports,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Dark Passage,Team Aurora,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Dark Passage,Team Aurora,2.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Galatasaray,Papara SuperMassive,1.0,this row doesn't have MH_url
+2017.0,spring,TCL,7,Galatasaray,Papara SuperMassive,2.0,this row doesn't have MH_url

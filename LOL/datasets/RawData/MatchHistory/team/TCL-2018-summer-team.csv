@@ -1,0 +1,224 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,TCL,1,1907 Fenerbahce,Dark Passage,1.0,33:47,OK,blue,FB,   VICTORY   ,63.3k,15,  11 ,  5 ,  1 ,  1 ,  1 ,Rakan,Camille,Taric,Karma,Ornn
+2018.0,summer,TCL,1,1907 Fenerbahce,Dark Passage,1.0,33:47,OK,red,DP,   DEFEAT   ,57.6k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Irelia,Nocturne,Fiddlesticks,Alistar
+2018.0,summer,TCL,1,HWA Gaming,Bursaspor,1.0,38:33,OK,blue,BUR,   DEFEAT   ,59.2k,7,  1 ,  0 ,  0 ,  0 ,  0 ,MasterYi,Vladimir,Camille,Mordekaiser,Gangplank
+2018.0,summer,TCL,1,HWA Gaming,Bursaspor,1.0,38:33,OK,red,HWA,   VICTORY   ,74.4k,15,  11 ,  3 ,  1 ,  5 ,  1 ,Yasuo,Irelia,Ornn,Kaisa,Nocturne
+2018.0,summer,TCL,1,YouthCrew,Team Aurora,1.0,44:38,OK,blue,AUR,   DEFEAT   ,81.5k,19,  8 ,  3 ,  2 ,  3 ,  0 ,Zoe,Yasuo,Irelia,Pyke,Rakan
+2018.0,summer,TCL,1,YouthCrew,Team Aurora,1.0,44:38,OK,red,YC,   VICTORY   ,79.5k,12,  7 ,  1 ,  0 ,  2 ,  1 ,Taliyah,Lulu,Taric,Fiora,Jax
+2018.0,summer,TCL,1,Papara SuperMassive,Royal Bandits,1.0,30:39,OK,blue,SUP,   VICTORY   ,61.6k,20,  9 ,  1 ,  1 ,  2 ,  1 ,Draven,Yasuo,Zoe,Camille,Rakan
+2018.0,summer,TCL,1,Papara SuperMassive,Royal Bandits,1.0,30:39,OK,red,RB,   DEFEAT   ,52.7k,15,  2 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Graves,Taric,Braum,Morgana
+2018.0,summer,TCL,1,Team Aurora,Royal Bandits,1.0,34:45,OK,blue,RB,   DEFEAT   ,58.7k,11,  3 ,  0 ,  0 ,  1 ,  0 ,Camille,Ornn,Morgana,DrMundo,Irelia
+2018.0,summer,TCL,1,Team Aurora,Royal Bandits,1.0,34:45,OK,red,AUR,   VICTORY   ,66.8k,13,  10 ,  3 ,  2 ,  3 ,  1 ,Zoe,Taliyah,Draven,Aatrox,Kaisa
+2018.0,summer,TCL,1,YouthCrew,HWA Gaming,1.0,31:33,OK,blue,HWA,   VICTORY   ,61.4k,15,  11 ,  3 ,  2 ,  1 ,  1 ,Lucian,Yasuo,Irelia,Alistar,Shen
+2018.0,summer,TCL,1,YouthCrew,HWA Gaming,1.0,31:33,OK,red,YC,   DEFEAT   ,53.5k,2,  5 ,  0 ,  0 ,  2 ,  0 ,Taric,Vladimir,Gangplank,Darius,Nocturne
+2018.0,summer,TCL,1,Bursaspor,Dark Passage,1.0,28:10,OK,blue,DP,   VICTORY   ,54.5k,11,  9 ,  2 ,  1 ,  2 ,  0 ,Yasuo,Nocturne,Camille,Ornn,Braum
+2018.0,summer,TCL,1,Bursaspor,Dark Passage,1.0,28:10,OK,red,BUR,   DEFEAT   ,43.9k,3,  2 ,  0 ,  0 ,  1 ,  1 ,Zoe,Irelia,Kaisa,Shen,Morgana
+2018.0,summer,TCL,1,Papara SuperMassive,1907 Fenerbahce,1.0,37:07,OK,blue,SUP,   DEFEAT   ,61.7k,12,  3 ,  0 ,  0 ,  3 ,  0 ,Yasuo,Aatrox,Irelia,Shen,Rakan
+2018.0,summer,TCL,1,Papara SuperMassive,1907 Fenerbahce,1.0,37:07,OK,red,FB,   VICTORY   ,67.0k,20,  7 ,  1 ,  2 ,  1 ,  1 ,Taliyah,Lucian,Nocturne,Heimerdinger,Braum
+2018.0,summer,TCL,1,Dark Passage,YouthCrew,1.0,33:15,OK,blue,YC,   VICTORY   ,65.1k,17,  10 ,  2 ,  1 ,  2 ,  1 ,Lulu,Vladimir,Ornn,Gnar,Gangplank
+2018.0,summer,TCL,1,Dark Passage,YouthCrew,1.0,33:15,OK,red,DP,   DEFEAT   ,51.9k,2,  3 ,  0 ,  1 ,  1 ,  0 ,Irelia,Zoe,Aatrox,Braum,Alistar
+2018.0,summer,TCL,1,Royal Bandits,HWA Gaming,1.0,31:36,OK,blue,HWA,   DEFEAT   ,48.6k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Draven,Irelia,Yasuo,Zoe,Darius
+2018.0,summer,TCL,1,Royal Bandits,HWA Gaming,1.0,31:36,OK,red,RB,   VICTORY   ,60.4k,14,  9 ,  1 ,  1 ,  1 ,  0 ,Vladimir,Taric,Graves,Cassiopeia,Kaisa
+2018.0,summer,TCL,1,1907 Fenerbahce,Bursaspor,1.0,36:49,OK,blue,FB,   VICTORY   ,74.1k,22,  9 ,  2 ,  1 ,  3 ,  1 ,Yasuo,Lucian,MasterYi,Ornn,Shen
+2018.0,summer,TCL,1,1907 Fenerbahce,Bursaspor,1.0,36:49,OK,red,BUR,   DEFEAT   ,58.6k,9,  1 ,  0 ,  0 ,  1 ,  0 ,Zoe,XinZhao,Ryze,Pyke,Rakan
+2018.0,summer,TCL,1,Papara SuperMassive,Team Aurora,1.0,20:54,OK,blue,SUP,   VICTORY   ,43.7k,15,  9 ,  2 ,  0 ,  1 ,  1 ,Yasuo,Camille,Braum,DrMundo,Singed
+2018.0,summer,TCL,1,Papara SuperMassive,Team Aurora,1.0,20:54,OK,red,AUR,   DEFEAT   ,30.2k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Lucian,Irelia,Rakan,Shen
+2018.0,summer,TCL,2,YouthCrew,Bursaspor,1.0,25:41,OK,blue,BUR,   VICTORY   ,51.5k,18,  8 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Braum,Vladimir,Morgana,Alistar
+2018.0,summer,TCL,2,YouthCrew,Bursaspor,1.0,25:41,OK,red,YC,   DEFEAT   ,44.6k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Lulu,Ornn,Zoe,Darius
+2018.0,summer,TCL,2,HWA Gaming,Papara SuperMassive,1.0,34:09,OK,blue,SUP,   VICTORY   ,67.6k,25,  8 ,  1 ,  1 ,  2 ,  1 ,Velkoz,Braum,Lucian,Lulu,Ornn
+2018.0,summer,TCL,2,HWA Gaming,Papara SuperMassive,1.0,34:09,OK,red,HWA,   DEFEAT   ,63.1k,24,  7 ,  1 ,  1 ,  2 ,  0 ,Zoe,Irelia,Vladimir,Morgana,Syndra
+2018.0,summer,TCL,2,Royal Bandits,Dark Passage,1.0,28:34,OK,blue,DP,   DEFEAT   ,43.8k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Aatrox,Nocturne,Leblanc,Ornn
+2018.0,summer,TCL,2,Royal Bandits,Dark Passage,1.0,28:34,OK,red,RB,   VICTORY   ,56.3k,10,  9 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Irelia,Vladimir,Morgana,Darius
+2018.0,summer,TCL,2,Team Aurora,1907 Fenerbahce,1.0,36:07,OK,blue,FB,   DEFEAT   ,59.1k,12,  2 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Lucian,Camille,Alistar,Ornn
+2018.0,summer,TCL,2,Team Aurora,1907 Fenerbahce,1.0,36:07,OK,red,AUR,   VICTORY   ,71.0k,21,  9 ,  2 ,  1 ,  2 ,  0 ,Zoe,Nocturne,Taliyah,Aatrox,Velkoz
+2018.0,summer,TCL,2,Team Aurora,HWA Gaming,1.0,37:09,OK,blue,HWA,   VICTORY   ,63.9k,17,  6 ,  1 ,  1 ,  0 ,  0 ,Graves,Camille,Vladimir,Singed,Karma
+2018.0,summer,TCL,2,Team Aurora,HWA Gaming,1.0,37:09,OK,red,AUR,   DEFEAT   ,62.3k,13,  5 ,  1 ,  0 ,  5 ,  1 ,Taric,Nocturne,XinZhao,Lulu,Morgana
+2018.0,summer,TCL,2,Bursaspor,Royal Bandits,1.0,29:34,OK,blue,BUR,   VICTORY   ,58.3k,17,  7 ,  1 ,  1 ,  2 ,  0 ,Draven,Aatrox,Vladimir,DrMundo,Zoe
+2018.0,summer,TCL,2,Bursaspor,Royal Bandits,1.0,29:34,OK,red,RB,   DEFEAT   ,50.2k,8,  6 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Nocturne,Irelia,Ornn,Malzahar
+2018.0,summer,TCL,2,1907 Fenerbahce,YouthCrew,1.0,35:57,OK,blue,FB,   VICTORY   ,67.8k,18,  9 ,  2 ,  1 ,  2 ,  1 ,Yasuo,Lucian,Braum,Alistar,Ornn
+2018.0,summer,TCL,2,1907 Fenerbahce,YouthCrew,1.0,35:57,OK,red,YC,   DEFEAT   ,59.7k,14,  2 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Zoe,Nocturne,Darius,Vladimir
+2018.0,summer,TCL,2,Papara SuperMassive,Dark Passage,1.0,24:31,OK,blue,DP,   DEFEAT   ,37.6k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Morgana,Irelia,Aatrox,Fiddlesticks,Pyke
+2018.0,summer,TCL,2,Papara SuperMassive,Dark Passage,1.0,24:31,OK,red,SUP,   VICTORY   ,49.3k,14,  8 ,  1 ,  1 ,  1 ,  1 ,Zoe,Camille,Yasuo,Lucian,Alistar
+2018.0,summer,TCL,2,HWA Gaming,1907 Fenerbahce,1.0,39:21,OK,blue,FB,   DEFEAT   ,69.6k,17,  7 ,  1 ,  0 ,  0 ,  1 ,Taric,Lucian,Braum,Nocturne,Lulu
+2018.0,summer,TCL,2,HWA Gaming,1907 Fenerbahce,1.0,39:21,OK,red,HWA,   VICTORY   ,77.3k,22,  9 ,  1 ,  1 ,  5 ,  0 ,Zoe,Irelia,Taliyah,Velkoz,Ornn
+2018.0,summer,TCL,2,Royal Bandits,YouthCrew,1.0,26:17,OK,blue,YC,   DEFEAT   ,40.4k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Draven,XinZhao,Morgana,Ornn,Skarner
+2018.0,summer,TCL,2,Royal Bandits,YouthCrew,1.0,26:17,OK,red,RB,   VICTORY   ,52.9k,11,  10 ,  2 ,  1 ,  3 ,  0 ,Irelia,Braum,Taliyah,DrMundo,Fiddlesticks
+2018.0,summer,TCL,2,Papara SuperMassive,Bursaspor,1.0,26:26,OK,blue,BUR,   DEFEAT   ,39.7k,5,  0 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Vladimir,Nocturne,Pyke,Thresh
+2018.0,summer,TCL,2,Papara SuperMassive,Bursaspor,1.0,26:26,OK,red,SUP,   VICTORY   ,54.8k,18,  9 ,  2 ,  1 ,  3 ,  0 ,Yasuo,Ryze,Taliyah,Irelia,Swain
+2018.0,summer,TCL,2,Dark Passage,Team Aurora,1.0,27:27,OK,blue,AUR,   VICTORY   ,59.9k,17,  11 ,  3 ,  1 ,  1 ,  1 ,Rakan,Zoe,XinZhao,Lucian,Alistar
+2018.0,summer,TCL,2,Dark Passage,Team Aurora,1.0,27:27,OK,red,DP,   DEFEAT   ,40.1k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Taliyah,Braum,DrMundo,Darius
+2018.0,summer,TCL,3,Team Aurora,Bursaspor,1.0,36:43,OK,blue,AUR,   DEFEAT   ,59.0k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Fiddlesticks,Rakan,Yasuo,Ryze,Kaisa
+2018.0,summer,TCL,3,Team Aurora,Bursaspor,1.0,36:43,OK,red,BUR,   VICTORY   ,65.6k,14,  9 ,  1 ,  1 ,  4 ,  1 ,Taliyah,Nocturne,Braum,Aatrox,DrMundo
+2018.0,summer,TCL,3,YouthCrew,Papara SuperMassive,1.0,35:33,OK,blue,YC,   DEFEAT   ,59.7k,13,  1 ,  0 ,  0 ,  1 ,  1 ,Ezreal,Kaisa,Lucian,Ornn,Darius
+2018.0,summer,TCL,3,YouthCrew,Papara SuperMassive,1.0,35:33,OK,red,SUP,   VICTORY   ,68.6k,18,  9 ,  2 ,  1 ,  3 ,  0 ,Taliyah,Zoe,Nocturne,Morgana,Alistar
+2018.0,summer,TCL,3,Dark Passage,HWA Gaming,1.0,31:40,OK,blue,DP,   VICTORY   ,60.7k,12,  8 ,  1 ,  1 ,  1 ,  1 ,Swain,Lucian,Braum,DrMundo,Ornn
+2018.0,summer,TCL,3,Dark Passage,HWA Gaming,1.0,31:40,OK,red,HWA,   DEFEAT   ,49.0k,3,  3 ,  0 ,  0 ,  2 ,  0 ,Zoe,Irelia,Taliyah,Lulu,Aatrox
+2018.0,summer,TCL,3,1907 Fenerbahce,Royal Bandits,1.0,27:35,OK,blue,RB,   VICTORY   ,58.2k,24,  9 ,  2 ,  1 ,  1 ,  0 ,Vladimir,Heimerdinger,Camille,Jax,Fiora
+2018.0,summer,TCL,3,1907 Fenerbahce,Royal Bandits,1.0,27:35,OK,red,FB,   DEFEAT   ,44.6k,11,  1 ,  0 ,  0 ,  0 ,  1 ,Draven,Rakan,Lucian,Morgana,Fiddlesticks
+2018.0,summer,TCL,3,Bursaspor,HWA Gaming,1.0,32:47,OK,blue,BUR,   DEFEAT   ,52.3k,12,  3 ,  0 ,  0 ,  1 ,  0 ,Braum,Rakan,Vladimir,Aatrox,DrMundo
+2018.0,summer,TCL,3,Bursaspor,HWA Gaming,1.0,32:47,OK,red,HWA,   VICTORY   ,64.4k,23,  8 ,  1 ,  1 ,  3 ,  1 ,Yasuo,Taliyah,Camille,Zoe,Ryze
+2018.0,summer,TCL,3,Team Aurora,YouthCrew,1.0,30:06,OK,blue,AUR,   VICTORY   ,59.6k,15,  8 ,  1 ,  1 ,  2 ,  1 ,Zoe,Aatrox,Irelia,Trundle,Camille
+2018.0,summer,TCL,3,Team Aurora,YouthCrew,1.0,30:06,OK,red,YC,   DEFEAT   ,48.1k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Braum,Galio,Singed,DrMundo
+2018.0,summer,TCL,3,Dark Passage,1907 Fenerbahce,1.0,40:28,OK,blue,DP,   DEFEAT   ,66.2k,9,  3 ,  0 ,  0 ,  0 ,  1 ,Swain,Zoe,Heimerdinger,Singed,Kaisa
+2018.0,summer,TCL,3,Dark Passage,1907 Fenerbahce,1.0,40:28,OK,red,FB,   VICTORY   ,82.7k,13,  11 ,  4 ,  2 ,  4 ,  0 ,Irelia,Taliyah,Fiddlesticks,Jax,Fiora
+2018.0,summer,TCL,3,Royal Bandits,Papara SuperMassive,1.0,31:40,OK,blue,RB,   VICTORY   ,62.3k,20,  7 ,  1 ,  1 ,  1 ,  1 ,Vladimir,Nocturne,Lucian,Skarner,Sejuani
+2018.0,summer,TCL,3,Royal Bandits,Papara SuperMassive,1.0,31:40,OK,red,SUP,   DEFEAT   ,53.2k,12,  3 ,  0 ,  0 ,  2 ,  0 ,Draven,Taliyah,Leona,Galio,Trundle
+2018.0,summer,TCL,3,Dark Passage,Bursaspor,1.0,30:49,OK,blue,BUR,   VICTORY   ,61.7k,18,  11 ,  3 ,  1 ,  1 ,  1 ,Graves,Nocturne,Camille,Aatrox,Sejuani
+2018.0,summer,TCL,3,Dark Passage,Bursaspor,1.0,30:49,OK,red,DP,   DEFEAT   ,51.5k,12,  2 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Taliyah,Swain,Braum,Trundle
+2018.0,summer,TCL,3,HWA Gaming,YouthCrew,1.0,50:17,OK,blue,YC,   DEFEAT   ,90.8k,20,  9 ,  5 ,  2 ,  2 ,  1 ,Cassiopeia,Brand,Nocturne,Morgana,Rakan
+2018.0,summer,TCL,3,HWA Gaming,YouthCrew,1.0,50:17,OK,red,HWA,   VICTORY   ,96.7k,21,  6 ,  1 ,  1 ,  4 ,  0 ,Zoe,Taliyah,Irelia,Aatrox,Ornn
+2018.0,summer,TCL,3,Royal Bandits,Team Aurora,1.0,26:34,OK,blue,RB,   VICTORY   ,53.9k,10,  10 ,  2 ,  1 ,  3 ,  1 ,Yasuo,Vladimir,Braum,Lulu,Galio
+2018.0,summer,TCL,3,Royal Bandits,Team Aurora,1.0,26:34,OK,red,AUR,   DEFEAT   ,40.0k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Rakan,Irelia,Morgana,Leona,
+2018.0,summer,TCL,3,1907 Fenerbahce,Papara SuperMassive,1.0,29:35,OK,blue,SUP,   VICTORY   ,62.9k,23,  9 ,  1 ,  1 ,  2 ,  1 ,Heimerdinger,Camille,Irelia,Shen,Ornn
+2018.0,summer,TCL,3,1907 Fenerbahce,Papara SuperMassive,1.0,29:35,OK,red,FB,   DEFEAT   ,47.3k,9,  0 ,  0 ,  0 ,  1 ,  0 ,Fiddlesticks,Vladimir,Lucian,DrMundo,Darius
+2018.0,summer,TCL,4,HWA Gaming,Royal Bandits,1.0,45:27,OK,blue,HWA,   VICTORY   ,75.1k,11,  11 ,  4 ,  1 ,  1 ,  1 ,Irelia,Taliyah,Lucian,Darius,Leblanc
+2018.0,summer,TCL,4,HWA Gaming,Royal Bandits,1.0,45:27,OK,red,RB,   DEFEAT   ,85.2k,19,  6 ,  1 ,  1 ,  4 ,  0 ,Braum,Aatrox,Xayah,Vladimir,Rakan
+2018.0,summer,TCL,4,YouthCrew,Dark Passage,1.0,33:30,OK,blue,YC,   VICTORY   ,66.2k,17,  10 ,  3 ,  1 ,  3 ,  0 ,Kindred,Sejuani,Morgana,Gnar,Vladimir
+2018.0,summer,TCL,4,YouthCrew,Dark Passage,1.0,33:30,OK,red,DP,   DEFEAT   ,57.1k,16,  3 ,  0 ,  0 ,  0 ,  1 ,Kaisa,Lucian,Nocturne,Aatrox,Taliyah
+2018.0,summer,TCL,4,Team Aurora,Papara SuperMassive,1.0,40:54,OK,blue,AUR,   DEFEAT   ,70.7k,11,  9 ,  1 ,  2 ,  1 ,  0 ,Zoe,Taliyah,Swain,Fiddlesticks,Rakan
+2018.0,summer,TCL,4,Team Aurora,Papara SuperMassive,1.0,40:54,OK,red,SUP,   VICTORY   ,72.7k,17,  7 ,  1 ,  0 ,  5 ,  1 ,Nocturne,Braum,Aatrox,Kaisa,Graves
+2018.0,summer,TCL,4,Bursaspor,1907 Fenerbahce,1.0,34:39,OK,blue,BUR,   VICTORY   ,64.4k,11,  9 ,  2 ,  1 ,  1 ,  0 ,Graves,Vladimir,Swain,Ezreal,DrMundo
+2018.0,summer,TCL,4,Bursaspor,1907 Fenerbahce,1.0,34:39,OK,red,FB,   DEFEAT   ,57.5k,9,  4 ,  0 ,  0 ,  2 ,  1 ,Yasuo,Aatrox,Morgana,Darius,Lucian
+2018.0,summer,TCL,4,Bursaspor,YouthCrew,1.0,29:03,OK,blue,BUR,   DEFEAT   ,46.7k,8,  2 ,  0 ,  0 ,  0 ,  1 ,Lucian,Zoe,Swain,Camille,Renekton
+2018.0,summer,TCL,4,Bursaspor,YouthCrew,1.0,29:03,OK,red,YC,   VICTORY   ,57.5k,15,  8 ,  1 ,  1 ,  3 ,  0 ,Yasuo,Nocturne,Morgana,Heimerdinger,Vladimir
+2018.0,summer,TCL,4,Papara SuperMassive,HWA Gaming,1.0,44:36,OK,blue,SUP,   DEFEAT   ,76.0k,11,  7 ,  2 ,  1 ,  1 ,  1 ,Braum,Swain,Zoe,TahmKench,Rakan
+2018.0,summer,TCL,4,Papara SuperMassive,HWA Gaming,1.0,44:36,OK,red,HWA,   VICTORY   ,77.3k,19,  7 ,  2 ,  1 ,  4 ,  0 ,Taliyah,Aatrox,Nocturne,Ezreal,Kaisa
+2018.0,summer,TCL,4,Dark Passage,Royal Bandits,1.0,34:02,OK,blue,RB,   VICTORY   ,65.4k,13,  10 ,  2 ,  1 ,  1 ,  0 ,Morgana,Nocturne,Taliyah,Sejuani,Kindred
+2018.0,summer,TCL,4,Dark Passage,Royal Bandits,1.0,34:02,OK,red,DP,   DEFEAT   ,53.5k,8,  2 ,  0 ,  0 ,  2 ,  1 ,Draven,Aatrox,Swain,Darius,Ornn
+2018.0,summer,TCL,4,1907 Fenerbahce,Team Aurora,1.0,37:40,OK,blue,FB,   VICTORY   ,72.3k,23,  8 ,  1 ,  1 ,  3 ,  1 ,Braum,Shen,Swain,Ekko,Camille
+2018.0,summer,TCL,4,1907 Fenerbahce,Team Aurora,1.0,37:40,OK,red,AUR,   DEFEAT   ,60.2k,13,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Aatrox,Nocturne,Heimerdinger,Vladimir
+2018.0,summer,TCL,4,YouthCrew,1907 Fenerbahce,1.0,47:10,OK,blue,YC,   VICTORY   ,87.2k,19,  8 ,  1 ,  2 ,  3 ,  1 ,Taliyah,Zoe,Aatrox,Soraka,AurelionSol
+2018.0,summer,TCL,4,YouthCrew,1907 Fenerbahce,1.0,47:10,OK,red,FB,   DEFEAT   ,82.0k,10,  8 ,  1 ,  1 ,  3 ,  0 ,Rakan,Nocturne,Swain,Ashe,Yasuo
+2018.0,summer,TCL,4,HWA Gaming,Team Aurora,1.0,32:31,OK,blue,HWA,   VICTORY   ,61.1k,12,  9 ,  1 ,  1 ,  1 ,  0 ,Camille,Braum,Taliyah,Ekko,Alistar
+2018.0,summer,TCL,4,HWA Gaming,Team Aurora,1.0,32:31,OK,red,AUR,   DEFEAT   ,52.2k,6,  6 ,  0 ,  0 ,  3 ,  1 ,Zoe,Aatrox,Nocturne,Rakan,Ezreal
+2018.0,summer,TCL,4,Royal Bandits,Bursaspor,1.0,27:38,OK,blue,RB,   VICTORY   ,59.2k,15,  11 ,  2 ,  1 ,  2 ,  1 ,Yasuo,Nocturne,Vladimir,DrMundo,Camille
+2018.0,summer,TCL,4,Royal Bandits,Bursaspor,1.0,27:38,OK,red,BUR,   DEFEAT   ,40.6k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Graves,Zoe,Aatrox,Darius,Fiora
+2018.0,summer,TCL,4,Dark Passage,Papara SuperMassive,1.0,26:33,OK,blue,SUP,   VICTORY   ,57.4k,24,  11 ,  3 ,  1 ,  2 ,  1 ,Swain,DrMundo,Heimerdinger,Galio,Yasuo
+2018.0,summer,TCL,4,Dark Passage,Papara SuperMassive,1.0,26:33,OK,red,DP,   DEFEAT   ,43.8k,11,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Rakan,Caitlyn,Zoe,Morgana
+2018.0,summer,TCL,5,Team Aurora,Dark Passage,1.0,28:51,OK,blue,DP,   VICTORY   ,55.9k,19,  8 ,  1 ,  1 ,  3 ,  1 ,Camille,Braum,DrMundo,Ezreal,Lucian
+2018.0,summer,TCL,5,Team Aurora,Dark Passage,1.0,28:51,OK,red,AUR,   DEFEAT   ,47.8k,12,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Aatrox,Kindred,Heimerdinger,Gnar
+2018.0,summer,TCL,5,YouthCrew,Royal Bandits,1.0,31:24,OK,blue,RB,   VICTORY   ,62.9k,11,  8 ,  1 ,  1 ,  4 ,  1 ,Braum,Nocturne,Morgana,DrMundo,Camille
+2018.0,summer,TCL,5,YouthCrew,Royal Bandits,1.0,31:24,OK,red,YC,   DEFEAT   ,49.0k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Draven,Aatrox,Pyke,Zoe,Galio
+2018.0,summer,TCL,5,Bursaspor,Papara SuperMassive,1.0,26:55,OK,blue,BUR,   DEFEAT   ,41.2k,7,  0 ,  0 ,  0 ,  0 ,  1 ,Vladimir,DrMundo,Swain,Ezreal,Lucian
+2018.0,summer,TCL,5,Bursaspor,Papara SuperMassive,1.0,26:55,OK,red,SUP,   VICTORY   ,57.6k,19,  11 ,  2 ,  1 ,  3 ,  0 ,Taliyah,Nocturne,Aatrox,Nidalee,Sejuani
+2018.0,summer,TCL,5,1907 Fenerbahce,HWA Gaming,1.0,32:12,OK,blue,FB,   VICTORY   ,60.1k,13,  8 ,  1 ,  1 ,  1 ,  1 ,Vladimir,DrMundo,Rakan,Chogath,Ornn
+2018.0,summer,TCL,5,1907 Fenerbahce,HWA Gaming,1.0,32:12,OK,red,HWA,   DEFEAT   ,48.1k,4,  1 ,  0 ,  0 ,  3 ,  0 ,Taliyah,Aatrox,Zoe,Varus,Lucian
+2018.0,summer,TCL,5,Papara SuperMassive,YouthCrew,1.0,34:05,OK,blue,SUP,   VICTORY   ,67.5k,18,  11 ,  3 ,  1 ,  2 ,  0 ,Braum,Morgana,Taliyah,Kaisa,Darius
+2018.0,summer,TCL,5,Papara SuperMassive,YouthCrew,1.0,34:05,OK,red,YC,   DEFEAT   ,60.7k,12,  5 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Ezreal,Nocturne,Leona,Shen
+2018.0,summer,TCL,5,Dark Passage,HWA Gaming,1.0,41:35,OK,blue,DP,   VICTORY   ,78.8k,25,  9 ,  1 ,  2 ,  2 ,  1 ,DrMundo,Vladimir,Rakan,Varus,Braum
+2018.0,summer,TCL,5,Dark Passage,HWA Gaming,1.0,41:35,OK,red,HWA,   DEFEAT   ,67.1k,16,  1 ,  0 ,  0 ,  3 ,  0 ,Taliyah,Ryze,Syndra,Morgana,Alistar
+2018.0,summer,TCL,5,Bursaspor,Team Aurora,1.0,42:54,OK,blue,BUR,   DEFEAT   ,73.4k,9,  5 ,  0 ,  1 ,  3 ,  0 ,Braum,DrMundo,Camille,TahmKench,Morgana
+2018.0,summer,TCL,5,Bursaspor,Team Aurora,1.0,42:54,OK,red,AUR,   VICTORY   ,80.4k,16,  11 ,  2 ,  1 ,  2 ,  1 ,Zoe,Aatrox,Yasuo,Kennen,Gragas
+2018.0,summer,TCL,5,Royal Bandits,1907 Fenerbahce,1.0,24:08,OK,blue,RB,   VICTORY   ,50.5k,21,  8 ,  1 ,  1 ,  2 ,  0 ,Zoe,Nocturne,Gragas,Camille,Sejuani
+2018.0,summer,TCL,5,Royal Bandits,1907 Fenerbahce,1.0,24:08,OK,red,FB,   DEFEAT   ,36.8k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Rakan,Taliyah,Pyke,TahmKench
+2018.0,summer,TCL,5,Team Aurora,YouthCrew,1.0,36:46,OK,blue,YC,   DEFEAT   ,61.6k,15,  2 ,  0 ,  0 ,  0 ,  0 ,Camille,Swain,Braum,DrMundo,Darius
+2018.0,summer,TCL,5,Team Aurora,YouthCrew,1.0,36:46,OK,red,AUR,   VICTORY   ,70.5k,10,  11 ,  3 ,  2 ,  5 ,  1 ,Zoe,Rakan,Nocturne,Caitlyn,Ashe
+2018.0,summer,TCL,5,Dark Passage,1907 Fenerbahce,1.0,32:03,OK,blue,DP,   VICTORY   ,61.5k,17,  10 ,  2 ,  1 ,  3 ,  1 ,Camille,Braum,DrMundo,Gragas,Kaisa
+2018.0,summer,TCL,5,Dark Passage,1907 Fenerbahce,1.0,32:03,OK,red,FB,   DEFEAT   ,48.6k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Swain,Kindred,Morgana,Alistar
+2018.0,summer,TCL,5,Bursaspor,HWA Gaming,1.0,32:53,OK,blue,BUR,   VICTORY   ,62.7k,14,  10 ,  2 ,  1 ,  4 ,  1 ,Vladimir,Rakan,DrMundo,Lucian,Ezreal
+2018.0,summer,TCL,5,Bursaspor,HWA Gaming,1.0,32:53,OK,red,HWA,   DEFEAT   ,51.8k,2,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Nocturne,Ornn,Alistar
+2018.0,summer,TCL,5,Royal Bandits,Papara SuperMassive,1.0,35:54,OK,blue,SUP,   DEFEAT   ,67.5k,15,  8 ,  0 ,  1 ,  2 ,  1 ,Draven,Rakan,Graves,Kindred,Darius
+2018.0,summer,TCL,5,Royal Bandits,Papara SuperMassive,1.0,35:54,OK,red,RB,   VICTORY   ,64.8k,21,  9 ,  3 ,  0 ,  2 ,  0 ,Aatrox,Nocturne,Taliyah,Galio,Vladimir
+2018.0,summer,TCL,5,HWA Gaming,YouthCrew,1.0,37:46,OK,blue,HWA,   DEFEAT   ,61.3k,10,  5 ,  1 ,  0 ,  1 ,  0 ,Taliyah,Swain,Zoe,Darius,Irelia
+2018.0,summer,TCL,5,HWA Gaming,YouthCrew,1.0,37:46,OK,red,YC,   VICTORY   ,74.3k,17,  10 ,  2 ,  2 ,  4 ,  1 ,Aatrox,Nocturne,DrMundo,Cassiopeia,Lucian
+2018.0,summer,TCL,5,Dark Passage,Bursaspor,1.0,23:14,OK,blue,DP,   DEFEAT   ,36.8k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Yasuo,Rakan,Camille,Vladimir,Lucian
+2018.0,summer,TCL,5,Dark Passage,Bursaspor,1.0,23:14,OK,red,BUR,   VICTORY   ,49.7k,20,  8 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Taliyah,Nocturne,Morgana,Alistar
+2018.0,summer,TCL,5,Royal Bandits,Team Aurora,1.0,31:10,OK,blue,RB,   VICTORY   ,61.6k,19,  9 ,  2 ,  0 ,  2 ,  1 ,Braum,Nocturne,Swain,Alistar,Morgana
+2018.0,summer,TCL,5,Royal Bandits,Team Aurora,1.0,31:10,OK,red,AUR,   DEFEAT   ,51.1k,12,  3 ,  0 ,  0 ,  2 ,  0 ,Zoe,Draven,Rakan,Pyke,Soraka
+2018.0,summer,TCL,5,1907 Fenerbahce,Papara SuperMassive,1.0,43:54,OK,blue,FB,   VICTORY   ,81.8k,28,  7 ,  1 ,  1 ,  2 ,  0 ,Vladimir,Rakan,Morgana,Pyke,DrMundo
+2018.0,summer,TCL,5,1907 Fenerbahce,Papara SuperMassive,1.0,43:54,OK,red,SUP,   DEFEAT   ,76.6k,23,  9 ,  3 ,  2 ,  2 ,  1 ,Taliyah,Nocturne,Aatrox,Heimerdinger,Lucian
+2018.0,summer,TCL,6,YouthCrew,Dark Passage,1.0,35:34,OK,blue,YC,   DEFEAT   ,56.2k,2,  2 ,  0 ,  0 ,  1 ,  1 ,Kindred,Taliyah,Morgana,Gnar,Braum
+2018.0,summer,TCL,6,YouthCrew,Dark Passage,1.0,35:34,OK,red,DP,   VICTORY   ,65.3k,8,  10 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Rakan,Varus,Zoe,Ryze
+2018.0,summer,TCL,6,HWA Gaming,Royal Bandits,1.0,31:57,OK,blue,HWA,   DEFEAT   ,48.7k,7,  2 ,  0 ,  0 ,  1 ,  1 ,Zoe,Graves,Swain,Kindred,
+2018.0,summer,TCL,6,HWA Gaming,Royal Bandits,1.0,31:57,OK,red,RB,   VICTORY   ,62.4k,13,  10 ,  2 ,  2 ,  2 ,  0 ,Aatrox,Nocturne,DrMundo,Trundle,Ornn
+2018.0,summer,TCL,6,Team Aurora,Papara SuperMassive,1.0,24:31,OK,blue,AUR,   DEFEAT   ,35.5k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Ezreal,Nocturne,Xayah,Varus
+2018.0,summer,TCL,6,Team Aurora,Papara SuperMassive,1.0,24:31,OK,red,SUP,   VICTORY   ,47.6k,16,  5 ,  0 ,  1 ,  2 ,  1 ,Aatrox,Taliyah,Swain,Morgana,Alistar
+2018.0,summer,TCL,6,Bursaspor,1907 Fenerbahce,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2018.0,summer,TCL,6,Bursaspor,YouthCrew,1.0,36:35,OK,blue,BUR,   DEFEAT   ,54.6k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Rakan,Fiora,DrMundo,Kennen,Morgana
+2018.0,summer,TCL,6,Bursaspor,YouthCrew,1.0,36:35,OK,red,YC,   VICTORY   ,68.3k,13,  9 ,  1 ,  1 ,  5 ,  0 ,Yasuo,Taliyah,Aatrox,Ryze,Cassiopeia
+2018.0,summer,TCL,6,1907 Fenerbahce,Team Aurora,1.0,38:46,OK,blue,FB,   VICTORY   ,71.4k,24,  7 ,  1 ,  1 ,  3 ,  1 ,Kindred,Morgana,Nocturne,Leblanc,DrMundo
+2018.0,summer,TCL,6,1907 Fenerbahce,Team Aurora,1.0,38:46,OK,red,AUR,   DEFEAT   ,65.4k,13,  7 ,  1 ,  0 ,  1 ,  0 ,Zoe,Taliyah,Aatrox,Orianna,AurelionSol
+2018.0,summer,TCL,6,Dark Passage,Royal Bandits,1.0,28:11,OK,blue,DP,   VICTORY   ,53.2k,13,  9 ,  2 ,  1 ,  2 ,  1 ,Draven,Rakan,Graves,Darius,Soraka
+2018.0,summer,TCL,6,Dark Passage,Royal Bandits,1.0,28:11,OK,red,RB,   DEFEAT   ,42.4k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Nocturne,Taliyah,Ezreal,Braum
+2018.0,summer,TCL,6,Papara SuperMassive,HWA Gaming,1.0,37:09,OK,blue,HWA,   DEFEAT   ,58.8k,10,  3 ,  0 ,  0 ,  0 ,  1 ,Kindred,Zoe,Swain,Morgana,Trundle
+2018.0,summer,TCL,6,Papara SuperMassive,HWA Gaming,1.0,37:09,OK,red,SUP,   VICTORY   ,69.3k,16,  11 ,  3 ,  1 ,  3 ,  0 ,Aatrox,Nocturne,Vladimir,Velkoz,Cassiopeia
+2018.0,summer,TCL,6,HWA Gaming,Team Aurora,1.0,40:23,OK,blue,AUR,   DEFEAT   ,68.3k,11,  6 ,  0 ,  2 ,  1 ,  0 ,Zoe,Vladimir,Rakan,Pyke,Alistar
+2018.0,summer,TCL,6,HWA Gaming,Team Aurora,1.0,40:23,OK,red,HWA,   VICTORY   ,74.0k,19,  8 ,  2 ,  0 ,  3 ,  1 ,Taliyah,Nocturne,Aatrox,Camille,Trundle
+2018.0,summer,TCL,6,YouthCrew,1907 Fenerbahce,1.0,31:56,OK,blue,YC,   DEFEAT   ,52.5k,7,  3 ,  0 ,  0 ,  2 ,  0 ,Morgana,Taliyah,Gragas,DrMundo,Ryze
+2018.0,summer,TCL,6,YouthCrew,1907 Fenerbahce,1.0,31:56,OK,red,FB,   VICTORY   ,61.4k,21,  9 ,  2 ,  1 ,  2 ,  1 ,Aatrox,Rakan,Nocturne,TahmKench,Shen
+2018.0,summer,TCL,6,Royal Bandits,Bursaspor,1.0,35:26,OK,blue,RB,   VICTORY   ,68.6k,13,  11 ,  3 ,  1 ,  2 ,  1 ,Yasuo,Nocturne,Kindred,Leblanc,Morgana
+2018.0,summer,TCL,6,Royal Bandits,Bursaspor,1.0,35:26,OK,red,BUR,   DEFEAT   ,56.8k,7,  1 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Rakan,Taliyah,Lucian,Alistar
+2018.0,summer,TCL,6,Dark Passage,Papara SuperMassive,1.0,43:43,OK,blue,DP,   VICTORY   ,83.4k,24,  11 ,  3 ,  2 ,  3 ,  1 ,Rakan,Rumble,Gragas,Alistar,Varus
+2018.0,summer,TCL,6,Dark Passage,Papara SuperMassive,1.0,43:43,OK,red,SUP,   DEFEAT   ,78.8k,24,  6 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Azir,Nocturne,Morgana,Lucian
+2018.0,summer,TCL,7,Team Aurora,Dark Passage,1.0,30:12,OK,blue,AUR,   DEFEAT   ,47.1k,4,  3 ,  0 ,  0 ,  0 ,  0 ,Kindred,Nocturne,Zoe,Soraka,Fiddlesticks
+2018.0,summer,TCL,7,Team Aurora,Dark Passage,1.0,30:12,OK,red,DP,   VICTORY   ,59.8k,11,  11 ,  3 ,  1 ,  3 ,  1 ,Aatrox,Camille,Orianna,Varus,Velkoz
+2018.0,summer,TCL,7,1907 Fenerbahce,HWA Gaming,1.0,40:24,OK,blue,FB,   VICTORY   ,78.7k,12,  10 ,  3 ,  2 ,  4 ,  1 ,Vladimir,DrMundo,Rakan,Jax,Darius
+2018.0,summer,TCL,7,1907 Fenerbahce,HWA Gaming,1.0,40:24,OK,red,HWA,   DEFEAT   ,60.9k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Aatrox,Nocturne,Ryze,Rumble
+2018.0,summer,TCL,7,Bursaspor,Papara SuperMassive,1.0,26:04,OK,blue,BUR,   VICTORY   ,50.6k,13,  8 ,  1 ,  1 ,  2 ,  1 ,Rakan,Rumble,Gragas,Morgana,Thresh
+2018.0,summer,TCL,7,Bursaspor,Papara SuperMassive,1.0,26:04,OK,red,SUP,   DEFEAT   ,43.2k,6,  6 ,  1 ,  0 ,  1 ,  0 ,Yasuo,Aatrox,Pyke,Orianna,Ryze
+2018.0,summer,TCL,7,YouthCrew,Royal Bandits,1.0,38:20,OK,blue,RB,   VICTORY   ,67.5k,14,  8 ,  1 ,  0 ,  2 ,  0 ,Nocturne,Trundle,Morgana,Rumble,Yasuo
+2018.0,summer,TCL,7,YouthCrew,Royal Bandits,1.0,38:20,OK,red,YC,   DEFEAT   ,74.3k,13,  7 ,  1 ,  2 ,  3 ,  1 ,Aatrox,Draven,Taliyah,Kennen,Poppy
+2018.0,summer,TCL,7,Dark Passage,HWA Gaming,1.0,26:56,OK,blue,DP,   VICTORY   ,51.9k,13,  7 ,  1 ,  1 ,  2 ,  1 ,Vladimir,DrMundo,Morgana,Darius,Velkoz
+2018.0,summer,TCL,7,Dark Passage,HWA Gaming,1.0,26:56,OK,red,HWA,   DEFEAT   ,42.8k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Aatrox,Nocturne,Azir,Zoe
+2018.0,summer,TCL,7,Bursaspor,Team Aurora,1.0,24:10,OK,blue,BUR,   VICTORY   ,53.0k,15,  11 ,  3 ,  1 ,  3 ,  1 ,Camille,Morgana,Nocturne,Ezreal,TahmKench
+2018.0,summer,TCL,7,Bursaspor,Team Aurora,1.0,24:10,OK,red,AUR,   DEFEAT   ,36.9k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Taliyah,Rakan,Swain,Alistar
+2018.0,summer,TCL,7,Papara SuperMassive,YouthCrew,1.0,34:29,OK,blue,YC,   VICTORY   ,64.9k,16,  9 ,  1 ,  1 ,  2 ,  1 ,Rakan,Gragas,Rumble,Cassiopeia,Gnar
+2018.0,summer,TCL,7,Papara SuperMassive,YouthCrew,1.0,34:29,OK,red,SUP,   DEFEAT   ,57.8k,11,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,DrMundo,Kindred,Shen,Braum
+2018.0,summer,TCL,7,Royal Bandits,1907 Fenerbahce,1.0,37:47,OK,blue,RB,   VICTORY   ,68.8k,22,  8 ,  3 ,  0 ,  3 ,  1 ,Nocturne,Kaisa,Kindred,Zoe,Rumble
+2018.0,summer,TCL,7,Royal Bandits,1907 Fenerbahce,1.0,37:47,OK,red,FB,   DEFEAT   ,61.5k,13,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Draven,Taliyah,Darius,Gnar
+2018.0,summer,TCL,7,HWA Gaming,Bursaspor,1.0,32:47,OK,blue,BUR,   DEFEAT   ,54.7k,5,  4 ,  1 ,  1 ,  2 ,  0 ,Vladimir,Rakan,Nocturne,Gragas,Cassiopeia
+2018.0,summer,TCL,7,HWA Gaming,Bursaspor,1.0,32:47,OK,red,HWA,   VICTORY   ,61.6k,7,  10 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Yasuo,Pyke,Draven,Caitlyn
+2018.0,summer,TCL,7,1907 Fenerbahce,Dark Passage,1.0,32:51,OK,blue,FB,   VICTORY   ,61.6k,15,  9 ,  3 ,  1 ,  3 ,  1 ,Kindred,Ryze,Nocturne,Jhin,Caitlyn
+2018.0,summer,TCL,7,1907 Fenerbahce,Dark Passage,1.0,32:51,OK,red,DP,   DEFEAT   ,49.1k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Yasuo,Rakan,Darius,Braum
+2018.0,summer,TCL,7,Papara SuperMassive,Royal Bandits,1.0,31:42,OK,blue,SUP,   DEFEAT   ,50.2k,10,  4 ,  0 ,  0 ,  1 ,  0 ,Draven,Graves,DrMundo,Darius,Ryze
+2018.0,summer,TCL,7,Papara SuperMassive,Royal Bandits,1.0,31:42,OK,red,RB,   VICTORY   ,58.8k,20,  9 ,  2 ,  1 ,  3 ,  1 ,Aatrox,Nocturne,Trundle,Rumble,Gnar
+2018.0,summer,TCL,7,YouthCrew,Team Aurora,1.0,39:53,OK,blue,AUR,   DEFEAT   ,64.0k,11,  4 ,  0 ,  1 ,  1 ,  0 ,Zoe,Nocturne,Morgana,Alistar,Braum
+2018.0,summer,TCL,7,YouthCrew,Team Aurora,1.0,39:53,OK,red,YC,   VICTORY   ,80.7k,24,  10 ,  2 ,  2 ,  5 ,  1 ,Aatrox,Taliyah,Orianna,Gnar,DrMundo
+2018.0,summer,TCL,8,YouthCrew,HWA Gaming,1.0,28:27,OK,blue,HWA,   VICTORY   ,51.8k,11,  8 ,  1 ,  1 ,  2 ,  1 ,Kindred,Irelia,Rakan,Xayah,Jhin
+2018.0,summer,TCL,8,YouthCrew,HWA Gaming,1.0,28:27,OK,red,YC,   DEFEAT   ,45.4k,7,  2 ,  0 ,  0 ,  1 ,  0 ,DrMundo,Aatrox,Nocturne,Cassiopeia,Velkoz
+2018.0,summer,TCL,8,Bursaspor,Dark Passage,1.0,28:33,OK,blue,BUR,   DEFEAT   ,43.4k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Lucian,Morgana,Gnar,Ezreal,Jhin
+2018.0,summer,TCL,8,Bursaspor,Dark Passage,1.0,28:33,OK,red,DP,   VICTORY   ,56.2k,9,  11 ,  3 ,  1 ,  3 ,  1 ,Pyke,Yasuo,Taliyah,Cassiopeia,Zoe
+2018.0,summer,TCL,8,Team Aurora,Royal Bandits,1.0,36:42,OK,blue,AUR,   DEFEAT   ,59.0k,11,  3 ,  0 ,  0 ,  0 ,  1 ,Draven,Graves,Kindred,Leblanc,Yasuo
+2018.0,summer,TCL,8,Team Aurora,Royal Bandits,1.0,36:42,OK,red,RB,   VICTORY   ,73.1k,20,  11 ,  3 ,  2 ,  4 ,  0 ,Aatrox,Taliyah,Nocturne,Morgana,Braum
+2018.0,summer,TCL,8,Papara SuperMassive,1907 Fenerbahce,1.0,30:33,OK,blue,SUP,   VICTORY   ,60.1k,18,  11 ,  3 ,  1 ,  2 ,  1 ,Kindred,Taliyah,Ryze,Yasuo,Malzahar
+2018.0,summer,TCL,8,Papara SuperMassive,1907 Fenerbahce,1.0,30:33,OK,red,FB,   DEFEAT   ,44.6k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Vladimir,Rakan,Gnar,Morgana
+2018.0,summer,TCL,8,Royal Bandits,HWA Gaming,1.0,27:14,OK,blue,RB,   VICTORY   ,54.7k,14,  10 ,  1 ,  1 ,  0 ,  1 ,Nocturne,DrMundo,Morgana,Chogath,Zoe
+2018.0,summer,TCL,8,Royal Bandits,HWA Gaming,1.0,27:14,OK,red,HWA,   DEFEAT   ,39.5k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Draven,Rakan,Irelia,Camille
+2018.0,summer,TCL,8,Papara SuperMassive,Team Aurora,1.0,37:18,OK,blue,SUP,   VICTORY   ,68.3k,18,  7 ,  1 ,  1 ,  3 ,  1 ,Kindred,Taliyah,Ryze,Zoe,Darius
+2018.0,summer,TCL,8,Papara SuperMassive,Team Aurora,1.0,37:18,OK,red,AUR,   DEFEAT   ,63.3k,10,  5 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Akali,Nocturne,Leblanc,Vladimir
+2018.0,summer,TCL,8,1907 Fenerbahce,Bursaspor,1.0,32:24,OK,blue,FB,   VICTORY   ,64.2k,16,  11 ,  3 ,  1 ,  2 ,  1 ,Yasuo,Kindred,Rakan,Malzahar,Galio
+2018.0,summer,TCL,8,1907 Fenerbahce,Bursaspor,1.0,32:24,OK,red,BUR,   DEFEAT   ,47.4k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Nocturne,Lucian,Pyke,Morgana
+2018.0,summer,TCL,8,Dark Passage,YouthCrew,1.0,29:15,OK,blue,DP,   VICTORY   ,54.0k,8,  8 ,  1 ,  1 ,  0 ,  1 ,Akali,Darius,Morgana,Kennen,Camille
+2018.0,summer,TCL,8,Dark Passage,YouthCrew,1.0,29:15,OK,red,YC,   DEFEAT   ,46.2k,5,  3 ,  0 ,  0 ,  4 ,  0 ,Aatrox,Nocturne,Ryze,Azir,Syndra
+2018.0,summer,TCL,8,YouthCrew,Bursaspor,1.0,32:26,OK,blue,YC,   DEFEAT   ,54.1k,12,  3 ,  0 ,  0 ,  1 ,  1 ,Yasuo,DrMundo,Morgana,TahmKench,Alistar
+2018.0,summer,TCL,8,YouthCrew,Bursaspor,1.0,32:26,OK,red,BUR,   VICTORY   ,65.8k,20,  11 ,  3 ,  1 ,  3 ,  0 ,Nocturne,Aatrox,Rakan,Cassiopeia,Zoe
+2018.0,summer,TCL,8,Team Aurora,1907 Fenerbahce,1.0,29:57,OK,blue,AUR,   VICTORY   ,57.5k,20,  9 ,  1 ,  1 ,  1 ,  1 ,Akali,Trundle,Kindred,Galio,Velkoz
+2018.0,summer,TCL,8,Team Aurora,1907 Fenerbahce,1.0,29:57,OK,red,FB,   DEFEAT   ,43.1k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Nocturne,Aatrox,Poppy,Zilean
+2018.0,summer,TCL,8,Royal Bandits,Dark Passage,1.0,42:36,OK,blue,RB,   DEFEAT   ,75.7k,22,  4 ,  0 ,  0 ,  1 ,  0 ,Nocturne,Azir,Morgana,Kaisa,Ezreal
+2018.0,summer,TCL,8,Royal Bandits,Dark Passage,1.0,42:36,OK,red,DP,   VICTORY   ,83.1k,24,  10 ,  1 ,  2 ,  3 ,  1 ,Aatrox,Draven,Rakan,Lucian,Akali
+2018.0,summer,TCL,8,HWA Gaming,Papara SuperMassive,1.0,41:32,OK,blue,SUP,   DEFEAT   ,73.3k,15,  6 ,  1 ,  0 ,  4 ,  1 ,Kindred,Taliyah,Morgana,Galio,Darius
+2018.0,summer,TCL,8,HWA Gaming,Papara SuperMassive,1.0,41:32,OK,red,HWA,   VICTORY   ,77.0k,11,  10 ,  2 ,  2 ,  1 ,  0 ,Aatrox,Nocturne,Trundle,Skarner,Chogath
+2018.0,summer,TCL,9,Bursaspor,Royal Bandits,1.0,30:59,OK,blue,BUR,   DEFEAT   ,46.3k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Graves,Draven,Taliyah,Ezreal,Lucian
+2018.0,summer,TCL,9,Bursaspor,Royal Bandits,1.0,30:59,OK,red,RB,   VICTORY   ,62.4k,18,  8 ,  1 ,  1 ,  4 ,  1 ,Yasuo,Nocturne,Ryze,Leblanc,Galio
+2018.0,summer,TCL,9,Team Aurora,HWA Gaming,1.0,52:00,OK,blue,AUR,   DEFEAT   ,82.4k,7,  4 ,  0 ,  1 ,  3 ,  1 ,Trundle,Akali,TahmKench,Gnar,Camille
+2018.0,summer,TCL,9,Team Aurora,HWA Gaming,1.0,52:00,OK,red,HWA,   VICTORY   ,93.7k,16,  11 ,  4 ,  2 ,  3 ,  0 ,Taliyah,Aatrox,Nocturne,Ornn,DrMundo
+2018.0,summer,TCL,9,1907 Fenerbahce,YouthCrew,1.0,32:32,OK,blue,FB,   VICTORY   ,63.6k,14,  9 ,  2 ,  1 ,  1 ,  1 ,TahmKench,Morgana,Taliyah,Trundle,Galio
+2018.0,summer,TCL,9,1907 Fenerbahce,YouthCrew,1.0,32:32,OK,red,YC,   DEFEAT   ,51.7k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Nocturne,Rakan,Darius,Gnar
+2018.0,summer,TCL,9,Papara SuperMassive,Dark Passage,1.0,31:49,OK,blue,SUP,   VICTORY   ,65.7k,18,  11 ,  3 ,  1 ,  2 ,  1 ,Ryze,Kindred,Morgana,Cassiopeia,DrMundo
+2018.0,summer,TCL,9,Papara SuperMassive,Dark Passage,1.0,31:49,OK,red,DP,   DEFEAT   ,51.0k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Akali,Rakan,Gragas,Jhin,Varus
+2018.0,summer,TCL,9,Dark Passage,Team Aurora,1.0,31:35,OK,blue,DP,   VICTORY   ,64.1k,23,  9 ,  2 ,  1 ,  3 ,  0 ,Akali,Braum,Skarner,Zilean,Darius
+2018.0,summer,TCL,9,Dark Passage,Team Aurora,1.0,31:35,OK,red,AUR,   DEFEAT   ,50.6k,14,  1 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Kindred,Ryze,Azir,Irelia
+2018.0,summer,TCL,9,Royal Bandits,YouthCrew,1.0,27:32,OK,blue,RB,   VICTORY   ,55.8k,17,  9 ,  3 ,  1 ,  3 ,  1 ,Nocturne,Kindred,Galio,Braum,Alistar
+2018.0,summer,TCL,9,Royal Bandits,YouthCrew,1.0,27:32,OK,red,YC,   DEFEAT   ,45.1k,5,  4 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Rakan,Taliyah,Morgana,Pyke
+2018.0,summer,TCL,9,Papara SuperMassive,Bursaspor,1.0,29:17,OK,blue,SUP,   VICTORY   ,61.7k,23,  10 ,  2 ,  1 ,  2 ,  0 ,Yasuo,Kindred,Ryze,DrMundo,Pyke
+2018.0,summer,TCL,9,Papara SuperMassive,Bursaspor,1.0,29:17,OK,red,BUR,   DEFEAT   ,49.2k,11,  3 ,  0 ,  0 ,  0 ,  1 ,Nocturne,Rakan,Akali,Morgana,TahmKench
+2018.0,summer,TCL,9,HWA Gaming,1907 Fenerbahce,1.0,29:34,OK,blue,HWA,   DEFEAT   ,49.0k,14,  4 ,  0 ,  0 ,  1 ,  1 ,Camille,Leblanc,Rakan,Galio,Orianna
+2018.0,summer,TCL,9,HWA Gaming,1907 Fenerbahce,1.0,29:34,OK,red,FB,   VICTORY   ,52.2k,12,  6 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Taliyah,Nocturne,Sejuani,Trundle
+2018.0,summer,TCL,9,Team Aurora,Bursaspor,1.0,30:09,OK,blue,AUR,   VICTORY   ,65.4k,35,  10 ,  2 ,  1 ,  1 ,  1 ,Akali,Rengar,Yasuo,Taliyah,Renekton
+2018.0,summer,TCL,9,Team Aurora,Bursaspor,1.0,30:09,OK,red,BUR,   DEFEAT   ,54.6k,37,  0 ,  0 ,  0 ,  1 ,  0 ,Nocturne,Aatrox,Rakan,Galio,Irelia
+2018.0,summer,TCL,9,1907 Fenerbahce,Royal Bandits,1.0,41:34,OK,blue,FB,   DEFEAT   ,82.6k,48,  8 ,  1 ,  2 ,  2 ,  0 ,Rakan,Akali,Riven,Alistar,Ornn
+2018.0,summer,TCL,9,1907 Fenerbahce,Royal Bandits,1.0,41:34,OK,red,RB,   VICTORY   ,87.7k,46,  10 ,  2 ,  1 ,  3 ,  1 ,Ryze,Ezreal,Sona,Olaf,Lissandra
+2018.0,summer,TCL,9,YouthCrew,Papara SuperMassive,1.0,33:10,OK,blue,YC,   DEFEAT   ,58.1k,37,  1 ,  0 ,  0 ,  0 ,  0 ,Morgana,Aatrox,DrMundo,Vayne,Zoe
+2018.0,summer,TCL,9,YouthCrew,Papara SuperMassive,1.0,33:10,OK,red,SUP,   VICTORY   ,72.4k,56,  8 ,  2 ,  1 ,  3 ,  0 ,Akali,Irelia,Yasuo,Varus,Lucian
+2018.0,summer,TCL,9,HWA Gaming,Dark Passage,1.0,29:12,OK,blue,HWA,   VICTORY   ,61.8k,25,  10 ,  2 ,  1 ,  2 ,  1 ,Ryze,Graves,Gragas,Morgana,Karma
+2018.0,summer,TCL,9,HWA Gaming,Dark Passage,1.0,29:12,OK,red,DP,   DEFEAT   ,46.1k,12,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Rakan,Akali,Velkoz,Zoe

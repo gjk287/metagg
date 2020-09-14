@@ -1,0 +1,91 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,BRCC,1,RED Canids,Vivo Keyd,1.0,33:00,OK,blue,RED,   VITÓRIA   ,66.5 mil,22,  10 ,  1 ,  1 ,  4 ,  0 ,Akali,Olaf,Sejuani,Sivir,Kaisa
+2019.0,summer,BRCC,1,RED Canids,Vivo Keyd,1.0,33:00,OK,red,VK,   DERROTA   ,54.7 mil,12,  1 ,  0 ,  0 ,  0 ,  1 ,Irelia,Aatrox,Elise,Camille,Lucian
+2019.0,summer,BRCC,1,Havan Liberty Gaming,Rensga eSports,1.0,35:30,OK,blue,HL,   VITÓRIA   ,66.5 mil,18,  8 ,  1 ,  1 ,  2 ,  0 ,Twitch,Yuumi,Irelia,Nautilus,Renekton
+2019.0,summer,BRCC,1,Havan Liberty Gaming,Rensga eSports,1.0,35:30,OK,red,RNS,   DERROTA   ,62.3 mil,13,  4 ,  0 ,  1 ,  4 ,  1 ,Aatrox,Ezreal,Azir,Akali,JarvanIV
+2019.0,summer,BRCC,1,ProGaming Esports,Falkol,1.0,28:33,OK,blue,PRG,   VITÓRIA   ,56.6 mil,16,  10 ,  2 ,  1 ,  2 ,  1 ,Olaf,Sejuani,Irelia,Elise,JarvanIV
+2019.0,summer,BRCC,1,ProGaming Esports,Falkol,1.0,28:33,OK,red,FKL,   DERROTA   ,42.3 mil,3,  1 ,  0 ,  0 ,  1 ,  0 ,Jayce,Sylas,Yuumi,Morgana,Lux
+2019.0,summer,BRCC,1,Rensga eSports,RED Canids,1.0,25:43,OK,blue,RNS,   DERROTA   ,40.6 mil,8,  1 ,  0 ,  0 ,  2 ,  1 ,Sejuani,Yuumi,Ezreal,Neeko,JarvanIV
+2019.0,summer,BRCC,1,Rensga eSports,RED Canids,1.0,25:43,OK,red,RED,   VITÓRIA   ,51.7 mil,15,  10 ,  2 ,  1 ,  2 ,  0 ,Aatrox,Irelia,Olaf,Nautilus,Galio
+2019.0,summer,BRCC,1,Falkol,Vivo Keyd,1.0,36:33,OK,blue,FKL,   DERROTA   ,59.2 mil,10,  3 ,  0 ,  0 ,  2 ,  1 ,Akali,Jayce,Sejuani,JarvanIV,Olaf
+2019.0,summer,BRCC,1,Falkol,Vivo Keyd,1.0,36:33,OK,red,VK,   VITÓRIA   ,67.5 mil,9,  9 ,  2 ,  1 ,  2 ,  0 ,Aatrox,Ryze,Sylas,Rakan,Alistar
+2019.0,summer,BRCC,1,ProGaming Esports,Havan Liberty Gaming,1.0,31:48,OK,blue,PRG,   VITÓRIA   ,63.8 mil,21,  10 ,  3 ,  2 ,  3 ,  1 ,Xayah,Sejuani,Irelia,RekSai,Hecarim
+2019.0,summer,BRCC,1,ProGaming Esports,Havan Liberty Gaming,1.0,31:48,OK,red,HL,   DERROTA   ,53.6 mil,11,  4 ,  1 ,  0 ,  2 ,  0 ,Aatrox,Olaf,Alistar,MissFortune,Neeko
+2019.0,summer,BRCC,2,Rensga eSports,ProGaming Esports,1.0,24:05,OK,blue,RNS,   DERROTA   ,33.2 mil,1,  0 ,  0 ,  0 ,  2 ,  1 ,Sejuani,Jayce,Yuumi,Sona,Rakan
+2019.0,summer,BRCC,2,Rensga eSports,ProGaming Esports,1.0,24:05,OK,red,PRG,   VITÓRIA   ,49.5 mil,14,  10 ,  1 ,  1 ,  1 ,  0 ,Aatrox,Pyke,Olaf,Lucian,Thresh
+2019.0,summer,BRCC,2,RED Canids,Falkol,1.0,29:34,OK,blue,RED,   VITÓRIA   ,57.6 mil,7,  11 ,  3 ,  2 ,  4 ,  0 ,Irelia,Sejuani,Sona,Kennen,Ryze
+2019.0,summer,BRCC,2,RED Canids,Falkol,1.0,29:34,OK,red,FKL,   DERROTA   ,44.0 mil,1,  1 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Yuumi,Velkoz,Jayce,LeeSin
+2019.0,summer,BRCC,2,Vivo Keyd,Havan Liberty Gaming,1.0,38:33,OK,blue,VK,   VITÓRIA   ,72.7 mil,20,  11 ,  2 ,  1 ,  2 ,  1 ,Ryze,Sylas,Sivir,RekSai,Gragas
+2019.0,summer,BRCC,2,Vivo Keyd,Havan Liberty Gaming,1.0,38:33,OK,red,HL,   DERROTA   ,65.2 mil,13,  5 ,  0 ,  1 ,  3 ,  0 ,Aatrox,Yuumi,Sejuani,Olaf,Neeko
+2019.0,summer,BRCC,2,Falkol,Rensga eSports,1.0,38:39,OK,blue,FKL,   VITÓRIA   ,69.1 mil,15,  9 ,  1 ,  1 ,  2 ,  0 ,Ryze,Irelia,JarvanIV,Leblanc,Gragas
+2019.0,summer,BRCC,2,Falkol,Rensga eSports,1.0,38:39,OK,red,RNS,   DERROTA   ,59.1 mil,6,  6 ,  0 ,  1 ,  4 ,  1 ,Aatrox,Sejuani,RekSai,Sylas,Ahri
+2019.0,summer,BRCC,2,ProGaming Esports,Vivo Keyd,1.0,28:18,OK,blue,PRG,   DERROTA   ,44.6 mil,3,  2 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Sejuani,Irelia,Cassiopeia,Yasuo
+2019.0,summer,BRCC,2,ProGaming Esports,Vivo Keyd,1.0,28:18,OK,red,VK,   VITÓRIA   ,55.4 mil,17,  8 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Yuumi,Sylas,TahmKench,Xayah
+2019.0,summer,BRCC,2,Havan Liberty Gaming,RED Canids,1.0,37:31,OK,blue,HL,   DERROTA   ,67.6 mil,20,  6 ,  0 ,  1 ,  1 ,  1 ,Sona,Yuumi,Xayah,Ezreal,Kennen
+2019.0,summer,BRCC,2,Havan Liberty Gaming,RED Canids,1.0,37:31,OK,red,RED,   VITÓRIA   ,71.6 mil,25,  8 ,  1 ,  1 ,  4 ,  0 ,Ryze,Sejuani,Aatrox,Neeko,Nautilus
+2019.0,summer,BRCC,3,RED Canids,ProGaming Esports,1.0,29:56,OK,blue,RED,   VITÓRIA   ,64.7 mil,30,  11 ,  3 ,  2 ,  1 ,  0 ,Irelia,Sona,Sejuani,Sivir,Alistar
+2019.0,summer,BRCC,3,RED Canids,ProGaming Esports,1.0,29:56,OK,red,PRG,   DERROTA   ,50.8 mil,11,  3 ,  0 ,  0 ,  2 ,  1 ,Karthus,Karma,Aatrox,Ezreal,Lucian
+2019.0,summer,BRCC,3,Havan Liberty Gaming,Falkol,1.0,36:33,OK,blue,HL,   VITÓRIA   ,69.0 mil,17,  11 ,  3 ,  1 ,  3 ,  1 ,Neeko,Yuumi,Karma,Leblanc,Syndra
+2019.0,summer,BRCC,3,Havan Liberty Gaming,Falkol,1.0,36:33,OK,red,FKL,   DERROTA   ,61.3 mil,10,  3 ,  0 ,  1 ,  2 ,  0 ,Aatrox,Sejuani,Jayce,Irelia,
+2019.0,summer,BRCC,3,Vivo Keyd,Rensga eSports,1.0,19:30,OK,blue,VK,   VITÓRIA   ,42.2 mil,16,  10 ,  2 ,  0 ,  2 ,  1 ,Renekton,Pyke,Karma,Xayah,Kennen
+2019.0,summer,BRCC,3,Vivo Keyd,Rensga eSports,1.0,19:30,OK,red,RNS,   DERROTA   ,27.1 mil,3,  1 ,  0 ,  0 ,  0 ,  0 ,Sivir,Sejuani,TahmKench,Leblanc,RekSai
+2019.0,summer,BRCC,3,Falkol,ProGaming Esports,1.0,27:26,OK,blue,FKL,   DERROTA   ,41.4 mil,2,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Sejuani,Yasuo,,
+2019.0,summer,BRCC,3,Falkol,ProGaming Esports,1.0,27:26,OK,red,PRG,   VITÓRIA   ,53.3 mil,10,  9 ,  1 ,  1 ,  4 ,  1 ,Karma,Aatrox,Azir,Rumble,Jayce
+2019.0,summer,BRCC,3,Vivo Keyd,RED Canids,1.0,26:51,OK,blue,VK,   VITÓRIA   ,54.3 mil,13,  9 ,  2 ,  1 ,  4 ,  1 ,Renekton,JarvanIV,Karma,LeeSin,Hecarim
+2019.0,summer,BRCC,3,Vivo Keyd,RED Canids,1.0,26:51,OK,red,RED,   DERROTA   ,44.5 mil,7,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Sejuani,Yuumi,Leblanc,Camille
+2019.0,summer,BRCC,3,Rensga eSports,Havan Liberty Gaming,1.0,26:00,OK,blue,RNS,   DERROTA   ,36.8 mil,4,  0 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Yuumi,Olaf,Xayah,Rakan
+2019.0,summer,BRCC,3,Rensga eSports,Havan Liberty Gaming,1.0,26:00,OK,red,HL,   VITÓRIA   ,52.1 mil,17,  8 ,  1 ,  1 ,  3 ,  1 ,Karma,Sona,Irelia,Leblanc,Akali
+2019.0,summer,BRCC,4,Vivo Keyd,Falkol,1.0,27:26,OK,blue,VK,   VITÓRIA   ,54.0 mil,22,  7 ,  1 ,  1 ,  3 ,  1 ,,,,,
+2019.0,summer,BRCC,4,Vivo Keyd,Falkol,1.0,27:26,OK,red,FKL,   DERROTA   ,44.5 mil,10,  2 ,  0 ,  0 ,  0 ,  0 ,,,,,
+2019.0,summer,BRCC,4,Havan Liberty Gaming,ProGaming Esports,1.0,24:17,OK,blue,HL,   DERROTA   ,40.0 mil,8,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Yasuo,Yuumi,Lux,Leblanc
+2019.0,summer,BRCC,4,Havan Liberty Gaming,ProGaming Esports,1.0,24:17,OK,red,PRG,   VITÓRIA   ,49.3 mil,17,  9 ,  1 ,  1 ,  3 ,  1 ,Sona,Karma,Camille,Gangplank,Azir
+2019.0,summer,BRCC,4,RED Canids,Rensga eSports,1.0,31:43,OK,blue,RED,   VITÓRIA   ,59.0 mil,13,  11 ,  3 ,  1 ,  2 ,  1 ,Irelia,Yasuo,Aatrox,Ezreal,Xayah
+2019.0,summer,BRCC,4,RED Canids,Rensga eSports,1.0,31:43,OK,red,RNS,   DERROTA   ,49.6 mil,9,  1 ,  0 ,  0 ,  1 ,  0 ,Yuumi,Karma,Neeko,Camille,Caitlyn
+2019.0,summer,BRCC,4,Havan Liberty Gaming,Vivo Keyd,1.0,30:02,OK,blue,HL,   DERROTA   ,51.5 mil,12,  6 ,  1 ,  0 ,  2 ,  1 ,Irelia,Sivir,Yuumi,Caitlyn,Camille
+2019.0,summer,BRCC,4,Havan Liberty Gaming,Vivo Keyd,1.0,30:02,OK,red,VK,   VITÓRIA   ,58.2 mil,21,  8 ,  1 ,  1 ,  2 ,  0 ,Karma,Renekton,Neeko,TwistedFate,Yasuo
+2019.0,summer,BRCC,4,ProGaming Esports,Rensga eSports,1.0,23:44,OK,blue,PRG,   VITÓRIA   ,48.6 mil,15,  8 ,  1 ,  1 ,  2 ,  0 ,Pyke,Gragas,Zoe,Lucian,Kalista
+2019.0,summer,BRCC,4,ProGaming Esports,Rensga eSports,1.0,23:44,OK,red,RNS,   DERROTA   ,34.2 mil,4,  2 ,  0 ,  0 ,  1 ,  1 ,Neeko,Karma,Yuumi,Sivir,Aatrox
+2019.0,summer,BRCC,4,Falkol,RED Canids,1.0,31:37,OK,blue,FKL,   DERROTA   ,50.7 mil,11,  0 ,  0 ,  0 ,  0 ,  0 ,Sona,Karma,Draven,Karthus,Gragas
+2019.0,summer,BRCC,4,Falkol,RED Canids,1.0,31:37,OK,red,RED,   VITÓRIA   ,57.8 mil,10,  11 ,  3 ,  1 ,  4 ,  1 ,Sejuani,Aatrox,Yuumi,Sivir,Renekton
+2019.0,summer,BRCC,5,RED Canids,Havan Liberty Gaming,1.0,28:17,OK,blue,RED,   VITÓRIA   ,56.8 mil,19,  10 ,  2 ,  1 ,  3 ,  0 ,Azir,Sejuani,TahmKench,Sona,Sivir
+2019.0,summer,BRCC,5,RED Canids,Havan Liberty Gaming,1.0,28:17,OK,red,HL,   DERROTA   ,44.4 mil,8,  2 ,  0 ,  0 ,  1 ,  1 ,Karma,Yuumi,Lux,Xayah,Ezreal
+2019.0,summer,BRCC,5,Rensga eSports,Falkol,1.0,34:23,OK,blue,RNS,   DERROTA   ,54.5 mil,2,  3 ,  0 ,  0 ,  0 ,  1 ,Syndra,Sivir,Lux,Lucian,Ezreal
+2019.0,summer,BRCC,5,Rensga eSports,Falkol,1.0,34:23,OK,red,FKL,   VITÓRIA   ,66.2 mil,8,  10 ,  2 ,  2 ,  4 ,  0 ,Sejuani,Karma,Yuumi,Varus,Ashe
+2019.0,summer,BRCC,5,Vivo Keyd,ProGaming Esports,1.0,32:14,OK,blue,VK,   DERROTA   ,51.4 mil,5,  1 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Olaf,Camille,Leblanc,Syndra
+2019.0,summer,BRCC,5,Vivo Keyd,ProGaming Esports,1.0,32:14,OK,red,PRG,   VITÓRIA   ,63.7 mil,13,  11 ,  4 ,  2 ,  4 ,  1 ,Yuumi,Sejuani,Irelia,Akali,Sylas
+2019.0,summer,BRCC,5,Falkol,Havan Liberty Gaming,1.0,32:42,OK,blue,FKL,   DERROTA   ,54.0 mil,11,  0 ,  0 ,  0 ,  0 ,  0 ,Olaf,Lux,Camille,Varus,Ashe
+2019.0,summer,BRCC,5,Falkol,Havan Liberty Gaming,1.0,32:42,OK,red,HL,   VITÓRIA   ,63.9 mil,15,  10 ,  2 ,  2 ,  3 ,  1 ,Karma,Yuumi,Sejuani,Hecarim,RekSai
+2019.0,summer,BRCC,5,Rensga eSports,Vivo Keyd,1.0,27:14,OK,blue,RNS,   DERROTA   ,40.7 mil,5,  3 ,  0 ,  0 ,  1 ,  0 ,Neeko,Aatrox,Sylas,Irelia,Camille
+2019.0,summer,BRCC,5,Rensga eSports,Vivo Keyd,1.0,27:14,OK,red,VK,   VITÓRIA   ,48.5 mil,14,  8 ,  2 ,  1 ,  2 ,  1 ,Karma,Corki,Yuumi,Leblanc,Renekton
+2019.0,summer,BRCC,5,ProGaming Esports,RED Canids,1.0,40:06,OK,blue,PRG,   DERROTA   ,65.5 mil,9,  4 ,  0 ,  0 ,  4 ,  1 ,Karma,Yuumi,Renekton,Sivir,Lucian
+2019.0,summer,BRCC,5,ProGaming Esports,RED Canids,1.0,40:06,OK,red,RED,   VITÓRIA   ,76.8 mil,22,  9 ,  1 ,  1 ,  1 ,  0 ,Sejuani,TahmKench,Aatrox,Ziggs,Ashe
+2019.0,summer,BRCC,6,ProGaming Esports,Falkol,1.0,36:03,OK,blue,FKL,   VITÓRIA   ,61.8 mil,9,  8 ,  1 ,  1 ,  4 ,  1 ,Neeko,Gragas,Ziggs,Renekton,Irelia
+2019.0,summer,BRCC,6,ProGaming Esports,Falkol,1.0,36:03,OK,red,PRG,   DERROTA   ,55.0 mil,4,  4 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Karma,Azir,Lucian,Caitlyn
+2019.0,summer,BRCC,6,Rensga eSports,Havan Liberty Gaming,1.0,39:14,OK,blue,HL,   VITÓRIA   ,74.6 mil,17,  11 ,  5 ,  2 ,  3 ,  1 ,Zoe,Yuumi,Mordekaiser,Ashe,Lux
+2019.0,summer,BRCC,6,Rensga eSports,Havan Liberty Gaming,1.0,39:14,OK,red,RNS,   DERROTA   ,64.7 mil,11,  2 ,  0 ,  0 ,  2 ,  0 ,Jayce,Karma,Sejuani,Ezreal,Lucian
+2019.0,summer,BRCC,6,RED Canids,Vivo Keyd,1.0,44:03,OK,blue,VK,   VITÓRIA   ,84.0 mil,33,  9 ,  2 ,  1 ,  4 ,  0 ,Leblanc,Ezreal,Gangplank,Yasuo,KogMaw
+2019.0,summer,BRCC,6,RED Canids,Vivo Keyd,1.0,44:03,OK,red,RED,   DERROTA   ,78.8 mil,23,  3 ,  0 ,  1 ,  2 ,  1 ,Aatrox,Sejuani,Irelia,Sivir,Zoe
+2019.0,summer,BRCC,6,ProGaming Esports,Havan Liberty Gaming,1.0,36:36,OK,blue,PRG,   VITÓRIA   ,66.8 mil,18,  10 ,  2 ,  0 ,  2 ,  1 ,Sejuani,Irelia,Mordekaiser,Renekton,Olaf
+2019.0,summer,BRCC,6,ProGaming Esports,Havan Liberty Gaming,1.0,36:36,OK,red,HL,   DERROTA   ,60.1 mil,13,  3 ,  0 ,  1 ,  3 ,  0 ,Aatrox,Gragas,TahmKench,JarvanIV,Trundle
+2019.0,summer,BRCC,6,Rensga eSports,RED Canids,1.0,29:36,OK,blue,RED,   VITÓRIA   ,56.8 mil,25,  7 ,  2 ,  1 ,  3 ,  0 ,Mordekaiser,Sejuani,Karma,Kalista,Kaisa
+2019.0,summer,BRCC,6,Rensga eSports,RED Canids,1.0,29:36,OK,red,RNS,   DERROTA   ,45.3 mil,8,  2 ,  0 ,  0 ,  1 ,  1 ,Ezreal,Jayce,Qiyana,Lucian,Sivir
+2019.0,summer,BRCC,6,Falkol,Vivo Keyd,1.0,23:14,OK,blue,VK,   VITÓRIA   ,49.3 mil,20,  9 ,  1 ,  1 ,  3 ,  1 ,Gangplank,Leblanc,Renekton,Irelia,Azir
+2019.0,summer,BRCC,6,Falkol,Vivo Keyd,1.0,23:14,OK,red,FKL,   DERROTA   ,34.9 mil,5,  0 ,  0 ,  0 ,  0 ,  0 ,Neeko,Yasuo,Sylas,Aatrox,Akali
+2019.0,summer,BRCC,7,Vivo Keyd,Havan Liberty Gaming,1.0,35:40,OK,blue,VK,   VITÓRIA   ,67.0 mil,12,  11 ,  3 ,  2 ,  3 ,  0 ,Renekton,Taliyah,Gragas,Leblanc,Ahri
+2019.0,summer,BRCC,7,Vivo Keyd,Havan Liberty Gaming,1.0,35:40,OK,red,HL,   DERROTA   ,54.8 mil,6,  2 ,  0 ,  0 ,  1 ,  1 ,Xayah,Qiyana,Sejuani,Ezreal,Varus
+2019.0,summer,BRCC,7,Falkol,RED Canids,1.0,31:18,OK,blue,RED,   VITÓRIA   ,61.6 mil,11,  11 ,  3 ,  2 ,  3 ,  1 ,Sejuani,Zoe,Karma,Hecarim,Irelia
+2019.0,summer,BRCC,7,Falkol,RED Canids,1.0,31:18,OK,red,FKL,   DERROTA   ,50.9 mil,10,  1 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Lux,Leblanc,Cassiopeia,Renekton
+2019.0,summer,BRCC,7,Rensga eSports,ProGaming Esports,1.0,25:05,OK,blue,PRG,   VITÓRIA   ,49.9 mil,12,  11 ,  3 ,  1 ,  3 ,  1 ,Volibear,Sejuani,Camille,Braum,Rakan
+2019.0,summer,BRCC,7,Rensga eSports,ProGaming Esports,1.0,25:05,OK,red,RNS,   DERROTA   ,39.0 mil,8,  1 ,  0 ,  0 ,  0 ,  0 ,Irelia,Lux,Qiyana,Ezreal,RekSai
+2019.0,summer,BRCC,7,Havan Liberty Gaming,RED Canids,1.0,32:25,OK,blue,RED,   DERROTA   ,53.0 mil,7,  4 ,  0 ,  0 ,  1 ,  1 ,Sejuani,Lux,Karma,Ahri,Syndra
+2019.0,summer,BRCC,7,Havan Liberty Gaming,RED Canids,1.0,32:25,OK,red,HL,   VITÓRIA   ,65.4 mil,26,  8 ,  1 ,  1 ,  3 ,  0 ,Leblanc,Azir,Xayah,Zoe,Yasuo
+2019.0,summer,BRCC,7,ProGaming Esports,Vivo Keyd,1.0,38:18,OK,blue,PRG,   DERROTA   ,69.6 mil,22,  4 ,  0 ,  1 ,  2 ,  0 ,Lux,Irelia,Karma,Braum,Morgana
+2019.0,summer,BRCC,7,ProGaming Esports,Vivo Keyd,1.0,38:18,OK,red,VK,   VITÓRIA   ,73.3 mil,22,  11 ,  5 ,  1 ,  4 ,  1 ,Qiyana,TahmKench,Gragas,LeeSin,Corki
+2019.0,summer,BRCC,7,Falkol,Rensga eSports,1.0,35:01,OK,blue,FKL,   DERROTA   ,56.0 mil,5,  6 ,  1 ,  1 ,  1 ,  1 ,JarvanIV,Sejuani,Sylas,Volibear,Thresh
+2019.0,summer,BRCC,7,Falkol,Rensga eSports,1.0,35:01,OK,red,RNS,   VITÓRIA   ,62.8 mil,19,  8 ,  1 ,  1 ,  4 ,  0 ,Lux,Qiyana,Renekton,TahmKench,Morgana
+2019.0,summer,BRCC,8,Vivo Keyd,Rensga eSports,1.0,32:17,OK,blue,VK,   VITÓRIA   ,65.3 mil,21,  9 ,  1 ,  1 ,  4 ,  0 ,Tristana,Yasuo,Sylas,Kalista,Varus
+2019.0,summer,BRCC,8,Vivo Keyd,Rensga eSports,1.0,32:17,OK,red,RNS,   DERROTA   ,52.2 mil,7,  1 ,  0 ,  0 ,  1 ,  1 ,Olaf,Qiyana,Karthus,Sivir,Lucian
+2019.0,summer,BRCC,8,Havan Liberty Gaming,Falkol,1.0,38:28,OK,blue,FKL,   DERROTA   ,65.6 mil,19,  1 ,  0 ,  0 ,  3 ,  0 ,Qiyana,Olaf,Camille,Thresh,Nautilus
+2019.0,summer,BRCC,8,Havan Liberty Gaming,Falkol,1.0,38:28,OK,red,HL,   VITÓRIA   ,74.5 mil,19,  11 ,  3 ,  3 ,  1 ,  1 ,Yuumi,Karma,Renekton,Lucian,Caitlyn
+2019.0,summer,BRCC,8,RED Canids,ProGaming Esports,1.0,26:04,OK,blue,PRG,   VITÓRIA   ,48.3 mil,12,  7 ,  1 ,  1 ,  1 ,  0 ,Karthus,Karma,Renekton,Braum,Gangplank
+2019.0,summer,BRCC,8,RED Canids,ProGaming Esports,1.0,26:04,OK,red,RED,   DERROTA   ,40.6 mil,4,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Sejuani,Akali,Yasuo,Aatrox

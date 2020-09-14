@@ -1,0 +1,108 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,summer,ECS,1,HK Attitude Mage,Team Yetti,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,HK Attitude Mage,Team Yetti,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,Kowloon Esports,AOC Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,Kowloon Esports,AOC Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,ahq Fighter,J Team 2,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,ahq Fighter,J Team 2,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,17 Academy,MAD Dragon,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,17 Academy,MAD Dragon,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,AOC Gaming,Team Yetti,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,AOC Gaming,Team Yetti,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,Kowloon Esports,HK Attitude Mage,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,1,Kowloon Esports,HK Attitude Mage,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,MAD Dragon,J Team 2,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,MAD Dragon,J Team 2,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,17 Academy,ahq Fighter,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,17 Academy,ahq Fighter,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,HK Attitude Mage,AOC Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,HK Attitude Mage,AOC Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,Team Yetti,Kowloon Esports,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,Team Yetti,Kowloon Esports,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,ahq Fighter,MAD Dragon,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,ahq Fighter,MAD Dragon,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,J Team 2,17 Academy,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,2,J Team 2,17 Academy,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,J Team 2,Team Yetti,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,J Team 2,Team Yetti,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,ahq Fighter,HK Attitude Mage,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,ahq Fighter,HK Attitude Mage,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,MAD Dragon,AOC Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,MAD Dragon,AOC Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,17 Academy,Kowloon Esports,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,17 Academy,Kowloon Esports,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,HK Attitude Mage,J Team 2,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,HK Attitude Mage,J Team 2,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,Team Yetti,ahq Fighter,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,3,Team Yetti,ahq Fighter,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,Kowloon Esports,MAD Dragon,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,Kowloon Esports,MAD Dragon,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,AOC Gaming,17 Academy,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,AOC Gaming,17 Academy,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,17 Academy,Team Yetti,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,17 Academy,Team Yetti,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,MAD Dragon,HK Attitude Mage,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,MAD Dragon,HK Attitude Mage,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,ahq Fighter,AOC Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,ahq Fighter,AOC Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,J Team 2,Kowloon Esports,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,4,J Team 2,Kowloon Esports,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,HK Attitude Mage,17 Academy,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,HK Attitude Mage,17 Academy,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,Team Yetti,MAD Dragon,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,Team Yetti,MAD Dragon,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,Kowloon Esports,ahq Fighter,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,Kowloon Esports,ahq Fighter,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,AOC Gaming,J Team 2,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,AOC Gaming,J Team 2,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,AOC Gaming,Kowloon Esports,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,AOC Gaming,Kowloon Esports,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,Team Yetti,HK Attitude Mage,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,5,Team Yetti,HK Attitude Mage,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,MAD Dragon,17 Academy,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,MAD Dragon,17 Academy,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,J Team 2,ahq Fighter,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,J Team 2,ahq Fighter,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,HK Attitude Mage,Kowloon Esports,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,HK Attitude Mage,Kowloon Esports,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,AOC Gaming,Team Yetti,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,AOC Gaming,Team Yetti,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,ahq Fighter,17 Academy,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,ahq Fighter,17 Academy,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,MAD Dragon,J Team 2,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,6,MAD Dragon,J Team 2,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,Kowloon Esports,Team Yetti,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,Kowloon Esports,Team Yetti,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,AOC Gaming,HK Attitude Mage,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,AOC Gaming,HK Attitude Mage,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,17 Academy,J Team 2,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,17 Academy,J Team 2,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,MAD Dragon,ahq Fighter,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,HK Attitude Mage,ahq Fighter,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,HK Attitude Mage,ahq Fighter,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,Team Yetti,J Team 2,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,7,Team Yetti,J Team 2,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,Kowloon Esports,17 Academy,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,Kowloon Esports,17 Academy,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,AOC Gaming,MAD Dragon,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,ahq Fighter,Team Yetti,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,ahq Fighter,Team Yetti,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,J Team 2,HK Attitude Mage,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,J Team 2,HK Attitude Mage,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,17 Academy,AOC Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,17 Academy,AOC Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,8,MAD Dragon,Kowloon Esports,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,HK Attitude Mage,MAD Dragon,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,Team Yetti,17 Academy,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,Team Yetti,17 Academy,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,Kowloon Esports,J Team 2,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,Kowloon Esports,J Team 2,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,AOC Gaming,ahq Fighter,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,AOC Gaming,ahq Fighter,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,17 Academy,HK Attitude Mage,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,17 Academy,HK Attitude Mage,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,MAD Dragon,Team Yetti,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,J Team 2,AOC Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,J Team 2,AOC Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,ahq Fighter,Kowloon Esports,1.0,this row doesn't have MH_url
+2017.0,summer,ECS,9,ahq Fighter,Kowloon Esports,2.0,this row doesn't have MH_url

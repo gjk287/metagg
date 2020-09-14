@@ -1,0 +1,9 @@
+bet_name,yes_no,bet_id
+both_team_tower,yes,1
+both_team_tower,no,2
+both_team_baron,yes,3
+both_team_baron,no,4
+both_team_dragon,yes,5
+both_team_dragon,no,6
+both_team_inhib,yes,7
+both_team_inhib,no,8

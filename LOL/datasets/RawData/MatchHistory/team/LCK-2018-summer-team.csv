@@ -1,0 +1,437 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,LCK,1,bbq,MVP,1.0,30:05,OK,blue,bbq,   DEFEAT   ,46.0k,5,  1 ,  0 ,  1 ,  1 ,  0 ,Nocturne,Camille,Irelia,Vladimir,Swain
+2018.0,summer,LCK,1,bbq,MVP,1.0,30:05,OK,red,MVP,   VICTORY   ,56.2k,16,  8 ,  1 ,  0 ,  3 ,  1 ,Rakan,Taliyah,Graves,Alistar,Pyke
+2018.0,summer,LCK,1,bbq,MVP,2.0,32:16,OK,blue,MVP,   VICTORY   ,64.8k,19,  8 ,  1 ,  1 ,  4 ,  1 ,Morgana,Yasuo,Nunu,Graves,Olaf
+2018.0,summer,LCK,1,bbq,MVP,2.0,32:16,OK,red,bbq,   DEFEAT   ,48.8k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,MasterYi,Camille,Nocturne,Shen
+2018.0,summer,LCK,1,Griffin,Hanwha,1.0,26:38,OK,blue,GRF,   DEFEAT   ,43.0k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Alistar,Irelia,Skarner,Gragas,Soraka
+2018.0,summer,LCK,1,Griffin,Hanwha,1.0,26:38,OK,red,HLE,   VICTORY   ,54.1k,15,  10 ,  2 ,  1 ,  2 ,  1 ,Pyke,Taliyah,Taric,Kennen,Lucian
+2018.0,summer,LCK,1,Griffin,Hanwha,2.0,37:02,OK,blue,HLE,   DEFEAT   ,64.7k,10,  7 ,  1 ,  0 ,  4 ,  1 ,Taric,Pyke,Taliyah,Karthus,Darius
+2018.0,summer,LCK,1,Griffin,Hanwha,2.0,37:02,OK,red,GRF,   VICTORY   ,71.0k,19,  7 ,  1 ,  2 ,  1 ,  0 ,Fiddlesticks,Camille,Rakan,Gragas,Alistar
+2018.0,summer,LCK,1,Griffin,Hanwha,3.0,29:51,OK,blue,GRF,   VICTORY   ,62.8k,15,  11 ,  2 ,  1 ,  2 ,  0 ,Alistar,Lucian,Skarner,Fiddlesticks,Lulu
+2018.0,summer,LCK,1,Griffin,Hanwha,3.0,29:51,OK,red,HLE,   DEFEAT   ,44.6k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Pyke,Taric,Soraka,Shen
+2018.0,summer,LCK,1,DragonX,GenG,1.0,26:38,OK,blue,KZ,   VICTORY   ,52.7k,11,  9 ,  2 ,  1 ,  3 ,  1 ,Garen,Nasus,Graves,Rammus,Lux
+2018.0,summer,LCK,1,DragonX,GenG,1.0,26:38,OK,red,GEN,   DEFEAT   ,37.1k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Irelia,Lucian,Camille,Gangplank
+2018.0,summer,LCK,1,DragonX,GenG,2.0,23:38,OK,blue,GEN,   VICTORY   ,52.8k,19,  11 ,  3 ,  1 ,  2 ,  1 ,Zoe,Irelia,Lucian,Jayce,Ornn
+2018.0,summer,LCK,1,DragonX,GenG,2.0,23:38,OK,red,KZ,   DEFEAT   ,34.6k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Graves,Taliyah,MasterYi,KogMaw,Kaisa
+2018.0,summer,LCK,1,DragonX,GenG,3.0,23:08,OK,blue,KZ,   DEFEAT   ,33.2k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Lulu,MasterYi,Camille,Karma,Lissandra
+2018.0,summer,LCK,1,DragonX,GenG,3.0,23:08,OK,red,GEN,   VICTORY   ,55.6k,21,  10 ,  2 ,  1 ,  3 ,  1 ,Taliyah,Zoe,Irelia,Jayce,Darius
+2018.0,summer,LCK,1,Afreeca,T1,1.0,26:36,OK,blue,AFs,   VICTORY   ,58.3k,17,  11 ,  3 ,  1 ,  2 ,  1 ,Morgana,Ezreal,Irelia,Camille,XinZhao
+2018.0,summer,LCK,1,Afreeca,T1,1.0,26:36,OK,red,SKT,   DEFEAT   ,37.3k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Taric,Karthus,Jayce,Zoe
+2018.0,summer,LCK,1,Afreeca,T1,2.0,37:27,OK,blue,SKT,   DEFEAT   ,66.1k,5,  5 ,  0 ,  1 ,  1 ,  0 ,Nocturne,Zoe,Taliyah,Alistar,Fiddlesticks
+2018.0,summer,LCK,1,Afreeca,T1,2.0,37:27,OK,red,AFs,   VICTORY   ,72.5k,13,  9 ,  1 ,  1 ,  4 ,  1 ,Irelia,Ezreal,Camille,Renekton,Leblanc
+2018.0,summer,LCK,1,KT,Jin Air,1.0,39:23,OK,blue,KT,   VICTORY   ,75.0k,9,  10 ,  2 ,  2 ,  3 ,  0 ,Vladimir,Irelia,Rakan,Ornn,Lulu
+2018.0,summer,LCK,1,KT,Jin Air,1.0,39:23,OK,red,JAG,   DEFEAT   ,65.1k,5,  3 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Camille,MasterYi,Ezreal,Gangplank
+2018.0,summer,LCK,1,KT,Jin Air,2.0,23:41,OK,blue,JAG,   DEFEAT   ,36.6k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Graves,Camille,Zoe,Renekton,Shen
+2018.0,summer,LCK,1,KT,Jin Air,2.0,23:41,OK,red,KT,   VICTORY   ,51.3k,11,  10 ,  2 ,  1 ,  2 ,  1 ,Taliyah,Vladimir,Rakan,Ezreal,Lucian
+2018.0,summer,LCK,1,Hanwha,bbq,1.0,37:00,OK,blue,HLE,   VICTORY   ,67.1k,12,  10 ,  2 ,  1 ,  2 ,  1 ,Lucian,MasterYi,Lulu,Olaf,Graves
+2018.0,summer,LCK,1,Hanwha,bbq,1.0,37:00,OK,red,bbq,   DEFEAT   ,58.4k,7,  3 ,  0 ,  0 ,  2 ,  0 ,Yasuo,Irelia,Alistar,Soraka,Fiddlesticks
+2018.0,summer,LCK,1,Hanwha,bbq,2.0,34:03,OK,blue,bbq,   DEFEAT   ,54.1k,8,  4 ,  0 ,  1 ,  2 ,  0 ,Irelia,Yasuo,Nocturne,TahmKench,Graves
+2018.0,summer,LCK,1,Hanwha,bbq,2.0,34:03,OK,red,HLE,   VICTORY   ,63.5k,17,  10 ,  2 ,  1 ,  1 ,  1 ,Taliyah,MasterYi,Zoe,Kennen,Pyke
+2018.0,summer,LCK,1,MVP,Griffin,1.0,39:32,OK,blue,MVP,   DEFEAT   ,68.0k,9,  4 ,  0 ,  0 ,  5 ,  1 ,Shen,Taliyah,MasterYi,Soraka,Rakan
+2018.0,summer,LCK,1,MVP,Griffin,1.0,39:32,OK,red,GRF,   VICTORY   ,77.6k,16,  8 ,  1 ,  1 ,  0 ,  0 ,Lucian,Irelia,Fiddlesticks,Skarner,Morgana
+2018.0,summer,LCK,1,MVP,Griffin,2.0,29:12,OK,blue,GRF,   VICTORY   ,60.9k,12,  9 ,  1 ,  1 ,  2 ,  1 ,Singed,Alistar,MasterYi,Fiddlesticks,Ornn
+2018.0,summer,LCK,1,MVP,Griffin,2.0,29:12,OK,red,MVP,   DEFEAT   ,44.7k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Shen,Taliyah,Irelia,Soraka,Rakan
+2018.0,summer,LCK,1,Jin Air,DragonX,1.0,35:24,OK,blue,JAG,   VICTORY   ,66.4k,10,  10 ,  2 ,  2 ,  2 ,  1 ,Shen,Irelia,Camille,Darius,Morgana
+2018.0,summer,LCK,1,Jin Air,DragonX,1.0,35:24,OK,red,KZ,   DEFEAT   ,53.9k,1,  2 ,  0 ,  0 ,  2 ,  0 ,Vladimir,MasterYi,Taliyah,Soraka,TahmKench
+2018.0,summer,LCK,1,Jin Air,DragonX,2.0,33:40,OK,blue,KZ,   VICTORY   ,62.7k,6,  8 ,  1 ,  0 ,  1 ,  1 ,Vladimir,Shen,Nocturne,Lucian,Rakan
+2018.0,summer,LCK,1,Jin Air,DragonX,2.0,33:40,OK,red,JAG,   DEFEAT   ,54.7k,3,  3 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Camille,Zoe,Darius,Alistar
+2018.0,summer,LCK,1,Jin Air,DragonX,3.0,39:02,OK,blue,JAG,   DEFEAT   ,64.9k,9,  3 ,  0 ,  0 ,  1 ,  0 ,Irelia,Shen,Zoe,Morgana,Ezreal
+2018.0,summer,LCK,1,Jin Air,DragonX,3.0,39:02,OK,red,KZ,   VICTORY   ,75.3k,17,  9 ,  1 ,  1 ,  2 ,  1 ,Vladimir,MasterYi,Braum,Xayah,Ashe
+2018.0,summer,LCK,1,GenG,T1,1.0,29:28,OK,blue,GEN,   VICTORY   ,59.3k,11,  11 ,  3 ,  1 ,  2 ,  1 ,Irelia,Yasuo,Nocturne,Darius,Morgana
+2018.0,summer,LCK,1,GenG,T1,1.0,29:28,OK,red,SKT,   DEFEAT   ,45.9k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Camille,Taliyah,Shen,Lucian,Singed
+2018.0,summer,LCK,1,GenG,T1,2.0,23:45,OK,blue,SKT,   DEFEAT   ,35.9k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Zoe,Taliyah,Ryze,Singed
+2018.0,summer,LCK,1,GenG,T1,2.0,23:45,OK,red,GEN,   VICTORY   ,51.8k,16,  11 ,  2 ,  1 ,  3 ,  1 ,Irelia,Yasuo,Lulu,Darius,DrMundo
+2018.0,summer,LCK,1,Afreeca,KT,1.0,32:12,OK,blue,AFs,   VICTORY   ,64.2k,18,  8 ,  1 ,  1 ,  2 ,  0 ,Irelia,Alistar,XinZhao,DrMundo,Ornn
+2018.0,summer,LCK,1,Afreeca,KT,1.0,32:12,OK,red,KT,   DEFEAT   ,52.1k,10,  3 ,  0 ,  0 ,  2 ,  1 ,Taliyah,Vladimir,Nocturne,TahmKench,Rakan
+2018.0,summer,LCK,1,Afreeca,KT,2.0,23:13,OK,blue,KT,   VICTORY   ,47.3k,10,  9 ,  2 ,  1 ,  3 ,  0 ,Shen,Vladimir,Anivia,Yasuo,Darius
+2018.0,summer,LCK,1,Afreeca,KT,2.0,23:13,OK,red,AFs,   DEFEAT   ,36.8k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Lucian,Ezreal,DrMundo,Jayce
+2018.0,summer,LCK,1,Afreeca,KT,3.0,39:20,OK,blue,AFs,   VICTORY   ,72.2k,12,  11 ,  3 ,  1 ,  1 ,  1 ,Irelia,XinZhao,Swain,DrMundo,Lucian
+2018.0,summer,LCK,1,Afreeca,KT,3.0,39:20,OK,red,KT,   DEFEAT   ,63.9k,14,  2 ,  0 ,  0 ,  3 ,  0 ,Vladimir,Taliyah,Rakan,Anivia,Alistar
+2018.0,summer,LCK,1,bbq,Griffin,1.0,40:02,OK,blue,bbq,   DEFEAT   ,65.3k,4,  3 ,  0 ,  0 ,  1 ,  1 ,Shen,Lulu,MasterYi,Soraka,Morgana
+2018.0,summer,LCK,1,bbq,Griffin,1.0,40:02,OK,red,GRF,   VICTORY   ,73.6k,14,  8 ,  1 ,  1 ,  3 ,  0 ,Taliyah,Fiddlesticks,Irelia,Gangplank,DrMundo
+2018.0,summer,LCK,1,bbq,Griffin,2.0,38:34,OK,blue,GRF,   DEFEAT   ,57.5k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Alistar,Fiddlesticks,MasterYi,Skarner,Nocturne
+2018.0,summer,LCK,1,bbq,Griffin,2.0,38:34,OK,red,bbq,   VICTORY   ,70.9k,7,  11 ,  4 ,  2 ,  4 ,  1 ,Shen,Ryze,Zoe,Mordekaiser,Morgana
+2018.0,summer,LCK,1,bbq,Griffin,3.0,25:28,OK,blue,bbq,   DEFEAT   ,39.7k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Nocturne,Camille,MasterYi,Alistar,TahmKench
+2018.0,summer,LCK,1,bbq,Griffin,3.0,25:28,OK,red,GRF,   VICTORY   ,50.4k,9,  9 ,  2 ,  1 ,  3 ,  0 ,Taliyah,Shen,Fiddlesticks,Skarner,Mordekaiser
+2018.0,summer,LCK,1,MVP,GenG,1.0,41:12,OK,blue,MVP,   DEFEAT   ,70.7k,13,  2 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Rakan,Soraka,Morgana,Chogath
+2018.0,summer,LCK,1,MVP,GenG,1.0,41:12,OK,red,GEN,   VICTORY   ,76.9k,11,  11 ,  3 ,  2 ,  3 ,  1 ,Singed,Irelia,Fiddlesticks,Aatrox,Camille
+2018.0,summer,LCK,1,MVP,GenG,2.0,24:08,OK,blue,GEN,   VICTORY   ,50.4k,11,  10 ,  2 ,  1 ,  2 ,  1 ,Singed,Irelia,MasterYi,XinZhao,Skarner
+2018.0,summer,LCK,1,MVP,GenG,2.0,24:08,OK,red,MVP,   DEFEAT   ,34.1k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Camille,Taliyah,Nocturne,Evelynn
+2018.0,summer,LCK,1,Jin Air,Hanwha,1.0,31:34,OK,blue,JAG,   DEFEAT   ,52.9k,8,  4 ,  0 ,  0 ,  1 ,  1 ,Irelia,Shen,Lulu,Soraka,Leona
+2018.0,summer,LCK,1,Jin Air,Hanwha,1.0,31:34,OK,red,HLE,   VICTORY   ,60.2k,14,  7 ,  1 ,  1 ,  2 ,  0 ,Taliyah,Taric,Zoe,Galio,DrMundo
+2018.0,summer,LCK,1,Jin Air,Hanwha,2.0,32:51,OK,blue,HLE,   VICTORY   ,60.8k,13,  11 ,  4 ,  1 ,  1 ,  0 ,Taric,Braum,Zoe,DrMundo,Ornn
+2018.0,summer,LCK,1,Jin Air,Hanwha,2.0,32:51,OK,red,JAG,   DEFEAT   ,56.4k,9,  4 ,  0 ,  0 ,  2 ,  1 ,Taliyah,Camille,Vladimir,Morgana,Soraka
+2018.0,summer,LCK,2,KT,DragonX,1.0,29:51,OK,blue,KT,   DEFEAT   ,45.5k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Lulu,Shen,Zoe,Velkoz,DrMundo
+2018.0,summer,LCK,2,KT,DragonX,1.0,29:51,OK,red,KZ,   VICTORY   ,63.9k,20,  11 ,  3 ,  1 ,  2 ,  1 ,Swain,Camille,Irelia,Rakan,Thresh
+2018.0,summer,LCK,2,KT,DragonX,2.0,31:33,OK,blue,KZ,   VICTORY   ,60.7k,13,  8 ,  1 ,  1 ,  2 ,  0 ,Swain,Camille,XinZhao,Nidalee,Xayah
+2018.0,summer,LCK,2,KT,DragonX,2.0,31:33,OK,red,KT,   DEFEAT   ,47.0k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Nocturne,Shen,Ezreal,TahmKench
+2018.0,summer,LCK,2,Afreeca,bbq,1.0,26:31,OK,blue,AFs,   VICTORY   ,49.5k,7,  7 ,  1 ,  1 ,  2 ,  0 ,Zoe,Alistar,Taliyah,DrMundo,Ezreal
+2018.0,summer,LCK,2,Afreeca,bbq,1.0,26:31,OK,red,bbq,   DEFEAT   ,39.4k,3,  2 ,  0 ,  0 ,  1 ,  1 ,Shen,Lulu,Aatrox,Blitzcrank,Rakan
+2018.0,summer,LCK,2,Afreeca,bbq,2.0,22:43,OK,blue,bbq,   DEFEAT   ,31.2k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Shen,Mordekaiser,Aatrox,Braum,DrMundo
+2018.0,summer,LCK,2,Afreeca,bbq,2.0,22:43,OK,red,AFs,   VICTORY   ,51.7k,18,  10 ,  2 ,  1 ,  1 ,  1 ,Zoe,Nocturne,Vladimir,Ornn,Darius
+2018.0,summer,LCK,2,Griffin,Jin Air,1.0,25:14,OK,blue,GRF,   VICTORY   ,51.7k,7,  9 ,  1 ,  1 ,  2 ,  1 ,Nocturne,Irelia,Soraka,Fiddlesticks,Rakan
+2018.0,summer,LCK,2,Griffin,Jin Air,1.0,25:14,OK,red,JAG,   DEFEAT   ,38.1k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Shen,Camille,MasterYi,DrMundo,Aatrox
+2018.0,summer,LCK,2,Griffin,Jin Air,2.0,35:19,OK,blue,JAG,   DEFEAT   ,54.8k,4,  1 ,  0 ,  0 ,  1 ,  1 ,Shen,Camille,MasterYi,Ryze,DrMundo
+2018.0,summer,LCK,2,Griffin,Jin Air,2.0,35:19,OK,red,GRF,   VICTORY   ,64.2k,11,  7 ,  1 ,  1 ,  3 ,  0 ,Rakan,Nocturne,Ashe,Fiddlesticks,Soraka
+2018.0,summer,LCK,2,T1,MVP,1.0,33:32,OK,blue,SKT,   VICTORY   ,67.4k,13,  10 ,  2 ,  1 ,  2 ,  0 ,MasterYi,Irelia,Zoe,Singed,Aatrox
+2018.0,summer,LCK,2,T1,MVP,1.0,33:32,OK,red,MVP,   DEFEAT   ,50.9k,5,  0 ,  0 ,  0 ,  2 ,  0 ,Nocturne,Alistar,Swain,Morgana,Darius
+2018.0,summer,LCK,2,T1,MVP,2.0,27:29,OK,blue,MVP,   VICTORY   ,53.6k,11,  8 ,  1 ,  1 ,  3 ,  1 ,Nocturne,Vladimir,Soraka,Fiddlesticks,Rakan
+2018.0,summer,LCK,2,T1,MVP,2.0,27:29,OK,red,SKT,   DEFEAT   ,44.9k,5,  3 ,  0 ,  0 ,  0 ,  0 ,MasterYi,Zoe,Camille,Trundle,Skarner
+2018.0,summer,LCK,2,T1,MVP,3.0,29:57,OK,blue,SKT,   DEFEAT   ,48.8k,8,  2 ,  0 ,  0 ,  1 ,  0 ,MasterYi,Aatrox,Swain,Morgana,Lucian
+2018.0,summer,LCK,2,T1,MVP,3.0,29:57,OK,red,MVP,   VICTORY   ,56.5k,20,  7 ,  1 ,  1 ,  2 ,  1 ,Nocturne,Vladimir,Camille,Alistar,Rakan
+2018.0,summer,LCK,2,GenG,Hanwha,1.0,27:38,OK,blue,GEN,   VICTORY   ,56.2k,10,  9 ,  2 ,  1 ,  1 ,  0 ,Swain,Nocturne,Aatrox,Zoe,Irelia
+2018.0,summer,LCK,2,GenG,Hanwha,1.0,27:38,OK,red,HLE,   DEFEAT   ,41.1k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Camille,Taliyah,Taric,DrMundo,Kennen
+2018.0,summer,LCK,2,GenG,Hanwha,2.0,23:37,OK,blue,HLE,   VICTORY   ,44.9k,15,  6 ,  1 ,  1 ,  1 ,  0 ,Camille,Taliyah,AurelionSol,Ryze,Kennen
+2018.0,summer,LCK,2,GenG,Hanwha,2.0,23:37,OK,red,GEN,   DEFEAT   ,39.5k,4,  3 ,  0 ,  0 ,  1 ,  1 ,Swain,Nocturne,MasterYi,Gangplank,Vladimir
+2018.0,summer,LCK,2,GenG,Hanwha,3.0,27:16,OK,blue,GEN,   VICTORY   ,54.6k,13,  8 ,  1 ,  1 ,  3 ,  0 ,Kaisa,Swain,MasterYi,Trundle,Singed
+2018.0,summer,LCK,2,GenG,Hanwha,3.0,27:16,OK,red,HLE,   DEFEAT   ,42.5k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Camille,AurelionSol,Lulu,Zoe,Taliyah
+2018.0,summer,LCK,2,DragonX,Afreeca,1.0,32:18,OK,blue,KZ,   VICTORY   ,62.2k,7,  11 ,  3 ,  1 ,  3 ,  0 ,Swain,Vladimir,Yasuo,Leblanc,Irelia
+2018.0,summer,LCK,2,DragonX,Afreeca,1.0,32:18,OK,red,AFs,   DEFEAT   ,51.2k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Ezreal,Lulu,Nocturne,Mordekaiser,Lucian
+2018.0,summer,LCK,2,DragonX,Afreeca,2.0,25:28,OK,blue,AFs,   VICTORY   ,52.1k,19,  9 ,  1 ,  1 ,  2 ,  1 ,,,,,
+2018.0,summer,LCK,2,DragonX,Afreeca,2.0,25:28,OK,red,KZ,   DEFEAT   ,39.5k,7,  1 ,  0 ,  0 ,  0 ,  0 ,,,,,
+2018.0,summer,LCK,2,DragonX,Afreeca,3.0,39:35,OK,blue,KZ,   VICTORY   ,75.3k,6,  10 ,  2 ,  1 ,  5 ,  1 ,Yasuo,Vladimir,Swain,Aatrox,Rakan
+2018.0,summer,LCK,2,DragonX,Afreeca,3.0,39:35,OK,red,AFs,   DEFEAT   ,63.9k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,Nocturne,DrMundo,Morgana,TahmKench
+2018.0,summer,LCK,2,bbq,KT,1.0,33:16,OK,blue,bbq,   DEFEAT   ,52.3k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Lulu,Ezreal,Nocturne,Soraka,Fiddlesticks
+2018.0,summer,LCK,2,bbq,KT,1.0,33:16,OK,red,KT,   VICTORY   ,65.8k,12,  11 ,  3 ,  1 ,  2 ,  0 ,MasterYi,Vladimir,Yasuo,Trundle,Skarner
+2018.0,summer,LCK,2,bbq,KT,2.0,38:37,OK,blue,KT,   VICTORY   ,74.7k,15,  10 ,  3 ,  2 ,  3 ,  1 ,MasterYi,Vladimir,Lulu,Yasuo,Fiddlesticks
+2018.0,summer,LCK,2,bbq,KT,2.0,38:37,OK,red,bbq,   DEFEAT   ,62.8k,14,  4 ,  0 ,  0 ,  2 ,  0 ,Ezreal,Zoe,Shen,Varus,Lucian
+2018.0,summer,LCK,2,Griffin,T1,1.0,39:17,OK,blue,GRF,   VICTORY   ,78.2k,21,  7 ,  1 ,  2 ,  2 ,  0 ,Swain,Nocturne,Camille,Blitzcrank,Alistar
+2018.0,summer,LCK,2,Griffin,T1,1.0,39:17,OK,red,SKT,   DEFEAT   ,70.7k,14,  10 ,  4 ,  0 ,  2 ,  1 ,Trundle,Aatrox,Rakan,Soraka,Singed
+2018.0,summer,LCK,2,Griffin,T1,2.0,27:40,OK,blue,SKT,   DEFEAT   ,42.0k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Kaisa,Zoe,Nocturne,Singed,DrMundo
+2018.0,summer,LCK,2,Griffin,T1,2.0,27:40,OK,red,GRF,   VICTORY   ,54.8k,12,  9 ,  2 ,  1 ,  3 ,  0 ,Swain,Lulu,Camille,TahmKench,Alistar
+2018.0,summer,LCK,2,MVP,Jin Air,1.0,24:35,OK,blue,MVP,   VICTORY   ,52.3k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Nocturne,Camille,Vladimir,Soraka,Rakan
+2018.0,summer,LCK,2,MVP,Jin Air,1.0,24:35,OK,red,JAG,   DEFEAT   ,33.9k,2,  0 ,  0 ,  0 ,  0 ,  0 ,MasterYi,Swain,Lulu,Fiddlesticks,Morgana
+2018.0,summer,LCK,2,MVP,Jin Air,2.0,30:57,OK,blue,JAG,   DEFEAT   ,47.2k,2,  1 ,  0 ,  0 ,  0 ,  1 ,MasterYi,Sejuani,Swain,Soraka,Fiddlesticks
+2018.0,summer,LCK,2,MVP,Jin Air,2.0,30:57,OK,red,MVP,   VICTORY   ,60.4k,12,  8 ,  1 ,  1 ,  4 ,  0 ,Nocturne,Vladimir,Lulu,Jayce,Varus
+2018.0,summer,LCK,2,KT,GenG,1.0,30:06,OK,blue,KT,   VICTORY   ,55.9k,9,  7 ,  1 ,  1 ,  3 ,  1 ,Ezreal,Camille,Morgana,Trundle,Gangplank
+2018.0,summer,LCK,2,KT,GenG,1.0,30:06,OK,red,GEN,   DEFEAT   ,46.0k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Swain,Nocturne,Kaisa,Zoe,Taliyah
+2018.0,summer,LCK,2,KT,GenG,2.0,30:57,OK,blue,GEN,   DEFEAT   ,44.8k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Swain,Nocturne,Morgana,Ashe,Varus
+2018.0,summer,LCK,2,KT,GenG,2.0,30:57,OK,red,KT,   VICTORY   ,61.7k,10,  10 ,  3 ,  1 ,  2 ,  1 ,Ezreal,TahmKench,Rakan,Ornn,DrMundo
+2018.0,summer,LCK,2,Hanwha,Afreeca,1.0,34:00,OK,blue,HLE,   VICTORY   ,70.8k,11,  11 ,  3 ,  2 ,  3 ,  1 ,Camille,Lulu,Taliyah,Anivia,Yasuo
+2018.0,summer,LCK,2,Hanwha,Afreeca,1.0,34:00,OK,red,AFs,   DEFEAT   ,48.4k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Kaisa,Ryze,Zoe,Darius,Ornn
+2018.0,summer,LCK,2,Hanwha,Afreeca,2.0,35:35,OK,blue,AFs,   VICTORY   ,66.7k,18,  6 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Lulu,Ryze,Morgana,Karma
+2018.0,summer,LCK,2,Hanwha,Afreeca,2.0,35:35,OK,red,HLE,   DEFEAT   ,62.7k,12,  10 ,  1 ,  1 ,  3 ,  0 ,Zoe,Nocturne,Camille,Lissandra,Rakan
+2018.0,summer,LCK,2,Hanwha,Afreeca,3.0,42:30,OK,blue,HLE,   VICTORY   ,73.5k,9,  8 ,  1 ,  0 ,  2 ,  0 ,Taliyah,Lulu,Camille,Trundle,Leblanc
+2018.0,summer,LCK,2,Hanwha,Afreeca,3.0,42:30,OK,red,AFs,   DEFEAT   ,71.1k,5,  4 ,  0 ,  0 ,  3 ,  0 ,Kaisa,Nocturne,Swain,Soraka,Alistar
+2018.0,summer,LCK,2,T1,Jin Air,1.0,24:52,OK,blue,SKT,   VICTORY   ,51.8k,6,  11 ,  3 ,  1 ,  3 ,  1 ,Zoe,Camille,Nocturne,Morgana,Syndra
+2018.0,summer,LCK,2,T1,Jin Air,1.0,24:52,OK,red,JAG,   DEFEAT   ,37.7k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Swain,Lulu,Nasus,Trundle,Skarner
+2018.0,summer,LCK,2,T1,Jin Air,2.0,46:42,OK,blue,JAG,   DEFEAT   ,77.7k,10,  3 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Xayah,Irelia,Yasuo,Morgana
+2018.0,summer,LCK,2,T1,Jin Air,2.0,46:42,OK,red,SKT,   VICTORY   ,91.6k,19,  10 ,  3 ,  2 ,  5 ,  0 ,Nocturne,Swain,Lulu,DrMundo,Jax
+2018.0,summer,LCK,2,bbq,DragonX,1.0,31:12,OK,blue,bbq,   DEFEAT   ,47.9k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Kaisa,Zoe,Morgana,TahmKench
+2018.0,summer,LCK,2,bbq,DragonX,1.0,31:12,OK,red,KZ,   VICTORY   ,65.0k,12,  10 ,  2 ,  1 ,  3 ,  0 ,Swain,Nocturne,Lulu,Yasuo,Alistar
+2018.0,summer,LCK,2,bbq,DragonX,2.0,25:35,OK,blue,KZ,   VICTORY   ,53.2k,16,  8 ,  1 ,  1 ,  3 ,  0 ,Swain,Rakan,Vladimir,Lucian,KogMaw
+2018.0,summer,LCK,2,bbq,DragonX,2.0,25:35,OK,red,bbq,   DEFEAT   ,37.7k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Kaisa,MasterYi,Zoe,DrMundo,Kled
+2018.0,summer,LCK,3,T1,KT,1.0,33:07,OK,blue,SKT,   DEFEAT   ,51.8k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Nocturne,Rumble,Renekton,Trundle
+2018.0,summer,LCK,3,T1,KT,1.0,33:07,OK,red,KT,   VICTORY   ,65.1k,17,  11 ,  2 ,  1 ,  3 ,  1 ,Xayah,Taliyah,Galio,Soraka,Braum
+2018.0,summer,LCK,3,T1,KT,2.0,36:43,OK,blue,KT,   DEFEAT   ,61.9k,10,  4 ,  0 ,  1 ,  2 ,  0 ,Xayah,Taliyah,Galio,Ornn,DrMundo
+2018.0,summer,LCK,3,T1,KT,2.0,36:43,OK,red,SKT,   VICTORY   ,67.6k,16,  8 ,  1 ,  1 ,  3 ,  1 ,Nocturne,Swain,Rumble,Kindred,Trundle
+2018.0,summer,LCK,3,T1,KT,3.0,35:26,OK,blue,SKT,   VICTORY   ,71.5k,17,  9 ,  1 ,  1 ,  4 ,  1 ,Swain,Nocturne,Soraka,Rumble,DrMundo
+2018.0,summer,LCK,3,T1,KT,3.0,35:26,OK,red,KT,   DEFEAT   ,57.0k,4,  3 ,  0 ,  0 ,  0 ,  0 ,Xayah,Taliyah,Zoe,Irelia,Yasuo
+2018.0,summer,LCK,3,DragonX,Griffin,1.0,36:51,OK,blue,KZ,   DEFEAT   ,57.6k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Yasuo,Swain,Xayah,Darius,Vladimir
+2018.0,summer,LCK,3,DragonX,Griffin,1.0,36:51,OK,red,GRF,   VICTORY   ,76.3k,19,  9 ,  1 ,  2 ,  3 ,  1 ,TahmKench,Nocturne,Taliyah,Varus,Ashe
+2018.0,summer,LCK,3,DragonX,Griffin,2.0,32:29,OK,blue,GRF,   VICTORY   ,64.8k,18,  8 ,  1 ,  0 ,  2 ,  1 ,TahmKench,Nocturne,Taliyah,Varus,Ashe
+2018.0,summer,LCK,3,DragonX,Griffin,2.0,32:29,OK,red,KZ,   DEFEAT   ,50.3k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Morgana,Xayah,Yasuo,Swain
+2018.0,summer,LCK,3,MVP,Hanwha,1.0,27:03,OK,blue,MVP,   DEFEAT   ,39.3k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Braum,Kaisa,Nocturne,Singed,Aatrox
+2018.0,summer,LCK,3,MVP,Hanwha,1.0,27:03,OK,red,HLE,   VICTORY   ,52.8k,9,  11 ,  2 ,  1 ,  3 ,  1 ,Taric,Taliyah,Camille,Soraka,TahmKench
+2018.0,summer,LCK,3,MVP,Hanwha,2.0,30:25,OK,blue,HLE,   VICTORY   ,64.9k,16,  11 ,  3 ,  1 ,  2 ,  1 ,Taric,Camille,Zoe,Xayah,Kalista
+2018.0,summer,LCK,3,MVP,Hanwha,2.0,30:25,OK,red,MVP,   DEFEAT   ,45.7k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Kaisa,Morgana,Ornn,TahmKench
+2018.0,summer,LCK,3,GenG,bbq,1.0,35:56,OK,blue,GEN,   VICTORY   ,65.6k,8,  9 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Swain,Kaisa,Ezreal,Yasuo
+2018.0,summer,LCK,3,GenG,bbq,1.0,35:56,OK,red,bbq,   DEFEAT   ,56.8k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Nocturne,Taliyah,Zoe,Darius,Ornn
+2018.0,summer,LCK,3,GenG,bbq,2.0,34:33,OK,blue,bbq,   VICTORY   ,68.7k,22,  11 ,  3 ,  2 ,  2 ,  1 ,Rakan,TahmKench,Galio,DrMundo,Renekton
+2018.0,summer,LCK,3,GenG,bbq,2.0,34:33,OK,red,GEN,   DEFEAT   ,56.7k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Nocturne,Zoe,Soraka,Shen
+2018.0,summer,LCK,3,GenG,bbq,3.0,40:35,OK,blue,GEN,   VICTORY   ,76.9k,8,  11 ,  5 ,  2 ,  4 ,  1 ,Swain,Aatrox,Morgana,Alistar,Pyke
+2018.0,summer,LCK,3,GenG,bbq,3.0,40:35,OK,red,bbq,   DEFEAT   ,63.3k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Camille,Nocturne,Taliyah,Kennen,Rengar
+2018.0,summer,LCK,3,Jin Air,Afreeca,1.0,31:57,OK,blue,JAG,   DEFEAT   ,48.7k,3,  0 ,  0 ,  0 ,  2 ,  0 ,Yasuo,Morgana,Sejuani,Shen,Ezreal
+2018.0,summer,LCK,3,Jin Air,Afreeca,1.0,31:57,OK,red,AFs,   VICTORY   ,65.9k,12,  10 ,  4 ,  2 ,  1 ,  1 ,Nocturne,Taliyah,Rakan,Varus,Soraka
+2018.0,summer,LCK,3,Jin Air,Afreeca,2.0,46:02,OK,blue,AFs,   DEFEAT   ,75.5k,4,  3 ,  0 ,  1 ,  1 ,  0 ,Camille,Morgana,Swain,Ryze,Varus
+2018.0,summer,LCK,3,Jin Air,Afreeca,2.0,46:02,OK,red,JAG,   VICTORY   ,83.4k,10,  8 ,  1 ,  1 ,  3 ,  1 ,Taliyah,Nocturne,Trundle,Shen,
+2018.0,summer,LCK,3,Jin Air,Afreeca,3.0,41:04,OK,blue,JAG,   DEFEAT   ,67.4k,6,  3 ,  0 ,  2 ,  1 ,  0 ,Yasuo,Morgana,Swain,Irelia,Shen
+2018.0,summer,LCK,3,Jin Air,Afreeca,3.0,41:04,OK,red,AFs,   VICTORY   ,71.7k,15,  7 ,  1 ,  0 ,  3 ,  1 ,Nocturne,Taliyah,Rakan,Renekton,Darius
+2018.0,summer,LCK,3,KT,Griffin,1.0,23:35,OK,blue,KT,   VICTORY   ,48.4k,13,  8 ,  1 ,  1 ,  2 ,  1 ,Morgana,Shen,Taliyah,Vladimir,Zoe
+2018.0,summer,LCK,3,KT,Griffin,1.0,23:35,OK,red,GRF,   DEFEAT   ,35.6k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Nocturne,TahmKench,Swain,Varus,Ashe
+2018.0,summer,LCK,3,KT,Griffin,2.0,43:58,OK,blue,GRF,   DEFEAT   ,75.1k,19,  4 ,  0 ,  1 ,  1 ,  1 ,TahmKench,Galio,Swain,Rakan,Gragas
+2018.0,summer,LCK,3,KT,Griffin,2.0,43:58,OK,red,KT,   VICTORY   ,84.0k,19,  10 ,  2 ,  2 ,  4 ,  0 ,Morgana,Taliyah,Shen,Gangplank,Vladimir
+2018.0,summer,LCK,3,DragonX,T1,1.0,37:43,OK,blue,SKT,   DEFEAT   ,61.2k,13,  2 ,  0 ,  0 ,  2 ,  0 ,Nocturne,Aatrox,Zoe,Jayce,Heimerdinger
+2018.0,summer,LCK,3,DragonX,T1,1.0,37:43,OK,red,KZ,   VICTORY   ,73.6k,13,  11 ,  3 ,  2 ,  2 ,  1 ,Sejuani,Morgana,Taliyah,Skarner,Trundle
+2018.0,summer,LCK,3,DragonX,T1,2.0,32:18,OK,blue,KZ,   VICTORY   ,62.9k,19,  9 ,  2 ,  1 ,  3 ,  0 ,Yasuo,Irelia,Aatrox,Velkoz,Talon
+2018.0,summer,LCK,3,DragonX,T1,2.0,32:18,OK,red,SKT,   DEFEAT   ,51.8k,14,  2 ,  0 ,  0 ,  0 ,  1 ,Nocturne,Taliyah,Zoe,DrMundo,Shen
+2018.0,summer,LCK,3,Afreeca,MVP,1.0,39:04,OK,blue,AFs,   VICTORY   ,69.9k,9,  7 ,  1 ,  1 ,  1 ,  0 ,Zoe,Camille,Sejuani,Gangplank,Varus
+2018.0,summer,LCK,3,Afreeca,MVP,1.0,39:04,OK,red,MVP,   DEFEAT   ,65.6k,2,  4 ,  0 ,  0 ,  4 ,  1 ,Aatrox,Nocturne,Taliyah,Anivia,Olaf
+2018.0,summer,LCK,3,Afreeca,MVP,2.0,38:42,OK,blue,MVP,   DEFEAT   ,61.6k,1,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Rakan,Nocturne,Darius,Gangplank
+2018.0,summer,LCK,3,Afreeca,MVP,2.0,38:42,OK,red,AFs,   VICTORY   ,76.1k,14,  10 ,  3 ,  2 ,  3 ,  0 ,Taliyah,Zoe,Sejuani,Anivia,DrMundo
+2018.0,summer,LCK,3,Jin Air,GenG,1.0,37:54,OK,blue,JAG,   DEFEAT   ,60.9k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Ezreal,Camille,Rakan,Varus,Lulu
+2018.0,summer,LCK,3,Jin Air,GenG,1.0,37:54,OK,red,GEN,   VICTORY   ,68.2k,8,  9 ,  1 ,  1 ,  4 ,  0 ,Zoe,Nocturne,Taliyah,Morgana,Lucian
+2018.0,summer,LCK,3,Jin Air,GenG,2.0,35:44,OK,blue,GEN,   VICTORY   ,68.1k,11,  11 ,  3 ,  1 ,  4 ,  1 ,Yasuo,Aatrox,Nocturne,Lucian,Morgana
+2018.0,summer,LCK,3,Jin Air,GenG,2.0,35:44,OK,red,JAG,   DEFEAT   ,57.5k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Rakan,Taliyah,TahmKench,Ezreal,Varus
+2018.0,summer,LCK,3,Hanwha,DragonX,1.0,28:31,OK,blue,HLE,   VICTORY   ,54.0k,12,  10 ,  2 ,  1 ,  2 ,  1 ,Rakan,Camille,Aatrox,Soraka,Pyke
+2018.0,summer,LCK,3,Hanwha,DragonX,1.0,28:31,OK,red,KZ,   DEFEAT   ,45.0k,3,  3 ,  0 ,  0 ,  1 ,  0 ,Braum,Taliyah,Nocturne,Ezreal,Varus
+2018.0,summer,LCK,3,Hanwha,DragonX,2.0,33:26,OK,blue,KZ,   VICTORY   ,66.0k,15,  10 ,  2 ,  1 ,  3 ,  1 ,Swain,Braum,Sejuani,Skarner,Elise
+2018.0,summer,LCK,3,Hanwha,DragonX,2.0,33:26,OK,red,HLE,   DEFEAT   ,52.1k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Taliyah,Nocturne,Renekton,DrMundo
+2018.0,summer,LCK,3,Hanwha,DragonX,3.0,24:39,OK,blue,HLE,   DEFEAT   ,37.4k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,Rakan,Morgana,Yasuo,Leblanc
+2018.0,summer,LCK,3,Hanwha,DragonX,3.0,24:39,OK,red,KZ,   VICTORY   ,53.5k,23,  10 ,  2 ,  1 ,  3 ,  1 ,Braum,Taliyah,Nocturne,Ezreal,Vladimir
+2018.0,summer,LCK,3,bbq,T1,1.0,34:26,OK,blue,bbq,   DEFEAT   ,55.1k,2,  3 ,  0 ,  0 ,  0 ,  1 ,Rakan,Yasuo,Aatrox,Kennen,Darius
+2018.0,summer,LCK,3,bbq,T1,1.0,34:26,OK,red,SKT,   VICTORY   ,67.1k,13,  8 ,  1 ,  1 ,  3 ,  0 ,Nocturne,Taliyah,Morgana,Braum,Trundle
+2018.0,summer,LCK,3,bbq,T1,2.0,39:54,OK,blue,SKT,   VICTORY   ,79.1k,13,  11 ,  1 ,  2 ,  4 ,  0 ,Morgana,Zoe,Aatrox,Alistar,Shen
+2018.0,summer,LCK,3,bbq,T1,2.0,39:54,OK,red,bbq,   DEFEAT   ,64.9k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Rakan,Nocturne,Mordekaiser,Darius
+2018.0,summer,LCK,3,GenG,Afreeca,1.0,38:40,OK,blue,GEN,   DEFEAT   ,59.8k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Swain,Aatrox,Nocturne,Alistar,Shen
+2018.0,summer,LCK,3,GenG,Afreeca,1.0,38:40,OK,red,AFs,   VICTORY   ,78.3k,14,  10 ,  2 ,  2 ,  3 ,  0 ,Taliyah,TahmKench,Camille,Trundle,DrMundo
+2018.0,summer,LCK,3,GenG,Afreeca,2.0,31:08,OK,blue,AFs,   VICTORY   ,60.5k,12,  9 ,  1 ,  1 ,  0 ,  1 ,TahmKench,Sejuani,Zoe,Braum,Morgana
+2018.0,summer,LCK,3,GenG,Afreeca,2.0,31:08,OK,red,GEN,   DEFEAT   ,46.0k,4,  1 ,  0 ,  0 ,  3 ,  0 ,Nocturne,Taliyah,Rakan,Yasuo,Camille
+2018.0,summer,LCK,3,KT,MVP,1.0,29:11,OK,blue,KT,   VICTORY   ,57.2k,13,  9 ,  1 ,  1 ,  0 ,  1 ,Zoe,Rakan,Sejuani,Galio,Velkoz
+2018.0,summer,LCK,3,KT,MVP,1.0,29:11,OK,red,MVP,   DEFEAT   ,44.9k,1,  2 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Taliyah,Nocturne,Ashe,Varus
+2018.0,summer,LCK,3,KT,MVP,2.0,57:34,OK,blue,MVP,   DEFEAT   ,98.4k,16,  7 ,  0 ,  1 ,  3 ,  0 ,Aatrox,Taliyah,Swain,Alistar,Kennen
+2018.0,summer,LCK,3,KT,MVP,2.0,57:34,OK,red,KT,   VICTORY   ,106.7k,28,  9 ,  2 ,  3 ,  3 ,  0 ,Zoe,Sejuani,Nocturne,Velkoz,Anivia
+2018.0,summer,LCK,4,Griffin,Afreeca,1.0,27:56,OK,blue,GRF,   VICTORY   ,55.7k,15,  8 ,  1 ,  1 ,  1 ,  1 ,Rakan,Swain,Nocturne,Gangplank,Kennen
+2018.0,summer,LCK,4,Griffin,Afreeca,1.0,27:56,OK,red,AFs,   DEFEAT   ,42.3k,3,  1 ,  0 ,  0 ,  2 ,  0 ,Shen,Morgana,Taliyah,Darius,Mordekaiser
+2018.0,summer,LCK,4,Griffin,Afreeca,2.0,44:38,OK,blue,AFs,   DEFEAT   ,72.4k,7,  5 ,  0 ,  1 ,  1 ,  0 ,Shen,Taliyah,Aatrox,Pyke,Alistar
+2018.0,summer,LCK,4,Griffin,Afreeca,2.0,44:38,OK,red,GRF,   VICTORY   ,80.7k,13,  11 ,  2 ,  1 ,  4 ,  1 ,Rakan,Nocturne,Morgana,Varus,Ashe
+2018.0,summer,LCK,4,KT,Hanwha,1.0,29:57,OK,blue,KT,   DEFEAT   ,46.4k,6,  1 ,  0 ,  1 ,  0 ,  0 ,Shen,Swain,Sejuani,TahmKench,Braum
+2018.0,summer,LCK,4,KT,Hanwha,1.0,29:57,OK,red,HLE,   VICTORY   ,57.0k,15,  8 ,  1 ,  0 ,  3 ,  1 ,Aatrox,Taliyah,Nocturne,Darius,Kennen
+2018.0,summer,LCK,4,KT,Hanwha,2.0,43:32,OK,blue,HLE,   VICTORY   ,81.7k,11,  9 ,  2 ,  1 ,  4 ,  1 ,Shen,Rakan,Nocturne,Syndra,Velkoz
+2018.0,summer,LCK,4,KT,Hanwha,2.0,43:32,OK,red,KT,   DEFEAT   ,78.4k,4,  6 ,  0 ,  0 ,  1 ,  0 ,Zoe,Aatrox,Taliyah,Pyke,Ashe
+2018.0,summer,LCK,4,bbq,Jin Air,1.0,31:36,OK,blue,bbq,   DEFEAT   ,49.1k,2,  2 ,  0 ,  0 ,  1 ,  1 ,Rakan,Zoe,Nocturne,Yasuo,Kled
+2018.0,summer,LCK,4,bbq,Jin Air,1.0,31:36,OK,red,JAG,   VICTORY   ,59.3k,8,  11 ,  3 ,  1 ,  2 ,  0 ,Aatrox,Pyke,Taliyah,Vladimir,Ezreal
+2018.0,summer,LCK,4,bbq,Jin Air,2.0,37:16,OK,blue,JAG,   VICTORY   ,65.8k,8,  9 ,  2 ,  1 ,  2 ,  0 ,Morgana,Rakan,Swain,Jayce,Gangplank
+2018.0,summer,LCK,4,bbq,Jin Air,2.0,37:16,OK,red,bbq,   DEFEAT   ,57.2k,5,  3 ,  0 ,  0 ,  2 ,  1 ,Zoe,Aatrox,Varus,Ezreal,Galio
+2018.0,summer,LCK,4,MVP,DragonX,1.0,30:36,OK,blue,MVP,   DEFEAT   ,45.1k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Morgana,Nocturne,Zoe,Soraka,Jayce
+2018.0,summer,LCK,4,MVP,DragonX,1.0,30:36,OK,red,KZ,   VICTORY   ,63.2k,15,  11 ,  3 ,  1 ,  4 ,  1 ,Sion,Aatrox,Taliyah,Syndra,Lulu
+2018.0,summer,LCK,4,MVP,DragonX,2.0,38:55,OK,blue,KZ,   VICTORY   ,75.6k,12,  10 ,  2 ,  1 ,  4 ,  1 ,,,,,
+2018.0,summer,LCK,4,MVP,DragonX,2.0,38:55,OK,red,MVP,   DEFEAT   ,58.8k,2,  1 ,  0 ,  1 ,  0 ,  0 ,,,,,
+2018.0,summer,LCK,4,Griffin,GenG,1.0,37:11,OK,blue,GRF,   VICTORY   ,68.2k,12,  7 ,  1 ,  1 ,  1 ,  1 ,Rakan,Taliyah,Morgana,Varus,Xayah
+2018.0,summer,LCK,4,Griffin,GenG,1.0,37:11,OK,red,GEN,   DEFEAT   ,60.1k,5,  1 ,  0 ,  0 ,  3 ,  0 ,Vladimir,Aatrox,Zoe,Yasuo,Sejuani
+2018.0,summer,LCK,4,Griffin,GenG,2.0,32:02,OK,blue,GEN,   VICTORY   ,61.7k,7,  10 ,  1 ,  1 ,  3 ,  1 ,Vladimir,Nocturne,Trundle,Darius,Gnar
+2018.0,summer,LCK,4,Griffin,GenG,2.0,32:02,OK,red,GRF,   DEFEAT   ,50.1k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Rakan,Taliyah,Aatrox,Yasuo,Talon
+2018.0,summer,LCK,4,Griffin,GenG,3.0,32:45,OK,blue,GRF,   VICTORY   ,64.4k,14,  11 ,  2 ,  1 ,  3 ,  0 ,Rakan,TahmKench,Swain,Ezreal,Malzahar
+2018.0,summer,LCK,4,Griffin,GenG,3.0,32:45,OK,red,GEN,   DEFEAT   ,49.2k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Vladimir,Aatrox,Nocturne,Trundle,Talon
+2018.0,summer,LCK,4,Hanwha,T1,1.0,33:06,OK,blue,HLE,   DEFEAT   ,58.6k,11,  2 ,  0 ,  0 ,  1 ,  1 ,TahmKench,Pyke,Morgana,Camille,Trundle
+2018.0,summer,LCK,4,Hanwha,T1,1.0,33:06,OK,red,SKT,   VICTORY   ,65.0k,15,  11 ,  3 ,  2 ,  4 ,  0 ,Aatrox,Taliyah,Nocturne,Taric,Varus
+2018.0,summer,LCK,4,Hanwha,T1,2.0,31:10,OK,blue,SKT,   DEFEAT   ,46.9k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Shen,Kindred,Zoe,Darius,Leblanc
+2018.0,summer,LCK,4,Hanwha,T1,2.0,31:10,OK,red,HLE,   VICTORY   ,61.9k,11,  11 ,  3 ,  1 ,  2 ,  1 ,Aatrox,Nocturne,Taliyah,Pyke,TahmKench
+2018.0,summer,LCK,4,Hanwha,T1,3.0,31:29,OK,blue,HLE,   VICTORY   ,63.7k,25,  9 ,  1 ,  1 ,  1 ,  0 ,Pyke,Galio,Shen,Talon,Yasuo
+2018.0,summer,LCK,4,Hanwha,T1,3.0,31:29,OK,red,SKT,   DEFEAT   ,48.5k,6,  2 ,  0 ,  0 ,  3 ,  1 ,Aatrox,Taliyah,Nocturne,Varus,Zoe
+2018.0,summer,LCK,4,DragonX,Jin Air,1.0,39:22,OK,blue,KZ,   DEFEAT   ,59.3k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Lulu,Shen,Darius,Kennen,Gangplank
+2018.0,summer,LCK,4,DragonX,Jin Air,1.0,39:22,OK,red,JAG,   VICTORY   ,73.5k,15,  9 ,  4 ,  1 ,  5 ,  1 ,Aatrox,Taliyah,Nocturne,TahmKench,Rakan
+2018.0,summer,LCK,4,DragonX,Jin Air,2.0,36:40,OK,blue,JAG,   DEFEAT   ,58.0k,10,  1 ,  0 ,  0 ,  0 ,  0 ,Kled,Morgana,TahmKench,Darius,DrMundo
+2018.0,summer,LCK,4,DragonX,Jin Air,2.0,36:40,OK,red,KZ,   VICTORY   ,75.4k,19,  11 ,  2 ,  1 ,  4 ,  1 ,Aatrox,Nocturne,Taliyah,Leblanc,Syndra
+2018.0,summer,LCK,4,DragonX,Jin Air,3.0,39:29,OK,blue,KZ,   DEFEAT   ,61.2k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Swain,Zoe,Lulu,Gangplank,Jayce
+2018.0,summer,LCK,4,DragonX,Jin Air,3.0,39:29,OK,red,JAG,   VICTORY   ,76.8k,13,  11 ,  4 ,  1 ,  4 ,  0 ,Aatrox,Taliyah,Nocturne,TahmKench,Rakan
+2018.0,summer,LCK,4,MVP,bbq,1.0,43:26,OK,blue,MVP,   VICTORY   ,79.5k,15,  9 ,  2 ,  1 ,  2 ,  0 ,Shen,Swain,Kled,Talon,Rakan
+2018.0,summer,LCK,4,MVP,bbq,1.0,43:26,OK,red,bbq,   DEFEAT   ,75.7k,10,  6 ,  0 ,  2 ,  3 ,  1 ,Aatrox,Taliyah,Zoe,Darius,Kennen
+2018.0,summer,LCK,4,MVP,bbq,2.0,28:26,OK,blue,bbq,   VICTORY   ,56.6k,15,  9 ,  2 ,  1 ,  3 ,  0 ,Morgana,Zoe,Shen,DrMundo,Darius
+2018.0,summer,LCK,4,MVP,bbq,2.0,28:26,OK,red,MVP,   DEFEAT   ,46.6k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Nocturne,Taliyah,Renekton,Rakan
+2018.0,summer,LCK,4,MVP,bbq,3.0,38:17,OK,blue,MVP,   VICTORY   ,70.0k,12,  9 ,  2 ,  1 ,  4 ,  1 ,Shen,Kindred,Nocturne,Xayah,Kled
+2018.0,summer,LCK,4,MVP,bbq,3.0,38:17,OK,red,bbq,   DEFEAT   ,60.9k,11,  2 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Zoe,Ezreal,Varus,Ashe
+2018.0,summer,LCK,4,KT,Afreeca,1.0,42:42,OK,blue,KT,   DEFEAT   ,66.3k,3,  3 ,  0 ,  1 ,  1 ,  1 ,Vladimir,Rakan,Shen,DrMundo,Galio
+2018.0,summer,LCK,4,KT,Afreeca,1.0,42:42,OK,red,AFs,   VICTORY   ,76.2k,12,  10 ,  2 ,  0 ,  3 ,  0 ,Aatrox,Taliyah,Nocturne,Darius,Kennen
+2018.0,summer,LCK,4,KT,Afreeca,2.0,48:49,OK,blue,AFs,   DEFEAT   ,84.8k,13,  10 ,  2 ,  2 ,  0 ,  0 ,Kindred,Morgana,Taliyah,Sejuani,Camille
+2018.0,summer,LCK,4,KT,Afreeca,2.0,48:49,OK,red,KT,   VICTORY   ,91.7k,24,  9 ,  3 ,  0 ,  4 ,  1 ,Aatrox,Rakan,Nocturne,Trundle,Darius
+2018.0,summer,LCK,4,KT,Afreeca,3.0,33:16,OK,blue,KT,   VICTORY   ,65.5k,13,  10 ,  1 ,  1 ,  2 ,  1 ,Kindred,Rakan,Shen,Sejuani,Zac
+2018.0,summer,LCK,4,KT,Afreeca,3.0,33:16,OK,red,AFs,   DEFEAT   ,52.9k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Nocturne,Kennen,Jayce
+2018.0,summer,LCK,4,Hanwha,GenG,1.0,36:26,OK,blue,HLE,   VICTORY   ,67.0k,12,  10 ,  1 ,  1 ,  1 ,  0 ,TahmKench,Galio,Swain,Lulu,Velkoz
+2018.0,summer,LCK,4,Hanwha,GenG,1.0,36:26,OK,red,GEN,   DEFEAT   ,60.0k,8,  3 ,  0 ,  0 ,  3 ,  1 ,Aatrox,Nocturne,Taliyah,Sejuani,Trundle
+2018.0,summer,LCK,4,Hanwha,GenG,2.0,38:09,OK,blue,GEN,   VICTORY   ,68.3k,13,  8 ,  1 ,  0 ,  3 ,  1 ,Zoe,Kindred,DrMundo,Kled,Yasuo
+2018.0,summer,LCK,4,Hanwha,GenG,2.0,38:09,OK,red,HLE,   DEFEAT   ,60.3k,3,  3 ,  0 ,  1 ,  1 ,  0 ,Taliyah,Aatrox,TahmKench,Soraka,Braum
+2018.0,summer,LCK,4,Hanwha,GenG,3.0,41:18,OK,blue,HLE,   DEFEAT   ,69.6k,3,  7 ,  1 ,  0 ,  3 ,  1 ,TahmKench,Galio,Swain,Talon,Lulu
+2018.0,summer,LCK,4,Hanwha,GenG,3.0,41:18,OK,red,GEN,   VICTORY   ,74.8k,8,  10 ,  2 ,  2 ,  2 ,  0 ,Nocturne,Aatrox,Taliyah,Darius,Gnar
+2018.0,summer,LCK,5,Afreeca,Griffin,1.0,41:31,OK,blue,AFs,   VICTORY   ,80.0k,9,  10 ,  3 ,  1 ,  5 ,  1 ,Shen,Taliyah,Yasuo,DrMundo,Ezreal
+2018.0,summer,LCK,5,Afreeca,Griffin,1.0,41:31,OK,red,GRF,   DEFEAT   ,63.7k,0,  0 ,  0 ,  1 ,  0 ,  0 ,Rakan,Nocturne,Aatrox,Darius,Ashe
+2018.0,summer,LCK,5,Afreeca,Griffin,2.0,27:57,OK,blue,GRF,   DEFEAT   ,43.8k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Rakan,TahmKench,Darius,Gangplank,Kennen
+2018.0,summer,LCK,5,Afreeca,Griffin,2.0,27:57,OK,red,AFs,   VICTORY   ,55.8k,12,  10 ,  2 ,  1 ,  3 ,  0 ,Nocturne,Aatrox,Taliyah,DrMundo,Camille
+2018.0,summer,LCK,5,MVP,T1,1.0,49:12,OK,blue,MVP,   VICTORY   ,88.9k,20,  9 ,  2 ,  0 ,  2 ,  0 ,Rakan,Pyke,Yasuo,Talon,DrMundo
+2018.0,summer,LCK,5,MVP,T1,1.0,49:12,OK,red,SKT,   DEFEAT   ,85.0k,5,  3 ,  0 ,  1 ,  4 ,  1 ,Aatrox,Taliyah,Nocturne,Zoe,Gnar
+2018.0,summer,LCK,5,MVP,T1,2.0,40:30,OK,blue,SKT,   VICTORY   ,77.7k,11,  11 ,  3 ,  1 ,  3 ,  1 ,Shen,Kindred,Zoe,DrMundo,Talon
+2018.0,summer,LCK,5,MVP,T1,2.0,40:30,OK,red,MVP,   DEFEAT   ,62.9k,3,  4 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Nocturne,Taliyah,Pyke,Yasuo
+2018.0,summer,LCK,5,MVP,T1,3.0,29:46,OK,blue,MVP,   DEFEAT   ,45.6k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Morgana,Yasuo,Zoe,Rumble
+2018.0,summer,LCK,5,MVP,T1,3.0,29:46,OK,red,SKT,   VICTORY   ,60.7k,14,  10 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Taliyah,Nocturne,Talon,Kennen
+2018.0,summer,LCK,5,GenG,DragonX,1.0,28:54,OK,blue,GEN,   VICTORY   ,53.5k,9,  7 ,  1 ,  1 ,  2 ,  0 ,Camille,Zoe,Karthus,DrMundo,Gragas
+2018.0,summer,LCK,5,GenG,DragonX,1.0,28:54,OK,red,KZ,   DEFEAT   ,44.7k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Taliyah,Soraka,Braum
+2018.0,summer,LCK,5,GenG,DragonX,2.0,37:31,OK,blue,KZ,   DEFEAT   ,62.1k,6,  3 ,  0 ,  0 ,  4 ,  1 ,Rakan,TahmKench,Swain,Kled,DrMundo
+2018.0,summer,LCK,5,GenG,DragonX,2.0,37:31,OK,red,GEN,   VICTORY   ,66.4k,10,  7 ,  1 ,  1 ,  0 ,  0 ,Aatrox,Nocturne,Taliyah,Varus,Ashe
+2018.0,summer,LCK,5,Jin Air,bbq,1.0,55:29,OK,blue,JAG,   VICTORY   ,104.8k,14,  11 ,  5 ,  3 ,  6 ,  1 ,Rakan,Morgana,Swain,DrMundo,Kindred
+2018.0,summer,LCK,5,Jin Air,bbq,1.0,55:29,OK,red,bbq,   DEFEAT   ,87.1k,10,  4 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Zoe,Varus,Darius
+2018.0,summer,LCK,5,Jin Air,bbq,2.0,34:47,OK,blue,bbq,   VICTORY   ,67.4k,15,  9 ,  2 ,  1 ,  2 ,  0 ,TahmKench,Morgana,Zoe,Darius,Anivia
+2018.0,summer,LCK,5,Jin Air,bbq,2.0,34:47,OK,red,JAG,   DEFEAT   ,55.6k,4,  2 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Taliyah,Nocturne,Pyke,Thresh
+2018.0,summer,LCK,5,Jin Air,bbq,3.0,30:46,OK,blue,JAG,   DEFEAT   ,46.7k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Rakan,Swain,Morgana,DrMundo,Shen
+2018.0,summer,LCK,5,Jin Air,bbq,3.0,30:46,OK,red,bbq,   VICTORY   ,58.0k,10,  11 ,  2 ,  1 ,  3 ,  1 ,Aatrox,TahmKench,Galio,Ryze,Ezreal
+2018.0,summer,LCK,5,Hanwha,Griffin,1.0,33:49,OK,blue,HLE,   DEFEAT   ,51.9k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Shen,Nocturne,Pyke,Skarner,Camille
+2018.0,summer,LCK,5,Hanwha,Griffin,1.0,33:49,OK,red,GRF,   VICTORY   ,64.9k,14,  9 ,  1 ,  1 ,  3 ,  1 ,Rakan,Aatrox,Taliyah,TahmKench,Soraka
+2018.0,summer,LCK,5,Hanwha,Griffin,2.0,29:49,OK,blue,GRF,   VICTORY   ,58.8k,9,  11 ,  3 ,  1 ,  3 ,  1 ,Rakan,TahmKench,Swain,Gangplank,Darius
+2018.0,summer,LCK,5,Hanwha,Griffin,2.0,29:49,OK,red,HLE,   DEFEAT   ,45.4k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Nocturne,Soraka,DrMundo
+2018.0,summer,LCK,5,KT,T1,1.0,34:49,OK,blue,KT,   DEFEAT   ,54.4k,3,  4 ,  0 ,  0 ,  2 ,  0 ,Galio,Morgana,Pyke,DrMundo,Rumble
+2018.0,summer,LCK,5,KT,T1,1.0,34:49,OK,red,SKT,   VICTORY   ,61.6k,7,  6 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Nocturne,Taliyah,Darius,Camille
+2018.0,summer,LCK,5,KT,T1,2.0,35:53,OK,blue,SKT,   DEFEAT   ,65.2k,11,  5 ,  0 ,  0 ,  4 ,  1 ,Morgana,Nocturne,Zoe,Yasuo,Jayce
+2018.0,summer,LCK,5,KT,T1,2.0,35:53,OK,red,KT,   VICTORY   ,62.9k,9,  7 ,  1 ,  1 ,  1 ,  0 ,Swain,Aatrox,Taliyah,Darius,Gangplank
+2018.0,summer,LCK,5,KT,T1,3.0,29:06,OK,blue,KT,   VICTORY   ,59.9k,9,  11 ,  2 ,  1 ,  2 ,  1 ,Galio,Pyke,Trundle,Ryze,TahmKench
+2018.0,summer,LCK,5,KT,T1,3.0,29:06,OK,red,SKT,   DEFEAT   ,43.2k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Nocturne,Taliyah,Darius,Kennen
+2018.0,summer,LCK,5,Jin Air,MVP,1.0,35:39,OK,blue,JAG,   VICTORY   ,71.5k,13,  11 ,  3 ,  1 ,  3 ,  1 ,Morgana,TahmKench,Rakan,Lucian,Ezreal
+2018.0,summer,LCK,5,Jin Air,MVP,1.0,35:39,OK,red,MVP,   DEFEAT   ,56.6k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Swain,Anivia,Galio,Yasuo
+2018.0,summer,LCK,5,Jin Air,MVP,2.0,41:35,OK,blue,MVP,   VICTORY   ,73.9k,9,  9 ,  1 ,  2 ,  0 ,  0 ,Vladimir,Shen,Kindred,Gangplank,Zoe
+2018.0,summer,LCK,5,Jin Air,MVP,2.0,41:35,OK,red,JAG,   DEFEAT   ,70.5k,5,  6 ,  0 ,  0 ,  5 ,  1 ,Aatrox,Taliyah,Nocturne,Sejuani,Gragas
+2018.0,summer,LCK,5,Jin Air,MVP,3.0,28:39,OK,blue,JAG,   VICTORY   ,58.9k,9,  11 ,  2 ,  1 ,  4 ,  0 ,Morgana,TahmKench,Ezreal,DrMundo,Zoe
+2018.0,summer,LCK,5,Jin Air,MVP,3.0,28:39,OK,red,MVP,   DEFEAT   ,44.0k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Nocturne,Vladimir,Shen,Gangplank
+2018.0,summer,LCK,5,bbq,Afreeca,1.0,43:45,OK,blue,bbq,   VICTORY   ,83.2k,12,  10 ,  2 ,  1 ,  5 ,  1 ,TahmKench,Morgana,Shen,Ezreal,Xayah
+2018.0,summer,LCK,5,bbq,Afreeca,1.0,43:45,OK,red,AFs,   DEFEAT   ,73.5k,7,  4 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Taliyah,Kindred,Trundle,Sejuani
+2018.0,summer,LCK,5,bbq,Afreeca,2.0,36:08,OK,blue,AFs,   VICTORY   ,69.8k,5,  11 ,  4 ,  2 ,  5 ,  1 ,Yasuo,Taliyah,Nocturne,Morgana,Kled
+2018.0,summer,LCK,5,bbq,Afreeca,2.0,36:08,OK,red,bbq,   DEFEAT   ,52.2k,0,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Swain,Zoe,Darius,DrMundo
+2018.0,summer,LCK,5,bbq,Afreeca,3.0,49:55,OK,blue,bbq,   VICTORY   ,92.6k,20,  10 ,  2 ,  2 ,  3 ,  0 ,TahmKench,Morgana,Taliyah,Kindred,Talon
+2018.0,summer,LCK,5,bbq,Afreeca,3.0,49:55,OK,red,AFs,   DEFEAT   ,83.2k,14,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Swain,Yasuo,Gnar,Darius
+2018.0,summer,LCK,5,Griffin,KT,1.0,45:40,OK,blue,GRF,   DEFEAT   ,76.3k,6,  7 ,  2 ,  1 ,  2 ,  0 ,Rakan,TahmKench,Nocturne,Gangplank,Kennen
+2018.0,summer,LCK,5,Griffin,KT,1.0,45:40,OK,red,KT,   VICTORY   ,85.7k,9,  11 ,  4 ,  2 ,  2 ,  1 ,Aatrox,Shen,Taliyah,Yasuo,Zoe
+2018.0,summer,LCK,5,Griffin,KT,2.0,31:22,OK,blue,KT,   DEFEAT   ,46.6k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Shen,Morgana,Trundle,Kindred,Gangplank
+2018.0,summer,LCK,5,Griffin,KT,2.0,31:22,OK,red,GRF,   VICTORY   ,64.1k,14,  9 ,  1 ,  1 ,  3 ,  0 ,Rakan,Aatrox,TahmKench,Varus,Ashe
+2018.0,summer,LCK,5,Griffin,KT,3.0,49:28,OK,blue,GRF,   DEFEAT   ,80.0k,11,  2 ,  0 ,  1 ,  1 ,  0 ,Rakan,TahmKench,Kennen,Darius,Gangplank
+2018.0,summer,LCK,5,Griffin,KT,3.0,49:28,OK,red,KT,   VICTORY   ,94.3k,12,  11 ,  3 ,  2 ,  4 ,  1 ,Aatrox,Zoe,DrMundo,Yasuo,Vladimir
+2018.0,summer,LCK,5,T1,Hanwha,1.0,33:25,OK,blue,SKT,   VICTORY   ,62.5k,11,  10 ,  1 ,  1 ,  4 ,  0 ,Zoe,Morgana,Ezreal,Talon,Darius
+2018.0,summer,LCK,5,T1,Hanwha,1.0,33:25,OK,red,HLE,   DEFEAT   ,51.1k,1,  3 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Swain,Orianna,Camille,DrMundo
+2018.0,summer,LCK,5,T1,Hanwha,2.0,38:22,OK,blue,HLE,   DEFEAT   ,70.1k,10,  7 ,  0 ,  3 ,  3 ,  0 ,Shen,Morgana,Orianna,Gragas,DrMundo
+2018.0,summer,LCK,5,T1,Hanwha,2.0,38:22,OK,red,SKT,   VICTORY   ,63.7k,10,  6 ,  1 ,  0 ,  1 ,  1 ,Aatrox,Taliyah,Swain,Braum,Pyke
+2018.0,summer,LCK,5,DragonX,MVP,1.0,34:14,OK,blue,KZ,   VICTORY   ,68.4k,13,  10 ,  2 ,  1 ,  3 ,  1 ,Lucian,Rakan,Swain,Soraka,Heimerdinger
+2018.0,summer,LCK,5,DragonX,MVP,1.0,34:14,OK,red,MVP,   DEFEAT   ,52.4k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Jayce,Anivia,Gnar,Vladimir
+2018.0,summer,LCK,5,DragonX,MVP,2.0,24:29,OK,blue,MVP,   DEFEAT   ,34.9k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,TahmKench,Taliyah,Camille,Gangplank
+2018.0,summer,LCK,5,DragonX,MVP,2.0,24:29,OK,red,KZ,   VICTORY   ,51.6k,8,  11 ,  3 ,  1 ,  3 ,  1 ,Aatrox,Nocturne,Swain,Heimerdinger,Lucian
+2018.0,summer,LCK,5,Afreeca,GenG,1.0,46:11,OK,blue,AFs,   VICTORY   ,88.6k,18,  11 ,  4 ,  3 ,  4 ,  0 ,Morgana,Ezreal,TahmKench,Camille,Gnar
+2018.0,summer,LCK,5,Afreeca,GenG,1.0,46:11,OK,red,GEN,   DEFEAT   ,81.6k,15,  3 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Zoe,Rakan,Yasuo,Talon
+2018.0,summer,LCK,5,Afreeca,GenG,2.0,28:32,OK,blue,GEN,   VICTORY   ,51.3k,9,  7 ,  1 ,  0 ,  2 ,  1 ,Alistar,Shen,Zoe,Pyke,Gragas
+2018.0,summer,LCK,5,Afreeca,GenG,2.0,28:32,OK,red,AFs,   DEFEAT   ,47.0k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,TahmKench,Xayah,Ezreal
+2018.0,summer,LCK,5,Afreeca,GenG,3.0,30:33,OK,blue,AFs,   DEFEAT   ,46.3k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Morgana,TahmKench,Ezreal,Xayah,Varus
+2018.0,summer,LCK,5,Afreeca,GenG,3.0,30:33,OK,red,GEN,   VICTORY   ,58.1k,13,  8 ,  1 ,  1 ,  3 ,  1 ,Aatrox,Swain,Taliyah,Gangplank,Camille
+2018.0,summer,LCK,6,Griffin,DragonX,1.0,41:15,OK,blue,GRF,   VICTORY   ,77.5k,15,  9 ,  1 ,  1 ,  3 ,  0 ,Rakan,TahmKench,Ashe,Gangplank,DrMundo
+2018.0,summer,LCK,6,Griffin,DragonX,1.0,41:15,OK,red,KZ,   DEFEAT   ,67.9k,6,  5 ,  0 ,  1 ,  2 ,  1 ,Aatrox,Shen,Zoe,Jayce,Darius
+2018.0,summer,LCK,6,Griffin,DragonX,2.0,44:32,OK,blue,KZ,   DEFEAT   ,69.1k,0,  1 ,  0 ,  0 ,  2 ,  0 ,Shen,Zoe,Morgana,Vladimir,DrMundo
+2018.0,summer,LCK,6,Griffin,DragonX,2.0,44:32,OK,red,GRF,   VICTORY   ,88.4k,8,  11 ,  4 ,  2 ,  3 ,  1 ,Aatrox,Rakan,Taliyah,Leblanc,Kennen
+2018.0,summer,LCK,6,GenG,KT,1.0,50:40,OK,blue,GEN,   DEFEAT   ,87.8k,5,  4 ,  0 ,  0 ,  3 ,  1 ,Yasuo,Trundle,Shen,Camille,Kindred
+2018.0,summer,LCK,6,GenG,KT,1.0,50:40,OK,red,KT,   VICTORY   ,93.8k,12,  10 ,  2 ,  1 ,  2 ,  0 ,Aatrox,Taliyah,Orianna,Zoe,Ryze
+2018.0,summer,LCK,6,GenG,KT,2.0,36:58,OK,blue,KT,   VICTORY   ,72.4k,13,  11 ,  3 ,  2 ,  2 ,  1 ,Trundle,Galio,TahmKench,Braum,Orianna
+2018.0,summer,LCK,6,GenG,KT,2.0,36:58,OK,red,GEN,   DEFEAT   ,61.3k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Taliyah,Rakan,Ashe,Ezreal
+2018.0,summer,LCK,6,T1,bbq,1.0,31:54,OK,blue,SKT,   VICTORY   ,62.9k,12,  10 ,  2 ,  1 ,  3 ,  1 ,Zoe,Gragas,Nocturne,Darius,Orianna
+2018.0,summer,LCK,6,T1,bbq,1.0,31:54,OK,red,bbq,   DEFEAT   ,48.9k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,TahmKench,Taliyah,Kindred,Leblanc
+2018.0,summer,LCK,6,T1,bbq,2.0,32:01,OK,blue,bbq,   VICTORY   ,62.8k,9,  11 ,  3 ,  1 ,  1 ,  1 ,Gragas,Jayce,Varus,Alistar,Shen
+2018.0,summer,LCK,6,T1,bbq,2.0,32:01,OK,red,SKT,   DEFEAT   ,52.1k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Swain,Yasuo,Leblanc
+2018.0,summer,LCK,6,T1,bbq,3.0,33:06,OK,blue,SKT,   VICTORY   ,64.3k,7,  11 ,  3 ,  1 ,  3 ,  1 ,Trundle,Swain,Ezreal,Varus,Yasuo
+2018.0,summer,LCK,6,T1,bbq,3.0,33:06,OK,red,bbq,   DEFEAT   ,49.8k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Rakan,Taliyah,Orianna,Galio
+2018.0,summer,LCK,6,Hanwha,Jin Air,1.0,38:43,OK,blue,HLE,   DEFEAT   ,62.6k,2,  4 ,  0 ,  0 ,  2 ,  1 ,Galio,TahmKench,Rakan,Talon,Zoe
+2018.0,summer,LCK,6,Hanwha,Jin Air,1.0,38:43,OK,red,JAG,   VICTORY   ,69.8k,16,  8 ,  1 ,  0 ,  1 ,  0 ,Aatrox,Swain,Morgana,DrMundo,Yasuo
+2018.0,summer,LCK,6,Hanwha,Jin Air,2.0,30:04,OK,blue,JAG,   DEFEAT   ,46.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Morgana,TahmKench,Ezreal,Chogath,DrMundo
+2018.0,summer,LCK,6,Hanwha,Jin Air,2.0,30:04,OK,red,HLE,   VICTORY   ,60.5k,15,  11 ,  3 ,  1 ,  3 ,  1 ,Aatrox,Taliyah,Swain,Yasuo,Lucian
+2018.0,summer,LCK,6,Hanwha,Jin Air,3.0,32:46,OK,blue,HLE,   VICTORY   ,63.4k,11,  11 ,  3 ,  1 ,  4 ,  1 ,TahmKench,Galio,Taliyah,Vladimir,Yasuo
+2018.0,summer,LCK,6,Hanwha,Jin Air,3.0,32:46,OK,red,JAG,   DEFEAT   ,53.1k,8,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Trundle,Swain,DrMundo,Gangplank
+2018.0,summer,LCK,6,MVP,Afreeca,1.0,38:41,OK,blue,MVP,   VICTORY   ,72.0k,13,  11 ,  3 ,  2 ,  1 ,  1 ,Rakan,Zoe,Orianna,Gangplank,Darius
+2018.0,summer,LCK,6,MVP,Afreeca,1.0,38:41,OK,red,AFs,   DEFEAT   ,64.3k,11,  4 ,  0 ,  0 ,  4 ,  0 ,Aatrox,Taliyah,Morgana,Talon,Anivia
+2018.0,summer,LCK,6,MVP,Afreeca,2.0,26:20,OK,blue,AFs,   VICTORY   ,52.2k,11,  11 ,  3 ,  0 ,  2 ,  1 ,Karthus,Mordekaiser,Morgana,Sion,DrMundo
+2018.0,summer,LCK,6,MVP,Afreeca,2.0,26:20,OK,red,MVP,   DEFEAT   ,40.3k,1,  0 ,  0 ,  1 ,  0 ,  0 ,Aatrox,Taliyah,Rakan,Gangplank,Darius
+2018.0,summer,LCK,6,MVP,Afreeca,3.0,25:58,OK,blue,MVP,   DEFEAT   ,39.8k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Rakan,Alistar,Talon,Trundle,Varus
+2018.0,summer,LCK,6,MVP,Afreeca,3.0,25:58,OK,red,AFs,   VICTORY   ,55.5k,17,  7 ,  1 ,  1 ,  1 ,  1 ,Aatrox,Karthus,Mordekaiser,Morgana,TahmKench
+2018.0,summer,LCK,6,DragonX,KT,1.0,46:10,OK,blue,KZ,   VICTORY   ,84.7k,16,  9 ,  2 ,  2 ,  3 ,  1 ,Gragas,Kindred,Sejuani,Orianna,Azir
+2018.0,summer,LCK,6,DragonX,KT,1.0,46:10,OK,red,KT,   DEFEAT   ,75.6k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Taliyah,Zoe,Ryze,Kaisa
+2018.0,summer,LCK,6,DragonX,KT,2.0,27:48,OK,blue,KT,   VICTORY   ,57.5k,14,  10 ,  1 ,  1 ,  2 ,  1 ,Zoe,Alistar,TahmKench,Chogath,Gangplank
+2018.0,summer,LCK,6,DragonX,KT,2.0,27:48,OK,red,KZ,   DEFEAT   ,42.0k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Sejuani,Kindred,Ezreal,Jayce
+2018.0,summer,LCK,6,DragonX,KT,3.0,41:29,OK,blue,KZ,   VICTORY   ,71.4k,11,  9 ,  3 ,  1 ,  3 ,  0 ,Gragas,Sejuani,Kindred,Gnar,Nocturne
+2018.0,summer,LCK,6,DragonX,KT,3.0,41:29,OK,red,KT,   DEFEAT   ,62.2k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Zoe,Ryze,Velkoz
+2018.0,summer,LCK,6,GenG,Griffin,1.0,36:12,OK,blue,GEN,   VICTORY   ,68.2k,13,  9 ,  1 ,  0 ,  4 ,  1 ,Shen,Pyke,Morgana,Jayce,Ezreal
+2018.0,summer,LCK,6,GenG,Griffin,1.0,36:12,OK,red,GRF,   DEFEAT   ,55.4k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Rakan,Taliyah,Gangplank,AurelionSol
+2018.0,summer,LCK,6,GenG,Griffin,2.0,54:34,OK,blue,GRF,   DEFEAT   ,96.3k,17,  6 ,  1 ,  0 ,  4 ,  0 ,Rakan,TahmKench,Ashe,AurelionSol,Zoe
+2018.0,summer,LCK,6,GenG,Griffin,2.0,54:34,OK,red,GEN,   VICTORY   ,99.7k,11,  11 ,  3 ,  2 ,  3 ,  1 ,Aatrox,Taliyah,Trundle,Jayce,Camille
+2018.0,summer,LCK,6,bbq,Hanwha,1.0,34:31,OK,blue,bbq,   DEFEAT   ,52.9k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Jayce,Zoe,Taliyah,Camille,Kennen
+2018.0,summer,LCK,6,bbq,Hanwha,1.0,34:31,OK,red,HLE,   VICTORY   ,69.1k,8,  11 ,  4 ,  2 ,  4 ,  1 ,Aatrox,Swain,Rakan,Varus,Ezreal
+2018.0,summer,LCK,6,bbq,Hanwha,2.0,31:12,OK,blue,HLE,   DEFEAT   ,49.4k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Rakan,Galio,Taliyah,Jayce,Yasuo
+2018.0,summer,LCK,6,bbq,Hanwha,2.0,31:12,OK,red,bbq,   VICTORY   ,63.4k,14,  11 ,  3 ,  1 ,  3 ,  1 ,Aatrox,Kindred,Zoe,Malphite,Camille
+2018.0,summer,LCK,6,bbq,Hanwha,3.0,29:00,OK,blue,bbq,   DEFEAT   ,45.3k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Jayce,Zoe,Taliyah,Kennen,Gnar
+2018.0,summer,LCK,6,bbq,Hanwha,3.0,29:00,OK,red,HLE,   VICTORY   ,54.8k,6,  11 ,  3 ,  1 ,  2 ,  1 ,Aatrox,Swain,Rakan,Ezreal,Varus
+2018.0,summer,LCK,6,Jin Air,T1,1.0,50:57,OK,blue,JAG,   DEFEAT   ,84.7k,6,  2 ,  0 ,  0 ,  2 ,  0 ,Morgana,Orianna,Trundle,Darius,Jayce
+2018.0,summer,LCK,6,Jin Air,T1,1.0,50:57,OK,red,SKT,   VICTORY   ,103.3k,12,  11 ,  3 ,  2 ,  4 ,  1 ,Aatrox,Taliyah,Nocturne,Zoe,Galio
+2018.0,summer,LCK,6,Jin Air,T1,2.0,23:59,OK,blue,SKT,   VICTORY   ,51.4k,13,  11 ,  2 ,  1 ,  2 ,  1 ,Rakan,Nocturne,Varus,Azir,Darius
+2018.0,summer,LCK,6,Jin Air,T1,2.0,23:59,OK,red,JAG,   DEFEAT   ,32.4k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Swain,Malphite,Ashe
+2018.0,summer,LCK,6,Afreeca,DragonX,1.0,34:53,OK,blue,AFs,   DEFEAT   ,56.7k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Kindred,Varus,Taliyah,Jayce,Skarner
+2018.0,summer,LCK,6,Afreeca,DragonX,1.0,34:53,OK,red,KZ,   VICTORY   ,66.4k,12,  10 ,  2 ,  1 ,  4 ,  0 ,Aatrox,Trundle,Zoe,Velkoz,Leblanc
+2018.0,summer,LCK,6,Afreeca,DragonX,2.0,38:36,OK,blue,KZ,   VICTORY   ,76.2k,22,  9 ,  2 ,  1 ,  3 ,  1 ,Yasuo,Leblanc,Talon,Darius,Trundle
+2018.0,summer,LCK,6,Afreeca,DragonX,2.0,38:36,OK,red,AFs,   DEFEAT   ,61.3k,12,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Varus,Kindred,Jayce
+2018.0,summer,LCK,6,Griffin,MVP,1.0,33:27,OK,blue,GRF,   VICTORY   ,64.3k,15,  7 ,  1 ,  1 ,  3 ,  1 ,Rakan,TahmKench,Ashe,Gangplank,Camille
+2018.0,summer,LCK,6,Griffin,MVP,1.0,33:27,OK,red,MVP,   DEFEAT   ,55.4k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Trundle,Yasuo,Kaisa
+2018.0,summer,LCK,6,Griffin,MVP,2.0,34:32,OK,blue,MVP,   DEFEAT   ,53.8k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Shen,Vladimir,Trundle,Galio,DrMundo
+2018.0,summer,LCK,6,Griffin,MVP,2.0,34:32,OK,red,GRF,   VICTORY   ,66.1k,11,  8 ,  1 ,  0 ,  3 ,  1 ,Taliyah,Aatrox,TahmKench,Varus,Xayah
+2018.0,summer,LCK,6,T1,GenG,1.0,38:08,OK,blue,SKT,   VICTORY   ,72.3k,9,  9 ,  1 ,  2 ,  3 ,  1 ,Rakan,Alistar,Ezreal,Gnar,Morgana
+2018.0,summer,LCK,6,T1,GenG,1.0,38:08,OK,red,GEN,   DEFEAT   ,58.8k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Orianna,Leblanc,Jayce
+2018.0,summer,LCK,6,T1,GenG,2.0,44:27,OK,blue,GEN,   VICTORY   ,77.7k,11,  7 ,  1 ,  0 ,  3 ,  0 ,Orianna,Sejuani,TahmKench,Jayce,Gangplank
+2018.0,summer,LCK,6,T1,GenG,2.0,44:27,OK,red,SKT,   DEFEAT   ,79.9k,13,  7 ,  0 ,  2 ,  2 ,  1 ,Aatrox,Taliyah,Rakan,Trundle,Nocturne
+2018.0,summer,LCK,6,T1,GenG,3.0,40:33,OK,blue,SKT,   VICTORY   ,74.3k,15,  7 ,  1 ,  0 ,  1 ,  1 ,Rakan,Zoe,Gnar,Galio,DrMundo
+2018.0,summer,LCK,6,T1,GenG,3.0,40:33,OK,red,GEN,   DEFEAT   ,68.8k,8,  2 ,  0 ,  0 ,  3 ,  0 ,Aatrox,Orianna,Sejuani,Darius,Gangplank
+2018.0,summer,LCK,6,KT,bbq,1.0,35:46,OK,blue,KT,   VICTORY   ,63.3k,7,  7 ,  1 ,  1 ,  1 ,  1 ,Ezreal,Trundle,TahmKench,Chogath,Zoe
+2018.0,summer,LCK,6,KT,bbq,1.0,35:46,OK,red,bbq,   DEFEAT   ,63.9k,12,  5 ,  0 ,  1 ,  3 ,  0 ,Aatrox,Rakan,Taliyah,Jayce,Leblanc
+2018.0,summer,LCK,6,KT,bbq,2.0,35:16,OK,blue,bbq,   DEFEAT   ,57.9k,7,  3 ,  0 ,  0 ,  0 ,  1 ,Varus,Ezreal,TahmKench,Jayce,Kaisa
+2018.0,summer,LCK,6,KT,bbq,2.0,35:16,OK,red,KT,   VICTORY   ,67.1k,12,  10 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Taliyah,Trundle,Chogath,Yasuo
+2018.0,summer,LCK,7,Jin Air,Griffin,1.0,40:15,OK,blue,JAG,   DEFEAT   ,65.4k,0,  3 ,  0 ,  0 ,  1 ,  1 ,Shen,Trundle,Morgana,Yasuo,Varus
+2018.0,summer,LCK,7,Jin Air,Griffin,1.0,40:15,OK,red,GRF,   VICTORY   ,79.0k,8,  11 ,  3 ,  1 ,  3 ,  0 ,Taliyah,Rakan,Aatrox,Leblanc,Azir
+2018.0,summer,LCK,7,Jin Air,Griffin,2.0,38:33,OK,blue,GRF,   DEFEAT   ,60.2k,1,  0 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Rakan,Alistar,Azir,Morgana
+2018.0,summer,LCK,7,Jin Air,Griffin,2.0,38:33,OK,red,JAG,   VICTORY   ,73.2k,8,  11 ,  3 ,  1 ,  4 ,  1 ,Aatrox,Taliyah,Shen,Varus,Soraka
+2018.0,summer,LCK,7,Jin Air,Griffin,3.0,40:22,OK,blue,JAG,   VICTORY   ,76.4k,11,  11 ,  2 ,  1 ,  4 ,  1 ,Shen,Trundle,Yasuo,Gangplank,Ezreal
+2018.0,summer,LCK,7,Jin Air,Griffin,3.0,40:22,OK,red,GRF,   DEFEAT   ,63.1k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Rakan,Varus,Ashe
+2018.0,summer,LCK,7,DragonX,Hanwha,1.0,41:46,OK,blue,KZ,   DEFEAT   ,70.0k,4,  4 ,  0 ,  0 ,  1 ,  0 ,Orianna,Shen,Zoe,Swain,Syndra
+2018.0,summer,LCK,7,DragonX,Hanwha,1.0,41:46,OK,red,HLE,   VICTORY   ,76.1k,12,  10 ,  4 ,  1 ,  3 ,  0 ,Aatrox,Rakan,Taliyah,Kindred,Nocturne
+2018.0,summer,LCK,7,DragonX,Hanwha,2.0,50:22,OK,blue,HLE,   DEFEAT   ,88.6k,15,  7 ,  1 ,  1 ,  0 ,  1 ,Rakan,Shen,TahmKench,Morgana,Darius
+2018.0,summer,LCK,7,DragonX,Hanwha,2.0,50:22,OK,red,KZ,   VICTORY   ,96.2k,21,  7 ,  1 ,  1 ,  5 ,  0 ,Aatrox,Taliyah,Orianna,Talon,Leblanc
+2018.0,summer,LCK,7,DragonX,Hanwha,3.0,38:28,OK,blue,KZ,   VICTORY   ,74.3k,12,  9 ,  1 ,  1 ,  4 ,  1 ,Orianna,Shen,Kalista,Varus,Jhin
+2018.0,summer,LCK,7,DragonX,Hanwha,3.0,38:28,OK,red,HLE,   DEFEAT   ,57.3k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Rakan,Taliyah,Braum,Alistar
+2018.0,summer,LCK,7,bbq,GenG,1.0,31:37,OK,blue,bbq,   DEFEAT   ,50.9k,0,  2 ,  0 ,  0 ,  0 ,  1 ,Ezreal,Zoe,Galio,Braum,Rakan
+2018.0,summer,LCK,7,bbq,GenG,1.0,31:37,OK,red,GEN,   VICTORY   ,60.5k,8,  11 ,  3 ,  1 ,  3 ,  0 ,Aatrox,Taliyah,Azir,Jayce,Gangplank
+2018.0,summer,LCK,7,bbq,GenG,2.0,33:59,OK,blue,GEN,   VICTORY   ,65.0k,7,  11 ,  3 ,  1 ,  4 ,  1 ,Azir,Kindred,Jayce,Gangplank,Gnar
+2018.0,summer,LCK,7,bbq,GenG,2.0,33:59,OK,red,bbq,   DEFEAT   ,50.5k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Trundle,Taliyah,Camille,Braum
+2018.0,summer,LCK,7,T1,Afreeca,1.0,42:33,OK,blue,SKT,   VICTORY   ,80.5k,11,  9 ,  1 ,  1 ,  4 ,  0 ,Alistar,Rakan,Zoe,Ashe,Kaisa
+2018.0,summer,LCK,7,T1,Afreeca,1.0,42:33,OK,red,AFs,   DEFEAT   ,70.2k,2,  3 ,  0 ,  1 ,  2 ,  1 ,Aatrox,Taliyah,TahmKench,Camille,Orianna
+2018.0,summer,LCK,7,T1,Afreeca,2.0,46:08,OK,blue,AFs,   VICTORY   ,90.8k,13,  11 ,  5 ,  2 ,  4 ,  1 ,Ezreal,TahmKench,Morgana,Kennen,DrMundo
+2018.0,summer,LCK,7,T1,Afreeca,2.0,46:08,OK,red,SKT,   DEFEAT   ,74.3k,4,  0 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Taliyah,Rakan,Darius,Gnar
+2018.0,summer,LCK,7,T1,Afreeca,3.0,32:55,OK,blue,SKT,   DEFEAT   ,57.0k,3,  6 ,  0 ,  1 ,  1 ,  1 ,Yasuo,Swain,Rakan,Gnar,Camille
+2018.0,summer,LCK,7,T1,Afreeca,3.0,32:55,OK,red,AFs,   VICTORY   ,60.3k,14,  7 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Taliyah,Ezreal,Kennen,Vladimir
+2018.0,summer,LCK,7,Hanwha,MVP,1.0,37:06,OK,blue,HLE,   VICTORY   ,71.5k,4,  11 ,  3 ,  1 ,  3 ,  1 ,Rakan,TahmKench,Galio,Kalista,Tristana
+2018.0,summer,LCK,7,Hanwha,MVP,1.0,37:06,OK,red,MVP,   DEFEAT   ,58.4k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Trundle,Yasuo,Leblanc
+2018.0,summer,LCK,7,Hanwha,MVP,2.0,34:51,OK,blue,MVP,   DEFEAT   ,58.4k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Ryze,Shen,Kindred,Orianna,Zoe
+2018.0,summer,LCK,7,Hanwha,MVP,2.0,34:51,OK,red,HLE,   VICTORY   ,69.4k,14,  10 ,  2 ,  1 ,  3 ,  1 ,Aatrox,Rakan,Taliyah,Leblanc,Yasuo
+2018.0,summer,LCK,7,Jin Air,KT,1.0,39:16,OK,blue,JAG,   VICTORY   ,75.2k,15,  9 ,  1 ,  1 ,  4 ,  1 ,Yasuo,Rakan,Leblanc,Gangplank,Varus
+2018.0,summer,LCK,7,Jin Air,KT,1.0,39:16,OK,red,KT,   DEFEAT   ,63.9k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,TahmKench,Jhin,Ezreal
+2018.0,summer,LCK,7,Jin Air,KT,2.0,32:27,OK,blue,KT,   VICTORY   ,63.9k,4,  11 ,  3 ,  1 ,  1 ,  1 ,TahmKench,Morgana,Zoe,Gangplank,Camille
+2018.0,summer,LCK,7,Jin Air,KT,2.0,32:27,OK,red,JAG,   DEFEAT   ,48.2k,0,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Taliyah,Shen,Yasuo,Azir
+2018.0,summer,LCK,7,Jin Air,KT,3.0,50:57,OK,blue,JAG,   DEFEAT   ,86.5k,9,  6 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Rakan,Ryze,Trundle,Gragas
+2018.0,summer,LCK,7,Jin Air,KT,3.0,50:57,OK,red,KT,   VICTORY   ,90.0k,10,  11 ,  5 ,  2 ,  5 ,  1 ,Aatrox,Taliyah,TahmKench,Camille,Kennen
+2018.0,summer,LCK,7,T1,Griffin,1.0,37:14,OK,blue,SKT,   DEFEAT   ,59.3k,2,  2 ,  0 ,  0 ,  2 ,  1 ,Shen,Morgana,Yasuo,Gnar,Leblanc
+2018.0,summer,LCK,7,T1,Griffin,1.0,37:14,OK,red,GRF,   VICTORY   ,71.6k,8,  9 ,  1 ,  2 ,  3 ,  0 ,Taliyah,Aatrox,Ashe,Kennen,Darius
+2018.0,summer,LCK,7,T1,Griffin,2.0,35:36,OK,blue,GRF,   VICTORY   ,68.4k,20,  8 ,  1 ,  1 ,  0 ,  0 ,,,,,
+2018.0,summer,LCK,7,T1,Griffin,2.0,35:36,OK,red,SKT,   DEFEAT   ,61.5k,8,  6 ,  0 ,  0 ,  4 ,  1 ,,,,,
+2018.0,summer,LCK,7,GenG,Jin Air,1.0,36:26,OK,blue,GEN,   VICTORY   ,69.6k,8,  11 ,  3 ,  2 ,  4 ,  1 ,Kindred,Leblanc,Taliyah,Skarner,Sejuani
+2018.0,summer,LCK,7,GenG,Jin Air,1.0,36:26,OK,red,JAG,   DEFEAT   ,58.0k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Ashe,Rakan,Aatrox,Braum,Soraka
+2018.0,summer,LCK,7,GenG,Jin Air,2.0,38:48,OK,blue,JAG,   VICTORY   ,73.4k,10,  11 ,  4 ,  1 ,  5 ,  1 ,Ashe,Varus,Rakan,Camille,Alistar
+2018.0,summer,LCK,7,GenG,Jin Air,2.0,38:48,OK,red,GEN,   DEFEAT   ,60.2k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Kindred,Leblanc,Yasuo
+2018.0,summer,LCK,7,GenG,Jin Air,3.0,42:38,OK,blue,GEN,   VICTORY   ,73.2k,9,  8 ,  1 ,  0 ,  3 ,  0 ,Kindred,Swain,Taliyah,Gnar,Jayce
+2018.0,summer,LCK,7,GenG,Jin Air,3.0,42:38,OK,red,JAG,   DEFEAT   ,69.3k,7,  3 ,  0 ,  1 ,  1 ,  1 ,Rakan,Trundle,Aatrox,Gangplank,Camille
+2018.0,summer,LCK,7,Afreeca,Hanwha,1.0,39:02,OK,blue,AFs,   DEFEAT   ,66.4k,7,  3 ,  0 ,  1 ,  0 ,  0 ,Morgana,TahmKench,Shen,Kalista,Gangplank
+2018.0,summer,LCK,7,Afreeca,Hanwha,1.0,39:02,OK,red,HLE,   VICTORY   ,76.4k,10,  11 ,  4 ,  2 ,  4 ,  1 ,Aatrox,Taliyah,Yasuo,Velkoz,Zoe
+2018.0,summer,LCK,7,Afreeca,Hanwha,2.0,33:28,OK,blue,HLE,   DEFEAT   ,54.7k,3,  2 ,  0 ,  1 ,  1 ,  0 ,Yasuo,Galio,Zoe,Darius,Gangplank
+2018.0,summer,LCK,7,Afreeca,Hanwha,2.0,33:28,OK,red,AFs,   VICTORY   ,59.2k,10,  7 ,  1 ,  0 ,  2 ,  1 ,Aatrox,Taliyah,Shen,Camille,Trundle
+2018.0,summer,LCK,7,Afreeca,Hanwha,3.0,38:29,OK,blue,AFs,   DEFEAT   ,65.4k,8,  3 ,  0 ,  0 ,  0 ,  1 ,TahmKench,Morgana,Rakan,DrMundo,Ezreal
+2018.0,summer,LCK,7,Afreeca,Hanwha,3.0,38:29,OK,red,HLE,   VICTORY   ,69.2k,14,  11 ,  5 ,  2 ,  4 ,  0 ,Aatrox,Taliyah,Yasuo,Galio,Leblanc
+2018.0,summer,LCK,7,DragonX,bbq,1.0,25:02,OK,blue,KZ,   VICTORY   ,50.9k,12,  10 ,  2 ,  1 ,  2 ,  1 ,Morgana,Alistar,Kindred,Gangplank,Gnar
+2018.0,summer,LCK,7,DragonX,bbq,1.0,25:02,OK,red,bbq,   DEFEAT   ,36.8k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Ryze,Taliyah,Zoe,Xerath
+2018.0,summer,LCK,7,DragonX,bbq,2.0,29:11,OK,blue,bbq,   DEFEAT   ,43.8k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,Trundle,Jayce,Gnar,Darius
+2018.0,summer,LCK,7,DragonX,bbq,2.0,29:11,OK,red,KZ,   VICTORY   ,60.2k,10,  11 ,  1 ,  1 ,  3 ,  1 ,Aatrox,Taliyah,Ezreal,Kennen,Chogath
+2018.0,summer,LCK,8,GenG,MVP,1.0,31:00,OK,blue,GEN,   VICTORY   ,58.4k,8,  10 ,  2 ,  1 ,  4 ,  1 ,Kindred,Ryze,Taliyah,Gangplank,Sejuani
+2018.0,summer,LCK,8,GenG,MVP,1.0,31:00,OK,red,MVP,   DEFEAT   ,47.6k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Trundle,Aatrox,Camille,Olaf
+2018.0,summer,LCK,8,GenG,MVP,2.0,26:51,OK,blue,MVP,   DEFEAT   ,42.4k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,TahmKench,Trundle,Soraka,Camille
+2018.0,summer,LCK,8,GenG,MVP,2.0,26:51,OK,red,GEN,   VICTORY   ,55.4k,9,  11 ,  2 ,  1 ,  2 ,  1 ,Taliyah,Aatrox,Ryze,Gragas,Zac
+2018.0,summer,LCK,8,Hanwha,KT,1.0,35:52,OK,blue,HLE,   DEFEAT   ,57.7k,3,  3 ,  0 ,  1 ,  2 ,  1 ,Shen,Rakan,Sejuani,Gragas,Darius
+2018.0,summer,LCK,8,Hanwha,KT,1.0,35:52,OK,red,KT,   VICTORY   ,65.1k,12,  9 ,  1 ,  0 ,  2 ,  0 ,Aatrox,Taliyah,Zoe,Ryze,Xerath
+2018.0,summer,LCK,8,Hanwha,KT,2.0,31:01,OK,blue,KT,   VICTORY   ,64.4k,15,  11 ,  3 ,  1 ,  2 ,  1 ,Ryze,Braum,Zoe,Camille,Swain
+2018.0,summer,LCK,8,Hanwha,KT,2.0,31:01,OK,red,HLE,   DEFEAT   ,47.0k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Azir,Kennen,Gnar
+2018.0,summer,LCK,8,Afreeca,Jin Air,1.0,36:27,OK,blue,AFs,   VICTORY   ,70.7k,16,  10 ,  1 ,  1 ,  4 ,  1 ,Morgana,TahmKench,Braum,Chogath,Gangplank
+2018.0,summer,LCK,8,Afreeca,Jin Air,1.0,36:27,OK,red,JAG,   DEFEAT   ,56.1k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Rakan,Shen,Pyke,Velkoz,Camille
+2018.0,summer,LCK,8,Afreeca,Jin Air,2.0,38:38,OK,blue,JAG,   DEFEAT   ,60.2k,2,  3 ,  0 ,  0 ,  2 ,  0 ,Rakan,Alistar,Morgana,Gangplank,Yasuo
+2018.0,summer,LCK,8,Afreeca,Jin Air,2.0,38:38,OK,red,AFs,   VICTORY   ,66.7k,8,  7 ,  1 ,  0 ,  2 ,  0 ,Aatrox,Taliyah,Shen,Zoe,Leblanc
+2018.0,summer,LCK,8,Griffin,bbq,1.0,37:10,OK,blue,GRF,   VICTORY   ,69.2k,9,  10 ,  2 ,  2 ,  0 ,  1 ,Orianna,Alistar,Syndra,Kennen,Camille
+2018.0,summer,LCK,8,Griffin,bbq,1.0,37:10,OK,red,bbq,   DEFEAT   ,60.4k,4,  6 ,  0 ,  0 ,  4 ,  0 ,Aatrox,Taliyah,Jayce,Kindred,Gnar
+2018.0,summer,LCK,8,Griffin,bbq,2.0,30:19,OK,blue,bbq,   DEFEAT   ,45.9k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Morgana,Shen,TahmKench,Jayce,Zoe
+2018.0,summer,LCK,8,Griffin,bbq,2.0,30:19,OK,red,GRF,   VICTORY   ,61.3k,13,  9 ,  2 ,  2 ,  2 ,  1 ,Aatrox,Taliyah,Kindred,Camille,Kennen
+2018.0,summer,LCK,8,T1,DragonX,1.0,39:27,OK,blue,SKT,   DEFEAT   ,66.7k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Jayce,Trundle,AurelionSol,Gnar,Darius
+2018.0,summer,LCK,8,T1,DragonX,1.0,39:27,OK,red,KZ,   VICTORY   ,76.6k,15,  11 ,  3 ,  1 ,  4 ,  1 ,Aatrox,Taliyah,Varus,Kennen,Kindred
+2018.0,summer,LCK,8,T1,DragonX,2.0,23:06,OK,blue,KZ,   VICTORY   ,50.4k,22,  10 ,  1 ,  1 ,  2 ,  1 ,Morgana,Rakan,Ryze,Leblanc,Kennen
+2018.0,summer,LCK,8,T1,DragonX,2.0,23:06,OK,red,SKT,   DEFEAT   ,34.5k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,Camille,Gnar,Darius
+2018.0,summer,LCK,8,MVP,KT,1.0,31:32,OK,blue,MVP,   DEFEAT   ,51.9k,7,  3 ,  0 ,  0 ,  0 ,  1 ,Yasuo,Rakan,Ryze,Gnar,Jayce
+2018.0,summer,LCK,8,MVP,KT,1.0,31:32,OK,red,KT,   VICTORY   ,56.5k,10,  7 ,  1 ,  0 ,  2 ,  0 ,Aatrox,Taliyah,Trundle,Gangplank,Skarner
+2018.0,summer,LCK,8,MVP,KT,2.0,30:37,OK,blue,KT,   VICTORY   ,59.3k,6,  11 ,  3 ,  1 ,  3 ,  0 ,Zoe,Ryze,Trundle,Camille,Alistar
+2018.0,summer,LCK,8,MVP,KT,2.0,30:37,OK,red,MVP,   DEFEAT   ,46.3k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Taliyah,TahmKench,Jayce,Kennen

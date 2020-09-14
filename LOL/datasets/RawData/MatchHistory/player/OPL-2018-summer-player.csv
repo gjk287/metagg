@@ -1,0 +1,95 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2018.0,summer,OPL,1,Mammoth,Bombers,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Mammoth,Bombers,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Chiefs Esports,Legacy Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Chiefs Esports,Legacy Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Tectonic,Avant Gaming,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Tectonic,Avant Gaming,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Tectonic,Avant Gaming,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Dire Wolves,ORDER,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Dire Wolves,ORDER,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,1,Dire Wolves,ORDER,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,Chiefs Esports,Mammoth,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,Chiefs Esports,Mammoth,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,Legacy Esports,Bombers,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,Legacy Esports,Bombers,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,Legacy Esports,Bombers,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,ORDER,Tectonic,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,ORDER,Tectonic,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,Avant Gaming,Dire Wolves,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,Avant Gaming,Dire Wolves,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,2,Avant Gaming,Dire Wolves,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Dire Wolves,Tectonic,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Dire Wolves,Tectonic,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Avant Gaming,ORDER,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Avant Gaming,ORDER,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Chiefs Esports,Bombers,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Chiefs Esports,Bombers,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Chiefs Esports,Bombers,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Legacy Esports,Mammoth,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Legacy Esports,Mammoth,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,3,Legacy Esports,Mammoth,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Tectonic,Chiefs Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Tectonic,Chiefs Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Dire Wolves,Legacy Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Dire Wolves,Legacy Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Mammoth,ORDER,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Mammoth,ORDER,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Mammoth,ORDER,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Avant Gaming,Bombers,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,4,Avant Gaming,Bombers,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,5,ORDER,Bombers,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,5,ORDER,Bombers,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,5,Chiefs Esports,Dire Wolves,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,5,Chiefs Esports,Dire Wolves,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,5,Mammoth,Tectonic,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,5,Mammoth,Tectonic,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,5,Legacy Esports,Avant Gaming,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,5,Legacy Esports,Avant Gaming,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,Tectonic,Legacy Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,Tectonic,Legacy Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,Avant Gaming,Mammoth,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,Avant Gaming,Mammoth,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,Avant Gaming,Mammoth,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,Bombers,Dire Wolves,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,Bombers,Dire Wolves,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,Bombers,Dire Wolves,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,ORDER,Chiefs Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,6,ORDER,Chiefs Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,7,Dire Wolves,Mammoth,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,7,Dire Wolves,Mammoth,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,7,Legacy Esports,ORDER,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,7,Legacy Esports,ORDER,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,7,Bombers,Tectonic,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,7,Bombers,Tectonic,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,7,Chiefs Esports,Avant Gaming,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,7,Chiefs Esports,Avant Gaming,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,Tectonic,Dire Wolves,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,Tectonic,Dire Wolves,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,Bombers,Legacy Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,Bombers,Legacy Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,Bombers,Legacy Esports,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,Mammoth,Chiefs Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,Mammoth,Chiefs Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,ORDER,Avant Gaming,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,ORDER,Avant Gaming,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,8,ORDER,Avant Gaming,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Dire Wolves,Avant Gaming,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Dire Wolves,Avant Gaming,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Legacy Esports,Chiefs Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Legacy Esports,Chiefs Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Tectonic,ORDER,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Tectonic,ORDER,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Bombers,Mammoth,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Bombers,Mammoth,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,9,Bombers,Mammoth,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,Avant Gaming,Tectonic,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,Avant Gaming,Tectonic,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,Avant Gaming,Tectonic,3.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,Mammoth,Legacy Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,Mammoth,Legacy Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,Bombers,Chiefs Esports,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,Bombers,Chiefs Esports,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,ORDER,Dire Wolves,1.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,ORDER,Dire Wolves,2.0,this row doesn't have MH_url
+2018.0,summer,OPL,10,ORDER,Dire Wolves,3.0,this row doesn't have MH_url

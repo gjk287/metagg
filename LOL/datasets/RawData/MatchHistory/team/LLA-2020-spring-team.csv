@@ -1,0 +1,132 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,LLA,1,Isurus,Infinity Esports,1.0,40:05,OK,blue,ISG,   VICTORY   ,68.8k,16,  8 ,  1 ,  0 ,  4 ,  2 ,Rumble,Elise,Ornn,Gragas,Lissandra
+2020.0,spring,LLA,1,Isurus,Infinity Esports,1.0,40:05,OK,red,INF,   DEFEAT   ,65.1k,5,  6 ,  0 ,  1 ,  1 ,  0 ,Syndra,Aphelios,Soraka,RekSai,Sejuani
+2020.0,spring,LLA,1,Furious Gaming,All Knights,1.0,39:12,OK,blue,FG,   DEFEAT   ,66.9k,10,  3 ,  0 ,  1 ,  4 ,  0 ,Ekko,Lucian,Renekton,Mordekaiser,Zoe
+2020.0,spring,LLA,1,Furious Gaming,All Knights,1.0,39:12,OK,red,AK,   VICTORY   ,72.5k,17,  7 ,  2 ,  1 ,  2 ,  2 ,Pantheon,Sett,Elise,Leblanc,Syndra
+2020.0,spring,LLA,1,Azules Esports,Pixel Esports,1.0,47:48,OK,blue,UCH,   DEFEAT   ,81.0k,13,  6 ,  1 ,  2 ,  3 ,  1 ,Rumble,Soraka,Sona,Irelia,Leblanc
+2020.0,spring,LLA,1,Azules Esports,Pixel Esports,1.0,47:48,OK,red,PIX,   VICTORY   ,88.6k,20,  10 ,  5 ,  1 ,  4 ,  1 ,Aphelios,Pantheon,Lucian,Camille,Renekton
+2020.0,spring,LLA,1,XTEN,Rainbow7,1.0,41:28,OK,blue,XTN,   DEFEAT   ,62.3k,3,  3 ,  0 ,  0 ,  1 ,  1 ,JarvanIV,Elise,Ornn,LeeSin,Fiora
+2020.0,spring,LLA,1,XTEN,Rainbow7,1.0,41:28,OK,red,R7,   VICTORY   ,74.3k,8,  9 ,  2 ,  1 ,  5 ,  1 ,Pantheon,Sett,Aphelios,Soraka,Mordekaiser
+2020.0,spring,LLA,1,Infinity Esports,Rainbow7,1.0,37:50,OK,blue,INF,   VICTORY   ,67.5k,15,  9 ,  2 ,  1 ,  3 ,  1 ,Lucian,Elise,Ornn,Ryze,Karthus
+2020.0,spring,LLA,1,Infinity Esports,Rainbow7,1.0,37:50,OK,red,R7,   DEFEAT   ,60.6k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Pantheon,Soraka,Syndra,Aatrox,Renekton
+2020.0,spring,LLA,1,XTEN,All Knights,1.0,29:32,OK,blue,XTN,   DEFEAT   ,42.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Aatrox,Lucian,Fiora,Ryze
+2020.0,spring,LLA,1,XTEN,All Knights,1.0,29:32,OK,red,AK,   VICTORY   ,59.8k,23,  10 ,  1 ,  1 ,  4 ,  2 ,Pantheon,Sett,Aphelios,Qiyana,Leona
+2020.0,spring,LLA,1,Furious Gaming,Pixel Esports,1.0,45:47,OK,blue,FG,   DEFEAT   ,74.5k,16,  5 ,  1 ,  0 ,  2 ,  1 ,Ornn,Elise,Sett,Braum,TahmKench
+2020.0,spring,LLA,1,Furious Gaming,Pixel Esports,1.0,45:47,OK,red,PIX,   VICTORY   ,78.2k,19,  7 ,  1 ,  1 ,  4 ,  1 ,Aphelios,Pantheon,Lucian,Leona,Camille
+2020.0,spring,LLA,1,Isurus,Azules Esports,1.0,30:22,OK,blue,ISG,   VICTORY   ,55.2k,8,  9 ,  2 ,  1 ,  4 ,  1 ,Elise,Rumble,Pantheon,Varus,Lucian
+2020.0,spring,LLA,1,Isurus,Azules Esports,1.0,30:22,OK,red,UCH,   DEFEAT   ,48.2k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Soraka,Sett,Senna,Leblanc,LeeSin
+2020.0,spring,LLA,2,All Knights,Infinity Esports,1.0,30:37,OK,blue,AK,   DEFEAT   ,50.4k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Pantheon,Soraka,Sett,Senna,Xayah
+2020.0,spring,LLA,2,All Knights,Infinity Esports,1.0,30:37,OK,red,INF,   VICTORY   ,57.2k,16,  9 ,  2 ,  1 ,  3 ,  1 ,Lucian,Aphelios,Zoe,Ryze,Nautilus
+2020.0,spring,LLA,2,Pixel Esports,XTEN,1.0,48:51,OK,blue,PIX,   DEFEAT   ,81.0k,9,  8 ,  2 ,  1 ,  3 ,  2 ,Pantheon,Lucian,Ornn,Ryze,Leblanc
+2020.0,spring,LLA,2,Pixel Esports,XTEN,1.0,48:51,OK,red,XTN,   VICTORY   ,85.4k,17,  8 ,  1 ,  2 ,  5 ,  0 ,JarvanIV,Sett,Aphelios,Fiora,Aatrox
+2020.0,spring,LLA,2,Azules Esports,Furious Gaming,1.0,28:38,OK,blue,UCH,   VICTORY   ,53.7k,12,  9 ,  1 ,  1 ,  4 ,  2 ,Sett,Yuumi,Soraka,Leona,Irelia
+2020.0,spring,LLA,2,Azules Esports,Furious Gaming,1.0,28:38,OK,red,FG,   DEFEAT   ,44.4k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Elise,Ornn,Mordekaiser,Zoe
+2020.0,spring,LLA,2,Rainbow7,Isurus,1.0,47:02,OK,blue,R7,   VICTORY   ,80.5k,12,  7 ,  1 ,  1 ,  5 ,  2 ,Soraka,Sett,Elise,Mordekaiser,Leblanc
+2020.0,spring,LLA,2,Rainbow7,Isurus,1.0,47:02,OK,red,ISG,   DEFEAT   ,77.1k,7,  6 ,  1 ,  1 ,  2 ,  0 ,Rumble,Ornn,MissFortune,Thresh,Yuumi
+2020.0,spring,LLA,2,All Knights,Isurus,1.0,30:05,OK,blue,AK,   VICTORY   ,54.9k,10,  9 ,  2 ,  1 ,  1 ,  1 ,Soraka,Gragas,Ornn,Sejuani,LeeSin
+2020.0,spring,LLA,2,All Knights,Isurus,1.0,30:05,OK,red,ISG,   DEFEAT   ,50.3k,7,  6 ,  0 ,  0 ,  3 ,  1 ,Rumble,Zoe,Sett,Irelia,Nautilus
+2020.0,spring,LLA,2,Rainbow7,Azules Esports,1.0,47:39,OK,blue,R7,   VICTORY   ,81.4k,17,  6 ,  1 ,  0 ,  5 ,  0 ,Pantheon,Elise,JarvanIV,Varus,MissFortune
+2020.0,spring,LLA,2,Rainbow7,Azules Esports,1.0,47:39,OK,red,UCH,   DEFEAT   ,78.6k,10,  7 ,  1 ,  2 ,  3 ,  2 ,Ornn,Soraka,Sett,Leblanc,Nautilus
+2020.0,spring,LLA,2,XTEN,Furious Gaming,1.0,43:42,OK,blue,XTN,   DEFEAT   ,72.9k,12,  8 ,  2 ,  0 ,  3 ,  2 ,Pantheon,JarvanIV,MissFortune,Olaf,LeeSin
+2020.0,spring,LLA,2,XTEN,Furious Gaming,1.0,43:42,OK,red,FG,   VICTORY   ,79.8k,22,  9 ,  4 ,  3 ,  4 ,  0 ,Ornn,Aphelios,Sett,Nautilus,Thresh
+2020.0,spring,LLA,2,Infinity Esports,Pixel Esports,1.0,35:16,OK,blue,INF,   VICTORY   ,61.0k,12,  7 ,  1 ,  0 ,  2 ,  2 ,Gragas,Elise,Zoe,Renekton,Corki
+2020.0,spring,LLA,2,Infinity Esports,Pixel Esports,1.0,35:16,OK,red,PIX,   DEFEAT   ,55.5k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Pantheon,Ornn,Rumble,Olaf
+2020.0,spring,LLA,3,Rainbow7,All Knights,1.0,45:33,OK,blue,R7,   DEFEAT   ,75.6k,9,  7 ,  0 ,  0 ,  2 ,  2 ,JarvanIV,Gangplank,Sett,Lucian,TahmKench
+2020.0,spring,LLA,3,Rainbow7,All Knights,1.0,45:33,OK,red,AK,   VICTORY   ,81.3k,10,  8 ,  1 ,  2 ,  5 ,  0 ,Ornn,Senna,Rumble,Leona,Yuumi
+2020.0,spring,LLA,3,Furious Gaming,Infinity Esports,1.0,41:08,OK,blue,FG,   DEFEAT   ,61.4k,2,  2 ,  0 ,  0 ,  2 ,  2 ,Rumble,Pantheon,MissFortune,Thresh,Nautilus
+2020.0,spring,LLA,3,Furious Gaming,Infinity Esports,1.0,41:08,OK,red,INF,   VICTORY   ,72.1k,7,  10 ,  2 ,  1 ,  4 ,  0 ,Aphelios,Sett,Ornn,LeeSin,Sejuani
+2020.0,spring,LLA,3,Azules Esports,XTEN,1.0,30:28,OK,blue,UCH,   DEFEAT   ,47.5k,3,  1 ,  0 ,  0 ,  1 ,  1 ,Senna,Rumble,Yuumi,LeeSin,Sejuani
+2020.0,spring,LLA,3,Azules Esports,XTEN,1.0,30:28,OK,red,XTN,   VICTORY   ,58.0k,13,  11 ,  3 ,  2 ,  4 ,  1 ,Pantheon,Elise,Zoe,MissFortune,Orianna
+2020.0,spring,LLA,3,Isurus,Pixel Esports,1.0,35:44,OK,blue,ISG,   VICTORY   ,66.3k,15,  9 ,  2 ,  1 ,  4 ,  0 ,Zoe,Pantheon,Sejuani,Lucian,Tristana
+2020.0,spring,LLA,3,Isurus,Pixel Esports,1.0,35:44,OK,red,PIX,   DEFEAT   ,57.9k,6,  4 ,  0 ,  0 ,  1 ,  1 ,Ornn,Sett,Leblanc,Syndra,Diana
+2020.0,spring,LLA,3,Infinity Esports,XTEN,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,spring,LLA,3,Isurus,Furious Gaming,1.0,32:05,OK,blue,ISG,   VICTORY   ,62.6k,13,  11 ,  4 ,  2 ,  3 ,  2 ,Zoe,Rumble,Senna,Nautilus,Azir
+2020.0,spring,LLA,3,Isurus,Furious Gaming,1.0,32:05,OK,red,FG,   DEFEAT   ,49.0k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Ornn,Aphelios,Pantheon,Lucian,Taric
+2020.0,spring,LLA,3,All Knights,Azules Esports,1.0,35:15,OK,blue,AK,   VICTORY   ,68.6k,18,  9 ,  2 ,  2 ,  4 ,  2 ,Pantheon,Elise,Zoe,Braum,Thresh
+2020.0,spring,LLA,3,All Knights,Azules Esports,1.0,35:15,OK,red,UCH,   DEFEAT   ,57.0k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Aphelios,Sett,Senna,Xayah,Ezreal
+2020.0,spring,LLA,3,Pixel Esports,Rainbow7,1.0,36:11,OK,blue,PIX,   DEFEAT   ,53.0k,3,  1 ,  0 ,  0 ,  2 ,  1 ,Rumble,Leblanc,MissFortune,Ashe,Varus
+2020.0,spring,LLA,3,Pixel Esports,Rainbow7,1.0,36:11,OK,red,R7,   VICTORY   ,65.2k,17,  11 ,  3 ,  2 ,  4 ,  1 ,Pantheon,Aphelios,Senna,Kalista,Corki
+2020.0,spring,LLA,4,Rainbow7,Furious Gaming,1.0,43:53,OK,blue,R7,   VICTORY   ,78.0k,9,  10 ,  3 ,  2 ,  3 ,  1 ,JarvanIV,Azir,Senna,Syndra,Leblanc
+2020.0,spring,LLA,4,Rainbow7,Furious Gaming,1.0,43:53,OK,red,FG,   DEFEAT   ,69.9k,6,  3 ,  0 ,  0 ,  4 ,  1 ,Ornn,Aphelios,Sett,Sejuani,Olaf
+2020.0,spring,LLA,4,XTEN,Isurus,1.0,34:17,OK,blue,XTN,   DEFEAT   ,54.2k,8,  2 ,  0 ,  0 ,  2 ,  2 ,Pantheon,Yuumi,Sett,Blitzcrank,Leona
+2020.0,spring,LLA,4,XTEN,Isurus,1.0,34:17,OK,red,ISG,   VICTORY   ,66.2k,23,  9 ,  2 ,  1 ,  4 ,  0 ,Ornn,Senna,Aphelios,Kalista,Varus
+2020.0,spring,LLA,4,Pixel Esports,All Knights,1.0,40:35,OK,blue,PIX,   DEFEAT   ,64.8k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Gangplank,JarvanIV,Sett,Cassiopeia,LeeSin
+2020.0,spring,LLA,4,Pixel Esports,All Knights,1.0,40:35,OK,red,AK,   VICTORY   ,76.2k,11,  10 ,  2 ,  2 ,  5 ,  2 ,Ornn,Senna,Aphelios,Corki,Sejuani
+2020.0,spring,LLA,4,Azules Esports,Infinity Esports,1.0,44:33,OK,blue,UCH,   DEFEAT   ,70.9k,5,  6 ,  0 ,  1 ,  2 ,  1 ,Senna,Leblanc,Kalista,Leona,Yuumi
+2020.0,spring,LLA,4,Azules Esports,Infinity Esports,1.0,44:33,OK,red,INF,   VICTORY   ,82.5k,11,  10 ,  2 ,  2 ,  5 ,  1 ,Aphelios,Pantheon,Ornn,Braum,Azir
+2020.0,spring,LLA,4,Infinity Esports,Isurus,1.0,48:36,OK,blue,INF,   VICTORY   ,86.0k,10,  9 ,  1 ,  1 ,  4 ,  2 ,Yuumi,Leblanc,Gangplank,Nautilus,Rumble
+2020.0,spring,LLA,4,Infinity Esports,Isurus,1.0,48:36,OK,red,ISG,   DEFEAT   ,80.5k,3,  5 ,  0 ,  1 ,  4 ,  0 ,Ornn,Senna,Sett,Irelia,Yasuo
+2020.0,spring,LLA,4,Rainbow7,XTEN,1.0,24:13,OK,blue,R7,   VICTORY   ,45.6k,10,  10 ,  1 ,  1 ,  3 ,  2 ,Lucian,Elise,Leblanc,Olaf,LeeSin
+2020.0,spring,LLA,4,Rainbow7,XTEN,1.0,24:13,OK,red,XTN,   DEFEAT   ,32.9k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Aphelios,Ornn,Ezreal,Gangplank,Syndra
+2020.0,spring,LLA,4,Pixel Esports,Azules Esports,1.0,39:50,OK,blue,PIX,   VICTORY   ,71.3k,20,  9 ,  1 ,  0 ,  4 ,  2 ,Pantheon,Zoe,Lucian,Cassiopeia,Ryze
+2020.0,spring,LLA,4,Pixel Esports,Azules Esports,1.0,39:50,OK,red,UCH,   DEFEAT   ,68.4k,13,  3 ,  0 ,  1 ,  2 ,  0 ,Ornn,Senna,Elise,Sejuani,Taliyah
+2020.0,spring,LLA,4,All Knights,Furious Gaming,1.0,34:45,OK,blue,AK,   VICTORY   ,65.8k,14,  7 ,  1 ,  1 ,  2 ,  2 ,Elise,Zoe,Yuumi,Alistar,Azir
+2020.0,spring,LLA,4,All Knights,Furious Gaming,1.0,34:45,OK,red,FG,   DEFEAT   ,54.0k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Ornn,Aphelios,Senna,Rumble,Velkoz
+2020.0,spring,LLA,5,Rainbow7,Infinity Esports,1.0,31:27,OK,blue,R7,   VICTORY   ,56.4k,8,  8 ,  1 ,  1 ,  2 ,  0 ,Syndra,Kalista,MonkeyKing,Aatrox,Braum
+2020.0,spring,LLA,5,Rainbow7,Infinity Esports,1.0,31:27,OK,red,INF,   DEFEAT   ,48.9k,2,  3 ,  0 ,  0 ,  3 ,  2 ,Senna,Aphelios,Ornn,Zoe,Leblanc
+2020.0,spring,LLA,5,Pixel Esports,Furious Gaming,1.0,34:05,OK,blue,PIX,   VICTORY   ,61.4k,11,  10 ,  2 ,  1 ,  4 ,  0 ,Syndra,JarvanIV,Kalista,Azir,Leblanc
+2020.0,spring,LLA,5,Pixel Esports,Furious Gaming,1.0,34:05,OK,red,FG,   DEFEAT   ,50.6k,3,  1 ,  0 ,  0 ,  1 ,  2 ,Aphelios,Ornn,Senna,Yuumi,Braum
+2020.0,spring,LLA,5,Azules Esports,Isurus,1.0,47:39,OK,blue,UCH,   DEFEAT   ,80.0k,8,  9 ,  1 ,  3 ,  0 ,  2 ,Kalista,MonkeyKing,Senna,JarvanIV,Karthus
+2020.0,spring,LLA,5,Azules Esports,Isurus,1.0,47:39,OK,red,ISG,   VICTORY   ,84.7k,18,  8 ,  2 ,  1 ,  7 ,  0 ,Pantheon,Irelia,Zoe,Ezreal,MissFortune
+2020.0,spring,LLA,5,All Knights,XTEN,1.0,38:22,OK,blue,AK,   VICTORY   ,66.6k,16,  9 ,  1 ,  1 ,  3 ,  1 ,Elise,LeeSin,Sett,RekSai,JarvanIV
+2020.0,spring,LLA,5,All Knights,XTEN,1.0,38:22,OK,red,XTN,   DEFEAT   ,54.9k,7,  2 ,  0 ,  0 ,  2 ,  1 ,Ekko,Aphelios,Kalista,Zoe,Rumble
+2020.0,spring,LLA,5,Isurus,Rainbow7,1.0,54:11,OK,blue,ISG,   DEFEAT   ,88.6k,6,  7 ,  1 ,  3 ,  3 ,  0 ,Zoe,Azir,Ornn,Maokai,Aatrox
+2020.0,spring,LLA,5,Isurus,Rainbow7,1.0,54:11,OK,red,R7,   VICTORY   ,91.0k,17,  8 ,  2 ,  1 ,  4 ,  1 ,Senna,Aphelios,MonkeyKing,JarvanIV,Syndra
+2020.0,spring,LLA,5,XTEN,Pixel Esports,1.0,40:52,OK,blue,XTN,   VICTORY   ,73.2k,19,  11 ,  3 ,  2 ,  4 ,  2 ,MonkeyKing,JarvanIV,Ezreal,Sejuani,Gragas
+2020.0,spring,LLA,5,XTEN,Pixel Esports,1.0,40:52,OK,red,PIX,   DEFEAT   ,64.3k,7,  5 ,  0 ,  0 ,  2 ,  0 ,Senna,Ornn,Kalista,Yuumi,Taric
+2020.0,spring,LLA,5,Furious Gaming,Azules Esports,1.0,40:41,OK,blue,FG,   DEFEAT   ,66.6k,11,  2 ,  0 ,  1 ,  3 ,  1 ,Pantheon,Yuumi,Irelia,Azir,
+2020.0,spring,LLA,5,Furious Gaming,Azules Esports,1.0,40:41,OK,red,UCH,   VICTORY   ,75.0k,14,  11 ,  4 ,  1 ,  4 ,  1 ,MonkeyKing,Senna,Kalista,TahmKench,Leblanc
+2020.0,spring,LLA,5,Infinity Esports,All Knights,1.0,37:19,OK,blue,INF,   VICTORY   ,63.8k,13,  7 ,  1 ,  1 ,  1 ,  2 ,Varus,MonkeyKing,Gragas,Leblanc,Zoe
+2020.0,spring,LLA,5,Infinity Esports,All Knights,1.0,37:19,OK,red,AK,   DEFEAT   ,58.3k,5,  3 ,  0 ,  0 ,  4 ,  0 ,Kalista,Senna,Ornn,Gangplank,Renekton
+2020.0,spring,LLA,6,Isurus,All Knights,1.0,44:41,OK,blue,ISG,   VICTORY   ,80.5k,16,  10 ,  3 ,  2 ,  5 ,  2 ,MonkeyKing,Gragas,Trundle,Irelia,Braum
+2020.0,spring,LLA,6,Isurus,All Knights,1.0,44:41,OK,red,AK,   DEFEAT   ,73.1k,9,  4 ,  0 ,  1 ,  2 ,  0 ,Aphelios,Senna,Kalista,Kindred,JarvanIV
+2020.0,spring,LLA,6,Furious Gaming,XTEN,1.0,44:35,OK,blue,FG,   DEFEAT   ,73.1k,14,  4 ,  0 ,  0 ,  4 ,  1 ,Senna,Elise,Yuumi,LeeSin,Gragas
+2020.0,spring,LLA,6,Furious Gaming,XTEN,1.0,44:35,OK,red,XTN,   VICTORY   ,79.2k,15,  10 ,  3 ,  3 ,  3 ,  1 ,Zoe,JarvanIV,Pantheon,Leblanc,Azir
+2020.0,spring,LLA,6,Azules Esports,Rainbow7,1.0,34:06,OK,blue,UCH,   DEFEAT   ,54.9k,6,  5 ,  0 ,  0 ,  2 ,  2 ,Senna,MonkeyKing,Ornn,Leblanc,Akali
+2020.0,spring,LLA,6,Azules Esports,Rainbow7,1.0,34:06,OK,red,R7,   VICTORY   ,65.5k,17,  9 ,  1 ,  1 ,  3 ,  0 ,Pantheon,Aphelios,Syndra,Rumble,Azir
+2020.0,spring,LLA,6,Pixel Esports,Infinity Esports,1.0,25:17,OK,blue,PIX,   DEFEAT   ,37.0k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Kalista,Sett,Aphelios,Kassadin,Leona
+2020.0,spring,LLA,6,Pixel Esports,Infinity Esports,1.0,25:17,OK,red,INF,   VICTORY   ,50.9k,15,  10 ,  2 ,  1 ,  2 ,  2 ,Renekton,Senna,MonkeyKing,Yasuo,Yuumi
+2020.0,spring,LLA,6,Pixel Esports,Isurus,1.0,27:04,OK,blue,PIX,   DEFEAT   ,40.7k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Syndra,Kalista,Sett,Leblanc,Kassadin
+2020.0,spring,LLA,6,Pixel Esports,Isurus,1.0,27:04,OK,red,ISG,   VICTORY   ,53.9k,15,  10 ,  1 ,  1 ,  4 ,  2 ,MonkeyKing,Senna,Gragas,Braum,Nautilus
+2020.0,spring,LLA,6,Infinity Esports,Furious Gaming,1.0,39:36,OK,blue,INF,   VICTORY   ,70.9k,14,  8 ,  1 ,  1 ,  3 ,  1 ,JarvanIV,Renekton,Azir,Gragas,Elise
+2020.0,spring,LLA,6,Infinity Esports,Furious Gaming,1.0,39:36,OK,red,FG,   DEFEAT   ,63.5k,9,  3 ,  0 ,  0 ,  3 ,  1 ,Aphelios,Senna,MonkeyKing,Leblanc,Taric
+2020.0,spring,LLA,6,XTEN,Azules Esports,1.0,31:14,OK,blue,XTN,   VICTORY   ,56.9k,17,  9 ,  2 ,  0 ,  4 ,  2 ,Irelia,JarvanIV,Pantheon,Gangplank,Ornn
+2020.0,spring,LLA,6,XTEN,Azules Esports,1.0,31:14,OK,red,UCH,   DEFEAT   ,52.3k,7,  5 ,  0 ,  0 ,  1 ,  0 ,Aphelios,MonkeyKing,Senna,Leblanc,Kassadin
+2020.0,spring,LLA,6,All Knights,Rainbow7,1.0,48:28,OK,blue,AK,   VICTORY   ,85.2k,15,  8 ,  1 ,  2 ,  2 ,  0 ,Zoe,Graves,Karthus,Syndra,Akali
+2020.0,spring,LLA,6,All Knights,Rainbow7,1.0,48:28,OK,red,R7,   DEFEAT   ,81.1k,16,  9 ,  3 ,  1 ,  5 ,  2 ,Kalista,MonkeyKing,Senna,Renekton,Gangplank
+2020.0,spring,LLA,7,Rainbow7,Pixel Esports,1.0,43:40,OK,blue,R7,   VICTORY   ,76.1k,17,  8 ,  1 ,  0 ,  3 ,  2 ,Ziggs,Pantheon,Tristana,Corki,Varus
+2020.0,spring,LLA,7,Rainbow7,Pixel Esports,1.0,43:40,OK,red,PIX,   DEFEAT   ,66.8k,8,  5 ,  1 ,  1 ,  4 ,  0 ,Aphelios,Sett,Kalista,Graves,Syndra
+2020.0,spring,LLA,7,XTEN,Infinity Esports,1.0,29:58,OK,blue,XTN,   VICTORY   ,53.2k,14,  7 ,  1 ,  1 ,  2 ,  2 ,Kalista,MissFortune,Senna,Leblanc,Zoe
+2020.0,spring,LLA,7,XTEN,Infinity Esports,1.0,29:58,OK,red,INF,   DEFEAT   ,47.3k,5,  3 ,  0 ,  1 ,  2 ,  0 ,Aphelios,Sett,Elise,LeeSin,RekSai
+2020.0,spring,LLA,7,Azules Esports,All Knights,1.0,43:19,OK,blue,UCH,   DEFEAT   ,73.0k,17,  7 ,  1 ,  1 ,  3 ,  1 ,Kalista,Trundle,Kindred,Ornn,Nautilus
+2020.0,spring,LLA,7,Azules Esports,All Knights,1.0,43:19,OK,red,AK,   VICTORY   ,81.0k,35,  8 ,  1 ,  1 ,  3 ,  1 ,Pantheon,Aphelios,Senna,Irelia,TahmKench
+2020.0,spring,LLA,7,Furious Gaming,Isurus,1.0,27:42,OK,blue,FG,   DEFEAT   ,43.2k,6,  3 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Pantheon,Kindred,Trundle,Graves
+2020.0,spring,LLA,7,Furious Gaming,Isurus,1.0,27:42,OK,red,ISG,   VICTORY   ,53.8k,19,  8 ,  1 ,  1 ,  2 ,  2 ,Taric,Senna,Sett,Braum,Nautilus
+2020.0,spring,LLA,7,All Knights,Pixel Esports,1.0,34:01,OK,blue,AK,   VICTORY   ,62.2k,14,  8 ,  1 ,  1 ,  3 ,  0 ,Renekton,Ziggs,Syndra,Ornn,Sejuani
+2020.0,spring,LLA,7,All Knights,Pixel Esports,1.0,34:01,OK,red,PIX,   DEFEAT   ,57.2k,12,  4 ,  0 ,  1 ,  2 ,  2 ,Kalista,Aphelios,Sett,Trundle,Gragas
+2020.0,spring,LLA,7,Isurus,XTEN,1.0,29:52,OK,blue,ISG,   VICTORY   ,55.1k,16,  11 ,  4 ,  2 ,  3 ,  2 ,Azir,JarvanIV,Taric,Leblanc,Karma
+2020.0,spring,LLA,7,Isurus,XTEN,1.0,29:52,OK,red,XTN,   DEFEAT   ,40.5k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Pantheon,Sett,Aphelios,Galio,TahmKench
+2020.0,spring,LLA,7,Furious Gaming,Rainbow7,1.0,39:39,OK,blue,FG,   VICTORY   ,69.0k,11,  11 ,  3 ,  3 ,  5 ,  1 ,Yuumi,Pantheon,Sylas,Sett,
+2020.0,spring,LLA,7,Furious Gaming,Rainbow7,1.0,39:39,OK,red,R7,   DEFEAT   ,64.0k,6,  4 ,  0 ,  0 ,  1 ,  1 ,Senna,Aphelios,Syndra,Kindred,Camille
+2020.0,spring,LLA,7,Infinity Esports,Azules Esports,1.0,30:28,OK,blue,INF,   VICTORY   ,60.2k,27,  10 ,  3 ,  1 ,  3 ,  2 ,Azir,Sett,JarvanIV,Varus,Nautilus
+2020.0,spring,LLA,7,Infinity Esports,Azules Esports,1.0,30:28,OK,red,UCH,   DEFEAT   ,50.4k,11,  3 ,  0 ,  0 ,  1 ,  0 ,Ornn,Aphelios,Senna,Renekton,Akali
+2020.0,spring,LLA,8,Infinity Esports,Isurus,1.0,24:17,OK,blue,INF,   DEFEAT   ,36.3k,3,  2 ,  0 ,  0 ,  0 ,  2 ,Ornn,Syndra,Yuumi,Rakan,Nautilus
+2020.0,spring,LLA,8,Infinity Esports,Isurus,1.0,24:17,OK,red,ISG,   VICTORY   ,48.0k,17,  9 ,  2 ,  1 ,  3 ,  0 ,Senna,Kalista,Sett,Olaf,Trundle
+2020.0,spring,LLA,8,All Knights,Rainbow7,1.0,43:35,OK,blue,AK,   VICTORY   ,76.1k,11,  10 ,  2 ,  0 ,  5 ,  2 ,Ornn,Sett,Kassadin,Leblanc,Maokai
+2020.0,spring,LLA,8,All Knights,Rainbow7,1.0,43:35,OK,red,R7,   DEFEAT   ,66.7k,4,  3 ,  0 ,  1 ,  1 ,  0 ,Senna,Aphelios,Kalista,Gangplank,Aatrox
+2020.0,spring,LLA,8,Isurus,XTEN,1.0,29:19,OK,blue,ISG,   VICTORY   ,55.9k,15,  9 ,  2 ,  1 ,  3 ,  2 ,Taric,Azir,Senna,Xayah,Olaf
+2020.0,spring,LLA,8,Isurus,XTEN,1.0,29:19,OK,red,XTN,   DEFEAT   ,40.3k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Syndra,Aphelios,Pantheon,Varus,Kalista
+2020.0,spring,LLA,8,Rainbow7,Infinity Esports,1.0,44:04,OK,blue,R7,   VICTORY   ,76.8k,9,  10 ,  3 ,  2 ,  6 ,  1 ,Kalista,Pantheon,Sett,Camille,Yasuo
+2020.0,spring,LLA,8,Rainbow7,Infinity Esports,1.0,44:04,OK,red,INF,   DEFEAT   ,68.1k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Senna,Ornn,Rakan,Olaf
+2020.0,spring,LLA,8,All Knights,XTEN,1.0,30:09,OK,blue,AK,   VICTORY   ,59.0k,18,  10 ,  2 ,  1 ,  4 ,  2 ,Elise,Taric,Sett,Leblanc,Zoe
+2020.0,spring,LLA,8,All Knights,XTEN,1.0,30:09,OK,red,XTN,   DEFEAT   ,43.7k,6,  0 ,  0 ,  0 ,  1 ,  0 ,MissFortune,Kalista,Aphelios,Karma,Morgana
+2020.0,spring,LLA,8,Rainbow7,Isurus,1.0,37:49,OK,blue,R7,   VICTORY   ,69.3k,12,  11 ,  3 ,  2 ,  5 ,  0 ,Syndra,Pantheon,Gragas,Leblanc,Tristana
+2020.0,spring,LLA,8,Rainbow7,Isurus,1.0,37:49,OK,red,ISG,   DEFEAT   ,59.1k,6,  2 ,  0 ,  0 ,  1 ,  2 ,Senna,Aatrox,Taric,Zilean,Zoe
+2020.0,spring,LLA,8,XTEN,Infinity Esports,1.0,27:20,OK,blue,XTN,   DEFEAT   ,41.8k,6,  1 ,  0 ,  1 ,  1 ,  0 ,Kalista,MissFortune,Senna,Rumble,JarvanIV
+2020.0,spring,LLA,8,XTEN,Infinity Esports,1.0,27:20,OK,red,INF,   VICTORY   ,49.7k,20,  8 ,  1 ,  0 ,  3 ,  2 ,Kindred,Aphelios,Sett,Leona,TahmKench
+2020.0,spring,LLA,8,Isurus,All Knights,1.0,28:54,OK,blue,ISG,   DEFEAT   ,41.4k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Ekko,Jayce,Varus,Taric,Rakan
+2020.0,spring,LLA,8,Isurus,All Knights,1.0,28:54,OK,red,AK,   VICTORY   ,56.8k,18,  10 ,  1 ,  1 ,  4 ,  2 ,Syndra,Yasuo,Senna,Gragas,Kindred
+2020.0,spring,LLA,8,XTEN,Rainbow7,1.0,26:58,OK,blue,XTN,   DEFEAT   ,40.5k,6,  0 ,  0 ,  0 ,  2 ,  0 ,Gragas,Trundle,Kalista,LeeSin,Graves
+2020.0,spring,LLA,8,XTEN,Rainbow7,1.0,26:58,OK,red,R7,   VICTORY   ,52.8k,18,  11 ,  3 ,  1 ,  2 ,  2 ,Aphelios,Taric,Senna,Braum,Thresh
+2020.0,spring,LLA,8,Infinity Esports,All Knights,1.0,26:53,OK,blue,INF,   VICTORY   ,55.4k,30,  11 ,  3 ,  1 ,  2 ,  2 ,Azir,Jayce,Varus,Olaf,Leblanc
+2020.0,spring,LLA,8,Infinity Esports,All Knights,1.0,26:53,OK,red,AK,   DEFEAT   ,41.4k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Senna,Sett,Kalista,Renekton,Aatrox

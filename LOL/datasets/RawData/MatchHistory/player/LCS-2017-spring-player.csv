@@ -1,0 +1,222 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,spring,LCS,1,TSM,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,TSM,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Echo Fox,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Echo Fox,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,CLG,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,CLG,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Team EnVyUs,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Team EnVyUs,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Echo Fox,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Echo Fox,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Echo Fox,Immortals,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Dignitas,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Dignitas,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Dignitas,Phoenix1,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,TSM,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,TSM,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,TSM,Immortals,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Team EnVyUs,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Team EnVyUs,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Dignitas,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Dignitas,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,Dignitas,Cloud9,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,TL,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,TL,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,1,TL,FlyQuest,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,FlyQuest,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,FlyQuest,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,TSM,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,TSM,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,TSM,Dignitas,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Immortals,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Immortals,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Phoenix1,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Phoenix1,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,TSM,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,TSM,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,TSM,TL,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Dignitas,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Dignitas,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Dignitas,Echo Fox,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Phoenix1,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Phoenix1,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Echo Fox,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Echo Fox,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Echo Fox,FlyQuest,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Team EnVyUs,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Team EnVyUs,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Team EnVyUs,Immortals,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Cloud9,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Cloud9,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,2,Cloud9,CLG,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Immortals,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Immortals,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Team EnVyUs,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Team EnVyUs,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,CLG,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,CLG,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,CLG,TSM,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,FlyQuest,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,FlyQuest,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,TL,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,TL,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,TL,Echo Fox,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Cloud9,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Cloud9,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Phoenix1,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Phoenix1,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Phoenix1,TSM,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Dignitas,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Dignitas,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Immortals,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Immortals,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Cloud9,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,3,Cloud9,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Cloud9,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Cloud9,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Cloud9,TL,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Immortals,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Immortals,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,CLG,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,CLG,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Phoenix1,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Phoenix1,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,TSM,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,TSM,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,TL,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,TL,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,CLG,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,CLG,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,CLG,Phoenix1,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Echo Fox,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Echo Fox,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,FlyQuest,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,FlyQuest,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,FlyQuest,Cloud9,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Dignitas,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,4,Dignitas,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Dignitas,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Dignitas,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Team EnVyUs,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Team EnVyUs,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,CLG,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,CLG,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,CLG,Immortals,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,TL,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,TL,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,TL,Dignitas,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Cloud9,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Cloud9,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Cloud9,TSM,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Team EnVyUs,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Team EnVyUs,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,FlyQuest,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,FlyQuest,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,FlyQuest,TSM,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Immortals,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Immortals,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Phoenix1,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,Phoenix1,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,TL,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,TL,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,5,TL,CLG,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Immortals,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Immortals,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Immortals,TL,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Phoenix1,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Phoenix1,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Phoenix1,CLG,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Echo Fox,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Echo Fox,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,FlyQuest,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,FlyQuest,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,FlyQuest,Team EnVyUs,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,TSM,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,TSM,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Phoenix1,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Phoenix1,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Phoenix1,Dignitas,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Dignitas,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Dignitas,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Echo Fox,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Echo Fox,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Echo Fox,TL,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Cloud9,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Cloud9,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Immortals,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Immortals,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,6,Immortals,Team EnVyUs,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,TL,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,TL,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,FlyQuest,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,FlyQuest,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,CLG,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,CLG,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Team EnVyUs,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Team EnVyUs,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Team EnVyUs,TSM,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,FlyQuest,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,FlyQuest,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Phoenix1,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Phoenix1,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,CLG,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,CLG,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,CLG,Cloud9,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Echo Fox,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Echo Fox,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Echo Fox,Dignitas,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Immortals,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Immortals,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,Immortals,TSM,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,TL,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,TL,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,7,TL,Team EnVyUs,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Dignitas,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Dignitas,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Echo Fox,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Echo Fox,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Cloud9,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Cloud9,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Cloud9,Immortals,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Team EnVyUs,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Team EnVyUs,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Team EnVyUs,Dignitas,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,TSM,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,TSM,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,TSM,FlyQuest,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,TL,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,TL,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,TSM,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,TSM,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Phoenix1,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Phoenix1,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,CLG,FlyQuest,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,CLG,FlyQuest,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Team EnVyUs,Cloud9,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Team EnVyUs,Cloud9,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,8,Team EnVyUs,Cloud9,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Cloud9,Dignitas,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Cloud9,Dignitas,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,FlyQuest,Echo Fox,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,FlyQuest,Echo Fox,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Immortals,CLG,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Immortals,CLG,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,TL,TSM,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,TL,TSM,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,TL,TSM,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Cloud9,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Cloud9,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Echo Fox,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Echo Fox,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Echo Fox,Team EnVyUs,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,TSM,Phoenix1,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,TSM,Phoenix1,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Dignitas,Immortals,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,Dignitas,Immortals,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,FlyQuest,TL,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,FlyQuest,TL,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,FlyQuest,TL,3.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,CLG,Team EnVyUs,1.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,CLG,Team EnVyUs,2.0,this row doesn't have MH_url
+2017.0,spring,LCS,9,CLG,Team EnVyUs,3.0,this row doesn't have MH_url

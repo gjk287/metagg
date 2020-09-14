@@ -1,0 +1,51 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,EM,1,MAD Lions E.C.,Diabolus Esports,1.0,37:03,OK,blue,DBL,   VICTORY   ,71.1k,14,  11 ,  2 ,  2 ,  5 ,  1 ,Irelia,Ryze,MissFortune,Lissandra,Jayce
+2019.0,spring,EM,1,MAD Lions E.C.,Diabolus Esports,1.0,37:03,OK,red,MAD,   DEFEAT   ,60.4k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Yorick,Orianna,Braum,Vladimir,Kindred
+2019.0,spring,EM,1,Crvena zvezda,Misfits Premier,1.0,28:00,OK,blue,CZV,   DEFEAT   ,48.8k,13,  3 ,  0 ,  0 ,  0 ,  1 ,Akali,Yasuo,Rakan,Lucian,Kalista
+2019.0,spring,EM,1,Crvena zvezda,Misfits Premier,1.0,28:00,OK,red,MSF,   VICTORY   ,58.8k,17,  9 ,  1 ,  1 ,  3 ,  0 ,Heimerdinger,LeeSin,Taric,Leblanc,Ryze
+2019.0,spring,EM,1,NYYRIKKI White,devils.one,1.0,29:39,OK,blue,DV1,   VICTORY   ,55.7k,10,  10 ,  2 ,  1 ,  2 ,  1 ,Taric,Morgana,Ahri,Akali,Vladimir
+2019.0,spring,EM,1,NYYRIKKI White,devils.one,1.0,29:39,OK,red,NKI,   DEFEAT   ,43.9k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Irelia,Kennen,Zoe,Karthus,Corki
+2019.0,spring,EM,1,Misfits Premier,MAD Lions E.C.,1.0,30:12,OK,blue,MSF,   VICTORY   ,63.8k,20,  9 ,  1 ,  1 ,  3 ,  1 ,Kindred,Kayle,Ryze,Irelia,Vladimir
+2019.0,spring,EM,1,Misfits Premier,MAD Lions E.C.,1.0,30:12,OK,red,MAD,   DEFEAT   ,52.3k,11,  0 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Taric,Rakan,Sivir,Kaisa
+2019.0,spring,EM,1,SK Gaming Prime,Diabolus Esports,1.0,31:29,OK,blue,DBL,   DEFEAT   ,48.3k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Irelia,Jayce,RekSai,Lissandra,Akali
+2019.0,spring,EM,1,SK Gaming Prime,Diabolus Esports,1.0,31:29,OK,red,SK,   VICTORY   ,61.7k,15,  10 ,  2 ,  1 ,  4 ,  0 ,Yorick,Orianna,Taric,Ryze,Leblanc
+2019.0,spring,EM,1,Crvena zvezda,NYYRIKKI White,1.0,26:45,OK,blue,NKI,   DEFEAT   ,42.4k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Akali,Morgana,RekSai,Karthus
+2019.0,spring,EM,1,Crvena zvezda,NYYRIKKI White,1.0,26:45,OK,red,CZV,   VICTORY   ,56.8k,18,  11 ,  3 ,  1 ,  3 ,  1 ,Ahri,Taric,Lucian,Azir,Vladimir
+2019.0,spring,EM,1,SK Gaming Prime,MAD Lions E.C.,1.0,33:15,OK,blue,MAD,   DEFEAT   ,49.3k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Hecarim,Rakan,Taric,Lucian,Ezreal
+2019.0,spring,EM,1,SK Gaming Prime,MAD Lions E.C.,1.0,33:15,OK,red,SK,   VICTORY   ,59.1k,16,  9 ,  2 ,  1 ,  4 ,  1 ,Karthus,Irelia,Ryze,Kalista,Sivir
+2019.0,spring,EM,2,Misfits Premier,devils.one,1.0,29:44,OK,blue,DV1,   VICTORY   ,55.8k,20,  6 ,  1 ,  1 ,  2 ,  1 ,Yasuo,Rakan,Irelia,Kassadin,Zed
+2019.0,spring,EM,2,Misfits Premier,devils.one,1.0,29:44,OK,red,MSF,   DEFEAT   ,51.2k,10,  2 ,  0 ,  0 ,  1 ,  0 ,Jayce,Ryze,Skarner,RekSai,Gragas
+2019.0,spring,EM,2,SK Gaming Prime,NYYRIKKI White,1.0,31:46,OK,blue,SK,   VICTORY   ,63.8k,18,  9 ,  1 ,  1 ,  3 ,  1 ,TwistedFate,Irelia,Galio,Azir,Ornn
+2019.0,spring,EM,2,SK Gaming Prime,NYYRIKKI White,1.0,31:46,OK,red,NKI,   DEFEAT   ,51.3k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Taric,Jayce,Akali,Vayne,
+2019.0,spring,EM,2,Crvena zvezda,Diabolus Esports,1.0,32:12,OK,blue,DBL,   VICTORY   ,61.2k,20,  8 ,  1 ,  0 ,  4 ,  1 ,Jayce,LeeSin,Morgana,JarvanIV,Elise
+2019.0,spring,EM,2,Crvena zvezda,Diabolus Esports,1.0,32:12,OK,red,CZV,   DEFEAT   ,54.9k,12,  2 ,  0 ,  1 ,  0 ,  0 ,Orianna,Taric,Yorick,Azir,Hecarim
+2019.0,spring,EM,2,devils.one,MAD Lions E.C.,1.0,40:04,OK,blue,DV1,   DEFEAT   ,66.2k,8,  3 ,  0 ,  0 ,  1 ,  1 ,Irelia,Ryze,Lucian,Ezreal,Anivia
+2019.0,spring,EM,2,devils.one,MAD Lions E.C.,1.0,40:04,OK,red,MAD,   VICTORY   ,75.0k,16,  11 ,  3 ,  2 ,  4 ,  0 ,Taric,Akali,JarvanIV,Zac,Gragas
+2019.0,spring,EM,2,Misfits Premier,SK Gaming Prime,1.0,29:48,OK,blue,MSF,   DEFEAT   ,45.8k,4,  3 ,  0 ,  0 ,  0 ,  0 ,Ryze,Braum,Jayce,Lucian,
+2019.0,spring,EM,2,Misfits Premier,SK Gaming Prime,1.0,29:48,OK,red,SK,   VICTORY   ,62.8k,27,  11 ,  3 ,  1 ,  4 ,  1 ,Taric,Akali,Zed,Gragas,Sejuani
+2019.0,spring,EM,2,NYYRIKKI White,Diabolus Esports,1.0,24:25,OK,blue,NKI,   DEFEAT   ,38.2k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Yorick,Vladimir,Taric,Hecarim,Galio
+2019.0,spring,EM,2,NYYRIKKI White,Diabolus Esports,1.0,24:25,OK,red,DBL,   VICTORY   ,49.9k,16,  10 ,  2 ,  1 ,  2 ,  1 ,Ahri,Morgana,Irelia,Azir,Akali
+2019.0,spring,EM,2,Crvena zvezda,devils.one,1.0,29:34,OK,blue,DV1,   VICTORY   ,61.0k,23,  10 ,  2 ,  1 ,  2 ,  0 ,LeeSin,Corki,Morgana,Syndra,Vladimir
+2019.0,spring,EM,2,Crvena zvezda,devils.one,1.0,29:34,OK,red,CZV,   DEFEAT   ,46.4k,9,  1 ,  0 ,  0 ,  1 ,  1 ,Zac,Jayce,Rakan,Irelia,Akali
+2019.0,spring,EM,3,Crvena zvezda,SK Gaming Prime,1.0,34:29,OK,blue,SK,   DEFEAT   ,63.2k,15,  6 ,  1 ,  0 ,  3 ,  0 ,Braum,LeeSin,Irelia,Skarner,RekSai
+2019.0,spring,EM,3,Crvena zvezda,SK Gaming Prime,1.0,34:29,OK,red,CZV,   VICTORY   ,60.8k,13,  6 ,  1 ,  2 ,  2 ,  1 ,Hecarim,Jayce,Rakan,Alistar,Thresh
+2019.0,spring,EM,3,devils.one,Diabolus Esports,1.0,32:17,OK,blue,DBL,   DEFEAT   ,53.9k,7,  3 ,  0 ,  0 ,  2 ,  1 ,Zoe,Jayce,Irelia,Jax,Akali
+2019.0,spring,EM,3,devils.one,Diabolus Esports,1.0,32:17,OK,red,DV1,   VICTORY   ,61.2k,16,  7 ,  1 ,  1 ,  1 ,  0 ,Yorick,Hecarim,RekSai,Vayne,Lucian
+2019.0,spring,EM,3,Misfits Premier,NYYRIKKI White,1.0,23:52,OK,blue,MSF,   VICTORY   ,53.5k,16,  11 ,  3 ,  1 ,  3 ,  1 ,Nocturne,Braum,Taric,Kayle,Morgana
+2019.0,spring,EM,3,Misfits Premier,NYYRIKKI White,1.0,23:52,OK,red,NKI,   DEFEAT   ,37.5k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Irelia,Akali,Hecarim,Sylas
+2019.0,spring,EM,3,Crvena zvezda,MAD Lions E.C.,1.0,30:54,OK,blue,CZV,   DEFEAT   ,46.5k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Irelia,Akali,Lucian,Sivir
+2019.0,spring,EM,3,Crvena zvezda,MAD Lions E.C.,1.0,30:54,OK,red,MAD,   VICTORY   ,58.4k,16,  10 ,  1 ,  1 ,  3 ,  1 ,Morgana,Kayle,Taric,Corki,Sylas
+2019.0,spring,EM,3,SK Gaming Prime,devils.one,1.0,50:01,OK,blue,DV1,   DEFEAT   ,80.6k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Lucian,JarvanIV,Jayce,Kennen,Rumble
+2019.0,spring,EM,3,SK Gaming Prime,devils.one,1.0,50:01,OK,red,SK,   VICTORY   ,97.1k,19,  11 ,  3 ,  3 ,  6 ,  0 ,Taric,Zoe,Skarner,Karthus,Zac
+2019.0,spring,EM,3,Misfits Premier,Diabolus Esports,1.0,27:30,OK,blue,DBL,   DEFEAT   ,43.8k,12,  1 ,  0 ,  0 ,  2 ,  0 ,Yasuo,Irelia,Ryze,Varus,Ezreal
+2019.0,spring,EM,3,Misfits Premier,Diabolus Esports,1.0,27:30,OK,red,MSF,   VICTORY   ,59.8k,22,  11 ,  3 ,  1 ,  1 ,  1 ,Yorick,Taric,Vayne,Skarner,Kindred
+2019.0,spring,EM,3,NYYRIKKI White,MAD Lions E.C.,1.0,22:00,OK,blue,NKI,   DEFEAT   ,30.9k,7,  0 ,  0 ,  0 ,  2 ,  0 ,Ryze,Irelia,Jayce,Zed,Lissandra
+2019.0,spring,EM,3,NYYRIKKI White,MAD Lions E.C.,1.0,22:00,OK,red,MAD,   VICTORY   ,46.7k,27,  7 ,  1 ,  0 ,  0 ,  1 ,Udyr,Lucian,Taric,Zoe,Hecarim
+2019.0,spring,EM,Stage,Misfits Premier,Diabolus Esports,1.0,24:54,OK,blue,DBL,   DEFEAT   ,36.9k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Yasuo,Irelia,Akali,Jax,Vladimir
+2019.0,spring,EM,Stage,Misfits Premier,Diabolus Esports,1.0,24:54,OK,red,MSF,   VICTORY   ,52.2k,19,  9 ,  1 ,  0 ,  3 ,  0 ,Yorick,Taric,Orianna,Kindred,Lucian
+2019.0,spring,EM,Stage,Misfits Premier,Diabolus Esports,2.0,19:10,OK,blue,MSF,   VICTORY   ,45.4k,21,  10 ,  1 ,  0 ,  2 ,  1 ,Yorick,Taric,Vayne,Jax,Hecarim
+2019.0,spring,EM,Stage,Misfits Premier,Diabolus Esports,2.0,19:10,OK,red,DBL,   DEFEAT   ,28.0k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Akali,Ryze,Kassadin,Kayle
+2019.0,spring,EM,Stage,devils.one,MAD Lions E.C.,1.0,42:11,OK,blue,MAD,   VICTORY   ,79.8k,23,  9 ,  2 ,  2 ,  5 ,  0 ,Taric,Akali,Jax,Gnar,Lucian
+2019.0,spring,EM,Stage,devils.one,MAD Lions E.C.,1.0,42:11,OK,red,DV1,   DEFEAT   ,73.6k,15,  5 ,  1 ,  1 ,  1 ,  1 ,Jayce,Vladimir,Ryze,Kassadin,Rakan
+2019.0,spring,EM,Stage,devils.one,MAD Lions E.C.,2.0,35:10,OK,blue,MAD,   VICTORY   ,61.4k,12,  9 ,  1 ,  1 ,  2 ,  0 ,Taric,Akali,Jax,Kennen,Viktor
+2019.0,spring,EM,Stage,devils.one,MAD Lions E.C.,2.0,35:10,OK,red,DV1,   DEFEAT   ,60.7k,9,  5 ,  0 ,  1 ,  3 ,  1 ,Jayce,Vladimir,Ryze,Sivir,Rakan

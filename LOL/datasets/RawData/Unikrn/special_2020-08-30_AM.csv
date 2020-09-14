@@ -1,0 +1,19 @@
+date,league_name,year,season,team_1,team_2,betting_site,saved_time,set_number,over_under:Total Barons Slain:1.50:over,over_under:Total Barons Slain:1.50:under,over_under:Total Dragons Slain:4.50:over,over_under:Total Dragons Slain:4.50:under,over_under:Total Towers Destroyed:11.50:over,over_under:Total Towers Destroyed:11.50:under,special:Winner:home,special:Winner:away,both:Teams to Destroy an Inhibitor:yes,both:Teams to Destroy an Inhibitor:no,special:Team to Destroy the First Tower:home,special:Team to Destroy the First Tower:away,both:Teams to Slay a Dragon:yes,both:Teams to Slay a Dragon:no,both:Teams to Slay a Baron:yes,both:Teams to Slay a Baron:no,over_under:Total Towers Destroyed:12.50:over,over_under:Total Towers Destroyed:12.50:under
+2020-08-30,LCK,2020.0,summer,GenG,DragonX,unikrn,2020-08-30 11:00:00,1.0,3.0,1.36,1.5,2.5,1.66,2.1,2.0,1.72,7.0,1.1,1.83,1.83,,,,,,
+2020-08-30,LCK,2020.0,summer,GenG,DragonX,unikrn,2020-08-30 11:00:00,2.0,3.0,1.36,1.5,2.5,1.66,2.1,2.0,1.72,,,,,1.22,4.0,6.0,1.12,,
+2020-08-30,LCK,2020.0,summer,GenG,DragonX,unikrn,2020-08-30 11:00:00,3.0,3.0,1.36,1.5,2.5,1.66,2.1,2.0,1.72,,,,,1.22,4.0,,,,
+2020-08-30,VCS,2020.0,summer,Team Secret,EVOS Esports,unikrn,2020-08-30 11:00:00,1.0,,,,,,,2.1,1.66,7.0,1.1,1.83,1.83,,,,,,
+2020-08-30,VCS,2020.0,summer,Team Secret,EVOS Esports,unikrn,2020-08-30 11:00:00,2.0,,,,,,,2.1,1.66,,,,,1.25,3.75,6.0,1.12,,
+2020-08-30,VCS,2020.0,summer,Team Secret,EVOS Esports,unikrn,2020-08-30 11:00:00,3.0,,,,,,,2.1,1.66,,,,,1.25,3.75,,,,
+2020-08-30,LCL,2020.0,summer,Unicorns Of Love,Gambit,unikrn,2020-08-30 11:00:00,1.0,,,,,,,1.33,3.25,,,,,,,,,,
+2020-08-30,LCL,2020.0,summer,Unicorns Of Love,Gambit,unikrn,2020-08-30 11:00:00,2.0,,,,,,,1.33,3.25,,,,,,,,,,
+2020-08-30,LCL,2020.0,summer,Unicorns Of Love,Gambit,unikrn,2020-08-30 11:00:00,3.0,,,,,,,1.33,3.25,,,,,,,,,,
+2020-08-31,LEC,2020.0,summer,Rogue,MAD,unikrn,2020-08-30 11:00:00,1.0,2.62,1.44,1.44,2.62,,,2.1,1.66,7.0,1.1,1.83,1.83,,,,,2.0,1.72
+2020-08-31,LEC,2020.0,summer,Rogue,MAD,unikrn,2020-08-30 11:00:00,2.0,2.62,1.44,1.44,2.62,,,2.1,1.66,,,,,1.25,3.75,6.0,1.12,2.0,1.72
+2020-08-31,LEC,2020.0,summer,Rogue,MAD,unikrn,2020-08-30 11:00:00,3.0,2.62,1.44,1.44,2.62,,,2.1,1.66,,,,,1.25,3.75,,,2.0,1.72
+2020-08-31,LCS,2020.0,summer,TL,FlyQuest,unikrn,2020-08-30 11:00:00,1.0,2.5,1.5,1.44,2.62,,,1.53,2.37,8.0,1.08,1.66,2.1,,,,,2.2,1.61
+2020-08-31,LCS,2020.0,summer,TL,FlyQuest,unikrn,2020-08-30 11:00:00,2.0,2.5,1.5,1.44,2.62,,,1.53,2.37,,,,,1.28,3.5,6.5,1.11,2.2,1.61
+2020-08-31,LCS,2020.0,summer,TL,FlyQuest,unikrn,2020-08-30 11:00:00,3.0,2.5,1.5,1.44,2.62,,,1.53,2.37,,,,,1.28,3.5,,,2.2,1.61
+2020-09-01,LVP SuperLiga,2020.0,summer,Movistar Riders,Cream Real Betis,unikrn,2020-08-30 11:00:00,1.0,,,,,,,1.33,3.25,,,,,,,,,,
+2020-09-01,LVP SuperLiga,2020.0,summer,Movistar Riders,Cream Real Betis,unikrn,2020-08-30 11:00:00,2.0,,,,,,,1.33,3.25,,,,,,,,,,
+2020-09-01,LVP SuperLiga,2020.0,summer,Movistar Riders,Cream Real Betis,unikrn,2020-08-30 11:00:00,3.0,,,,,,,1.33,3.25,,,,,,,,,,

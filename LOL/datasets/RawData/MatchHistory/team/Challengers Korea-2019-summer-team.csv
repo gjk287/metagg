@@ -1,0 +1,273 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,Challengers Korea,1,bbq,hyFresh Blade,1.0,31:44,OK,blue,bbq,   DEFEAT   ,49.5k,3,  1 ,  0 ,  0 ,  1 ,  1 ,Neeko,Ryze,Sylas,Jayce,Karma
+2019.0,summer,Challengers Korea,1,bbq,hyFresh Blade,1.0,31:44,OK,red,BRB,   VICTORY   ,62.2k,10,  11 ,  3 ,  2 ,  3 ,  0 ,Aatrox,Irelia,Kalista,Leblanc,Taliyah
+2019.0,summer,Challengers Korea,1,bbq,hyFresh Blade,2.0,27:57,OK,blue,BRB,   VICTORY   ,55.4k,10,  9 ,  1 ,  1 ,  2 ,  1 ,Irelia,Taliyah,Kalista,Pyke,Leblanc
+2019.0,summer,Challengers Korea,1,bbq,hyFresh Blade,2.0,27:57,OK,red,bbq,   DEFEAT   ,41.6k,4,  0 ,  0 ,  0 ,  2 ,  0 ,Ryze,Sylas,Yuumi,Draven,Sivir
+2019.0,summer,Challengers Korea,1,Awesome Spear,VSG,1.0,25:07,OK,blue,SPG,   DEFEAT   ,35.4k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Irelia,Kalista,Ryze,Rakan,Kennen
+2019.0,summer,Challengers Korea,1,Awesome Spear,VSG,1.0,25:07,OK,red,VSG,   VICTORY   ,48.6k,15,  10 ,  2 ,  1 ,  3 ,  1 ,Yuumi,Aatrox,Sylas,Leblanc,Jayce
+2019.0,summer,Challengers Korea,1,Awesome Spear,VSG,2.0,21:09,OK,blue,VSG,   VICTORY   ,46.2k,27,  8 ,  1 ,  0 ,  3 ,  1 ,Kaisa,Neeko,Yuumi,Nautilus,Jayce
+2019.0,summer,Challengers Korea,1,Awesome Spear,VSG,2.0,21:09,OK,red,SPG,   DEFEAT   ,31.1k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Kalista,Aatrox,Rakan,Morgana
+2019.0,summer,Challengers Korea,1,MVP,Asura,1.0,25:13,OK,blue,MVP,   VICTORY   ,53.5k,14,  10 ,  2 ,  1 ,  3 ,  1 ,Olaf,Elise,Irelia,Nasus,Pantheon
+2019.0,summer,Challengers Korea,1,MVP,Asura,1.0,25:13,OK,red,ASR,   DEFEAT   ,37.5k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Garen,Gangplank,Galio,Gragas,Diana
+2019.0,summer,Challengers Korea,1,MVP,Asura,2.0,37:49,OK,blue,ASR,   DEFEAT   ,62.6k,10,  4 ,  0 ,  0 ,  4 ,  1 ,Irelia,Nautilus,Neeko,Sona,Yorick
+2019.0,summer,Challengers Korea,1,MVP,Asura,2.0,37:49,OK,red,MVP,   VICTORY   ,67.3k,12,  8 ,  1 ,  2 ,  1 ,  0 ,Aatrox,Ryze,Olaf,Yuumi,Pyke
+2019.0,summer,Challengers Korea,1,SeolHaeOne Prince,Dynamics,1.0,31:07,OK,blue,APK,   VICTORY   ,56.4k,10,  8 ,  1 ,  0 ,  3 ,  0 ,Lucian,Sylas,Sejuani,Nautilus,Ezreal
+2019.0,summer,Challengers Korea,1,SeolHaeOne Prince,Dynamics,1.0,31:07,OK,red,DYN,   DEFEAT   ,54.2k,5,  4 ,  0 ,  1 ,  1 ,  1 ,Aatrox,Pyke,Neeko,Renekton,Zoe
+2019.0,summer,Challengers Korea,1,SeolHaeOne Prince,Dynamics,2.0,32:30,OK,blue,DYN,   DEFEAT   ,54.1k,14,  3 ,  0 ,  0 ,  0 ,  0 ,Pyke,Yuumi,Renekton,Jax,Sivir
+2019.0,summer,Challengers Korea,1,SeolHaeOne Prince,Dynamics,2.0,32:30,OK,red,APK,   VICTORY   ,62.7k,15,  9 ,  1 ,  1 ,  4 ,  1 ,Aatrox,Sejuani,Lucian,Morgana,Ryze
+2019.0,summer,Challengers Korea,1,VSG,SeolHaeOne Prince,1.0,36:06,OK,blue,VSG,   DEFEAT   ,59.6k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Irelia,Pyke,Yuumi,Jayce,Neeko
+2019.0,summer,Challengers Korea,1,VSG,SeolHaeOne Prince,1.0,36:06,OK,red,APK,   VICTORY   ,69.3k,13,  9 ,  1 ,  1 ,  5 ,  1 ,Kalista,Aatrox,Sejuani,Xayah,Sivir
+2019.0,summer,Challengers Korea,1,VSG,SeolHaeOne Prince,2.0,27:55,OK,blue,APK,   VICTORY   ,55.6k,17,  10 ,  2 ,  1 ,  4 ,  1 ,Olaf,Kalista,Sylas,Irelia,Neeko
+2019.0,summer,Challengers Korea,1,VSG,SeolHaeOne Prince,2.0,27:55,OK,red,VSG,   DEFEAT   ,44.6k,10,  0 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Aatrox,Ryze,Renekton,Leblanc
+2019.0,summer,Challengers Korea,1,Asura,bbq,1.0,33:31,OK,blue,ASR,   VICTORY   ,58.5k,7,  8 ,  1 ,  0 ,  4 ,  1 ,Irelia,Neeko,Sylas,Leblanc,Gragas
+2019.0,summer,Challengers Korea,1,Asura,bbq,1.0,33:31,OK,red,bbq,   DEFEAT   ,54.8k,12,  3 ,  0 ,  0 ,  0 ,  0 ,Elise,Aatrox,Sejuani,Olaf,RekSai
+2019.0,summer,Challengers Korea,1,Asura,bbq,2.0,30:16,OK,blue,bbq,   VICTORY   ,57.7k,14,  10 ,  2 ,  1 ,  3 ,  1 ,Elise,Olaf,Yasuo,RekSai,Kindred
+2019.0,summer,Challengers Korea,1,Asura,bbq,2.0,30:16,OK,red,ASR,   DEFEAT   ,52.2k,14,  5 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Ryze,Yuumi,Taliyah,Zoe
+2019.0,summer,Challengers Korea,1,Asura,bbq,3.0,32:41,OK,blue,ASR,   VICTORY   ,68.6k,18,  11 ,  3 ,  1 ,  5 ,  0 ,Irelia,Neeko,Yuumi,Thresh,Nautilus
+2019.0,summer,Challengers Korea,1,Asura,bbq,3.0,32:41,OK,red,bbq,   DEFEAT   ,50.1k,5,  0 ,  0 ,  0 ,  0 ,  1 ,Elise,Aatrox,Sejuani,Ezreal,Jax
+2019.0,summer,Challengers Korea,2,hyFresh Blade,VSG,1.0,35:09,OK,blue,BRB,   DEFEAT   ,58.4k,8,  1 ,  0 ,  0 ,  1 ,  1 ,Olaf,Irelia,Draven,Gnar,Leblanc
+2019.0,summer,Challengers Korea,2,hyFresh Blade,VSG,1.0,35:09,OK,red,VSG,   VICTORY   ,68.3k,19,  10 ,  2 ,  1 ,  4 ,  0 ,Sejuani,Aatrox,Yuumi,Sona,Varus
+2019.0,summer,Challengers Korea,2,hyFresh Blade,VSG,2.0,29:21,OK,blue,VSG,   DEFEAT   ,46.7k,9,  0 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Yuumi,Irelia,Gragas,Lucian
+2019.0,summer,Challengers Korea,2,hyFresh Blade,VSG,2.0,29:21,OK,red,BRB,   VICTORY   ,62.2k,18,  11 ,  3 ,  1 ,  4 ,  1 ,Aatrox,Sejuani,Lux,Leblanc,Akali
+2019.0,summer,Challengers Korea,2,hyFresh Blade,VSG,3.0,37:10,OK,blue,BRB,   DEFEAT   ,63.0k,8,  3 ,  0 ,  1 ,  1 ,  1 ,Irelia,Lux,Nautilus,Leblanc,Pyke
+2019.0,summer,Challengers Korea,2,hyFresh Blade,VSG,3.0,37:10,OK,red,VSG,   VICTORY   ,71.8k,18,  11 ,  2 ,  1 ,  5 ,  0 ,Ryze,Aatrox,Yuumi,Yasuo,Sona
+2019.0,summer,Challengers Korea,2,Awesome Spear,bbq,1.0,29:15,OK,blue,SPG,   VICTORY   ,56.8k,7,  11 ,  3 ,  1 ,  4 ,  1 ,Irelia,Kalista,Ryze,Sona,Jayce
+2019.0,summer,Challengers Korea,2,Awesome Spear,bbq,1.0,29:15,OK,red,bbq,   DEFEAT   ,43.7k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Sejuani,Yuumi,Nautilus,Karma
+2019.0,summer,Challengers Korea,2,Awesome Spear,bbq,2.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,summer,Challengers Korea,2,Dynamics,Asura,1.0,26:43,OK,blue,DYN,   VICTORY   ,53.8k,14,  11 ,  3 ,  1 ,  3 ,  1 ,Yuumi,Sejuani,Renekton,Jax,Jayce
+2019.0,summer,Challengers Korea,2,Dynamics,Asura,1.0,26:43,OK,red,ASR,   DEFEAT   ,39.6k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Neeko,Ryze,Sivir,Lucian
+2019.0,summer,Challengers Korea,2,Dynamics,Asura,2.0,21:57,OK,blue,ASR,   DEFEAT   ,33.1k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Neeko,Olaf,Sona,Azir
+2019.0,summer,Challengers Korea,2,Dynamics,Asura,2.0,21:57,OK,red,DYN,   VICTORY   ,46.1k,14,  11 ,  3 ,  1 ,  1 ,  1 ,Aatrox,Renekton,Sejuani,Yuumi,Nautilus
+2019.0,summer,Challengers Korea,2,SeolHaeOne Prince,MVP,1.0,36:04,OK,blue,APK,   DEFEAT   ,58.7k,8,  3 ,  0 ,  0 ,  4 ,  1 ,TahmKench,Irelia,Ryze,RekSai,Elise
+2019.0,summer,Challengers Korea,2,SeolHaeOne Prince,MVP,1.0,36:04,OK,red,MVP,   VICTORY   ,71.1k,23,  9 ,  1 ,  1 ,  2 ,  0 ,Olaf,Sejuani,Sylas,Yasuo,Zoe
+2019.0,summer,Challengers Korea,2,SeolHaeOne Prince,MVP,2.0,32:49,OK,blue,MVP,   DEFEAT   ,52.6k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Yuumi,Irelia,Lux,Jax
+2019.0,summer,Challengers Korea,2,SeolHaeOne Prince,MVP,2.0,32:49,OK,red,APK,   VICTORY   ,67.6k,16,  11 ,  3 ,  2 ,  4 ,  1 ,Aatrox,TahmKench,Sejuani,Sivir,Nautilus
+2019.0,summer,Challengers Korea,2,SeolHaeOne Prince,MVP,3.0,28:20,OK,blue,APK,   VICTORY   ,54.3k,10,  11 ,  3 ,  1 ,  4 ,  1 ,TahmKench,Irelia,Nautilus,Xayah,Sivir
+2019.0,summer,Challengers Korea,2,SeolHaeOne Prince,MVP,3.0,28:20,OK,red,MVP,   DEFEAT   ,43.0k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Sejuani,Yuumi,Galio,Thresh
+2019.0,summer,Challengers Korea,2,Dynamics,Awesome Spear,1.0,39:33,OK,blue,DYN,   VICTORY   ,73.3k,15,  10 ,  1 ,  1 ,  5 ,  1 ,Sejuani,Yuumi,Renekton,Sona,Sivir
+2019.0,summer,Challengers Korea,2,Dynamics,Awesome Spear,1.0,39:33,OK,red,SPG,   DEFEAT   ,66.3k,10,  2 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Olaf,Leblanc,Irelia,Lucian
+2019.0,summer,Challengers Korea,2,Dynamics,Awesome Spear,2.0,37:13,OK,blue,SPG,   VICTORY   ,68.7k,16,  11 ,  5 ,  2 ,  2 ,  1 ,Irelia,Leblanc,Yuumi,Sona,Ezreal
+2019.0,summer,Challengers Korea,2,Dynamics,Awesome Spear,2.0,37:13,OK,red,DYN,   DEFEAT   ,67.9k,19,  5 ,  0 ,  0 ,  3 ,  0 ,Aatrox,Sylas,Sejuani,Zoe,Ryze
+2019.0,summer,Challengers Korea,2,Dynamics,Awesome Spear,3.0,26:00,OK,blue,DYN,   VICTORY   ,52.7k,14,  11 ,  2 ,  1 ,  3 ,  0 ,Sejuani,Renekton,Ryze,Zoe,Azir
+2019.0,summer,Challengers Korea,2,Dynamics,Awesome Spear,3.0,26:00,OK,red,SPG,   DEFEAT   ,37.5k,1,  0 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Leblanc,Neeko,Sivir,Kaisa
+2019.0,summer,Challengers Korea,2,MVP,hyFresh Blade,1.0,29:16,OK,blue,MVP,   DEFEAT   ,43.3k,1,  1 ,  0 ,  0 ,  0 ,  1 ,Ryze,Irelia,Aatrox,Ezreal,Renekton
+2019.0,summer,Challengers Korea,2,MVP,hyFresh Blade,1.0,29:16,OK,red,BRB,   VICTORY   ,57.4k,14,  11 ,  3 ,  1 ,  4 ,  0 ,Sejuani,TahmKench,Sylas,Gragas,JarvanIV
+2019.0,summer,Challengers Korea,2,MVP,hyFresh Blade,2.0,44:01,OK,blue,BRB,   DEFEAT   ,71.4k,4,  4 ,  0 ,  1 ,  1 ,  0 ,Irelia,TahmKench,Aatrox,Yasuo,Pyke
+2019.0,summer,Challengers Korea,2,MVP,hyFresh Blade,2.0,44:01,OK,red,MVP,   VICTORY   ,79.3k,16,  9 ,  1 ,  1 ,  5 ,  1 ,Ryze,Sejuani,Sylas,Vladimir,Ezreal
+2019.0,summer,Challengers Korea,2,MVP,hyFresh Blade,3.0,37:26,OK,blue,MVP,   DEFEAT   ,56.7k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Irelia,Aatrox,Yuumi,Renekton
+2019.0,summer,Challengers Korea,2,MVP,hyFresh Blade,3.0,37:26,OK,red,BRB,   VICTORY   ,75.8k,17,  11 ,  4 ,  2 ,  6 ,  1 ,Sejuani,TahmKench,Sylas,Lux,Xayah
+2019.0,summer,Challengers Korea,3,SeolHaeOne Prince,Awesome Spear,1.0,30:00,OK,blue,APK,   VICTORY   ,60.4k,21,  10 ,  2 ,  1 ,  3 ,  1 ,TahmKench,Renekton,Sejuani,Xayah,Ezreal
+2019.0,summer,Challengers Korea,3,SeolHaeOne Prince,Awesome Spear,1.0,30:00,OK,red,SPG,   DEFEAT   ,49.8k,11,  1 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Yasuo,Karma,Gragas,RekSai
+2019.0,summer,Challengers Korea,3,SeolHaeOne Prince,Awesome Spear,2.0,35:43,OK,blue,SPG,   VICTORY   ,68.7k,25,  9 ,  1 ,  2 ,  3 ,  0 ,Irelia,Yasuo,Akali,Elise,Rumble
+2019.0,summer,Challengers Korea,3,SeolHaeOne Prince,Awesome Spear,2.0,35:43,OK,red,APK,   DEFEAT   ,60.2k,12,  5 ,  1 ,  0 ,  1 ,  1 ,Sejuani,Karma,Aatrox,Rakan,TahmKench
+2019.0,summer,Challengers Korea,3,SeolHaeOne Prince,Awesome Spear,3.0,38:53,OK,blue,APK,   VICTORY   ,70.0k,12,  10 ,  2 ,  1 ,  2 ,  0 ,Renekton,Sejuani,Sivir,Neeko,Skarner
+2019.0,summer,Challengers Korea,3,SeolHaeOne Prince,Awesome Spear,3.0,38:53,OK,red,SPG,   DEFEAT   ,64.2k,8,  3 ,  0 ,  0 ,  3 ,  1 ,Irelia,Yasuo,Karma,Ezreal,Rumble
+2019.0,summer,Challengers Korea,3,hyFresh Blade,Asura,1.0,35:30,OK,blue,BRB,   VICTORY   ,67.0k,13,  11 ,  2 ,  2 ,  4 ,  1 ,Irelia,Olaf,Renekton,Zoe,Neeko
+2019.0,summer,Challengers Korea,3,hyFresh Blade,Asura,1.0,35:30,OK,red,ASR,   DEFEAT   ,58.4k,4,  6 ,  1 ,  0 ,  1 ,  0 ,Karma,Sejuani,Sona,Gragas,Elise
+2019.0,summer,Challengers Korea,3,hyFresh Blade,Asura,2.0,35:55,OK,blue,ASR,   VICTORY   ,64.5k,17,  8 ,  1 ,  0 ,  5 ,  1 ,Irelia,Sona,Yuumi,Azir,Neeko
+2019.0,summer,Challengers Korea,3,hyFresh Blade,Asura,2.0,35:55,OK,red,BRB,   DEFEAT   ,56.1k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Karma,Aatrox,Ezreal,Viktor
+2019.0,summer,Challengers Korea,3,hyFresh Blade,Asura,3.0,26:31,OK,blue,BRB,   DEFEAT   ,39.7k,0,  1 ,  0 ,  0 ,  1 ,  1 ,Irelia,Olaf,Renekton,Taliyah,Elise
+2019.0,summer,Challengers Korea,3,hyFresh Blade,Asura,3.0,26:31,OK,red,ASR,   VICTORY   ,49.8k,12,  9 ,  2 ,  1 ,  3 ,  0 ,Karma,Sejuani,Aatrox,Gragas,
+2019.0,summer,Challengers Korea,3,MVP,bbq,1.0,37:03,OK,blue,MVP,   VICTORY   ,71.8k,13,  10 ,  2 ,  2 ,  4 ,  0 ,Irelia,Olaf,Lux,Yasuo,Zoe
+2019.0,summer,Challengers Korea,3,MVP,bbq,1.0,37:03,OK,red,bbq,   DEFEAT   ,60.3k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Sejuani,Karma,Neeko,Elise,Skarner
+2019.0,summer,Challengers Korea,3,MVP,bbq,2.0,35:47,OK,blue,bbq,   VICTORY   ,66.2k,16,  8 ,  1 ,  1 ,  5 ,  0 ,Neeko,Aatrox,Gragas,Kennen,JarvanIV
+2019.0,summer,Challengers Korea,3,MVP,bbq,2.0,35:47,OK,red,MVP,   DEFEAT   ,58.0k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Olaf,Sejuani,TahmKench,Renekton,Akali
+2019.0,summer,Challengers Korea,3,MVP,bbq,3.0,35:04,OK,blue,MVP,   DEFEAT   ,55.6k,8,  2 ,  0 ,  0 ,  0 ,  1 ,Olaf,Lux,Irelia,RekSai,XinZhao
+2019.0,summer,Challengers Korea,3,MVP,bbq,3.0,35:04,OK,red,bbq,   VICTORY   ,64.9k,19,  11 ,  3 ,  1 ,  5 ,  0 ,Sejuani,Karma,Aatrox,Yasuo,Jayce
+2019.0,summer,Challengers Korea,3,VSG,Dynamics,1.0,33:43,OK,blue,VSG,   DEFEAT   ,54.5k,6,  3 ,  0 ,  0 ,  2 ,  1 ,Irelia,Karma,Sejuani,Lissandra,Leblanc
+2019.0,summer,Challengers Korea,3,VSG,Dynamics,1.0,33:43,OK,red,DYN,   VICTORY   ,60.9k,15,  8 ,  1 ,  1 ,  2 ,  0 ,Aatrox,Olaf,Nidalee,,
+2019.0,summer,Challengers Korea,3,VSG,Dynamics,2.0,28:04,OK,blue,DYN,   VICTORY   ,55.6k,14,  11 ,  3 ,  1 ,  2 ,  1 ,Irelia,Olaf,Renekton,Leblanc,Jayce
+2019.0,summer,Challengers Korea,3,VSG,Dynamics,2.0,28:04,OK,red,VSG,   DEFEAT   ,41.0k,4,  0 ,  0 ,  0 ,  2 ,  0 ,Karma,Sejuani,Yuumi,Skarner,XinZhao
+2019.0,summer,Challengers Korea,3,bbq,VSG,1.0,27:54,OK,blue,bbq,   DEFEAT   ,44.7k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Olaf,Irelia,Lux,Leblanc,RekSai
+2019.0,summer,Challengers Korea,3,bbq,VSG,1.0,27:54,OK,red,VSG,   VICTORY   ,55.7k,17,  9 ,  2 ,  1 ,  3 ,  1 ,Sejuani,Karma,Akali,JarvanIV,Lissandra
+2019.0,summer,Challengers Korea,3,bbq,VSG,2.0,26:03,OK,blue,VSG,   VICTORY   ,46.0k,6,  9 ,  2 ,  1 ,  3 ,  0 ,Lissandra,Thresh,Irelia,Kalista,Jayce
+2019.0,summer,Challengers Korea,3,bbq,VSG,2.0,26:03,OK,red,bbq,   DEFEAT   ,39.7k,4,  3 ,  0 ,  0 ,  1 ,  1 ,Sejuani,Karma,Olaf,Xayah,Sivir
+2019.0,summer,Challengers Korea,3,Awesome Spear,hyFresh Blade,1.0,44:02,OK,blue,SPG,   DEFEAT   ,80.6k,14,  7 ,  1 ,  1 ,  5 ,  1 ,TahmKench,Irelia,Olaf,Akali,Jayce
+2019.0,summer,Challengers Korea,3,Awesome Spear,hyFresh Blade,1.0,44:02,OK,red,BRB,   VICTORY   ,81.7k,16,  11 ,  6 ,  2 ,  1 ,  0 ,Sejuani,Karma,Aatrox,Sivir,Leblanc
+2019.0,summer,Challengers Korea,3,Awesome Spear,hyFresh Blade,2.0,26:38,OK,blue,BRB,   VICTORY   ,54.1k,20,  8 ,  1 ,  0 ,  1 ,  1 ,Irelia,Lux,TahmKench,Neeko,Pyke
+2019.0,summer,Challengers Korea,3,Awesome Spear,hyFresh Blade,2.0,26:38,OK,red,SPG,   DEFEAT   ,45.7k,10,  1 ,  0 ,  1 ,  3 ,  0 ,Karma,Sejuani,Aatrox,Ezreal,Xayah
+2019.0,summer,Challengers Korea,4,Asura,Awesome Spear,1.0,24:50,OK,blue,ASR,   DEFEAT   ,38.2k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Irelia,Azir,Sona,Leblanc,Taliyah
+2019.0,summer,Challengers Korea,4,Asura,Awesome Spear,1.0,24:50,OK,red,SPG,   VICTORY   ,45.3k,7,  9 ,  2 ,  1 ,  3 ,  0 ,Karma,Sejuani,Pyke,Sivir,Ezreal
+2019.0,summer,Challengers Korea,4,Asura,Awesome Spear,2.0,36:31,OK,blue,SPG,   DEFEAT   ,60.3k,3,  3 ,  0 ,  0 ,  0 ,  1 ,Irelia,Yuumi,Pyke,Corki,Akali
+2019.0,summer,Challengers Korea,4,Asura,Awesome Spear,2.0,36:31,OK,red,ASR,   VICTORY   ,70.4k,7,  11 ,  5 ,  2 ,  5 ,  0 ,Karma,Sona,Sejuani,Lux,Rakan
+2019.0,summer,Challengers Korea,4,Asura,Awesome Spear,3.0,35:13,OK,blue,ASR,   VICTORY   ,67.9k,23,  11 ,  3 ,  2 ,  4 ,  1 ,Irelia,Azir,Sona,Sivir,Lucian
+2019.0,summer,Challengers Korea,4,Asura,Awesome Spear,3.0,35:13,OK,red,SPG,   DEFEAT   ,56.6k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Karma,Sejuani,Ezreal,Yuumi,TahmKench
+2019.0,summer,Challengers Korea,4,hyFresh Blade,SeolHaeOne Prince,1.0,35:25,OK,blue,BRB,   VICTORY   ,65.0k,17,  8 ,  1 ,  1 ,  3 ,  0 ,Irelia,Olaf,Lux,Neeko,Akali
+2019.0,summer,Challengers Korea,4,hyFresh Blade,SeolHaeOne Prince,1.0,35:25,OK,red,APK,   DEFEAT   ,64.0k,12,  7 ,  1 ,  2 ,  2 ,  1 ,Karma,Sejuani,Aatrox,Leblanc,Azir
+2019.0,summer,Challengers Korea,4,hyFresh Blade,SeolHaeOne Prince,2.0,33:40,OK,blue,APK,   VICTORY   ,65.1k,15,  11 ,  3 ,  1 ,  4 ,  0 ,Leblanc,TahmKench,Irelia,Skarner,Ezreal
+2019.0,summer,Challengers Korea,4,hyFresh Blade,SeolHaeOne Prince,2.0,33:40,OK,red,BRB,   DEFEAT   ,52.9k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Karma,Sejuani,Olaf,Neeko,Yasuo
+2019.0,summer,Challengers Korea,4,hyFresh Blade,SeolHaeOne Prince,3.0,32:56,OK,blue,BRB,   VICTORY   ,62.5k,19,  11 ,  3 ,  1 ,  4 ,  1 ,Irelia,Olaf,Lux,Yasuo,Akali
+2019.0,summer,Challengers Korea,4,hyFresh Blade,SeolHaeOne Prince,3.0,32:56,OK,red,APK,   DEFEAT   ,53.1k,9,  2 ,  0 ,  0 ,  0 ,  0 ,Karma,Sejuani,Aatrox,Azir,Leblanc
+2019.0,summer,Challengers Korea,4,VSG,MVP,1.0,47:34,OK,blue,VSG,   DEFEAT   ,79.7k,11,  7 ,  0 ,  1 ,  1 ,  1 ,Neeko,Irelia,TahmKench,Caitlyn,Sivir
+2019.0,summer,Challengers Korea,4,VSG,MVP,1.0,47:34,OK,red,MVP,   VICTORY   ,91.3k,14,  11 ,  3 ,  3 ,  7 ,  0 ,Sejuani,Karma,Yuumi,Thresh,Ashe
+2019.0,summer,Challengers Korea,4,VSG,MVP,2.0,28:43,OK,blue,MVP,   DEFEAT   ,45.2k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Olaf,Irelia,Lux,Xayah,Sivir
+2019.0,summer,Challengers Korea,4,VSG,MVP,2.0,28:43,OK,red,VSG,   VICTORY   ,55.2k,14,  9 ,  1 ,  1 ,  3 ,  1 ,Sejuani,Karma,Yuumi,Jayce,Neeko
+2019.0,summer,Challengers Korea,4,VSG,MVP,3.0,27:58,OK,blue,VSG,   VICTORY   ,51.4k,9,  10 ,  2 ,  1 ,  3 ,  0 ,Neeko,Irelia,Olaf,Ashe,Sona
+2019.0,summer,Challengers Korea,4,VSG,MVP,3.0,27:58,OK,red,MVP,   DEFEAT   ,41.9k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Sejuani,Karma,Yuumi,Azir,Sivir
+2019.0,summer,Challengers Korea,4,bbq,Dynamics,1.0,31:37,OK,blue,bbq,   DEFEAT   ,48.4k,5,  3 ,  0 ,  0 ,  2 ,  1 ,Neeko,Olaf,JarvanIV,Corki,Zoe
+2019.0,summer,Challengers Korea,4,bbq,Dynamics,1.0,31:37,OK,red,DYN,   VICTORY   ,60.3k,13,  10 ,  3 ,  2 ,  2 ,  0 ,Sejuani,Aatrox,Karma,Irelia,Sona
+2019.0,summer,Challengers Korea,4,bbq,Dynamics,2.0,31:01,OK,blue,DYN,   VICTORY   ,58.1k,7,  9 ,  1 ,  0 ,  2 ,  1 ,Irelia,Kalista,Aatrox,Lucian,Poppy
+2019.0,summer,Challengers Korea,4,bbq,Dynamics,2.0,31:01,OK,red,bbq,   DEFEAT   ,47.2k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Karma,Neeko,Ezreal,Sivir
+2019.0,summer,Challengers Korea,4,MVP,Awesome Spear,1.0,31:41,OK,blue,MVP,   DEFEAT   ,51.3k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Irelia,Yuumi,Pyke,Renekton,Sivir
+2019.0,summer,Challengers Korea,4,MVP,Awesome Spear,1.0,31:41,OK,red,SPG,   VICTORY   ,56.3k,12,  11 ,  3 ,  1 ,  3 ,  1 ,Karma,Sejuani,TahmKench,Leblanc,Kaisa
+2019.0,summer,Challengers Korea,4,MVP,Awesome Spear,2.0,34:03,OK,blue,SPG,   VICTORY   ,64.4k,19,  10 ,  2 ,  2 ,  4 ,  1 ,Irelia,Olaf,TahmKench,Leblanc,Sivir
+2019.0,summer,Challengers Korea,4,MVP,Awesome Spear,2.0,34:03,OK,red,MVP,   DEFEAT   ,51.6k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Karma,Pyke,Caitlyn,Renekton
+2019.0,summer,Challengers Korea,4,Dynamics,hyFresh Blade,1.0,29:18,OK,blue,DYN,   VICTORY   ,56.1k,14,  9 ,  1 ,  1 ,  4 ,  1 ,Sona,Kalista,Leblanc,Elise,LeeSin
+2019.0,summer,Challengers Korea,4,Dynamics,hyFresh Blade,1.0,29:18,OK,red,BRB,   DEFEAT   ,45.4k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Karma,Irelia,Zoe,Taliyah
+2019.0,summer,Challengers Korea,4,Dynamics,hyFresh Blade,2.0,34:06,OK,blue,BRB,   DEFEAT   ,53.9k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Yuumi,Akali,Leblanc,Ezreal
+2019.0,summer,Challengers Korea,4,Dynamics,hyFresh Blade,2.0,34:06,OK,red,DYN,   VICTORY   ,69.8k,26,  11 ,  1 ,  1 ,  5 ,  1 ,Karma,Sejuani,Sona,Lux,Kalista
+2019.0,summer,Challengers Korea,5,Asura,SeolHaeOne Prince,1.0,27:34,OK,blue,ASR,   DEFEAT   ,38.9k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Sivir,Elise,Yasuo,Leblanc
+2019.0,summer,Challengers Korea,5,Asura,SeolHaeOne Prince,1.0,27:34,OK,red,APK,   VICTORY   ,53.2k,12,  11 ,  3 ,  1 ,  4 ,  1 ,TahmKench,Karma,Jayce,Akali,Neeko
+2019.0,summer,Challengers Korea,5,Asura,SeolHaeOne Prince,2.0,40:36,OK,blue,APK,   DEFEAT   ,69.7k,14,  9 ,  2 ,  1 ,  2 ,  1 ,TahmKench,Irelia,Ezreal,Yasuo,Ashe
+2019.0,summer,Challengers Korea,5,Asura,SeolHaeOne Prince,2.0,40:36,OK,red,ASR,   VICTORY   ,78.6k,31,  9 ,  1 ,  1 ,  4 ,  0 ,Karma,Olaf,Morgana,Sivir,Lucian
+2019.0,summer,Challengers Korea,5,Asura,SeolHaeOne Prince,3.0,35:50,OK,blue,ASR,   DEFEAT   ,61.9k,18,  4 ,  0 ,  0 ,  2 ,  0 ,Irelia,Sivir,Elise,Olaf,Kennen
+2019.0,summer,Challengers Korea,5,Asura,SeolHaeOne Prince,3.0,35:50,OK,red,APK,   VICTORY   ,63.8k,19,  7 ,  1 ,  0 ,  3 ,  1 ,TahmKench,Karma,Pyke,Sylas,Jayce
+2019.0,summer,Challengers Korea,5,Dynamics,MVP,1.0,38:59,OK,blue,DYN,   DEFEAT   ,63.1k,7,  3 ,  0 ,  0 ,  2 ,  1 ,Irelia,Sejuani,Yasuo,Caitlyn,Leblanc
+2019.0,summer,Challengers Korea,5,Dynamics,MVP,1.0,38:59,OK,red,MVP,   VICTORY   ,77.3k,21,  10 ,  2 ,  2 ,  4 ,  0 ,Karma,Yuumi,Elise,Zoe,Neeko
+2019.0,summer,Challengers Korea,5,Dynamics,MVP,2.0,37:00,OK,blue,MVP,   DEFEAT   ,57.8k,6,  1 ,  0 ,  1 ,  1 ,  1 ,Irelia,Lux,Yuumi,Zoe,Syndra
+2019.0,summer,Challengers Korea,5,Dynamics,MVP,2.0,37:00,OK,red,DYN,   VICTORY   ,69.1k,12,  10 ,  1 ,  1 ,  5 ,  0 ,Yasuo,Sejuani,Olaf,Kaisa,Sivir
+2019.0,summer,Challengers Korea,5,Dynamics,MVP,3.0,30:32,OK,blue,DYN,   VICTORY   ,55.6k,13,  8 ,  1 ,  0 ,  4 ,  1 ,Corki,Sejuani,Irelia,Nautilus,Leblanc
+2019.0,summer,Challengers Korea,5,Dynamics,MVP,3.0,30:32,OK,red,MVP,   DEFEAT   ,49.7k,7,  4 ,  0 ,  0 ,  0 ,  0 ,Karma,Yuumi,Lux,TahmKench,Braum
+2019.0,summer,Challengers Korea,6,VSG,Asura,1.0,33:17,OK,blue,VSG,   VICTORY   ,58.9k,9,  9 ,  1 ,  1 ,  2 ,  1 ,Irelia,Akali,Sejuani,Neeko,Syndra
+2019.0,summer,Challengers Korea,6,VSG,Asura,1.0,33:17,OK,red,ASR,   DEFEAT   ,51.7k,3,  2 ,  0 ,  0 ,  2 ,  0 ,Karma,Azir,Olaf,Sivir,Taliyah
+2019.0,summer,Challengers Korea,6,VSG,Asura,2.0,19:38,OK,blue,ASR,   DEFEAT   ,29.4k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,Olaf,Yuumi,Elise,Taliyah
+2019.0,summer,Challengers Korea,6,VSG,Asura,2.0,19:38,OK,red,VSG,   VICTORY   ,41.1k,15,  10 ,  2 ,  0 ,  2 ,  1 ,Karma,Sejuani,Akali,Varus,Sylas
+2019.0,summer,Challengers Korea,6,SeolHaeOne Prince,bbq,1.0,28:46,OK,blue,APK,   VICTORY   ,56.2k,13,  11 ,  1 ,  1 ,  2 ,  0 ,Kalista,TahmKench,Sylas,Akali,Lissandra
+2019.0,summer,Challengers Korea,6,SeolHaeOne Prince,bbq,1.0,28:46,OK,red,bbq,   DEFEAT   ,44.6k,7,  1 ,  0 ,  0 ,  2 ,  1 ,Karma,Yuumi,Jayce,Rumble,Caitlyn
+2019.0,summer,Challengers Korea,6,SeolHaeOne Prince,bbq,2.0,36:14,OK,blue,bbq,   DEFEAT   ,60.8k,6,  5 ,  0 ,  0 ,  1 ,  0 ,Irelia,Jayce,Renekton,Gragas,Elise
+2019.0,summer,Challengers Korea,6,SeolHaeOne Prince,bbq,2.0,36:14,OK,red,APK,   VICTORY   ,67.1k,14,  11 ,  2 ,  2 ,  4 ,  1 ,Karma,Kalista,Caitlyn,Sejuani,Sylas
+2019.0,summer,Challengers Korea,6,hyFresh Blade,Dynamics,1.0,26:35,OK,blue,BRB,   VICTORY   ,51.2k,13,  7 ,  1 ,  1 ,  2 ,  1 ,Irelia,Jayce,Lux,Camille,Corki
+2019.0,summer,Challengers Korea,6,hyFresh Blade,Dynamics,1.0,26:35,OK,red,DYN,   DEFEAT   ,45.8k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Karma,Yuumi,Lucian,Kennen,Sylas
+2019.0,summer,Challengers Korea,6,hyFresh Blade,Dynamics,2.0,22:37,OK,blue,DYN,   VICTORY   ,44.0k,12,  7 ,  1 ,  1 ,  1 ,  1 ,Sylas,Kalista,TahmKench,Azir,Leblanc
+2019.0,summer,Challengers Korea,6,hyFresh Blade,Dynamics,2.0,22:37,OK,red,BRB,   DEFEAT   ,33.7k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Karma,Yuumi,Jayce,Varus,Irelia
+2019.0,summer,Challengers Korea,6,hyFresh Blade,Dynamics,3.0,28:43,OK,blue,BRB,   VICTORY   ,58.4k,21,  10 ,  2 ,  1 ,  3 ,  0 ,Irelia,Jayce,Neeko,Caitlyn,Sivir
+2019.0,summer,Challengers Korea,6,hyFresh Blade,Dynamics,3.0,28:43,OK,red,DYN,   DEFEAT   ,46.7k,7,  1 ,  0 ,  0 ,  1 ,  1 ,Karma,Yuumi,Azir,Kennen,Leblanc
+2019.0,summer,Challengers Korea,6,Awesome Spear,MVP,1.0,41:08,OK,blue,SPG,   VICTORY   ,73.9k,11,  9 ,  3 ,  2 ,  3 ,  0 ,Irelia,Corki,Tristana,Varus,Ashe
+2019.0,summer,Challengers Korea,6,Awesome Spear,MVP,1.0,41:08,OK,red,MVP,   DEFEAT   ,70.4k,12,  6 ,  1 ,  0 ,  3 ,  1 ,Karma,Yuumi,Olaf,Lucian,Kaisa
+2019.0,summer,Challengers Korea,6,Awesome Spear,MVP,2.0,37:11,OK,blue,MVP,   DEFEAT   ,59.8k,12,  2 ,  0 ,  0 ,  2 ,  0 ,Irelia,Yuumi,Olaf,Ezreal,Aatrox
+2019.0,summer,Challengers Korea,6,Awesome Spear,MVP,2.0,37:11,OK,red,SPG,   VICTORY   ,68.1k,13,  9 ,  2 ,  2 ,  3 ,  1 ,Karma,Corki,Tristana,Yasuo,MissFortune
+2019.0,summer,Challengers Korea,6,bbq,SeolHaeOne Prince,1.0,31:06,OK,blue,bbq,   DEFEAT   ,51.7k,11,  3 ,  0 ,  0 ,  1 ,  0 ,Jayce,Renekton,Irelia,Nautilus,Elise
+2019.0,summer,Challengers Korea,6,bbq,SeolHaeOne Prince,1.0,31:06,OK,red,APK,   VICTORY   ,64.7k,28,  11 ,  3 ,  1 ,  2 ,  1 ,Karma,Kalista,Caitlyn,Neeko,Azir
+2019.0,summer,Challengers Korea,6,bbq,SeolHaeOne Prince,2.0,27:16,OK,blue,APK,   VICTORY   ,53.9k,18,  9 ,  2 ,  1 ,  3 ,  1 ,Kalista,TahmKench,Sylas,Sivir,Yasuo
+2019.0,summer,Challengers Korea,6,bbq,SeolHaeOne Prince,2.0,27:16,OK,red,bbq,   DEFEAT   ,43.5k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Karma,Yuumi,Jayce,Aatrox,Irelia
+2019.0,summer,Challengers Korea,6,Asura,VSG,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,summer,Challengers Korea,6,Asura,VSG,2.0,35:14,OK,blue,VSG,   VICTORY   ,67.9k,20,  10 ,  1 ,  1 ,  3 ,  1 ,Akali,Sejuani,Karma,Camille,Neeko
+2019.0,summer,Challengers Korea,6,Asura,VSG,2.0,35:14,OK,red,ASR,   DEFEAT   ,57.3k,10,  4 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Azir,TahmKench,Rakan,Sivir
+2019.0,summer,Challengers Korea,7,hyFresh Blade,MVP,1.0,27:09,OK,blue,BRB,   VICTORY   ,55.7k,13,  9 ,  1 ,  1 ,  3 ,  0 ,Irelia,Jayce,Lux,Qiyana,Renekton
+2019.0,summer,Challengers Korea,7,hyFresh Blade,MVP,1.0,27:09,OK,red,MVP,   DEFEAT   ,42.5k,1,  1 ,  0 ,  0 ,  0 ,  1 ,Karma,Olaf,Yuumi,Gragas,Taliyah
+2019.0,summer,Challengers Korea,7,hyFresh Blade,MVP,2.0,35:16,OK,blue,MVP,   VICTORY   ,64.7k,13,  7 ,  1 ,  1 ,  4 ,  1 ,Irelia,Yuumi,Sylas,Zoe,Olaf
+2019.0,summer,Challengers Korea,7,hyFresh Blade,MVP,2.0,35:16,OK,red,BRB,   DEFEAT   ,61.9k,10,  8 ,  1 ,  1 ,  1 ,  0 ,Karma,Jayce,Neeko,Ashe,Sivir
+2019.0,summer,Challengers Korea,7,hyFresh Blade,MVP,3.0,33:49,OK,blue,BRB,   VICTORY   ,66.7k,10,  11 ,  3 ,  2 ,  2 ,  1 ,Irelia,Jayce,Sejuani,Camille,Akali
+2019.0,summer,Challengers Korea,7,hyFresh Blade,MVP,3.0,33:49,OK,red,MVP,   DEFEAT   ,54.3k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Karma,Yuumi,Olaf,Neeko,Renekton
+2019.0,summer,Challengers Korea,7,Awesome Spear,Dynamics,1.0,30:34,OK,blue,SPG,   DEFEAT   ,47.1k,12,  1 ,  0 ,  0 ,  1 ,  1 ,Irelia,Olaf,RekSai,JarvanIV,Aatrox
+2019.0,summer,Challengers Korea,7,Awesome Spear,Dynamics,1.0,30:34,OK,red,DYN,   VICTORY   ,60.0k,19,  9 ,  1 ,  2 ,  3 ,  0 ,Elise,Karma,Sylas,Kaisa,Mordekaiser
+2019.0,summer,Challengers Korea,7,Awesome Spear,Dynamics,2.0,27:19,OK,blue,DYN,   VICTORY   ,51.6k,19,  7 ,  1 ,  1 ,  2 ,  0 ,Elise,Sylas,Olaf,Karthus,Gragas
+2019.0,summer,Challengers Korea,7,Awesome Spear,Dynamics,2.0,27:19,OK,red,SPG,   DEFEAT   ,41.9k,9,  1 ,  0 ,  0 ,  1 ,  1 ,Karma,Sejuani,Jayce,Kennen,Akali
+2019.0,summer,Challengers Korea,7,SeolHaeOne Prince,VSG,1.0,26:03,OK,blue,APK,   DEFEAT   ,38.8k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Kalista,Caitlyn,TahmKench,Ezreal,Draven
+2019.0,summer,Challengers Korea,7,SeolHaeOne Prince,VSG,1.0,26:03,OK,red,VSG,   VICTORY   ,48.8k,10,  9 ,  1 ,  1 ,  4 ,  0 ,Morgana,Karma,Nautilus,Illaoi,Rumble
+2019.0,summer,Challengers Korea,7,SeolHaeOne Prince,VSG,2.0,29:17,OK,blue,VSG,   DEFEAT   ,46.0k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Morgana,Nautilus,Karma,Irelia,Renekton
+2019.0,summer,Challengers Korea,7,SeolHaeOne Prince,VSG,2.0,29:17,OK,red,APK,   VICTORY   ,56.6k,12,  10 ,  2 ,  1 ,  2 ,  1 ,Kalista,Olaf,TahmKench,Xayah,Leblanc
+2019.0,summer,Challengers Korea,7,SeolHaeOne Prince,VSG,3.0,30:42,OK,blue,APK,   DEFEAT   ,49.8k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Kalista,Olaf,Leblanc,TahmKench,Lux
+2019.0,summer,Challengers Korea,7,SeolHaeOne Prince,VSG,3.0,30:42,OK,red,VSG,   VICTORY   ,55.8k,13,  9 ,  2 ,  1 ,  2 ,  0 ,Morgana,Karma,Nautilus,Sejuani,Rumble
+2019.0,summer,Challengers Korea,7,bbq,Asura,1.0,37:40,OK,blue,bbq,   DEFEAT   ,65.1k,9,  5 ,  0 ,  0 ,  2 ,  1 ,Jayce,Renekton,Irelia,Jax,Mordekaiser
+2019.0,summer,Challengers Korea,7,bbq,Asura,1.0,37:40,OK,red,ASR,   VICTORY   ,67.4k,6,  8 ,  1 ,  2 ,  4 ,  0 ,Karma,Kalista,Aatrox,Ashe,Varus
+2019.0,summer,Challengers Korea,7,bbq,Asura,2.0,30:20,OK,blue,ASR,   DEFEAT   ,48.5k,12,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Sivir,Neeko,Elise,Renekton
+2019.0,summer,Challengers Korea,7,bbq,Asura,2.0,30:20,OK,red,bbq,   VICTORY   ,60.1k,15,  11 ,  3 ,  2 ,  4 ,  1 ,Jayce,Karma,Olaf,Zoe,RekSai
+2019.0,summer,Challengers Korea,7,bbq,Asura,3.0,35:48,OK,blue,bbq,   DEFEAT   ,61.0k,16,  4 ,  0 ,  0 ,  1 ,  1 ,Olaf,Renekton,Jayce,Irelia,Fiora
+2019.0,summer,Challengers Korea,7,bbq,Asura,3.0,35:48,OK,red,ASR,   VICTORY   ,70.4k,18,  11 ,  4 ,  2 ,  3 ,  0 ,Karma,Kalista,Sejuani,Yuumi,Lux
+2019.0,summer,Challengers Korea,7,hyFresh Blade,Awesome Spear,1.0,36:03,OK,blue,BRB,   VICTORY   ,69.2k,18,  9 ,  2 ,  0 ,  1 ,  0 ,Olaf,Elise,Sylas,Leblanc,Azir
+2019.0,summer,Challengers Korea,7,hyFresh Blade,Awesome Spear,1.0,36:03,OK,red,SPG,   DEFEAT   ,62.4k,11,  1 ,  0 ,  1 ,  4 ,  1 ,Karma,Corki,Kalista,Yasuo,Varus
+2019.0,summer,Challengers Korea,7,hyFresh Blade,Awesome Spear,2.0,33:48,OK,blue,SPG,   DEFEAT   ,57.3k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Irelia,Corki,Kalista,Yasuo,Sivir
+2019.0,summer,Challengers Korea,7,hyFresh Blade,Awesome Spear,2.0,33:48,OK,red,BRB,   VICTORY   ,64.1k,6,  8 ,  1 ,  1 ,  5 ,  0 ,Karma,Pyke,Olaf,Camille,Braum
+2019.0,summer,Challengers Korea,7,VSG,bbq,1.0,34:40,OK,blue,VSG,   VICTORY   ,63.2k,20,  10 ,  2 ,  1 ,  2 ,  1 ,Camille,TahmKench,Karthus,Sejuani,Caitlyn
+2019.0,summer,Challengers Korea,7,VSG,bbq,1.0,34:40,OK,red,bbq,   DEFEAT   ,51.1k,10,  0 ,  0 ,  0 ,  2 ,  0 ,Olaf,Karma,Ezreal,Kalista,Jinx
+2019.0,summer,Challengers Korea,7,VSG,bbq,2.0,24:05,OK,blue,bbq,   DEFEAT   ,33.9k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Olaf,Azir,Caitlyn,Corki,Elise
+2019.0,summer,Challengers Korea,7,VSG,bbq,2.0,24:05,OK,red,VSG,   VICTORY   ,45.8k,16,  9 ,  1 ,  1 ,  2 ,  0 ,Camille,Karma,Lux,Irelia,Kled
+2019.0,summer,Challengers Korea,8,Dynamics,SeolHaeOne Prince,1.0,37:51,OK,blue,DYN,   VICTORY   ,69.1k,23,  8 ,  2 ,  1 ,  2 ,  0 ,Yasuo,Elise,Yuumi,Kaisa,Kled
+2019.0,summer,Challengers Korea,8,Dynamics,SeolHaeOne Prince,1.0,37:51,OK,red,APK,   DEFEAT   ,67.6k,18,  6 ,  1 ,  1 ,  3 ,  1 ,Taliyah,Sylas,Olaf,TahmKench,Renekton
+2019.0,summer,Challengers Korea,8,Dynamics,SeolHaeOne Prince,2.0,33:45,OK,blue,APK,   DEFEAT   ,55.3k,9,  1 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Ezreal,Renekton,Jayce,Leblanc
+2019.0,summer,Challengers Korea,8,Dynamics,SeolHaeOne Prince,2.0,33:45,OK,red,DYN,   VICTORY   ,70.0k,25,  10 ,  2 ,  2 ,  3 ,  0 ,Yasuo,Karma,Elise,Kled,Xayah
+2019.0,summer,Challengers Korea,8,Asura,MVP,1.0,45:59,OK,blue,ASR,   VICTORY   ,82.0k,14,  11 ,  2 ,  1 ,  6 ,  0 ,Irelia,Qiyana,Sivir,Lucian,Azir
+2019.0,summer,Challengers Korea,8,Asura,MVP,1.0,45:59,OK,red,MVP,   DEFEAT   ,76.3k,8,  6 ,  0 ,  1 ,  1 ,  1 ,Karma,Olaf,Sylas,Taliyah,Sejuani
+2019.0,summer,Challengers Korea,8,Asura,MVP,2.0,30:54,OK,blue,MVP,   DEFEAT   ,48.9k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Olaf,Sylas,Lux,Yuumi,Pyke
+2019.0,summer,Challengers Korea,8,Asura,MVP,2.0,30:54,OK,red,ASR,   VICTORY   ,60.6k,12,  11 ,  3 ,  1 ,  3 ,  1 ,Qiyana,Karma,Elise,Lucian,Kaisa
+2019.0,summer,Challengers Korea,8,hyFresh Blade,bbq,1.0,29:18,OK,blue,BRB,   VICTORY   ,58.9k,7,  11 ,  3 ,  1 ,  4 ,  1 ,Irelia,Pantheon,Sejuani,Camille,Kled
+2019.0,summer,Challengers Korea,8,hyFresh Blade,bbq,1.0,29:18,OK,red,bbq,   DEFEAT   ,48.3k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Karma,Sivir,Olaf,Sylas,Gangplank
+2019.0,summer,Challengers Korea,8,hyFresh Blade,bbq,2.0,31:04,OK,blue,bbq,   DEFEAT   ,46.9k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Olaf,Sylas,Azir,Irelia,Gangplank
+2019.0,summer,Challengers Korea,8,hyFresh Blade,bbq,2.0,31:04,OK,red,BRB,   VICTORY   ,58.8k,10,  11 ,  3 ,  1 ,  4 ,  1 ,Karma,Sejuani,Corki,Caitlyn,Sivir
+2019.0,summer,Challengers Korea,8,VSG,Awesome Spear,1.0,30:19,OK,blue,VSG,   VICTORY   ,59.7k,13,  11 ,  3 ,  1 ,  1 ,  1 ,Karthus,Sylas,Yuumi,Sejuani,Morgana
+2019.0,summer,Challengers Korea,8,VSG,Awesome Spear,1.0,30:19,OK,red,SPG,   DEFEAT   ,47.8k,4,  0 ,  0 ,  0 ,  3 ,  0 ,Olaf,Corki,Karma,Trundle,JarvanIV
+2019.0,summer,Challengers Korea,8,VSG,Awesome Spear,2.0,32:50,OK,blue,SPG,   DEFEAT   ,53.9k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Olaf,Irelia,Trundle,XinZhao,Gragas
+2019.0,summer,Challengers Korea,8,VSG,Awesome Spear,2.0,32:50,OK,red,VSG,   VICTORY   ,67.0k,19,  11 ,  2 ,  2 ,  3 ,  1 ,Karthus,Karma,Yuumi,Aatrox,Qiyana
+2019.0,summer,Challengers Korea,8,Asura,Dynamics,1.0,36:59,OK,blue,ASR,   DEFEAT   ,61.1k,3,  3 ,  0 ,  0 ,  2 ,  1 ,Irelia,Qiyana,JarvanIV,Varus,Ezreal
+2019.0,summer,Challengers Korea,8,Asura,Dynamics,1.0,36:59,OK,red,DYN,   VICTORY   ,68.5k,9,  9 ,  1 ,  2 ,  3 ,  0 ,Renekton,Elise,Karma,Lux,Nautilus
+2019.0,summer,Challengers Korea,8,Asura,Dynamics,2.0,30:51,OK,blue,DYN,   VICTORY   ,60.1k,13,  10 ,  2 ,  1 ,  5 ,  1 ,Renekton,Elise,Lux,Varus,Ashe
+2019.0,summer,Challengers Korea,8,Asura,Dynamics,2.0,30:51,OK,red,ASR,   DEFEAT   ,51.7k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Karma,JarvanIV,Qiyana,Kled,Zoe
+2019.0,summer,Challengers Korea,8,MVP,SeolHaeOne Prince,1.0,34:10,OK,blue,MVP,   DEFEAT   ,58.7k,11,  3 ,  0 ,  0 ,  2 ,  0 ,Karthus,Yasuo,Olaf,Renekton,Irelia
+2019.0,summer,Challengers Korea,8,MVP,SeolHaeOne Prince,1.0,34:10,OK,red,APK,   VICTORY   ,67.0k,14,  11 ,  3 ,  1 ,  3 ,  1 ,Yuumi,Sejuani,TahmKench,Morgana,Karma
+2019.0,summer,Challengers Korea,8,MVP,SeolHaeOne Prince,2.0,34:11,OK,blue,APK,   VICTORY   ,63.5k,17,  7 ,  1 ,  0 ,  0 ,  1 ,Irelia,TahmKench,Sejuani,Azir,Zoe
+2019.0,summer,Challengers Korea,8,MVP,SeolHaeOne Prince,2.0,34:11,OK,red,MVP,   DEFEAT   ,56.8k,12,  2 ,  0 ,  0 ,  2 ,  0 ,Karma,Yasuo,Olaf,XinZhao,Kled
+2019.0,summer,Challengers Korea,9,bbq,MVP,1.0,25:05,OK,blue,bbq,   VICTORY   ,51.2k,15,  10 ,  2 ,  1 ,  3 ,  1 ,Jayce,Ezreal,RekSai,Kennen,Gangplank
+2019.0,summer,Challengers Korea,9,bbq,MVP,1.0,25:05,OK,red,MVP,   DEFEAT   ,36.2k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Karma,Olaf,Kalista,Sivir,Braum
+2019.0,summer,Challengers Korea,9,bbq,MVP,2.0,45:45,OK,blue,MVP,   VICTORY   ,85.4k,21,  11 ,  1 ,  2 ,  3 ,  0 ,Kalista,Olaf,Renekton,Braum,Rakan
+2019.0,summer,Challengers Korea,9,bbq,MVP,2.0,45:45,OK,red,bbq,   DEFEAT   ,81.8k,21,  5 ,  0 ,  1 ,  3 ,  1 ,Karma,Jayce,Ezreal,Fiora,Zoe
+2019.0,summer,Challengers Korea,9,bbq,MVP,3.0,26:08,OK,blue,bbq,   DEFEAT   ,39.4k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Ezreal,Jayce,Sylas,Gangplank,Kennen
+2019.0,summer,Challengers Korea,9,bbq,MVP,3.0,26:08,OK,red,MVP,   VICTORY   ,48.8k,10,  9 ,  2 ,  1 ,  2 ,  1 ,Karma,Olaf,Kalista,Elise,Taliyah
+2019.0,summer,Challengers Korea,9,Dynamics,VSG,1.0,32:47,OK,blue,DYN,   VICTORY   ,61.5k,9,  10 ,  3 ,  1 ,  4 ,  0 ,Skarner,Yuumi,Tristana,Irelia,Kled
+2019.0,summer,Challengers Korea,9,Dynamics,VSG,1.0,32:47,OK,red,VSG,   DEFEAT   ,52.1k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Karma,Nautilus,Olaf,Karthus,RekSai
+2019.0,summer,Challengers Korea,9,Dynamics,VSG,2.0,31:03,OK,blue,VSG,   VICTORY   ,60.6k,18,  10 ,  1 ,  1 ,  4 ,  1 ,TahmKench,Nautilus,Qiyana,RekSai,Sejuani
+2019.0,summer,Challengers Korea,9,Dynamics,VSG,2.0,31:03,OK,red,DYN,   DEFEAT   ,46.3k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Skarner,Olaf,Thresh,Leblanc,Tristana
+2019.0,summer,Challengers Korea,9,Dynamics,VSG,3.0,30:03,OK,blue,DYN,   VICTORY   ,55.5k,18,  8 ,  1 ,  0 ,  3 ,  1 ,Skarner,Yuumi,Nidalee,Irelia,JarvanIV
+2019.0,summer,Challengers Korea,9,Dynamics,VSG,3.0,30:03,OK,red,VSG,   DEFEAT   ,44.8k,5,  0 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Nautilus,Olaf,Sejuani,Braum
+2019.0,summer,Challengers Korea,9,Awesome Spear,SeolHaeOne Prince,1.0,34:26,OK,blue,SPG,   DEFEAT   ,58.5k,13,  3 ,  0 ,  1 ,  2 ,  0 ,Irelia,Elise,Kled,Illaoi,
+2019.0,summer,Challengers Korea,9,Awesome Spear,SeolHaeOne Prince,1.0,34:26,OK,red,APK,   VICTORY   ,62.9k,12,  10 ,  1 ,  0 ,  3 ,  1 ,Renekton,Leblanc,Sylas,Taliyah,Karthus
+2019.0,summer,Challengers Korea,9,Awesome Spear,SeolHaeOne Prince,2.0,21:36,OK,blue,APK,   VICTORY   ,44.5k,14,  10 ,  2 ,  0 ,  3 ,  1 ,Kaisa,Olaf,Irelia,Kennen,Jayce
+2019.0,summer,Challengers Korea,9,Awesome Spear,SeolHaeOne Prince,2.0,21:36,OK,red,SPG,   DEFEAT   ,32.3k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Akali,Pyke,Illaoi,Kled
+2019.0,summer,Challengers Korea,9,Asura,hyFresh Blade,1.0,35:11,OK,blue,ASR,   VICTORY   ,68.8k,12,  9 ,  1 ,  1 ,  4 ,  0 ,Irelia,Sivir,Yuumi,Zoe,Corki
+2019.0,summer,Challengers Korea,9,Asura,hyFresh Blade,1.0,35:11,OK,red,BRB,   DEFEAT   ,58.3k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Karma,Lux,Olaf,Jinx,Renekton
+2019.0,summer,Challengers Korea,9,Asura,hyFresh Blade,2.0,33:43,OK,blue,BRB,   VICTORY   ,62.4k,14,  7 ,  1 ,  1 ,  3 ,  0 ,Olaf,Lux,TahmKench,Kaisa,Qiyana
+2019.0,summer,Challengers Korea,9,Asura,hyFresh Blade,2.0,33:43,OK,red,ASR,   DEFEAT   ,56.4k,12,  3 ,  0 ,  0 ,  1 ,  1 ,Karma,Sylas,Zoe,JarvanIV,XinZhao
+2019.0,summer,Challengers Korea,9,Asura,hyFresh Blade,3.0,35:53,OK,blue,ASR,   VICTORY   ,71.9k,16,  10 ,  2 ,  2 ,  4 ,  0 ,Irelia,Sivir,Yuumi,Varus,Lucian
+2019.0,summer,Challengers Korea,9,Asura,hyFresh Blade,3.0,35:53,OK,red,BRB,   DEFEAT   ,59.2k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Karma,Lux,TahmKench,Olaf,Qiyana
+2019.0,summer,Challengers Korea,9,VSG,hyFresh Blade,1.0,44:06,OK,blue,VSG,   DEFEAT   ,79.3k,19,  5 ,  0 ,  1 ,  2 ,  1 ,TahmKench,Ezreal,Sylas,Azir,Akali
+2019.0,summer,Challengers Korea,9,VSG,hyFresh Blade,1.0,44:06,OK,red,BRB,   VICTORY   ,79.7k,13,  8 ,  2 ,  1 ,  4 ,  0 ,Karma,Yuumi,Corki,Zoe,Renekton
+2019.0,summer,Challengers Korea,9,VSG,hyFresh Blade,2.0,31:43,OK,blue,BRB,   DEFEAT   ,51.0k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Jayce,Zoe,Karma,JarvanIV,Sejuani
+2019.0,summer,Challengers Korea,9,VSG,hyFresh Blade,2.0,31:43,OK,red,VSG,   VICTORY   ,59.7k,16,  9 ,  1 ,  1 ,  2 ,  1 ,Rumble,Nautilus,Yuumi,Viktor,Irelia
+2019.0,summer,Challengers Korea,9,VSG,hyFresh Blade,3.0,29:59,OK,blue,VSG,   DEFEAT   ,48.9k,6,  1 ,  0 ,  0 ,  0 ,  1 ,Rumble,Nautilus,Volibear,Gragas,Qiyana
+2019.0,summer,Challengers Korea,9,VSG,hyFresh Blade,3.0,29:59,OK,red,BRB,   VICTORY   ,62.9k,17,  8 ,  1 ,  1 ,  4 ,  0 ,Karma,Corki,Sylas,Zoe,Akali
+2019.0,summer,Challengers Korea,9,bbq,Awesome Spear,1.0,43:09,OK,blue,bbq,   DEFEAT   ,80.9k,16,  8 ,  2 ,  2 ,  2 ,  1 ,Jayce,Sylas,Olaf,Jinx,Varus
+2019.0,summer,Challengers Korea,9,bbq,Awesome Spear,1.0,43:09,OK,red,SPG,   VICTORY   ,78.9k,26,  10 ,  1 ,  1 ,  4 ,  0 ,Karma,Yuumi,Sejuani,Braum,Karthus
+2019.0,summer,Challengers Korea,9,bbq,Awesome Spear,2.0,28:24,OK,blue,SPG,   DEFEAT   ,47.3k,9,  4 ,  0 ,  1 ,  2 ,  0 ,Irelia,Yuumi,Corki,Renekton,Kled
+2019.0,summer,Challengers Korea,9,bbq,Awesome Spear,2.0,28:24,OK,red,bbq,   VICTORY   ,51.1k,17,  5 ,  1 ,  0 ,  2 ,  1 ,Jayce,Sylas,Olaf,XinZhao,Kennen
+2019.0,summer,Challengers Korea,9,bbq,Awesome Spear,3.0,33:37,OK,blue,bbq,   DEFEAT   ,56.8k,8,  5 ,  0 ,  0 ,  3 ,  0 ,Jayce,Sylas,Karthus,Elise,Olaf
+2019.0,summer,Challengers Korea,9,bbq,Awesome Spear,3.0,33:37,OK,red,SPG,   VICTORY   ,59.8k,11,  6 ,  1 ,  1 ,  2 ,  1 ,Karma,Yuumi,Kled,Irelia,Renekton
+2019.0,summer,Challengers Korea,10,Dynamics,bbq,1.0,30:05,OK,blue,DYN,   DEFEAT   ,47.3k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Taliyah,Nidalee,Sejuani,Volibear
+2019.0,summer,Challengers Korea,10,Dynamics,bbq,1.0,30:05,OK,red,bbq,   VICTORY   ,66.3k,16,  11 ,  2 ,  1 ,  4 ,  1 ,Jayce,Karma,Nautilus,Azir,Zoe
+2019.0,summer,Challengers Korea,10,Dynamics,bbq,2.0,32:14,OK,blue,bbq,   VICTORY   ,62.4k,20,  8 ,  2 ,  1 ,  1 ,  0 ,Jayce,Nautilus,Azir,Ezreal,Yuumi
+2019.0,summer,Challengers Korea,10,Dynamics,bbq,2.0,32:14,OK,red,DYN,   DEFEAT   ,58.4k,16,  6 ,  0 ,  1 ,  4 ,  1 ,Kalista,Taliyah,Nidalee,Pyke,Yasuo
+2019.0,summer,Challengers Korea,10,MVP,VSG,1.0,36:58,OK,blue,MVP,   DEFEAT   ,61.9k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Jayce,Olaf,Sylas,Braum,Nautilus
+2019.0,summer,Challengers Korea,10,MVP,VSG,1.0,36:58,OK,red,VSG,   VICTORY   ,70.6k,15,  9 ,  1 ,  2 ,  3 ,  1 ,Varus,Yuumi,Corki,Xayah,Leblanc
+2019.0,summer,Challengers Korea,10,MVP,VSG,2.0,30:25,OK,blue,VSG,   VICTORY   ,65.1k,27,  9 ,  1 ,  1 ,  4 ,  1 ,Varus,Sylas,Yuumi,Nautilus,Ezreal
+2019.0,summer,Challengers Korea,10,MVP,VSG,2.0,30:25,OK,red,MVP,   DEFEAT   ,49.6k,12,  0 ,  0 ,  0 ,  0 ,  0 ,Olaf,Karma,Jayce,Thresh,Rakan
+2019.0,summer,Challengers Korea,10,Awesome Spear,Asura,1.0,34:14,OK,blue,SPG,   VICTORY   ,66.6k,16,  11 ,  3 ,  1 ,  4 ,  1 ,Lux,Neeko,Viktor,Riven,Camille
+2019.0,summer,Challengers Korea,10,Awesome Spear,Asura,1.0,34:14,OK,red,ASR,   DEFEAT   ,52.4k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Karma,Kaisa,Corki,Yuumi,TahmKench
+2019.0,summer,Challengers Korea,10,Awesome Spear,Asura,2.0,33:55,OK,blue,ASR,   VICTORY   ,68.1k,14,  11 ,  2 ,  1 ,  3 ,  1 ,Irelia,Sivir,Aatrox,Elise,Azir
+2019.0,summer,Challengers Korea,10,Awesome Spear,Asura,2.0,33:55,OK,red,SPG,   DEFEAT   ,56.6k,4,  2 ,  0 ,  0 ,  2 ,  0 ,Karma,Olaf,Lux,Riven,Jax
+2019.0,summer,Challengers Korea,10,Awesome Spear,Asura,3.0,31:16,OK,blue,SPG,   VICTORY   ,61.4k,21,  9 ,  2 ,  1 ,  4 ,  1 ,Lux,Viktor,Olaf,Riven,Akali
+2019.0,summer,Challengers Korea,10,Awesome Spear,Asura,3.0,31:16,OK,red,ASR,   DEFEAT   ,53.1k,12,  2 ,  0 ,  1 ,  0 ,  0 ,Karma,Renekton,Kaisa,Kennen,Jayce
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,hyFresh Blade,1.0,36:11,OK,blue,APK,   VICTORY   ,66.4k,20,  8 ,  1 ,  1 ,  3 ,  0 ,Azir,Kaisa,Sylas,Gragas,JarvanIV
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,hyFresh Blade,1.0,36:11,OK,red,BRB,   DEFEAT   ,60.6k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Karma,Corki,Illaoi,Tristana,Kled
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,hyFresh Blade,2.0,26:09,OK,blue,BRB,   VICTORY   ,48.7k,14,  7 ,  1 ,  1 ,  3 ,  1 ,Olaf,Karma,Aatrox,Nautilus,Yasuo
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,hyFresh Blade,2.0,26:09,OK,red,APK,   DEFEAT   ,42.7k,11,  1 ,  0 ,  0 ,  1 ,  0 ,Sylas,Ezreal,Yuumi,JarvanIV,Skarner
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,hyFresh Blade,3.0,32:50,OK,blue,APK,   DEFEAT   ,52.9k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Azir,Kaisa,Sylas,Yasuo,Sivir
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,hyFresh Blade,3.0,32:50,OK,red,BRB,   VICTORY   ,67.7k,18,  11 ,  3 ,  2 ,  4 ,  0 ,Karma,Olaf,Yuumi,Akali,Rumble
+2019.0,summer,Challengers Korea,10,MVP,Dynamics,1.0,27:28,OK,blue,MVP,   DEFEAT   ,43.3k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Olaf,Jayce,TahmKench,Sylas
+2019.0,summer,Challengers Korea,10,MVP,Dynamics,1.0,27:28,OK,red,DYN,   VICTORY   ,57.1k,16,  11 ,  2 ,  1 ,  3 ,  0 ,Corki,Qiyana,Elise,Rakan,Varus
+2019.0,summer,Challengers Korea,10,MVP,Dynamics,2.0,37:29,OK,blue,DYN,   DEFEAT   ,60.5k,8,  1 ,  0 ,  0 ,  2 ,  0 ,Irelia,Sylas,Yuumi,Camille,Qiyana
+2019.0,summer,Challengers Korea,10,MVP,Dynamics,2.0,37:29,OK,red,MVP,   VICTORY   ,74.9k,26,  10 ,  2 ,  2 ,  4 ,  1 ,Karma,Olaf,Jayce,Elise,Renekton
+2019.0,summer,Challengers Korea,10,MVP,Dynamics,3.0,26:09,OK,blue,MVP,   DEFEAT   ,37.1k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Evelynn,Garen,Nami,Galio,Diana
+2019.0,summer,Challengers Korea,10,MVP,Dynamics,3.0,26:09,OK,red,DYN,   VICTORY   ,51.6k,15,  10 ,  2 ,  1 ,  3 ,  0 ,Nasus,Draven,Darius,Rumble,Rammus
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,Asura,1.0,26:02,OK,blue,APK,   DEFEAT   ,44.9k,9,  3 ,  0 ,  0 ,  0 ,  1 ,Sylas,TahmKench,Pyke,Kaisa,Yasuo
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,Asura,1.0,26:02,OK,red,ASR,   VICTORY   ,52.0k,18,  8 ,  1 ,  1 ,  3 ,  0 ,Karma,Illaoi,Tristana,Sivir,Lucian
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,Asura,2.0,21:51,OK,blue,ASR,   VICTORY   ,44.9k,18,  9 ,  1 ,  0 ,  3 ,  1 ,Sivir,Illaoi,Tristana,Karma,JarvanIV
+2019.0,summer,Challengers Korea,10,SeolHaeOne Prince,Asura,2.0,21:51,OK,red,APK,   DEFEAT   ,32.8k,2,  1 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Olaf,Pyke,Renekton,Akali

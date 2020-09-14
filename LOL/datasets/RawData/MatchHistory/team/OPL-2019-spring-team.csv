@@ -1,0 +1,168 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,OPL,1,Legacy Esports,Gravitas,1.0,34:16,OK,blue,LGC,   DEFEAT   ,57.4k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Karthus,Lissandra,Galio,Rakan,Alistar
+2019.0,spring,OPL,1,Legacy Esports,Gravitas,1.0,34:16,OK,red,GRV,   VICTORY   ,64.4k,11,  10 ,  2 ,  2 ,  5 ,  1 ,Cassiopeia,Lucian,Aatrox,Ryze,Irelia
+2019.0,spring,OPL,1,Mammoth,Bombers,1.0,35:54,OK,blue,MMM,   DEFEAT   ,63.3k,11,  4 ,  0 ,  0 ,  1 ,  0 ,Akali,Irelia,Camille,Syndra,Khazix
+2019.0,spring,OPL,1,Mammoth,Bombers,1.0,35:54,OK,red,BMR,   VICTORY   ,72.1k,19,  10 ,  2 ,  3 ,  2 ,  1 ,Cassiopeia,Aatrox,Lucian,Varus,Kalista
+2019.0,spring,OPL,1,Avant Gaming,ORDER,1.0,26:37,OK,blue,AV,   VICTORY   ,56.2k,17,  11 ,  3 ,  1 ,  3 ,  1 ,Irelia,Akali,Galio,Vayne,Ryze
+2019.0,spring,OPL,1,Avant Gaming,ORDER,1.0,26:37,OK,red,ORD,   DEFEAT   ,41.3k,4,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Lucian,Cassiopeia,Sivir,Xayah
+2019.0,spring,OPL,1,Dire Wolves,Chiefs Esports,1.0,30:01,OK,blue,DW,   DEFEAT   ,47.3k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Irelia,Alistar,Galio,Braum,Fiddlesticks
+2019.0,spring,OPL,1,Dire Wolves,Chiefs Esports,1.0,30:01,OK,red,CHF,   VICTORY   ,54.9k,9,  9 ,  1 ,  1 ,  4 ,  0 ,Aatrox,Cassiopeia,Lucian,Sion,Xayah
+2019.0,spring,OPL,1,ORDER,Bombers,1.0,34:45,OK,blue,ORD,   DEFEAT   ,64.1k,13,  5 ,  0 ,  2 ,  1 ,  1 ,Akali,Irelia,Aatrox,Rakan,Leblanc
+2019.0,spring,OPL,1,ORDER,Bombers,1.0,34:45,OK,red,BMR,   VICTORY   ,64.3k,18,  8 ,  1 ,  0 ,  2 ,  0 ,Galio,Cassiopeia,Lucian,Sejuani,Khazix
+2019.0,spring,OPL,1,Legacy Esports,Dire Wolves,1.0,27:58,OK,blue,LGC,   VICTORY   ,56.5k,17,  8 ,  1 ,  1 ,  2 ,  1 ,Lissandra,Galio,Evelynn,Ezreal,Kaisa
+2019.0,spring,OPL,1,Legacy Esports,Dire Wolves,1.0,27:58,OK,red,DW,   DEFEAT   ,42.5k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Akali,Irelia,Syndra,Leblanc
+2019.0,spring,OPL,1,Mammoth,Gravitas,1.0,29:24,OK,blue,MMM,   VICTORY   ,63.5k,25,  11 ,  3 ,  1 ,  4 ,  1 ,Alistar,Urgot,Akali,Fiora,Poppy
+2019.0,spring,OPL,1,Mammoth,Gravitas,1.0,29:24,OK,red,GRV,   DEFEAT   ,46.4k,10,  1 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Lucian,Aatrox,Camille,XinZhao
+2019.0,spring,OPL,1,Avant Gaming,Chiefs Esports,1.0,29:07,OK,blue,AV,   DEFEAT   ,48.2k,7,  3 ,  0 ,  0 ,  0 ,  1 ,Irelia,Akali,Galio,Kaisa,Leblanc
+2019.0,spring,OPL,1,Avant Gaming,Chiefs Esports,1.0,29:07,OK,red,CHF,   VICTORY   ,58.0k,18,  10 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Cassiopeia,Urgot,Poppy,Jax
+2019.0,spring,OPL,2,Gravitas,Dire Wolves,1.0,38:36,OK,blue,GRV,   VICTORY   ,69.9k,16,  7 ,  1 ,  0 ,  1 ,  0 ,Akali,Irelia,XinZhao,Ezreal,Vayne
+2019.0,spring,OPL,2,Gravitas,Dire Wolves,1.0,38:36,OK,red,DW,   DEFEAT   ,66.0k,11,  4 ,  0 ,  2 ,  4 ,  1 ,Cassiopeia,Aatrox,Vladimir,Zac,Leblanc
+2019.0,spring,OPL,2,Bombers,Legacy Esports,1.0,26:03,OK,blue,BMR,   VICTORY   ,52.0k,11,  10 ,  2 ,  1 ,  3 ,  1 ,Zac,Akali,Irelia,Galio,Zoe
+2019.0,spring,OPL,2,Bombers,Legacy Esports,1.0,26:03,OK,red,LGC,   DEFEAT   ,37.4k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Lucian,Aatrox,Kaisa,Camille
+2019.0,spring,OPL,2,Mammoth,Avant Gaming,1.0,48:10,OK,blue,MMM,   DEFEAT   ,89.2k,14,  7 ,  0 ,  1 ,  5 ,  1 ,Karthus,Evelynn,Urgot,Lissandra,Vladimir
+2019.0,spring,OPL,2,Mammoth,Avant Gaming,1.0,48:10,OK,red,AV,   VICTORY   ,91.9k,19,  11 ,  4 ,  3 ,  7 ,  0 ,Cassiopeia,Irelia,Aatrox,Kindred,Khazix
+2019.0,spring,OPL,2,Chiefs Esports,ORDER,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,spring,OPL,2,ORDER,Gravitas,1.0,31:40,OK,blue,ORD,   VICTORY   ,63.5k,23,  10 ,  2 ,  1 ,  2 ,  1 ,Akali,Irelia,Lucian,Zoe,Ryze
+2019.0,spring,OPL,2,ORDER,Gravitas,1.0,31:40,OK,red,GRV,   DEFEAT   ,52.4k,9,  2 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Galio,Aatrox,Alistar,Morgana
+2019.0,spring,OPL,2,Bombers,Chiefs Esports,1.0,31:39,OK,blue,BMR,   DEFEAT   ,50.4k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Morgana,Irelia,Cassiopeia,Rakan,Nocturne
+2019.0,spring,OPL,2,Bombers,Chiefs Esports,1.0,31:39,OK,red,CHF,   VICTORY   ,58.9k,17,  9 ,  1 ,  1 ,  3 ,  0 ,Aatrox,Lucian,Lissandra,Khazix,Camille
+2019.0,spring,OPL,2,Mammoth,Legacy Esports,1.0,24:39,OK,blue,MMM,   VICTORY   ,53.7k,21,  9 ,  1 ,  1 ,  2 ,  1 ,Zac,Akali,Irelia,Urgot,Fiora
+2019.0,spring,OPL,2,Mammoth,Legacy Esports,1.0,24:39,OK,red,LGC,   DEFEAT   ,37.8k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Galio,Lissandra,Kindred,Ryze
+2019.0,spring,OPL,2,Avant Gaming,Dire Wolves,1.0,30:03,OK,blue,AV,   VICTORY   ,61.5k,19,  10 ,  2 ,  1 ,  0 ,  1 ,Camille,Irelia,Lucian,Khazix,XinZhao
+2019.0,spring,OPL,2,Avant Gaming,Dire Wolves,1.0,30:03,OK,red,DW,   DEFEAT   ,46.9k,4,  2 ,  0 ,  0 ,  3 ,  0 ,Cassiopeia,Aatrox,Urgot,Morgana,Thresh
+2019.0,spring,OPL,3,Mammoth,Dire Wolves,1.0,54:44,OK,blue,MMM,   DEFEAT   ,97.2k,15,  9 ,  1 ,  2 ,  1 ,  1 ,Irelia,Urgot,Akali,Alistar,Thresh
+2019.0,spring,OPL,3,Mammoth,Dire Wolves,1.0,54:44,OK,red,DW,   VICTORY   ,99.8k,12,  7 ,  1 ,  1 ,  5 ,  0 ,Aatrox,Lucian,Cassiopeia,TahmKench,Khazix
+2019.0,spring,OPL,3,Gravitas,Chiefs Esports,1.0,25:25,OK,blue,GRV,   DEFEAT   ,38.0k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Irelia,Sion,Urgot,Braum,Kennen
+2019.0,spring,OPL,3,Gravitas,Chiefs Esports,1.0,25:25,OK,red,CHF,   VICTORY   ,52.5k,15,  10 ,  2 ,  1 ,  3 ,  1 ,Cassiopeia,Akali,Aatrox,Leblanc,Syndra
+2019.0,spring,OPL,3,Bombers,Avant Gaming,1.0,35:01,OK,blue,BMR,   VICTORY   ,62.9k,18,  9 ,  2 ,  0 ,  3 ,  1 ,Akali,Sylas,Karthus,Khazix,XinZhao
+2019.0,spring,OPL,3,Bombers,Avant Gaming,1.0,35:01,OK,red,AV,   DEFEAT   ,59.7k,12,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Irelia,Cassiopeia,Kindred,Camille
+2019.0,spring,OPL,3,ORDER,Legacy Esports,1.0,34:59,OK,blue,ORD,   VICTORY   ,63.0k,12,  10 ,  1 ,  1 ,  5 ,  0 ,Akali,Sylas,Aatrox,Zac,Sion
+2019.0,spring,OPL,3,ORDER,Legacy Esports,1.0,34:59,OK,red,LGC,   DEFEAT   ,60.5k,10,  3 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Galio,Alistar,Thresh,Morgana
+2019.0,spring,OPL,3,Chiefs Esports,Mammoth,1.0,31:42,OK,blue,CHF,   VICTORY   ,62.1k,17,  8 ,  2 ,  1 ,  2 ,  1 ,Alistar,Rakan,Aatrox,Morgana,Thresh
+2019.0,spring,OPL,3,Chiefs Esports,Mammoth,1.0,31:42,OK,red,MMM,   DEFEAT   ,57.4k,10,  3 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Lucian,Olaf,Ezreal,Nocturne
+2019.0,spring,OPL,3,Bombers,Gravitas,1.0,31:50,OK,blue,BMR,   VICTORY   ,65.9k,25,  11 ,  4 ,  2 ,  1 ,  1 ,Akali,Sylas,Leblanc,Braum,Thresh
+2019.0,spring,OPL,3,Bombers,Gravitas,1.0,31:50,OK,red,GRV,   DEFEAT   ,53.2k,14,  2 ,  0 ,  0 ,  2 ,  0 ,Aatrox,Cassiopeia,Irelia,Zoe,Olaf
+2019.0,spring,OPL,3,Dire Wolves,ORDER,1.0,53:06,OK,blue,DW,   DEFEAT   ,90.0k,15,  5 ,  1 ,  0 ,  3 ,  0 ,Irelia,Draven,Cassiopeia,Ezreal,Kaisa
+2019.0,spring,OPL,3,Dire Wolves,ORDER,1.0,53:06,OK,red,ORD,   VICTORY   ,95.9k,18,  11 ,  3 ,  2 ,  3 ,  1 ,Aatrox,Sylas,Urgot,Braum,Alistar
+2019.0,spring,OPL,3,Legacy Esports,Avant Gaming,1.0,29:49,OK,blue,LGC,   DEFEAT   ,46.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Sylas,Urgot,Syndra,Viktor
+2019.0,spring,OPL,3,Legacy Esports,Avant Gaming,1.0,29:49,OK,red,AV,   VICTORY   ,60.4k,15,  9 ,  1 ,  1 ,  4 ,  1 ,Aatrox,Cassiopeia,Irelia,Kaisa,Ezreal
+2019.0,spring,OPL,4,Chiefs Esports,Legacy Esports,1.0,26:43,OK,blue,CHF,   VICTORY   ,53.8k,13,  9 ,  1 ,  0 ,  2 ,  1 ,Braum,Lissandra,Aatrox,Syndra,Leblanc
+2019.0,spring,OPL,4,Chiefs Esports,Legacy Esports,1.0,26:43,OK,red,LGC,   DEFEAT   ,39.5k,2,  0 ,  0 ,  1 ,  0 ,  0 ,Cassiopeia,Akali,Lucian,Morgana,Alistar
+2019.0,spring,OPL,4,Dire Wolves,Bombers,1.0,26:42,OK,blue,DW,   DEFEAT   ,41.4k,3,  3 ,  0 ,  0 ,  0 ,  1 ,Lissandra,Thresh,Aatrox,Zoe,Camille
+2019.0,spring,OPL,4,Dire Wolves,Bombers,1.0,26:42,OK,red,BMR,   VICTORY   ,52.6k,13,  9 ,  1 ,  1 ,  2 ,  0 ,Sylas,Cassiopeia,Akali,Zac,Olaf
+2019.0,spring,OPL,4,ORDER,Mammoth,1.0,33:12,OK,blue,ORD,   VICTORY   ,62.7k,19,  10 ,  2 ,  1 ,  1 ,  1 ,Sylas,Aatrox,Lucian,Soraka,TahmKench
+2019.0,spring,OPL,4,ORDER,Mammoth,1.0,33:12,OK,red,MMM,   DEFEAT   ,59.1k,14,  2 ,  0 ,  1 ,  3 ,  0 ,Cassiopeia,Thresh,Akali,Vayne,Ezreal
+2019.0,spring,OPL,4,Gravitas,Avant Gaming,1.0,29:20,OK,blue,GRV,   DEFEAT   ,45.6k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Thresh,Mordekaiser,Lucian,Evelynn,Olaf
+2019.0,spring,OPL,4,Gravitas,Avant Gaming,1.0,29:20,OK,red,AV,   VICTORY   ,62.5k,17,  10 ,  1 ,  1 ,  4 ,  1 ,Aatrox,Cassiopeia,Irelia,TahmKench,Alistar
+2019.0,spring,OPL,4,Gravitas,ORDER,1.0,33:05,OK,blue,GRV,   VICTORY   ,65.0k,20,  8 ,  1 ,  2 ,  1 ,  0 ,Galio,Morgana,Lissandra,XinZhao,Olaf
+2019.0,spring,OPL,4,Gravitas,ORDER,1.0,33:05,OK,red,ORD,   DEFEAT   ,57.8k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Sylas,Akali,Varus,Sejuani
+2019.0,spring,OPL,4,Avant Gaming,Bombers,1.0,30:51,OK,blue,AV,   DEFEAT   ,53.0k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Irelia,Thresh,Lucian,Kindred,Olaf
+2019.0,spring,OPL,4,Avant Gaming,Bombers,1.0,30:51,OK,red,BMR,   VICTORY   ,63.3k,20,  7 ,  1 ,  2 ,  3 ,  1 ,Urgot,Cassiopeia,Aatrox,Kayn,Camille
+2019.0,spring,OPL,4,Legacy Esports,Mammoth,1.0,26:35,OK,blue,LGC,   DEFEAT   ,40.8k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Akali,Aatrox,Alistar,Thresh
+2019.0,spring,OPL,4,Legacy Esports,Mammoth,1.0,26:35,OK,red,MMM,   VICTORY   ,52.8k,12,  8 ,  1 ,  1 ,  3 ,  1 ,Yasuo,Cassiopeia,Irelia,Elise,Olaf
+2019.0,spring,OPL,4,Chiefs Esports,Dire Wolves,1.0,32:24,OK,blue,CHF,   VICTORY   ,60.3k,13,  9 ,  2 ,  1 ,  2 ,  0 ,Braum,Lissandra,Aatrox,Kindred,Nocturne
+2019.0,spring,OPL,4,Chiefs Esports,Dire Wolves,1.0,32:24,OK,red,DW,   DEFEAT   ,53.9k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Cassiopeia,Draven,Lucian,TahmKench,Thresh
+2019.0,spring,OPL,5,Dire Wolves,Gravitas,1.0,35:40,OK,blue,DW,   DEFEAT   ,55.6k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Leblanc,Lucian,Cassiopeia,Ezreal,Alistar
+2019.0,spring,OPL,5,Dire Wolves,Gravitas,1.0,35:40,OK,red,GRV,   VICTORY   ,68.5k,18,  10 ,  2 ,  2 ,  3 ,  1 ,Yasuo,Lissandra,Vayne,Syndra,Ryze
+2019.0,spring,OPL,5,Avant Gaming,ORDER,1.0,48:57,OK,blue,AV,   VICTORY   ,90.8k,16,  10 ,  3 ,  2 ,  6 ,  1 ,Sion,Morgana,Cassiopeia,Leblanc,XinZhao
+2019.0,spring,OPL,5,Avant Gaming,ORDER,1.0,48:57,OK,red,ORD,   DEFEAT   ,79.9k,5,  3 ,  0 ,  2 ,  1 ,  0 ,Urgot,Jayce,Lucian,Olaf,Lissandra
+2019.0,spring,OPL,5,Legacy Esports,Bombers,1.0,23:36,OK,blue,LGC,   DEFEAT   ,33.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Lissandra,Lucian,Olaf,Lulu
+2019.0,spring,OPL,5,Legacy Esports,Bombers,1.0,23:36,OK,red,BMR,   VICTORY   ,49.5k,19,  10 ,  2 ,  1 ,  2 ,  1 ,Urgot,Zac,Cassiopeia,Khazix,Kindred
+2019.0,spring,OPL,5,Mammoth,Chiefs Esports,1.0,26:15,OK,blue,MMM,   VICTORY   ,51.8k,18,  11 ,  3 ,  1 ,  3 ,  1 ,Lucian,Lissandra,Thresh,Kindred,Olaf
+2019.0,spring,OPL,5,Mammoth,Chiefs Esports,1.0,26:15,OK,red,CHF,   DEFEAT   ,37.8k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Alistar,Urgot,Morgana,Syndra,Ezreal
+2019.0,spring,OPL,5,Dire Wolves,Mammoth,1.0,24:16,OK,blue,DW,   DEFEAT   ,36.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Alistar,Lucian,Cassiopeia,Xayah,Leblanc
+2019.0,spring,OPL,5,Dire Wolves,Mammoth,1.0,24:16,OK,red,MMM,   VICTORY   ,48.2k,16,  7 ,  1 ,  1 ,  3 ,  1 ,Lissandra,Thresh,Yasuo,Kindred,Nocturne
+2019.0,spring,OPL,5,Chiefs Esports,Bombers,1.0,31:06,OK,blue,CHF,   DEFEAT   ,48.6k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Lissandra,Alistar,Morgana,Syndra,Ezreal
+2019.0,spring,OPL,5,Chiefs Esports,Bombers,1.0,31:06,OK,red,BMR,   VICTORY   ,62.7k,22,  10 ,  2 ,  1 ,  3 ,  1 ,Urgot,Cassiopeia,Lucian,Draven,Ryze
+2019.0,spring,OPL,5,Legacy Esports,ORDER,1.0,49:47,OK,blue,LGC,   VICTORY   ,88.4k,17,  11 ,  5 ,  2 ,  3 ,  0 ,Lissandra,Morgana,Caitlyn,Leblanc,Kindred
+2019.0,spring,OPL,5,Legacy Esports,ORDER,1.0,49:47,OK,red,ORD,   DEFEAT   ,89.9k,12,  8 ,  2 ,  2 ,  3 ,  1 ,Urgot,Zac,Lucian,Cassiopeia,Braum
+2019.0,spring,OPL,5,Avant Gaming,Gravitas,1.0,34:25,OK,blue,AV,   DEFEAT   ,55.2k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Cassiopeia,Morgana,Leblanc,Yorick
+2019.0,spring,OPL,5,Avant Gaming,Gravitas,1.0,34:25,OK,red,GRV,   VICTORY   ,66.3k,20,  11 ,  3 ,  2 ,  3 ,  1 ,Urgot,Lucian,Elise,Darius,Fiora
+2019.0,spring,OPL,6,Bombers,Dire Wolves,1.0,29:08,OK,blue,BMR,   VICTORY   ,59.0k,22,  9 ,  2 ,  1 ,  2 ,  1 ,Galio,Sylas,Nocturne,Braum,Morgana
+2019.0,spring,OPL,6,Bombers,Dire Wolves,1.0,29:08,OK,red,DW,   DEFEAT   ,43.9k,7,  0 ,  0 ,  0 ,  2 ,  0 ,Lucian,Cassiopeia,Yasuo,Tristana,Kalista
+2019.0,spring,OPL,6,ORDER,Mammoth,1.0,36:34,OK,blue,ORD,   DEFEAT   ,57.8k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Jayce,Alistar,Yasuo,Nocturne,Olaf
+2019.0,spring,OPL,6,ORDER,Mammoth,1.0,36:34,OK,red,MMM,   VICTORY   ,67.1k,16,  9 ,  1 ,  1 ,  3 ,  0 ,Lucian,Morgana,Thresh,JarvanIV,Zac
+2019.0,spring,OPL,6,Chiefs Esports,Gravitas,1.0,37:41,OK,blue,CHF,   VICTORY   ,71.0k,13,  11 ,  3 ,  0 ,  5 ,  0 ,Leblanc,Lissandra,Vladimir,Ashe,Ezreal
+2019.0,spring,OPL,6,Chiefs Esports,Gravitas,1.0,37:41,OK,red,GRV,   DEFEAT   ,67.5k,10,  4 ,  0 ,  1 ,  0 ,  1 ,Zoe,Lucian,Yasuo,Jinx,Vayne
+2019.0,spring,OPL,6,Avant Gaming,Legacy Esports,1.0,42:11,OK,blue,AV,   VICTORY   ,77.7k,10,  11 ,  3 ,  1 ,  6 ,  1 ,Yasuo,Zac,Kaisa,Zoe,Ryze
+2019.0,spring,OPL,6,Avant Gaming,Legacy Esports,1.0,42:11,OK,red,LGC,   DEFEAT   ,69.1k,8,  2 ,  0 ,  1 ,  0 ,  0 ,Karthus,Kayn,Jayce,Lissandra,Evelynn
+2019.0,spring,OPL,6,Bombers,ORDER,1.0,30:53,OK,blue,BMR,   VICTORY   ,61.8k,21,  11 ,  2 ,  1 ,  3 ,  1 ,Galio,Sylas,Morgana,Urgot,Cassiopeia
+2019.0,spring,OPL,6,Bombers,ORDER,1.0,30:53,OK,red,ORD,   DEFEAT   ,49.6k,14,  1 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Lucian,Jayce,Ashe,Varus
+2019.0,spring,OPL,6,Gravitas,Mammoth,1.0,34:14,OK,blue,GRV,   DEFEAT   ,56.3k,10,  2 ,  0 ,  0 ,  0 ,  0 ,Skarner,Lissandra,Morgana,Vayne,Kalista
+2019.0,spring,OPL,6,Gravitas,Mammoth,1.0,34:14,OK,red,MMM,   VICTORY   ,65.6k,16,  8 ,  1 ,  2 ,  5 ,  1 ,Lucian,Yorick,Alistar,Ezreal,Zac
+2019.0,spring,OPL,6,Chiefs Esports,Avant Gaming,1.0,36:26,OK,blue,CHF,   VICTORY   ,69.1k,21,  7 ,  1 ,  1 ,  3 ,  0 ,Zilean,Jayce,Olaf,Jax,Lissandra
+2019.0,spring,OPL,6,Chiefs Esports,Avant Gaming,1.0,36:26,OK,red,AV,   DEFEAT   ,64.3k,12,  8 ,  2 ,  1 ,  0 ,  1 ,Lucian,Sion,Urgot,Ryze,Kennen
+2019.0,spring,OPL,6,Dire Wolves,Legacy Esports,1.0,31:06,OK,blue,DW,   DEFEAT   ,53.5k,14,  3 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Zac,Cassiopeia,Vayne,Sivir
+2019.0,spring,OPL,6,Dire Wolves,Legacy Esports,1.0,31:06,OK,red,LGC,   VICTORY   ,57.4k,13,  7 ,  1 ,  1 ,  1 ,  0 ,Olaf,Zoe,Lucian,Syndra,Orianna
+2019.0,spring,OPL,7,Bombers,Mammoth,1.0,27:42,OK,blue,BMR,   VICTORY   ,57.1k,16,  11 ,  2 ,  1 ,  2 ,  0 ,Zoe,Nocturne,Braum,Lissandra,Leblanc
+2019.0,spring,OPL,7,Bombers,Mammoth,1.0,27:42,OK,red,MMM,   DEFEAT   ,40.8k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Lucian,RekSai,Evelynn,Khazix,Kindred
+2019.0,spring,OPL,7,ORDER,Chiefs Esports,1.0,26:04,OK,blue,ORD,   DEFEAT   ,39.4k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Alistar,Lucian,TahmKench,Braum
+2019.0,spring,OPL,7,ORDER,Chiefs Esports,1.0,26:04,OK,red,CHF,   VICTORY   ,52.6k,21,  10 ,  2 ,  1 ,  2 ,  0 ,Morgana,Lissandra,Jayce,Syndra,Nocturne
+2019.0,spring,OPL,7,Gravitas,Legacy Esports,1.0,35:16,OK,blue,GRV,   VICTORY   ,65.1k,14,  7 ,  1 ,  1 ,  0 ,  0 ,Lissandra,Zac,Thresh,Vayne,Sivir
+2019.0,spring,OPL,7,Gravitas,Legacy Esports,1.0,35:16,OK,red,LGC,   DEFEAT   ,58.1k,6,  4 ,  1 ,  0 ,  0 ,  1 ,Ivern,Lucian,Yasuo,Leblanc,Zed
+2019.0,spring,OPL,7,Dire Wolves,Avant Gaming,1.0,37:02,OK,blue,DW,   DEFEAT   ,68.1k,12,  7 ,  1 ,  2 ,  1 ,  0 ,Jayce,Cassiopeia,Kalista,Draven,Syndra
+2019.0,spring,OPL,7,Dire Wolves,Avant Gaming,1.0,37:02,OK,red,AV,   VICTORY   ,69.9k,16,  10 ,  3 ,  0 ,  2 ,  1 ,Lissandra,Nocturne,Lucian,Sylas,Yasuo
+2019.0,spring,OPL,7,Gravitas,Bombers,1.0,33:06,OK,blue,GRV,   DEFEAT   ,52.6k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Lissandra,Thresh,Khazix,Yorick,Evelynn
+2019.0,spring,OPL,7,Gravitas,Bombers,1.0,33:06,OK,red,BMR,   VICTORY   ,66.6k,20,  9 ,  1 ,  2 ,  2 ,  1 ,Leblanc,Sylas,Kindred,Nocturne,JarvanIV
+2019.0,spring,OPL,7,ORDER,Dire Wolves,1.0,33:01,OK,blue,ORD,   VICTORY   ,63.4k,17,  9 ,  1 ,  1 ,  3 ,  0 ,Yasuo,Galio,Leblanc,Yorick,Sion
+2019.0,spring,OPL,7,ORDER,Dire Wolves,1.0,33:01,OK,red,DW,   DEFEAT   ,53.7k,9,  3 ,  0 ,  0 ,  0 ,  1 ,Kalista,Lucian,Thresh,Draven,JarvanIV
+2019.0,spring,OPL,7,Avant Gaming,Mammoth,1.0,30:40,OK,blue,AV,   VICTORY   ,60.6k,15,  11 ,  4 ,  2 ,  2 ,  1 ,Nocturne,Zoe,Lucian,Aatrox,Kindred
+2019.0,spring,OPL,7,Avant Gaming,Mammoth,1.0,30:40,OK,red,MMM,   DEFEAT   ,52.8k,11,  4 ,  0 ,  0 ,  0 ,  0 ,Thresh,Yorick,Evelynn,RekSai,Kayn
+2019.0,spring,OPL,7,Legacy Esports,Chiefs Esports,1.0,26:41,OK,blue,LGC,   DEFEAT   ,43.9k,6,  3 ,  0 ,  0 ,  0 ,  0 ,Renekton,Kled,Leblanc,Kindred,Ivern
+2019.0,spring,OPL,7,Legacy Esports,Chiefs Esports,1.0,26:41,OK,red,CHF,   VICTORY   ,54.6k,18,  11 ,  3 ,  1 ,  4 ,  1 ,Jayce,Braum,Yasuo,Riven,Zac
+2019.0,spring,OPL,8,Gravitas,Avant Gaming,1.0,32:24,OK,blue,GRV,   VICTORY   ,62.6k,15,  8 ,  2 ,  2 ,  0 ,  0 ,Thresh,Lissandra,Lucian,Evelynn,Syndra
+2019.0,spring,OPL,8,Gravitas,Avant Gaming,1.0,32:24,OK,red,AV,   DEFEAT   ,54.1k,7,  2 ,  0 ,  0 ,  4 ,  1 ,Leblanc,Yasuo,Alistar,Khazix,Kayn
+2019.0,spring,OPL,8,Bombers,Legacy Esports,1.0,24:21,OK,blue,BMR,   VICTORY   ,51.1k,17,  11 ,  3 ,  1 ,  2 ,  1 ,Zac,Neeko,Kalista,Riven,JarvanIV
+2019.0,spring,OPL,8,Bombers,Legacy Esports,1.0,24:21,OK,red,LGC,   DEFEAT   ,35.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Aatrox,TahmKench,Nocturne,Evelynn
+2019.0,spring,OPL,8,Mammoth,Dire Wolves,1.0,27:25,OK,blue,MMM,   VICTORY   ,54.6k,16,  10 ,  1 ,  1 ,  2 ,  1 ,Braum,Lissandra,Thresh,Elise,Sejuani
+2019.0,spring,OPL,8,Mammoth,Dire Wolves,1.0,27:25,OK,red,DW,   DEFEAT   ,44.6k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Alistar,Zoe,Yasuo,Sion,Nocturne
+2019.0,spring,OPL,8,Chiefs Esports,ORDER,1.0,33:42,OK,blue,CHF,   VICTORY   ,63.5k,13,  10 ,  1 ,  1 ,  3 ,  1 ,Lissandra,Jayce,Zoe,Syndra,Orianna
+2019.0,spring,OPL,8,Chiefs Esports,ORDER,1.0,33:42,OK,red,ORD,   DEFEAT   ,55.0k,5,  3 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Leblanc,Kled,Rumble,Renekton
+2019.0,spring,OPL,8,Mammoth,Avant Gaming,1.0,31:33,OK,blue,MMM,   VICTORY   ,62.7k,18,  10 ,  1 ,  2 ,  3 ,  1 ,Evelynn,Jayce,Thresh,Khazix,RekSai
+2019.0,spring,OPL,8,Mammoth,Avant Gaming,1.0,31:33,OK,red,AV,   DEFEAT   ,52.7k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Alistar,Lucian,Yasuo,Fiora,Kennen
+2019.0,spring,OPL,8,ORDER,Legacy Esports,1.0,35:27,OK,blue,ORD,   VICTORY   ,66.7k,19,  10 ,  3 ,  2 ,  5 ,  0 ,Yasuo,Leblanc,Lucian,Cassiopeia,Vladimir
+2019.0,spring,OPL,8,ORDER,Legacy Esports,1.0,35:27,OK,red,LGC,   DEFEAT   ,54.8k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Lissandra,Aatrox,JarvanIV,Nocturne,Yorick
+2019.0,spring,OPL,8,Bombers,Chiefs Esports,1.0,35:55,OK,blue,BMR,   DEFEAT   ,62.1k,18,  3 ,  0 ,  0 ,  1 ,  1 ,Kled,Ryze,JarvanIV,Corki,Vladimir
+2019.0,spring,OPL,8,Bombers,Chiefs Esports,1.0,35:55,OK,red,CHF,   VICTORY   ,67.5k,25,  9 ,  2 ,  1 ,  3 ,  0 ,Lissandra,Jayce,Thresh,Kennen,Evelynn
+2019.0,spring,OPL,8,Gravitas,Dire Wolves,1.0,25:58,OK,blue,GRV,   VICTORY   ,55.2k,15,  10 ,  1 ,  1 ,  2 ,  1 ,Draven,Lissandra,Thresh,Syndra,Jayce
+2019.0,spring,OPL,8,Gravitas,Dire Wolves,1.0,25:58,OK,red,DW,   DEFEAT   ,38.3k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Lucian,Yasuo,Leblanc,Kalista,Yorick
+2019.0,spring,OPL,9,ORDER,Bombers,1.0,26:24,OK,blue,ORD,   DEFEAT   ,42.5k,8,  2 ,  0 ,  0 ,  0 ,  1 ,Corki,Ryze,,,
+2019.0,spring,OPL,9,ORDER,Bombers,1.0,26:24,OK,red,BMR,   VICTORY   ,55.7k,21,  11 ,  2 ,  1 ,  3 ,  0 ,Neeko,Zoe,Kalista,Khazix,Kindred
+2019.0,spring,OPL,9,Mammoth,Gravitas,1.0,35:26,OK,blue,MMM,   DEFEAT   ,57.3k,9,  3 ,  0 ,  0 ,  1 ,  1 ,,,,,
+2019.0,spring,OPL,9,Mammoth,Gravitas,1.0,35:26,OK,red,GRV,   VICTORY   ,70.0k,21,  11 ,  3 ,  1 ,  4 ,  0 ,Lucian,Vladimir,Jayce,Syndra,Zoe
+2019.0,spring,OPL,9,Avant Gaming,Dire Wolves,1.0,28:48,OK,blue,AV,   VICTORY   ,59.0k,19,  11 ,  3 ,  1 ,  4 ,  0 ,Kalista,Draven,Braum,Nocturne,Aatrox
+2019.0,spring,OPL,9,Avant Gaming,Dire Wolves,1.0,28:48,OK,red,DW,   DEFEAT   ,44.0k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Neeko,Jayce,Lucian,Ryze,Lissandra
+2019.0,spring,OPL,9,Chiefs Esports,Legacy Esports,1.0,26:10,OK,blue,CHF,   VICTORY   ,55.9k,25,  9 ,  1 ,  1 ,  3 ,  1 ,Jayce,Yasuo,Riven,JarvanIV,RekSai
+2019.0,spring,OPL,9,Chiefs Esports,Legacy Esports,1.0,26:10,OK,red,LGC,   DEFEAT   ,42.4k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Kled,Renekton,Lucian,Jax,Kindred
+2019.0,spring,OPL,9,Dire Wolves,Bombers,1.0,22:45,OK,blue,DW,   DEFEAT   ,33.7k,6,  1 ,  0 ,  0 ,  0 ,  1 ,Alistar,Lissandra,Neeko,Khazix,Jax
+2019.0,spring,OPL,9,Dire Wolves,Bombers,1.0,22:45,OK,red,BMR,   VICTORY   ,48.0k,15,  8 ,  1 ,  1 ,  1 ,  0 ,Galio,Nocturne,Braum,Vladimir,Zac
+2019.0,spring,OPL,9,Chiefs Esports,Mammoth,1.0,31:20,OK,blue,CHF,   VICTORY   ,62.2k,18,  9 ,  2 ,  1 ,  4 ,  1 ,Zoe,Leblanc,Jayce,Irelia,Nocturne
+2019.0,spring,OPL,9,Chiefs Esports,Mammoth,1.0,31:20,OK,red,MMM,   DEFEAT   ,52.2k,9,  2 ,  0 ,  0 ,  0 ,  0 ,Lucian,Thresh,Alistar,Corki,Ryze
+2019.0,spring,OPL,9,Avant Gaming,ORDER,1.0,25:47,OK,blue,AV,   VICTORY   ,56.1k,24,  10 ,  2 ,  1 ,  3 ,  1 ,Morgana,Leblanc,Braum,Lissandra,Ryze
+2019.0,spring,OPL,9,Avant Gaming,ORDER,1.0,25:47,OK,red,ORD,   DEFEAT   ,39.2k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Thresh,Yasuo,Aatrox,Syndra
+2019.0,spring,OPL,9,Legacy Esports,Gravitas,1.0,30:32,OK,blue,LGC,   VICTORY   ,57.9k,17,  10 ,  2 ,  1 ,  3 ,  1 ,TahmKench,Zoe,Ryze,Vayne,Jayce
+2019.0,spring,OPL,9,Legacy Esports,Gravitas,1.0,30:32,OK,red,GRV,   DEFEAT   ,49.0k,10,  2 ,  0 ,  0 ,  1 ,  0 ,Draven,Lissandra,Lucian,Nocturne,Khazix
+2019.0,spring,OPL,10,Avant Gaming,Chiefs Esports,1.0,31:58,OK,blue,AV,   DEFEAT   ,51.5k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Alistar,Thresh,Lucian,LeeSin,Jax
+2019.0,spring,OPL,10,Avant Gaming,Chiefs Esports,1.0,31:58,OK,red,CHF,   VICTORY   ,63.4k,13,  9 ,  2 ,  1 ,  4 ,  0 ,Zilean,Sylas,Jayce,Camille,Syndra
+2019.0,spring,OPL,10,Mammoth,Legacy Esports,1.0,36:54,OK,blue,MMM,   VICTORY   ,71.9k,21,  8 ,  1 ,  2 ,  3 ,  0 ,Zac,Ryze,Kalista,Renekton,Morgana
+2019.0,spring,OPL,10,Mammoth,Legacy Esports,1.0,36:54,OK,red,LGC,   DEFEAT   ,68.5k,18,  8 ,  2 ,  1 ,  3 ,  1 ,Sylas,Lucian,Zoe,Syndra,Vladimir
+2019.0,spring,OPL,10,Bombers,Avant Gaming,1.0,30:50,OK,blue,BMR,   VICTORY   ,60.6k,17,  9 ,  2 ,  1 ,  2 ,  0 ,Jayce,Vladimir,Zilean,Kayn,Nocturne
+2019.0,spring,OPL,10,Bombers,Avant Gaming,1.0,30:50,OK,red,AV,   DEFEAT   ,51.7k,7,  1 ,  0 ,  0 ,  1 ,  1 ,Sylas,Leblanc,Lucian,JarvanIV,Evelynn
+2019.0,spring,OPL,10,ORDER,Mammoth,1.0,27:59,OK,blue,ORD,   DEFEAT   ,45.4k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Thresh,Zoe,Rakan,Irelia,Nocturne
+2019.0,spring,OPL,10,ORDER,Mammoth,1.0,27:59,OK,red,MMM,   VICTORY   ,55.7k,17,  9 ,  1 ,  1 ,  3 ,  1 ,Morgana,Kalista,Braum,Vladimir,Leblanc
+2019.0,spring,OPL,10,Bombers,Gravitas,1.0,25:28,OK,blue,BMR,   VICTORY   ,50.7k,13,  10 ,  2 ,  1 ,  2 ,  0 ,Ryze,Braum,Jayce,Sivir,Vayne
+2019.0,spring,OPL,10,Bombers,Gravitas,1.0,25:28,OK,red,GRV,   DEFEAT   ,39.9k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Lissandra,Lucian,Sylas,Nocturne,Khazix
+2019.0,spring,OPL,10,Dire Wolves,ORDER,1.0,28:31,OK,blue,DW,   DEFEAT   ,42.2k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Neeko,Galio,Kennen,RekSai
+2019.0,spring,OPL,10,Dire Wolves,ORDER,1.0,28:31,OK,red,ORD,   VICTORY   ,58.1k,16,  10 ,  2 ,  1 ,  3 ,  1 ,Yasuo,Lucian,Sylas,Kaisa,Draven
+2019.0,spring,OPL,10,Mammoth,Bombers,1.0,31:43,OK,blue,MMM,   DEFEAT   ,53.0k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Ezreal,Kalista,RekSai,Jayce,Nocturne
+2019.0,spring,OPL,10,Mammoth,Bombers,1.0,31:43,OK,red,BMR,   VICTORY   ,63.4k,18,  11 ,  2 ,  1 ,  2 ,  1 ,Zoe,Sylas,Kindred,Vladimir,JarvanIV
+2019.0,spring,OPL,10,ORDER,Gravitas,1.0,29:12,OK,blue,ORD,   VICTORY   ,54.0k,16,  7 ,  1 ,  1 ,  0 ,  0 ,Ezreal,Yasuo,Leblanc,Neeko,Jayce
+2019.0,spring,OPL,10,ORDER,Gravitas,1.0,29:12,OK,red,GRV,   DEFEAT   ,49.8k,11,  4 ,  0 ,  0 ,  2 ,  1 ,Sylas,Lucian,Ryze,Orianna,Lissandra
+2019.0,spring,OPL,10,Legacy Esports,Dire Wolves,1.0,35:08,OK,blue,LGC,   VICTORY   ,68.0k,19,  11 ,  3 ,  1 ,  4 ,  1 ,Leblanc,Zoe,Jayce,Vayne,DrMundo
+2019.0,spring,OPL,10,Legacy Esports,Dire Wolves,1.0,35:08,OK,red,DW,   DEFEAT   ,60.3k,12,  3 ,  0 ,  1 ,  0 ,  0 ,Neeko,Sylas,Kalista,RekSai,Corki
+2019.0,spring,OPL,10,Gravitas,Chiefs Esports,1.0,28:13,OK,blue,GRV,   DEFEAT   ,46.1k,7,  3 ,  0 ,  0 ,  0 ,  1 ,Renekton,Draven,Galio,Kennen,Skarner
+2019.0,spring,OPL,10,Gravitas,Chiefs Esports,1.0,28:13,OK,red,CHF,   VICTORY   ,55.4k,12,  9 ,  1 ,  1 ,  3 ,  0 ,Sylas,Ryze,Jayce,Syndra,Zoe
+2019.0,spring,OPL,10,Legacy Esports,Avant Gaming,1.0,29:53,OK,blue,LGC,   DEFEAT   ,50.3k,12,  1 ,  0 ,  0 ,  2 ,  0 ,Jayce,Jax,Zilean,Aatrox,Camille
+2019.0,spring,OPL,10,Legacy Esports,Avant Gaming,1.0,29:53,OK,red,AV,   VICTORY   ,58.7k,26,  10 ,  2 ,  1 ,  1 ,  1 ,Yasuo,Lucian,Sylas,Zac,Renekton
+2019.0,spring,OPL,10,Dire Wolves,Chiefs Esports,1.0,31:05,OK,blue,DW,   DEFEAT   ,51.5k,12,  2 ,  0 ,  0 ,  0 ,  0 ,Kalista,Neeko,Leblanc,Syndra,Zoe
+2019.0,spring,OPL,10,Dire Wolves,Chiefs Esports,1.0,31:05,OK,red,CHF,   VICTORY   ,62.9k,25,  11 ,  3 ,  2 ,  4 ,  1 ,Sylas,Lissandra,Nocturne,Draven,Ezreal

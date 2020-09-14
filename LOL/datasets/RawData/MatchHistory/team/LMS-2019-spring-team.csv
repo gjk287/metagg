@@ -1,0 +1,277 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,LMS,1,G Rex,J Team,1.0,39:42,OK,blue,GRX,   DEFEAT   ,68.8k,19,  4 ,  0 ,  0 ,  4 ,  1 ,Irelia,Viktor,Lucian,Zoe,Galio
+2019.0,spring,LMS,1,G Rex,J Team,1.0,39:42,OK,red,JT,   VICTORY   ,71.4k,17,  8 ,  1 ,  1 ,  1 ,  0 ,Cassiopeia,Aatrox,Khazix,Kaisa,Sivir
+2019.0,spring,LMS,1,G Rex,J Team,2.0,37:36,OK,blue,JT,   VICTORY   ,70.7k,15,  9 ,  2 ,  1 ,  5 ,  1 ,Lissandra,Galio,Sion,Sejuani,Zac
+2019.0,spring,LMS,1,G Rex,J Team,2.0,37:36,OK,red,GRX,   DEFEAT   ,63.3k,14,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Cassiopeia,Lucian,Yasuo,Akali
+2019.0,spring,LMS,1,AHQ,MAD Team,1.0,38:07,OK,blue,AHQ,   DEFEAT   ,62.1k,6,  4 ,  0 ,  1 ,  2 ,  0 ,Irelia,Camille,Zoe,Xayah,XinZhao
+2019.0,spring,LMS,1,AHQ,MAD Team,1.0,38:07,OK,red,MAD,   VICTORY   ,72.1k,19,  7 ,  1 ,  1 ,  3 ,  1 ,Cassiopeia,Akali,Lucian,Thresh,Alistar
+2019.0,spring,LMS,1,AHQ,MAD Team,2.0,28:55,OK,blue,MAD,   VICTORY   ,55.1k,13,  9 ,  2 ,  1 ,  1 ,  1 ,Akali,Lucian,Camille,Zoe,Lissandra
+2019.0,spring,LMS,1,AHQ,MAD Team,2.0,28:55,OK,red,AHQ,   DEFEAT   ,45.5k,3,  3 ,  0 ,  0 ,  3 ,  0 ,Cassiopeia,Aatrox,Irelia,XinZhao,Nocturne
+2019.0,spring,LMS,1,Alpha Esports,Dragon Gate Team,1.0,23:20,OK,blue,ALF,   DEFEAT   ,39.0k,5,  3 ,  0 ,  0 ,  1 ,  0 ,Akali,Cassiopeia,Irelia,Sion,LeeSin
+2019.0,spring,LMS,1,Alpha Esports,Dragon Gate Team,1.0,23:20,OK,red,DG,   VICTORY   ,47.5k,11,  9 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Galio,Camille,Varus,Ezreal
+2019.0,spring,LMS,1,Alpha Esports,Dragon Gate Team,2.0,43:25,OK,blue,ALF,   VICTORY   ,86.3k,23,  8 ,  1 ,  1 ,  2 ,  0 ,Lucian,Cassiopeia,Nidalee,Xayah,LeeSin
+2019.0,spring,LMS,1,Alpha Esports,Dragon Gate Team,2.0,43:25,OK,red,DG,   DEFEAT   ,75.6k,12,  10 ,  2 ,  1 ,  3 ,  1 ,Aatrox,Galio,Camille,Alistar,Morgana
+2019.0,spring,LMS,1,Alpha Esports,Dragon Gate Team,3.0,21:05,OK,blue,ALF,   DEFEAT   ,32.8k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Lucian,Nidalee,Cassiopeia,Rakan,Braum
+2019.0,spring,LMS,1,Alpha Esports,Dragon Gate Team,3.0,21:05,OK,red,DG,   VICTORY   ,46.0k,16,  9 ,  1 ,  0 ,  2 ,  0 ,Aatrox,Irelia,Galio,XinZhao,Camille
+2019.0,spring,LMS,1,Hong Kong Attitude,Flash Wolves,1.0,27:03,OK,blue,HKA,   DEFEAT   ,44.9k,1,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Sion,Galio,Alistar,Thresh
+2019.0,spring,LMS,1,Hong Kong Attitude,Flash Wolves,1.0,27:03,OK,red,FW,   VICTORY   ,57.3k,14,  9 ,  2 ,  1 ,  3 ,  1 ,Cassiopeia,Aatrox,Zoe,Morgana,Lucian
+2019.0,spring,LMS,1,Hong Kong Attitude,Flash Wolves,2.0,32:10,OK,blue,HKA,   VICTORY   ,61.2k,12,  10 ,  1 ,  2 ,  2 ,  0 ,Sion,XinZhao,Alistar,Braum,Irelia
+2019.0,spring,LMS,1,Hong Kong Attitude,Flash Wolves,2.0,32:10,OK,red,FW,   DEFEAT   ,52.7k,4,  5 ,  0 ,  0 ,  2 ,  1 ,Cassiopeia,Aatrox,Camille,Ezreal,Varus
+2019.0,spring,LMS,1,Hong Kong Attitude,Flash Wolves,3.0,27:12,OK,blue,FW,   VICTORY   ,54.9k,12,  7 ,  1 ,  1 ,  2 ,  0 ,Jayce,Galio,Lissandra,Braum,Rakan
+2019.0,spring,LMS,1,Hong Kong Attitude,Flash Wolves,3.0,27:12,OK,red,HKA,   DEFEAT   ,44.3k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Aatrox,Akali,Leblanc,XinZhao
+2019.0,spring,LMS,1,J Team,AHQ,1.0,43:22,OK,blue,JT,   VICTORY   ,78.2k,10,  11 ,  2 ,  2 ,  4 ,  0 ,XinZhao,Rakan,Lissandra,Soraka,Alistar
+2019.0,spring,LMS,1,J Team,AHQ,1.0,43:22,OK,red,AHQ,   DEFEAT   ,70.7k,10,  2 ,  0 ,  0 ,  2 ,  1 ,Cassiopeia,Irelia,Aatrox,Vladimir,Zoe
+2019.0,spring,LMS,1,J Team,AHQ,2.0,31:11,OK,blue,AHQ,   DEFEAT   ,46.7k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Irelia,Lucian,Rakan,Morgana,TahmKench
+2019.0,spring,LMS,1,J Team,AHQ,2.0,31:11,OK,red,JT,   VICTORY   ,61.8k,14,  11 ,  2 ,  1 ,  3 ,  1 ,Aatrox,Cassiopeia,Urgot,Vladimir,Alistar
+2019.0,spring,LMS,1,Flash Wolves,MAD Team,1.0,28:43,OK,blue,FW,   VICTORY   ,59.1k,15,  11 ,  2 ,  1 ,  3 ,  1 ,TahmKench,Ezreal,Morgana,Kaisa,Sion
+2019.0,spring,LMS,1,Flash Wolves,MAD Team,1.0,28:43,OK,red,MAD,   DEFEAT   ,43.5k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Aatrox,Akali,XinZhao,Sejuani
+2019.0,spring,LMS,1,Flash Wolves,MAD Team,2.0,41:27,OK,blue,MAD,   VICTORY   ,70.8k,13,  8 ,  1 ,  1 ,  3 ,  1 ,Lucian,Sejuani,Akali,Vladimir,Lissandra
+2019.0,spring,LMS,1,Flash Wolves,MAD Team,2.0,41:27,OK,red,FW,   DEFEAT   ,73.3k,9,  4 ,  0 ,  0 ,  3 ,  0 ,Cassiopeia,Aatrox,Urgot,Morgana,XinZhao
+2019.0,spring,LMS,1,Flash Wolves,MAD Team,3.0,36:01,OK,blue,FW,   DEFEAT   ,61.9k,9,  5 ,  0 ,  0 ,  0 ,  1 ,Sion,Urgot,Zoe,TahmKench,Alistar
+2019.0,spring,LMS,1,Flash Wolves,MAD Team,3.0,36:01,OK,red,MAD,   VICTORY   ,70.1k,17,  7 ,  1 ,  1 ,  5 ,  0 ,Cassiopeia,Aatrox,Akali,Camille,Khazix
+2019.0,spring,LMS,2,Flash Wolves,Dragon Gate Team,1.0,30:45,OK,blue,DG,   DEFEAT   ,50.1k,9,  1 ,  0 ,  0 ,  1 ,  0 ,Akali,Irelia,XinZhao,Zoe,Camille
+2019.0,spring,LMS,2,Flash Wolves,Dragon Gate Team,1.0,30:45,OK,red,FW,   VICTORY   ,63.7k,23,  10 ,  2 ,  2 ,  3 ,  1 ,Cassiopeia,Galio,Lucian,TahmKench,Rakan
+2019.0,spring,LMS,2,Flash Wolves,Dragon Gate Team,2.0,39:34,OK,blue,DG,   DEFEAT   ,68.7k,19,  4 ,  0 ,  0 ,  3 ,  0 ,Akali,Lissandra,Irelia,XinZhao,Camille
+2019.0,spring,LMS,2,Flash Wolves,Dragon Gate Team,2.0,39:34,OK,red,FW,   VICTORY   ,76.3k,27,  7 ,  1 ,  1 ,  1 ,  1 ,Cassiopeia,Galio,Lucian,Gragas,Sejuani
+2019.0,spring,LMS,2,MAD Team,Hong Kong Attitude,1.0,32:05,OK,blue,MAD,   VICTORY   ,60.3k,16,  9 ,  2 ,  1 ,  2 ,  0 ,Lucian,Irelia,Zoe,Akali,Vladimir
+2019.0,spring,LMS,2,MAD Team,Hong Kong Attitude,1.0,32:05,OK,red,HKA,   DEFEAT   ,55.7k,4,  2 ,  0 ,  0 ,  3 ,  1 ,Aatrox,Cassiopeia,Urgot,Rakan,Thresh
+2019.0,spring,LMS,2,MAD Team,Hong Kong Attitude,2.0,28:33,OK,blue,HKA,   VICTORY   ,57.6k,16,  10 ,  2 ,  1 ,  4 ,  0 ,Ezreal,Alistar,Galio,Gragas,Rakan
+2019.0,spring,LMS,2,MAD Team,Hong Kong Attitude,2.0,28:33,OK,red,MAD,   DEFEAT   ,45.3k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Aatrox,Lucian,TahmKench,Thresh
+2019.0,spring,LMS,2,MAD Team,Hong Kong Attitude,3.0,28:58,OK,blue,MAD,   DEFEAT   ,42.9k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Lucian,Lissandra,Irelia,Thresh,Braum
+2019.0,spring,LMS,2,MAD Team,Hong Kong Attitude,3.0,28:58,OK,red,HKA,   VICTORY   ,53.9k,11,  10 ,  1 ,  1 ,  4 ,  0 ,Cassiopeia,Aatrox,Galio,Alistar,TahmKench
+2019.0,spring,LMS,2,AHQ,G Rex,1.0,30:23,OK,blue,AHQ,   VICTORY   ,56.1k,13,  11 ,  3 ,  1 ,  3 ,  1 ,Rakan,Camille,Sion,Zoe,Gragas
+2019.0,spring,LMS,2,AHQ,G Rex,1.0,30:23,OK,red,GRX,   DEFEAT   ,46.3k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Aatrox,Galio,TahmKench,XinZhao
+2019.0,spring,LMS,2,AHQ,G Rex,2.0,43:16,OK,blue,GRX,   VICTORY   ,83.9k,13,  11 ,  3 ,  2 ,  6 ,  1 ,Galio,Akali,Irelia,Sion,Zac
+2019.0,spring,LMS,2,AHQ,G Rex,2.0,43:16,OK,red,AHQ,   DEFEAT   ,67.0k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Aatrox,Alistar,Morgana,
+2019.0,spring,LMS,2,AHQ,G Rex,3.0,27:28,OK,blue,AHQ,   VICTORY   ,53.1k,18,  6 ,  1 ,  1 ,  2 ,  1 ,Rakan,Lucian,Khazix,TahmKench,Morgana
+2019.0,spring,LMS,2,AHQ,G Rex,3.0,27:28,OK,red,GRX,   DEFEAT   ,45.9k,12,  3 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Aatrox,Galio,Vladimir,Darius
+2019.0,spring,LMS,2,J Team,Alpha Esports,1.0,37:34,OK,blue,JT,   DEFEAT   ,65.6k,11,  4 ,  0 ,  1 ,  1 ,  0 ,Irelia,Galio,Lissandra,Zoe,Gragas
+2019.0,spring,LMS,2,J Team,Alpha Esports,1.0,37:34,OK,red,ALF,   VICTORY   ,75.7k,24,  7 ,  1 ,  1 ,  3 ,  1 ,Cassiopeia,Akali,Rakan,Zac,LeeSin
+2019.0,spring,LMS,2,J Team,Alpha Esports,2.0,44:04,OK,blue,JT,   VICTORY   ,81.1k,17,  11 ,  3 ,  2 ,  1 ,  1 ,Irelia,Lucian,Khazix,Ezreal,Varus
+2019.0,spring,LMS,2,J Team,Alpha Esports,2.0,44:04,OK,red,ALF,   DEFEAT   ,77.2k,9,  3 ,  0 ,  0 ,  6 ,  0 ,Cassiopeia,Rakan,Akali,Gragas,Sivir
+2019.0,spring,LMS,2,J Team,Alpha Esports,3.0,28:00,OK,blue,ALF,   VICTORY   ,55.7k,14,  9 ,  1 ,  1 ,  3 ,  0 ,Akali,Rakan,Aatrox,Vladimir,Zoe
+2019.0,spring,LMS,2,J Team,Alpha Esports,3.0,28:00,OK,red,JT,   DEFEAT   ,42.3k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Lucian,Khazix,Morgana,TahmKench
+2019.0,spring,LMS,2,Dragon Gate Team,G Rex,1.0,34:10,OK,blue,DG,   DEFEAT   ,61.4k,15,  3 ,  0 ,  0 ,  1 ,  1 ,Lissandra,Irelia,Aatrox,Camille,Nocturne
+2019.0,spring,LMS,2,Dragon Gate Team,G Rex,1.0,34:10,OK,red,GRX,   VICTORY   ,66.0k,20,  9 ,  2 ,  1 ,  4 ,  0 ,Cassiopeia,Galio,Urgot,Thresh,Morgana
+2019.0,spring,LMS,2,Dragon Gate Team,G Rex,2.0,24:34,OK,blue,DG,   VICTORY   ,50.0k,17,  8 ,  1 ,  0 ,  1 ,  1 ,Rakan,Sion,Irelia,Lissandra,Akali
+2019.0,spring,LMS,2,Dragon Gate Team,G Rex,2.0,24:34,OK,red,GRX,   DEFEAT   ,39.8k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Galio,Leblanc,Lulu,Zoe
+2019.0,spring,LMS,2,Dragon Gate Team,G Rex,3.0,31:59,OK,blue,DG,   DEFEAT   ,55.2k,12,  3 ,  0 ,  0 ,  0 ,  1 ,Rakan,Irelia,Sion,XinZhao,Nocturne
+2019.0,spring,LMS,2,Dragon Gate Team,G Rex,3.0,31:59,OK,red,GRX,   VICTORY   ,67.2k,23,  10 ,  2 ,  2 ,  3 ,  0 ,Cassiopeia,Aatrox,Urgot,Morgana,TahmKench
+2019.0,spring,LMS,2,Hong Kong Attitude,Alpha Esports,1.0,30:35,OK,blue,HKA,   VICTORY   ,61.4k,16,  11 ,  2 ,  2 ,  5 ,  1 ,Lucian,TahmKench,Urgot,Sejuani,Vladimir
+2019.0,spring,LMS,2,Hong Kong Attitude,Alpha Esports,1.0,30:35,OK,red,ALF,   DEFEAT   ,47.8k,2,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Cassiopeia,Lissandra,Camille,Nocturne
+2019.0,spring,LMS,2,Hong Kong Attitude,Alpha Esports,2.0,37:00,OK,blue,ALF,   DEFEAT   ,68.5k,16,  8 ,  1 ,  1 ,  1 ,  1 ,Rakan,Karthus,Zoe,Alistar,LeeSin
+2019.0,spring,LMS,2,Hong Kong Attitude,Alpha Esports,2.0,37:00,OK,red,HKA,   VICTORY   ,71.5k,19,  7 ,  1 ,  1 ,  4 ,  0 ,Cassiopeia,Leblanc,Lucian,Varus,TahmKench
+2019.0,spring,LMS,3,MAD Team,Alpha Esports,1.0,42:49,OK,blue,MAD,   DEFEAT   ,73.6k,17,  4 ,  0 ,  1 ,  1 ,  0 ,Lucian,Camille,Vayne,Galio,Zoe
+2019.0,spring,LMS,3,MAD Team,Alpha Esports,1.0,42:49,OK,red,ALF,   VICTORY   ,85.1k,25,  11 ,  3 ,  2 ,  4 ,  1 ,Akali,Sylas,Ezreal,Gragas,Vladimir
+2019.0,spring,LMS,3,MAD Team,Alpha Esports,2.0,37:40,OK,blue,MAD,   VICTORY   ,70.5k,18,  10 ,  2 ,  2 ,  3 ,  1 ,Lucian,Camille,JarvanIV,Galio,Zoe
+2019.0,spring,LMS,3,MAD Team,Alpha Esports,2.0,37:40,OK,red,ALF,   DEFEAT   ,64.4k,14,  2 ,  0 ,  0 ,  2 ,  0 ,Akali,Sylas,Ezreal,Vladimir,Gragas
+2019.0,spring,LMS,3,MAD Team,Alpha Esports,3.0,27:33,OK,blue,MAD,   VICTORY   ,56.4k,22,  10 ,  2 ,  1 ,  2 ,  1 ,Lucian,Camille,JarvanIV,Kaisa,Thresh
+2019.0,spring,LMS,3,MAD Team,Alpha Esports,3.0,27:33,OK,red,ALF,   DEFEAT   ,42.7k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Sylas,Cassiopeia,Gragas,Zac
+2019.0,spring,LMS,3,J Team,Hong Kong Attitude,1.0,51:40,OK,blue,JT,   VICTORY   ,97.4k,14,  8 ,  1 ,  2 ,  3 ,  1 ,Lissandra,Ezreal,Camille,Jayce,Sion
+2019.0,spring,LMS,3,J Team,Hong Kong Attitude,1.0,51:40,OK,red,HKA,   DEFEAT   ,97.6k,12,  11 ,  5 ,  2 ,  4 ,  0 ,Cassiopeia,Akali,Lucian,Leblanc,Ryze
+2019.0,spring,LMS,3,J Team,Hong Kong Attitude,2.0,31:07,OK,blue,HKA,   VICTORY   ,60.8k,20,  9 ,  1 ,  1 ,  3 ,  1 ,TahmKench,Akali,Cassiopeia,Zac,Yorick
+2019.0,spring,LMS,3,J Team,Hong Kong Attitude,2.0,31:07,OK,red,JT,   DEFEAT   ,56.0k,18,  2 ,  0 ,  0 ,  1 ,  0 ,Lucian,Zoe,Camille,Ryze,Leblanc
+2019.0,spring,LMS,3,J Team,Hong Kong Attitude,3.0,39:06,OK,blue,HKA,   DEFEAT   ,66.7k,11,  0 ,  0 ,  1 ,  1 ,  0 ,Akali,Alistar,Cassiopeia,Zac,Yorick
+2019.0,spring,LMS,3,J Team,Hong Kong Attitude,3.0,39:06,OK,red,JT,   VICTORY   ,76.2k,20,  10 ,  2 ,  1 ,  4 ,  1 ,Lucian,Zoe,Jayce,Braum,Rakan
+2019.0,spring,LMS,3,G Rex,MAD Team,1.0,33:26,OK,blue,GRX,   DEFEAT   ,57.2k,1,  3 ,  0 ,  0 ,  2 ,  1 ,Zoe,Galio,Olaf,Syndra,Akali
+2019.0,spring,LMS,3,G Rex,MAD Team,1.0,33:26,OK,red,MAD,   VICTORY   ,59.5k,10,  8 ,  1 ,  1 ,  1 ,  0 ,Cassiopeia,Sylas,TahmKench,Yorick,Skarner
+2019.0,spring,LMS,3,G Rex,MAD Team,2.0,32:35,OK,blue,MAD,   DEFEAT   ,52.3k,5,  0 ,  0 ,  0 ,  1 ,  1 ,Lucian,Sylas,Lissandra,Braum,Alistar
+2019.0,spring,LMS,3,G Rex,MAD Team,2.0,32:35,OK,red,GRX,   VICTORY   ,63.5k,14,  9 ,  1 ,  1 ,  2 ,  0 ,Cassiopeia,Zoe,Ezreal,Olaf,Sejuani
+2019.0,spring,LMS,3,G Rex,MAD Team,3.0,36:39,OK,blue,GRX,   DEFEAT   ,60.8k,12,  6 ,  0 ,  0 ,  3 ,  1 ,Zoe,Olaf,Ezreal,Gragas,Sejuani
+2019.0,spring,LMS,3,G Rex,MAD Team,3.0,36:39,OK,red,MAD,   VICTORY   ,71.6k,17,  8 ,  1 ,  2 ,  2 ,  0 ,Cassiopeia,Yorick,Lucian,Alistar,Thresh
+2019.0,spring,LMS,3,Dragon Gate Team,J Team,1.0,25:28,OK,blue,DG,   DEFEAT   ,38.3k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Sion,Lissandra,Irelia,Zoe,Sylas
+2019.0,spring,LMS,3,Dragon Gate Team,J Team,1.0,25:28,OK,red,JT,   VICTORY   ,51.0k,18,  10 ,  2 ,  0 ,  2 ,  1 ,Lucian,Nidalee,Cassiopeia,Urgot,Leblanc
+2019.0,spring,LMS,3,Dragon Gate Team,J Team,2.0,25:02,OK,blue,JT,   VICTORY   ,53.3k,29,  10 ,  2 ,  1 ,  0 ,  1 ,Nidalee,Zoe,Braum,Ryze,Aatrox
+2019.0,spring,LMS,3,Dragon Gate Team,J Team,2.0,25:02,OK,red,DG,   DEFEAT   ,39.2k,10,  1 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Lissandra,Akali,Irelia,Sylas
+2019.0,spring,LMS,3,Hong Kong Attitude,Dragon Gate Team,1.0,31:30,OK,blue,HKA,   VICTORY   ,63.1k,19,  8 ,  1 ,  2 ,  2 ,  1 ,Nidalee,Leblanc,Camille,Fizz,Sylas
+2019.0,spring,LMS,3,Hong Kong Attitude,Dragon Gate Team,1.0,31:30,OK,red,DG,   DEFEAT   ,52.0k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Lissandra,Zoe,Jayce,Yorick,Gragas
+2019.0,spring,LMS,3,Hong Kong Attitude,Dragon Gate Team,2.0,34:32,OK,blue,HKA,   VICTORY   ,71.5k,26,  11 ,  2 ,  1 ,  0 ,  0 ,Nidalee,Leblanc,Akali,Ezreal,Kaisa
+2019.0,spring,LMS,3,Hong Kong Attitude,Dragon Gate Team,2.0,34:32,OK,red,DG,   DEFEAT   ,60.4k,22,  6 ,  1 ,  0 ,  2 ,  1 ,Lissandra,Zoe,Jayce,Braum,Yorick
+2019.0,spring,LMS,3,Flash Wolves,AHQ,1.0,38:21,OK,blue,FW,   VICTORY   ,77.4k,22,  10 ,  2 ,  1 ,  1 ,  0 ,Sion,Urgot,Cassiopeia,Galio,Kindred
+2019.0,spring,LMS,3,Flash Wolves,AHQ,1.0,38:21,OK,red,AHQ,   DEFEAT   ,66.0k,9,  3 ,  0 ,  0 ,  4 ,  1 ,Akali,Aatrox,Lucian,TahmKench,Jayce
+2019.0,spring,LMS,3,Flash Wolves,AHQ,2.0,35:00,OK,blue,FW,   VICTORY   ,68.0k,15,  9 ,  2 ,  1 ,  3 ,  0 ,Sion,Yorick,Lissandra,Zac,Braum
+2019.0,spring,LMS,3,Flash Wolves,AHQ,2.0,35:00,OK,red,AHQ,   DEFEAT   ,55.2k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Aatrox,Cassiopeia,Heimerdinger,Nocturne
+2019.0,spring,LMS,4,Dragon Gate Team,AHQ,1.0,31:04,OK,blue,DG,   VICTORY   ,60.2k,10,  11 ,  2 ,  2 ,  2 ,  1 ,Sylas,Galio,LeeSin,Zoe,Lissandra
+2019.0,spring,LMS,4,Dragon Gate Team,AHQ,1.0,31:04,OK,red,AHQ,   DEFEAT   ,50.6k,3,  3 ,  0 ,  0 ,  1 ,  0 ,Nidalee,Leblanc,Lucian,Jax,Zac
+2019.0,spring,LMS,4,Dragon Gate Team,AHQ,2.0,33:51,OK,blue,AHQ,   VICTORY   ,66.1k,22,  11 ,  3 ,  1 ,  3 ,  1 ,Nidalee,Leblanc,Alistar,Sivir,Kaisa
+2019.0,spring,LMS,4,Dragon Gate Team,AHQ,2.0,33:51,OK,red,DG,   DEFEAT   ,52.9k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Sylas,Yasuo,Lucian,Camille,Nocturne
+2019.0,spring,LMS,4,Dragon Gate Team,AHQ,3.0,42:22,OK,blue,DG,   VICTORY   ,74.0k,13,  7 ,  1 ,  1 ,  1 ,  1 ,Sylas,LeeSin,Urgot,Yorick,Nocturne
+2019.0,spring,LMS,4,Dragon Gate Team,AHQ,3.0,42:22,OK,red,AHQ,   DEFEAT   ,79.9k,15,  6 ,  0 ,  2 ,  4 ,  0 ,Nidalee,Leblanc,Alistar,XinZhao,Khazix
+2019.0,spring,LMS,4,G Rex,Flash Wolves,1.0,35:37,OK,blue,GRX,   VICTORY   ,71.8k,27,  10 ,  3 ,  2 ,  3 ,  1 ,Ezreal,Jayce,Thresh,Olaf,Alistar
+2019.0,spring,LMS,4,G Rex,Flash Wolves,1.0,35:37,OK,red,FW,   DEFEAT   ,60.2k,12,  1 ,  0 ,  0 ,  2 ,  0 ,Yorick,Leblanc,Lissandra,Gragas,Zac
+2019.0,spring,LMS,4,G Rex,Flash Wolves,2.0,29:40,OK,blue,FW,   VICTORY   ,58.1k,13,  9 ,  1 ,  2 ,  4 ,  1 ,Yasuo,Leblanc,Kaisa,Yorick,Volibear
+2019.0,spring,LMS,4,G Rex,Flash Wolves,2.0,29:40,OK,red,GRX,   DEFEAT   ,43.1k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Lissandra,Lucian,Malzahar,Sejuani
+2019.0,spring,LMS,4,G Rex,Flash Wolves,3.0,30:55,OK,blue,GRX,   VICTORY   ,61.2k,18,  11 ,  3 ,  1 ,  4 ,  1 ,Ezreal,Thresh,Yorick,Olaf,XinZhao
+2019.0,spring,LMS,4,G Rex,Flash Wolves,3.0,30:55,OK,red,FW,   DEFEAT   ,46.0k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Leblanc,Lissandra,Sejuani,Zac
+2019.0,spring,LMS,4,Alpha Esports,Flash Wolves,1.0,29:31,OK,blue,ALF,   DEFEAT   ,45.2k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Jayce,Karthus,Khazix,Kindred
+2019.0,spring,LMS,4,Alpha Esports,Flash Wolves,1.0,29:31,OK,red,FW,   VICTORY   ,59.9k,17,  11 ,  3 ,  2 ,  2 ,  0 ,Urgot,Leblanc,TahmKench,Gragas,Olaf
+2019.0,spring,LMS,4,Alpha Esports,Flash Wolves,2.0,29:30,OK,blue,FW,   VICTORY   ,57.2k,15,  9 ,  1 ,  1 ,  2 ,  0 ,Leblanc,Khazix,Lucian,Yorick,Zoe
+2019.0,spring,LMS,4,Alpha Esports,Flash Wolves,2.0,29:30,OK,red,ALF,   DEFEAT   ,47.6k,6,  1 ,  0 ,  0 ,  2 ,  1 ,Yasuo,Karthus,Nocturne,LeeSin,Gragas
+2019.0,spring,LMS,4,G Rex,Hong Kong Attitude,1.0,32:08,OK,blue,GRX,   VICTORY   ,61.2k,14,  9 ,  1 ,  1 ,  1 ,  1 ,Zoe,Thresh,Yorick,Kindred,Aatrox
+2019.0,spring,LMS,4,G Rex,Hong Kong Attitude,1.0,32:08,OK,red,HKA,   DEFEAT   ,51.5k,3,  2 ,  0 ,  0 ,  3 ,  0 ,Lissandra,Lucian,Urgot,Leblanc,Kaisa
+2019.0,spring,LMS,4,G Rex,Hong Kong Attitude,2.0,30:57,OK,blue,HKA,   VICTORY   ,64.2k,23,  11 ,  2 ,  1 ,  4 ,  0 ,Yasuo,Leblanc,Kaisa,Olaf,Alistar
+2019.0,spring,LMS,4,G Rex,Hong Kong Attitude,2.0,30:57,OK,red,GRX,   DEFEAT   ,48.2k,7,  1 ,  0 ,  0 ,  1 ,  1 ,Zoe,Thresh,Yorick,Aatrox,Sion
+2019.0,spring,LMS,4,G Rex,Hong Kong Attitude,3.0,29:56,OK,blue,GRX,   DEFEAT   ,47.3k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Zoe,Thresh,Syndra,Ezreal,Yorick
+2019.0,spring,LMS,4,G Rex,Hong Kong Attitude,3.0,29:56,OK,red,HKA,   VICTORY   ,58.1k,15,  9 ,  1 ,  1 ,  4 ,  0 ,Yasuo,Lucian,Leblanc,Cassiopeia,Sylas
+2019.0,spring,LMS,4,MAD Team,J Team,1.0,37:54,OK,blue,MAD,   VICTORY   ,66.6k,11,  9 ,  2 ,  1 ,  5 ,  0 ,Yasuo,Sylas,Kaisa,Corki,Syndra
+2019.0,spring,LMS,4,MAD Team,J Team,1.0,37:54,OK,red,JT,   DEFEAT   ,56.7k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Ezreal,Zoe,Lucian,Nocturne,JarvanIV
+2019.0,spring,LMS,4,MAD Team,J Team,2.0,38:29,OK,blue,JT,   VICTORY   ,72.0k,11,  10 ,  2 ,  0 ,  4 ,  1 ,Zoe,Galio,Lucian,Rakan,Alistar
+2019.0,spring,LMS,4,MAD Team,J Team,2.0,38:29,OK,red,MAD,   DEFEAT   ,65.8k,9,  4 ,  0 ,  1 ,  1 ,  0 ,Yasuo,Sylas,TahmKench,Syndra,Leblanc
+2019.0,spring,LMS,4,MAD Team,J Team,3.0,46:58,OK,blue,MAD,   VICTORY   ,86.3k,16,  9 ,  1 ,  1 ,  3 ,  0 ,Yasuo,Sylas,Yorick,Sivir,Kalista
+2019.0,spring,LMS,4,MAD Team,J Team,3.0,46:58,OK,red,JT,   DEFEAT   ,80.0k,8,  9 ,  2 ,  1 ,  3 ,  1 ,Ezreal,Lucian,Galio,Sion,Alistar
+2019.0,spring,LMS,4,Alpha Esports,AHQ,1.0,41:41,OK,blue,ALF,   VICTORY   ,77.0k,15,  10 ,  2 ,  2 ,  2 ,  1 ,Yasuo,Cassiopeia,Viktor,Sylas,Yorick
+2019.0,spring,LMS,4,Alpha Esports,AHQ,1.0,41:41,OK,red,AHQ,   DEFEAT   ,72.1k,8,  6 ,  0 ,  0 ,  4 ,  0 ,Lucian,Urgot,Galio,TahmKench,Braum
+2019.0,spring,LMS,4,Alpha Esports,AHQ,2.0,31:08,OK,blue,AHQ,   VICTORY   ,58.0k,15,  11 ,  3 ,  2 ,  1 ,  0 ,Lucian,Galio,Vladimir,JarvanIV,Yorick
+2019.0,spring,LMS,4,Alpha Esports,AHQ,2.0,31:08,OK,red,ALF,   DEFEAT   ,49.6k,9,  1 ,  0 ,  0 ,  2 ,  1 ,Cassiopeia,Yasuo,Lissandra,Zac,Gragas
+2019.0,spring,LMS,4,Alpha Esports,AHQ,3.0,29:35,OK,blue,ALF,   DEFEAT   ,44.1k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Yasuo,Cassiopeia,Viktor,Leblanc,Lissandra
+2019.0,spring,LMS,4,Alpha Esports,AHQ,3.0,29:35,OK,red,AHQ,   VICTORY   ,55.1k,12,  11 ,  2 ,  1 ,  3 ,  0 ,Galio,Lucian,Olaf,XinZhao,Morgana
+2019.0,spring,LMS,5,Alpha Esports,G Rex,1.0,25:26,OK,blue,ALF,   VICTORY   ,51.7k,13,  9 ,  1 ,  1 ,  3 ,  1 ,Yasuo,Cassiopeia,Kaisa,Gragas,Olaf
+2019.0,spring,LMS,5,Alpha Esports,G Rex,1.0,25:26,OK,red,GRX,   DEFEAT   ,36.9k,0,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Lucian,Sylas,Kalista,Galio
+2019.0,spring,LMS,5,Alpha Esports,G Rex,2.0,22:17,OK,blue,GRX,   DEFEAT   ,33.4k,3,  2 ,  0 ,  0 ,  0 ,  1 ,Zoe,Leblanc,JarvanIV,Thresh,Braum
+2019.0,spring,LMS,5,Alpha Esports,G Rex,2.0,22:17,OK,red,ALF,   VICTORY   ,45.2k,16,  7 ,  1 ,  1 ,  3 ,  0 ,Yasuo,Cassiopeia,Kaisa,Gragas,Syndra
+2019.0,spring,LMS,5,MAD Team,Dragon Gate Team,1.0,35:09,OK,blue,MAD,   DEFEAT   ,63.3k,8,  2 ,  0 ,  1 ,  2 ,  0 ,Leblanc,Nidalee,Lucian,Sylas,Renekton
+2019.0,spring,LMS,5,MAD Team,Dragon Gate Team,1.0,35:09,OK,red,DG,   VICTORY   ,68.9k,6,  11 ,  4 ,  2 ,  3 ,  1 ,Lissandra,Galio,Syndra,Yorick,Zac
+2019.0,spring,LMS,5,MAD Team,Dragon Gate Team,2.0,22:55,OK,blue,DG,   DEFEAT   ,36.2k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Lissandra,Galio,Syndra,JarvanIV,Zac
+2019.0,spring,LMS,5,MAD Team,Dragon Gate Team,2.0,22:55,OK,red,MAD,   VICTORY   ,43.4k,18,  7 ,  1 ,  0 ,  1 ,  1 ,Nidalee,Leblanc,Heimerdinger,LeeSin,XinZhao
+2019.0,spring,LMS,5,MAD Team,Dragon Gate Team,3.0,28:22,OK,blue,DG,   DEFEAT   ,49.5k,6,  5 ,  0 ,  0 ,  1 ,  1 ,Lissandra,Syndra,Cassiopeia,Aatrox,
+2019.0,spring,LMS,5,MAD Team,Dragon Gate Team,3.0,28:22,OK,red,MAD,   VICTORY   ,57.6k,30,  8 ,  1 ,  1 ,  2 ,  0 ,Nidalee,Leblanc,Heimerdinger,Zoe,Lulu
+2019.0,spring,LMS,5,AHQ,Hong Kong Attitude,1.0,39:23,OK,blue,AHQ,   VICTORY   ,72.6k,22,  6 ,  1 ,  0 ,  1 ,  0 ,Jayce,Zoe,Galio,Sion,Yorick
+2019.0,spring,LMS,5,AHQ,Hong Kong Attitude,1.0,39:23,OK,red,HKA,   DEFEAT   ,72.7k,21,  3 ,  0 ,  1 ,  4 ,  1 ,Yasuo,Zac,Lucian,Alistar,Kaisa
+2019.0,spring,LMS,5,AHQ,Hong Kong Attitude,2.0,32:12,OK,blue,HKA,   DEFEAT   ,52.7k,8,  2 ,  0 ,  0 ,  1 ,  1 ,Zac,Leblanc,Jax,Syndra,Cassiopeia
+2019.0,spring,LMS,5,AHQ,Hong Kong Attitude,2.0,32:12,OK,red,AHQ,   VICTORY   ,63.3k,17,  9 ,  2 ,  1 ,  4 ,  0 ,Lucian,Zoe,Galio,Jayce,Yorick
+2019.0,spring,LMS,5,Flash Wolves,J Team,1.0,26:43,OK,blue,FW,   VICTORY   ,55.4k,18,  8 ,  1 ,  1 ,  2 ,  0 ,Yasuo,Leblanc,Ezreal,Vladimir,Sylas
+2019.0,spring,LMS,5,Flash Wolves,J Team,1.0,26:43,OK,red,JT,   DEFEAT   ,40.5k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Lucian,Thresh,Urgot,Nocturne,Olaf
+2019.0,spring,LMS,5,Flash Wolves,J Team,2.0,38:55,OK,blue,JT,   DEFEAT   ,69.3k,12,  7 ,  1 ,  1 ,  1 ,  0 ,Kalista,Lissandra,Thresh,JarvanIV,Nocturne
+2019.0,spring,LMS,5,Flash Wolves,J Team,2.0,38:55,OK,red,FW,   VICTORY   ,72.0k,15,  8 ,  1 ,  1 ,  4 ,  1 ,Yasuo,Leblanc,Lucian,Yorick,Sion
+2019.0,spring,LMS,5,J Team,Dragon Gate Team,1.0,34:09,OK,blue,JT,   VICTORY   ,64.5k,19,  10 ,  2 ,  1 ,  1 ,  0 ,Nidalee,Alistar,Lissandra,Urgot,Jayce
+2019.0,spring,LMS,5,J Team,Dragon Gate Team,1.0,34:09,OK,red,DG,   DEFEAT   ,54.7k,6,  3 ,  0 ,  0 ,  3 ,  1 ,Syndra,Vladimir,Zoe,Yorick,JarvanIV
+2019.0,spring,LMS,5,J Team,Dragon Gate Team,2.0,37:46,OK,blue,JT,   VICTORY   ,74.7k,26,  11 ,  3 ,  2 ,  3 ,  1 ,Nidalee,Alistar,Heimerdinger,Braum,Kaisa
+2019.0,spring,LMS,5,J Team,Dragon Gate Team,2.0,37:46,OK,red,DG,   DEFEAT   ,65.2k,12,  3 ,  0 ,  0 ,  2 ,  0 ,Syndra,Zoe,Lucian,LeeSin,Urgot
+2019.0,spring,LMS,5,Hong Kong Attitude,MAD Team,1.0,38:03,OK,blue,HKA,   DEFEAT   ,60.5k,5,  3 ,  0 ,  1 ,  4 ,  1 ,Lissandra,Yorick,Kalista,TahmKench,Thresh
+2019.0,spring,LMS,5,Hong Kong Attitude,MAD Team,1.0,38:03,OK,red,MAD,   VICTORY   ,70.8k,14,  9 ,  2 ,  0 ,  2 ,  0 ,Lucian,Zoe,Jayce,Kaisa,Varus
+2019.0,spring,LMS,5,Hong Kong Attitude,MAD Team,2.0,28:06,OK,blue,HKA,   DEFEAT   ,47.4k,5,  4 ,  0 ,  0 ,  2 ,  1 ,Lissandra,Ezreal,Kalista,Alistar,Braum
+2019.0,spring,LMS,5,Hong Kong Attitude,MAD Team,2.0,28:06,OK,red,MAD,   VICTORY   ,51.7k,12,  6 ,  1 ,  1 ,  1 ,  0 ,Lucian,Zoe,Jayce,Varus,Vayne
+2019.0,spring,LMS,6,AHQ,Alpha Esports,1.0,36:14,OK,blue,AHQ,   DEFEAT   ,57.1k,7,  2 ,  0 ,  0 ,  3 ,  0 ,Vladimir,Leblanc,Lissandra,Braum,Yorick
+2019.0,spring,LMS,6,AHQ,Alpha Esports,1.0,36:14,OK,red,ALF,   VICTORY   ,66.6k,11,  9 ,  1 ,  1 ,  2 ,  1 ,Yasuo,Jayce,Thresh,Ezreal,Sivir
+2019.0,spring,LMS,6,AHQ,Alpha Esports,2.0,29:39,OK,blue,ALF,   DEFEAT   ,44.7k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Jayce,Zoe,Gragas,Zac
+2019.0,spring,LMS,6,AHQ,Alpha Esports,2.0,29:39,OK,red,AHQ,   VICTORY   ,57.5k,14,  9 ,  1 ,  1 ,  4 ,  1 ,Vladimir,Ashe,Galio,RekSai,Nocturne
+2019.0,spring,LMS,6,AHQ,Alpha Esports,3.0,30:04,OK,blue,AHQ,   VICTORY   ,60.2k,17,  10 ,  2 ,  1 ,  2 ,  0 ,Vladimir,Ashe,Galio,Olaf,RekSai
+2019.0,spring,LMS,6,AHQ,Alpha Esports,3.0,30:04,OK,red,ALF,   DEFEAT   ,49.9k,11,  2 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Sylas,Jayce,LeeSin,Riven
+2019.0,spring,LMS,6,J Team,MAD Team,1.0,27:54,OK,blue,JT,   DEFEAT   ,44.3k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Galio,Lissandra,Yorick,Kindred
+2019.0,spring,LMS,6,J Team,MAD Team,1.0,27:54,OK,red,MAD,   VICTORY   ,53.1k,12,  8 ,  1 ,  1 ,  3 ,  0 ,Leblanc,Lucian,Zoe,Jayce,Kennen
+2019.0,spring,LMS,6,J Team,MAD Team,2.0,24:40,OK,blue,MAD,   DEFEAT   ,39.4k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Zoe,Lucian,Kalista,Viktor
+2019.0,spring,LMS,6,J Team,MAD Team,2.0,24:40,OK,red,JT,   VICTORY   ,48.7k,15,  7 ,  1 ,  1 ,  1 ,  1 ,Aatrox,Ezreal,RekSai,JarvanIV,Sion
+2019.0,spring,LMS,6,J Team,MAD Team,3.0,27:58,OK,blue,MAD,   VICTORY   ,52.5k,8,  7 ,  1 ,  1 ,  3 ,  1 ,Leblanc,Jayce,Zoe,Elise,LeeSin
+2019.0,spring,LMS,6,J Team,MAD Team,3.0,27:58,OK,red,JT,   DEFEAT   ,41.6k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,RekSai,Jax,Sion,JarvanIV
+2019.0,spring,LMS,6,Dragon Gate Team,Flash Wolves,1.0,37:16,OK,blue,FW,   VICTORY   ,71.4k,18,  11 ,  3 ,  2 ,  3 ,  0 ,Heimerdinger,Leblanc,Jayce,Renekton,Yorick
+2019.0,spring,LMS,6,Dragon Gate Team,Flash Wolves,1.0,37:16,OK,red,DG,   DEFEAT   ,61.9k,4,  3 ,  0 ,  0 ,  2 ,  1 ,Lissandra,Kalista,Lucian,JarvanIV,
+2019.0,spring,LMS,6,Dragon Gate Team,Flash Wolves,2.0,25:16,OK,blue,FW,   VICTORY   ,51.7k,23,  8 ,  1 ,  1 ,  1 ,  0 ,Heimerdinger,Leblanc,Jayce,Yorick,Ryze
+2019.0,spring,LMS,6,Dragon Gate Team,Flash Wolves,2.0,25:16,OK,red,DG,   DEFEAT   ,40.8k,8,  2 ,  0 ,  0 ,  1 ,  1 ,Lissandra,Galio,Aatrox,Zoe,Vladimir
+2019.0,spring,LMS,6,G Rex,AHQ,1.0,42:11,OK,blue,GRX,   VICTORY   ,75.2k,13,  9 ,  1 ,  1 ,  3 ,  1 ,Ryze,Zoe,Lucian,Jax,Zac
+2019.0,spring,LMS,6,G Rex,AHQ,1.0,42:11,OK,red,AHQ,   DEFEAT   ,72.9k,11,  4 ,  1 ,  1 ,  3 ,  0 ,Yasuo,Lissandra,Ezreal,Kalista,TahmKench
+2019.0,spring,LMS,6,G Rex,AHQ,2.0,29:40,OK,blue,AHQ,   VICTORY   ,60.4k,17,  10 ,  1 ,  1 ,  4 ,  1 ,Leblanc,Yasuo,Yorick,Tristana,Ezreal
+2019.0,spring,LMS,6,G Rex,AHQ,2.0,29:40,OK,red,GRX,   DEFEAT   ,43.5k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Jayce,Zac,Lucian,Vladimir,Kalista
+2019.0,spring,LMS,6,G Rex,AHQ,3.0,32:38,OK,blue,GRX,   VICTORY   ,57.1k,8,  8 ,  1 ,  1 ,  2 ,  0 ,Ryze,Lucian,Nocturne,JarvanIV,Zac
+2019.0,spring,LMS,6,G Rex,AHQ,3.0,32:38,OK,red,AHQ,   DEFEAT   ,55.5k,5,  4 ,  0 ,  0 ,  2 ,  1 ,Yasuo,Lissandra,Leblanc,TahmKench,Alistar
+2019.0,spring,LMS,6,Flash Wolves,Hong Kong Attitude,1.0,34:37,OK,blue,FW,   VICTORY   ,67.2k,19,  11 ,  2 ,  1 ,  1 ,  0 ,Zoe,Leblanc,Galio,Syndra,Ryze
+2019.0,spring,LMS,6,Flash Wolves,Hong Kong Attitude,1.0,34:37,OK,red,HKA,   DEFEAT   ,58.5k,5,  4 ,  0 ,  0 ,  3 ,  1 ,Lissandra,Alistar,Kalista,Irelia,XinZhao
+2019.0,spring,LMS,6,Flash Wolves,Hong Kong Attitude,2.0,31:55,OK,blue,FW,   VICTORY   ,61.6k,20,  8 ,  1 ,  1 ,  2 ,  0 ,Zoe,Leblanc,Syndra,LeeSin,Gragas
+2019.0,spring,LMS,6,Flash Wolves,Hong Kong Attitude,2.0,31:55,OK,red,HKA,   DEFEAT   ,52.7k,5,  2 ,  0 ,  0 ,  2 ,  1 ,Lissandra,Alistar,Kalista,Karthus,Vladimir
+2019.0,spring,LMS,6,G Rex,Alpha Esports,1.0,42:48,OK,blue,GRX,   VICTORY   ,76.4k,12,  11 ,  2 ,  2 ,  1 ,  1 ,Ashe,Vladimir,Zoe,Syndra,Leblanc
+2019.0,spring,LMS,6,G Rex,Alpha Esports,1.0,42:48,OK,red,ALF,   DEFEAT   ,73.7k,1,  5 ,  0 ,  0 ,  6 ,  0 ,Yasuo,Kaisa,LeeSin,Yorick,Lucian
+2019.0,spring,LMS,6,G Rex,Alpha Esports,2.0,29:44,OK,blue,ALF,   DEFEAT   ,48.0k,9,  2 ,  0 ,  0 ,  2 ,  0 ,Yasuo,Zoe,Syndra,LeeSin,Yorick
+2019.0,spring,LMS,6,G Rex,Alpha Esports,2.0,29:44,OK,red,GRX,   VICTORY   ,56.8k,16,  8 ,  1 ,  2 ,  2 ,  1 ,JarvanIV,Lissandra,Leblanc,Vladimir,Sion
+2019.0,spring,LMS,7,Hong Kong Attitude,J Team,1.0,32:00,OK,blue,HKA,   DEFEAT   ,53.1k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Leblanc,Zoe,Ryze,Rakan
+2019.0,spring,LMS,7,Hong Kong Attitude,J Team,1.0,32:00,OK,red,JT,   VICTORY   ,61.9k,11,  11 ,  3 ,  2 ,  5 ,  1 ,RekSai,Jayce,Lucian,Alistar,Braum
+2019.0,spring,LMS,7,Hong Kong Attitude,J Team,2.0,25:29,OK,blue,JT,   VICTORY   ,50.3k,15,  10 ,  2 ,  1 ,  3 ,  1 ,RekSai,Lucian,Lissandra,Yorick,JarvanIV
+2019.0,spring,LMS,7,Hong Kong Attitude,J Team,2.0,25:29,OK,red,HKA,   DEFEAT   ,37.7k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Leblanc,Zoe,Elise,Ryze
+2019.0,spring,LMS,7,Dragon Gate Team,MAD Team,1.0,25:41,OK,blue,DG,   DEFEAT   ,38.8k,5,  2 ,  0 ,  0 ,  1 ,  1 ,Syndra,Lissandra,Cassiopeia,Ryze,Yorick
+2019.0,spring,LMS,7,Dragon Gate Team,MAD Team,1.0,25:41,OK,red,MAD,   VICTORY   ,49.9k,20,  8 ,  1 ,  1 ,  1 ,  0 ,Nidalee,Heimerdinger,Lucian,Jayce,LeeSin
+2019.0,spring,LMS,7,Dragon Gate Team,MAD Team,2.0,31:41,OK,blue,MAD,   VICTORY   ,59.3k,14,  9 ,  1 ,  0 ,  2 ,  1 ,Nidalee,Heimerdinger,Jayce,Renekton,Kennen
+2019.0,spring,LMS,7,Dragon Gate Team,MAD Team,2.0,31:41,OK,red,DG,   DEFEAT   ,51.5k,6,  3 ,  1 ,  0 ,  2 ,  0 ,Lissandra,Syndra,Galio,LeeSin,Aatrox
+2019.0,spring,LMS,7,Alpha Esports,MAD Team,1.0,30:08,OK,blue,ALF,   DEFEAT   ,50.6k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Ezreal,Zoe,Alistar,Braum
+2019.0,spring,LMS,7,Alpha Esports,MAD Team,1.0,30:08,OK,red,MAD,   VICTORY   ,58.3k,16,  11 ,  3 ,  1 ,  4 ,  1 ,Ashe,Lucian,Lissandra,Kalista,Tristana
+2019.0,spring,LMS,7,Alpha Esports,MAD Team,2.0,32:12,OK,blue,ALF,   VICTORY   ,60.9k,17,  9 ,  1 ,  0 ,  2 ,  1 ,Ezreal,Ryze,Riven,Yorick,Alistar
+2019.0,spring,LMS,7,Alpha Esports,MAD Team,2.0,32:12,OK,red,MAD,   DEFEAT   ,58.7k,13,  8 ,  1 ,  1 ,  3 ,  0 ,Ashe,Lucian,Lissandra,Kalista,Tristana
+2019.0,spring,LMS,7,Alpha Esports,MAD Team,3.0,36:40,OK,blue,ALF,   VICTORY   ,67.4k,12,  10 ,  1 ,  1 ,  5 ,  1 ,Ezreal,Ryze,Galio,Yorick,Fiora
+2019.0,spring,LMS,7,Alpha Esports,MAD Team,3.0,36:40,OK,red,MAD,   DEFEAT   ,59.8k,14,  2 ,  0 ,  0 ,  0 ,  0 ,Ashe,Lucian,Lissandra,Vayne,Tristana
+2019.0,spring,LMS,7,AHQ,J Team,1.0,33:12,OK,blue,JT,   DEFEAT   ,53.2k,5,  3 ,  0 ,  0 ,  1 ,  0 ,RekSai,Kalista,Alistar,Syndra,Galio
+2019.0,spring,LMS,7,AHQ,J Team,1.0,33:12,OK,red,AHQ,   VICTORY   ,59.7k,13,  8 ,  1 ,  1 ,  3 ,  1 ,Leblanc,Zoe,Vladimir,Olaf,Jayce
+2019.0,spring,LMS,7,AHQ,J Team,2.0,33:12,OK,blue,JT,   DEFEAT   ,53.2k,5,  3 ,  0 ,  0 ,  1 ,  0 ,RekSai,Kalista,Alistar,Syndra,Galio
+2019.0,spring,LMS,7,AHQ,J Team,2.0,33:12,OK,red,AHQ,   VICTORY   ,59.7k,13,  8 ,  1 ,  1 ,  3 ,  1 ,Leblanc,Zoe,Vladimir,Olaf,Jayce
+2019.0,spring,LMS,7,Dragon Gate Team,Hong Kong Attitude,1.0,27:09,OK,blue,HKA,   VICTORY   ,53.9k,13,  10 ,  2 ,  1 ,  2 ,  0 ,Heimerdinger,Nidalee,Leblanc,Kindred,Yorick
+2019.0,spring,LMS,7,Dragon Gate Team,Hong Kong Attitude,1.0,27:09,OK,red,DG,   DEFEAT   ,39.3k,1,  0 ,  0 ,  0 ,  1 ,  1 ,Syndra,Galio,Zoe,Xayah,Kalista
+2019.0,spring,LMS,7,Dragon Gate Team,Hong Kong Attitude,2.0,35:21,OK,blue,HKA,   VICTORY   ,67.9k,16,  11 ,  3 ,  1 ,  4 ,  0 ,Heimerdinger,Nidalee,Leblanc,RekSai,XinZhao
+2019.0,spring,LMS,7,Dragon Gate Team,Hong Kong Attitude,2.0,35:21,OK,red,DG,   DEFEAT   ,59.1k,12,  4 ,  0 ,  0 ,  1 ,  1 ,Syndra,Lissandra,Zoe,Kalista,Lucian
+2019.0,spring,LMS,7,Flash Wolves,G Rex,1.0,37:55,OK,blue,FW,   DEFEAT   ,67.3k,13,  5 ,  1 ,  1 ,  2 ,  1 ,Leblanc,Lucian,Zoe,Jayce,Zac
+2019.0,spring,LMS,7,Flash Wolves,G Rex,1.0,37:55,OK,red,GRX,   VICTORY   ,71.4k,19,  8 ,  1 ,  1 ,  3 ,  0 ,Kalista,Thresh,Lissandra,Ryze,Gangplank
+2019.0,spring,LMS,7,Flash Wolves,G Rex,2.0,33:36,OK,blue,GRX,   DEFEAT   ,53.4k,3,  4 ,  0 ,  0 ,  0 ,  1 ,Kalista,Thresh,Heimerdinger,Gangplank,Nocturne
+2019.0,spring,LMS,7,Flash Wolves,G Rex,2.0,33:36,OK,red,FW,   VICTORY   ,61.8k,11,  8 ,  1 ,  1 ,  4 ,  0 ,Leblanc,Lissandra,Zoe,Vayne,Lucian
+2019.0,spring,LMS,7,Flash Wolves,G Rex,3.0,33:01,OK,blue,FW,   VICTORY   ,65.8k,21,  9 ,  2 ,  0 ,  4 ,  1 ,Leblanc,Yasuo,Braum,Sejuani,Jayce
+2019.0,spring,LMS,7,Flash Wolves,G Rex,3.0,33:01,OK,red,GRX,   DEFEAT   ,50.5k,1,  3 ,  0 ,  0 ,  0 ,  0 ,Kalista,Thresh,Lissandra,Ryze,Zoe
+2019.0,spring,LMS,8,Flash Wolves,Alpha Esports,1.0,38:04,OK,blue,FW,   VICTORY   ,69.6k,17,  9 ,  1 ,  1 ,  1 ,  0 ,Leblanc,JarvanIV,Olaf,Sylas,Zoe
+2019.0,spring,LMS,8,Flash Wolves,Alpha Esports,1.0,38:04,OK,red,ALF,   DEFEAT   ,67.2k,9,  8 ,  1 ,  1 ,  4 ,  1 ,Thresh,Kalista,Jayce,Gangplank,Kaisa
+2019.0,spring,LMS,8,Flash Wolves,Alpha Esports,2.0,31:27,OK,blue,FW,   VICTORY   ,63.8k,26,  7 ,  1 ,  1 ,  2 ,  1 ,Leblanc,Olaf,TahmKench,Lucian,Neeko
+2019.0,spring,LMS,8,Flash Wolves,Alpha Esports,2.0,31:27,OK,red,ALF,   DEFEAT   ,56.2k,15,  3 ,  0 ,  0 ,  2 ,  0 ,Kalista,Thresh,Akali,Kaisa,Vladimir
+2019.0,spring,LMS,8,Hong Kong Attitude,G Rex,1.0,41:45,OK,blue,GRX,   VICTORY   ,79.1k,20,  11 ,  3 ,  2 ,  3 ,  0 ,Gangplank,Kalista,Ryze,Jayce,Lucian
+2019.0,spring,LMS,8,Hong Kong Attitude,G Rex,1.0,41:45,OK,red,HKA,   DEFEAT   ,70.9k,7,  4 ,  0 ,  0 ,  3 ,  1 ,Leblanc,Alistar,Yorick,JarvanIV,Yasuo
+2019.0,spring,LMS,8,Hong Kong Attitude,G Rex,2.0,34:06,OK,blue,GRX,   DEFEAT   ,56.0k,6,  4 ,  0 ,  0 ,  0 ,  1 ,Gangplank,Kalista,Ryze,Lucian,Jayce
+2019.0,spring,LMS,8,Hong Kong Attitude,G Rex,2.0,34:06,OK,red,HKA,   VICTORY   ,65.2k,11,  11 ,  4 ,  2 ,  4 ,  0 ,Leblanc,Sylas,Yorick,Nocturne,JarvanIV
+2019.0,spring,LMS,8,Hong Kong Attitude,G Rex,3.0,35:32,OK,blue,GRX,   VICTORY   ,62.5k,12,  7 ,  1 ,  0 ,  1 ,  1 ,Gangplank,Kalista,Ryze,Jayce,Aatrox
+2019.0,spring,LMS,8,Hong Kong Attitude,G Rex,3.0,35:32,OK,red,HKA,   DEFEAT   ,60.7k,8,  4 ,  0 ,  1 ,  4 ,  0 ,Leblanc,Sylas,Yorick,Braum,Vayne
+2019.0,spring,LMS,8,AHQ,Flash Wolves,1.0,32:33,OK,blue,AHQ,   VICTORY   ,63.6k,16,  11 ,  2 ,  1 ,  4 ,  0 ,Vladimir,Gangplank,Kalista,Nocturne,Karthus
+2019.0,spring,LMS,8,AHQ,Flash Wolves,1.0,32:33,OK,red,FW,   DEFEAT   ,51.9k,1,  2 ,  0 ,  0 ,  0 ,  1 ,Leblanc,Lucian,Galio,Ezreal,Vayne
+2019.0,spring,LMS,8,AHQ,Flash Wolves,2.0,36:50,OK,blue,FW,   DEFEAT   ,60.6k,8,  3 ,  0 ,  0 ,  2 ,  0 ,Leblanc,Lucian,Lissandra,JarvanIV,LeeSin
+2019.0,spring,LMS,8,AHQ,Flash Wolves,2.0,36:50,OK,red,AHQ,   VICTORY   ,70.8k,20,  9 ,  2 ,  1 ,  3 ,  1 ,Vladimir,Sylas,Kalista,Akali,Kaisa
+2019.0,spring,LMS,8,Alpha Esports,J Team,1.0,37:47,OK,blue,ALF,   VICTORY   ,72.7k,19,  11 ,  4 ,  2 ,  5 ,  0 ,Zoe,Jayce,Leblanc,Braum,Irelia
+2019.0,spring,LMS,8,Alpha Esports,J Team,1.0,37:47,OK,red,JT,   DEFEAT   ,65.8k,16,  3 ,  0 ,  1 ,  0 ,  1 ,JarvanIV,Ashe,Lissandra,Thresh,Galio
+2019.0,spring,LMS,8,Alpha Esports,J Team,2.0,24:28,OK,blue,JT,   DEFEAT   ,37.5k,5,  0 ,  0 ,  0 ,  1 ,  0 ,RekSai,Ashe,Neeko,Lucian,Vayne
+2019.0,spring,LMS,8,Alpha Esports,J Team,2.0,24:28,OK,red,ALF,   VICTORY   ,51.2k,18,  11 ,  2 ,  1 ,  1 ,  1 ,Zoe,Jayce,Leblanc,Yorick,Vladimir
+2019.0,spring,LMS,8,G Rex,Dragon Gate Team,1.0,33:06,OK,blue,GRX,   DEFEAT   ,53.8k,8,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Nidalee,Fizz,Lucian,Ryze
+2019.0,spring,LMS,8,G Rex,Dragon Gate Team,1.0,33:06,OK,red,DG,   VICTORY   ,63.2k,17,  8 ,  1 ,  1 ,  4 ,  1 ,Sylas,Syndra,Zoe,Vayne,Vladimir
+2019.0,spring,LMS,8,G Rex,Dragon Gate Team,2.0,42:00,OK,blue,GRX,   VICTORY   ,78.6k,18,  10 ,  3 ,  1 ,  5 ,  1 ,Kalista,Nidalee,Heimerdinger,Yorick,Renekton
+2019.0,spring,LMS,8,G Rex,Dragon Gate Team,2.0,42:00,OK,red,DG,   DEFEAT   ,76.8k,16,  4 ,  0 ,  2 ,  1 ,  0 ,Sylas,Syndra,Zoe,Nocturne,Vladimir
+2019.0,spring,LMS,8,G Rex,Dragon Gate Team,3.0,31:13,OK,blue,GRX,   VICTORY   ,58.4k,15,  9 ,  1 ,  1 ,  3 ,  1 ,Kalista,Nidalee,Heimerdinger,Lulu,Ryze
+2019.0,spring,LMS,8,G Rex,Dragon Gate Team,3.0,31:13,OK,red,DG,   DEFEAT   ,49.3k,5,  3 ,  0 ,  0 ,  1 ,  0 ,Sylas,Syndra,Lissandra,Vladimir,LeeSin
+2019.0,spring,LMS,8,MAD Team,AHQ,1.0,41:40,OK,blue,AHQ,   DEFEAT   ,72.0k,9,  4 ,  0 ,  1 ,  1 ,  1 ,Aatrox,Ezreal,RekSai,Jayce,Vladimir
+2019.0,spring,LMS,8,MAD Team,AHQ,1.0,41:40,OK,red,MAD,   VICTORY   ,80.3k,21,  11 ,  3 ,  1 ,  5 ,  0 ,JarvanIV,LeeSin,Galio,Kalista,Alistar
+2019.0,spring,LMS,8,MAD Team,AHQ,2.0,29:06,OK,blue,AHQ,   VICTORY   ,53.2k,13,  9 ,  2 ,  1 ,  4 ,  1 ,RekSai,Ezreal,Zoe,Vladimir,Fiora
+2019.0,spring,LMS,8,MAD Team,AHQ,2.0,29:06,OK,red,MAD,   DEFEAT   ,43.1k,3,  1 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,LeeSin,Galio,Lissandra,Syndra
+2019.0,spring,LMS,8,MAD Team,AHQ,3.0,31:14,OK,blue,MAD,   DEFEAT   ,50.5k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Sylas,Kalista,JarvanIV,Gragas,Zac
+2019.0,spring,LMS,8,MAD Team,AHQ,3.0,31:14,OK,red,AHQ,   VICTORY   ,58.7k,15,  10 ,  2 ,  1 ,  3 ,  0 ,Zoe,Ezreal,Lissandra,Kaisa,Ashe
+2019.0,spring,LMS,9,MAD Team,G Rex,1.0,40:53,OK,blue,MAD,   DEFEAT   ,71.6k,16,  8 ,  1 ,  0 ,  3 ,  1 ,Yasuo,Sylas,Vayne,Ashe,Vladimir
+2019.0,spring,LMS,9,MAD Team,G Rex,1.0,40:53,OK,red,GRX,   VICTORY   ,68.7k,10,  8 ,  2 ,  1 ,  2 ,  0 ,Ezreal,Zoe,RekSai,Olaf,Zac
+2019.0,spring,LMS,9,MAD Team,G Rex,2.0,36:30,OK,blue,GRX,   DEFEAT   ,62.3k,9,  3 ,  0 ,  0 ,  1 ,  1 ,Zoe,Ezreal,Lucian,Thresh,Alistar
+2019.0,spring,LMS,9,MAD Team,G Rex,2.0,36:30,OK,red,MAD,   VICTORY   ,68.9k,17,  8 ,  1 ,  1 ,  3 ,  0 ,Yasuo,Sylas,Vayne,LeeSin,Nocturne
+2019.0,spring,LMS,9,MAD Team,G Rex,3.0,39:22,OK,blue,MAD,   VICTORY   ,72.4k,12,  8 ,  1 ,  0 ,  3 ,  0 ,Yasuo,Sylas,Vayne,Neeko,Lucian
+2019.0,spring,LMS,9,MAD Team,G Rex,3.0,39:22,OK,red,GRX,   DEFEAT   ,66.6k,7,  6 ,  0 ,  1 ,  3 ,  1 ,Ezreal,Zoe,Galio,Kalista,Vladimir
+2019.0,spring,LMS,9,Dragon Gate Team,Alpha Esports,1.0,26:26,OK,blue,DG,   DEFEAT   ,40.7k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Sylas,JarvanIV,Olaf,Kindred,Leblanc
+2019.0,spring,LMS,9,Dragon Gate Team,Alpha Esports,1.0,26:26,OK,red,ALF,   VICTORY   ,54.5k,17,  9 ,  2 ,  1 ,  2 ,  1 ,Heimerdinger,Nidalee,Lulu,Lucian,Morgana
+2019.0,spring,LMS,9,Dragon Gate Team,Alpha Esports,2.0,25:02,OK,blue,ALF,   VICTORY   ,55.9k,25,  10 ,  1 ,  1 ,  1 ,  0 ,Heimerdinger,Lulu,Nidalee,Jayce,Renekton
+2019.0,spring,LMS,9,Dragon Gate Team,Alpha Esports,2.0,25:02,OK,red,DG,   DEFEAT   ,41.7k,9,  2 ,  0 ,  0 ,  1 ,  1 ,Sylas,JarvanIV,Olaf,RekSai,Nocturne
+2019.0,spring,LMS,9,Alpha Esports,Hong Kong Attitude,1.0,27:00,OK,blue,HKA,   VICTORY   ,54.7k,22,  9 ,  2 ,  1 ,  3 ,  1 ,Ashe,Leblanc,Sylas,Vladimir,Aatrox
+2019.0,spring,LMS,9,Alpha Esports,Hong Kong Attitude,1.0,27:00,OK,red,ALF,   DEFEAT   ,42.9k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Zoe,Yasuo,Lissandra,Braum,Kalista
+2019.0,spring,LMS,9,Alpha Esports,Hong Kong Attitude,2.0,23:30,OK,blue,HKA,   VICTORY   ,49.7k,21,  9 ,  1 ,  1 ,  1 ,  1 ,Ashe,Leblanc,Sylas,Kaisa,Vladimir
+2019.0,spring,LMS,9,Alpha Esports,Hong Kong Attitude,2.0,23:30,OK,red,ALF,   DEFEAT   ,36.3k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Zoe,Morgana,Yasuo,Vayne,Jayce
+2019.0,spring,LMS,9,AHQ,Dragon Gate Team,1.0,24:54,OK,blue,AHQ,   VICTORY   ,51.9k,22,  8 ,  1 ,  1 ,  4 ,  0 ,Nidalee,Heimerdinger,Lulu,Leblanc,Zoe
+2019.0,spring,LMS,9,AHQ,Dragon Gate Team,1.0,24:54,OK,red,DG,   DEFEAT   ,35.8k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Sylas,Lissandra,Vladimir,Yorick,Kennen
+2019.0,spring,LMS,9,AHQ,Dragon Gate Team,2.0,33:52,OK,blue,DG,   DEFEAT   ,57.3k,14,  3 ,  0 ,  0 ,  0 ,  1 ,Sylas,Thresh,Velkoz,JarvanIV,Kindred
+2019.0,spring,LMS,9,AHQ,Dragon Gate Team,2.0,33:52,OK,red,AHQ,   VICTORY   ,68.3k,25,  10 ,  2 ,  1 ,  3 ,  0 ,Nidalee,Heimerdinger,Lulu,Zoe,Syndra
+2019.0,spring,LMS,9,J Team,Flash Wolves,1.0,38:20,OK,blue,JT,   VICTORY   ,71.8k,14,  9 ,  1 ,  1 ,  5 ,  1 ,Kalista,Galio,JarvanIV,Taliyah,RekSai
+2019.0,spring,LMS,9,J Team,Flash Wolves,1.0,38:20,OK,red,FW,   DEFEAT   ,60.2k,4,  2 ,  0 ,  1 ,  1 ,  0 ,Sylas,Zoe,Ryze,Yorick,Nocturne
+2019.0,spring,LMS,9,J Team,Flash Wolves,2.0,40:38,OK,blue,FW,   DEFEAT   ,66.2k,4,  2 ,  0 ,  0 ,  3 ,  0 ,Jayce,Zoe,Galio,Braum,Yorick
+2019.0,spring,LMS,9,J Team,Flash Wolves,2.0,40:38,OK,red,JT,   VICTORY   ,73.3k,12,  8 ,  2 ,  1 ,  3 ,  1 ,Kalista,Lissandra,Sylas,Kennen,Alistar
+2019.0,spring,LMS,9,Hong Kong Attitude,AHQ,1.0,34:39,OK,blue,HKA,   VICTORY   ,69.2k,17,  11 ,  3 ,  1 ,  5 ,  1 ,Kalista,Leblanc,Sylas,Morgana,Thresh
+2019.0,spring,LMS,9,Hong Kong Attitude,AHQ,1.0,34:39,OK,red,AHQ,   DEFEAT   ,60.1k,14,  4 ,  0 ,  1 ,  0 ,  0 ,Zoe,Yorick,Vayne,Jayce,Hecarim
+2019.0,spring,LMS,9,Hong Kong Attitude,AHQ,2.0,33:03,OK,blue,AHQ,   DEFEAT   ,56.9k,11,  3 ,  0 ,  0 ,  1 ,  1 ,Zoe,Vayne,Jinx,TahmKench,Morgana
+2019.0,spring,LMS,9,Hong Kong Attitude,AHQ,2.0,33:03,OK,red,HKA,   VICTORY   ,72.1k,26,  11 ,  4 ,  2 ,  4 ,  0 ,Kalista,Leblanc,RekSai,LeeSin,Sejuani
+2019.0,spring,LMS,9,J Team,G Rex,1.0,31:35,OK,blue,JT,   VICTORY   ,64.4k,16,  11 ,  1 ,  1 ,  4 ,  0 ,Vayne,TahmKench,Galio,Alistar,Morgana
+2019.0,spring,LMS,9,J Team,G Rex,1.0,31:35,OK,red,GRX,   DEFEAT   ,50.4k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Kalista,Jayce,Ryze,Lucian,Gangplank
+2019.0,spring,LMS,9,J Team,G Rex,2.0,31:28,OK,blue,GRX,   DEFEAT   ,50.7k,10,  3 ,  0 ,  0 ,  1 ,  1 ,JarvanIV,Gangplank,Kayle,Jayce,Ryze
+2019.0,spring,LMS,9,J Team,G Rex,2.0,31:28,OK,red,JT,   VICTORY   ,61.1k,20,  7 ,  1 ,  1 ,  3 ,  0 ,Lissandra,Galio,Kalista,Olaf,RekSai
+2019.0,spring,LMS,9,MAD Team,Flash Wolves,1.0,26:09,OK,blue,MAD,   VICTORY   ,49.6k,6,  10 ,  2 ,  1 ,  3 ,  1 ,Kalista,Sylas,JarvanIV,Gangplank,Ryze
+2019.0,spring,LMS,9,MAD Team,Flash Wolves,1.0,26:09,OK,red,FW,   DEFEAT   ,38.1k,0,  2 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Galio,Lissandra,Jayce,RekSai
+2019.0,spring,LMS,9,MAD Team,Flash Wolves,2.0,22:31,OK,blue,FW,   DEFEAT   ,33.9k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Jayce,Olaf,Lissandra,Yorick,Aatrox
+2019.0,spring,LMS,9,MAD Team,Flash Wolves,2.0,22:31,OK,red,MAD,   VICTORY   ,45.7k,17,  7 ,  1 ,  1 ,  3 ,  1 ,Kalista,Sylas,JarvanIV,Gangplank,Alistar
+2019.0,spring,LMS,Tiebreakers,AHQ,J Team,1.0,32:41,OK,blue,AHQ,   DEFEAT   ,55.8k,13,  1 ,  0 ,  0 ,  2 ,  0 ,Zoe,Jayce,Yorick,Kayle,Gangplank
+2019.0,spring,LMS,Tiebreakers,AHQ,J Team,1.0,32:41,OK,red,JT,   VICTORY   ,66.1k,24,  11 ,  4 ,  2 ,  2 ,  1 ,Kalista,Sylas,Alistar,Ezreal,Ashe

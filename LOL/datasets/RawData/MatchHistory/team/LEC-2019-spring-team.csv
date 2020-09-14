@@ -1,0 +1,183 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,LEC,1,Fnatic,SK Gaming,1.0,30:49,OK,blue,FNC,   DEFEAT   ,54.1k,12,  4 ,  0 ,  0 ,  2 ,  1 ,Irelia,XinZhao,Rakan,Corki,Hecarim
+2019.0,spring,LEC,1,Fnatic,SK Gaming,1.0,30:49,OK,red,SK,   VICTORY   ,57.3k,11,  8 ,  1 ,  1 ,  1 ,  0 ,Cassiopeia,Aatrox,Urgot,Swain,Galio
+2019.0,spring,LEC,1,Splyce,Excel Esports,1.0,38:10,OK,blue,SPY,   VICTORY   ,71.6k,16,  10 ,  2 ,  2 ,  0 ,  0 ,Akali,Irelia,Galio,Xayah,Leblanc
+2019.0,spring,LEC,1,Splyce,Excel Esports,1.0,38:10,OK,red,XL,   DEFEAT   ,60.8k,6,  4 ,  0 ,  0 ,  4 ,  1 ,Karthus,Cassiopeia,Lucian,Ryze,Lissandra
+2019.0,spring,LEC,1,Team Vitality,FC Schalke,1.0,31:36,OK,blue,VIT,   DEFEAT   ,54.7k,8,  3 ,  0 ,  0 ,  0 ,  1 ,Lucian,Aatrox,Irelia,Leblanc,Khazix
+2019.0,spring,LEC,1,Team Vitality,FC Schalke,1.0,31:36,OK,red,S04,   VICTORY   ,58.4k,12,  7 ,  1 ,  1 ,  3 ,  0 ,Galio,Cassiopeia,Draven,Rakan,Alistar
+2019.0,spring,LEC,1,Rogue,Misfits,1.0,24:33,OK,blue,RGE,   VERLOREN   ,36.1 k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Irelia,Galio,Xayah,Kalista
+2019.0,spring,LEC,1,Rogue,Misfits,1.0,24:33,OK,red,MSF,   GEWONNEN   ,50.0 k,12,  10 ,  1 ,  1 ,  4 ,  1 ,Cassiopeia,Aatrox,Ezreal,Caitlyn,
+2019.0,spring,LEC,1,Origen,G2,1.0,27:14,OK,blue,OG,   VERLOREN   ,42.7 k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Galio,Akali,Lucian,Nocturne,Yasuo
+2019.0,spring,LEC,1,Origen,G2,1.0,27:14,OK,red,G2,   GEWONNEN   ,54.2 k,19,  9 ,  2 ,  1 ,  2 ,  0 ,Aatrox,Irelia,Sejuani,Khazix,XinZhao
+2019.0,spring,LEC,1,G2,FC Schalke,1.0,24:08,OK,blue,G2,   GEWONNEN   ,53.0 k,22,  9 ,  1 ,  1 ,  3 ,  0 ,Irelia,Lucian,Galio,Leblanc,XinZhao
+2019.0,spring,LEC,1,G2,FC Schalke,1.0,24:08,OK,red,S04,   VERLOREN   ,37.0 k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Rakan,Jayce,Sion,Sejuani
+2019.0,spring,LEC,1,Excel Esports,Rogue,1.0,27:32,OK,blue,XL,   GEWONNEN   ,52.4 k,12,  8 ,  1 ,  1 ,  4 ,  0 ,Irelia,Rakan,Viktor,Braum,Alistar
+2019.0,spring,LEC,1,Excel Esports,Rogue,1.0,27:32,OK,red,RGE,   VERLOREN   ,44.2 k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Aatrox,Urgot,Thresh,Janna
+2019.0,spring,LEC,1,Splyce,Team Vitality,1.0,41:00,OK,blue,SPY,   VERLOREN   ,68.9 k,9,  3 ,  0 ,  0 ,  3 ,  0 ,Galio,Akali,Aatrox,Darius,Swain
+2019.0,spring,LEC,1,Splyce,Team Vitality,1.0,41:00,OK,red,VIT,   GEWONNEN   ,75.5 k,11,  8 ,  1 ,  1 ,  2 ,  1 ,Lucian,Irelia,Urgot,Ezreal,Rakan
+2019.0,spring,LEC,1,Misfits,SK Gaming,1.0,22:49,OK,blue,MSF,   GEWONNEN   ,48.5 k,21,  11 ,  3 ,  0 ,  1 ,  1 ,Ezreal,XinZhao,Viktor,Xayah,Kaisa
+2019.0,spring,LEC,1,Misfits,SK Gaming,1.0,22:49,OK,red,SK,   VERLOREN   ,32.7 k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Aatrox,Urgot,Swain,Leona
+2019.0,spring,LEC,1,Fnatic,Origen,1.0,29:07,OK,blue,FNC,   VERLOREN   ,48.5 k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Irelia,Rakan,Corki,Lissandra
+2019.0,spring,LEC,1,Fnatic,Origen,1.0,29:07,OK,red,OG,   GEWONNEN   ,56.3 k,11,  7 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Ezreal,Camille,Thresh,Tristana
+2019.0,spring,LEC,2,Team Vitality,Fnatic,1.0,32:30,OK,blue,VIT,   GEWONNEN   ,64.6 k,14,  8 ,  1 ,  1 ,  0 ,  1 ,Rakan,Aatrox,Akali,Lissandra,Ornn
+2019.0,spring,LEC,2,Team Vitality,Fnatic,1.0,32:30,OK,red,FNC,   VERLOREN   ,55.2 k,11,  1 ,  0 ,  0 ,  3 ,  0 ,Cassiopeia,Sejuani,Urgot,Karthus,Viktor
+2019.0,spring,LEC,2,Rogue,Splyce,1.0,34:29,OK,blue,RGE,   VERLOREN   ,59.1 k,11,  3 ,  0 ,  0 ,  1 ,  1 ,Galio,Irelia,Rakan,Leblanc,Thresh
+2019.0,spring,LEC,2,Rogue,Splyce,1.0,34:29,OK,red,SPY,   GEWONNEN   ,72.6 k,22,  9 ,  1 ,  2 ,  4 ,  0 ,TahmKench,Cassiopeia,Akali,XinZhao,Kennen
+2019.0,spring,LEC,2,G2,Excel Esports,1.0,44:38,OK,blue,G2,   GEWONNEN   ,79.2 k,15,  7 ,  2 ,  0 ,  2 ,  0 ,Lucian,Urgot,Jayce,XinZhao,Leblanc
+2019.0,spring,LEC,2,G2,Excel Esports,1.0,44:38,OK,red,XL,   VERLOREN   ,74.6 k,20,  5 ,  0 ,  1 ,  4 ,  1 ,Cassiopeia,Aatrox,Zoe,Vayne,Irelia
+2019.0,spring,LEC,2,FC Schalke,SK Gaming,1.0,40:33,OK,blue,S04,   GEWONNEN   ,79.7 k,18,  10 ,  2 ,  2 ,  4 ,  0 ,XinZhao,Rakan,Cassiopeia,Nocturne,Khazix
+2019.0,spring,LEC,2,FC Schalke,SK Gaming,1.0,40:33,OK,red,SK,   VERLOREN   ,64.1 k,7,  2 ,  0 ,  0 ,  2 ,  1 ,Lucian,Aatrox,Urgot,Kennen,Olaf
+2019.0,spring,LEC,2,Origen,Misfits,1.0,31:12,OK,blue,OG,   VERLOREN   ,51.4 k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Draven,Rakan,Lucian,Kalista,Khazix
+2019.0,spring,LEC,2,Origen,Misfits,1.0,31:12,OK,red,MSF,   GEWONNEN   ,62.8 k,18,  10 ,  2 ,  2 ,  5 ,  0 ,Aatrox,Cassiopeia,Irelia,Ezreal,Morgana
+2019.0,spring,LEC,2,Fnatic,FC Schalke,1.0,38:23,OK,blue,S04,   VICTORY   ,79.0k,23,  11 ,  4 ,  2 ,  5 ,  1 ,Rakan,XinZhao,Karthus,Jayce,Olaf
+2019.0,spring,LEC,2,Fnatic,FC Schalke,1.0,38:23,OK,red,FNC,   DEFEAT   ,64.3k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Lucian,Alistar,Urgot,Draven,Irelia
+2019.0,spring,LEC,2,SK Gaming,Excel Esports,1.0,28:34,OK,blue,SK,   VICTORY   ,56.9k,8,  8 ,  1 ,  1 ,  4 ,  1 ,Galio,Zilean,Morgana,Nocturne,Sejuani
+2019.0,spring,LEC,2,SK Gaming,Excel Esports,1.0,28:34,OK,red,XL,   DEFEAT   ,42.0k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Aatrox,Lucian,Leblanc,XinZhao
+2019.0,spring,LEC,2,Rogue,G2,1.0,23:11,OK,blue,G2,   VICTORY   ,46.8k,17,  9 ,  1 ,  0 ,  2 ,  1 ,Urgot,Galio,Lissandra,Alistar,Thresh
+2019.0,spring,LEC,2,Rogue,G2,1.0,23:11,OK,red,RGE,   DEFEAT   ,35.9k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Aatrox,Akali,XinZhao,Sejuani
+2019.0,spring,LEC,2,Origen,Splyce,1.0,31:29,OK,blue,SPY,   VICTORY   ,65.4k,14,  11 ,  2 ,  2 ,  3 ,  1 ,Swain,Akali,Lucian,Vayne,Rakan
+2019.0,spring,LEC,2,Origen,Splyce,1.0,31:29,OK,red,OG,   DEFEAT   ,49.3k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Karthus,Aatrox,Morgana,TahmKench
+2019.0,spring,LEC,2,Misfits,Team Vitality,1.0,26:33,OK,blue,MSF,   DEFEAT   ,42.0k,6,  1 ,  0 ,  0 ,  1 ,  1 ,Jayce,Cassiopeia,Irelia,Morgana,Thresh
+2019.0,spring,LEC,2,Misfits,Team Vitality,1.0,26:33,OK,red,VIT,   VICTORY   ,54.3k,18,  11 ,  3 ,  1 ,  2 ,  0 ,Camille,Rakan,Braum,Nocturne,Khazix
+2019.0,spring,LEC,3,SK Gaming,G2,1.0,25:18,OK,blue,SK,   DEFEAT   ,41.2k,8,  1 ,  0 ,  0 ,  0 ,  0 ,Jayce,Karthus,Cassiopeia,Ryze,Syndra
+2019.0,spring,LEC,3,SK Gaming,G2,1.0,25:18,OK,red,G2,   VICTORY   ,49.0k,18,  7 ,  1 ,  1 ,  2 ,  1 ,Aatrox,Lissandra,Akali,XinZhao,Camille
+2019.0,spring,LEC,3,FC Schalke,Splyce,1.0,35:20,OK,blue,SPY,   DEFEAT   ,64.1k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Lissandra,Akali,Lucian,Thresh,Jayce
+2019.0,spring,LEC,3,FC Schalke,Splyce,1.0,35:20,OK,red,S04,   VICTORY   ,73.9k,16,  11 ,  5 ,  2 ,  2 ,  0 ,Cassiopeia,Karthus,Urgot,Kaisa,Vayne
+2019.0,spring,LEC,3,Rogue,Fnatic,1.0,32:02,OK,blue,FNC,   VICTORY   ,60.4k,15,  11 ,  2 ,  1 ,  3 ,  1 ,Jayce,Kennen,Draven,Karthus,Lissandra
+2019.0,spring,LEC,3,Rogue,Fnatic,1.0,32:02,OK,red,RGE,   DEFEAT   ,54.2k,8,  5 ,  0 ,  0 ,  1 ,  0 ,Lucian,Akali,Cassiopeia,Nocturne,LeeSin
+2019.0,spring,LEC,3,Excel Esports,Misfits,1.0,34:37,OK,blue,XL,   VICTORY   ,66.2k,12,  11 ,  3 ,  1 ,  2 ,  1 ,Draven,Jayce,Akali,Leblanc,Galio
+2019.0,spring,LEC,3,Excel Esports,Misfits,1.0,34:37,OK,red,MSF,   DEFEAT   ,57.5k,3,  4 ,  0 ,  0 ,  3 ,  0 ,Cassiopeia,Aatrox,Lucian,Lissandra,Olaf
+2019.0,spring,LEC,3,Origen,Team Vitality,1.0,43:12,OK,blue,VIT,   GEWONNEN   ,77.2 k,16,  11 ,  5 ,  2 ,  2 ,  1 ,Braum,Aatrox,XinZhao,Camille,Ryze
+2019.0,spring,LEC,3,Origen,Team Vitality,1.0,43:12,OK,red,OG,   VERLOREN   ,67.8 k,8,  4 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Akali,Draven,Karthus,Olaf
+2019.0,spring,LEC,3,G2,Splyce,1.0,39:59,OK,blue,G2,   GEWONNEN   ,80.4 k,28,  8 ,  1 ,  0 ,  1 ,  1 ,Urgot,Lissandra,Karthus,Nocturne,Ezreal
+2019.0,spring,LEC,3,G2,Splyce,1.0,39:59,OK,red,SPY,   VERLOREN   ,72.0 k,14,  5 ,  0 ,  1 ,  3 ,  0 ,Akali,Cassiopeia,Braum,Gragas,Thresh
+2019.0,spring,LEC,3,Excel Esports,FC Schalke,1.0,29:51,OK,blue,XL,   VERLOREN   ,47.4 k,6,  1 ,  0 ,  0 ,  1 ,  1 ,Lissandra,Lucian,Akali,Jayce,Leblanc
+2019.0,spring,LEC,3,Excel Esports,FC Schalke,1.0,29:51,OK,red,S04,   GEWONNEN   ,64.1 k,9,  11 ,  3 ,  2 ,  4 ,  0 ,Cassiopeia,Urgot,Sion,Yasuo,Irelia
+2019.0,spring,LEC,3,SK Gaming,Origen,1.0,37:07,OK,blue,SK,   VERLOREN   ,64.0 k,11,  4 ,  0 ,  0 ,  1 ,  1 ,Jayce,Ryze,Lucian,Leblanc,
+2019.0,spring,LEC,3,SK Gaming,Origen,1.0,37:07,OK,red,OG,   GEWONNEN   ,75.1 k,22,  7 ,  1 ,  1 ,  3 ,  0 ,Akali,Cassiopeia,Urgot,Morgana,Viktor
+2019.0,spring,LEC,3,Rogue,Team Vitality,1.0,33:16,OK,blue,RGE,   VERLOREN   ,60.1 k,13,  5 ,  1 ,  1 ,  1 ,  0 ,Draven,Urgot,Leblanc,LeeSin,Thresh
+2019.0,spring,LEC,3,Rogue,Team Vitality,1.0,33:16,OK,red,VIT,   GEWONNEN   ,61.0 k,3,  7 ,  1 ,  0 ,  3 ,  1 ,Aatrox,Cassiopeia,Sejuani,JarvanIV,Nocturne
+2019.0,spring,LEC,3,Misfits,Fnatic,1.0,33:43,OK,blue,MSF,   GEWONNEN   ,67.0 k,17,  11 ,  3 ,  2 ,  5 ,  1 ,Cassiopeia,Thresh,Lissandra,Syndra,Swain
+2019.0,spring,LEC,3,Misfits,Fnatic,1.0,33:43,OK,red,FNC,   VERLOREN   ,50.0 k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Draven,Lucian,Akali,Camille,Khazix
+2019.0,spring,LEC,4,FC Schalke,Misfits,1.0,26:08,OK,blue,S04,   GEWONNEN   ,54.7 k,15,  11 ,  3 ,  1 ,  2 ,  0 ,Draven,Kaisa,Urgot,Sion,Nocturne
+2019.0,spring,LEC,4,FC Schalke,Misfits,1.0,26:08,OK,red,MSF,   VERLOREN   ,41.4 k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Thresh,Lucian,Gragas,Olaf,Camille
+2019.0,spring,LEC,4,SK Gaming,Splyce,1.0,45:50,OK,blue,SK,   VERLOREN   ,78.8 k,14,  7 ,  1 ,  2 ,  2 ,  0 ,Karthus,Ryze,Sylas,Ornn,Olaf
+2019.0,spring,LEC,4,SK Gaming,Splyce,1.0,45:50,OK,red,SPY,   GEWONNEN   ,86.9 k,19,  10 ,  2 ,  1 ,  4 ,  1 ,Alistar,Akali,Braum,Lissandra,Corki
+2019.0,spring,LEC,4,Origen,Rogue,1.0,31:36,OK,blue,OG,   GEWONNEN   ,62.0 k,12,  11 ,  2 ,  2 ,  4 ,  0 ,Nocturne,Ezreal,Aatrox,Olaf,Lissandra
+2019.0,spring,LEC,4,Origen,Rogue,1.0,31:36,OK,red,RGE,   VERLOREN   ,49.1 k,4,  4 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Akali,Lucian,Sejuani,Gragas
+2019.0,spring,LEC,4,Fnatic,Excel Esports,1.0,28:04,OK,blue,FNC,   GEWONNEN   ,52.3 k,4,  11 ,  3 ,  1 ,  3 ,  1 ,Lucian,Kennen,Alistar,Gragas,Karthus
+2019.0,spring,LEC,4,Fnatic,Excel Esports,1.0,28:04,OK,red,XL,   VERLOREN   ,42.1 k,0,  2 ,  0 ,  0 ,  0 ,  0 ,Akali,Cassiopeia,Vayne,Lissandra,Ivern
+2019.0,spring,LEC,4,G2,Team Vitality,1.0,27:32,OK,blue,G2,   GEWONNEN   ,57.9 k,21,  11 ,  3 ,  1 ,  2 ,  1 ,Ryze,Draven,Cassiopeia,LeeSin,Camille
+2019.0,spring,LEC,4,G2,Team Vitality,1.0,27:32,OK,red,VIT,   VERLOREN   ,44.2 k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Sylas,Jayce,Urgot,Viktor,XinZhao
+2019.0,spring,LEC,4,Origen,FC Schalke,1.0,30:01,OK,blue,S04,   DEFEAT   ,49.7k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Draven,Cassiopeia,Urgot,Syndra,Zoe
+2019.0,spring,LEC,4,Origen,FC Schalke,1.0,30:01,OK,red,OG,   VICTORY   ,58.6k,13,  11 ,  3 ,  1 ,  4 ,  1 ,Akali,Jayce,Lucian,Gragas,Morgana
+2019.0,spring,LEC,4,SK Gaming,Rogue,1.0,33:08,OK,blue,SK,   VICTORY   ,64.2k,15,  9 ,  1 ,  1 ,  3 ,  1 ,Karthus,Sylas,Kennen,Ezreal,Sejuani
+2019.0,spring,LEC,4,SK Gaming,Rogue,1.0,33:08,OK,red,RGE,   DEFEAT   ,55.5k,9,  5 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Braum,Alistar,Morgana,LeeSin
+2019.0,spring,LEC,4,Misfits,Splyce,1.0,45:09,OK,blue,SPY,   VICTORY   ,86.7k,17,  7 ,  1 ,  0 ,  3 ,  1 ,Draven,Akali,Varus,Olaf,Sylas
+2019.0,spring,LEC,4,Misfits,Splyce,1.0,45:09,OK,red,MSF,   DEFEAT   ,84.2k,11,  8 ,  2 ,  3 ,  2 ,  0 ,Cassiopeia,Lucian,Urgot,Ezreal,Viktor
+2019.0,spring,LEC,4,Excel Esports,Team Vitality,1.0,32:58,OK,blue,VIT,   VICTORY   ,64.6k,12,  11 ,  2 ,  2 ,  0 ,  0 ,Lucian,Morgana,Sylas,Irelia,Yasuo
+2019.0,spring,LEC,4,Excel Esports,Team Vitality,1.0,32:58,OK,red,XL,   DEFEAT   ,56.2k,6,  3 ,  0 ,  0 ,  4 ,  1 ,Cassiopeia,Draven,Thresh,Alistar,Leblanc
+2019.0,spring,LEC,4,Fnatic,G2,1.0,20:35,OK,blue,G2,   VICTORY   ,44.2k,16,  8 ,  1 ,  0 ,  3 ,  1 ,Rakan,Urgot,Cassiopeia,Kaisa,Kennen
+2019.0,spring,LEC,4,Fnatic,G2,1.0,20:35,OK,red,FNC,   DEFEAT   ,30.1k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Karthus,Sylas,Camille,Gragas
+2019.0,spring,LEC,5,Fnatic,Splyce,1.0,34:12,OK,blue,FNC,   GEWONNEN   ,67.4 k,20,  11 ,  3 ,  1 ,  4 ,  1 ,Karthus,Sylas,Yorick,Nocturne,Ivern
+2019.0,spring,LEC,5,Fnatic,Splyce,1.0,34:12,OK,red,SPY,   VERLOREN   ,55.8 k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Urgot,Lucian,Tristana,LeeSin,Sejuani
+2019.0,spring,LEC,5,Origen,Excel Esports,1.0,29:25,OK,blue,OG,   GEWONNEN   ,56.6 k,17,  9 ,  1 ,  1 ,  2 ,  1 ,Karthus,Sylas,Lucian,JarvanIV,Olaf
+2019.0,spring,LEC,5,Origen,Excel Esports,1.0,29:25,OK,red,XL,   VERLOREN   ,46.4 k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Draven,Jayce,Lissandra,Ryze
+2019.0,spring,LEC,5,Team Vitality,SK Gaming,1.0,28:38,OK,blue,VIT,   VERLOREN   ,46.5 k,9,  2 ,  0 ,  0 ,  0 ,  0 ,Lucian,Cassiopeia,Braum,Sejuani,Kennen
+2019.0,spring,LEC,5,Team Vitality,SK Gaming,1.0,28:38,OK,red,SK,   GEWONNEN   ,55.1 k,16,  10 ,  2 ,  2 ,  3 ,  1 ,Draven,Karthus,Sylas,Leblanc,Yasuo
+2019.0,spring,LEC,5,Rogue,FC Schalke,1.0,34:08,OK,blue,RGE,   VERLOREN   ,53.8 k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Lissandra,Zoe,Thresh,Sejuani,Olaf
+2019.0,spring,LEC,5,Rogue,FC Schalke,1.0,34:08,OK,red,S04,   GEWONNEN   ,65.3 k,8,  11 ,  3 ,  2 ,  3 ,  1 ,Sylas,Lucian,Alistar,Karthus,Nocturne
+2019.0,spring,LEC,5,Misfits,G2,1.0,28:39,OK,blue,MSF,   VERLOREN   ,43.3 k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Sylas,Cassiopeia,Jayce,Karma,Ivern
+2019.0,spring,LEC,5,Misfits,G2,1.0,28:39,OK,red,G2,   GEWONNEN   ,60.6 k,14,  11 ,  3 ,  1 ,  3 ,  0 ,Draven,Lucian,Urgot,Leblanc,Yorick
+2019.0,spring,LEC,5,SK Gaming,Fnatic,1.0,31:13,OK,blue,SK,   VICTORY   ,58.8k,12,  10 ,  2 ,  1 ,  3 ,  1 ,Sivir,Rakan,Karma,Elise,Ivern
+2019.0,spring,LEC,5,SK Gaming,Fnatic,1.0,31:13,OK,red,FNC,   DEFEAT   ,54.7k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Alistar,Lucian,Kennen,Pyke,Lissandra
+2019.0,spring,LEC,5,Excel Esports,Splyce,1.0,42:10,OK,blue,SPY,   VICTORY   ,79.0k,11,  11 ,  3 ,  2 ,  4 ,  0 ,Leblanc,Jayce,Yasuo,Sylas,Olaf
+2019.0,spring,LEC,5,Excel Esports,Splyce,1.0,42:10,OK,red,XL,   DEFEAT   ,65.8k,11,  3 ,  0 ,  0 ,  0 ,  1 ,Karthus,Urgot,Kennen,Syndra,Lissandra
+2019.0,spring,LEC,5,FC Schalke,Team Vitality,1.0,27:43,OK,blue,S04,   DEFEAT   ,42.3k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Draven,Olaf,Leblanc,Morgana,Gragas
+2019.0,spring,LEC,5,FC Schalke,Team Vitality,1.0,27:43,OK,red,VIT,   VICTORY   ,56.3k,18,  8 ,  1 ,  1 ,  4 ,  1 ,Ezreal,Lucian,Thresh,Kennen,Jayce
+2019.0,spring,LEC,5,Rogue,Misfits,1.0,27:11,OK,blue,MSF,   DEFEAT   ,43.3k,4,  3 ,  0 ,  0 ,  1 ,  1 ,Sylas,Cassiopeia,Olaf,Leblanc,Yasuo
+2019.0,spring,LEC,5,Rogue,Misfits,1.0,27:11,OK,red,RGE,   VICTORY   ,49.3k,9,  6 ,  1 ,  1 ,  2 ,  0 ,Draven,Thresh,Jayce,Zoe,Sejuani
+2019.0,spring,LEC,5,Origen,G2,1.0,33:09,OK,blue,G2,   DEFEAT   ,54.0k,5,  3 ,  0 ,  0 ,  0 ,  1 ,Alistar,Draven,Yasuo,Leblanc,Braum
+2019.0,spring,LEC,5,Origen,G2,1.0,33:09,OK,red,OG,   VICTORY   ,65.6k,17,  9 ,  1 ,  2 ,  4 ,  0 ,Lucian,Urgot,Jayce,JarvanIV,Olaf
+2019.0,spring,LEC,6,G2,FC Schalke,1.0,23:07,OK,blue,G2,   GEWONNEN   ,43.8 k,13,  7 ,  1 ,  0 ,  1 ,  1 ,Gragas,Draven,Ryze,Thresh,JarvanIV
+2019.0,spring,LEC,6,G2,FC Schalke,1.0,23:07,OK,red,S04,   VERLOREN   ,37.8 k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Karthus,Yasuo,Lucian,Sivir,Olaf
+2019.0,spring,LEC,6,Excel Esports,Rogue,1.0,43:03,OK,blue,XL,   VERLOREN   ,74.3 k,10,  6 ,  0 ,  1 ,  0 ,  1 ,Sylas,Irelia,Kled,Lissandra,Corki
+2019.0,spring,LEC,6,Excel Esports,Rogue,1.0,43:03,OK,red,RGE,   GEWONNEN   ,80.1 k,16,  11 ,  6 ,  2 ,  6 ,  0 ,Yasuo,Jayce,Braum,Syndra,Leblanc
+2019.0,spring,LEC,6,Splyce,Team Vitality,1.0,27:42,OK,blue,SPY,   VERLOREN   ,45.9 k,11,  1 ,  0 ,  0 ,  1 ,  0 ,Ryze,Jayce,Leblanc,Galio,Kennen
+2019.0,spring,LEC,6,Splyce,Team Vitality,1.0,27:42,OK,red,VIT,   GEWONNEN   ,58.0 k,18,  11 ,  3 ,  1 ,  2 ,  1 ,Karthus,Braum,Urgot,Poppy,Aatrox
+2019.0,spring,LEC,6,SK Gaming,Misfits,1.0,42:12,OK,blue,SK,   VERLOREN   ,73.6 k,11,  1 ,  0 ,  1 ,  0 ,  0 ,Draven,Elise,Yasuo,Leblanc,Nunu
+2019.0,spring,LEC,6,SK Gaming,Misfits,1.0,42:12,OK,red,MSF,   GEWONNEN   ,80.3 k,18,  11 ,  4 ,  3 ,  4 ,  1 ,Karthus,Urgot,Jayce,Olaf,Nocturne
+2019.0,spring,LEC,6,Fnatic,Origen,1.0,28:13,OK,blue,FNC,   GEWONNEN   ,57.2 k,23,  9 ,  1 ,  0 ,  3 ,  1 ,Draven,Yasuo,Karthus,Olaf,JarvanIV
+2019.0,spring,LEC,6,Fnatic,Origen,1.0,28:13,OK,red,OG,   VERLOREN   ,44.2 k,3,  2 ,  0 ,  1 ,  1 ,  0 ,Lucian,Tristana,Thresh,Sivir,Yorick
+2019.0,spring,LEC,6,G2,Excel Esports,1.0,29:09,OK,blue,XL,   DEFEAT   ,49.1k,9,  1 ,  0 ,  0 ,  2 ,  0 ,Karthus,Jayce,Leblanc,Lissandra,LeeSin
+2019.0,spring,LEC,6,G2,Excel Esports,1.0,29:09,OK,red,G2,   VICTORY   ,58.9k,20,  11 ,  3 ,  1 ,  1 ,  1 ,Lucian,Urgot,Zilean,TahmKench,Thresh
+2019.0,spring,LEC,6,SK Gaming,FC Schalke,1.0,37:18,OK,blue,SK,   VICTORY   ,75.2k,13,  10 ,  2 ,  1 ,  4 ,  1 ,Ryze,Thresh,Zoe,Sivir,Sion
+2019.0,spring,LEC,6,SK Gaming,FC Schalke,1.0,37:18,OK,red,S04,   DEFEAT   ,62.6k,7,  1 ,  0 ,  1 ,  2 ,  0 ,Karthus,Lucian,Braum,Alistar,Galio
+2019.0,spring,LEC,6,Origen,Misfits,1.0,42:57,OK,blue,OG,   DEFEAT   ,74.6k,9,  5 ,  2 ,  0 ,  3 ,  1 ,JarvanIV,Galio,Draven,Irelia,Sejuani
+2019.0,spring,LEC,6,Origen,Misfits,1.0,42:57,OK,red,MSF,   VICTORY   ,81.4k,12,  10 ,  3 ,  3 ,  3 ,  0 ,Yasuo,Cassiopeia,Lucian,Ezreal,Leblanc
+2019.0,spring,LEC,6,Splyce,Rogue,1.0,39:07,OK,blue,RGE,   DEFEAT   ,63.6k,8,  4 ,  0 ,  0 ,  3 ,  1 ,Karthus,Zoe,Draven,Alistar,Shen
+2019.0,spring,LEC,6,Splyce,Rogue,1.0,39:07,OK,red,SPY,   VICTORY   ,78.4k,23,  11 ,  3 ,  1 ,  2 ,  0 ,Jayce,Yasuo,Lucian,Lissandra,Ryze
+2019.0,spring,LEC,6,Team Vitality,Fnatic,1.0,41:40,OK,blue,FNC,   VICTORY   ,78.4k,15,  9 ,  1 ,  2 ,  3 ,  1 ,Draven,Yasuo,Karthus,Ryze,Ekko
+2019.0,spring,LEC,6,Team Vitality,Fnatic,1.0,41:40,OK,red,VIT,   DEFEAT   ,74.4k,14,  7 ,  1 ,  0 ,  1 ,  0 ,Braum,Galio,Urgot,Aatrox,Thresh
+2019.0,spring,LEC,7,Origen,Splyce,1.0,33:29,OK,blue,OG,   VICTORY   ,60.5k,11,  9 ,  2 ,  1 ,  4 ,  1 ,Karthus,Leblanc,Braum,Galio,Blitzcrank
+2019.0,spring,LEC,7,Origen,Splyce,1.0,33:29,OK,red,SPY,   DEFEAT   ,54.6k,2,  3 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Kalista,Jayce,Lissandra,Olaf
+2019.0,spring,LEC,7,SK Gaming,Excel Esports,1.0,30:00,OK,blue,SK,   DEFEAT   ,46.2k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Zilean,Sylas,JarvanIV,Elise,Jayce
+2019.0,spring,LEC,7,SK Gaming,Excel Esports,1.0,30:00,OK,red,XL,   VICTORY   ,58.6k,16,  9 ,  1 ,  1 ,  3 ,  1 ,Lucian,Lissandra,Galio,Leblanc,Syndra
+2019.0,spring,LEC,7,Team Vitality,Misfits,1.0,32:13,OK,blue,VIT,   VICTORY   ,60.9k,13,  10 ,  1 ,  1 ,  2 ,  0 ,Irelia,Yasuo,Lucian,Soraka,Yorick
+2019.0,spring,LEC,7,Team Vitality,Misfits,1.0,32:13,OK,red,MSF,   DEFEAT   ,50.8k,6,  3 ,  0 ,  0 ,  0 ,  1 ,Zoe,Jayce,Draven,Elise,Leblanc
+2019.0,spring,LEC,7,G2,Rogue,1.0,27:27,OK,blue,G2,   VICTORY   ,54.7k,17,  9 ,  1 ,  1 ,  3 ,  0 ,JarvanIV,Braum,Kled,Karthus,Nocturne
+2019.0,spring,LEC,7,G2,Rogue,1.0,27:27,OK,red,RGE,   DEFEAT   ,43.8k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Jayce,Galio,Leblanc,Kennen,LeeSin
+2019.0,spring,LEC,7,Fnatic,FC Schalke,1.0,30:28,OK,blue,FNC,   VICTORY   ,60.2k,10,  11 ,  3 ,  1 ,  3 ,  1 ,Thresh,RekSai,Ivern,Jax,Olaf
+2019.0,spring,LEC,7,Fnatic,FC Schalke,1.0,30:28,OK,red,S04,   DEFEAT   ,47.2k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Galio,Lucian,Jayce,Tristana,Jhin
+2019.0,spring,LEC,7,SK Gaming,G2,1.0,33:16,OK,blue,G2,   DEFEAT   ,64.7k,22,  9 ,  2 ,  1 ,  3 ,  0 ,Syndra,Ezreal,Karthus,Tristana,Vayne
+2019.0,spring,LEC,7,SK Gaming,G2,1.0,33:16,OK,red,SK,   VICTORY   ,63.7k,23,  8 ,  1 ,  1 ,  1 ,  1 ,Jayce,Lucian,Galio,Elise,Lissandra
+2019.0,spring,LEC,7,FC Schalke,Splyce,1.0,26:55,OK,blue,S04,   DEFEAT   ,43.7k,2,  2 ,  0 ,  0 ,  2 ,  0 ,Karthus,Leblanc,Braum,Sivir,Kaisa
+2019.0,spring,LEC,7,FC Schalke,Splyce,1.0,26:55,OK,red,SPY,   VICTORY   ,51.3k,10,  8 ,  1 ,  1 ,  1 ,  1 ,Jayce,Lucian,Lissandra,Nocturne,RekSai
+2019.0,spring,LEC,7,Rogue,Fnatic,1.0,30:55,OK,blue,FNC,   VICTORY   ,60.4k,12,  11 ,  3 ,  1 ,  2 ,  1 ,Kled,Karthus,Lucian,Jax,Olaf
+2019.0,spring,LEC,7,Rogue,Fnatic,1.0,30:55,OK,red,RGE,   DEFEAT   ,49.8k,6,  2 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Galio,Jayce,Nocturne,RekSai
+2019.0,spring,LEC,7,Excel Esports,Misfits,1.0,40:40,OK,blue,MSF,   VICTORY   ,80.5k,21,  10 ,  2 ,  1 ,  5 ,  0 ,Zoe,Ryze,Zilean,Olaf,Renekton
+2019.0,spring,LEC,7,Excel Esports,Misfits,1.0,40:40,OK,red,XL,   DEFEAT   ,75.2k,22,  5 ,  1 ,  2 ,  0 ,  1 ,Lucian,Cassiopeia,Jayce,Karthus,Irelia
+2019.0,spring,LEC,7,Origen,Team Vitality,1.0,34:30,OK,blue,OG,   VICTORY   ,65.2k,6,  11 ,  3 ,  1 ,  4 ,  0 ,JarvanIV,Karthus,Sylas,Elise,Yorick
+2019.0,spring,LEC,7,Origen,Team Vitality,1.0,34:30,OK,red,VIT,   DEFEAT   ,56.7k,3,  3 ,  0 ,  0 ,  0 ,  1 ,Braum,Kennen,Jayce,Yasuo,Irelia
+2019.0,spring,LEC,8,G2,Splyce,1.0,41:45,OK,blue,G2,   DEFEAT   ,72.2k,12,  5 ,  0 ,  0 ,  2 ,  1 ,Nocturne,Braum,Ryze,Ezreal,Poppy
+2019.0,spring,LEC,8,G2,Splyce,1.0,41:45,OK,red,SPY,   VICTORY   ,84.2k,27,  11 ,  3 ,  2 ,  4 ,  0 ,Jayce,Neeko,Lucian,Kalista,Draven
+2019.0,spring,LEC,8,FC Schalke,Excel Esports,1.0,42:10,OK,blue,S04,   DEFEAT   ,71.9k,13,  2 ,  0 ,  0 ,  2 ,  0 ,Karthus,Leblanc,Nocturne,Kalista,Jinx
+2019.0,spring,LEC,8,FC Schalke,Excel Esports,1.0,42:10,OK,red,XL,   VICTORY   ,80.7k,20,  11 ,  3 ,  3 ,  3 ,  1 ,Lucian,Lissandra,Jayce,Kennen,Ryze
+2019.0,spring,LEC,8,SK Gaming,Origen,1.0,30:35,OK,blue,SK,   DEFEAT   ,50.7k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Draven,Kalista,Karthus,Thresh,Galio
+2019.0,spring,LEC,8,SK Gaming,Origen,1.0,30:35,OK,red,OG,   VICTORY   ,57.1k,9,  8 ,  1 ,  0 ,  4 ,  1 ,Lucian,Lissandra,JarvanIV,Jax,Syndra
+2019.0,spring,LEC,8,Team Vitality,Rogue,1.0,22:11,OK,blue,VIT,   VICTORY   ,47.9k,19,  9 ,  1 ,  0 ,  1 ,  1 ,Braum,Kennen,Karthus,Nocturne,LeeSin
+2019.0,spring,LEC,8,Team Vitality,Rogue,1.0,22:11,OK,red,RGE,   DEFEAT   ,33.7k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Jayce,JarvanIV,Lucian,Irelia,Neeko
+2019.0,spring,LEC,8,Fnatic,Misfits,1.0,35:00,OK,blue,FNC,   VICTORY   ,69.8k,17,  9 ,  1 ,  2 ,  3 ,  0 ,Draven,Kalista,Karthus,RekSai,Olaf
+2019.0,spring,LEC,8,Fnatic,Misfits,1.0,35:00,OK,red,MSF,   DEFEAT   ,57.1k,3,  3 ,  0 ,  0 ,  2 ,  1 ,Tristana,Elise,LeeSin,Nocturne,Jayce
+2019.0,spring,LEC,8,Misfits,FC Schalke,1.0,29:14,OK,blue,MSF,   DEFEAT   ,45.0k,3,  1 ,  0 ,  0 ,  2 ,  0 ,Jayce,Thresh,Lissandra,Ryze,Yorick
+2019.0,spring,LEC,8,Misfits,FC Schalke,1.0,29:14,OK,red,S04,   VICTORY   ,60.5k,17,  11 ,  2 ,  2 ,  1 ,  1 ,Draven,Lucian,Leblanc,Irelia,Renekton
+2019.0,spring,LEC,8,SK Gaming,Splyce,1.0,36:46,OK,blue,SK,   DEFEAT   ,63.6k,10,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Braum,Ryze,Sivir,Tristana
+2019.0,spring,LEC,8,SK Gaming,Splyce,1.0,36:46,OK,red,SPY,   VICTORY   ,72.3k,25,  0 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Lucian,Alistar,Kalista,Vladimir
+2019.0,spring,LEC,8,Excel Esports,Fnatic,1.0,24:40,OK,blue,XL,   DEFEAT   ,38.8k,6,  3 ,  0 ,  0 ,  0 ,  1 ,Lissandra,Galio,Jayce,Tristana,Ezreal
+2019.0,spring,LEC,8,Excel Esports,Fnatic,1.0,24:40,OK,red,FNC,   VICTORY   ,52.0k,16,  8 ,  1 ,  1 ,  2 ,  0 ,Thresh,JarvanIV,Lucian,Cassiopeia,Irelia
+2019.0,spring,LEC,8,Origen,Rogue,1.0,29:15,OK,blue,RGE,   DEFEAT   ,45.0k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Draven,Irelia,Leblanc,Zoe,Syndra
+2019.0,spring,LEC,8,Origen,Rogue,1.0,29:15,OK,red,OG,   VICTORY   ,56.1k,15,  11 ,  3 ,  0 ,  3 ,  1 ,Lucian,Cassiopeia,Jayce,Kennen,Vladimir
+2019.0,spring,LEC,8,G2,Team Vitality,1.0,39:43,OK,blue,VIT,   DEFEAT   ,77.3k,18,  7 ,  1 ,  2 ,  3 ,  1 ,Karthus,Irelia,Neeko,Syndra,Renekton
+2019.0,spring,LEC,8,G2,Team Vitality,1.0,39:43,OK,red,G2,   VICTORY   ,78.1k,21,  10 ,  2 ,  1 ,  1 ,  0 ,Jayce,Leblanc,Draven,Alistar,Braum
+2019.0,spring,LEC,9,Misfits,Splyce,1.0,40:45,OK,blue,MSF,   DEFEAT   ,66.2k,8,  5 ,  2 ,  0 ,  3 ,  1 ,Ryze,Karthus,Jayce,Jax,Renekton
+2019.0,spring,LEC,9,Misfits,Splyce,1.0,40:45,OK,red,SPY,   VICTORY   ,79.0k,17,  11 ,  3 ,  2 ,  2 ,  0 ,Draven,Alistar,Akali,RekSai,Kennen
+2019.0,spring,LEC,9,SK Gaming,Rogue,1.0,39:36,OK,blue,SK,   VICTORY   ,73.4k,20,  9 ,  2 ,  1 ,  2 ,  1 ,TahmKench,Jayce,Yorick,Draven,Irelia
+2019.0,spring,LEC,9,SK Gaming,Rogue,1.0,39:36,OK,red,RGE,   DEFEAT   ,64.5k,18,  3 ,  0 ,  0 ,  4 ,  0 ,Kalista,Lissandra,Lucian,RekSai,Nocturne
+2019.0,spring,LEC,9,Fnatic,G2,1.0,48:05,OK,blue,FNC,   VICTORY   ,87.6k,17,  11 ,  6 ,  4 ,  4 ,  0 ,Leblanc,Jayce,Akali,Kalista,Draven
+2019.0,spring,LEC,9,Fnatic,G2,1.0,48:05,OK,red,G2,   DEFEAT   ,88.7k,15,  8 ,  1 ,  1 ,  2 ,  1 ,Braum,Galio,Lissandra,Renekton,Aatrox
+2019.0,spring,LEC,9,Excel Esports,Team Vitality,1.0,28:31,OK,blue,XL,   VICTORY   ,57.2k,16,  10 ,  2 ,  1 ,  3 ,  1 ,Draven,Jayce,JarvanIV,Ezreal,Elise
+2019.0,spring,LEC,9,Excel Esports,Team Vitality,1.0,28:31,OK,red,VIT,   DEFEAT   ,45.4k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Sejuani,Kennen,Lissandra,Leblanc
+2019.0,spring,LEC,9,FC Schalke,Origen,1.0,30:34,OK,blue,S04,   DEFEAT   ,49.5k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Draven,Kalista,Jayce,Yorick,Renekton
+2019.0,spring,LEC,9,FC Schalke,Origen,1.0,30:34,OK,red,OG,   VICTORY   ,61.8k,14,  10 ,  2 ,  1 ,  4 ,  0 ,Lucian,Kennen,Vayne,Galio,Vladimir
+2019.0,spring,LEC,9,G2,Misfits,1.0,35:38,OK,blue,G2,   DEFEAT   ,61.3k,15,  5 ,  0 ,  0 ,  1 ,  1 ,Galio,Braum,Lissandra,Renekton,Poppy
+2019.0,spring,LEC,9,G2,Misfits,1.0,35:38,OK,red,MSF,   VICTORY   ,69.3k,21,  10 ,  2 ,  2 ,  3 ,  0 ,Jayce,Karthus,Leblanc,Akali,Irelia
+2019.0,spring,LEC,9,FC Schalke,Rogue,1.0,34:47,OK,blue,RGE,   DEFEAT   ,59.5k,7,  3 ,  0 ,  0 ,  2 ,  1 ,Leblanc,Alistar,Tristana,Zoe,Syndra
+2019.0,spring,LEC,9,FC Schalke,Rogue,1.0,34:47,OK,red,S04,   VICTORY   ,68.0k,16,  11 ,  3 ,  1 ,  3 ,  0 ,Cassiopeia,Lucian,Kalista,Jax,Kennen
+2019.0,spring,LEC,9,SK Gaming,Team Vitality,1.0,20:24,OK,blue,VIT,   DEFEAT   ,31.4k,1,  1 ,  0 ,  0 ,  0 ,  1 ,Yorick,Kalista,Nocturne,Aatrox,Poppy
+2019.0,spring,LEC,9,SK Gaming,Team Vitality,1.0,20:24,OK,red,SK,   VICTORY   ,42.2k,13,  8 ,  1 ,  0 ,  3 ,  0 ,Draven,Jayce,Renekton,Braum,Elise
+2019.0,spring,LEC,9,Excel Esports,Origen,1.0,29:33,OK,blue,XL,   DEFEAT   ,45.6k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Draven,Jayce,Alistar,Irelia,RekSai
+2019.0,spring,LEC,9,Excel Esports,Origen,1.0,29:33,OK,red,OG,   VICTORY   ,57.9k,14,  9 ,  1 ,  1 ,  4 ,  0 ,Lucian,Cassiopeia,JarvanIV,Aatrox,Vladimir
+2019.0,spring,LEC,9,Splyce,Fnatic,1.0,27:13,OK,blue,FNC,   VICTORY   ,54.5k,14,  10 ,  2 ,  1 ,  2 ,  1 ,Poppy,Ryze,Karthus,Nocturne,Kalista
+2019.0,spring,LEC,9,Splyce,Fnatic,1.0,27:13,OK,red,SPY,   DEFEAT   ,42.8k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Lucian,Jayce,Rakan,Sivir,RekSai
+2019.0,spring,LEC,Tiebreakers,SK Gaming,FC Schalke,1.0,26:28,OK,blue,SK,   VICTORY   ,50.2k,10,  10 ,  2 ,  1 ,  3 ,  0 ,Draven,Jayce,Yorick,Syndra,Viktor
+2019.0,spring,LEC,Tiebreakers,SK Gaming,FC Schalke,1.0,26:28,OK,red,S04,   DEFEAT   ,43.2k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Lucian,Leblanc,Lissandra,Nocturne,RekSai

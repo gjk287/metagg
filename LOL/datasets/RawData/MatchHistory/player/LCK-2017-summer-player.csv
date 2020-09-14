@@ -1,0 +1,220 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,summer,LCK,1,MVP,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,MVP,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,MVP,Jin Air,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,DragonX,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,DragonX,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Ever8,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Ever8,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Ever8,Afreeca,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Samsung Galaxy,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Samsung Galaxy,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,DragonX,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,DragonX,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,DragonX,bbq,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,ROX,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,ROX,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Afreeca,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Afreeca,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Afreeca,KT,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,ROX,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,ROX,Samsung Galaxy,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,ROX,Samsung Galaxy,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Ever8,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,Ever8,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,bbq,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,1,bbq,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Afreeca,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Afreeca,Samsung Galaxy,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Afreeca,Samsung Galaxy,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,ROX,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,ROX,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,ROX,KT,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Jin Air,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Jin Air,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,T1,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,T1,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,T1,DragonX,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,MVP,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,MVP,Samsung Galaxy,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Afreeca,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Afreeca,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Afreeca,bbq,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Jin Air,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Jin Air,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,Jin Air,DragonX,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,T1,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,T1,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,bbq,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,bbq,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,KT,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,2,KT,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,KT,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,KT,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,DragonX,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,DragonX,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,MVP,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,MVP,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Ever8,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Ever8,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Ever8,bbq,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Afreeca,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Afreeca,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Afreeca,ROX,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,KT,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,KT,Samsung Galaxy,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,KT,Samsung Galaxy,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,MVP,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,MVP,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Jin Air,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Jin Air,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,T1,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,T1,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,T1,Afreeca,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Samsung Galaxy,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,3,Samsung Galaxy,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,T1,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,T1,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,DragonX,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,DragonX,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,bbq,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,bbq,Samsung Galaxy,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,Afreeca,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,Afreeca,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,Ever8,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,Ever8,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,ROX,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,ROX,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,ROX,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,ROX,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,bbq,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,bbq,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,Samsung Galaxy,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,Samsung Galaxy,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,Samsung Galaxy,Jin Air,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,DragonX,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,DragonX,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,4,DragonX,Afreeca,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Ever8,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Ever8,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Ever8,ROX,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,KT,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,KT,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,KT,T1,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Samsung Galaxy,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Samsung Galaxy,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Samsung Galaxy,DragonX,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Jin Air,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Jin Air,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,bbq,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,bbq,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,KT,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,KT,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,KT,ROX,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Afreeca,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Afreeca,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Afreeca,DragonX,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Jin Air,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,Jin Air,Samsung Galaxy,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,bbq,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,bbq,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,bbq,Ever8,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,T1,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,5,T1,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,DragonX,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,DragonX,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,DragonX,MVP,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,Ever8,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,Ever8,Samsung Galaxy,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,ROX,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,ROX,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,ROX,Afreeca,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,Jin Air,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,Jin Air,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,Jin Air,KT,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,bbq,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,bbq,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,T1,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,T1,Samsung Galaxy,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,bbq,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,bbq,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,Afreeca,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,Afreeca,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,MVP,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,MVP,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,KT,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,KT,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,6,KT,Ever8,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Jin Air,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Jin Air,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,bbq,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,bbq,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,bbq,Afreeca,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,MVP,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,MVP,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,ROX,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,ROX,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,DragonX,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,DragonX,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Samsung Galaxy,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Samsung Galaxy,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Samsung Galaxy,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Samsung Galaxy,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Samsung Galaxy,MVP,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Ever8,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Ever8,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,KT,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,KT,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,KT,Afreeca,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Jin Air,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,7,Jin Air,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Samsung Galaxy,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Samsung Galaxy,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Samsung Galaxy,KT,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,ROX,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,ROX,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,MVP,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,MVP,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,MVP,bbq,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Ever8,T1,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Ever8,T1,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Samsung Galaxy,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Samsung Galaxy,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,DragonX,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,DragonX,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,DragonX,Jin Air,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,KT,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,KT,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,KT,bbq,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,T1,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,T1,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Jin Air,MVP,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Jin Air,MVP,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Jin Air,MVP,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Afreeca,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,8,Afreeca,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,KT,DragonX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,KT,DragonX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,Samsung Galaxy,ROX,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,Samsung Galaxy,ROX,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,Samsung Galaxy,ROX,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,Ever8,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,Ever8,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,MVP,Afreeca,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,MVP,Afreeca,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,MVP,Afreeca,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,T1,KT,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,T1,KT,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,T1,KT,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,ROX,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,ROX,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,ROX,bbq,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,MVP,Ever8,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,MVP,Ever8,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,Afreeca,Jin Air,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,Afreeca,Jin Air,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,T1,bbq,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,T1,bbq,2.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,T1,bbq,3.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,DragonX,Samsung Galaxy,1.0,this row doesn't have MH_url
+2017.0,summer,LCK,9,DragonX,Samsung Galaxy,2.0,this row doesn't have MH_url

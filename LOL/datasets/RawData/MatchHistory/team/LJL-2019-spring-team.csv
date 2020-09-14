@@ -1,0 +1,167 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,LJL,1,Sengoku Gaming,AXIZ,1.0,39:32,OK,blue,SG,   VICTORY   ,74.7k,18,  11 ,  3 ,  1 ,  3 ,  0 ,Irelia,Galio,Sejuani,Akali,Sion
+2019.0,spring,LJL,1,Sengoku Gaming,AXIZ,1.0,39:32,OK,red,AXZ,   DEFEAT   ,64.9k,9,  3 ,  0 ,  0 ,  3 ,  1 ,Cassiopeia,Lucian,Aatrox,XinZhao,LeeSin
+2019.0,spring,LJL,1,Rascal Jester,AXIZ,1.0,30:25,OK,blue,AXZ,   DEFEAT   ,44.8k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Irelia,Akali,Rakan,Zoe,Azir
+2019.0,spring,LJL,1,Rascal Jester,AXIZ,1.0,30:25,OK,red,RJ,   VICTORY   ,61.8k,19,  10 ,  1 ,  2 ,  3 ,  1 ,Cassiopeia,Lucian,Camille,Alistar,Nocturne
+2019.0,spring,LJL,1,Rascal Jester,Unsold Stuff Gaming,1.0,37:28,OK,blue,USG,   VICTORY   ,66.8k,23,  10 ,  2 ,  1 ,  2 ,  1 ,Zac,Irelia,Akali,Rakan,TahmKench
+2019.0,spring,LJL,1,Rascal Jester,Unsold Stuff Gaming,1.0,37:28,OK,red,RJ,   DEFEAT   ,56.9k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Lucian,Camille,LeeSin,Sejuani
+2019.0,spring,LJL,1,Sengoku Gaming,Unsold Stuff Gaming,1.0,37:29,OK,blue,SG,   DEFEAT   ,64.7k,14,  2 ,  0 ,  1 ,  1 ,  1 ,Akali,Galio,Irelia,Camille,Khazix
+2019.0,spring,LJL,1,Sengoku Gaming,Unsold Stuff Gaming,1.0,37:29,OK,red,USG,   VICTORY   ,73.5k,26,  7 ,  1 ,  0 ,  4 ,  0 ,Lucian,Ezreal,XinZhao,Morgana,Braum
+2019.0,spring,LJL,1,V3 Esports,Burning Core,1.0,25:32,OK,blue,BC,   VICTORY   ,49.8k,16,  9 ,  1 ,  0 ,  3 ,  1 ,Camille,Aatrox,Ezreal,Xayah,
+2019.0,spring,LJL,1,V3 Esports,Burning Core,1.0,25:32,OK,red,V3,   DEFEAT   ,36.2k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Akali,Viktor,Morgana,Alistar
+2019.0,spring,LJL,1,V3 Esports,Crest Gaming Act,1.0,40:11,OK,blue,V3,   DEFEAT   ,62.6k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Lucian,Akali,Morgana,Leona
+2019.0,spring,LJL,1,V3 Esports,Crest Gaming Act,1.0,40:11,OK,red,CGA,   VICTORY   ,75.8k,15,  8 ,  1 ,  1 ,  4 ,  1 ,Cassiopeia,Camille,Ryze,Galio,Lissandra
+2019.0,spring,LJL,1,Detonation FocusMe,Crest Gaming Act,1.0,27:22,OK,blue,DFM,   VICTORY   ,55.0k,15,  9 ,  2 ,  1 ,  3 ,  1 ,Irelia,Galio,Akali,Gragas,Zac
+2019.0,spring,LJL,1,Detonation FocusMe,Crest Gaming Act,1.0,27:22,OK,red,CGA,   DEFEAT   ,43.2k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Lucian,Camille,Kaisa,Sivir
+2019.0,spring,LJL,1,Detonation FocusMe,Burning Core,1.0,46:17,OK,blue,DFM,   VICTORY   ,76.4k,12,  7 ,  1 ,  1 ,  3 ,  0 ,Irelia,Galio,Akali,Sion,Leblanc
+2019.0,spring,LJL,1,Detonation FocusMe,Burning Core,1.0,46:17,OK,red,BC,   DEFEAT   ,76.6k,10,  9 ,  1 ,  2 ,  4 ,  0 ,Aatrox,Cassiopeia,Heimerdinger,Morgana,Pyke
+2019.0,spring,LJL,2,Sengoku Gaming,V3 Esports,1.0,35:19,OK,blue,SG,   DEFEAT   ,55.3k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Galio,Akali,TahmKench,Alistar
+2019.0,spring,LJL,2,Sengoku Gaming,V3 Esports,1.0,35:19,OK,red,V3,   VICTORY   ,66.0k,12,  11 ,  3 ,  1 ,  5 ,  1 ,Morgana,Cassiopeia,Lucian,Khazix,Zoe
+2019.0,spring,LJL,2,AXIZ,V3 Esports,1.0,29:35,OK,blue,V3,   VICTORY   ,59.2k,17,  10 ,  2 ,  1 ,  4 ,  1 ,Khazix,Irelia,Cassiopeia,Renekton,Kennen
+2019.0,spring,LJL,2,AXIZ,V3 Esports,1.0,29:35,OK,red,AXZ,   DEFEAT   ,44.1k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Olaf,Aatrox,Lucian,Thresh,Alistar
+2019.0,spring,LJL,2,Rascal Jester,Sengoku Gaming,1.0,26:02,OK,blue,SG,   VICTORY   ,50.7k,13,  9 ,  2 ,  1 ,  1 ,  0 ,Akali,Irelia,Galio,Vladimir,Varus
+2019.0,spring,LJL,2,Rascal Jester,Sengoku Gaming,1.0,26:02,OK,red,RJ,   DEFEAT   ,38.8k,5,  2 ,  0 ,  0 ,  2 ,  1 ,Cassiopeia,Lucian,Morgana,Viktor,Kaisa
+2019.0,spring,LJL,2,Unsold Stuff Gaming,Burning Core,1.0,30:37,OK,blue,BC,   DEFEAT   ,47.1k,2,  2 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Ryze,Galio,Zoe,Irelia
+2019.0,spring,LJL,2,Unsold Stuff Gaming,Burning Core,1.0,30:37,OK,red,USG,   VICTORY   ,59.0k,10,  9 ,  2 ,  1 ,  3 ,  0 ,Lucian,Cassiopeia,Sejuani,Varus,Khazix
+2019.0,spring,LJL,2,Unsold Stuff Gaming,Detonation FocusMe,1.0,34:04,OK,blue,DFM,   VICTORY   ,63.4k,13,  10 ,  2 ,  1 ,  3 ,  0 ,Irelia,Ryze,Aatrox,Akali,Galio
+2019.0,spring,LJL,2,Unsold Stuff Gaming,Detonation FocusMe,1.0,34:04,OK,red,USG,   DEFEAT   ,53.7k,6,  0 ,  0 ,  0 ,  1 ,  1 ,Lucian,Cassiopeia,Camille,Xayah,Vladimir
+2019.0,spring,LJL,2,Sengoku Gaming,Crest Gaming Act,1.0,33:12,OK,blue,SG,   DEFEAT   ,53.4k,3,  3 ,  0 ,  0 ,  2 ,  1 ,Akali,Galio,Irelia,TahmKench,Leblanc
+2019.0,spring,LJL,2,Sengoku Gaming,Crest Gaming Act,1.0,33:12,OK,red,CGA,   VICTORY   ,64.9k,13,  11 ,  1 ,  1 ,  3 ,  0 ,Cassiopeia,Lucian,Camille,Alistar,Rakan
+2019.0,spring,LJL,2,Rascal Jester,Crest Gaming Act,1.0,33:49,OK,blue,CGA,   VICTORY   ,63.3k,21,  7 ,  1 ,  0 ,  2 ,  1 ,Irelia,Camille,Khazix,Viktor,Sejuani
+2019.0,spring,LJL,2,Rascal Jester,Crest Gaming Act,1.0,33:49,OK,red,RJ,   DEFEAT   ,56.1k,7,  2 ,  0 ,  1 ,  2 ,  0 ,Cassiopeia,Lucian,Galio,Vladimir,Rakan
+2019.0,spring,LJL,2,Rascal Jester,Detonation FocusMe,1.0,27:31,OK,blue,RJ,   DEFEAT   ,42.6k,8,  1 ,  0 ,  0 ,  0 ,  0 ,Heimerdinger,Camille,Rakan,Vladimir,XinZhao
+2019.0,spring,LJL,2,Rascal Jester,Detonation FocusMe,1.0,27:31,OK,red,DFM,   VICTORY   ,57.9k,21,  9 ,  1 ,  1 ,  3 ,  1 ,Lucian,Aatrox,Cassiopeia,Elise,Karthus
+2019.0,spring,LJL,3,AXIZ,Crest Gaming Act,1.0,29:30,OK,blue,CGA,   VICTORY   ,58.3k,14,  9 ,  2 ,  1 ,  4 ,  1 ,Khazix,Viktor,Lissandra,Urgot,Galio
+2019.0,spring,LJL,3,AXIZ,Crest Gaming Act,1.0,29:30,OK,red,AXZ,   DEFEAT   ,42.1k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Lucian,Irelia,Vladimir,Kaisa
+2019.0,spring,LJL,3,Unsold Stuff Gaming,Crest Gaming Act,1.0,31:54,OK,blue,USG,   VICTORY   ,63.5k,17,  11 ,  4 ,  2 ,  2 ,  0 ,Lucian,Lissandra,Ezreal,Kaisa,Vladimir
+2019.0,spring,LJL,3,Unsold Stuff Gaming,Crest Gaming Act,1.0,31:54,OK,red,CGA,   DEFEAT   ,51.8k,10,  1 ,  0 ,  0 ,  2 ,  1 ,Cassiopeia,Akali,Ryze,Viktor,Galio
+2019.0,spring,LJL,3,Unsold Stuff Gaming,V3 Esports,1.0,36:34,OK,blue,V3,   DEFEAT   ,61.4k,8,  3 ,  0 ,  0 ,  5 ,  1 ,Ryze,Aatrox,Thresh,Irelia,Akali
+2019.0,spring,LJL,3,Unsold Stuff Gaming,V3 Esports,1.0,36:34,OK,red,USG,   VICTORY   ,72.2k,14,  8 ,  1 ,  1 ,  0 ,  0 ,Viktor,Jayce,Cassiopeia,Braum,Rakan
+2019.0,spring,LJL,3,Rascal Jester,V3 Esports,1.0,31:59,OK,blue,RJ,   VICTORY   ,63.3k,19,  9 ,  1 ,  1 ,  3 ,  0 ,Galio,XinZhao,Lucian,Jayce,Lissandra
+2019.0,spring,LJL,3,Rascal Jester,V3 Esports,1.0,31:59,OK,red,V3,   DEFEAT   ,51.1k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Irelia,Akali,Morgana,Braum
+2019.0,spring,LJL,3,Burning Core,Rascal Jester,1.0,38:12,OK,blue,BC,   DEFEAT   ,63.5k,6,  4 ,  0 ,  0 ,  3 ,  1 ,Urgot,Sion,Elise,Karthus,Yasuo
+2019.0,spring,LJL,3,Burning Core,Rascal Jester,1.0,38:12,OK,red,RJ,   VICTORY   ,68.2k,16,  9 ,  2 ,  1 ,  1 ,  0 ,Cassiopeia,Lucian,Camille,Galio,TahmKench
+2019.0,spring,LJL,3,Burning Core,Sengoku Gaming,1.0,41:00,OK,blue,BC,   VICTORY   ,77.1k,18,  8 ,  1 ,  0 ,  4 ,  0 ,Urgot,Ezreal,Sion,Lissandra,Akali
+2019.0,spring,LJL,3,Burning Core,Sengoku Gaming,1.0,41:00,OK,red,SG,   DEFEAT   ,72.6k,11,  3 ,  0 ,  1 ,  1 ,  1 ,Cassiopeia,Camille,Lucian,XinZhao,Ryze
+2019.0,spring,LJL,3,Unsold Stuff Gaming,AXIZ,1.0,46:26,OK,blue,AXZ,   VICTORY   ,79.9k,9,  9 ,  2 ,  3 ,  4 ,  1 ,Irelia,Thresh,Lucian,Zac,Pyke
+2019.0,spring,LJL,3,Unsold Stuff Gaming,AXIZ,1.0,46:26,OK,red,USG,   DEFEAT   ,81.2k,9,  4 ,  0 ,  0 ,  3 ,  0 ,Jayce,Cassiopeia,Akali,Ezreal,Rakan
+2019.0,spring,LJL,3,AXIZ,Detonation FocusMe,1.0,28:01,OK,blue,AXZ,   DEFEAT   ,41.5k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Nocturne,Thresh,Camille,Irelia,Morgana
+2019.0,spring,LJL,3,AXIZ,Detonation FocusMe,1.0,28:01,OK,red,DFM,   VICTORY   ,55.3k,17,  10 ,  1 ,  1 ,  3 ,  0 ,Cassiopeia,Jayce,Lucian,Fiddlesticks,Soraka
+2019.0,spring,LJL,4,Crest Gaming Act,Burning Core,1.0,25:25,OK,blue,CGA,   VICTORY   ,52.4k,18,  8 ,  1 ,  0 ,  3 ,  1 ,Camille,Lissandra,Cassiopeia,Jax,Yorick
+2019.0,spring,LJL,4,Crest Gaming Act,Burning Core,1.0,25:25,OK,red,BC,   DEFEAT   ,37.5k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Urgot,Lucian,Akali,Aatrox,Thresh
+2019.0,spring,LJL,4,Detonation FocusMe,V3 Esports,1.0,26:20,OK,blue,DFM,   VICTORY   ,54.1k,21,  9 ,  2 ,  1 ,  3 ,  0 ,Irelia,Lucian,Aatrox,Alistar,Galio
+2019.0,spring,LJL,4,Detonation FocusMe,V3 Esports,1.0,26:20,OK,red,V3,   DEFEAT   ,41.4k,11,  1 ,  0 ,  0 ,  0 ,  1 ,Yorick,Cassiopeia,Akali,Zoe,Leblanc
+2019.0,spring,LJL,4,Detonation FocusMe,Sengoku Gaming,1.0,28:15,OK,blue,DFM,   VICTORY   ,61.8k,21,  10 ,  2 ,  1 ,  2 ,  1 ,Heimerdinger,Lucian,Aatrox,Gragas,Pantheon
+2019.0,spring,LJL,4,Detonation FocusMe,Sengoku Gaming,1.0,28:15,OK,red,SG,   DEFEAT   ,44.9k,8,  3 ,  0 ,  0 ,  1 ,  0 ,Yorick,Cassiopeia,Akali,Vladimir,Thresh
+2019.0,spring,LJL,4,AXIZ,Burning Core,1.0,40:47,OK,blue,BC,   VICTORY   ,73.7k,15,  7 ,  1 ,  1 ,  2 ,  1 ,Urgot,Aatrox,Cassiopeia,Leblanc,Lissandra
+2019.0,spring,LJL,4,AXIZ,Burning Core,1.0,40:47,OK,red,AXZ,   DEFEAT   ,73.2k,14,  6 ,  0 ,  1 ,  4 ,  0 ,Irelia,Thresh,Lucian,Vayne,Draven
+2019.0,spring,LJL,4,Crest Gaming Act,Rascal Jester,1.0,42:04,OK,blue,CGA,   DEFEAT   ,73.0k,13,  3 ,  0 ,  0 ,  3 ,  0 ,Camille,Lissandra,Cassiopeia,Ezreal,Thresh
+2019.0,spring,LJL,4,Crest Gaming Act,Rascal Jester,1.0,42:04,OK,red,RJ,   VICTORY   ,80.1k,15,  9 ,  1 ,  1 ,  3 ,  1 ,Lucian,Vladimir,Nocturne,Varus,Kaisa
+2019.0,spring,LJL,4,AXIZ,Unsold Stuff Gaming,1.0,26:53,OK,blue,USG,   VICTORY   ,58.7k,16,  10 ,  1 ,  1 ,  3 ,  1 ,XinZhao,Sivir,Cassiopeia,Galio,Braum
+2019.0,spring,LJL,4,AXIZ,Unsold Stuff Gaming,1.0,26:53,OK,red,AXZ,   DEFEAT   ,40.5k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Thresh,Irelia,Sylas,Akali,Leblanc
+2019.0,spring,LJL,4,Unsold Stuff Gaming,Rascal Jester,1.0,45:07,OK,blue,USG,   DEFEAT   ,76.5k,9,  6 ,  0 ,  2 ,  0 ,  1 ,Karthus,Yasuo,Cassiopeia,Leblanc,Syndra
+2019.0,spring,LJL,4,Unsold Stuff Gaming,Rascal Jester,1.0,45:07,OK,red,RJ,   VICTORY   ,82.5k,15,  8 ,  2 ,  1 ,  7 ,  0 ,Camille,Nocturne,Akali,Irelia,Zoe
+2019.0,spring,LJL,5,V3 Esports,Sengoku Gaming,1.0,27:55,OK,blue,SG,   DEFEAT   ,40.8k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Thresh,Irelia,Urgot,Leblanc,Caitlyn
+2019.0,spring,LJL,5,V3 Esports,Sengoku Gaming,1.0,27:55,OK,red,V3,   VICTORY   ,58.1k,17,  11 ,  3 ,  1 ,  3 ,  0 ,Lucian,Kalista,XinZhao,Darius,Sivir
+2019.0,spring,LJL,5,Crest Gaming Act,Sengoku Gaming,1.0,31:53,OK,blue,CGA,   VICTORY   ,62.2k,19,  9 ,  1 ,  1 ,  2 ,  1 ,Olaf,Karthus,Lissandra,Kalista,Ezreal
+2019.0,spring,LJL,5,Crest Gaming Act,Sengoku Gaming,1.0,31:53,OK,red,SG,   DEFEAT   ,48.0k,3,  2 ,  0 ,  0 ,  3 ,  0 ,Lucian,Irelia,Cassiopeia,Vayne,Ashe
+2019.0,spring,LJL,5,Burning Core,Unsold Stuff Gaming,1.0,40:32,OK,blue,USG,   VICTORY   ,78.1k,11,  11 ,  5 ,  3 ,  5 ,  1 ,Yasuo,Cassiopeia,Lucian,Leblanc,Morgana
+2019.0,spring,LJL,5,Burning Core,Unsold Stuff Gaming,1.0,40:32,OK,red,BC,   DEFEAT   ,64.3k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Urgot,Nocturne,Thresh,Alistar,Shen
+2019.0,spring,LJL,5,Detonation FocusMe,Rascal Jester,1.0,27:20,OK,blue,DFM,   VICTORY   ,54.4k,17,  7 ,  1 ,  1 ,  3 ,  1 ,Karthus,Yasuo,Cassiopeia,Syndra,Olaf
+2019.0,spring,LJL,5,Detonation FocusMe,Rascal Jester,1.0,27:20,OK,red,RJ,   DEFEAT   ,40.1k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Thresh,Yorick,Nocturne,Zac,Zilean
+2019.0,spring,LJL,5,Detonation FocusMe,Unsold Stuff Gaming,1.0,42:35,OK,blue,DFM,   VICTORY   ,77.4k,10,  10 ,  2 ,  1 ,  3 ,  1 ,Ryze,Jayce,Cassiopeia,Yasuo,JarvanIV
+2019.0,spring,LJL,5,Detonation FocusMe,Unsold Stuff Gaming,1.0,42:35,OK,red,USG,   DEFEAT   ,70.3k,8,  6 ,  0 ,  1 ,  4 ,  0 ,Nocturne,Alistar,Braum,Heimerdinger,Zac
+2019.0,spring,LJL,5,Burning Core,Crest Gaming Act,1.0,32:57,OK,blue,BC,   DEFEAT   ,53.2k,7,  2 ,  0 ,  0 ,  1 ,  1 ,Nocturne,Sylas,Lucian,Yorick,Zoe
+2019.0,spring,LJL,5,Burning Core,Crest Gaming Act,1.0,32:57,OK,red,CGA,   VICTORY   ,62.9k,12,  9 ,  1 ,  1 ,  4 ,  0 ,Olaf,Lissandra,Urgot,Vladimir,Jayce
+2019.0,spring,LJL,5,Burning Core,AXIZ,1.0,29:54,OK,blue,BC,   VICTORY   ,58.5k,11,  10 ,  2 ,  1 ,  2 ,  1 ,Nocturne,Lucian,Sylas,Kled,Jayce
+2019.0,spring,LJL,5,Burning Core,AXIZ,1.0,29:54,OK,red,AXZ,   DEFEAT   ,47.0k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Yasuo,Cassiopeia,Leblanc,Soraka,Khazix
+2019.0,spring,LJL,5,V3 Esports,AXIZ,1.0,39:36,OK,blue,AXZ,   VICTORY   ,69.9k,16,  7 ,  1 ,  0 ,  4 ,  0 ,Cassiopeia,Vladimir,Zoe,LeeSin,Olaf
+2019.0,spring,LJL,5,V3 Esports,AXIZ,1.0,39:36,OK,red,V3,   DEFEAT   ,67.4k,15,  4 ,  0 ,  1 ,  0 ,  0 ,XinZhao,Sivir,Lucian,Darius,Yorick
+2019.0,spring,LJL,6,Rascal Jester,Burning Core,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,spring,LJL,6,Sengoku Gaming,Burning Core,1.0,37:15,OK,blue,SG,   DEFEAT   ,58.2k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Yasuo,Irelia,JarvanIV,Leblanc,Zac
+2019.0,spring,LJL,6,Sengoku Gaming,Burning Core,1.0,37:15,OK,red,BC,   VICTORY   ,73.0k,15,  10 ,  2 ,  2 ,  4 ,  1 ,Olaf,Yorick,Lucian,XinZhao,Nocturne
+2019.0,spring,LJL,6,Sengoku Gaming,Rascal Jester,1.0,28:16,OK,blue,RJ,   DEFEAT   ,46.7k,11,  2 ,  0 ,  0 ,  1 ,  1 ,Olaf,Lucian,Kalista,Alistar,Lissandra
+2019.0,spring,LJL,6,Sengoku Gaming,Rascal Jester,1.0,28:16,OK,red,SG,   VICTORY   ,50.9k,10,  8 ,  1 ,  0 ,  2 ,  0 ,Yasuo,Irelia,Sylas,Nocturne,Karthus
+2019.0,spring,LJL,6,Detonation FocusMe,AXIZ,1.0,27:38,OK,blue,DFM,   VICTORY   ,53.6k,11,  10 ,  2 ,  1 ,  4 ,  1 ,Jayce,Yasuo,Karthus,Viktor,Leblanc
+2019.0,spring,LJL,6,Detonation FocusMe,AXIZ,1.0,27:38,OK,red,AXZ,   DEFEAT   ,42.1k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Nocturne,Sylas,XinZhao,Zac
+2019.0,spring,LJL,6,Crest Gaming Act,AXIZ,1.0,32:55,OK,blue,CGA,   VICTORY   ,62.9k,15,  10 ,  2 ,  1 ,  5 ,  1 ,Irelia,Malzahar,Sivir,Kennen,Viktor
+2019.0,spring,LJL,6,Crest Gaming Act,AXIZ,1.0,32:55,OK,red,AXZ,   DEFEAT   ,49.4k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Leblanc,Vladimir,Braum,Syndra
+2019.0,spring,LJL,6,V3 Esports,Detonation FocusMe,1.0,32:08,OK,blue,DFM,   VICTORY   ,62.0k,18,  7 ,  1 ,  1 ,  2 ,  1 ,Thresh,Aatrox,Jayce,JarvanIV,Gragas
+2019.0,spring,LJL,6,V3 Esports,Detonation FocusMe,1.0,32:08,OK,red,V3,   DEFEAT   ,50.6k,7,  0 ,  0 ,  0 ,  3 ,  0 ,Lucian,Yorick,TahmKench,Darius,Ezreal
+2019.0,spring,LJL,6,Crest Gaming Act,Unsold Stuff Gaming,1.0,43:09,OK,blue,USG,   DEFEAT   ,70.3k,3,  3 ,  0 ,  0 ,  6 ,  1 ,Lucian,Sivir,Nocturne,Zoe,Azir
+2019.0,spring,LJL,6,Crest Gaming Act,Unsold Stuff Gaming,1.0,43:09,OK,red,CGA,   VICTORY   ,75.4k,10,  7 ,  1 ,  1 ,  1 ,  0 ,Swain,Malzahar,Jayce,Leblanc,Heimerdinger
+2019.0,spring,LJL,7,AXIZ,Rascal Jester,1.0,38:18,OK,blue,AXZ,   VICTORY   ,68.9k,14,  8 ,  1 ,  1 ,  4 ,  0 ,Karthus,RekSai,Yasuo,Kalista,Ezreal
+2019.0,spring,LJL,7,AXIZ,Rascal Jester,1.0,38:18,OK,red,RJ,   DEFEAT   ,62.2k,12,  3 ,  0 ,  0 ,  1 ,  1 ,Kled,Yorick,Lucian,Irelia,Kennen
+2019.0,spring,LJL,7,AXIZ,Sengoku Gaming,1.0,29:39,OK,blue,AXZ,   DEFEAT   ,44.5k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Olaf,RekSai,Vladimir,Yorick
+2019.0,spring,LJL,7,AXIZ,Sengoku Gaming,1.0,29:39,OK,red,SG,   VICTORY   ,55.7k,13,  9 ,  2 ,  1 ,  3 ,  1 ,Leblanc,Khazix,Sylas,Irelia,Aatrox
+2019.0,spring,LJL,7,Sengoku Gaming,Detonation FocusMe,1.0,39:41,OK,blue,SG,   VICTORY   ,71.7k,8,  10 ,  4 ,  2 ,  4 ,  1 ,Irelia,Lucian,Yorick,Aatrox,Nocturne
+2019.0,spring,LJL,7,Sengoku Gaming,Detonation FocusMe,1.0,39:41,OK,red,DFM,   DEFEAT   ,66.7k,7,  4 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Zoe,RekSai,Syndra,XinZhao
+2019.0,spring,LJL,7,Crest Gaming Act,Detonation FocusMe,1.0,26:59,OK,blue,DFM,   VICTORY   ,53.6k,15,  8 ,  1 ,  1 ,  3 ,  0 ,Yasuo,Sylas,Jayce,Leblanc,Talon
+2019.0,spring,LJL,7,Crest Gaming Act,Detonation FocusMe,1.0,26:59,OK,red,CGA,   DEFEAT   ,40.4k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Heimerdinger,Yorick,Nocturne,Karma,Ziggs
+2019.0,spring,LJL,7,Burning Core,Detonation FocusMe,1.0,29:15,OK,blue,BC,   DEFEAT   ,42.8k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Sylas,Yorick,Ezreal,Varus,Xayah
+2019.0,spring,LJL,7,Burning Core,Detonation FocusMe,1.0,29:15,OK,red,DFM,   VICTORY   ,56.9k,12,  10 ,  2 ,  1 ,  4 ,  1 ,Jayce,Yasuo,Lucian,Kennen,Syndra
+2019.0,spring,LJL,7,Burning Core,V3 Esports,1.0,42:01,OK,blue,BC,   VICTORY   ,75.4k,14,  9 ,  1 ,  1 ,  3 ,  0 ,Vladimir,Sylas,Yorick,Yasuo,Lissandra
+2019.0,spring,LJL,7,Burning Core,V3 Esports,1.0,42:01,OK,red,V3,   DEFEAT   ,73.6k,15,  6 ,  0 ,  1 ,  2 ,  1 ,Jayce,Leblanc,Kaisa,Irelia,Zoe
+2019.0,spring,LJL,7,Crest Gaming Act,V3 Esports,1.0,36:14,OK,blue,CGA,   VICTORY   ,68.8k,13,  8 ,  1 ,  1 ,  5 ,  0 ,Yasuo,LeeSin,Kalista,XinZhao,Nocturne
+2019.0,spring,LJL,7,Crest Gaming Act,V3 Esports,1.0,36:14,OK,red,V3,   DEFEAT   ,63.6k,8,  7 ,  1 ,  1 ,  0 ,  1 ,Lucian,Jayce,RekSai,Aatrox,Urgot
+2019.0,spring,LJL,7,Unsold Stuff Gaming,Sengoku Gaming,1.0,33:01,OK,blue,SG,   DEFEAT   ,49.9k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Irelia,Leblanc,Yorick,Nocturne,JarvanIV
+2019.0,spring,LJL,7,Unsold Stuff Gaming,Sengoku Gaming,1.0,33:01,OK,red,USG,   VICTORY   ,63.6k,17,  11 ,  3 ,  1 ,  2 ,  0 ,Kalista,Ezreal,Lucian,Sylas,Vladimir
+2019.0,spring,LJL,8,V3 Esports,Unsold Stuff Gaming,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,spring,LJL,8,V3 Esports,Rascal Jester,1.0,26:25,OK,blue,V3,   VICTORY   ,51.8k,17,  8 ,  1 ,  0 ,  2 ,  1 ,Yasuo,Zoe,Ryze,Olaf,Elise
+2019.0,spring,LJL,8,V3 Esports,Rascal Jester,1.0,26:25,OK,red,RJ,   DEFEAT   ,41.0k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Lucian,Kalista,Vladimir,Ashe,Thresh
+2019.0,spring,LJL,8,Rascal Jester,Detonation FocusMe,1.0,25:50,OK,blue,DFM,   VICTORY   ,51.5k,16,  9 ,  2 ,  1 ,  1 ,  1 ,Yasuo,Ryze,Zed,Lissandra,Zoe
+2019.0,spring,LJL,8,Rascal Jester,Detonation FocusMe,1.0,25:50,OK,red,RJ,   DEFEAT   ,38.5k,6,  0 ,  0 ,  0 ,  2 ,  0 ,Lucian,Kalista,Vladimir,Thresh,Ezreal
+2019.0,spring,LJL,8,Unsold Stuff Gaming,Crest Gaming Act,1.0,32:14,OK,blue,CGA,   VICTORY   ,63.6k,14,  9 ,  1 ,  1 ,  2 ,  1 ,Swain,Malzahar,Jayce,Yorick,Irelia
+2019.0,spring,LJL,8,Unsold Stuff Gaming,Crest Gaming Act,1.0,32:14,OK,red,USG,   DEFEAT   ,52.3k,4,  2 ,  0 ,  1 ,  2 ,  0 ,Lucian,Kalista,Vladimir,Leblanc,Zoe
+2019.0,spring,LJL,8,Sengoku Gaming,Crest Gaming Act,1.0,34:41,OK,blue,SG,   VICTORY   ,64.1k,12,  9 ,  2 ,  1 ,  5 ,  1 ,Leblanc,Nocturne,Vladimir,Fiora,Skarner
+2019.0,spring,LJL,8,Sengoku Gaming,Crest Gaming Act,1.0,34:41,OK,red,CGA,   DEFEAT   ,57.0k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Jayce,Kalista,Lucian,Yorick,Ezreal
+2019.0,spring,LJL,8,Sengoku Gaming,Burning Core,1.0,36:56,OK,blue,SG,   DEFEAT   ,59.6k,7,  2 ,  0 ,  0 ,  2 ,  0 ,Leblanc,Irelia,Yasuo,Braum,Riven
+2019.0,spring,LJL,8,Sengoku Gaming,Burning Core,1.0,36:56,OK,red,BC,   VICTORY   ,73.7k,22,  9 ,  1 ,  1 ,  3 ,  1 ,Jayce,RekSai,Yorick,XinZhao,Aatrox
+2019.0,spring,LJL,8,AXIZ,Burning Core,1.0,27:11,OK,blue,AXZ,   DEFEAT   ,44.0k,2,  3 ,  0 ,  0 ,  1 ,  1 ,Thresh,Lucian,Kalista,Lissandra,Leblanc
+2019.0,spring,LJL,8,AXIZ,Burning Core,1.0,27:11,OK,red,BC,   VICTORY   ,52.0k,10,  9 ,  1 ,  1 ,  2 ,  0 ,Jayce,RekSai,Irelia,Zoe,Aatrox
+2019.0,spring,LJL,8,AXIZ,Detonation FocusMe,1.0,31:11,OK,blue,DFM,   VICTORY   ,57.5k,11,  9 ,  2 ,  1 ,  2 ,  0 ,Yasuo,Ryze,Neeko,JarvanIV,Zoe
+2019.0,spring,LJL,8,AXIZ,Detonation FocusMe,1.0,31:11,OK,red,AXZ,   DEFEAT   ,50.6k,6,  2 ,  0 ,  0 ,  2 ,  1 ,Lucian,Thresh,Kalista,Camille,Shen
+2019.0,spring,LJL,9,Rascal Jester,Unsold Stuff Gaming,1.0,25:51,OK,blue,RJ,   DEFEAT   ,40.1k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Heimerdinger,Jayce,Zoe,Sion,Skarner
+2019.0,spring,LJL,9,Rascal Jester,Unsold Stuff Gaming,1.0,25:51,OK,red,USG,   VICTORY   ,52.8k,18,  10 ,  1 ,  1 ,  2 ,  1 ,Yasuo,Leblanc,Olaf,Kindred,RekSai
+2019.0,spring,LJL,9,Unsold Stuff Gaming,V3 Esports,1.0,28:03,OK,blue,V3,   DEFEAT   ,44.3k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Ryze,Zoe,Azir,Zac,Skarner
+2019.0,spring,LJL,9,Unsold Stuff Gaming,V3 Esports,1.0,28:03,OK,red,USG,   VICTORY   ,54.0k,12,  8 ,  1 ,  1 ,  4 ,  0 ,Thresh,Jayce,Lissandra,Rakan,Alistar
+2019.0,spring,LJL,9,AXIZ,V3 Esports,1.0,29:27,OK,blue,V3,   VICTORY   ,58.3k,18,  11 ,  3 ,  1 ,  3 ,  1 ,Zoe,Irelia,Leblanc,Ashe,Ezreal
+2019.0,spring,LJL,9,AXIZ,V3 Esports,1.0,29:27,OK,red,AXZ,   DEFEAT   ,42.9k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Jayce,Lissandra,Syndra,
+2019.0,spring,LJL,9,Detonation FocusMe,Crest Gaming Act,1.0,36:35,OK,blue,DFM,   VICTORY   ,67.5k,8,  11 ,  3 ,  1 ,  4 ,  1 ,Yasuo,TahmKench,Lissandra,JarvanIV,Skarner
+2019.0,spring,LJL,9,Detonation FocusMe,Crest Gaming Act,1.0,36:35,OK,red,CGA,   DEFEAT   ,58.5k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Yorick,Jayce,Vladimir,XinZhao,Irelia
+2019.0,spring,LJL,9,Sengoku Gaming,AXIZ,1.0,31:29,OK,blue,AXZ,   DEFEAT   ,48.5k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Kalista,Tristana,Vladimir,Leblanc
+2019.0,spring,LJL,9,Sengoku Gaming,AXIZ,1.0,31:29,OK,red,SG,   VICTORY   ,64.1k,17,  11 ,  3 ,  1 ,  4 ,  1 ,Neeko,Khazix,Jayce,Kennen,Lissandra
+2019.0,spring,LJL,9,Rascal Jester,Burning Core,1.0,35:17,OK,blue,RJ,   勝利！   ,71.2k,22,  11 ,  2 ,  2 ,  4 ,  1 ,Vladimir,Thresh,Elise,Riven,Yorick
+2019.0,spring,LJL,9,Rascal Jester,Burning Core,1.0,35:17,OK,red,BC,   敗北！   ,57.2k,10,  2 ,  0 ,  0 ,  1 ,  0 ,Azir,Yasuo,Jayce,Corki,Zed
+2019.0,spring,LJL,9,V3 Esports,Crest Gaming Act,1.0,37:22,OK,blue,CGA,   勝利！   ,69.0k,20,  8 ,  1 ,  1 ,  2 ,  0 ,Elise,Olaf,RekSai,Yorick,Jayce
+2019.0,spring,LJL,9,V3 Esports,Crest Gaming Act,1.0,37:22,OK,red,V3,   敗北！   ,64.4k,13,  7 ,  1 ,  1 ,  3 ,  1 ,Zoe,Leblanc,JarvanIV,Lucian,Kaisa
+2019.0,spring,LJL,10,AXIZ,Unsold Stuff Gaming,1.0,25:21,OK,blue,AXZ,   DEFEAT   ,36.3k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Thresh,Sylas,Soraka,Zac
+2019.0,spring,LJL,10,AXIZ,Unsold Stuff Gaming,1.0,25:21,OK,red,USG,   VICTORY   ,50.4k,17,  7 ,  1 ,  1 ,  3 ,  1 ,Neeko,RekSai,Jayce,Leblanc,Zoe
+2019.0,spring,LJL,10,Burning Core,Unsold Stuff Gaming,1.0,43:02,OK,blue,BC,   DEFEAT   ,75.1k,12,  5 ,  0 ,  1 ,  4 ,  0 ,Heimerdinger,Zoe,Sylas,Sion,Yorick
+2019.0,spring,LJL,10,Burning Core,Unsold Stuff Gaming,1.0,43:02,OK,red,USG,   VICTORY   ,80.0k,14,  8 ,  1 ,  2 ,  2 ,  1 ,Thresh,Lucian,Jayce,Vayne,Kalista
+2019.0,spring,LJL,10,Burning Core,Detonation FocusMe,1.0,25:28,OK,blue,DFM,   VICTORY   ,55.1k,18,  10 ,  1 ,  1 ,  4 ,  1 ,Yasuo,Alistar,Lucian,JarvanIV,Zoe
+2019.0,spring,LJL,10,Burning Core,Detonation FocusMe,1.0,25:28,OK,red,BC,   DEFEAT   ,35.2k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Heimerdinger,Jayce,Yorick,Vayne,Camille
+2019.0,spring,LJL,10,Detonation FocusMe,V3 Esports,1.0,31:53,OK,blue,DFM,   VICTORY   ,59.8k,14,  7 ,  1 ,  0 ,  3 ,  1 ,Yasuo,RekSai,Jayce,Olaf,Elise
+2019.0,spring,LJL,10,Detonation FocusMe,V3 Esports,1.0,31:53,OK,red,V3,   DEFEAT   ,53.9k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Heimerdinger,Lucian,Sylas,Kaisa,Ezreal
+2019.0,spring,LJL,10,Rascal Jester,Crest Gaming Act,1.0,34:01,OK,blue,CGA,   VICTORY   ,63.4k,20,  8 ,  1 ,  0 ,  4 ,  1 ,Olaf,Leblanc,Jayce,Yasuo,Azir
+2019.0,spring,LJL,10,Rascal Jester,Crest Gaming Act,1.0,34:01,OK,red,RJ,   DEFEAT   ,50.9k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Kalista,Vayne,Talon,Zoe
+2019.0,spring,LJL,10,Rascal Jester,Sengoku Gaming,1.0,34:39,OK,blue,SG,   VICTORY   ,67.3k,16,  11 ,  3 ,  2 ,  3 ,  0 ,Leblanc,Olaf,Jayce,Azir,Yasuo
+2019.0,spring,LJL,10,Rascal Jester,Sengoku Gaming,1.0,34:39,OK,red,RJ,   DEFEAT   ,57.9k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Kalista,Vayne,Lucian,Sivir,Yorick
+2019.0,spring,LJL,10,V3 Esports,Sengoku Gaming,1.0,35:19,OK,blue,SG,   VICTORY   ,67.5k,17,  11 ,  3 ,  2 ,  3 ,  0 ,Sylas,RekSai,Ryze,Evelynn,LeeSin
+2019.0,spring,LJL,10,V3 Esports,Sengoku Gaming,1.0,35:19,OK,red,V3,   DEFEAT   ,53.8k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Zoe,Kalista,Gragas,Yorick,Renekton
+2019.0,spring,LJL,11,V3 Esports,Rascal Jester,1.0,34:01,OK,blue,V3,   VICTORY   ,65.1k,19,  8 ,  1 ,  1 ,  2 ,  1 ,Olaf,Zoe,Jayce,Alistar,Braum
+2019.0,spring,LJL,11,V3 Esports,Rascal Jester,1.0,34:01,OK,red,RJ,   DEFEAT   ,55.4k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Sylas,RekSai,Vladimir,Renekton,Leblanc
+2019.0,spring,LJL,11,AXIZ,Rascal Jester,1.0,28:24,OK,blue,RJ,   VICTORY   ,53.3k,14,  11 ,  3 ,  1 ,  3 ,  1 ,Neeko,Vladimir,Jayce,Yorick,Leblanc
+2019.0,spring,LJL,11,AXIZ,Rascal Jester,1.0,28:24,OK,red,AXZ,   DEFEAT   ,44.6k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Olaf,Yasuo,Zed,Zac,Nocturne
+2019.0,spring,LJL,11,V3 Esports,Burning Core,1.0,30:17,OK,blue,V3,   VICTORY   ,58.9k,15,  8 ,  1 ,  1 ,  3 ,  1 ,Zoe,Ryze,Leblanc,Braum,Galio
+2019.0,spring,LJL,11,V3 Esports,Burning Core,1.0,30:17,OK,red,BC,   DEFEAT   ,51.3k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Elise,Sylas,Jayce,Irelia,TahmKench
+2019.0,spring,LJL,11,Crest Gaming Act,Burning Core,1.0,27:55,OK,blue,CGA,   VICTORY   ,50.7k,15,  7 ,  1 ,  1 ,  1 ,  0 ,Olaf,LeeSin,Galio,Yasuo,Leblanc
+2019.0,spring,LJL,11,Crest Gaming Act,Burning Core,1.0,27:55,OK,red,BC,   DEFEAT   ,44.6k,4,  4 ,  0 ,  0 ,  2 ,  1 ,Sylas,Vladimir,Lucian,Skarner,Poppy
+2019.0,spring,LJL,11,Crest Gaming Act,AXIZ,1.0,25:25,OK,blue,CGA,   VICTORY   ,49.3k,20,  8 ,  1 ,  0 ,  3 ,  0 ,Lissandra,Jayce,Kennen,Ryze,Galio
+2019.0,spring,LJL,11,Crest Gaming Act,AXIZ,1.0,25:25,OK,red,AXZ,   DEFEAT   ,38.5k,2,  1 ,  0 ,  0 ,  0 ,  1 ,Vladimir,Yasuo,Vayne,Gragas,Olaf
+2019.0,spring,LJL,11,Unsold Stuff Gaming,Detonation FocusMe,1.0,34:12,OK,blue,DFM,   VICTORY   ,65.8k,11,  9 ,  2 ,  1 ,  3 ,  0 ,Zoe,Ryze,Braum,Akali,Irelia
+2019.0,spring,LJL,11,Unsold Stuff Gaming,Detonation FocusMe,1.0,34:12,OK,red,USG,   DEFEAT   ,54.5k,4,  1 ,  0 ,  0 ,  1 ,  1 ,Rakan,Thresh,Lucian,Pyke,Alistar
+2019.0,spring,LJL,11,Sengoku Gaming,Detonation FocusMe,1.0,27:53,OK,blue,DFM,   VICTORY   ,56.6k,17,  11 ,  3 ,  1 ,  3 ,  1 ,Kalista,Corki,Yasuo,Zoe,Heimerdinger
+2019.0,spring,LJL,11,Sengoku Gaming,Detonation FocusMe,1.0,27:53,OK,red,SG,   DEFEAT   ,41.4k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Draven,Sylas,Yorick,Lissandra
+2019.0,spring,LJL,11,Sengoku Gaming,Unsold Stuff Gaming,1.0,50:09,OK,blue,SG,   VICTORY   ,95.2k,22,  7 ,  1 ,  2 ,  2 ,  0 ,Leblanc,Ryze,Jayce,Lissandra,Sylas
+2019.0,spring,LJL,11,Sengoku Gaming,Unsold Stuff Gaming,1.0,50:09,OK,red,USG,   DEFEAT   ,92.7k,23,  9 ,  4 ,  1 ,  4 ,  1 ,Kalista,Lucian,Sivir,Kaisa,Tristana

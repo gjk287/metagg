@@ -1,0 +1,734 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2019.0,spring,LDL,1,Suning S,FunPlus Phoenix Blaze,1.0,AttributeError
+2019.0,spring,LDL,1,Suning S,FunPlus Phoenix Blaze,2.0,AttributeError
+2019.0,spring,LDL,1,Suning S,FunPlus Phoenix Blaze,3.0,AttributeError
+2019.0,spring,LDL,1,Bilibili Gaming Junior,V5 87,1.0,AttributeError
+2019.0,spring,LDL,1,Bilibili Gaming Junior,V5 87,2.0,AttributeError
+2019.0,spring,LDL,1,King of Future,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,1,King of Future,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,1,King of Future,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,1,EDG Youth Team,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,EDG Youth Team,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,Rogue Warriors Shark,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,1,Rogue Warriors Shark,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,1,Rogue Warriors Shark,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,1,SinoDragon Prince,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,SinoDragon Prince,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,IG Young,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,1,IG Young,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,1,IG Young,Oh My Dream,3.0,AttributeError
+2019.0,spring,LDL,1,Suning S,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,Suning S,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,FunPlus Phoenix Blaze,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,1,FunPlus Phoenix Blaze,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,1,Team WE Academy,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,1,Team WE Academy,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,1,Snake WuDu,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,Snake WuDu,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,VP Game,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,1,VP Game,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,1,VP Game,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,1,Bilibili Gaming Junior,Snake WuDu,1.0,AttributeError
+2019.0,spring,LDL,1,Bilibili Gaming Junior,Snake WuDu,2.0,AttributeError
+2019.0,spring,LDL,1,Joy Dream,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,1,Joy Dream,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,1,Joy Dream,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,1,Vici Gaming Potential,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,Vici Gaming Potential,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,Oh My Dream,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,Oh My Dream,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,Royal Club,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,1,Royal Club,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,1,Royal Club,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,1,IG Young,V5 87,1.0,AttributeError
+2019.0,spring,LDL,1,IG Young,V5 87,2.0,AttributeError
+2019.0,spring,LDL,1,Suning S,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,1,Suning S,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,1,Suning S,Vici Gaming Potential,3.0,AttributeError
+2019.0,spring,LDL,1,Rogue Warriors Shark,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,1,Rogue Warriors Shark,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,1,EDG Youth Team,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,1,EDG Youth Team,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,1,SinoDragon Prince,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,1,SinoDragon Prince,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,1,King of Future,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,King of Future,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,Bilibili Gaming Junior,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,Bilibili Gaming Junior,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,Bilibili Gaming Junior,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,1,Rogue Warriors Shark,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,1,Rogue Warriors Shark,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,1,Rogue Warriors Shark,Joy Dream,3.0,AttributeError
+2019.0,spring,LDL,1,Snake WuDu,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,1,Snake WuDu,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,1,FunPlus Phoenix Blaze,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,FunPlus Phoenix Blaze,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,Team WE Academy,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,Team WE Academy,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,Suning S,V5 87,1.0,AttributeError
+2019.0,spring,LDL,1,Suning S,V5 87,2.0,AttributeError
+2019.0,spring,LDL,1,VP Game,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,1,VP Game,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,1,VP Game,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,1,King of Future,VP Game,1.0,AttributeError
+2019.0,spring,LDL,1,King of Future,VP Game,2.0,AttributeError
+2019.0,spring,LDL,1,IG Young,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,IG Young,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,1,IG Young,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,1,Vici Gaming Potential,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,1,Vici Gaming Potential,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,1,Oh My Dream,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,1,Oh My Dream,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,1,Royal Club,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,1,Royal Club,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,1,Joy Dream,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,1,Joy Dream,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,2,Triumphant Song Gaming,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,2,Triumphant Song Gaming,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,2,Rogue Warriors Shark,Suning S,1.0,AttributeError
+2019.0,spring,LDL,2,Rogue Warriors Shark,Suning S,2.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,EDG Youth Team,1.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,EDG Youth Team,2.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,EDG Youth Team,3.0,AttributeError
+2019.0,spring,LDL,2,Legend Esport Gaming,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,2,Legend Esport Gaming,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,2,King of Future,SinoDragon Prince,1.0,AttributeError
+2019.0,spring,LDL,2,King of Future,SinoDragon Prince,2.0,AttributeError
+2019.0,spring,LDL,2,Team WE Academy,Snake WuDu,1.0,AttributeError
+2019.0,spring,LDL,2,Team WE Academy,Snake WuDu,2.0,AttributeError
+2019.0,spring,LDL,2,Team WE Academy,Snake WuDu,3.0,AttributeError
+2019.0,spring,LDL,2,FunPlus Phoenix Blaze,VP Game,1.0,AttributeError
+2019.0,spring,LDL,2,FunPlus Phoenix Blaze,VP Game,2.0,AttributeError
+2019.0,spring,LDL,2,FunPlus Phoenix Blaze,VP Game,3.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,Royal Club,3.0,AttributeError
+2019.0,spring,LDL,2,V5 87,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,2,V5 87,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,2,Unlimited Potential,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,2,Unlimited Potential,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,2,Joy Dream,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,2,Joy Dream,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,2,Scorpio Game,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,2,Scorpio Game,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,2,Scorpio Game,Victorious Gaming,3.0,AttributeError
+2019.0,spring,LDL,2,IG Young,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,2,IG Young,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,2,Young Miracles,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,2,Young Miracles,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,2,SinoDragon Prince,Rogue Warriors Shark,1.0,AttributeError
+2019.0,spring,LDL,2,SinoDragon Prince,Rogue Warriors Shark,2.0,AttributeError
+2019.0,spring,LDL,2,SinoDragon Prince,Rogue Warriors Shark,3.0,AttributeError
+2019.0,spring,LDL,2,EDG Youth Team,King of Future,1.0,AttributeError
+2019.0,spring,LDL,2,EDG Youth Team,King of Future,2.0,AttributeError
+2019.0,spring,LDL,2,V5 87,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,2,V5 87,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,2,V5 87,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,2,Suning S,Team WE Academy,1.0,AttributeError
+2019.0,spring,LDL,2,Suning S,Team WE Academy,2.0,AttributeError
+2019.0,spring,LDL,2,Snake WuDu,FunPlus Phoenix Blaze,1.0,AttributeError
+2019.0,spring,LDL,2,Snake WuDu,FunPlus Phoenix Blaze,2.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,2,Bilibili Gaming Junior,Oh My Dream,3.0,AttributeError
+2019.0,spring,LDL,2,VP Game,IG Young,1.0,AttributeError
+2019.0,spring,LDL,2,VP Game,IG Young,2.0,AttributeError
+2019.0,spring,LDL,2,Triumphant Song Gaming,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,2,Triumphant Song Gaming,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,2,Triumphant Song Gaming,Legend Esport Gaming,3.0,AttributeError
+2019.0,spring,LDL,2,Vici Gaming Potential,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,2,Vici Gaming Potential,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,2,Unlimited Potential,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,2,Unlimited Potential,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,2,Unlimited Potential,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,2,EDG Youth Team,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,2,EDG Youth Team,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,2,EDG Youth Team,Royal Club,3.0,AttributeError
+2019.0,spring,LDL,2,King of Future,Rogue Warriors Shark,1.0,AttributeError
+2019.0,spring,LDL,2,King of Future,Rogue Warriors Shark,2.0,AttributeError
+2019.0,spring,LDL,2,SinoDragon Prince,Suning S,1.0,AttributeError
+2019.0,spring,LDL,2,SinoDragon Prince,Suning S,2.0,AttributeError
+2019.0,spring,LDL,2,Shu Dai Xiong Gaming,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,2,Shu Dai Xiong Gaming,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,2,Shu Dai Xiong Gaming,Victorious Gaming,3.0,AttributeError
+2019.0,spring,LDL,2,Snake WuDu,VP Game,1.0,AttributeError
+2019.0,spring,LDL,2,Snake WuDu,VP Game,2.0,AttributeError
+2019.0,spring,LDL,2,V5 87,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,2,V5 87,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,2,Team WE Academy,FunPlus Phoenix Blaze,1.0,AttributeError
+2019.0,spring,LDL,2,Team WE Academy,FunPlus Phoenix Blaze,2.0,AttributeError
+2019.0,spring,LDL,3,Snake WuDu,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,3,Snake WuDu,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,3,Snake WuDu,Joy Dream,3.0,AttributeError
+2019.0,spring,LDL,3,EDG Youth Team,V5 87,1.0,AttributeError
+2019.0,spring,LDL,3,EDG Youth Team,V5 87,2.0,AttributeError
+2019.0,spring,LDL,3,Rogue Warriors Shark,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,Rogue Warriors Shark,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,King of Future,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,King of Future,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,SinoDragon Prince,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,3,SinoDragon Prince,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,3,SinoDragon Prince,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,3,Suning S,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,3,Suning S,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,3,Bilibili Gaming Junior,Suning S,1.0,AttributeError
+2019.0,spring,LDL,3,Bilibili Gaming Junior,Suning S,2.0,AttributeError
+2019.0,spring,LDL,3,Snake WuDu,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,3,Snake WuDu,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,3,Snake WuDu,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,3,VP Game,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,3,VP Game,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,3,VP Game,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,3,Team WE Academy,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,Team WE Academy,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,Team WE Academy,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,3,IG Young,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,3,IG Young,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,3,IG Young,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,3,FunPlus Phoenix Blaze,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,FunPlus Phoenix Blaze,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,FunPlus Phoenix Blaze,Victorious Gaming,3.0,AttributeError
+2019.0,spring,LDL,3,Royal Club,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,Royal Club,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,Vici Gaming Potential,V5 87,1.0,AttributeError
+2019.0,spring,LDL,3,Vici Gaming Potential,V5 87,2.0,AttributeError
+2019.0,spring,LDL,3,Vici Gaming Potential,V5 87,3.0,AttributeError
+2019.0,spring,LDL,3,Oh My Dream,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,3,Oh My Dream,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,3,Oh My Dream,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,3,Joy Dream,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,Joy Dream,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,Bilibili Gaming Junior,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,3,Bilibili Gaming Junior,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,3,Rogue Warriors Shark,IG Young,1.0,AttributeError
+2019.0,spring,LDL,3,Rogue Warriors Shark,IG Young,2.0,AttributeError
+2019.0,spring,LDL,3,Team WE Academy,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,3,Team WE Academy,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,3,SinoDragon Prince,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,SinoDragon Prince,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,Rogue Warriors Shark,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,3,Rogue Warriors Shark,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,3,EDG Youth Team,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,EDG Youth Team,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,EDG Youth Team,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,3,Suning S,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,3,Suning S,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,3,Suning S,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,3,King of Future,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,3,King of Future,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,3,SinoDragon Prince,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,3,SinoDragon Prince,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,3,Snake WuDu,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,Snake WuDu,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,FunPlus Phoenix Blaze,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,3,FunPlus Phoenix Blaze,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,3,FunPlus Phoenix Blaze,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,3,VP Game,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,VP Game,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,Team WE Academy,V5 87,1.0,AttributeError
+2019.0,spring,LDL,3,Team WE Academy,V5 87,2.0,AttributeError
+2019.0,spring,LDL,3,Team WE Academy,V5 87,3.0,AttributeError
+2019.0,spring,LDL,3,IG Young,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,3,IG Young,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,3,IG Young,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,3,EDG Youth Team,FunPlus Phoenix Blaze,1.0,AttributeError
+2019.0,spring,LDL,3,EDG Youth Team,FunPlus Phoenix Blaze,2.0,AttributeError
+2019.0,spring,LDL,3,EDG Youth Team,FunPlus Phoenix Blaze,3.0,AttributeError
+2019.0,spring,LDL,3,Vici Gaming Potential,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,Vici Gaming Potential,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,3,Royal Club,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,3,Royal Club,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,3,Royal Club,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,3,Joy Dream,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,3,Joy Dream,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,3,Joy Dream,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,3,Bilibili Gaming Junior,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,3,Bilibili Gaming Junior,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,3,Oh My Dream,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,3,Oh My Dream,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,4,VP Game,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,4,VP Game,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,4,IG Young,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,4,IG Young,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,4,IG Young,Joy Dream,3.0,AttributeError
+2019.0,spring,LDL,4,Triumphant Song Gaming,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,4,Triumphant Song Gaming,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,4,Oh My Dream,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,4,Oh My Dream,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,4,Legend Esport Gaming,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,4,Legend Esport Gaming,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,4,Bilibili Gaming Junior,King of Future,1.0,AttributeError
+2019.0,spring,LDL,4,Bilibili Gaming Junior,King of Future,2.0,AttributeError
+2019.0,spring,LDL,4,Suning S,Snake WuDu,1.0,AttributeError
+2019.0,spring,LDL,4,Suning S,Snake WuDu,2.0,AttributeError
+2019.0,spring,LDL,4,Suning S,Snake WuDu,3.0,AttributeError
+2019.0,spring,LDL,4,Rogue Warriors Shark,Team WE Academy,1.0,AttributeError
+2019.0,spring,LDL,4,Rogue Warriors Shark,Team WE Academy,2.0,AttributeError
+2019.0,spring,LDL,4,Shu Dai Xiong Gaming,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,4,Shu Dai Xiong Gaming,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,4,Shu Dai Xiong Gaming,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,4,EDG Youth Team,SinoDragon Prince,1.0,AttributeError
+2019.0,spring,LDL,4,EDG Youth Team,SinoDragon Prince,2.0,AttributeError
+2019.0,spring,LDL,4,Victorious Gaming,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,4,Victorious Gaming,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,4,FunPlus Phoenix Blaze,IG Young,1.0,AttributeError
+2019.0,spring,LDL,4,FunPlus Phoenix Blaze,IG Young,2.0,AttributeError
+2019.0,spring,LDL,4,Vici Gaming Potential,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,4,Vici Gaming Potential,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,4,Vici Gaming Potential,Oh My Dream,3.0,AttributeError
+2019.0,spring,LDL,4,V5 87,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,4,V5 87,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,4,V5 87,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,4,Joy Dream,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,4,Joy Dream,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,4,Triumphant Song Gaming,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,4,Triumphant Song Gaming,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,4,Bilibili Gaming Junior,VP Game,1.0,AttributeError
+2019.0,spring,LDL,4,Bilibili Gaming Junior,VP Game,2.0,AttributeError
+2019.0,spring,LDL,4,Bilibili Gaming Junior,VP Game,3.0,AttributeError
+2019.0,spring,LDL,4,LinGan eSports,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,4,LinGan eSports,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,4,LinGan eSports,Legend Esport Gaming,3.0,AttributeError
+2019.0,spring,LDL,4,King of Future,FunPlus Phoenix Blaze,1.0,AttributeError
+2019.0,spring,LDL,4,King of Future,FunPlus Phoenix Blaze,2.0,AttributeError
+2019.0,spring,LDL,4,King of Future,FunPlus Phoenix Blaze,3.0,AttributeError
+2019.0,spring,LDL,4,EDG Youth Team,IG Young,1.0,AttributeError
+2019.0,spring,LDL,4,EDG Youth Team,IG Young,2.0,AttributeError
+2019.0,spring,LDL,4,SinoDragon Prince,Team WE Academy,1.0,AttributeError
+2019.0,spring,LDL,4,SinoDragon Prince,Team WE Academy,2.0,AttributeError
+2019.0,spring,LDL,4,Legend Esport Gaming,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,4,Legend Esport Gaming,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,4,Legend Esport Gaming,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,4,Rogue Warriors Shark,Snake WuDu,1.0,AttributeError
+2019.0,spring,LDL,4,Rogue Warriors Shark,Snake WuDu,2.0,AttributeError
+2019.0,spring,LDL,4,Unlimited Potential,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,4,Unlimited Potential,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,4,Suning S,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,4,Suning S,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,4,VP Game,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,4,VP Game,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,4,Bilibili Gaming Junior,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,4,Bilibili Gaming Junior,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,4,Scorpio Game,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,4,Scorpio Game,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,4,King of Future,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,4,King of Future,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,4,LinGan eSports,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,4,LinGan eSports,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,4,FunPlus Phoenix Blaze,Rogue Warriors Shark,1.0,AttributeError
+2019.0,spring,LDL,4,FunPlus Phoenix Blaze,Rogue Warriors Shark,2.0,AttributeError
+2019.0,spring,LDL,5,Snake WuDu,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,5,Snake WuDu,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,5,Suning S,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,Suning S,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,SinoDragon Prince,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,SinoDragon Prince,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,King of Future,V5 87,1.0,AttributeError
+2019.0,spring,LDL,5,King of Future,V5 87,2.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,5,SinoDragon Prince,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,5,SinoDragon Prince,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,5,IG Young,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,5,IG Young,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,5,FunPlus Phoenix Blaze,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,5,FunPlus Phoenix Blaze,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,5,FunPlus Phoenix Blaze,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,5,VP Game,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,VP Game,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,VP Game,Victorious Gaming,3.0,AttributeError
+2019.0,spring,LDL,5,Snake WuDu,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,Snake WuDu,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,Snake WuDu,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,5,Royal Club,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,5,Royal Club,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,IG Young,1.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,IG Young,2.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,IG Young,3.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,5,Bilibili Gaming Junior,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,Bilibili Gaming Junior,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,Bilibili Gaming Junior,Legend Esport Gaming,3.0,AttributeError
+2019.0,spring,LDL,5,Joy Dream,V5 87,1.0,AttributeError
+2019.0,spring,LDL,5,Joy Dream,V5 87,2.0,AttributeError
+2019.0,spring,LDL,5,Joy Dream,V5 87,3.0,AttributeError
+2019.0,spring,LDL,5,Rogue Warriors Shark,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,5,Rogue Warriors Shark,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,5,Oh My Dream,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,Oh My Dream,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,Oh My Dream,Triumphant Song Gaming,3.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,VP Game,1.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,VP Game,2.0,AttributeError
+2019.0,spring,LDL,5,EDG Youth Team,VP Game,3.0,AttributeError
+2019.0,spring,LDL,5,King of Future,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,King of Future,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,King of Future,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,5,SinoDragon Prince,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,5,SinoDragon Prince,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,5,SinoDragon Prince,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,5,Suning S,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,5,Suning S,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,5,Suning S,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,5,Rogue Warriors Shark,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,Rogue Warriors Shark,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,5,Team WE Academy,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,5,King of Future,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,5,King of Future,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,5,King of Future,Royal Club,3.0,AttributeError
+2019.0,spring,LDL,5,FunPlus Phoenix Blaze,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,FunPlus Phoenix Blaze,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,FunPlus Phoenix Blaze,Triumphant Song Gaming,3.0,AttributeError
+2019.0,spring,LDL,5,IG Young,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,IG Young,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,VP Game,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,5,VP Game,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,5,Vici Gaming Potential,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,5,Vici Gaming Potential,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,5,Snake WuDu,V5 87,1.0,AttributeError
+2019.0,spring,LDL,5,Snake WuDu,V5 87,2.0,AttributeError
+2019.0,spring,LDL,5,King of Future,IG Young,1.0,AttributeError
+2019.0,spring,LDL,5,King of Future,IG Young,2.0,AttributeError
+2019.0,spring,LDL,5,King of Future,IG Young,3.0,AttributeError
+2019.0,spring,LDL,5,Bilibili Gaming Junior,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,5,Bilibili Gaming Junior,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,5,Bilibili Gaming Junior,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,5,Oh My Dream,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,5,Oh My Dream,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,5,Oh My Dream,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,5,Joy Dream,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,Joy Dream,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,Vici Gaming Potential,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,5,Vici Gaming Potential,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,5,Royal Club,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,5,Royal Club,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,5,Royal Club,Victorious Gaming,3.0,AttributeError
+2019.0,spring,LDL,6,Suning S,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,6,Suning S,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,6,Snake WuDu,IG Young,1.0,AttributeError
+2019.0,spring,LDL,6,Snake WuDu,IG Young,2.0,AttributeError
+2019.0,spring,LDL,6,Snake WuDu,IG Young,3.0,AttributeError
+2019.0,spring,LDL,6,V5 87,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,6,V5 87,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,6,V5 87,Legend Esport Gaming,3.0,AttributeError
+2019.0,spring,LDL,6,FunPlus Phoenix Blaze,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,6,FunPlus Phoenix Blaze,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,6,Triumphant Song Gaming,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,6,Triumphant Song Gaming,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,6,Triumphant Song Gaming,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,6,Bilibili Gaming Junior,SinoDragon Prince,1.0,AttributeError
+2019.0,spring,LDL,6,Bilibili Gaming Junior,SinoDragon Prince,2.0,AttributeError
+2019.0,spring,LDL,6,Triumphant Song Gaming,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,6,Triumphant Song Gaming,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,6,Triumphant Song Gaming,Victorious Gaming,3.0,AttributeError
+2019.0,spring,LDL,6,EDG Youth Team,Rogue Warriors Shark,1.0,AttributeError
+2019.0,spring,LDL,6,EDG Youth Team,Rogue Warriors Shark,2.0,AttributeError
+2019.0,spring,LDL,6,EDG Youth Team,Rogue Warriors Shark,3.0,AttributeError
+2019.0,spring,LDL,6,LinGan eSports,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,6,LinGan eSports,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,6,King of Future,Suning S,1.0,AttributeError
+2019.0,spring,LDL,6,King of Future,Suning S,2.0,AttributeError
+2019.0,spring,LDL,6,Legend Esport Gaming,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,6,Legend Esport Gaming,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,6,Legend Esport Gaming,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,6,FunPlus Phoenix Blaze,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,6,FunPlus Phoenix Blaze,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,6,SinoDragon Prince,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,6,SinoDragon Prince,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,6,Bilibili Gaming Junior,Team WE Academy,1.0,AttributeError
+2019.0,spring,LDL,6,Bilibili Gaming Junior,Team WE Academy,2.0,AttributeError
+2019.0,spring,LDL,6,Bilibili Gaming Junior,Team WE Academy,3.0,AttributeError
+2019.0,spring,LDL,6,VP Game,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,6,VP Game,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,6,Unlimited Potential,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,6,Unlimited Potential,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,6,Unlimited Potential,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,6,Snake WuDu,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,6,Snake WuDu,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,6,Snake WuDu,Vici Gaming Potential,3.0,AttributeError
+2019.0,spring,LDL,6,Victorious Gaming,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,6,Victorious Gaming,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,6,Victorious Gaming,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,6,SinoDragon Prince,IG Young,1.0,AttributeError
+2019.0,spring,LDL,6,SinoDragon Prince,IG Young,2.0,AttributeError
+2019.0,spring,LDL,6,FunPlus Phoenix Blaze,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,6,FunPlus Phoenix Blaze,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,6,King of Future,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,6,King of Future,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,6,King of Future,Oh My Dream,3.0,AttributeError
+2019.0,spring,LDL,6,V5 87,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,6,V5 87,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,6,V5 87,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,6,EDG Youth Team,Suning S,1.0,AttributeError
+2019.0,spring,LDL,6,EDG Youth Team,Suning S,2.0,AttributeError
+2019.0,spring,LDL,6,EDG Youth Team,Suning S,3.0,AttributeError
+2019.0,spring,LDL,6,Triumphant Song Gaming,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,6,Triumphant Song Gaming,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,6,Rogue Warriors Shark,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,6,Rogue Warriors Shark,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,6,Rogue Warriors Shark,Vici Gaming Potential,3.0,AttributeError
+2019.0,spring,LDL,6,SinoDragon Prince,Snake WuDu,1.0,AttributeError
+2019.0,spring,LDL,6,SinoDragon Prince,Snake WuDu,2.0,AttributeError
+2019.0,spring,LDL,6,SinoDragon Prince,Snake WuDu,3.0,AttributeError
+2019.0,spring,LDL,6,Team WE Academy,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,6,Team WE Academy,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,6,Bilibili Gaming Junior,IG Young,1.0,AttributeError
+2019.0,spring,LDL,6,Bilibili Gaming Junior,IG Young,2.0,AttributeError
+2019.0,spring,LDL,6,LinGan eSports,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,6,LinGan eSports,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,6,VP Game,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,6,VP Game,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,6,VP Game,Royal Club,3.0,AttributeError
+2019.0,spring,LDL,6,Legend Esport Gaming,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,6,Legend Esport Gaming,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,6,Legend Esport Gaming,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,7,EDG Youth Team,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,7,EDG Youth Team,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,7,SinoDragon Prince,V5 87,1.0,AttributeError
+2019.0,spring,LDL,7,SinoDragon Prince,V5 87,2.0,AttributeError
+2019.0,spring,LDL,7,SinoDragon Prince,V5 87,3.0,AttributeError
+2019.0,spring,LDL,7,Rogue Warriors Shark,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,Rogue Warriors Shark,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,Rogue Warriors Shark,Triumphant Song Gaming,3.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,Suning S,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,7,Suning S,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,7,Suning S,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,7,Snake WuDu,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,7,Snake WuDu,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,7,Snake WuDu,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,7,Rogue Warriors Shark,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,7,Rogue Warriors Shark,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,7,FunPlus Phoenix Blaze,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,FunPlus Phoenix Blaze,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,FunPlus Phoenix Blaze,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,7,Vici Gaming Potential,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,7,Vici Gaming Potential,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,7,VP Game,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,7,VP Game,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,7,VP Game,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,7,Joy Dream,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,7,Joy Dream,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,7,IG Young,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,IG Young,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,VP Game,1.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,VP Game,2.0,AttributeError
+2019.0,spring,LDL,7,Bilibili Gaming Junior,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,7,Bilibili Gaming Junior,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,7,EDG Youth Team,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,EDG Youth Team,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,EDG Youth Team,Legend Esport Gaming,3.0,AttributeError
+2019.0,spring,LDL,7,Oh My Dream,V5 87,1.0,AttributeError
+2019.0,spring,LDL,7,Oh My Dream,V5 87,2.0,AttributeError
+2019.0,spring,LDL,7,Royal Club,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,Royal Club,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,Royal Club,Triumphant Song Gaming,3.0,AttributeError
+2019.0,spring,LDL,7,King of Future,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,7,King of Future,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,7,King of Future,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,7,FunPlus Phoenix Blaze,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,7,FunPlus Phoenix Blaze,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,7,SinoDragon Prince,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,SinoDragon Prince,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,SinoDragon Prince,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,7,Rogue Warriors Shark,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,7,Rogue Warriors Shark,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,7,Suning S,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,Suning S,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,Snake WuDu,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,7,Snake WuDu,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,7,Snake WuDu,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,7,Suning S,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,7,Suning S,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,7,Suning S,Oh My Dream,3.0,AttributeError
+2019.0,spring,LDL,7,VP Game,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,VP Game,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,VP Game,Triumphant Song Gaming,3.0,AttributeError
+2019.0,spring,LDL,7,IG Young,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,7,IG Young,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,7,IG Young,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,7,Vici Gaming Potential,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,Vici Gaming Potential,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,FunPlus Phoenix Blaze,V5 87,1.0,AttributeError
+2019.0,spring,LDL,7,FunPlus Phoenix Blaze,V5 87,2.0,AttributeError
+2019.0,spring,LDL,7,Joy Dream,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,7,Joy Dream,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,7,Team WE Academy,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,7,EDG Youth Team,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,7,EDG Youth Team,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,7,Bilibili Gaming Junior,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,Bilibili Gaming Junior,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,7,Royal Club,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,7,Royal Club,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,7,King of Future,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,7,King of Future,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,7,King of Future,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,7,Oh My Dream,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,7,Oh My Dream,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,8,SinoDragon Prince,FunPlus Phoenix Blaze,1.0,AttributeError
+2019.0,spring,LDL,8,SinoDragon Prince,FunPlus Phoenix Blaze,2.0,AttributeError
+2019.0,spring,LDL,8,EDG Youth Team,Team WE Academy,1.0,AttributeError
+2019.0,spring,LDL,8,EDG Youth Team,Team WE Academy,2.0,AttributeError
+2019.0,spring,LDL,8,LinGan eSports,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,8,LinGan eSports,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,8,King of Future,Snake WuDu,1.0,AttributeError
+2019.0,spring,LDL,8,King of Future,Snake WuDu,2.0,AttributeError
+2019.0,spring,LDL,8,King of Future,Snake WuDu,3.0,AttributeError
+2019.0,spring,LDL,8,V5 87,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,8,V5 87,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,8,V5 87,Triumphant Song Gaming,3.0,AttributeError
+2019.0,spring,LDL,8,Bilibili Gaming Junior,Rogue Warriors Shark,1.0,AttributeError
+2019.0,spring,LDL,8,Bilibili Gaming Junior,Rogue Warriors Shark,2.0,AttributeError
+2019.0,spring,LDL,8,Suning S,VP Game,1.0,AttributeError
+2019.0,spring,LDL,8,Suning S,VP Game,2.0,AttributeError
+2019.0,spring,LDL,8,Snake WuDu,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,8,Snake WuDu,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,8,V5 87,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,8,V5 87,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,8,IG Young,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,8,IG Young,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,8,IG Young,Royal Club,3.0,AttributeError
+2019.0,spring,LDL,8,LinGan eSports,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,8,LinGan eSports,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,8,EDG Youth Team,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,8,EDG Youth Team,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,8,Legend Esport Gaming,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,8,Legend Esport Gaming,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,8,SinoDragon Prince,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,8,SinoDragon Prince,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,8,King of Future,Team WE Academy,1.0,AttributeError
+2019.0,spring,LDL,8,King of Future,Team WE Academy,2.0,AttributeError
+2019.0,spring,LDL,8,Rogue Warriors Shark,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,8,Rogue Warriors Shark,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,8,Shu Dai Xiong Gaming,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,8,Shu Dai Xiong Gaming,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,8,Bilibili Gaming Junior,FunPlus Phoenix Blaze,1.0,AttributeError
+2019.0,spring,LDL,8,Bilibili Gaming Junior,FunPlus Phoenix Blaze,2.0,AttributeError
+2019.0,spring,LDL,8,Bilibili Gaming Junior,FunPlus Phoenix Blaze,3.0,AttributeError
+2019.0,spring,LDL,8,Scorpio Game,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,8,Scorpio Game,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,8,Scorpio Game,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,8,Vici Gaming Potential,Royal Club,1.0,AttributeError
+2019.0,spring,LDL,8,Vici Gaming Potential,Royal Club,2.0,AttributeError
+2019.0,spring,LDL,8,Suning S,IG Young,1.0,AttributeError
+2019.0,spring,LDL,8,Suning S,IG Young,2.0,AttributeError
+2019.0,spring,LDL,8,Suning S,IG Young,3.0,AttributeError
+2019.0,spring,LDL,8,LinGan eSports,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,8,LinGan eSports,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,8,LinGan eSports,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,8,V5 87,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,8,V5 87,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,8,Rogue Warriors Shark,VP Game,1.0,AttributeError
+2019.0,spring,LDL,8,Rogue Warriors Shark,VP Game,2.0,AttributeError
+2019.0,spring,LDL,8,Rogue Warriors Shark,VP Game,3.0,AttributeError
+2019.0,spring,LDL,8,Shu Dai Xiong Gaming,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,8,Shu Dai Xiong Gaming,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,8,EDG Youth Team,Snake WuDu,1.0,AttributeError
+2019.0,spring,LDL,8,EDG Youth Team,Snake WuDu,2.0,AttributeError
+2019.0,spring,LDL,8,EDG Youth Team,Snake WuDu,3.0,AttributeError
+2019.0,spring,LDL,8,King of Future,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,8,King of Future,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,8,King of Future,Joy Dream,3.0,AttributeError
+2019.0,spring,LDL,8,Team WE Academy,Oh My Dream,1.0,AttributeError
+2019.0,spring,LDL,8,Team WE Academy,Oh My Dream,2.0,AttributeError
+2019.0,spring,LDL,8,Triumphant Song Gaming,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,8,Triumphant Song Gaming,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,8,Triumphant Song Gaming,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,8,Bilibili Gaming Junior,Vici Gaming Potential,1.0,AttributeError
+2019.0,spring,LDL,8,Bilibili Gaming Junior,Vici Gaming Potential,2.0,AttributeError
+2019.0,spring,LDL,8,Bilibili Gaming Junior,Vici Gaming Potential,3.0,AttributeError
+2019.0,spring,LDL,8,SinoDragon Prince,VP Game,1.0,AttributeError
+2019.0,spring,LDL,8,SinoDragon Prince,VP Game,2.0,AttributeError
+2019.0,spring,LDL,8,Unlimited Potential,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,8,Unlimited Potential,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,9,Rogue Warriors Shark,V5 87,1.0,AttributeError
+2019.0,spring,LDL,9,Rogue Warriors Shark,V5 87,2.0,AttributeError
+2019.0,spring,LDL,9,Snake WuDu,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,Snake WuDu,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,Suning S,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,Suning S,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,FunPlus Phoenix Blaze,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,9,FunPlus Phoenix Blaze,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,9,FunPlus Phoenix Blaze,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,9,Team WE Academy,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,9,Team WE Academy,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,9,Team WE Academy,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,9,Joy Dream,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,9,Joy Dream,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,9,Joy Dream,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,9,Oh My Dream,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,9,Oh My Dream,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,9,Oh My Dream,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,9,IG Young,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,9,IG Young,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,9,IG Young,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,9,Vici Gaming Potential,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,Vici Gaming Potential,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,Vici Gaming Potential,Victorious Gaming,3.0,AttributeError
+2019.0,spring,LDL,9,VP Game,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,VP Game,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,EDG Youth Team,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,9,EDG Youth Team,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,9,EDG Youth Team,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,9,Royal Club,V5 87,1.0,AttributeError
+2019.0,spring,LDL,9,Royal Club,V5 87,2.0,AttributeError
+2019.0,spring,LDL,9,King of Future,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,King of Future,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,King of Future,Legend Esport Gaming,3.0,AttributeError
+2019.0,spring,LDL,9,Bilibili Gaming Junior,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,Bilibili Gaming Junior,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,Bilibili Gaming Junior,Triumphant Song Gaming,3.0,AttributeError
+2019.0,spring,LDL,9,SinoDragon Prince,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,9,SinoDragon Prince,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,9,SinoDragon Prince,Unlimited Potential,3.0,AttributeError
+2019.0,spring,LDL,9,EDG Youth Team,Joy Dream,1.0,AttributeError
+2019.0,spring,LDL,9,EDG Youth Team,Joy Dream,2.0,AttributeError
+2019.0,spring,LDL,9,EDG Youth Team,Joy Dream,3.0,AttributeError
+2019.0,spring,LDL,9,Rogue Warriors Shark,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,Rogue Warriors Shark,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,Rogue Warriors Shark,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,9,Suning S,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,9,Suning S,Scorpio Game,2.0,AttributeError
+2019.0,spring,LDL,9,Suning S,Scorpio Game,3.0,AttributeError
+2019.0,spring,LDL,9,Snake WuDu,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,9,Snake WuDu,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,9,Snake WuDu,Young Miracles,3.0,AttributeError
+2019.0,spring,LDL,9,Team WE Academy,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,Team WE Academy,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,FunPlus Phoenix Blaze,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,9,FunPlus Phoenix Blaze,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,9,Vici Gaming Potential,LinGan eSports,1.0,AttributeError
+2019.0,spring,LDL,9,Vici Gaming Potential,LinGan eSports,2.0,AttributeError
+2019.0,spring,LDL,9,Vici Gaming Potential,LinGan eSports,3.0,AttributeError
+2019.0,spring,LDL,9,VP Game,V5 87,1.0,AttributeError
+2019.0,spring,LDL,9,VP Game,V5 87,2.0,AttributeError
+2019.0,spring,LDL,9,Joy Dream,Legend Esport Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,Joy Dream,Legend Esport Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,Oh My Dream,Unlimited Potential,1.0,AttributeError
+2019.0,spring,LDL,9,Oh My Dream,Unlimited Potential,2.0,AttributeError
+2019.0,spring,LDL,9,IG Young,Triumphant Song Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,IG Young,Triumphant Song Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,EDG Youth Team,Victorious Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,EDG Youth Team,Victorious Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,King of Future,Young Miracles,1.0,AttributeError
+2019.0,spring,LDL,9,King of Future,Young Miracles,2.0,AttributeError
+2019.0,spring,LDL,9,Royal Club,Shu Dai Xiong Gaming,1.0,AttributeError
+2019.0,spring,LDL,9,Royal Club,Shu Dai Xiong Gaming,2.0,AttributeError
+2019.0,spring,LDL,9,Royal Club,Shu Dai Xiong Gaming,3.0,AttributeError
+2019.0,spring,LDL,9,SinoDragon Prince,Gama Dream,1.0,AttributeError
+2019.0,spring,LDL,9,SinoDragon Prince,Gama Dream,2.0,AttributeError
+2019.0,spring,LDL,9,SinoDragon Prince,Gama Dream,3.0,AttributeError
+2019.0,spring,LDL,9,Bilibili Gaming Junior,Scorpio Game,1.0,AttributeError
+2019.0,spring,LDL,9,Bilibili Gaming Junior,Scorpio Game,2.0,AttributeError

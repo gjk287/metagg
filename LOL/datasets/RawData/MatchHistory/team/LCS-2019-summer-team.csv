@@ -1,0 +1,184 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,LCS,1,Cloud9,FlyQuest,1.0,35:30,OK,blue,C9,   VICTORY   ,69.0k,21,  10 ,  3 ,  1 ,  2 ,  1 ,Draven,Rakan,RekSai,Ezreal,Sejuani
+2019.0,summer,LCS,1,Cloud9,FlyQuest,1.0,35:30,OK,red,FLY,   DEFEAT   ,61.5k,14,  4 ,  0 ,  0 ,  2 ,  0 ,Sona,Yuumi,Jayce,Kaisa,Sivir
+2019.0,summer,LCS,1,TL,TSM,1.0,29:42,OK,blue,TL,   VICTORY   ,59.1k,11,  11 ,  2 ,  1 ,  2 ,  0 ,Ryze,Yuumi,Aatrox,Draven,Sivir
+2019.0,summer,LCS,1,TL,TSM,1.0,29:42,OK,red,TSM,   DEFEAT   ,45.8k,4,  0 ,  0 ,  0 ,  1 ,  1 ,Taric,Jayce,Akali,JarvanIV,RekSai
+2019.0,summer,LCS,1,CLG,100 Thieves,1.0,31:59,OK,blue,CLG,   VICTORY   ,61.3k,12,  11 ,  3 ,  1 ,  3 ,  0 ,Irelia,Akali,Morgana,Jayce,Vladimir
+2019.0,summer,LCS,1,CLG,100 Thieves,1.0,31:59,OK,red,100,   DEFEAT   ,49.0k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Sylas,Ryze,Aatrox,Leblanc,Neeko
+2019.0,summer,LCS,1,OpTic Gaming,Clutch Gaming,1.0,38:53,OK,blue,CG,   DEFEAT   ,62.0k,9,  3 ,  0 ,  0 ,  3 ,  0 ,Irelia,Yuumi,Ryze,Leblanc,Rakan
+2019.0,summer,LCS,1,OpTic Gaming,Clutch Gaming,1.0,38:53,OK,red,OPT,   VICTORY   ,70.0k,14,  10 ,  2 ,  1 ,  2 ,  1 ,Aatrox,Taric,Sylas,Sivir,Kaisa
+2019.0,summer,LCS,1,Golden Guardians,Echo Fox,1.0,28:36,OK,blue,GGS,   VICTORY   ,56.9k,10,  10 ,  2 ,  1 ,  4 ,  1 ,Yuumi,Taric,Aatrox,Kalista,Xayah
+2019.0,summer,LCS,1,Golden Guardians,Echo Fox,1.0,28:36,OK,red,FOX,   DEFEAT   ,45.2k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Varus,Galio,Jayce,Sejuani,Braum
+2019.0,summer,LCS,1,Clutch Gaming,Cloud9,1.0,29:12,OK,blue,CG,   DEFEAT   ,44.6k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Irelia,Yuumi,Aatrox,Hecarim,Kindred
+2019.0,summer,LCS,1,Clutch Gaming,Cloud9,1.0,29:12,OK,red,C9,   VICTORY   ,59.0k,24,  10 ,  1 ,  1 ,  3 ,  0 ,Jayce,Rumble,Ryze,Neeko,Kennen
+2019.0,summer,LCS,1,FlyQuest,Golden Guardians,1.0,30:30,OK,blue,FLY,   DEFEAT   ,49.4k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Varus,Aatrox,Sylas,Akali,Velkoz
+2019.0,summer,LCS,1,FlyQuest,Golden Guardians,1.0,30:30,OK,red,GGS,   VICTORY   ,58.8k,9,  11 ,  4 ,  1 ,  4 ,  1 ,Irelia,Taric,Yuumi,Skarner,Vi
+2019.0,summer,LCS,1,Echo Fox,TL,1.0,28:36,OK,blue,FOX,   VICTORY   ,53.1k,11,  6 ,  1 ,  0 ,  1 ,  1 ,Ryze,Irelia,Aatrox,Rumble,Olaf
+2019.0,summer,LCS,1,Echo Fox,TL,1.0,28:36,OK,red,TL,   DEFEAT   ,50.2k,8,  4 ,  0 ,  0 ,  3 ,  0 ,Yuumi,Jayce,Taric,JarvanIV,Camille
+2019.0,summer,LCS,1,TSM,CLG,1.0,30:29,OK,blue,TSM,   VICTORY   ,57.3k,17,  7 ,  1 ,  1 ,  1 ,  0 ,Ryze,Yuumi,Sylas,Neeko,Leblanc
+2019.0,summer,LCS,1,TSM,CLG,1.0,30:29,OK,red,CLG,   DEFEAT   ,51.3k,10,  3 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Sejuani,Irelia,Akali,Yasuo
+2019.0,summer,LCS,1,100 Thieves,OpTic Gaming,1.0,34:19,OK,blue,100,   DEFEAT   ,53.4k,6,  3 ,  0 ,  1 ,  2 ,  1 ,Ryze,Yuumi,Taric,Rakan,Leblanc
+2019.0,summer,LCS,1,100 Thieves,OpTic Gaming,1.0,34:19,OK,red,OPT,   VICTORY   ,59.6k,9,  7 ,  1 ,  0 ,  2 ,  0 ,Aatrox,Sylas,Irelia,Braum,Thresh
+2019.0,summer,LCS,2,Cloud9,Echo Fox,1.0,36:13,OK,blue,C9,   VICTORY   ,64.8k,13,  11 ,  3 ,  1 ,  3 ,  0 ,Irelia,Sylas,Yuumi,Rakan,Lux
+2019.0,summer,LCS,2,Cloud9,Echo Fox,1.0,36:13,OK,red,FOX,   DEFEAT   ,59.3k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Olaf,Ryze,Aatrox,Hecarim,Camille
+2019.0,summer,LCS,2,TL,100 Thieves,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,summer,LCS,2,TSM,FlyQuest,1.0,24:53,OK,blue,TSM,   DEFEAT   ,39.2k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Irelia,Yuumi,Olaf,Ezreal,Sivir
+2019.0,summer,LCS,2,TSM,FlyQuest,1.0,24:53,OK,red,FLY,   VICTORY   ,48.7k,10,  8 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Sylas,Sejuani,Zilean,Camille
+2019.0,summer,LCS,2,OpTic Gaming,CLG,1.0,29:22,OK,blue,OPT,   VICTORY   ,54.9k,13,  10 ,  2 ,  1 ,  2 ,  1 ,Sona,Yuumi,Ryze,Rakan,Orianna
+2019.0,summer,LCS,2,OpTic Gaming,CLG,1.0,29:22,OK,red,CLG,   DEFEAT   ,45.1k,2,  2 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Akali,Neeko,Jayce,Leona
+2019.0,summer,LCS,2,Clutch Gaming,Golden Guardians,1.0,31:58,OK,blue,CG,   VICTORY   ,61.8k,12,  10 ,  3 ,  1 ,  4 ,  1 ,Olaf,Yuumi,Draven,Braum,TahmKench
+2019.0,summer,LCS,2,Clutch Gaming,Golden Guardians,1.0,31:58,OK,red,GGS,   DEFEAT   ,51.5k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Irelia,Ryze,Sivir,Xayah
+2019.0,summer,LCS,2,CLG,TL,1.0,36:17,OK,blue,CLG,   VICTORY   ,68.7k,13,  10 ,  2 ,  2 ,  4 ,  1 ,Irelia,Sona,Xayah,Leblanc,Akali
+2019.0,summer,LCS,2,CLG,TL,1.0,36:17,OK,red,TL,   DEFEAT   ,60.1k,8,  3 ,  0 ,  0 ,  2 ,  0 ,Yuumi,Ryze,Rumble,Lucian,Kaisa
+2019.0,summer,LCS,2,100 Thieves,Clutch Gaming,1.0,36:56,OK,blue,100,   DEFEAT   ,62.0k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Jayce,Irelia,LeeSin,Leblanc
+2019.0,summer,LCS,2,100 Thieves,Clutch Gaming,1.0,36:56,OK,red,CG,   VICTORY   ,69.5k,16,  11 ,  7 ,  3 ,  6 ,  1 ,Aatrox,Yuumi,Sylas,Hecarim,Camille
+2019.0,summer,LCS,2,Echo Fox,TSM,1.0,36:08,OK,blue,FOX,   DEFEAT   ,60.9k,11,  3 ,  0 ,  1 ,  1 ,  1 ,Olaf,Irelia,Ryze,Leblanc,JarvanIV
+2019.0,summer,LCS,2,Echo Fox,TSM,1.0,36:08,OK,red,TSM,   VICTORY   ,68.2k,21,  8 ,  1 ,  1 ,  4 ,  0 ,Sona,Camille,Sylas,Sejuani,Skarner
+2019.0,summer,LCS,2,Golden Guardians,Cloud9,1.0,35:26,OK,blue,GGS,   VICTORY   ,65.3k,17,  8 ,  1 ,  1 ,  4 ,  0 ,Yuumi,Sona,Sylas,JarvanIV,Hecarim
+2019.0,summer,LCS,2,Golden Guardians,Cloud9,1.0,35:26,OK,red,C9,   DEFEAT   ,58.2k,9,  4 ,  0 ,  1 ,  0 ,  1 ,Irelia,Ryze,Aatrox,Rumble,Jayce
+2019.0,summer,LCS,2,FlyQuest,OpTic Gaming,1.0,31:07,OK,blue,FLY,   DEFEAT   ,48.0k,3,  1 ,  0 ,  0 ,  2 ,  0 ,Yuumi,Ryze,Sejuani,Leblanc,Syndra
+2019.0,summer,LCS,2,FlyQuest,OpTic Gaming,1.0,31:07,OK,red,OPT,   VICTORY   ,56.9k,8,  11 ,  3 ,  1 ,  2 ,  1 ,Aatrox,Sylas,Irelia,Vladimir,Morgana
+2019.0,summer,LCS,3,TL,FlyQuest,1.0,29:52,OK,blue,TL,   VICTORY   ,59.9k,15,  10 ,  2 ,  1 ,  2 ,  0 ,Irelia,Yuumi,Sejuani,Rakan,Elise
+2019.0,summer,LCS,3,TL,FlyQuest,1.0,29:52,OK,red,FLY,   DEFEAT   ,48.0k,4,  3 ,  0 ,  1 ,  1 ,  1 ,Jayce,Sona,Olaf,Sivir,Ezreal
+2019.0,summer,LCS,3,Cloud9,OpTic Gaming,1.0,36:38,OK,blue,C9,   VICTORY   ,73.4k,18,  11 ,  2 ,  2 ,  3 ,  1 ,Poppy,Olaf,Sejuani,Lissandra,Kennen
+2019.0,summer,LCS,3,Cloud9,OpTic Gaming,1.0,36:38,OK,red,OPT,   DEFEAT   ,62.0k,6,  2 ,  0 ,  0 ,  3 ,  0 ,Sona,Sylas,Aatrox,Rakan,Alistar
+2019.0,summer,LCS,3,CLG,Echo Fox,1.0,43:00,OK,blue,CLG,   VICTORY   ,82.5k,16,  11 ,  5 ,  2 ,  5 ,  1 ,Irelia,Sona,Leblanc,Morgana,Nautilus
+2019.0,summer,LCS,3,CLG,Echo Fox,1.0,43:00,OK,red,FOX,   DEFEAT   ,80.0k,12,  5 ,  0 ,  1 ,  1 ,  0 ,Yuumi,Rumble,Aatrox,Kennen,RekSai
+2019.0,summer,LCS,3,Clutch Gaming,TSM,1.0,37:23,OK,blue,CG,   DEFEAT   ,61.9k,4,  3 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Sona,Sejuani,Sivir,Ezreal
+2019.0,summer,LCS,3,Clutch Gaming,TSM,1.0,37:23,OK,red,TSM,   VICTORY   ,73.8k,9,  11 ,  2 ,  2 ,  3 ,  1 ,Rumble,Sylas,Ryze,Olaf,Skarner
+2019.0,summer,LCS,3,100 Thieves,Golden Guardians,1.0,33:03,OK,blue,100,   DEFEAT   ,53.8k,12,  3 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Sona,Yuumi,Anivia,Leblanc
+2019.0,summer,LCS,3,100 Thieves,Golden Guardians,1.0,33:03,OK,red,GGS,   VICTORY   ,65.6k,18,  11 ,  3 ,  2 ,  4 ,  1 ,Sylas,Aatrox,Irelia,Ryze,Camille
+2019.0,summer,LCS,3,OpTic Gaming,TL,1.0,36:53,OK,blue,OPT,   DEFEAT   ,61.0k,12,  4 ,  0 ,  1 ,  1 ,  0 ,Lux,Ryze,Sona,Leblanc,Akali
+2019.0,summer,LCS,3,OpTic Gaming,TL,1.0,36:53,OK,red,TL,   VICTORY   ,68.2k,17,  10 ,  2 ,  1 ,  3 ,  1 ,Yuumi,Aatrox,Sylas,Sivir,Neeko
+2019.0,summer,LCS,3,Echo Fox,100 Thieves,1.0,35:27,OK,blue,FOX,   DEFEAT   ,62.1k,14,  6 ,  0 ,  1 ,  1 ,  1 ,Xayah,Yuumi,Trundle,Alistar,Braum
+2019.0,summer,LCS,3,Echo Fox,100 Thieves,1.0,35:27,OK,red,100,   VICTORY   ,65.5k,18,  8 ,  1 ,  1 ,  3 ,  0 ,Sona,Aatrox,Ryze,Gangplank,Azir
+2019.0,summer,LCS,3,TSM,Cloud9,1.0,34:36,OK,blue,TSM,   VICTORY   ,62.8k,15,  9 ,  1 ,  0 ,  2 ,  1 ,Yuumi,Ryze,Aatrox,Xayah,Ezreal
+2019.0,summer,LCS,3,TSM,Cloud9,1.0,34:36,OK,red,C9,   DEFEAT   ,57.8k,9,  1 ,  0 ,  0 ,  1 ,  0 ,Sona,Sejuani,Olaf,Akali,Jax
+2019.0,summer,LCS,3,FlyQuest,Clutch Gaming,1.0,39:35,OK,blue,CG,   VICTORY   ,75.0k,13,  11 ,  5 ,  3 ,  3 ,  1 ,Yuumi,Sona,Aatrox,TahmKench,Karma
+2019.0,summer,LCS,3,FlyQuest,Clutch Gaming,1.0,39:35,OK,red,FLY,   DEFEAT   ,65.2k,6,  2 ,  0 ,  0 ,  3 ,  0 ,Rumble,Jayce,Sejuani,Caitlyn,Gangplank
+2019.0,summer,LCS,3,Golden Guardians,CLG,1.0,32:04,OK,blue,GGS,   DEFEAT   ,54.9k,12,  5 ,  1 ,  0 ,  2 ,  1 ,Yuumi,Sylas,Rumble,Caitlyn,Sivir
+2019.0,summer,LCS,3,Golden Guardians,CLG,1.0,32:04,OK,red,CLG,   VICTORY   ,59.3k,15,  8 ,  1 ,  1 ,  2 ,  0 ,Sona,Aatrox,TahmKench,Thresh,Akali
+2019.0,summer,LCS,4,TL,Golden Guardians,1.0,38:06,OK,blue,TL,   VICTORY   ,70.2k,19,  9 ,  2 ,  2 ,  3 ,  1 ,Irelia,Yuumi,Olaf,Kennen,Leblanc
+2019.0,summer,LCS,4,TL,Golden Guardians,1.0,38:06,OK,red,GGS,   DEFEAT   ,64.3k,12,  3 ,  0 ,  0 ,  2 ,  0 ,Karma,Sejuani,Sona,Gragas,Trundle
+2019.0,summer,LCS,4,TSM,OpTic Gaming,1.0,40:43,OK,blue,TSM,   DEFEAT   ,67.9k,9,  8 ,  1 ,  1 ,  3 ,  1 ,Yuumi,Irelia,Olaf,Draven,Akali
+2019.0,summer,LCS,4,TSM,OpTic Gaming,1.0,40:43,OK,red,OPT,   VICTORY   ,75.0k,13,  9 ,  3 ,  2 ,  3 ,  0 ,TwistedFate,Karma,Sona,Azir,Zilean
+2019.0,summer,LCS,4,100 Thieves,Cloud9,1.0,35:35,OK,blue,100,   VICTORY   ,64.9k,18,  11 ,  3 ,  1 ,  1 ,  0 ,Yasuo,Irelia,Sona,Azir,Zilean
+2019.0,summer,LCS,4,100 Thieves,Cloud9,1.0,35:35,OK,red,C9,   DEFEAT   ,58.6k,8,  1 ,  0 ,  0 ,  4 ,  1 ,Karma,Sejuani,Yuumi,Elise,Neeko
+2019.0,summer,LCS,4,CLG,FlyQuest,1.0,29:42,OK,blue,CLG,   VICTORY   ,55.1k,11,  9 ,  1 ,  1 ,  3 ,  0 ,Leblanc,Sona,Yuumi,Azir,Ezreal
+2019.0,summer,LCS,4,CLG,FlyQuest,1.0,29:42,OK,red,FLY,   DEFEAT   ,47.3k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Karma,Syndra,Sejuani,Olaf,Elise
+2019.0,summer,LCS,4,Echo Fox,Clutch Gaming,1.0,27:43,OK,blue,FOX,   DEFEAT   ,44.9k,9,  2 ,  0 ,  0 ,  2 ,  1 ,Rumble,Sejuani,Leblanc,Gragas,Trundle
+2019.0,summer,LCS,4,Echo Fox,Clutch Gaming,1.0,27:43,OK,red,CG,   VICTORY   ,53.4k,12,  8 ,  1 ,  1 ,  1 ,  0 ,Karma,Yuumi,Azir,Kalista,Lucian
+2019.0,summer,LCS,4,Cloud9,CLG,1.0,35:42,OK,blue,C9,   VICTORY   ,69.0k,11,  10 ,  2 ,  2 ,  4 ,  1 ,Sivir,Renekton,Yuumi,Rumble,Kennen
+2019.0,summer,LCS,4,Cloud9,CLG,1.0,35:42,OK,red,CLG,   DEFEAT   ,58.0k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Sona,Karma,Yasuo,Varus,Leblanc
+2019.0,summer,LCS,4,FlyQuest,100 Thieves,1.0,41:12,OK,blue,FLY,   DEFEAT   ,66.5k,5,  5 ,  1 ,  1 ,  3 ,  1 ,Irelia,Akali,Sona,Poppy,Jax
+2019.0,summer,LCS,4,FlyQuest,100 Thieves,1.0,41:12,OK,red,100,   VICTORY   ,74.9k,9,  10 ,  3 ,  2 ,  3 ,  0 ,Karma,Aatrox,Yuumi,Azir,Riven
+2019.0,summer,LCS,4,Clutch Gaming,TL,1.0,29:05,OK,blue,TL,   VICTORY   ,56.6k,17,  8 ,  1 ,  0 ,  3 ,  1 ,Rumble,Irelia,Olaf,Leblanc,TwistedFate
+2019.0,summer,LCS,4,Clutch Gaming,TL,1.0,29:05,OK,red,CG,   DEFEAT   ,50.6k,8,  6 ,  0 ,  1 ,  1 ,  0 ,Karma,Aatrox,Yuumi,Camille,Gangplank
+2019.0,summer,LCS,4,Golden Guardians,TSM,1.0,49:41,OK,blue,GGS,   DEFEAT   ,89.0k,14,  6 ,  1 ,  1 ,  3 ,  1 ,Yuumi,Sona,Irelia,JarvanIV,TwistedFate
+2019.0,summer,LCS,4,Golden Guardians,TSM,1.0,49:41,OK,red,TSM,   VICTORY   ,95.7k,25,  11 ,  4 ,  3 ,  4 ,  0 ,Karma,TahmKench,Sejuani,Akali,Olaf
+2019.0,summer,LCS,4,OpTic Gaming,Echo Fox,1.0,37:34,OK,blue,FOX,   VICTORY   ,66.6k,15,  9 ,  1 ,  1 ,  2 ,  0 ,Irelia,Camille,Olaf,Poppy,Neeko
+2019.0,summer,LCS,4,OpTic Gaming,Echo Fox,1.0,37:34,OK,red,OPT,   DEFEAT   ,60.2k,6,  2 ,  0 ,  1 ,  3 ,  1 ,Karma,Sona,Azir,Trundle,Skarner
+2019.0,summer,LCS,5,FlyQuest,Echo Fox,1.0,36:04,OK,blue,FLY,   VICTORY   ,70.1k,15,  10 ,  2 ,  1 ,  4 ,  1 ,Irelia,Azir,Sejuani,Gragas,Elise
+2019.0,summer,LCS,5,FlyQuest,Echo Fox,1.0,36:04,OK,red,FOX,   DEFEAT   ,58.0k,3,  2 ,  0 ,  0 ,  1 ,  0 ,Karma,Sona,JarvanIV,Lucian,Ezreal
+2019.0,summer,LCS,5,TL,Cloud9,1.0,27:38,OK,blue,TL,   DEFEAT   ,43.6k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Irelia,Yasuo,JarvanIV,Zoe,TwistedFate
+2019.0,summer,LCS,5,TL,Cloud9,1.0,27:38,OK,red,C9,   VICTORY   ,53.1k,15,  8 ,  1 ,  1 ,  2 ,  1 ,Karma,TahmKench,Yuumi,Sona,Xayah
+2019.0,summer,LCS,5,TSM,100 Thieves,1.0,30:28,OK,blue,TSM,   VICTORY   ,60.0k,15,  10 ,  2 ,  1 ,  3 ,  0 ,Rakan,Irelia,Yasuo,JarvanIV,Skarner
+2019.0,summer,LCS,5,TSM,100 Thieves,1.0,30:28,OK,red,100,   DEFEAT   ,49.0k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Karma,Sona,Camille,Zilean,Kennen
+2019.0,summer,LCS,5,Golden Guardians,OpTic Gaming,1.0,30:38,OK,blue,GGS,   DEFEAT   ,50.0k,4,  4 ,  1 ,  0 ,  1 ,  0 ,TwistedFate,Irelia,Neeko,Kalista,Yasuo
+2019.0,summer,LCS,5,Golden Guardians,OpTic Gaming,1.0,30:38,OK,red,OPT,   VICTORY   ,60.0k,15,  8 ,  2 ,  2 ,  3 ,  1 ,Karma,Sona,Vladimir,Gangplank,Kennen
+2019.0,summer,LCS,5,Clutch Gaming,CLG,1.0,37:50,OK,blue,CG,   DEFEAT   ,60.9k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Irelia,Aatrox,Lux,Viktor,Azir
+2019.0,summer,LCS,5,Clutch Gaming,CLG,1.0,37:50,OK,red,CLG,   VICTORY   ,72.4k,11,  11 ,  3 ,  2 ,  5 ,  0 ,Karma,Sejuani,Yuumi,Sylas,TwistedFate
+2019.0,summer,LCS,5,Echo Fox,Golden Guardians,1.0,36:32,OK,blue,FOX,   DEFEAT   ,62.7k,11,  3 ,  0 ,  0 ,  1 ,  0 ,Irelia,TahmKench,Sivir,Braum,Leblanc
+2019.0,summer,LCS,5,Echo Fox,Golden Guardians,1.0,36:32,OK,red,GGS,   VICTORY   ,70.7k,24,  11 ,  3 ,  1 ,  4 ,  1 ,Karma,Aatrox,Jayce,Akali,Neeko
+2019.0,summer,LCS,5,Cloud9,Clutch Gaming,1.0,28:10,OK,blue,C9,   VICTORY   ,56.1k,20,  11 ,  3 ,  1 ,  3 ,  1 ,Rumble,Irelia,Xayah,Sivir,Kaisa
+2019.0,summer,LCS,5,Cloud9,Clutch Gaming,1.0,28:10,OK,red,CG,   DEFEAT   ,42.4k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Karma,Sejuani,Sona,Olaf,Gragas
+2019.0,summer,LCS,5,100 Thieves,TL,1.0,43:08,OK,blue,100,   DEFEAT   ,70.0k,14,  6 ,  0 ,  1 ,  1 ,  1 ,Irelia,Lux,TahmKench,Gangplank,Aatrox
+2019.0,summer,LCS,5,100 Thieves,TL,1.0,43:08,OK,red,TL,   VICTORY   ,77.1k,20,  7 ,  1 ,  0 ,  5 ,  0 ,Karma,Sejuani,Yuumi,TwistedFate,Kennen
+2019.0,summer,LCS,5,CLG,TSM,1.0,25:00,OK,blue,CLG,   VICTORY   ,52.2k,18,  11 ,  2 ,  1 ,  2 ,  1 ,TwistedFate,Sona,Lux,Irelia,Akali
+2019.0,summer,LCS,5,CLG,TSM,1.0,25:00,OK,red,TSM,   DEFEAT   ,39.2k,7,  1 ,  0 ,  0 ,  2 ,  0 ,Sejuani,Karma,Vladimir,Skarner,Azir
+2019.0,summer,LCS,5,OpTic Gaming,FlyQuest,1.0,43:51,OK,blue,FLY,   VICTORY   ,81.2k,15,  11 ,  3 ,  1 ,  4 ,  0 ,Irelia,Nautilus,Sejuani,TwistedFate,Lux
+2019.0,summer,LCS,5,OpTic Gaming,FlyQuest,1.0,43:51,OK,red,OPT,   DEFEAT   ,76.8k,6,  8 ,  2 ,  1 ,  3 ,  1 ,Karma,Sona,Riven,Akali,Kennen
+2019.0,summer,LCS,6,TSM,Clutch Gaming,1.0,37:46,OK,blue,TSM,   VICTORY   ,71.3k,12,  11 ,  5 ,  1 ,  5 ,  0 ,Rumble,Irelia,Sylas,Yasuo,Skarner
+2019.0,summer,LCS,6,TSM,Clutch Gaming,1.0,37:46,OK,red,CG,   DEFEAT   ,62.9k,5,  6 ,  0 ,  1 ,  1 ,  1 ,TahmKench,Sivir,Karma,Jayce,Aatrox
+2019.0,summer,LCS,6,TL,CLG,1.0,37:08,OK,blue,TL,   VICTORY   ,75.1k,16,  11 ,  5 ,  3 ,  4 ,  1 ,Lux,Sylas,Sejuani,Corki,Irelia
+2019.0,summer,LCS,6,TL,CLG,1.0,37:08,OK,red,CLG,   DEFEAT   ,63.0k,11,  1 ,  0 ,  0 ,  1 ,  0 ,Karma,Sona,Yuumi,Aatrox,Jayce
+2019.0,summer,LCS,6,Golden Guardians,FlyQuest,1.0,27:45,OK,blue,GGS,   DEFEAT   ,43.2k,4,  2 ,  0 ,  0 ,  2 ,  1 ,Irelia,Azir,Neeko,Taric,Braum
+2019.0,summer,LCS,6,Golden Guardians,FlyQuest,1.0,27:45,OK,red,FLY,   VICTORY   ,53.8k,14,  8 ,  1 ,  1 ,  1 ,  0 ,Karma,Yuumi,Sejuani,Jayce,Qiyana
+2019.0,summer,LCS,6,Echo Fox,Cloud9,1.0,51:19,OK,blue,FOX,   VICTORY   ,90.9k,14,  10 ,  2 ,  2 ,  4 ,  0 ,Irelia,Sona,TahmKench,Kennen,Aatrox
+2019.0,summer,LCS,6,Echo Fox,Cloud9,1.0,51:19,OK,red,C9,   DEFEAT   ,83.4k,14,  5 ,  0 ,  1 ,  3 ,  1 ,Karma,Qiyana,Azir,Sejuani,Sylas
+2019.0,summer,LCS,6,OpTic Gaming,100 Thieves,1.0,33:07,OK,blue,OPT,   DEFEAT   ,56.9k,10,  5 ,  0 ,  0 ,  2 ,  1 ,Xayah,Yuumi,Sona,Kennen,Ornn
+2019.0,summer,LCS,6,OpTic Gaming,100 Thieves,1.0,33:07,OK,red,100,   VICTORY   ,59.6k,12,  8 ,  1 ,  1 ,  2 ,  0 ,Karma,Sejuani,Draven,TahmKench,Ezreal
+2019.0,summer,LCS,6,FlyQuest,TL,1.0,28:27,OK,blue,FLY,   DEFEAT   ,44.2k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Jayce,Gangplank,Sejuani,Aatrox,Qiyana
+2019.0,summer,LCS,6,FlyQuest,TL,1.0,28:27,OK,red,TL,   VICTORY   ,56.8k,13,  10 ,  2 ,  1 ,  4 ,  1 ,Yuumi,Karma,Sona,Camille,Irelia
+2019.0,summer,LCS,6,Cloud9,TSM,1.0,36:07,OK,blue,C9,   VICTORY   ,60.8k,17,  8 ,  1 ,  0 ,  0 ,  0 ,TwistedFate,Azir,Qiyana,Irelia,Corki
+2019.0,summer,LCS,6,Cloud9,TSM,1.0,36:07,OK,red,TSM,   DEFEAT   ,62.7k,16,  5 ,  0 ,  1 ,  4 ,  1 ,Sona,Karma,Yuumi,Akali,Veigar
+2019.0,summer,LCS,6,CLG,Golden Guardians,1.0,31:04,OK,blue,CLG,   DEFEAT   ,53.9k,17,  4 ,  0 ,  0 ,  3 ,  1 ,Lux,Sejuani,Sylas,Azir,Corki
+2019.0,summer,LCS,6,CLG,Golden Guardians,1.0,31:04,OK,red,GGS,   VICTORY   ,58.0k,15,  9 ,  2 ,  2 ,  1 ,  0 ,Karma,Yuumi,TahmKench,Neeko,Jayce
+2019.0,summer,LCS,6,100 Thieves,Echo Fox,1.0,30:56,OK,blue,100,   VICTORY   ,57.8k,12,  11 ,  3 ,  1 ,  3 ,  1 ,Irelia,Yuumi,Gangplank,Ezreal,Varus
+2019.0,summer,LCS,6,100 Thieves,Echo Fox,1.0,30:56,OK,red,FOX,   DEFEAT   ,50.7k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Karma,Xayah,Sona,Kalista,Kaisa
+2019.0,summer,LCS,6,Clutch Gaming,OpTic Gaming,1.0,32:32,OK,blue,CG,   VICTORY   ,64.4k,18,  11 ,  3 ,  2 ,  4 ,  1 ,Sejuani,Nautilus,Irelia,Thresh,Aatrox
+2019.0,summer,LCS,6,Clutch Gaming,OpTic Gaming,1.0,32:32,OK,red,OPT,   DEFEAT   ,52.7k,6,  3 ,  0 ,  0 ,  0 ,  0 ,Karma,Yuumi,Sona,Sylas,LeeSin
+2019.0,summer,LCS,7,Cloud9,100 Thieves,1.0,31:12,OK,blue,C9,   VICTORY   ,63.9k,18,  10 ,  3 ,  2 ,  2 ,  0 ,Corki,Xayah,Diana,Azir,Gangplank
+2019.0,summer,LCS,7,Cloud9,100 Thieves,1.0,31:12,OK,red,100,   DEFEAT   ,48.9k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Sona,Karma,Qiyana,Camille
+2019.0,summer,LCS,7,TSM,Golden Guardians,1.0,39:31,OK,blue,TSM,   VICTORY   ,68.9k,8,  9 ,  1 ,  2 ,  2 ,  1 ,Irelia,Lux,JarvanIV,Sivir,Corki
+2019.0,summer,LCS,7,TSM,Golden Guardians,1.0,39:31,OK,red,GGS,   DEFEAT   ,71.1k,14,  4 ,  0 ,  1 ,  4 ,  0 ,Sona,Karma,Yuumi,Jayce,Akali
+2019.0,summer,LCS,7,FlyQuest,CLG,1.0,31:32,OK,blue,FLY,   DEFEAT   ,50.7k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Irelia,Jayce,Viktor,Diana,Qiyana
+2019.0,summer,LCS,7,FlyQuest,CLG,1.0,31:32,OK,red,CLG,   VICTORY   ,57.8k,7,  8 ,  1 ,  0 ,  4 ,  0 ,Yuumi,Sona,Riven,Azir,Sejuani
+2019.0,summer,LCS,7,TL,Clutch Gaming,1.0,28:07,OK,blue,TL,   VICTORY   ,52.8k,12,  10 ,  2 ,  0 ,  2 ,  0 ,Irelia,Qiyana,JarvanIV,Olaf,Elise
+2019.0,summer,LCS,7,TL,Clutch Gaming,1.0,28:07,OK,red,CG,   DEFEAT   ,42.4k,4,  1 ,  0 ,  0 ,  1 ,  1 ,TahmKench,Morgana,Jayce,TwistedFate,Aatrox
+2019.0,summer,LCS,7,Echo Fox,OpTic Gaming,1.0,23:53,OK,blue,FOX,   DEFEAT   ,33.3k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Sylas,Sejuani,Azir,TwistedFate
+2019.0,summer,LCS,7,Echo Fox,OpTic Gaming,1.0,23:53,OK,red,OPT,   VICTORY   ,49.5k,12,  9 ,  1 ,  1 ,  3 ,  1 ,Karma,Yuumi,Sona,Sivir,Varus
+2019.0,summer,LCS,7,Golden Guardians,TL,1.0,27:09,OK,blue,GGS,   DEFEAT   ,41.8k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Sona,Sejuani,JarvanIV,Gangplank,Akali
+2019.0,summer,LCS,7,Golden Guardians,TL,1.0,27:09,OK,red,TL,   VICTORY   ,55.3k,20,  10 ,  1 ,  1 ,  2 ,  0 ,Yuumi,Karma,Anivia,Irelia,Kennen
+2019.0,summer,LCS,7,CLG,Cloud9,1.0,28:12,OK,blue,CLG,   VICTORY   ,56.5k,9,  11 ,  2 ,  1 ,  4 ,  1 ,Yasuo,Qiyana,Sejuani,Veigar,Akali
+2019.0,summer,LCS,7,CLG,Cloud9,1.0,28:12,OK,red,C9,   DEFEAT   ,45.5k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Karma,JarvanIV,Viktor,Azir
+2019.0,summer,LCS,7,OpTic Gaming,TSM,1.0,31:00,OK,blue,OPT,   VICTORY   ,60.1k,13,  11 ,  3 ,  1 ,  3 ,  1 ,Sona,TwistedFate,Karma,Azir,Akali
+2019.0,summer,LCS,7,OpTic Gaming,TSM,1.0,31:00,OK,red,TSM,   DEFEAT   ,49.2k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Olaf,Sejuani,Yuumi,Qiyana,Irelia
+2019.0,summer,LCS,7,Clutch Gaming,Echo Fox,1.0,28:28,OK,blue,CG,   VICTORY   ,57.9k,19,  11 ,  3 ,  1 ,  4 ,  1 ,Olaf,Azir,Sejuani,Sona,Varus
+2019.0,summer,LCS,7,Clutch Gaming,Echo Fox,1.0,28:28,OK,red,FOX,   DEFEAT   ,46.3k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Karma,Yuumi,Rumble,TwistedFate,Viktor
+2019.0,summer,LCS,7,100 Thieves,FlyQuest,1.0,28:42,OK,blue,100,   VICTORY   ,55.7k,10,  11 ,  3 ,  1 ,  2 ,  1 ,Riven,Irelia,Sona,Ezreal,Sivir
+2019.0,summer,LCS,7,100 Thieves,FlyQuest,1.0,28:42,OK,red,FLY,   DEFEAT   ,42.6k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Karma,Yuumi,Jayce,Xayah,TahmKench
+2019.0,summer,LCS,8,TL,OpTic Gaming,1.0,34:04,OK,blue,TL,   VICTORY   ,66.0k,16,  7 ,  1 ,  1 ,  2 ,  1 ,Ezreal,Sejuani,Sylas,TwistedFate,Vladimir
+2019.0,summer,LCS,8,TL,OpTic Gaming,1.0,34:04,OK,red,OPT,   DEFEAT   ,63.3k,16,  5 ,  0 ,  1 ,  2 ,  0 ,Karma,Sona,Rakan,Skarner,Trundle
+2019.0,summer,LCS,8,FlyQuest,Cloud9,1.0,29:55,OK,blue,C9,   DEFEAT   ,47.4k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Riven,Corki,Azir,Irelia,Qiyana
+2019.0,summer,LCS,8,FlyQuest,Cloud9,1.0,29:55,OK,red,FLY,   VICTORY   ,58.6k,18,  9 ,  2 ,  1 ,  4 ,  0 ,Sylas,Karma,Lux,Camille,Poppy
+2019.0,summer,LCS,8,Golden Guardians,100 Thieves,1.0,28:54,OK,blue,GGS,   VICTORY   ,55.1k,12,  9 ,  2 ,  1 ,  3 ,  1 ,Rakan,Sejuani,Azir,Akali,Aatrox
+2019.0,summer,LCS,8,Golden Guardians,100 Thieves,1.0,28:54,OK,red,100,   DEFEAT   ,47.2k,5,  3 ,  0 ,  0 ,  1 ,  0 ,Karma,Yuumi,Sylas,Velkoz,Anivia
+2019.0,summer,LCS,8,TSM,Echo Fox,1.0,45:09,OK,blue,TSM,   VICTORY   ,81.2k,16,  11 ,  5 ,  1 ,  4 ,  0 ,Irelia,Aatrox,JarvanIV,Fiora,Skarner
+2019.0,summer,LCS,8,TSM,Echo Fox,1.0,45:09,OK,red,FOX,   DEFEAT   ,86.9k,19,  8 ,  1 ,  3 ,  3 ,  1 ,Karma,Yuumi,Sejuani,Olaf,Azir
+2019.0,summer,LCS,8,CLG,Clutch Gaming,1.0,36:05,OK,blue,CG,   DEFEAT   ,59.9k,5,  5 ,  0 ,  0 ,  2 ,  1 ,JarvanIV,Sona,Yuumi,Aatrox,Irelia
+2019.0,summer,LCS,8,CLG,Clutch Gaming,1.0,36:05,OK,red,CLG,   VICTORY   ,65.3k,7,  9 ,  1 ,  1 ,  3 ,  0 ,Rumble,Qiyana,Sylas,Cassiopeia,Akali
+2019.0,summer,LCS,8,OpTic Gaming,Golden Guardians,1.0,40:30,OK,blue,OPT,   DEFEAT   ,65.9k,7,  3 ,  0 ,  0 ,  2 ,  0 ,Karthus,Nautilus,Tristana,TwistedFate,Gragas
+2019.0,summer,LCS,8,OpTic Gaming,Golden Guardians,1.0,40:30,OK,red,GGS,   VICTORY   ,73.7k,15,  11 ,  3 ,  1 ,  4 ,  1 ,Sylas,Karma,Yuumi,Camille,Irelia
+2019.0,summer,LCS,8,100 Thieves,TSM,1.0,31:56,OK,blue,100,   VICTORY   ,60.8k,12,  10 ,  2 ,  1 ,  4 ,  0 ,Sona,Sylas,Irelia,Pyke,Caitlyn
+2019.0,summer,LCS,8,100 Thieves,TSM,1.0,31:56,OK,red,TSM,   DEFEAT   ,50.1k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Rakan,Karma,Yuumi,Kled,Gangplank
+2019.0,summer,LCS,8,Cloud9,TL,1.0,28:39,OK,blue,C9,   VICTORY   ,53.5k,14,  6 ,  1 ,  1 ,  2 ,  0 ,Corki,Morgana,Nautilus,Azir,Poppy
+2019.0,summer,LCS,8,Cloud9,TL,1.0,28:39,OK,red,TL,   DEFEAT   ,48.3k,4,  4 ,  0 ,  0 ,  2 ,  1 ,Sylas,Sejuani,Karma,Irelia,Yasuo
+2019.0,summer,LCS,8,Echo Fox,CLG,1.0,28:37,OK,blue,CLG,   VICTORY   ,57.6k,19,  11 ,  3 ,  1 ,  4 ,  0 ,TwistedFate,Azir,Cassiopeia,Braum,Nautilus
+2019.0,summer,LCS,8,Echo Fox,CLG,1.0,28:37,OK,red,FOX,   DEFEAT   ,44.2k,6,  1 ,  0 ,  0 ,  0 ,  1 ,Yuumi,Karma,Sejuani,TahmKench,Ezreal
+2019.0,summer,LCS,8,Clutch Gaming,FlyQuest,1.0,36:50,OK,blue,CG,   VICTORY   ,73.7k,17,  11 ,  4 ,  2 ,  4 ,  0 ,Riven,Yuumi,TahmKench,Kaisa,Kalista
+2019.0,summer,LCS,8,Clutch Gaming,FlyQuest,1.0,36:50,OK,red,FLY,   DEFEAT   ,61.8k,7,  0 ,  0 ,  0 ,  1 ,  1 ,Rumble,Sylas,Skarner,Gangplank,Braum
+2019.0,summer,LCS,9,CLG,OpTic Gaming,1.0,37:54,OK,blue,OPT,   DEFEAT   ,61.7k,8,  5 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Corki,Sejuani,Poppy,Irelia
+2019.0,summer,LCS,9,CLG,OpTic Gaming,1.0,37:54,OK,red,CLG,   VICTORY   ,71.9k,15,  9 ,  1 ,  2 ,  5 ,  1 ,Draven,Yuumi,Azir,Tristana,Zoe
+2019.0,summer,LCS,9,Cloud9,Golden Guardians,1.0,29:20,OK,blue,C9,   VICTORY   ,59.8k,25,  11 ,  3 ,  1 ,  2 ,  0 ,Corki,Anivia,TwistedFate,Sona,Varus
+2019.0,summer,LCS,9,Cloud9,Golden Guardians,1.0,29:20,OK,red,GGS,   DEFEAT   ,49.8k,8,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Sylas,Sejuani,Gragas,LeeSin
+2019.0,summer,LCS,9,Clutch Gaming,100 Thieves,1.0,36:05,OK,blue,CG,   VICTORY   ,68.0k,13,  7 ,  1 ,  1 ,  2 ,  1 ,Sejuani,Ezreal,Yuumi,Aatrox,Jayce
+2019.0,summer,LCS,9,Clutch Gaming,100 Thieves,1.0,36:05,OK,red,100,   DEFEAT   ,56.1k,5,  1 ,  0 ,  0 ,  2 ,  0 ,Rumble,Sivir,Tristana,Skarner,Sylas
+2019.0,summer,LCS,9,FlyQuest,TSM,1.0,33:08,OK,blue,TSM,   VICTORY   ,61.3k,15,  9 ,  1 ,  1 ,  2 ,  1 ,Irelia,Riven,Sona,Kaisa,TwistedFate
+2019.0,summer,LCS,9,FlyQuest,TSM,1.0,33:08,OK,red,FLY,   DEFEAT   ,51.5k,7,  1 ,  0 ,  0 ,  2 ,  0 ,Sylas,Azir,Corki,Akali,Jayce
+2019.0,summer,LCS,9,TL,Echo Fox,1.0,31:40,OK,blue,TL,   VICTORY   ,58.6k,18,  10 ,  1 ,  0 ,  3 ,  1 ,Corki,Azir,Karma,Sylas,Kennen
+2019.0,summer,LCS,9,TL,Echo Fox,1.0,31:40,OK,red,FOX,   DEFEAT   ,47.6k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Yuumi,Sona,Sejuani,Skarner,RekSai
+2019.0,summer,LCS,9,OpTic Gaming,Cloud9,1.0,26:00,OK,blue,OPT,   DEFEAT   ,41.3k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Rakan,Yasuo,Aatrox,Braum,Vladimir
+2019.0,summer,LCS,9,OpTic Gaming,Cloud9,1.0,26:00,OK,red,C9,   VICTORY   ,52.9k,24,  9 ,  1 ,  1 ,  3 ,  1 ,Corki,Yuumi,Sylas,Poppy,Nautilus
+2019.0,summer,LCS,9,100 Thieves,CLG,1.0,42:51,OK,blue,100,   VICTORY   ,78.9k,18,  8 ,  2 ,  0 ,  3 ,  1 ,Sylas,Karma,Azir,Jayce,Corki
+2019.0,summer,LCS,9,100 Thieves,CLG,1.0,42:51,OK,red,CLG,   DEFEAT   ,73.7k,16,  3 ,  0 ,  1 ,  3 ,  0 ,Xayah,Yuumi,Ezreal,Aatrox,Irelia
+2019.0,summer,LCS,9,TSM,TL,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,summer,LCS,9,Golden Guardians,Clutch Gaming,1.0,34:42,OK,blue,CG,   VICTORY   ,64.5k,20,  9 ,  2 ,  1 ,  4 ,  1 ,Yuumi,Ezreal,Karthus,Anivia,Velkoz
+2019.0,summer,LCS,9,Golden Guardians,Clutch Gaming,1.0,34:42,OK,red,GGS,   DEFEAT   ,55.8k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Akali,Sylas,Rakan,Gangplank,Qiyana
+2019.0,summer,LCS,9,Echo Fox,FlyQuest,1.0,43:31,OK,blue,FOX,   VICTORY   ,83.8k,15,  11 ,  6 ,  3 ,  4 ,  1 ,Riven,Sona,Irelia,RekSai,Gragas
+2019.0,summer,LCS,9,Echo Fox,FlyQuest,1.0,43:31,OK,red,FLY,   DEFEAT   ,75.3k,12,  1 ,  0 ,  0 ,  3 ,  0 ,Sylas,Azir,Gangplank,Sivir,Ezreal
+2019.0,summer,LCS,Tiebreakers,OpTic Gaming,100 Thieves,1.0,35:01,OK,blue,OPT,   VICTORY   ,62.6k,10,  8 ,  1 ,  2 ,  4 ,  0 ,Rakan,Corki,Akali,TwistedFate,Viktor
+2019.0,summer,LCS,Tiebreakers,OpTic Gaming,100 Thieves,1.0,35:01,OK,red,100,   DEFEAT   ,53.9k,5,  3 ,  0 ,  0 ,  0 ,  1 ,Sejuani,Azir,Yuumi,Zoe,Kaisa
+2019.0,summer,LCS,Tiebreakers,Cloud9,CLG,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,summer,LCS,Tiebreakers,Golden Guardians,OpTic Gaming,1.0,34:14,OK,blue,OPT,   VICTORY   ,63.2k,12,  10 ,  1 ,  0 ,  3 ,  1 ,Karthus,Anivia,Fiora,Sejuani,Olaf
+2019.0,summer,LCS,Tiebreakers,Golden Guardians,OpTic Gaming,1.0,34:14,OK,red,GGS,   DEFEAT   ,55.5k,4,  2 ,  0 ,  0 ,  2 ,  0 ,Akali,Sylas,Yuumi,Nautilus,Thresh

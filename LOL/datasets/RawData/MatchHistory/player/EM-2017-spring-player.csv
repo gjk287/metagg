@@ -1,0 +1,31 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,spring,EM,1,Team Kinguin,FC Schalke,1.0,this row doesn't have MH_url
+2017.0,spring,EM,1,Team Kinguin,FC Schalke,2.0,this row doesn't have MH_url
+2017.0,spring,EM,1,Paris Saint-Germain,Fnatic Academy,1.0,this row doesn't have MH_url
+2017.0,spring,EM,1,Paris Saint-Germain,Fnatic Academy,2.0,this row doesn't have MH_url
+2017.0,spring,EM,1,Misfits Academy,Millenium,1.0,this row doesn't have MH_url
+2017.0,spring,EM,1,Misfits Academy,Millenium,2.0,this row doesn't have MH_url
+2017.0,spring,EM,2,Team Kinguin,Misfits Academy,1.0,this row doesn't have MH_url
+2017.0,spring,EM,2,Team Kinguin,Misfits Academy,2.0,this row doesn't have MH_url
+2017.0,spring,EM,2,Millenium,Fnatic Academy,1.0,this row doesn't have MH_url
+2017.0,spring,EM,2,Millenium,Fnatic Academy,2.0,this row doesn't have MH_url
+2017.0,spring,EM,2,FC Schalke,Paris Saint-Germain,1.0,this row doesn't have MH_url
+2017.0,spring,EM,2,FC Schalke,Paris Saint-Germain,2.0,this row doesn't have MH_url
+2017.0,spring,EM,3,Fnatic Academy,FC Schalke,1.0,this row doesn't have MH_url
+2017.0,spring,EM,3,Fnatic Academy,FC Schalke,2.0,this row doesn't have MH_url
+2017.0,spring,EM,3,Millenium,Team Kinguin,1.0,this row doesn't have MH_url
+2017.0,spring,EM,3,Millenium,Team Kinguin,2.0,this row doesn't have MH_url
+2017.0,spring,EM,3,Paris Saint-Germain,Misfits Academy,1.0,this row doesn't have MH_url
+2017.0,spring,EM,3,Paris Saint-Germain,Misfits Academy,2.0,this row doesn't have MH_url
+2017.0,spring,EM,4,Misfits Academy,Fnatic Academy,1.0,this row doesn't have MH_url
+2017.0,spring,EM,4,Misfits Academy,Fnatic Academy,2.0,this row doesn't have MH_url
+2017.0,spring,EM,4,Paris Saint-Germain,Team Kinguin,1.0,this row doesn't have MH_url
+2017.0,spring,EM,4,Paris Saint-Germain,Team Kinguin,2.0,this row doesn't have MH_url
+2017.0,spring,EM,4,FC Schalke,Millenium,1.0,this row doesn't have MH_url
+2017.0,spring,EM,4,FC Schalke,Millenium,2.0,this row doesn't have MH_url
+2017.0,spring,EM,5,Millenium,Paris Saint-Germain,1.0,this row doesn't have MH_url
+2017.0,spring,EM,5,Millenium,Paris Saint-Germain,2.0,this row doesn't have MH_url
+2017.0,spring,EM,5,FC Schalke,Misfits Academy,1.0,this row doesn't have MH_url
+2017.0,spring,EM,5,FC Schalke,Misfits Academy,2.0,this row doesn't have MH_url
+2017.0,spring,EM,5,Fnatic Academy,Team Kinguin,1.0,this row doesn't have MH_url
+2017.0,spring,EM,5,Fnatic Academy,Team Kinguin,2.0,this row doesn't have MH_url

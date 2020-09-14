@@ -1,0 +1,31 @@
+year,season,league_name,week,team_1,team_2,set_number,state
+2017.0,summer,EM,1,Red Bulls,FC Schalke,1.0,this row doesn't have MH_url
+2017.0,summer,EM,1,Red Bulls,FC Schalke,2.0,this row doesn't have MH_url
+2017.0,summer,EM,1,Paris Saint-Germain,Origen,1.0,this row doesn't have MH_url
+2017.0,summer,EM,1,Paris Saint-Germain,Origen,2.0,this row doesn't have MH_url
+2017.0,summer,EM,1,Giants Gaming,Wind and Rain,1.0,this row doesn't have MH_url
+2017.0,summer,EM,1,Giants Gaming,Wind and Rain,2.0,this row doesn't have MH_url
+2017.0,summer,EM,2,Paris Saint-Germain,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,EM,2,Paris Saint-Germain,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,EM,2,Wind and Rain,Red Bulls,1.0,this row doesn't have MH_url
+2017.0,summer,EM,2,Wind and Rain,Red Bulls,2.0,this row doesn't have MH_url
+2017.0,summer,EM,2,Origen,FC Schalke,1.0,this row doesn't have MH_url
+2017.0,summer,EM,2,Origen,FC Schalke,2.0,this row doesn't have MH_url
+2017.0,summer,EM,3,Wind and Rain,FC Schalke,1.0,this row doesn't have MH_url
+2017.0,summer,EM,3,Wind and Rain,FC Schalke,2.0,this row doesn't have MH_url
+2017.0,summer,EM,3,Paris Saint-Germain,Red Bulls,1.0,this row doesn't have MH_url
+2017.0,summer,EM,3,Paris Saint-Germain,Red Bulls,2.0,this row doesn't have MH_url
+2017.0,summer,EM,3,Giants Gaming,Origen,1.0,this row doesn't have MH_url
+2017.0,summer,EM,3,Giants Gaming,Origen,2.0,this row doesn't have MH_url
+2017.0,summer,EM,4,Red Bulls,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,EM,4,Red Bulls,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,EM,4,Wind and Rain,Origen,1.0,this row doesn't have MH_url
+2017.0,summer,EM,4,Wind and Rain,Origen,2.0,this row doesn't have MH_url
+2017.0,summer,EM,4,Paris Saint-Germain,FC Schalke,1.0,this row doesn't have MH_url
+2017.0,summer,EM,4,Paris Saint-Germain,FC Schalke,2.0,this row doesn't have MH_url
+2017.0,summer,EM,5,Wind and Rain,Paris Saint-Germain,1.0,this row doesn't have MH_url
+2017.0,summer,EM,5,Wind and Rain,Paris Saint-Germain,2.0,this row doesn't have MH_url
+2017.0,summer,EM,5,FC Schalke,Giants Gaming,1.0,this row doesn't have MH_url
+2017.0,summer,EM,5,FC Schalke,Giants Gaming,2.0,this row doesn't have MH_url
+2017.0,summer,EM,5,Origen,Red Bulls,1.0,this row doesn't have MH_url
+2017.0,summer,EM,5,Origen,Red Bulls,2.0,this row doesn't have MH_url

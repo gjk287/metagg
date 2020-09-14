@@ -1,0 +1,194 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2017.0,summer,OPL,1,Dire Wolves,Chiefs Esports,1.0,26:50,OK,blue,DW,   VICTORY   ,55.0k,16,  9 ,  1 ,  1 ,  2 ,  0 ,Syndra,Galio,Thresh,Orianna,Cassiopeia
+2017.0,summer,OPL,1,Dire Wolves,Chiefs Esports,1.0,26:50,OK,red,CHF,   DEFEAT   ,38.8k,2,  0 ,  0 ,  0 ,  1 ,  1 ,Zac,Kassadin,Elise,Jayce,Fiora
+2017.0,summer,OPL,1,Dire Wolves,Chiefs Esports,2.0,37:21,OK,blue,CHF,   VICTORY   ,73.5k,21,  11 ,  3 ,  2 ,  3 ,  1 ,Kassadin,TahmKench,Fiora,Jayce,JarvanIV
+2017.0,summer,OPL,1,Dire Wolves,Chiefs Esports,2.0,37:21,OK,red,DW,   DEFEAT   ,63.1k,16,  1 ,  0 ,  0 ,  1 ,  0 ,Zac,Galio,Zyra,Zed,Syndra
+2017.0,summer,OPL,1,Dire Wolves,Chiefs Esports,3.0,33:28,OK,blue,DW,   VICTORY   ,66.1k,17,  9 ,  1 ,  2 ,  1 ,  1 ,Syndra,Galio,Thresh,Orianna,Cassiopeia
+2017.0,summer,OPL,1,Dire Wolves,Chiefs Esports,3.0,33:28,OK,red,CHF,   DEFEAT   ,55.1k,11,  3 ,  0 ,  0 ,  3 ,  0 ,Zac,Kassadin,Elise,Fiora,Graves
+2017.0,summer,OPL,1,Team Regicide,Abyss,1.0,29:45,OK,blue,AE,   VICTORY   ,58.1k,18,  10 ,  3 ,  1 ,  2 ,  1 ,Karma,Fiora,Jayce,Ekko,Zed
+2017.0,summer,OPL,1,Team Regicide,Abyss,1.0,29:45,OK,red,RGC,   DEFEAT   ,43.7k,3,  0 ,  0 ,  0 ,  1 ,  0 ,,,,,
+2017.0,summer,OPL,1,Team Regicide,Abyss,2.0,39:11,OK,blue,RGC,   VICTORY   ,75.0k,30,  10 ,  2 ,  1 ,  3 ,  1 ,,,,,
+2017.0,summer,OPL,1,Team Regicide,Abyss,2.0,39:11,OK,red,AE,   DEFEAT   ,63.7k,18,  2 ,  0 ,  0 ,  1 ,  0 ,Karma,Fiora,Jayce,Ekko,Zed
+2017.0,summer,OPL,1,Team Regicide,Abyss,3.0,37:12,OK,blue,AE,   VICTORY   ,70.8k,25,  8 ,  1 ,  1 ,  1 ,  0 ,Karma,Fiora,Jayce,JarvanIV,Renekton
+2017.0,summer,OPL,1,Team Regicide,Abyss,3.0,37:12,OK,red,RGC,   DEFEAT   ,62.4k,18,  3 ,  0 ,  1 ,  3 ,  0 ,,,,,
+2017.0,summer,OPL,1,Legacy Esports,Sin Gaming,1.0,39:07,OK,blue,LGC,   VICTORY   ,80.1k,20,  10 ,  1 ,  2 ,  3 ,  1 ,Thresh,Caitlyn,Syndra,Varus,Ashe
+2017.0,summer,OPL,1,Legacy Esports,Sin Gaming,1.0,39:07,OK,red,SIN,   DEFEAT   ,62.9k,13,  0 ,  0 ,  0 ,  0 ,  0 ,Zac,Elise,Galio,Lucian,Orianna
+2017.0,summer,OPL,1,Legacy Esports,Sin Gaming,2.0,38:13,OK,blue,SIN,   VICTORY   ,74.1k,20,  11 ,  3 ,  2 ,  2 ,  0 ,Kassadin,Rumble,Fiora,JarvanIV,Renekton
+2017.0,summer,OPL,1,Legacy Esports,Sin Gaming,2.0,38:13,OK,red,LGC,   DEFEAT   ,63.0k,13,  2 ,  0 ,  0 ,  1 ,  0 ,Thresh,Elise,Caitlyn,Syndra,Lucian
+2017.0,summer,OPL,1,Legacy Esports,Sin Gaming,3.0,25:47,OK,blue,LGC,   VICTORY   ,53.9k,22,  10 ,  2 ,  1 ,  2 ,  1 ,Thresh,Caitlyn,Elise,Zyra,Kennen
+2017.0,summer,OPL,1,Legacy Esports,Sin Gaming,3.0,25:47,OK,red,SIN,   DEFEAT   ,35.8k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Zac,Galio,Rumble,Nunu,Ivern
+2017.0,summer,OPL,1,Avant Gaming,TM Gaming,1.0,39:43,OK,blue,AV,   VICTORY   ,75.9k,19,  9 ,  1 ,  2 ,  1 ,  1 ,Zilean,Kennen,Blitzcrank,Varus,Caitlyn
+2017.0,summer,OPL,1,Avant Gaming,TM Gaming,1.0,39:43,OK,red,TM,   DEFEAT   ,68.2k,12,  9 ,  5 ,  1 ,  4 ,  0 ,Zyra,Zac,Elise,Zed,Leblanc
+2017.0,summer,OPL,1,Avant Gaming,TM Gaming,2.0,34:05,OK,blue,TM,   DEFEAT   ,54.2k,11,  3 ,  0 ,  0 ,  0 ,  0 ,Zyra,Thresh,Zed,Lulu,Karma
+2017.0,summer,OPL,1,Avant Gaming,TM Gaming,2.0,34:05,OK,red,AV,   VICTORY   ,66.8k,18,  8 ,  1 ,  1 ,  3 ,  1 ,Zac,Kennen,Elise,Zilean,Fiora
+2017.0,summer,OPL,2,Team Regicide,Dire Wolves,1.0,29:09,OK,blue,RGC,   DEFEAT   ,42.5k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Xayah,Gragas,TahmKench,Graves,Khazix
+2017.0,summer,OPL,2,Team Regicide,Dire Wolves,1.0,29:09,OK,red,DW,   VICTORY   ,60.7k,20,  9 ,  1 ,  1 ,  2 ,  0 ,Zac,Galio,Elise,Kennen,Jayce
+2017.0,summer,OPL,2,Team Regicide,Dire Wolves,2.0,30:18,OK,blue,DW,   VICTORY   ,62.9k,22,  9 ,  1 ,  1 ,  2 ,  1 ,Fiora,Galio,Kassadin,Jayce,Renekton
+2017.0,summer,OPL,2,Team Regicide,Dire Wolves,2.0,30:18,OK,red,RGC,   DEFEAT   ,45.4k,9,  0 ,  0 ,  0 ,  1 ,  0 ,Gragas,Xayah,Zac,Syndra,Rumble
+2017.0,summer,OPL,2,Legacy Esports,Avant Gaming,1.0,28:41,OK,blue,LGC,   VICTORY   ,57.4k,17,  9 ,  1 ,  1 ,  3 ,  1 ,Syndra,Elise,Thresh,Renekton,Lucian
+2017.0,summer,OPL,2,Legacy Esports,Avant Gaming,1.0,28:41,OK,red,AV,   DEFEAT   ,44.8k,5,  3 ,  0 ,  0 ,  0 ,  0 ,Xayah,Zac,Galio,Cassiopeia,Fiora
+2017.0,summer,OPL,2,Legacy Esports,Avant Gaming,2.0,32:26,OK,blue,AV,   VICTORY   ,62.0k,14,  9 ,  2 ,  2 ,  3 ,  0 ,Xayah,Galio,Gragas,Orianna,Karma
+2017.0,summer,OPL,2,Legacy Esports,Avant Gaming,2.0,32:26,OK,red,LGC,   DEFEAT   ,49.0k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Syndra,Ashe,,,
+2017.0,summer,OPL,2,Legacy Esports,Avant Gaming,3.0,34:12,OK,blue,LGC,   VICTORY   ,73.8k,33,  10 ,  2 ,  2 ,  4 ,  1 ,Renekton,Thresh,Elise,Syndra,Lucian
+2017.0,summer,OPL,2,Legacy Esports,Avant Gaming,3.0,34:12,OK,red,AV,   DEFEAT   ,56.8k,14,  3 ,  0 ,  0 ,  0 ,  0 ,Xayah,Zac,Galio,TahmKench,JarvanIV
+2017.0,summer,OPL,2,Chiefs Esports,Abyss,1.0,29:24,OK,blue,CHF,   VICTORY   ,60.0k,17,  11 ,  3 ,  1 ,  3 ,  1 ,Syndra,Thresh,Kassadin,Zyra,Karma
+2017.0,summer,OPL,2,Chiefs Esports,Abyss,1.0,29:24,OK,red,AE,   DEFEAT   ,43.4k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Zac,Galio,Elise,Renekton,Leblanc
+2017.0,summer,OPL,2,Chiefs Esports,Abyss,2.0,52:18,OK,blue,AE,   DEFEAT   ,91.7k,10,  10 ,  2 ,  3 ,  1 ,  0 ,Caitlyn,Kled,Elise,Ekko,JarvanIV
+2017.0,summer,OPL,2,Chiefs Esports,Abyss,2.0,52:18,OK,red,CHF,   VICTORY   ,97.4k,20,  8 ,  2 ,  0 ,  5 ,  1 ,Zac,Galio,Gragas,Varus,Ashe
+2017.0,summer,OPL,2,TM Gaming,Sin Gaming,1.0,30:06,OK,blue,SIN,   DEFEAT   ,44.8k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Zilean,Fiora,Nidalee,Kennen,Kled
+2017.0,summer,OPL,2,TM Gaming,Sin Gaming,1.0,30:06,OK,red,TM,   VICTORY   ,59.5k,17,  8 ,  1 ,  1 ,  3 ,  1 ,Elise,TahmKench,Galio,Ekko,Renekton
+2017.0,summer,OPL,2,TM Gaming,Sin Gaming,2.0,35:52,OK,blue,TM,   DEFEAT   ,62.7k,10,  5 ,  0 ,  1 ,  2 ,  1 ,TahmKench,Vladimir,Thresh,Leblanc,Renekton
+2017.0,summer,OPL,2,TM Gaming,Sin Gaming,2.0,35:52,OK,red,SIN,   VICTORY   ,68.2k,23,  10 ,  2 ,  0 ,  2 ,  0 ,Zac,Galio,Elise,Blitzcrank,Karma
+2017.0,summer,OPL,2,TM Gaming,Sin Gaming,3.0,35:16,OK,blue,SIN,   VICTORY   ,68.8k,26,  9 ,  1 ,  1 ,  3 ,  1 ,LeeSin,Fiora,Zac,Zilean,Syndra
+2017.0,summer,OPL,2,TM Gaming,Sin Gaming,3.0,35:16,OK,red,TM,   DEFEAT   ,57.6k,11,  3 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Elise,Galio,Renekton,Ekko
+2017.0,summer,OPL,3,Sin Gaming,Avant Gaming,1.0,35:18,OK,blue,SIN,   VICTORY   ,66.3k,19,  9 ,  3 ,  0 ,  2 ,  1 ,Rumble,LeeSin,Zac,Ashe,Varus
+2017.0,summer,OPL,3,Sin Gaming,Avant Gaming,1.0,35:18,OK,red,AV,   DEFEAT   ,59.2k,5,  4 ,  0 ,  0 ,  1 ,  0 ,Elise,Caitlyn,Rakan,Khazix,Graves
+2017.0,summer,OPL,3,Sin Gaming,Avant Gaming,2.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2017.0,summer,OPL,3,Sin Gaming,Avant Gaming,3.0,33:12,OK,blue,SIN,   DEFEAT   ,53.7k,12,  2 ,  0 ,  0 ,  0 ,  0 ,Rumble,LeeSin,Zac,Orianna,Zed
+2017.0,summer,OPL,3,Sin Gaming,Avant Gaming,3.0,33:12,OK,red,AV,   VICTORY   ,65.8k,18,  8 ,  1 ,  1 ,  1 ,  0 ,Elise,Caitlyn,Galio,Taliyah,Syndra
+2017.0,summer,OPL,3,Chiefs Esports,Team Regicide,1.0,34:10,OK,blue,RGC,   DEFEAT   ,55.4k,11,  1 ,  0 ,  0 ,  0 ,  0 ,Xayah,Thresh,Taliyah,Zyra,TahmKench
+2017.0,summer,OPL,3,Chiefs Esports,Team Regicide,1.0,34:10,OK,red,CHF,   VICTORY   ,71.9k,28,  10 ,  3 ,  2 ,  4 ,  1 ,Zac,Galio,Elise,Ashe,Varus
+2017.0,summer,OPL,3,Chiefs Esports,Team Regicide,2.0,27:48,OK,blue,CHF,   VICTORY   ,64.6k,35,  11 ,  2 ,  1 ,  2 ,  1 ,Orianna,TahmKench,Zac,Karma,Ahri
+2017.0,summer,OPL,3,Chiefs Esports,Team Regicide,2.0,27:48,OK,red,RGC,   DEFEAT   ,43.4k,9,  0 ,  0 ,  0 ,  1 ,  0 ,Elise,Xayah,Galio,Syndra,Leblanc
+2017.0,summer,OPL,3,Legacy Esports,TM Gaming,1.0,34:08,OK,blue,TM,   DEFEAT   ,55.1k,9,  6 ,  0 ,  0 ,  1 ,  1 ,Renekton,Galio,Xayah,Taliyah,Leblanc
+2017.0,summer,OPL,3,Legacy Esports,TM Gaming,1.0,34:08,OK,red,LGC,   VICTORY   ,68.9k,17,  9 ,  1 ,  2 ,  3 ,  0 ,LeeSin,Zac,Thresh,Fiora,Syndra
+2017.0,summer,OPL,3,Legacy Esports,TM Gaming,2.0,31:33,OK,blue,LGC,   DEFEAT   ,52.2k,7,  4 ,  0 ,  0 ,  0 ,  0 ,Zilean,Thresh,LeeSin,Syndra,Cassiopeia
+2017.0,summer,OPL,3,Legacy Esports,TM Gaming,2.0,31:33,OK,red,TM,   VICTORY   ,58.5k,12,  8 ,  1 ,  1 ,  2 ,  1 ,Renekton,Xayah,Galio,Kennen,Taliyah
+2017.0,summer,OPL,3,Legacy Esports,TM Gaming,3.0,41:22,OK,blue,TM,   DEFEAT   ,66.3k,7,  4 ,  0 ,  0 ,  2 ,  1 ,Renekton,Nunu,Galio,Taliyah,Lucian
+2017.0,summer,OPL,3,Legacy Esports,TM Gaming,3.0,41:22,OK,red,LGC,   VICTORY   ,78.9k,13,  11 ,  2 ,  2 ,  3 ,  0 ,Zac,Thresh,Elise,Camille,Fiora
+2017.0,summer,OPL,3,Dire Wolves,Abyss,1.0,31:50,OK,blue,AE,   DEFEAT   ,50.0k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Kassadin,Caitlyn,Vladimir,Ekko,Varus
+2017.0,summer,OPL,3,Dire Wolves,Abyss,1.0,31:50,OK,red,DW,   VICTORY   ,69.6k,27,  11 ,  3 ,  2 ,  3 ,  1 ,Zac,Galio,Lucian,Kennen,Renekton
+2017.0,summer,OPL,3,Dire Wolves,Abyss,2.0,28:34,OK,blue,DW,   VICTORY   ,59.5k,24,  10 ,  2 ,  0 ,  3 ,  1 ,Syndra,Gragas,Cassiopeia,Lucian,Orianna
+2017.0,summer,OPL,3,Dire Wolves,Abyss,2.0,28:34,OK,red,AE,   DEFEAT   ,43.1k,8,  0 ,  0 ,  1 ,  0 ,  0 ,Zac,Galio,Elise,Thresh,Fiora
+2017.0,summer,OPL,4,Legacy Esports,Team Regicide,1.0,30:52,OK,blue,LGC,   VICTORY   ,62.7k,20,  10 ,  1 ,  1 ,  2 ,  1 ,Jax,Fiora,Zac,Ahri,Vladimir
+2017.0,summer,OPL,4,Legacy Esports,Team Regicide,1.0,30:52,OK,red,RGC,   DEFEAT   ,50.1k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Elise,Caitlyn,Galio,Nunu,Lucian
+2017.0,summer,OPL,4,Legacy Esports,Team Regicide,2.0,24:44,OK,blue,RGC,   DEFEAT   ,40.0k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Thresh,Galio,Caitlyn,Lucian,Kassadin
+2017.0,summer,OPL,4,Legacy Esports,Team Regicide,2.0,24:44,OK,red,LGC,   VICTORY   ,53.4k,25,  9 ,  1 ,  1 ,  1 ,  1 ,Zac,Elise,Fiora,Ahri,Irelia
+2017.0,summer,OPL,4,Avant Gaming,Dire Wolves,1.0,35:32,OK,blue,DW,   DEFEAT   ,61.4k,8,  5 ,  0 ,  1 ,  1 ,  1 ,Thresh,Jax,Elise,Gnar,Renekton
+2017.0,summer,OPL,4,Avant Gaming,Dire Wolves,1.0,35:32,OK,red,AV,   VICTORY   ,66.9k,18,  10 ,  2 ,  0 ,  2 ,  0 ,Zac,Caitlyn,Camille,Fiora,JarvanIV
+2017.0,summer,OPL,4,Avant Gaming,Dire Wolves,2.0,26:35,OK,blue,AV,   DEFEAT   ,39.2k,1,  1 ,  0 ,  1 ,  0 ,  1 ,Elise,Kassadin,Camille,Corki,Taliyah
+2017.0,summer,OPL,4,Avant Gaming,Dire Wolves,2.0,26:35,OK,red,DW,   VICTORY   ,56.3k,24,  10 ,  2 ,  0 ,  0 ,  0 ,Zac,Galio,Sejuani,Zed,Renekton
+2017.0,summer,OPL,4,Avant Gaming,Dire Wolves,3.0,30:20,OK,blue,DW,   VICTORY   ,62.3k,18,  11 ,  4 ,  2 ,  1 ,  0 ,Sejuani,Jax,Galio,Gnar,Fiora
+2017.0,summer,OPL,4,Avant Gaming,Dire Wolves,3.0,30:20,OK,red,AV,   DEFEAT   ,51.1k,8,  3 ,  0 ,  0 ,  2 ,  1 ,Zac,Caitlyn,Thresh,Kassadin,Taliyah
+2017.0,summer,OPL,4,TM Gaming,Chiefs Esports,1.0,30:33,OK,blue,TM,   DEFEAT   ,48.8k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Rakan,Elise,Renekton,Leblanc
+2017.0,summer,OPL,4,TM Gaming,Chiefs Esports,1.0,30:33,OK,red,CHF,   VICTORY   ,59.1k,17,  7 ,  1 ,  1 ,  3 ,  1 ,Zac,Caitlyn,Braum,LeeSin,Nidalee
+2017.0,summer,OPL,4,TM Gaming,Chiefs Esports,2.0,27:13,OK,blue,CHF,   VICTORY   ,57.0k,22,  9 ,  1 ,  1 ,  2 ,  0 ,Fiora,Syndra,Zac,Gnar,Camille
+2017.0,summer,OPL,4,TM Gaming,Chiefs Esports,2.0,27:13,OK,red,TM,   DEFEAT   ,42.2k,10,  1 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Caitlyn,Galio,Leblanc,Rakan
+2017.0,summer,OPL,4,Sin Gaming,Abyss,1.0,31:22,OK,blue,SIN,   VICTORY   ,59.8k,13,  10 ,  3 ,  1 ,  2 ,  1 ,Syndra,Orianna,Zac,Renekton,Kassadin
+2017.0,summer,OPL,4,Sin Gaming,Abyss,1.0,31:22,OK,red,AE,   DEFEAT   ,49.7k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Caitlyn,Galio,Gnar,Fiora
+2017.0,summer,OPL,4,Sin Gaming,Abyss,2.0,28:11,OK,blue,AE,   VICTORY   ,57.3k,17,  9 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Thresh,Caitlyn,Vladimir,Cassiopeia
+2017.0,summer,OPL,4,Sin Gaming,Abyss,2.0,28:11,OK,red,SIN,   DEFEAT   ,41.9k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Syndra,Orianna,Zac,Gnar,Jax
+2017.0,summer,OPL,4,Sin Gaming,Abyss,3.0,36:56,OK,blue,SIN,   VICTORY   ,70.1k,18,  10 ,  2 ,  1 ,  3 ,  0 ,Syndra,Orianna,Zac,Fiora,Cassiopeia
+2017.0,summer,OPL,4,Sin Gaming,Abyss,3.0,36:56,OK,red,AE,   DEFEAT   ,56.8k,9,  0 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Caitlyn,Thresh,Gnar,Kalista
+2017.0,summer,OPL,5,Dire Wolves,Sin Gaming,1.0,45:21,OK,blue,SIN,   VICTORY   ,84.6k,16,  11 ,  4 ,  2 ,  1 ,  1 ,Khazix,Talon,Braum,Renekton,Jax
+2017.0,summer,OPL,5,Dire Wolves,Sin Gaming,1.0,45:21,OK,red,DW,   DEFEAT   ,87.5k,16,  8 ,  2 ,  2 ,  3 ,  0 ,Caitlyn,Jayce,Zac,Zed,Kassadin
+2017.0,summer,OPL,5,Dire Wolves,Sin Gaming,2.0,28:22,OK,blue,DW,   VICTORY   ,57.8k,23,  9 ,  1 ,  1 ,  1 ,  0 ,Xayah,Cassiopeia,Thresh,Zed,Renekton
+2017.0,summer,OPL,5,Dire Wolves,Sin Gaming,2.0,28:22,OK,red,SIN,   DEFEAT   ,46.3k,8,  8 ,  1 ,  0 ,  1 ,  1 ,Khazix,Jayce,Talon,Jhin,Varus
+2017.0,summer,OPL,5,Dire Wolves,Sin Gaming,3.0,34:41,OK,blue,SIN,   DEFEAT   ,56.3k,10,  3 ,  0 ,  0 ,  0 ,  0 ,Khazix,Talon,Kassadin,Elise,Syndra
+2017.0,summer,OPL,5,Dire Wolves,Sin Gaming,3.0,34:41,OK,red,DW,   VICTORY   ,67.8k,18,  8 ,  1 ,  2 ,  3 ,  1 ,Xayah,Jayce,Zac,Cassiopeia,Renekton
+2017.0,summer,OPL,5,Legacy Esports,Chiefs Esports,1.0,30:53,OK,blue,CHF,   DEFEAT   ,50.9k,10,  2 ,  0 ,  0 ,  0 ,  0 ,Camille,Kassadin,,,
+2017.0,summer,OPL,5,Legacy Esports,Chiefs Esports,1.0,30:53,OK,red,LGC,   VICTORY   ,64.2k,21,  10 ,  2 ,  1 ,  3 ,  1 ,Thresh,Galio,Alistar,Cassiopeia,Syndra
+2017.0,summer,OPL,5,Legacy Esports,Chiefs Esports,2.0,34:26,OK,blue,LGC,   VICTORY   ,64.1k,23,  8 ,  1 ,  0 ,  2 ,  0 ,Thresh,Rakan,Galio,Gnar,Renekton
+2017.0,summer,OPL,5,Legacy Esports,Chiefs Esports,2.0,34:26,OK,red,CHF,   DEFEAT   ,57.8k,9,  4 ,  0 ,  1 ,  1 ,  1 ,Caitlyn,Jayce,Braum,Kassadin,Camille
+2017.0,summer,OPL,5,Avant Gaming,Abyss,1.0,37:48,OK,blue,AE,   VICTORY   ,73.3k,24,  11 ,  2 ,  1 ,  2 ,  1 ,Jayce,Khazix,Galio,Talon,Rakan
+2017.0,summer,OPL,5,Avant Gaming,Abyss,1.0,37:48,OK,red,AV,   DEFEAT   ,59.1k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Zac,Caitlyn,Elise,Cassiopeia,Syndra
+2017.0,summer,OPL,5,Avant Gaming,Abyss,2.0,26:22,OK,blue,AV,   VICTORY   ,54.5k,19,  9 ,  2 ,  0 ,  1 ,  1 ,Chogath,Elise,Xayah,Kassadin,Cassiopeia
+2017.0,summer,OPL,5,Avant Gaming,Abyss,2.0,26:22,OK,red,AE,   DEFEAT   ,38.6k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Jayce,Khazix,Galio,Renekton,Jax
+2017.0,summer,OPL,5,Avant Gaming,Abyss,3.0,30:28,OK,blue,AE,   VICTORY   ,61.1k,24,  8 ,  1 ,  1 ,  2 ,  1 ,Jayce,Galio,Khazix,Sejuani,Ekko
+2017.0,summer,OPL,5,Avant Gaming,Abyss,3.0,30:28,OK,red,AV,   DEFEAT   ,52.0k,14,  2 ,  0 ,  1 ,  1 ,  0 ,Caitlyn,Elise,Chogath,Kassadin,Cassiopeia
+2017.0,summer,OPL,5,Team Regicide,Sin Gaming,1.0,30:19,OK,blue,RGC,   DEFEAT   ,42.8k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Gragas,Caitlyn,Jayce,Taliyah,Cassiopeia
+2017.0,summer,OPL,5,Team Regicide,Sin Gaming,1.0,30:19,OK,red,SIN,   VICTORY   ,62.6k,30,  10 ,  1 ,  1 ,  1 ,  0 ,Khazix,LeeSin,Braum,Elise,Nidalee
+2017.0,summer,OPL,5,Team Regicide,Sin Gaming,2.0,29:39,OK,blue,SIN,   VICTORY   ,58.8k,13,  10 ,  2 ,  1 ,  0 ,  1 ,Khazix,LeeSin,Braum,Jax,Riven
+2017.0,summer,OPL,5,Team Regicide,Sin Gaming,2.0,29:39,OK,red,RGC,   DEFEAT   ,46.2k,5,  3 ,  0 ,  0 ,  1 ,  0 ,Thresh,Caitlyn,Jayce,Taliyah,Kassadin
+2017.0,summer,OPL,5,Team Regicide,TM Gaming,1.0,32:49,OK,blue,RGC,   VICTORY   ,63.1k,18,  11 ,  4 ,  1 ,  3 ,  1 ,Thresh,Caitlyn,Orianna,Sejuani,RekSai
+2017.0,summer,OPL,5,Team Regicide,TM Gaming,1.0,32:49,OK,red,TM,   DEFEAT   ,51.4k,3,  4 ,  0 ,  0 ,  0 ,  0 ,Braum,LeeSin,Khazix,Ekko,Jax
+2017.0,summer,OPL,5,Team Regicide,TM Gaming,2.0,36:12,OK,blue,TM,   VICTORY   ,71.1k,20,  11 ,  2 ,  1 ,  3 ,  1 ,JarvanIV,LeeSin,Khazix,Leblanc,Syndra
+2017.0,summer,OPL,5,Team Regicide,TM Gaming,2.0,36:12,OK,red,RGC,   DEFEAT   ,58.4k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Thresh,Caitlyn,Orianna,Zilean,Cassiopeia
+2017.0,summer,OPL,5,Team Regicide,TM Gaming,3.0,28:22,OK,blue,RGC,   VICTORY   ,58.5k,25,  11 ,  4 ,  1 ,  3 ,  1 ,Camille,Galio,Orianna,Zilean,Cassiopeia
+2017.0,summer,OPL,5,Team Regicide,TM Gaming,3.0,28:22,OK,red,TM,   DEFEAT   ,43.8k,6,  0 ,  0 ,  0 ,  0 ,  0 ,LeeSin,Alistar,JarvanIV,Leblanc,Kalista
+2017.0,summer,OPL,5,Legacy Esports,Abyss,1.0,37:05,OK,blue,LGC,   VICTORY   ,71.5k,21,  11 ,  3 ,  0 ,  1 ,  0 ,Chogath,Thresh,Rakan,Kassadin,Syndra
+2017.0,summer,OPL,5,Legacy Esports,Abyss,1.0,37:05,OK,red,AE,   DEFEAT   ,63.2k,15,  5 ,  0 ,  2 ,  3 ,  1 ,Jayce,Galio,Khazix,Ekko,Jax
+2017.0,summer,OPL,5,Legacy Esports,Abyss,2.0,35:09,OK,blue,AE,   DEFEAT   ,56.6k,8,  5 ,  0 ,  1 ,  1 ,  1 ,Jayce,Karma,Galio,Jax,JarvanIV
+2017.0,summer,OPL,5,Legacy Esports,Abyss,2.0,35:09,OK,red,LGC,   VICTORY   ,70.1k,23,  9 ,  1 ,  1 ,  2 ,  0 ,Chogath,Zac,Maokai,Camille,Renekton
+2017.0,summer,OPL,6,Avant Gaming,Team Regicide,1.0,23:42,OK,blue,AV,   VICTORY   ,52.4k,20,  11 ,  3 ,  1 ,  2 ,  0 ,Khazix,Maokai,Thresh,Leblanc,Vladimir
+2017.0,summer,OPL,6,Avant Gaming,Team Regicide,1.0,23:42,OK,red,RGC,   DEFEAT   ,35.1k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Kassadin,Cassiopeia,,,
+2017.0,summer,OPL,6,Avant Gaming,Team Regicide,2.0,31:32,OK,blue,RGC,   DEFEAT   ,53.5k,15,  4 ,  0 ,  0 ,  0 ,  0 ,Galio,Elise,Gragas,Cassiopeia,Taliyah
+2017.0,summer,OPL,6,Avant Gaming,Team Regicide,2.0,31:32,OK,red,AV,   VICTORY   ,61.8k,15,  11 ,  2 ,  1 ,  4 ,  1 ,Khazix,Maokai,Caitlyn,Kassadin,Corki
+2017.0,summer,OPL,6,Legacy Esports,Dire Wolves,1.0,33:08,OK,blue,LGC,   VICTORY   ,67.2k,15,  10 ,  1 ,  2 ,  3 ,  1 ,Thresh,Talon,Trundle,Kassadin,Taric
+2017.0,summer,OPL,6,Legacy Esports,Dire Wolves,1.0,33:08,OK,red,DW,   DEFEAT   ,56.0k,10,  1 ,  0 ,  0 ,  0 ,  0 ,Xayah,Kalista,Zac,Gnar,Jayce
+2017.0,summer,OPL,6,Legacy Esports,Dire Wolves,2.0,28:25,OK,blue,DW,   VICTORY   ,60.3k,17,  10 ,  1 ,  1 ,  1 ,  0 ,Xayah,Kalista,Jayce,Cassiopeia,Orianna
+2017.0,summer,OPL,6,Legacy Esports,Dire Wolves,2.0,28:25,OK,red,LGC,   DEFEAT   ,42.4k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Thresh,Elise,Trundle,Kassadin,Janna
+2017.0,summer,OPL,6,Legacy Esports,Dire Wolves,3.0,32:30,OK,blue,LGC,   VICTORY   ,64.6k,19,  10 ,  2 ,  2 ,  1 ,  0 ,Thresh,Elise,Trundle,Sivir,Camille
+2017.0,summer,OPL,6,Legacy Esports,Dire Wolves,3.0,32:30,OK,red,DW,   DEFEAT   ,54.7k,5,  6 ,  0 ,  0 ,  2 ,  1 ,Xayah,Kalista,Zac,Gragas,Jayce
+2017.0,summer,OPL,6,TM Gaming,Abyss,1.0,33:44,OK,blue,AE,   VICTORY   ,69.1k,20,  10 ,  3 ,  2 ,  2 ,  1 ,Karma,Kayn,Jayce,Jax,Gnar
+2017.0,summer,OPL,6,TM Gaming,Abyss,1.0,33:44,OK,red,TM,   DEFEAT   ,54.5k,10,  1 ,  0 ,  0 ,  2 ,  0 ,Bard,Chogath,Maokai,Rakan,Renekton
+2017.0,summer,OPL,6,TM Gaming,Abyss,2.0,49:05,OK,blue,TM,   DEFEAT   ,88.6k,16,  7 ,  1 ,  2 ,  2 ,  1 ,Bard,Chogath,Rakan,Shen,Renekton
+2017.0,summer,OPL,6,TM Gaming,Abyss,2.0,49:05,OK,red,AE,   VICTORY   ,90.1k,11,  11 ,  7 ,  2 ,  2 ,  0 ,Karma,Kayn,Elise,Jax,Blitzcrank
+2017.0,summer,OPL,6,Avant Gaming,Chiefs Esports,1.0,25:34,OK,blue,AV,   DEFEAT   ,40.3k,7,  2 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Kassadin,Thresh,Rakan,Alistar
+2017.0,summer,OPL,6,Avant Gaming,Chiefs Esports,1.0,25:34,OK,red,CHF,   VICTORY   ,52.8k,17,  8 ,  1 ,  1 ,  2 ,  0 ,Zac,Elise,Renekton,Janna,Braum
+2017.0,summer,OPL,6,Avant Gaming,Chiefs Esports,2.0,37:02,OK,blue,CHF,   VICTORY   ,74.8k,24,  11 ,  2 ,  1 ,  3 ,  1 ,Renekton,Sejuani,Elise,Caitlyn,Sivir
+2017.0,summer,OPL,6,Avant Gaming,Chiefs Esports,2.0,37:02,OK,red,AV,   DEFEAT   ,63.9k,10,  4 ,  0 ,  1 ,  2 ,  0 ,Chogath,Cassiopeia,Kassadin,Gnar,Orianna
+2017.0,summer,OPL,6,Dire Wolves,TM Gaming,1.0,26:37,OK,blue,DW,   VICTORY   ,59.5k,22,  10 ,  2 ,  1 ,  2 ,  1 ,Elise,Caitlyn,Kalista,Tristana,Zilean
+2017.0,summer,OPL,6,Dire Wolves,TM Gaming,1.0,26:37,OK,red,TM,   DEFEAT   ,38.7k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Jax,Camille,Taliyah,Trundle,Rakan
+2017.0,summer,OPL,6,Dire Wolves,TM Gaming,2.0,33:31,OK,blue,TM,   DEFEAT   ,52.1k,7,  4 ,  0 ,  0 ,  1 ,  0 ,Jax,Camille,Taliyah,Corki,Braum
+2017.0,summer,OPL,6,Dire Wolves,TM Gaming,2.0,33:31,OK,red,DW,   VICTORY   ,68.4k,16,  9 ,  1 ,  2 ,  2 ,  1 ,Maokai,Zac,Elise,Blitzcrank,Zilean
+2017.0,summer,OPL,6,Sin Gaming,Chiefs Esports,1.0,29:36,OK,blue,CHF,   VICTORY   ,60.7k,16,  9 ,  2 ,  1 ,  3 ,  1 ,Jayce,Thresh,Rakan,Zyra,Cassiopeia
+2017.0,summer,OPL,6,Sin Gaming,Chiefs Esports,1.0,29:36,OK,red,SIN,   DEFEAT   ,44.6k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Elise,Gnar,Zac,Braum,Orianna
+2017.0,summer,OPL,6,Sin Gaming,Chiefs Esports,2.0,34:30,OK,blue,SIN,   VICTORY   ,69.5k,19,  10 ,  2 ,  2 ,  2 ,  1 ,Elise,Gnar,Galio,Kassadin,Syndra
+2017.0,summer,OPL,6,Sin Gaming,Chiefs Esports,2.0,34:30,OK,red,CHF,   DEFEAT   ,53.0k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Jayce,Rakan,Zac,Camille,Jax
+2017.0,summer,OPL,6,Sin Gaming,Chiefs Esports,3.0,25:33,OK,blue,CHF,   DEFEAT   ,38.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Jayce,Rakan,Thresh,Braum,Zyra
+2017.0,summer,OPL,6,Sin Gaming,Chiefs Esports,3.0,25:33,OK,red,SIN,   VICTORY   ,53.4k,15,  9 ,  1 ,  1 ,  1 ,  0 ,Elise,Gnar,Maokai,JarvanIV,Renekton
+2017.0,summer,OPL,7,Avant Gaming,Legacy Esports,1.0,27:41,OK,blue,AV,   VICTORY   ,56.0k,11,  11 ,  3 ,  1 ,  1 ,  0 ,Gragas,Maokai,Xayah,Nunu,Kayn
+2017.0,summer,OPL,7,Avant Gaming,Legacy Esports,1.0,27:41,OK,red,LGC,   DEFEAT   ,44.8k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Zac,Thresh,Elise,Renekton,Syndra
+2017.0,summer,OPL,7,Avant Gaming,Legacy Esports,2.0,25:11,OK,blue,LGC,   DEFEAT   ,40.7k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Thresh,Elise,Braum,Kled,Renekton
+2017.0,summer,OPL,7,Avant Gaming,Legacy Esports,2.0,25:11,OK,red,AV,   VICTORY   ,48.9k,10,  7 ,  1 ,  1 ,  1 ,  1 ,Gragas,Maokai,Chogath,Cassiopeia,Kassadin
+2017.0,summer,OPL,7,Dire Wolves,Team Regicide,1.0,23:42,OK,blue,DW,   VICTORY   ,51.2k,16,  11 ,  3 ,  1 ,  3 ,  1 ,Leblanc,Renekton,Kalista,Ahri,Zed
+2017.0,summer,OPL,7,Dire Wolves,Team Regicide,1.0,23:42,OK,red,RGC,   DEFEAT   ,33.0k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Thresh,Maokai,Gragas,Jax,Janna
+2017.0,summer,OPL,7,Dire Wolves,Team Regicide,2.0,25:59,OK,blue,RGC,   DEFEAT   ,36.8k,1,  1 ,  0 ,  0 ,  1 ,  1 ,Thresh,KogMaw,Elise,Taliyah,Cassiopeia
+2017.0,summer,OPL,7,Dire Wolves,Team Regicide,2.0,25:59,OK,red,DW,   VICTORY   ,55.8k,20,  9 ,  1 ,  1 ,  2 ,  0 ,Leblanc,Alistar,Maokai,Zed,Kassadin
+2017.0,summer,OPL,7,Chiefs Esports,Abyss,1.0,50:34,OK,blue,AE,   DEFEAT   ,87.3k,20,  9 ,  4 ,  1 ,  1 ,  0 ,Jayce,Galio,Chogath,Ekko,Taliyah
+2017.0,summer,OPL,7,Chiefs Esports,Abyss,1.0,50:34,OK,red,CHF,   VICTORY   ,102.5k,20,  10 ,  2 ,  3 ,  4 ,  1 ,Maokai,Xayah,Syndra,Gnar,Shen
+2017.0,summer,OPL,7,Chiefs Esports,Abyss,2.0,27:06,OK,blue,CHF,   VICTORY   ,53.7k,17,  9 ,  2 ,  1 ,  2 ,  1 ,Syndra,Elise,Xayah,Camille,Viktor
+2017.0,summer,OPL,7,Chiefs Esports,Abyss,2.0,27:06,OK,red,AE,   DEFEAT   ,40.5k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Rakan,Maokai,Jayce,Gnar,Jax
+2017.0,summer,OPL,7,TM Gaming,Sin Gaming,1.0,22:06,OK,blue,TM,   DEFEAT   ,33.4k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Jayce,Renekton,Zed,Leblanc
+2017.0,summer,OPL,7,TM Gaming,Sin Gaming,1.0,22:06,OK,red,SIN,   VICTORY   ,46.9k,17,  9 ,  2 ,  0 ,  2 ,  1 ,Galio,Karma,Maokai,Gnar,JarvanIV
+2017.0,summer,OPL,7,TM Gaming,Sin Gaming,2.0,40:35,OK,blue,SIN,   VICTORY   ,81.4k,18,  11 ,  3 ,  1 ,  3 ,  1 ,Galio,Karma,Elise,Braum,Morgana
+2017.0,summer,OPL,7,TM Gaming,Sin Gaming,2.0,40:35,OK,red,TM,   DEFEAT   ,68.3k,9,  2 ,  0 ,  1 ,  2 ,  0 ,Taliyah,Jayce,Kalista,Gnar,Fiora
+2017.0,summer,OPL,8,Legacy Esports,TM Gaming,1.0,32:36,OK,blue,TM,   DEFEAT   ,50.7k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Maokai,Jayce,Rakan,Lucian,Gnar
+2017.0,summer,OPL,8,Legacy Esports,TM Gaming,1.0,32:36,OK,red,LGC,   VICTORY   ,67.5k,15,  10 ,  1 ,  1 ,  3 ,  1 ,Elise,Galio,Gragas,Syndra,Kassadin
+2017.0,summer,OPL,8,Legacy Esports,TM Gaming,2.0,31:12,OK,blue,LGC,   VICTORY   ,64.4k,18,  11 ,  3 ,  1 ,  3 ,  0 ,Galio,Shen,Elise,Camille,Karma
+2017.0,summer,OPL,8,Legacy Esports,TM Gaming,2.0,31:12,OK,red,TM,   DEFEAT   ,48.1k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Rakan,Maokai,Jayce,Braum,Gnar
+2017.0,summer,OPL,8,Avant Gaming,Sin Gaming,1.0,38:37,OK,blue,AV,   DEFEAT   ,64.9k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Rakan,Maokai,Thresh,Camille,Shen
+2017.0,summer,OPL,8,Avant Gaming,Sin Gaming,1.0,38:37,OK,red,SIN,   VICTORY   ,74.1k,14,  9 ,  2 ,  1 ,  3 ,  1 ,Renekton,Sejuani,Elise,Syndra,Leblanc
+2017.0,summer,OPL,8,Avant Gaming,Sin Gaming,2.0,31:16,OK,blue,SIN,   VICTORY   ,61.3k,17,  11 ,  3 ,  1 ,  0 ,  0 ,Renekton,Sejuani,Elise,Syndra,Kled
+2017.0,summer,OPL,8,Avant Gaming,Sin Gaming,2.0,31:16,OK,red,AV,   DEFEAT   ,49.2k,11,  1 ,  0 ,  0 ,  1 ,  0 ,Rakan,Maokai,Gragas,Leblanc,Kassadin
+2017.0,summer,OPL,8,Team Regicide,Chiefs Esports,1.0,25:01,OK,blue,CHF,   VICTORY   ,54.1k,22,  10 ,  2 ,  1 ,  3 ,  1 ,Khazix,JarvanIV,LeeSin,Leblanc,Ahri
+2017.0,summer,OPL,8,Team Regicide,Chiefs Esports,1.0,25:01,OK,red,RGC,   DEFEAT   ,40.2k,12,  1 ,  0 ,  0 ,  0 ,  0 ,Caitlyn,Kalista,Elise,Cassiopeia,Taliyah
+2017.0,summer,OPL,8,Team Regicide,Chiefs Esports,2.0,28:38,OK,blue,RGC,   DEFEAT   ,42.7k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Elise,Caitlyn,Thresh,Cassiopeia,Taliyah
+2017.0,summer,OPL,8,Team Regicide,Chiefs Esports,2.0,28:38,OK,red,CHF,   VICTORY   ,61.2k,19,  11 ,  2 ,  1 ,  3 ,  1 ,Khazix,JarvanIV,LeeSin,Leblanc,Zed
+2017.0,summer,OPL,8,Dire Wolves,Abyss,1.0,29:45,OK,blue,DW,   VICTORY   ,64.2k,23,  9 ,  1 ,  1 ,  2 ,  0 ,Xayah,Thresh,Lucian,Shen,Camille
+2017.0,summer,OPL,8,Dire Wolves,Abyss,1.0,29:45,OK,red,AE,   DEFEAT   ,45.8k,10,  1 ,  0 ,  0 ,  1 ,  1 ,Maokai,Jayce,Kassadin,Janna,Braum
+2017.0,summer,OPL,8,Dire Wolves,Abyss,2.0,29:36,OK,blue,AE,   DEFEAT   ,49.5k,12,  3 ,  0 ,  0 ,  0 ,  1 ,Jayce,Kassadin,Caitlyn,Ekko,Braum
+2017.0,summer,OPL,8,Dire Wolves,Abyss,2.0,29:36,OK,red,DW,   VICTORY   ,61.7k,22,  9 ,  1 ,  1 ,  3 ,  0 ,Xayah,Maokai,Thresh,Rakan,Bard
+2017.0,summer,OPL,9,Legacy Esports,Sin Gaming,1.0,29:34,OK,blue,SIN,   DEFEAT   ,44.7k,5,  1 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Braum,Tristana,Sejuani,Cassiopeia
+2017.0,summer,OPL,9,Legacy Esports,Sin Gaming,1.0,29:34,OK,red,LGC,   VICTORY   ,64.3k,19,  9 ,  1 ,  2 ,  3 ,  0 ,Taliyah,Thresh,Elise,Jayce,Rumble
+2017.0,summer,OPL,9,Legacy Esports,Sin Gaming,2.0,26:29,OK,blue,LGC,   DEFEAT   ,40.3k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Thresh,Rakan,Blitzcrank,Alistar
+2017.0,summer,OPL,9,Legacy Esports,Sin Gaming,2.0,26:29,OK,red,SIN,   VICTORY   ,52.0k,11,  10 ,  2 ,  1 ,  2 ,  1 ,JarvanIV,Braum,Maokai,Camille,Renekton
+2017.0,summer,OPL,9,Legacy Esports,Sin Gaming,3.0,31:43,OK,blue,SIN,   VICTORY   ,62.0k,14,  11 ,  4 ,  0 ,  0 ,  1 ,JarvanIV,Braum,Gnar,Karma,Lucian
+2017.0,summer,OPL,9,Legacy Esports,Sin Gaming,3.0,31:43,OK,red,LGC,   DEFEAT   ,53.0k,8,  2 ,  0 ,  1 ,  2 ,  0 ,Taliyah,Thresh,Jayce,Fiora,Renekton
+2017.0,summer,OPL,9,Team Regicide,Abyss,1.0,33:25,OK,blue,RGC,   VICTORY   ,69.5k,26,  11 ,  3 ,  1 ,  3 ,  0 ,Maokai,Zac,Gragas,Cassiopeia,
+2017.0,summer,OPL,9,Team Regicide,Abyss,1.0,33:25,OK,red,AE,   DEFEAT   ,55.6k,13,  3 ,  0 ,  0 ,  0 ,  1 ,Nidalee,LeeSin,Renekton,Ekko,Galio
+2017.0,summer,OPL,9,Team Regicide,Abyss,2.0,40:40,OK,blue,AE,   DEFEAT   ,65.6k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Renekton,Braum,JarvanIV,Vladimir,Ekko
+2017.0,summer,OPL,9,Team Regicide,Abyss,2.0,40:40,OK,red,RGC,   VICTORY   ,79.6k,16,  11 ,  3 ,  2 ,  3 ,  1 ,Maokai,Gragas,Sejuani,Cassiopeia,Kassadin
+2017.0,summer,OPL,9,TM Gaming,Avant Gaming,1.0,33:53,OK,blue,TM,   DEFEAT   ,54.5k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Rakan,Renekton,Elise,Gnar
+2017.0,summer,OPL,9,TM Gaming,Avant Gaming,1.0,33:53,OK,red,AV,   VICTORY   ,71.2k,10,  11 ,  2 ,  1 ,  3 ,  1 ,Blitzcrank,Maokai,Kayn,Cassiopeia,Zilean
+2017.0,summer,OPL,9,TM Gaming,Avant Gaming,2.0,29:47,OK,blue,AV,   DEFEAT   ,49.8k,6,  3 ,  0 ,  0 ,  1 ,  0 ,Blitzcrank,Rakan,Maokai,Shen,Gnar
+2017.0,summer,OPL,9,TM Gaming,Avant Gaming,2.0,29:47,OK,red,TM,   VICTORY   ,57.9k,19,  7 ,  1 ,  1 ,  2 ,  1 ,Kalista,Lucian,Tristana,Corki,Taliyah
+2017.0,summer,OPL,9,TM Gaming,Avant Gaming,3.0,34:50,OK,blue,TM,   DEFEAT   ,59.5k,8,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Rakan,Lucian,Elise,Sejuani
+2017.0,summer,OPL,9,TM Gaming,Avant Gaming,3.0,34:50,OK,red,AV,   VICTORY   ,74.8k,11,  11 ,  3 ,  2 ,  3 ,  1 ,Blitzcrank,Karma,Maokai,Cassiopeia,Galio
+2017.0,summer,OPL,9,Chiefs Esports,Dire Wolves,1.0,45:37,OK,blue,CHF,   DEFEAT   ,81.8k,14,  4 ,  0 ,  1 ,  2 ,  0 ,Elise,Thresh,Kassadin,Camille,Corki
+2017.0,summer,OPL,9,Chiefs Esports,Dire Wolves,1.0,45:37,OK,red,DW,   VICTORY   ,92.3k,22,  10 ,  4 ,  1 ,  3 ,  1 ,Rakan,Galio,Cassiopeia,Blitzcrank,Taric
+2017.0,summer,OPL,9,Chiefs Esports,Dire Wolves,2.0,28:03,OK,blue,DW,   DEFEAT   ,44.8k,0,  3 ,  0 ,  0 ,  0 ,  0 ,Galio,Rakan,Maokai,Rumble,Janna
+2017.0,summer,OPL,9,Chiefs Esports,Dire Wolves,2.0,28:03,OK,red,CHF,   VICTORY   ,56.4k,9,  11 ,  3 ,  1 ,  3 ,  1 ,Elise,Thresh,Lulu,Zyra,Blitzcrank
+2017.0,summer,OPL,9,Chiefs Esports,Dire Wolves,3.0,25:11,OK,blue,CHF,   DEFEAT   ,38.4k,6,  1 ,  0 ,  0 ,  1 ,  1 ,Elise,Thresh,Corki,Kassadin,Lucian
+2017.0,summer,OPL,9,Chiefs Esports,Dire Wolves,3.0,25:11,OK,red,DW,   VICTORY   ,52.0k,16,  8 ,  1 ,  1 ,  1 ,  0 ,Galio,Rakan,Cassiopeia,Janna,Morgana

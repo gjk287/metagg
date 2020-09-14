@@ -1,0 +1,178 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,TPL_a,1,SuperMassive Academy,Royal Youth Academy,1.0,35:01,OK,blue,SUP,   VICTORY   ,72.8k,16,  11 ,  3 ,  1 ,  5 ,  0 ,Cassiopeia,Akali,Galio,Kalista,Xayah
+2019.0,spring,TPL_a,1,SuperMassive Academy,Royal Youth Academy,1.0,35:01,OK,red,RYL,   DEFEAT   ,51.9k,2,  2 ,  0 ,  1 ,  1 ,  1 ,Aatrox,Lucian,Irelia,Olaf,Camille
+2019.0,spring,TPL_a,1,Galatasaray Academy,Dark Passage Academy,1.0,30:22,OK,blue,GS,   DEFEAT   ,50.3k,10,  1 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Akali,Camille,Rakan,Alistar
+2019.0,spring,TPL_a,1,Galatasaray Academy,Dark Passage Academy,1.0,30:22,OK,red,DP,   VICTORY   ,60.9k,22,  7 ,  1 ,  2 ,  5 ,  0 ,Galio,Cassiopeia,Irelia,Ezreal,Varus
+2019.0,spring,TPL_a,1,HWA Gaming Academy,Fenerbahce Academy,1.0,28:31,OK,blue,HWA,   DEFEAT   ,46.8k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Galio,Akali,Aatrox,Sejuani,Zoe
+2019.0,spring,TPL_a,1,HWA Gaming Academy,Fenerbahce Academy,1.0,28:31,OK,red,FB,   VICTORY   ,53.6k,16,  7 ,  1 ,  1 ,  3 ,  0 ,Cassiopeia,Karthus,Lucian,Thresh,Morgana
+2019.0,spring,TPL_a,1,Bursaspor Academy,Galakticos Academy,1.0,33:39,OK,blue,GAL,   DEFEAT   ,56.1k,3,  3 ,  0 ,  0 ,  1 ,  1 ,Akali,Irelia,Galio,Xayah,Caitlyn
+2019.0,spring,TPL_a,1,Bursaspor Academy,Galakticos Academy,1.0,33:39,OK,red,BUR,   VICTORY   ,65.3k,22,  11 ,  3 ,  2 ,  4 ,  0 ,Lucian,Cassiopeia,Aatrox,Morgana,Alistar
+2019.0,spring,TPL_a,1,Besiktas Academy,AURORA Academy,1.0,31:30,OK,blue,AUR,   DEFEAT   ,49.7k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Urgot,Aatrox,Cassiopeia,Jayce,Kled
+2019.0,spring,TPL_a,1,Besiktas Academy,AURORA Academy,1.0,31:30,OK,red,BJK,   VICTORY   ,62.7k,17,  11 ,  3 ,  1 ,  2 ,  0 ,Sion,Irelia,Akali,XinZhao,Camille
+2019.0,spring,TPL_a,1,Galakticos Academy,Galatasaray Academy,1.0,23:26,OK,blue,GAL,   DEFEAT   ,33.5k,4,  0 ,  0 ,  0 ,  1 ,  1 ,Irelia,Akali,Gragas,Alistar,Lissandra
+2019.0,spring,TPL_a,1,Galakticos Academy,Galatasaray Academy,1.0,23:26,OK,red,GS,   VICTORY   ,47.9k,13,  10 ,  1 ,  1 ,  2 ,  0 ,Lucian,Cassiopeia,Aatrox,Xayah,Kaisa
+2019.0,spring,TPL_a,1,Besiktas Academy,Bursaspor Academy,1.0,36:26,OK,blue,BUR,   DEFEAT   ,61.1k,14,  4 ,  0 ,  1 ,  2 ,  1 ,Alistar,Aatrox,Irelia,Sion,Ornn
+2019.0,spring,TPL_a,1,Besiktas Academy,Bursaspor Academy,1.0,36:26,OK,red,BJK,   VICTORY   ,67.1k,16,  11 ,  3 ,  1 ,  3 ,  0 ,Urgot,Lucian,Akali,Morgana,Braum
+2019.0,spring,TPL_a,1,Dark Passage Academy,SuperMassive Academy,1.0,30:09,OK,blue,SUP,   VICTORY   ,62.7k,24,  6 ,  0 ,  1 ,  3 ,  1 ,Cassiopeia,Galio,Lucian,Ryze,Vladimir
+2019.0,spring,TPL_a,1,Dark Passage Academy,SuperMassive Academy,1.0,30:09,OK,red,DP,   DEFEAT   ,51.8k,15,  2 ,  0 ,  0 ,  1 ,  0 ,Irelia,Aatrox,Akali,Kaisa,Caitlyn
+2019.0,spring,TPL_a,1,AURORA Academy,HWA Gaming Academy,1.0,32:39,OK,blue,HWA,   VICTORY   ,67.4k,27,  11 ,  4 ,  2 ,  4 ,  1 ,Lucian,Akali,Aatrox,Kaisa,Ezreal
+2019.0,spring,TPL_a,1,AURORA Academy,HWA Gaming Academy,1.0,32:39,OK,red,AUR,   DEFEAT   ,53.4k,15,  1 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Yasuo,Galio,Morgana,Alistar
+2019.0,spring,TPL_a,1,Fenerbahce Academy,Royal Youth Academy,1.0,32:32,OK,blue,RYL,   VICTORY   ,64.6k,23,  10 ,  2 ,  1 ,  3 ,  1 ,Irelia,Galio,Akali,Zoe,Syndra
+2019.0,spring,TPL_a,1,Fenerbahce Academy,Royal Youth Academy,1.0,32:32,OK,red,FB,   DEFEAT   ,54.4k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Lucian,Aatrox,Alistar,XinZhao
+2019.0,spring,TPL_a,1,SuperMassive Academy,Fenerbahce Academy,1.0,28:28,OK,blue,FB,   VICTORY   ,55.5k,17,  7 ,  1 ,  1 ,  3 ,  1 ,Lissandra,Galio,Rakan,TahmKench,Morgana
+2019.0,spring,TPL_a,1,SuperMassive Academy,Fenerbahce Academy,1.0,28:28,OK,red,SUP,   DEFEAT   ,47.9k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Lucian,Cassiopeia,Olaf,XinZhao
+2019.0,spring,TPL_a,1,Dark Passage Academy,Galakticos Academy,1.0,29:01,OK,blue,DP,   VICTORY   ,57.1k,17,  11 ,  2 ,  1 ,  3 ,  0 ,Akali,XinZhao,Aatrox,Braum,Renekton
+2019.0,spring,TPL_a,1,Dark Passage Academy,Galakticos Academy,1.0,29:01,OK,red,GAL,   DEFEAT   ,43.7k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Lucian,Galio,Ryze,Olaf,Alistar
+2019.0,spring,TPL_a,1,Royal Youth Academy,AURORA Academy,1.0,28:01,OK,blue,RYL,   VICTORY   ,55.8k,20,  11 ,  3 ,  0 ,  3 ,  1 ,Irelia,Akali,Lucian,Zoe,Alistar
+2019.0,spring,TPL_a,1,Royal Youth Academy,AURORA Academy,1.0,28:01,OK,red,AUR,   DEFEAT   ,46.0k,8,  0 ,  0 ,  1 ,  1 ,  0 ,Aatrox,Cassiopeia,Galio,XinZhao,Kaisa
+2019.0,spring,TPL_a,1,HWA Gaming Academy,Bursaspor Academy,1.0,25:06,OK,blue,BUR,   DEFEAT   ,37.0k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Cassiopeia,Irelia,XinZhao,Gragas
+2019.0,spring,TPL_a,1,HWA Gaming Academy,Bursaspor Academy,1.0,25:06,OK,red,HWA,   VICTORY   ,53.9k,19,  11 ,  3 ,  1 ,  3 ,  1 ,Urgot,Galio,Aatrox,Kaisa,Ezreal
+2019.0,spring,TPL_a,1,Galatasaray Academy,Besiktas Academy,1.0,27:35,OK,blue,GS,   DEFEAT   ,44.1k,5,  1 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Galio,Alistar,Kaisa,Sivir
+2019.0,spring,TPL_a,1,Galatasaray Academy,Besiktas Academy,1.0,27:35,OK,red,BJK,   VICTORY   ,56.2k,21,  10 ,  2 ,  1 ,  1 ,  0 ,Irelia,Cassiopeia,Urgot,Jayce,Syndra
+2019.0,spring,TPL_a,1,Besiktas Academy,Dark Passage Academy,1.0,28:20,OK,blue,BJK,   DEFEAT   ,46.3k,4,  4 ,  0 ,  0 ,  0 ,  1 ,Urgot,Irelia,Ryze,Jayce,Sejuani
+2019.0,spring,TPL_a,1,Besiktas Academy,Dark Passage Academy,1.0,28:20,OK,red,DP,   VICTORY   ,56.3k,18,  8 ,  1 ,  1 ,  3 ,  0 ,Cassiopeia,Akali,Lissandra,Galio,Vladimir
+2019.0,spring,TPL_a,1,AURORA Academy,Fenerbahce Academy,1.0,23:51,OK,blue,AUR,   VICTORY   ,48.9k,18,  8 ,  1 ,  1 ,  2 ,  0 ,Akali,Urgot,Rakan,Zoe,Syndra
+2019.0,spring,TPL_a,1,AURORA Academy,Fenerbahce Academy,1.0,23:51,OK,red,FB,   DEFEAT   ,38.2k,6,  1 ,  0 ,  0 ,  1 ,  1 ,Cassiopeia,Lucian,Galio,Morgana,XinZhao
+2019.0,spring,TPL_a,1,HWA Gaming Academy,Galatasaray Academy,1.0,26:41,OK,blue,GS,   DEFEAT   ,40.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Aatrox,Lissandra,Braum,Galio
+2019.0,spring,TPL_a,1,HWA Gaming Academy,Galatasaray Academy,1.0,26:41,OK,red,HWA,   VICTORY   ,52.9k,18,  11 ,  3 ,  1 ,  2 ,  1 ,Lucian,Irelia,Akali,Jayce,Kaisa
+2019.0,spring,TPL_a,1,Bursaspor Academy,Royal Youth Academy,1.0,31:13,OK,blue,RYL,   VICTORY   ,59.8k,24,  10 ,  2 ,  1 ,  1 ,  1 ,Irelia,Karthus,Akali,Kaisa,Xayah
+2019.0,spring,TPL_a,1,Bursaspor Academy,Royal Youth Academy,1.0,31:13,OK,red,BUR,   DEFEAT   ,46.0k,7,  0 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Lucian,Aatrox,XinZhao,Kayn
+2019.0,spring,TPL_a,1,Galakticos Academy,SuperMassive Academy,1.0,23:58,OK,blue,SUP,   VICTORY   ,50.2k,14,  11 ,  2 ,  1 ,  2 ,  1 ,Cassiopeia,Galio,Urgot,Leblanc,Zoe
+2019.0,spring,TPL_a,1,Galakticos Academy,SuperMassive Academy,1.0,23:58,OK,red,GAL,   DEFEAT   ,34.8k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Lucian,Aatrox,Lissandra,Thresh,
+2019.0,spring,TPL_a,2,Royal Youth Academy,Galatasaray Academy,1.0,29:05,OK,blue,RYL,   VICTORY   ,56.5k,16,  11 ,  3 ,  1 ,  4 ,  1 ,Jayce,Taliyah,Akali,Khazix,XinZhao
+2019.0,spring,TPL_a,2,Royal Youth Academy,Galatasaray Academy,1.0,29:05,OK,red,GS,   DEFEAT   ,44.6k,1,  2 ,  0 ,  0 ,  0 ,  0 ,Lucian,Cassiopeia,Lissandra,Sion,Sejuani
+2019.0,spring,TPL_a,2,Galakticos Academy,Besiktas Academy,1.0,40:39,OK,blue,GAL,   DEFEAT   ,75.8k,21,  6 ,  0 ,  1 ,  3 ,  0 ,Akali,Lucian,Sion,Varus,Kaisa
+2019.0,spring,TPL_a,2,Galakticos Academy,Besiktas Academy,1.0,40:39,OK,red,BJK,   VICTORY   ,82.3k,22,  11 ,  3 ,  2 ,  3 ,  1 ,Urgot,Aatrox,Cassiopeia,Camille,Irelia
+2019.0,spring,TPL_a,2,Fenerbahce Academy,Bursaspor Academy,1.0,31:30,OK,blue,FB,   VICTORY   ,59.8k,24,  8 ,  1 ,  0 ,  2 ,  1 ,Lissandra,Aatrox,Galio,Graves,Karthus
+2019.0,spring,TPL_a,2,Fenerbahce Academy,Bursaspor Academy,1.0,31:30,OK,red,BUR,   DEFEAT   ,50.6k,11,  2 ,  0 ,  1 ,  2 ,  0 ,Akali,Ezreal,Alistar,Taliyah,Kindred
+2019.0,spring,TPL_a,2,SuperMassive Academy,AURORA Academy,1.0,23:13,OK,blue,SUP,   VICTORY   ,50.3k,21,  11 ,  2 ,  0 ,  2 ,  1 ,Cassiopeia,Lucian,Galio,Thresh,XinZhao
+2019.0,spring,TPL_a,2,SuperMassive Academy,AURORA Academy,1.0,23:13,OK,red,AUR,   DEFEAT   ,32.6k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Akali,Karthus,Alistar,Morgana
+2019.0,spring,TPL_a,2,Dark Passage Academy,HWA Gaming Academy,1.0,30:49,OK,blue,HWA,   VICTORY   ,60.5k,21,  10 ,  2 ,  1 ,  2 ,  1 ,Lucian,Ryze,Urgot,Olaf,XinZhao
+2019.0,spring,TPL_a,2,Dark Passage Academy,HWA Gaming Academy,1.0,30:49,OK,red,DP,   DEFEAT   ,49.4k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Akali,Cassiopeia,Thresh,Alistar
+2019.0,spring,TPL_a,2,Bursaspor Academy,AURORA Academy,1.0,33:50,OK,blue,BUR,   VICTORY   ,64.7k,32,  10 ,  3 ,  1 ,  3 ,  1 ,Akali,Lissandra,Graves,Alistar,Braum
+2019.0,spring,TPL_a,2,Bursaspor Academy,AURORA Academy,1.0,33:50,OK,red,AUR,   DEFEAT   ,55.4k,14,  0 ,  0 ,  1 ,  0 ,  0 ,Cassiopeia,Lucian,Aatrox,Ezreal,Varus
+2019.0,spring,TPL_a,2,Besiktas Academy,SuperMassive Academy,1.0,31:06,OK,blue,BJK,   VICTORY   ,58.2k,18,  10 ,  3 ,  1 ,  3 ,  0 ,Irelia,Karthus,Zoe,Sejuani,
+2019.0,spring,TPL_a,2,Besiktas Academy,SuperMassive Academy,1.0,31:06,OK,red,SUP,   DEFEAT   ,50.5k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Akali,Cassiopeia,Galio,Viktor,Urgot
+2019.0,spring,TPL_a,2,HWA Gaming Academy,Galakticos Academy,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2019.0,spring,TPL_a,2,Royal Youth Academy,Dark Passage Academy,1.0,32:16,OK,blue,RYL,   VICTORY   ,62.9k,13,  9 ,  1 ,  2 ,  2 ,  1 ,Lissandra,Lucian,Kaisa,TahmKench,Khazix
+2019.0,spring,TPL_a,2,Royal Youth Academy,Dark Passage Academy,1.0,32:16,OK,red,DP,   DEFEAT   ,54.5k,6,  2 ,  0 ,  0 ,  2 ,  0 ,Cassiopeia,Aatrox,Akali,Kalista,Vayne
+2019.0,spring,TPL_a,2,Galatasaray Academy,Fenerbahce Academy,1.0,31:28,OK,blue,FB,   VICTORY   ,63.9k,19,  10 ,  1 ,  2 ,  4 ,  1 ,Lissandra,Galio,Urgot,Khazix,XinZhao
+2019.0,spring,TPL_a,2,Galatasaray Academy,Fenerbahce Academy,1.0,31:28,OK,red,GS,   DEFEAT   ,47.3k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Aatrox,Lucian,Ezreal,Vayne
+2019.0,spring,TPL_a,3,Besiktas Academy,HWA Gaming Academy,1.0,35:22,OK,blue,BJK,   DEFEAT   ,55.0k,9,  1 ,  0 ,  0 ,  2 ,  0 ,Evelynn,Jayce,Yasuo,Syndra,Riven
+2019.0,spring,TPL_a,3,Besiktas Academy,HWA Gaming Academy,1.0,35:22,OK,red,HWA,   VICTORY   ,68.4k,20,  9 ,  1 ,  1 ,  3 ,  1 ,Lucian,Lissandra,Aatrox,Kayn,XinZhao
+2019.0,spring,TPL_a,3,Fenerbahce Academy,Dark Passage Academy,1.0,28:29,OK,blue,FB,   VICTORY   ,58.3k,15,  7 ,  1 ,  1 ,  3 ,  1 ,Lissandra,Jayce,Lucian,Khazix,XinZhao
+2019.0,spring,TPL_a,3,Fenerbahce Academy,Dark Passage Academy,1.0,28:29,OK,red,DP,   DEFEAT   ,50.0k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Akali,Urgot,Cassiopeia,Irelia,Aatrox
+2019.0,spring,TPL_a,3,AURORA Academy,Galatasaray Academy,1.0,33:11,OK,blue,GS,   VICTORY   ,64.9k,21,  7 ,  1 ,  2 ,  3 ,  0 ,Akali,Sylas,Lucian,Morgana,Braum
+2019.0,spring,TPL_a,3,AURORA Academy,Galatasaray Academy,1.0,33:11,OK,red,AUR,   DEFEAT   ,56.1k,16,  3 ,  0 ,  0 ,  2 ,  1 ,Cassiopeia,Zoe,Jayce,Taliyah,Sejuani
+2019.0,spring,TPL_a,3,Galakticos Academy,Royal Youth Academy,1.0,24:13,OK,blue,GAL,   DEFEAT   ,35.9k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Akali,Aatrox,Braum,Karma
+2019.0,spring,TPL_a,3,Galakticos Academy,Royal Youth Academy,1.0,24:13,OK,red,RYL,   VICTORY   ,50.5k,21,  11 ,  3 ,  1 ,  2 ,  1 ,Cassiopeia,Lucian,Lissandra,Ezreal,Caitlyn
+2019.0,spring,TPL_a,3,SuperMassive Academy,Bursaspor Academy,1.0,26:20,OK,blue,BUR,   DEFEAT   ,38.6k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Akali,Lucian,Gragas,Sejuani
+2019.0,spring,TPL_a,3,SuperMassive Academy,Bursaspor Academy,1.0,26:20,OK,red,SUP,   VICTORY   ,54.9k,18,  9 ,  1 ,  1 ,  3 ,  1 ,Urgot,Cassiopeia,Aatrox,Kaisa,Ezreal
+2019.0,spring,TPL_a,3,Galatasaray Academy,Bursaspor Academy,1.0,26:38,OK,blue,GS,   VICTORY   ,57.2k,26,  8 ,  1 ,  1 ,  2 ,  1 ,Akali,Aatrox,Sylas,Braum,Thresh
+2019.0,spring,TPL_a,3,Galatasaray Academy,Bursaspor Academy,1.0,26:38,OK,red,BUR,   DEFEAT   ,41.5k,9,  0 ,  0 ,  0 ,  1 ,  0 ,Lucian,Irelia,Cassiopeia,Vayne,Ezreal
+2019.0,spring,TPL_a,3,HWA Gaming Academy,SuperMassive Academy,1.0,30:04,OK,blue,SUP,   DEFEAT   ,54.3k,12,  1 ,  0 ,  0 ,  1 ,  1 ,Evelynn,Yasuo,Urgot,Morgana,Khazix
+2019.0,spring,TPL_a,3,HWA Gaming Academy,SuperMassive Academy,1.0,30:04,OK,red,HWA,   VICTORY   ,61.7k,25,  10 ,  2 ,  1 ,  4 ,  0 ,Lucian,Aatrox,Sylas,Zoe,XinZhao
+2019.0,spring,TPL_a,3,Royal Youth Academy,Besiktas Academy,1.0,39:05,OK,blue,RYL,   VICTORY   ,70.2k,14,  9 ,  1 ,  1 ,  3 ,  1 ,Kayn,XinZhao,Akali,Alistar,Braum
+2019.0,spring,TPL_a,3,Royal Youth Academy,Besiktas Academy,1.0,39:05,OK,red,BJK,   DEFEAT   ,63.2k,4,  2 ,  0 ,  1 ,  2 ,  0 ,Aatrox,Kalista,Morgana,Kindred,Khazix
+2019.0,spring,TPL_a,3,Fenerbahce Academy,Galakticos Academy,1.0,23:42,OK,blue,GAL,   DEFEAT   ,35.1k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Karthus,Aatrox,Ezreal,Kalista
+2019.0,spring,TPL_a,3,Fenerbahce Academy,Galakticos Academy,1.0,23:42,OK,red,FB,   VICTORY   ,49.8k,18,  11 ,  3 ,  1 ,  3 ,  1 ,Cassiopeia,Lissandra,Lucian,XinZhao,Khazix
+2019.0,spring,TPL_a,3,Dark Passage Academy,AURORA Academy,1.0,28:10,OK,blue,DP,   VICTORY   ,56.5k,26,  8 ,  2 ,  1 ,  2 ,  0 ,Graves,Sylas,Urgot,Zoe,Ryze
+2019.0,spring,TPL_a,3,Dark Passage Academy,AURORA Academy,1.0,28:10,OK,red,AUR,   DEFEAT   ,47.7k,18,  1 ,  0 ,  0 ,  1 ,  0 ,Lucian,Karthus,Cassiopeia,Kennen,Jayce
+2019.0,spring,TPL_a,4,Bursaspor Academy,Dark Passage Academy,1.0,22:49,OK,blue,DP,   VICTORY   ,43.8k,15,  7 ,  1 ,  0 ,  2 ,  0 ,Yorick,Thresh,Zoe,Galio,Alistar
+2019.0,spring,TPL_a,4,Bursaspor Academy,Dark Passage Academy,1.0,22:49,OK,red,BUR,   DEFEAT   ,37.4k,8,  2 ,  0 ,  0 ,  0 ,  1 ,Lucian,Sion,Lissandra,Morgana,Braum
+2019.0,spring,TPL_a,4,HWA Gaming Academy,Royal Youth Academy,1.0,35:15,OK,blue,RYL,   DEFEAT   ,54.6k,5,  1 ,  0 ,  0 ,  0 ,  1 ,Evelynn,Yasuo,Karthus,Irelia,Sion
+2019.0,spring,TPL_a,4,HWA Gaming Academy,Royal Youth Academy,1.0,35:15,OK,red,HWA,   VICTORY   ,69.0k,17,  10 ,  2 ,  2 ,  5 ,  0 ,Lucian,Kalista,Caitlyn,Tristana,Sivir
+2019.0,spring,TPL_a,4,SuperMassive Academy,Galatasaray Academy,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2019.0,spring,TPL_a,4,AURORA Academy,Galakticos Academy,1.0,30:06,OK,blue,GAL,   DEFEAT   ,46.3k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Xayah,Cassiopeia,Aatrox,Ezreal,Sivir
+2019.0,spring,TPL_a,4,AURORA Academy,Galakticos Academy,1.0,30:06,OK,red,AUR,   VICTORY   ,58.2k,21,  9 ,  2 ,  1 ,  3 ,  0 ,Lucian,Jayce,Lissandra,Irelia,Sion
+2019.0,spring,TPL_a,4,Besiktas Academy,Fenerbahce Academy,1.0,27:50,OK,blue,BJK,   DEFEAT   ,43.8k,10,  0 ,  0 ,  0 ,  1 ,  0 ,Karthus,Urgot,Kaisa,Sion,Syndra
+2019.0,spring,TPL_a,4,Besiktas Academy,Fenerbahce Academy,1.0,27:50,OK,red,FB,   VICTORY   ,54.0k,19,  11 ,  2 ,  1 ,  3 ,  1 ,Lissandra,Lucian,Morgana,XinZhao,LeeSin
+2019.0,spring,TPL_a,4,AURORA Academy,Besiktas Academy,1.0,26:09,OK,blue,BJK,   VICTORY   ,53.3k,22,  11 ,  3 ,  1 ,  3 ,  1 ,Urgot,Karthus,Zoe,Cassiopeia,Syndra
+2019.0,spring,TPL_a,4,AURORA Academy,Besiktas Academy,1.0,26:09,OK,red,AUR,   DEFEAT   ,39.3k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Lucian,Lissandra,Karma,Ezreal,Ryze
+2019.0,spring,TPL_a,4,Dark Passage Academy,Galatasaray Academy,1.0,24:41,OK,blue,DP,   VICTORY   ,52.5k,21,  11 ,  3 ,  1 ,  3 ,  1 ,Jayce,Yasuo,Yorick,Caitlyn,Thresh
+2019.0,spring,TPL_a,4,Dark Passage Academy,Galatasaray Academy,1.0,24:41,OK,red,GS,   DEFEAT   ,38.1k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Ryze,Morgana,Zoe,Kayn,Kindred
+2019.0,spring,TPL_a,4,Fenerbahce Academy,HWA Gaming Academy,1.0,32:30,OK,blue,HWA,   DEFEAT   ,52.2k,6,  2 ,  0 ,  0 ,  2 ,  1 ,Lucian,Karthus,Ryze,Ezreal,Urgot
+2019.0,spring,TPL_a,4,Fenerbahce Academy,HWA Gaming Academy,1.0,32:30,OK,red,FB,   VICTORY   ,57.7k,12,  9 ,  2 ,  1 ,  2 ,  0 ,Evelynn,Lissandra,Morgana,Khazix,Ivern
+2019.0,spring,TPL_a,4,Galakticos Academy,Bursaspor Academy,1.0,28:43,OK,blue,BUR,   VICTORY   ,57.7k,20,  11 ,  3 ,  1 ,  3 ,  1 ,Sylas,Yasuo,Karthus,Braum,Alistar
+2019.0,spring,TPL_a,4,Galakticos Academy,Bursaspor Academy,1.0,28:43,OK,red,GAL,   DEFEAT   ,44.0k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Urgot,Cassiopeia,Syndra,Irelia
+2019.0,spring,TPL_a,4,Royal Youth Academy,SuperMassive Academy,1.0,29:12,OK,blue,RYL,   DEFEAT   ,44.2k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Sylas,Jayce,Cassiopeia,Sejuani,Sion
+2019.0,spring,TPL_a,4,Royal Youth Academy,SuperMassive Academy,1.0,29:12,OK,red,SUP,   VICTORY   ,52.5k,7,  7 ,  1 ,  0 ,  3 ,  1 ,Kalista,Lucian,Jinx,Kindred,Urgot
+2019.0,spring,TPL_a,5,HWA Gaming Academy,AURORA Academy,1.0,23:29,OK,blue,HWA,   VICTORY   ,54.1k,17,  11 ,  1 ,  1 ,  3 ,  1 ,Karthus,Alistar,Jax,Leblanc,Cassiopeia
+2019.0,spring,TPL_a,5,HWA Gaming Academy,AURORA Academy,1.0,23:29,OK,red,AUR,   DEFEAT   ,34.3k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Evelynn,Lissandra,Lucian,Renekton,Morgana
+2019.0,spring,TPL_a,5,Royal Youth Academy,Fenerbahce Academy,1.0,24:21,OK,blue,FB,   VICTORY   ,48.6k,9,  10 ,  1 ,  1 ,  3 ,  1 ,Thresh,Cassiopeia,Lucian,Lissandra,Sion
+2019.0,spring,TPL_a,5,Royal Youth Academy,Fenerbahce Academy,1.0,24:21,OK,red,RYL,   DEFEAT   ,37.5k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Karthus,Taliyah,Jayce,Ezreal,Jinx
+2019.0,spring,TPL_a,5,Galatasaray Academy,Galakticos Academy,1.0,34:39,OK,blue,GS,   VICTORY   ,66.3k,16,  11 ,  3 ,  1 ,  2 ,  0 ,Kennen,XinZhao,Karthus,Olaf,Kindred
+2019.0,spring,TPL_a,5,Galatasaray Academy,Galakticos Academy,1.0,34:39,OK,red,GAL,   DEFEAT   ,57.7k,9,  3 ,  0 ,  0 ,  3 ,  1 ,Jayce,Yasuo,Lissandra,Zoe,
+2019.0,spring,TPL_a,5,SuperMassive Academy,Dark Passage Academy,1.0,26:00,OK,blue,DP,   DEFEAT   ,40.6k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Ivern,Jayce,Karthus,Corki
+2019.0,spring,TPL_a,5,SuperMassive Academy,Dark Passage Academy,1.0,26:00,OK,red,SUP,   VICTORY   ,53.0k,17,  10 ,  1 ,  1 ,  3 ,  1 ,Ryze,Lucian,Urgot,XinZhao,Kennen
+2019.0,spring,TPL_a,5,Bursaspor Academy,Besiktas Academy,1.0,26:01,OK,blue,BJK,   VICTORY   ,54.2k,20,  11 ,  4 ,  1 ,  4 ,  1 ,Urgot,Cassiopeia,Karthus,Zoe,Syndra
+2019.0,spring,TPL_a,5,Bursaspor Academy,Besiktas Academy,1.0,26:01,OK,red,BUR,   DEFEAT   ,38.7k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Lucian,Lissandra,Ryze,Kalista,Kaisa
+2019.0,spring,TPL_a,5,Fenerbahce Academy,SuperMassive Academy,1.0,32:00,OK,blue,FB,   DEFEAT   ,51.4k,9,  5 ,  1 ,  0 ,  1 ,  0 ,Sylas,Irelia,Lucian,Kaisa,Ivern
+2019.0,spring,TPL_a,5,Fenerbahce Academy,SuperMassive Academy,1.0,32:00,OK,red,SUP,   VICTORY   ,64.5k,21,  11 ,  2 ,  1 ,  1 ,  1 ,Taliyah,Kindred,Urgot,Elise,XinZhao
+2019.0,spring,TPL_a,5,AURORA Academy,Royal Youth Academy,1.0,26:28,OK,blue,AUR,   DEFEAT   ,42.4k,4,  3 ,  0 ,  0 ,  4 ,  0 ,Zoe,Kalista,Jayce,LeeSin,Gragas
+2019.0,spring,TPL_a,5,AURORA Academy,Royal Youth Academy,1.0,26:28,OK,red,RYL,   VICTORY   ,50.6k,14,  8 ,  1 ,  1 ,  0 ,  1 ,Karthus,Urgot,Jax,Sylas,Poppy
+2019.0,spring,TPL_a,5,Bursaspor Academy,HWA Gaming Academy,1.0,36:42,OK,blue,BUR,   DEFEAT   ,60.6k,18,  0 ,  0 ,  0 ,  0 ,  0 ,Evelynn,Irelia,Riven,Tristana,Varus
+2019.0,spring,TPL_a,5,Bursaspor Academy,HWA Gaming Academy,1.0,36:42,OK,red,HWA,   VICTORY   ,76.9k,26,  11 ,  3 ,  3 ,  6 ,  1 ,Lucian,Urgot,Lissandra,Khazix,JarvanIV
+2019.0,spring,TPL_a,5,Besiktas Academy,Galatasaray Academy,1.0,28:09,OK,blue,BJK,   VICTORY   ,52.6k,10,  11 ,  3 ,  1 ,  4 ,  1 ,Yasuo,Cassiopeia,Urgot,Alistar,Braum
+2019.0,spring,TPL_a,5,Besiktas Academy,Galatasaray Academy,1.0,28:09,OK,red,GS,   DEFEAT   ,40.8k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Jayce,Vladimir,Ryze,Gragas,Kennen
+2019.0,spring,TPL_a,5,Galakticos Academy,Dark Passage Academy,1.0,32:02,OK,blue,DP,   VICTORY   ,61.1k,18,  7 ,  1 ,  0 ,  2 ,  1 ,Zoe,XinZhao,Jayce,Leblanc,
+2019.0,spring,TPL_a,5,Galakticos Academy,Dark Passage Academy,1.0,32:02,OK,red,GAL,   DEFEAT   ,55.4k,14,  2 ,  0 ,  1 ,  1 ,  0 ,Lucian,Urgot,Lissandra,Cassiopeia,Kennen
+2019.0,spring,TPL_a,6,SuperMassive Academy,Galakticos Academy,1.0,26:04,OK,blue,GAL,   DEFEAT   ,40.6k,7,  1 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Zoe,Yasuo,RekSai,Ivern
+2019.0,spring,TPL_a,6,SuperMassive Academy,Galakticos Academy,1.0,26:04,OK,red,SUP,   VICTORY   ,53.8k,17,  10 ,  1 ,  1 ,  3 ,  1 ,Lissandra,Lucian,Jayce,Corki,Kalista
+2019.0,spring,TPL_a,6,Fenerbahce Academy,AURORA Academy,1.0,26:56,OK,blue,FB,   VICTORY   ,54.2k,16,  10 ,  2 ,  1 ,  3 ,  1 ,Irelia,Thresh,Graves,Jax,Yorick
+2019.0,spring,TPL_a,6,Fenerbahce Academy,AURORA Academy,1.0,26:56,OK,red,AUR,   DEFEAT   ,39.6k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Kindred,Jayce,Sylas,Lissandra
+2019.0,spring,TPL_a,6,Dark Passage Academy,Besiktas Academy,1.0,36:24,OK,blue,DP,   DEFEAT   ,60.3k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Zoe,Vladimir,Alistar,Kalista,Kaisa
+2019.0,spring,TPL_a,6,Dark Passage Academy,Besiktas Academy,1.0,36:24,OK,red,BJK,   VICTORY   ,71.7k,20,  11 ,  3 ,  1 ,  2 ,  1 ,Lucian,Ryze,Cassiopeia,Syndra,Corki
+2019.0,spring,TPL_a,6,Royal Youth Academy,Bursaspor Academy,1.0,28:40,OK,blue,BUR,   DEFEAT   ,42.2k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Kalista,Cassiopeia,Yasuo,Leblanc,Syndra
+2019.0,spring,TPL_a,6,Royal Youth Academy,Bursaspor Academy,1.0,28:40,OK,red,RYL,   VICTORY   ,57.5k,21,  10 ,  1 ,  1 ,  2 ,  1 ,Galio,Lucian,Karthus,JarvanIV,Sejuani
+2019.0,spring,TPL_a,6,Galatasaray Academy,HWA Gaming Academy,1.0,47:37,OK,blue,GS,   DEFEAT   ,83.7k,19,  6 ,  0 ,  1 ,  4 ,  1 ,Evelynn,Kindred,Yasuo,Ivern,Lucian
+2019.0,spring,TPL_a,6,Galatasaray Academy,HWA Gaming Academy,1.0,47:37,OK,red,HWA,   VICTORY   ,85.7k,23,  9 ,  3 ,  2 ,  3 ,  0 ,RekSai,Kennen,Jayce,Ryze,Renekton
+2019.0,spring,TPL_a,6,Bursaspor Academy,Fenerbahce Academy,1.0,24:43,OK,blue,FB,   VICTORY   ,51.8k,25,  9 ,  1 ,  1 ,  3 ,  0 ,Thresh,Cassiopeia,Galio,Alistar,Irelia
+2019.0,spring,TPL_a,6,Bursaspor Academy,Fenerbahce Academy,1.0,24:43,OK,red,BUR,   DEFEAT   ,36.5k,7,  0 ,  0 ,  0 ,  0 ,  1 ,Karthus,Lucian,Zoe,Ezreal,Caitlyn
+2019.0,spring,TPL_a,6,AURORA Academy,SuperMassive Academy,1.0,26:15,OK,blue,AUR,   DEFEAT   ,40.2k,9,  0 ,  0 ,  0 ,  2 ,  0 ,Zoe,RekSai,JarvanIV,Nocturne,Elise
+2019.0,spring,TPL_a,6,AURORA Academy,SuperMassive Academy,1.0,26:15,OK,red,SUP,   VICTORY   ,56.7k,28,  11 ,  3 ,  1 ,  2 ,  1 ,Jax,Cassiopeia,Lucian,Graves,XinZhao
+2019.0,spring,TPL_a,6,Besiktas Academy,Galakticos Academy,1.0,32:59,OK,blue,GAL,   DEFEAT   ,54.5k,11,  3 ,  0 ,  0 ,  2 ,  0 ,RekSai,Galio,Lucian,Ryze,Elise
+2019.0,spring,TPL_a,6,Besiktas Academy,Galakticos Academy,1.0,32:59,OK,red,BJK,   VICTORY   ,63.1k,25,  9 ,  1 ,  1 ,  2 ,  1 ,Cassiopeia,Zoe,Sylas,LeeSin,Kindred
+2019.0,spring,TPL_a,6,Galatasaray Academy,Royal Youth Academy,1.0,29:51,OK,blue,GS,   DEFEAT   ,45.1k,4,  1 ,  0 ,  0 ,  0 ,  0 ,RekSai,Elise,Sylas,Kindred,LeeSin
+2019.0,spring,TPL_a,6,Galatasaray Academy,Royal Youth Academy,1.0,29:51,OK,red,RYL,   VICTORY   ,58.8k,16,  11 ,  3 ,  2 ,  4 ,  1 ,Jayce,Cassiopeia,Yasuo,Olaf,Sejuani
+2019.0,spring,TPL_a,6,HWA Gaming Academy,Dark Passage Academy,1.0,30:57,OK,blue,DP,   DEFEAT   ,49.8k,6,  3 ,  0 ,  0 ,  1 ,  0 ,Kindred,Evelynn,Yasuo,Lissandra,Riven
+2019.0,spring,TPL_a,6,HWA Gaming Academy,Dark Passage Academy,1.0,30:57,OK,red,HWA,   VICTORY   ,57.8k,8,  7 ,  1 ,  0 ,  3 ,  1 ,Lucian,TahmKench,Zoe,Galio,Morgana
+2019.0,spring,TPL_a,7,Galakticos Academy,HWA Gaming Academy,1.0,32:27,OK,blue,HWA,   VICTORY   ,64.6k,18,  10 ,  2 ,  0 ,  3 ,  1 ,Kalista,RekSai,LeeSin,Thresh,Leblanc
+2019.0,spring,TPL_a,7,Galakticos Academy,HWA Gaming Academy,1.0,32:27,OK,red,GAL,   DEFEAT   ,53.0k,6,  2 ,  0 ,  1 ,  2 ,  0 ,Riven,Evelynn,Lucian,Kaisa,Sivir
+2019.0,spring,TPL_a,7,Dark Passage Academy,Royal Youth Academy,1.0,35:24,OK,blue,DP,   VICTORY   ,66.2k,28,  9 ,  2 ,  0 ,  4 ,  1 ,Thresh,Zoe,Cassiopeia,Vladimir,Leblanc
+2019.0,spring,TPL_a,7,Dark Passage Academy,Royal Youth Academy,1.0,35:24,OK,red,RYL,   DEFEAT   ,63.1k,23,  3 ,  0 ,  2 ,  0 ,  0 ,Lucian,Ryze,Lissandra,Riven,Irelia
+2019.0,spring,TPL_a,7,AURORA Academy,Bursaspor Academy,1.0,30:25,OK,blue,BUR,   DEFEAT   ,54.9k,18,  1 ,  0 ,  1 ,  2 ,  1 ,Karthus,Graves,Jax,Vladimir,Poppy
+2019.0,spring,TPL_a,7,AURORA Academy,Bursaspor Academy,1.0,30:25,OK,red,AUR,   VICTORY   ,64.2k,27,  10 ,  2 ,  1 ,  3 ,  0 ,Lucian,Zoe,Jayce,Draven,Kalista
+2019.0,spring,TPL_a,7,SuperMassive Academy,Besiktas Academy,1.0,27:10,OK,blue,BJK,   DEFEAT   ,38.2k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Zoe,RekSai,Camille,Kindred
+2019.0,spring,TPL_a,7,SuperMassive Academy,Besiktas Academy,1.0,27:10,OK,red,SUP,   VICTORY   ,53.9k,13,  10 ,  2 ,  1 ,  3 ,  1 ,Lissandra,Ryze,Kalista,Ezreal,Syndra
+2019.0,spring,TPL_a,7,Fenerbahce Academy,Galatasaray Academy,1.0,37:55,OK,blue,GS,   DEFEAT   ,71.0k,30,  6 ,  0 ,  0 ,  2 ,  1 ,Kindred,Taliyah,Galio,Leblanc,Urgot
+2019.0,spring,TPL_a,7,Fenerbahce Academy,Galatasaray Academy,1.0,37:55,OK,red,FB,   VICTORY   ,71.8k,25,  7 ,  2 ,  1 ,  4 ,  0 ,Cassiopeia,Jayce,JarvanIV,Kennen,Lissandra
+2019.0,spring,TPL_a,7,Royal Youth Academy,Galakticos Academy,1.0,31:05,OK,blue,GAL,   DEFEAT   ,46.8k,3,  1 ,  0 ,  0 ,  0 ,  1 ,RekSai,Jayce,Ezreal,Kennen,Elise
+2019.0,spring,TPL_a,7,Royal Youth Academy,Galakticos Academy,1.0,31:05,OK,red,RYL,   VICTORY   ,60.6k,15,  11 ,  2 ,  1 ,  4 ,  0 ,Lucian,Kalista,LeeSin,JarvanIV,XinZhao
+2019.0,spring,TPL_a,7,HWA Gaming Academy,Besiktas Academy,1.0,29:26,OK,blue,BJK,   VICTORY   ,62.5k,19,  11 ,  4 ,  2 ,  3 ,  1 ,Evelynn,Kindred,Zoe,Leblanc,Irelia
+2019.0,spring,TPL_a,7,HWA Gaming Academy,Besiktas Academy,1.0,29:26,OK,red,HWA,   DEFEAT   ,44.9k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Ryze,Kalista,Lissandra,Jayce,Syndra
+2019.0,spring,TPL_a,7,Galatasaray Academy,AURORA Academy,1.0,42:01,OK,blue,GS,   VICTORY   ,78.5k,28,  10 ,  2 ,  1 ,  0 ,  1 ,Karthus,Galio,Draven,Braum,Renekton
+2019.0,spring,TPL_a,7,Galatasaray Academy,AURORA Academy,1.0,42:01,OK,red,AUR,   DEFEAT   ,79.9k,31,  8 ,  1 ,  2 ,  5 ,  0 ,Lucian,Yasuo,Jayce,Kennen,Taliyah
+2019.0,spring,TPL_a,7,Dark Passage Academy,Fenerbahce Academy,1.0,21:46,OK,blue,DP,   DEFEAT   ,32.9k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Kindred,Jayce,Kaisa,Karthus
+2019.0,spring,TPL_a,7,Dark Passage Academy,Fenerbahce Academy,1.0,21:46,OK,red,FB,   VICTORY   ,47.2k,23,  10 ,  2 ,  1 ,  3 ,  1 ,Thresh,Khazix,Lucian,Nunu,RekSai
+2019.0,spring,TPL_a,7,Bursaspor Academy,SuperMassive Academy,1.0,30:33,OK,blue,BUR,   DEFEAT   ,48.2k,10,  3 ,  0 ,  1 ,  2 ,  0 ,Irelia,TahmKench,Leblanc,Nocturne,Syndra
+2019.0,spring,TPL_a,7,Bursaspor Academy,SuperMassive Academy,1.0,30:33,OK,red,SUP,   VICTORY   ,55.6k,17,  7 ,  1 ,  0 ,  3 ,  1 ,Lissandra,Cassiopeia,Kalista,Ezreal,Kaisa
+2019.0,spring,TPL_a,8,AURORA Academy,Dark Passage Academy,1.0,32:39,OK,blue,AUR,   DEFEAT   ,58.1k,18,  3 ,  0 ,  1 ,  2 ,  1 ,Ryze,Jayce,Zoe,Ezreal,Kaisa
+2019.0,spring,TPL_a,8,AURORA Academy,Dark Passage Academy,1.0,32:39,OK,red,DP,   VICTORY   ,61.2k,15,  8 ,  1 ,  0 ,  2 ,  0 ,Graves,RekSai,Pyke,Lissandra,Cassiopeia
+2019.0,spring,TPL_a,8,Bursaspor Academy,Galatasaray Academy,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2019.0,spring,TPL_a,8,SuperMassive Academy,HWA Gaming Academy,1.0,36:54,OK,blue,HWA,   VICTORY   ,72.1k,20,  9 ,  2 ,  1 ,  4 ,  1 ,Lucian,Elise,Jayce,Zoe,Kennen
+2019.0,spring,TPL_a,8,SuperMassive Academy,HWA Gaming Academy,1.0,36:54,OK,red,SUP,   DEFEAT   ,62.2k,11,  3 ,  0 ,  0 ,  1 ,  0 ,Evelynn,Kindred,Cassiopeia,Olaf,Aatrox
+2019.0,spring,TPL_a,8,Galakticos Academy,Fenerbahce Academy,1.0,44:14,OK,blue,FB,   VICTORY   ,89.5k,27,  11 ,  5 ,  2 ,  3 ,  1 ,Kalista,JarvanIV,Janna,Yorick,Shen
+2019.0,spring,TPL_a,8,Galakticos Academy,Fenerbahce Academy,1.0,44:14,OK,red,GAL,   DEFEAT   ,80.0k,22,  8 ,  1 ,  1 ,  4 ,  0 ,Lucian,Jayce,Neeko,Ezreal,Cassiopeia
+2019.0,spring,TPL_a,8,Besiktas Academy,Royal Youth Academy,1.0,47:07,OK,blue,BJK,   VICTORY   ,87.8k,14,  9 ,  2 ,  1 ,  4 ,  0 ,Zoe,Kalista,RekSai,Syndra,Cassiopeia
+2019.0,spring,TPL_a,8,Besiktas Academy,Royal Youth Academy,1.0,47:07,OK,red,RYL,   DEFEAT   ,84.2k,19,  8 ,  3 ,  3 ,  3 ,  1 ,Lissandra,Lucian,Jayce,Ezreal,Tristana
+2019.0,spring,TPL_a,8,Royal Youth Academy,HWA Gaming Academy,1.0,26:10,OK,blue,HWA,   VICTORY   ,50.8k,17,  9 ,  2 ,  0 ,  3 ,  0 ,Kalista,RekSai,Lucian,Tristana,Ezreal
+2019.0,spring,TPL_a,8,Royal Youth Academy,HWA Gaming Academy,1.0,26:10,OK,red,RYL,   DEFEAT   ,39.9k,4,  1 ,  0 ,  0 ,  0 ,  1 ,Evelynn,Kindred,Yasuo,Jayce,Irelia
+2019.0,spring,TPL_a,8,Fenerbahce Academy,Besiktas Academy,1.0,33:52,OK,blue,BJK,   DEFEAT   ,54.0k,11,  3 ,  0 ,  0 ,  1 ,  0 ,Zoe,Karthus,Kindred,Irelia,Syndra
+2019.0,spring,TPL_a,8,Fenerbahce Academy,Besiktas Academy,1.0,33:52,OK,red,FB,   VICTORY   ,68.4k,24,  9 ,  1 ,  2 ,  3 ,  1 ,Lissandra,Thresh,Morgana,Khazix,JarvanIV
+2019.0,spring,TPL_a,8,Dark Passage Academy,Bursaspor Academy,1.0,31:31,OK,blue,DP,   VICTORY   ,64.4k,26,  11 ,  3 ,  1 ,  5 ,  0 ,Thresh,Kassadin,Cassiopeia,Orianna,Syndra
+2019.0,spring,TPL_a,8,Dark Passage Academy,Bursaspor Academy,1.0,31:31,OK,red,BUR,   DEFEAT   ,49.0k,15,  0 ,  0 ,  0 ,  0 ,  1 ,Zoe,Irelia,Ryze,Kennen,Olaf
+2019.0,spring,TPL_a,8,Galatasaray Academy,SuperMassive Academy,1.0,19:20,OK,blue,GS,   DEFEAT   ,26.3k,4,  0 ,  0 ,  0 ,  0 ,  0 ,RekSai,Irelia,Zoe,Kennen,Camille
+2019.0,spring,TPL_a,8,Galatasaray Academy,SuperMassive Academy,1.0,19:20,OK,red,SUP,   VICTORY   ,41.3k,28,  9 ,  1 ,  0 ,  3 ,  1 ,Lucian,JarvanIV,Jayce,Lissandra,Syndra
+2019.0,spring,TPL_a,8,Galakticos Academy,AURORA Academy,1.0,33:44,OK,blue,GAL,   DEFEAT   ,52.8k,4,  3 ,  0 ,  0 ,  0 ,  1 ,Kalista,Galio,RekSai,Elise,Jayce
+2019.0,spring,TPL_a,8,Galakticos Academy,AURORA Academy,1.0,33:44,OK,red,AUR,   VICTORY   ,65.9k,18,  9 ,  3 ,  2 ,  5 ,  0 ,Zoe,Swain,Alistar,Lissandra,Poppy

@@ -1,0 +1,61 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,CIS_CL,1,Team Just.ICE,Monolith Gaming,1.0,26:42,OK,blue,TJI,   DEFEAT   ,43.0k,10,  3 ,  0 ,  0 ,  0 ,  1 ,Rakan,Heimerdinger,Aatrox,Pyke,Shen
+2018.0,summer,CIS_CL,1,Team Just.ICE,Monolith Gaming,1.0,26:42,OK,red,MNL,   VICTORY   ,55.4k,30,  9 ,  2 ,  0 ,  3 ,  0 ,Braum,Taliyah,Zoe,Cassiopeia,Ryze
+2018.0,summer,CIS_CL,1,CrowCrowd,SeaDoggos,1.0,28:18,OK,blue,CC,   VICTORY   ,50.6k,14,  6 ,  1 ,  1 ,  2 ,  0 ,Darius,Morgana,Camille,XinZhao,Sejuani
+2018.0,summer,CIS_CL,1,CrowCrowd,SeaDoggos,1.0,28:18,OK,red,SOS,   DEFEAT   ,47.3k,7,  5 ,  1 ,  0 ,  2 ,  1 ,Zoe,Kennen,Pyke,Braum,Ekko
+2018.0,summer,CIS_CL,1,AVANGAR,PlaPro.c58,1.0,33:38,OK,blue,AVG,   VICTORY   ,65.1k,19,  10 ,  1 ,  1 ,  3 ,  1 ,Graves,Leblanc,Taliyah,Fiddlesticks,Braum
+2018.0,summer,CIS_CL,1,AVANGAR,PlaPro.c58,1.0,33:38,OK,red,C58,   DEFEAT   ,55.1k,10,  3 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Nocturne,Zoe,Galio,Varus
+2018.0,summer,CIS_CL,1,SeaDoggos,AVANGAR,1.0,29:01,OK,blue,SOS,   DEFEAT   ,45.1k,5,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,Ziggs,Aatrox,Orianna,Viktor
+2018.0,summer,CIS_CL,1,SeaDoggos,AVANGAR,1.0,29:01,OK,red,AVG,   VICTORY   ,58.6k,24,  11 ,  2 ,  1 ,  2 ,  1 ,Rakan,Fiora,Vladimir,Kindred,Camille
+2018.0,summer,CIS_CL,1,PlaPro.c58,Team Just.ICE,1.0,32:53,OK,blue,C58,   VICTORY   ,66.2k,23,  11 ,  2 ,  2 ,  2 ,  0 ,Zoe,Swain,Graves,Kindred,Camille
+2018.0,summer,CIS_CL,1,PlaPro.c58,Team Just.ICE,1.0,32:53,OK,red,TJI,   DEFEAT   ,55.1k,16,  4 ,  1 ,  0 ,  2 ,  1 ,Nocturne,Leblanc,Aatrox,Gragas,Darius
+2018.0,summer,CIS_CL,1,Monolith Gaming,CrowCrowd,1.0,26:05,OK,blue,MNL,   DEFEAT   ,41.8k,9,  2 ,  0 ,  0 ,  1 ,  1 ,Xerath,Lucian,Nocturne,Swain,Vladimir
+2018.0,summer,CIS_CL,1,Monolith Gaming,CrowCrowd,1.0,26:05,OK,red,CC,   VICTORY   ,56.6k,22,  11 ,  3 ,  1 ,  2 ,  0 ,Zoe,Galio,Aatrox,Fiora,Darius
+2018.0,summer,CIS_CL,2,PlaPro.c58,SeaDoggos,1.0,31:03,OK,blue,C58,   VICTORY   ,62.3k,22,  10 ,  2 ,  1 ,  3 ,  1 ,Camille,Swain,Rakan,Braum,Pyke
+2018.0,summer,CIS_CL,2,PlaPro.c58,SeaDoggos,1.0,31:03,OK,red,SOS,   DEFEAT   ,48.4k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Graves,Leblanc,Morgana,Orianna,Velkoz
+2018.0,summer,CIS_CL,2,AVANGAR,Monolith Gaming,1.0,55:14,OK,blue,AVG,   VICTORY   ,101.2k,33,  10 ,  2 ,  1 ,  1 ,  0 ,Taliyah,Galio,Swain,Alistar,Pyke
+2018.0,summer,CIS_CL,2,AVANGAR,Monolith Gaming,1.0,55:14,OK,red,MNL,   DEFEAT   ,99.1k,25,  5 ,  0 ,  1 ,  4 ,  1 ,Vladimir,Shen,Morgana,Xayah,Draven
+2018.0,summer,CIS_CL,2,Team Just.ICE,CrowCrowd,1.0,20:34,OK,blue,TJI,   DEFEAT   ,31.2k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Xerath,Morgana,Nocturne,Ziggs,Vladimir
+2018.0,summer,CIS_CL,2,Team Just.ICE,CrowCrowd,1.0,20:34,OK,red,CC,   VICTORY   ,41.3k,16,  7 ,  1 ,  0 ,  1 ,  1 ,Zoe,Galio,Taliyah,Fiora,Poppy
+2018.0,summer,CIS_CL,2,CrowCrowd,AVANGAR,1.0,32:34,OK,blue,CC,   VICTORY   ,64.1k,16,  9 ,  1 ,  2 ,  2 ,  0 ,Nocturne,Vladimir,Morgana,Fiora,Ornn
+2018.0,summer,CIS_CL,2,CrowCrowd,AVANGAR,1.0,32:34,OK,red,AVG,   DEFEAT   ,53.5k,6,  8 ,  1 ,  0 ,  2 ,  1 ,Aatrox,Zoe,Camille,Xerath,DrMundo
+2018.0,summer,CIS_CL,2,Monolith Gaming,PlaPro.c58,1.0,38:07,OK,blue,MNL,   DEFEAT   ,63.7k,8,  4 ,  0 ,  0 ,  2 ,  0 ,Leblanc,Morgana,Graves,Lucian,Jhin
+2018.0,summer,CIS_CL,2,Monolith Gaming,PlaPro.c58,1.0,38:07,OK,red,C58,   VICTORY   ,72.7k,24,  9 ,  2 ,  1 ,  3 ,  1 ,Zoe,Nocturne,Camille,Trundle,Galio
+2018.0,summer,CIS_CL,2,SeaDoggos,Team Just.ICE,1.0,32:04,OK,blue,SOS,   VICTORY   ,67.0k,29,  10 ,  2 ,  0 ,  3 ,  1 ,Braum,Morgana,Shen,Darius,Renekton
+2018.0,summer,CIS_CL,2,SeaDoggos,Team Just.ICE,1.0,32:04,OK,red,TJI,   DEFEAT   ,59.3k,24,  5 ,  1 ,  1 ,  1 ,  0 ,Rakan,Orianna,Swain,Poppy,Ornn
+2018.0,summer,CIS_CL,3,PlaPro.c58,CrowCrowd,1.0,27:32,OK,blue,C58,   VICTORY   ,58.1k,23,  10 ,  1 ,  1 ,  2 ,  1 ,Draven,Camille,Zoe,Xerath,Velkoz
+2018.0,summer,CIS_CL,3,PlaPro.c58,CrowCrowd,1.0,27:32,OK,red,CC,   DEFEAT   ,42.6k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Graves,Aatrox,Illaoi,Darius
+2018.0,summer,CIS_CL,3,Team Just.ICE,AVANGAR,1.0,45:37,OK,blue,TJI,   DEFEAT   ,77.7k,14,  2 ,  0 ,  0 ,  2 ,  0 ,Vladimir,Nocturne,Aatrox,Renekton,Trundle
+2018.0,summer,CIS_CL,3,Team Just.ICE,AVANGAR,1.0,45:37,OK,red,AVG,   VICTORY   ,85.0k,17,  11 ,  5 ,  2 ,  3 ,  1 ,Taliyah,Galio,Zoe,Cassiopeia,Ryze
+2018.0,summer,CIS_CL,3,SeaDoggos,Monolith Gaming,1.0,29:07,OK,blue,SOS,   DEFEAT   ,44.6k,9,  2 ,  0 ,  0 ,  0 ,  0 ,Rakan,Nocturne,Zoe,Fiddlesticks,Pyke
+2018.0,summer,CIS_CL,3,SeaDoggos,Monolith Gaming,1.0,29:07,OK,red,MNL,   VICTORY   ,59.8k,21,  10 ,  2 ,  1 ,  3 ,  1 ,Aatrox,Ziggs,Morgana,Varus,Lucian
+2018.0,summer,CIS_CL,3,Monolith Gaming,Team Just.ICE,1.0,34:46,OK,blue,MNL,   VICTORY   ,64.2k,18,  9 ,  1 ,  1 ,  3 ,  1 ,Morgana,Zoe,Graves,Fiora,Yasuo
+2018.0,summer,CIS_CL,3,Monolith Gaming,Team Just.ICE,1.0,34:46,OK,red,TJI,   DEFEAT   ,53.6k,10,  2 ,  0 ,  0 ,  1 ,  0 ,Rakan,Taliyah,Nocturne,Jhin,Lucian
+2018.0,summer,CIS_CL,3,SeaDoggos,CrowCrowd,1.0,37:01,OK,blue,SOS,   DEFEAT   ,67.8k,21,  6 ,  0 ,  0 ,  1 ,  1 ,Draven,Olaf,Graves,Galio,Orianna
+2018.0,summer,CIS_CL,3,SeaDoggos,CrowCrowd,1.0,37:01,OK,red,CC,   VICTORY   ,76.6k,34,  11 ,  4 ,  2 ,  2 ,  0 ,Nocturne,Zoe,Morgana,Taliyah,XinZhao
+2018.0,summer,CIS_CL,3,PlaPro.c58,AVANGAR,1.0,42:42,OK,blue,C58,   DEFEAT   ,70.8k,13,  2 ,  0 ,  0 ,  0 ,  0 ,Camille,Vladimir,Aatrox,Zoe,Viktor
+2018.0,summer,CIS_CL,3,PlaPro.c58,AVANGAR,1.0,42:42,OK,red,AVG,   VICTORY   ,81.6k,15,  10 ,  4 ,  2 ,  5 ,  1 ,Graves,Orianna,Nocturne,Leblanc,Kindred
+2018.0,summer,CIS_CL,4,AVANGAR,SeaDoggos,1.0,35:15,OK,blue,AVG,   VICTORY   ,66.9k,32,  9 ,  2 ,  0 ,  4 ,  1 ,Aatrox,Camille,Swain,Varus,Brand
+2018.0,summer,CIS_CL,4,AVANGAR,SeaDoggos,1.0,35:15,OK,red,SOS,   DEFEAT   ,56.2k,7,  3 ,  0 ,  1 ,  0 ,  0 ,Nocturne,Zoe,Vladimir,Jhin,Kennen
+2018.0,summer,CIS_CL,4,Team Just.ICE,PlaPro.c58,1.0,23:04,OK,blue,TJI,   DEFEAT   ,36.5k,12,  0 ,  0 ,  0 ,  0 ,  0 ,Graves,Orianna,Swain,Braum,Ryze
+2018.0,summer,CIS_CL,4,Team Just.ICE,PlaPro.c58,1.0,23:04,OK,red,C58,   VICTORY   ,50.4k,29,  9 ,  2 ,  1 ,  2 ,  1 ,Zoe,Morgana,Yasuo,Darius,Camille
+2018.0,summer,CIS_CL,4,CrowCrowd,Monolith Gaming,1.0,30:58,OK,blue,CC,   VICTORY   ,60.2k,19,  11 ,  3 ,  1 ,  2 ,  1 ,Nocturne,Rakan,Akali,Orianna,Urgot
+2018.0,summer,CIS_CL,4,CrowCrowd,Monolith Gaming,1.0,30:58,OK,red,MNL,   DEFEAT   ,50.2k,5,  6 ,  1 ,  0 ,  2 ,  0 ,Camille,Aatrox,Graves,Morgana,Pyke
+2018.0,summer,CIS_CL,4,SeaDoggos,PlaPro.c58,1.0,24:04,OK,blue,SOS,   DEFEAT   ,34.6k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Graves,Akali,Nocturne,Braum,Morgana
+2018.0,summer,CIS_CL,4,SeaDoggos,PlaPro.c58,1.0,24:04,OK,red,C58,   VICTORY   ,52.0k,23,  10 ,  2 ,  1 ,  2 ,  1 ,Zoe,Aatrox,Taliyah,Jhin,Kaisa
+2018.0,summer,CIS_CL,4,Monolith Gaming,AVANGAR,1.0,39:31,OK,blue,MNL,   DEFEAT   ,66.7k,13,  6 ,  0 ,  0 ,  1 ,  1 ,Vladimir,Trundle,Akali,DrMundo,Poppy
+2018.0,summer,CIS_CL,4,Monolith Gaming,AVANGAR,1.0,39:31,OK,red,AVG,   VICTORY   ,72.8k,25,  8 ,  1 ,  2 ,  3 ,  0 ,Zoe,Aatrox,Taliyah,Pyke,Rakan
+2018.0,summer,CIS_CL,4,CrowCrowd,Team Just.ICE,1.0,25:55,OK,blue,CC,   VICTORY   ,55.1k,29,  10 ,  2 ,  1 ,  1 ,  1 ,Nocturne,Akali,Zoe,Ryze,Leblanc
+2018.0,summer,CIS_CL,4,CrowCrowd,Team Just.ICE,1.0,25:55,OK,red,TJI,   DEFEAT   ,40.4k,11,  1 ,  0 ,  0 ,  2 ,  0 ,Camille,Draven,Taliyah,Braum,TahmKench
+2018.0,summer,CIS_CL,5,AVANGAR,CrowCrowd,1.0,38:36,OK,blue,AVG,   DEFEAT   ,60.1k,9,  4 ,  0 ,  0 ,  0 ,  1 ,Draven,Graves,TahmKench,Varus,Cassiopeia
+2018.0,summer,CIS_CL,5,AVANGAR,CrowCrowd,1.0,38:36,OK,red,CC,   VICTORY   ,73.8k,14,  9 ,  1 ,  2 ,  4 ,  0 ,Zoe,Nocturne,Vladimir,Rakan,Jhin
+2018.0,summer,CIS_CL,5,PlaPro.c58,Monolith Gaming,1.0,27:04,OK,blue,С58,   VICTORY   ,52.2k,11,  8 ,  1 ,  1 ,  3 ,  1 ,Zoe,Camille,Fiora,Galio,Ryze
+2018.0,summer,CIS_CL,5,PlaPro.c58,Monolith Gaming,1.0,27:04,OK,red,MNL,   DEFEAT   ,39.2k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Swain,Taliyah,Nocturne,Azir,Akali
+2018.0,summer,CIS_CL,5,Team Just.ICE,SeaDoggos,1.0,30:45,OK,blue,TJI,   DEFEAT   ,49.9k,11,  0 ,  0 ,  0 ,  0 ,  0 ,Orianna,Aatrox,Morgana,Varus,Jhin
+2018.0,summer,CIS_CL,5,Team Just.ICE,SeaDoggos,1.0,30:45,OK,red,SOS,   VICTORY   ,62.4k,25,  10 ,  3 ,  1 ,  3 ,  1 ,Akali,Zoe,Nocturne,Sivir,Kaisa
+2018.0,summer,CIS_CL,5,CrowCrowd,PlaPro.c58,1.0,30:48,OK,blue,CC,   DEFEAT   ,49.0k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Nocturne,Swain,Graves,Fiora,DrMundo
+2018.0,summer,CIS_CL,5,CrowCrowd,PlaPro.c58,1.0,30:48,OK,red,C58,   VICTORY   ,59.4k,18,  10 ,  4 ,  2 ,  2 ,  1 ,Zoe,Aatrox,Camille,Draven,Xerath
+2018.0,summer,CIS_CL,5,AVANGAR,Team Just.ICE,1.0,49:22,OK,blue,AVG,   DEFEAT   ,83.1k,23,  3 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Zoe,Kindred,Ryze,Cassiopeia
+2018.0,summer,CIS_CL,5,AVANGAR,Team Just.ICE,1.0,49:22,OK,red,TJI,   VICTORY   ,97.3k,26,  10 ,  2 ,  3 ,  4 ,  1 ,Vladimir,Akali,Nocturne,Swain,Kennen
+2018.0,summer,CIS_CL,5,Monolith Gaming,SeaDoggos,1.0,32:29,OK,blue,MNL,   VICTORY   ,69.5k,36,  10 ,  2 ,  1 ,  2 ,  1 ,Orianna,Morgana,Poppy,Sejuani,Fiora
+2018.0,summer,CIS_CL,5,Monolith Gaming,SeaDoggos,1.0,32:29,OK,red,SOS,   DEFEAT   ,52.5k,15,  4 ,  0 ,  0 ,  1 ,  0 ,Zoe,Nocturne,Akali,Kaisa,Swain

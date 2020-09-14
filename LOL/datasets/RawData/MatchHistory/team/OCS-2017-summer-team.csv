@@ -1,0 +1,55 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2017.0,summer,OCS,1,Sin Academy,Outlaws,1.0,31:18,OK,blue,SNA,   DEFEAT   ,50.9k,10,  4 ,  0 ,  0 ,  1 ,  0 ,Gragas,Elise,Caitlyn,Shen,Orianna
+2017.0,summer,OCS,1,Sin Academy,Outlaws,1.0,31:18,OK,red,OLW,   VICTORY   ,55.5k,9,  6 ,  1 ,  1 ,  2 ,  0 ,Zac,Galio,Thresh,JarvanIV,Syndra
+2017.0,summer,OCS,1,Athletico Esports,Abyss Academy,1.0,36:15,OK,blue,ATH,   DEFEAT   ,56.7k,7,  2 ,  0 ,  1 ,  2 ,  0 ,LeeSin,TahmKench,Cassiopeia,JarvanIV,Fiora
+2017.0,summer,OCS,1,Athletico Esports,Abyss Academy,1.0,36:15,OK,red,ABY,   VICTORY   ,70.4k,13,  9 ,  1 ,  1 ,  1 ,  1 ,Zac,Yasuo,Galio,Kennen,
+2017.0,summer,OCS,1,Lynx,Corvidae,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2017.0,summer,OCS,1,Team Noxide,Legacy Genesis,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2017.0,summer,OCS,2,Lynx,Sin Academy,1.0,46:25,OK,blue,LX,   DEFEAT   ,80.8k,13,  7 ,  1 ,  0 ,  3 ,  0 ,Syndra,LeeSin,Lulu,Ashe,Orianna
+2017.0,summer,OCS,2,Lynx,Sin Academy,1.0,46:25,OK,red,SNA,   VICTORY   ,84.9k,12,  10 ,  1 ,  1 ,  2 ,  1 ,Fiora,Caitlyn,Zac,Kennen,Corki
+2017.0,summer,OCS,2,Team Noxide,Athletico Esports,1.0,35:14,OK,blue,NX,   DEFEAT   ,54.9k,8,  3 ,  0 ,  0 ,  0 ,  0 ,Yasuo,Renekton,Vladimir,Jayce,Camille
+2017.0,summer,OCS,2,Team Noxide,Athletico Esports,1.0,35:14,OK,red,ATH,   VICTORY   ,67.5k,18,  10 ,  2 ,  1 ,  3 ,  1 ,Ahri,Zac,Galio,Orianna,Elise
+2017.0,summer,OCS,2,Legacy Genesis,Outlaws,1.0,29:49,OK,blue,LGG,   DEFEAT   ,50.3k,14,  3 ,  0 ,  0 ,  0 ,  0 ,Karma,Vladimir,,,
+2017.0,summer,OCS,2,Legacy Genesis,Outlaws,1.0,29:49,OK,red,OLW,   VICTORY   ,61.9k,27,  9 ,  2 ,  1 ,  4 ,  1 ,Zac,Leblanc,Fiora,Jhin,Ashe
+2017.0,summer,OCS,2,Corvidae,Abyss Academy,1.0,30:24,OK,blue,CVD,   DEFEAT   ,45.8k,7,  2 ,  0 ,  0 ,  1 ,  0 ,RekSai,Renekton,Syndra,Vladimir,Leblanc
+2017.0,summer,OCS,2,Corvidae,Abyss Academy,1.0,30:24,OK,red,ABY,   VICTORY   ,60.1k,14,  11 ,  4 ,  1 ,  2 ,  1 ,Caitlyn,Galio,Zac,Ahri,Kassadin
+2017.0,summer,OCS,3,Sin Academy,Corvidae,1.0,38:48,OK,blue,SNA,   VICTORY   ,70.7k,18,  8 ,  1 ,  1 ,  2 ,  0 ,Fiora,Shen,Vladimir,Twitch,Jhin
+2017.0,summer,OCS,3,Sin Academy,Corvidae,1.0,38:48,OK,red,CVD,   DEFEAT   ,61.6k,7,  3 ,  0 ,  0 ,  2 ,  1 ,Zac,Gnar,Tristana,Ahri,Corki
+2017.0,summer,OCS,3,Abyss Academy,Legacy Genesis,1.0,32:18,OK,blue,ABY,   VICTORY   ,65.7k,21,  10 ,  1 ,  1 ,  3 ,  1 ,Zyra,Fiora,Caitlyn,Ahri,Syndra
+2017.0,summer,OCS,3,Abyss Academy,Legacy Genesis,1.0,32:18,OK,red,LGG,   DEFEAT   ,51.2k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Rakan,RekSai,Zac,Leblanc,Vladimir
+2017.0,summer,OCS,3,Outlaws,Team Noxide,1.0,27:10,OK,blue,OLW,   VICTORY   ,54.9k,18,  11 ,  4 ,  1 ,  3 ,  1 ,Fiora,Khazix,Elise,Warwick,Gragas
+2017.0,summer,OCS,3,Outlaws,Team Noxide,1.0,27:10,OK,red,NX,   DEFEAT   ,39.9k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Renekton,Zac,Galio,Jayce,Jax
+2017.0,summer,OCS,3,Athletico Esports,Lynx,1.0,29:41,OK,blue,ATH,   DEFEAT   ,48.4k,11,  1 ,  0 ,  0 ,  1 ,  0 ,Alistar,Fiora,Renekton,JarvanIV,Elise
+2017.0,summer,OCS,3,Athletico Esports,Lynx,1.0,29:41,OK,red,LX,   VICTORY   ,61.7k,19,  11 ,  2 ,  1 ,  2 ,  1 ,Gragas,Yasuo,Zac,Syndra,Kassadin
+2017.0,summer,OCS,4,Team Noxide,Sin Academy,1.0,33:57,OK,blue,NX,   DEFEAT   ,52.7k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Tristana,Caitlyn,Galio,Leblanc,TahmKench
+2017.0,summer,OCS,4,Team Noxide,Sin Academy,1.0,33:57,OK,red,SNA,   VICTORY   ,66.9k,14,  11 ,  3 ,  1 ,  3 ,  1 ,Elise,Fiora,Zac,Gnar,Camille
+2017.0,summer,OCS,4,Legacy Genesis,Lynx,1.0,34:15,OK,blue,LGG,   DEFEAT   ,56.5k,7,  3 ,  0 ,  0 ,  1 ,  0 ,Khazix,Syndra,Orianna,Taliyah,Thresh
+2017.0,summer,OCS,4,Legacy Genesis,Lynx,1.0,34:15,OK,red,LX,   VICTORY   ,68.6k,14,  10 ,  2 ,  2 ,  3 ,  1 ,Zac,Varus,RekSai,Caitlyn,Tristana
+2017.0,summer,OCS,4,Corvidae,Athletico Esports,1.0,41:46,OK,blue,CVD,   DEFEAT   ,64.6k,8,  3 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Syndra,RekSai,Renekton,Corki
+2017.0,summer,OCS,4,Corvidae,Athletico Esports,1.0,41:46,OK,red,ATH,   VICTORY   ,82.8k,20,  11 ,  3 ,  3 ,  3 ,  1 ,Caitlyn,Orianna,Zac,Leblanc,Kassadin
+2017.0,summer,OCS,4,Abyss Academy,Outlaws,1.0,35:15,OK,blue,ABY,   DEFEAT   ,59.7k,9,  6 ,  1 ,  1 ,  1 ,  0 ,Galio,Caitlyn,LeeSin,Xayah,Tristana
+2017.0,summer,OCS,4,Abyss Academy,Outlaws,1.0,35:15,OK,red,OLW,   VICTORY   ,66.3k,11,  9 ,  1 ,  1 ,  3 ,  0 ,Fiora,Elise,Varus,Braum,Thresh
+2017.0,summer,OCS,5,Sin Academy,Legacy Genesis,1.0,30:01,OK,blue,SNA,   DEFEAT   ,43.4k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Fiora,Jayce,Orianna,Lulu,Jax
+2017.0,summer,OCS,5,Sin Academy,Legacy Genesis,1.0,30:01,OK,red,LGG,   VICTORY   ,61.7k,12,  10 ,  2 ,  1 ,  2 ,  1 ,Thresh,Zac,Syndra,Renekton,Gragas
+2017.0,summer,OCS,5,Corvidae,Team Noxide,1.0,34:39,OK,blue,CVD,   DEFEAT   ,56.9k,15,  3 ,  0 ,  0 ,  3 ,  0 ,Jayce,Thresh,Ahri,Braum,TahmKench
+2017.0,summer,OCS,5,Corvidae,Team Noxide,1.0,34:39,OK,red,NX,   VICTORY   ,62.2k,10,  10 ,  3 ,  1 ,  0 ,  1 ,Elise,Zac,Galio,Camille,Karma
+2017.0,summer,OCS,5,Abyss Academy,Lynx,1.0,34:25,OK,blue,ABY,   VICTORY   ,68.4k,17,  11 ,  2 ,  1 ,  2 ,  0 ,Riven,Fiora,Nidalee,Syndra,Jax
+2017.0,summer,OCS,5,Abyss Academy,Lynx,1.0,34:25,OK,red,LX,   DEFEAT   ,54.6k,5,  3 ,  0 ,  0 ,  0 ,  1 ,Renekton,Zed,Jayce,Tristana,Varus
+2017.0,summer,OCS,5,Outlaws,Athletico Esports,1.0,34:18,OK,blue,OLW,   DEFEAT   ,53.6k,6,  2 ,  0 ,  0 ,  0 ,  1 ,Diana,Jayce,Cassiopeia,Khazix,Tristana
+2017.0,summer,OCS,5,Outlaws,Athletico Esports,1.0,34:18,OK,red,ATH,   VICTORY   ,67.2k,25,  9 ,  2 ,  2 ,  1 ,  0 ,Orianna,Ashe,Draven,Braum,Varus
+2017.0,summer,OCS,6,Sin Academy,Abyss Academy,1.0,42:09,OK,blue,SNA,   VICTORY   ,81.8k,21,  10 ,  2 ,  1 ,  2 ,  0 ,Sejuani,Leblanc,Renekton,Gnar,Orianna
+2017.0,summer,OCS,6,Sin Academy,Abyss Academy,1.0,42:09,OK,red,ABY,   DEFEAT   ,69.6k,8,  2 ,  0 ,  0 ,  1 ,  0 ,Tristana,Caitlyn,Chogath,Talon,Khazix
+2017.0,summer,OCS,6,Outlaws,Corvidae,1.0,35:15,OK,blue,OLW,   VICTORY   ,66.0k,17,  9 ,  2 ,  1 ,  1 ,  0 ,Leblanc,Taliyah,Twitch,Tristana,Caitlyn
+2017.0,summer,OCS,6,Outlaws,Corvidae,1.0,35:15,OK,red,CVD,   DEFEAT   ,54.6k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Kalista,Jayce,Chogath,Rakan,Braum
+2017.0,summer,OCS,6,Athletico Esports,Legacy Genesis,1.0,43:08,OK,blue,ATH,   DEFEAT   ,78.5k,12,  7 ,  3 ,  2 ,  2 ,  0 ,Orianna,Braum,Camille,Fiora,JarvanIV
+2017.0,summer,OCS,6,Athletico Esports,Legacy Genesis,1.0,43:08,OK,red,LGG,   VICTORY   ,83.1k,20,  7 ,  2 ,  1 ,  2 ,  1 ,Thresh,Zac,Maokai,Shen,Jayce
+2017.0,summer,OCS,6,Lynx,Team Noxide,1.0,25:51,OK,blue,LX,   VICTORY   ,50.0k,13,  11 ,  2 ,  1 ,  1 ,  0 ,,,,,
+2017.0,summer,OCS,6,Lynx,Team Noxide,1.0,25:51,OK,red,NX,   DEFEAT   ,41.1k,8,  3 ,  0 ,  0 ,  1 ,  1 ,Zac,Maokai,Elise,Syndra,Orianna
+2017.0,summer,OCS,7,Athletico Esports,Sin Academy,1.0,38:57,OK,blue,ATH,   VICTORY   ,76.7k,14,  11 ,  3 ,  2 ,  2 ,  1 ,Orianna,Kassadin,KogMaw,Syndra,Taliyah
+2017.0,summer,OCS,7,Athletico Esports,Sin Academy,1.0,38:57,OK,red,SNA,   DEFEAT   ,62.8k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,Chogath,Jayce,Vladimir,Yasuo
+2017.0,summer,OCS,7,Lynx,Outlaws,1.0,31:47,OK,blue,LX,   DEFEAT   ,53.8k,15,  2 ,  0 ,  0 ,  2 ,  1 ,Galio,Chogath,Caitlyn,TahmKench,Taric
+2017.0,summer,OCS,7,Lynx,Outlaws,1.0,31:47,OK,red,OLW,   VICTORY   ,62.5k,21,  9 ,  1 ,  1 ,  0 ,  0 ,Thresh,Leblanc,Gnar,Renekton,Poppy
+2017.0,summer,OCS,7,Team Noxide,Abyss Academy,1.0,31:59,OK,blue,NX,   DEFEAT   ,53.8k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Xayah,Renekton,Zac,Orianna,Leblanc
+2017.0,summer,OCS,7,Team Noxide,Abyss Academy,1.0,31:59,OK,red,ABY,   VICTORY   ,65.7k,20,  8 ,  1 ,  1 ,  2 ,  0 ,Thresh,Maokai,Caitlyn,Syndra,Ekko
+2017.0,summer,OCS,7,Legacy Genesis,Corvidae,1.0,26:47,OK,blue,LGG,   VICTORY   ,54.0k,14,  9 ,  1 ,  1 ,  0 ,  1 ,Thresh,Caitlyn,Syndra,Twitch,Jhin
+2017.0,summer,OCS,7,Legacy Genesis,Corvidae,1.0,26:47,OK,red,CVD,   DEFEAT   ,40.2k,3,  1 ,  0 ,  0 ,  2 ,  0 ,Maokai,Chogath,Jayce,Renekton,Jax

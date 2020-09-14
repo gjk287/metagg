@@ -1,0 +1,51 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,EM,1,FALKN,BT Excel,1.0,25:35,OK,blue,ΧL,   VICTORY   ,53.8k,19,  11 ,  3 ,  1 ,  4 ,  1 ,Aatrox,Xayah,Gragas,Braum,Sylas
+2019.0,summer,EM,1,FALKN,BT Excel,1.0,25:35,OK,red,FKN,   DEFEAT   ,38.2k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Heimerdinger,Yuumi,Yasuo,Sejuani,Skarner
+2019.0,summer,EM,1,ASUS ROG ELITE,Origen BCN,1.0,34:43,OK,blue,ASUS,   DEFEAT   ,57.4k,9,  3 ,  0 ,  0 ,  0 ,  1 ,Yuumi,Ornn,Vladimir,Corki,Akali
+2019.0,summer,EM,1,ASUS ROG ELITE,Origen BCN,1.0,34:43,OK,red,OGB,   VICTORY   ,67.1k,18,  10 ,  1 ,  1 ,  5 ,  0 ,Aatrox,Sejuani,Rakan,Rumble,Gangplank
+2019.0,summer,EM,1,BIG,FALKN,1.0,23:28,OK,blue,BIG,   VICTORY   ,52.9k,21,  10 ,  2 ,  1 ,  3 ,  0 ,Sylas,Gragas,Karma,Braum,Shen
+2019.0,summer,EM,1,BIG,FALKN,1.0,23:28,OK,red,FKN,   DEFEAT   ,36.3k,5,  0 ,  0 ,  0 ,  0 ,  1 ,Xayah,Yuumi,Akali,Karthus,Olaf
+2019.0,summer,EM,1,Origen BCN,Rogue Esports Club,1.0,33:51,OK,blue,REC,   VICTORY   ,64.0k,14,  11 ,  3 ,  1 ,  4 ,  0 ,Skarner,Sylas,Xayah,Corki,Syndra
+2019.0,summer,EM,1,Origen BCN,Rogue Esports Club,1.0,33:51,OK,red,OGB,   DEFEAT   ,52.7k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Aatrox,Gangplank,Vladimir,Vayne,Kaisa
+2019.0,summer,EM,1,Vitality.Bee,FALKN,1.0,31:39,OK,blue,VIT,   VICTORY   ,65.9k,29,  11 ,  4 ,  2 ,  3 ,  1 ,Yasuo,Xayah,Yuumi,Shen,Morgana
+2019.0,summer,EM,1,Vitality.Bee,FALKN,1.0,31:39,OK,red,FKN,   DEFEAT   ,50.6k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Aatrox,LeeSin,Braum,Thresh
+2019.0,summer,EM,1,BIG,BT Excel,1.0,35:16,OK,blue,ΧL,   VICTORY   ,68.5k,19,  11 ,  2 ,  1 ,  4 ,  1 ,Aatrox,Xayah,Kaisa,Yasuo,Irelia
+2019.0,summer,EM,1,BIG,BT Excel,1.0,35:16,OK,red,BIG,   DEFEAT   ,57.3k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Heimerdinger,Yuumi,Akali,Morgana,TahmKench
+2019.0,summer,EM,1,Vitality.Bee,Rogue Esports Club,1.0,30:46,OK,blue,VIT,   VICTORY   ,63.0k,23,  10 ,  2 ,  1 ,  4 ,  1 ,Xayah,Yuumi,Yasuo,Sejuani,Skarner
+2019.0,summer,EM,1,Vitality.Bee,Rogue Esports Club,1.0,30:46,OK,red,REC,   DEFEAT   ,49.0k,10,  0 ,  0 ,  0 ,  0 ,  0 ,Olaf,Akali,Sylas,Leblanc,Irelia
+2019.0,summer,EM,2,ASUS ROG ELITE,Rogue Esports Club,1.0,29:39,OK,blue,REC,   DEFEAT   ,49.9k,8,  3 ,  0 ,  0 ,  0 ,  1 ,Xayah,Yuumi,Skarner,Nautilus,Alistar
+2019.0,summer,EM,2,ASUS ROG ELITE,Rogue Esports Club,1.0,29:39,OK,red,ASUS,   VICTORY   ,59.5k,22,  11 ,  2 ,  2 ,  3 ,  0 ,Yasuo,Syndra,Akali,Lucian,Tristana
+2019.0,summer,EM,2,BT Excel,Origen BCN,1.0,33:06,OK,blue,ΧL,   VICTORY   ,65.3k,17,  10 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Xayah,Nunu,Azir,Skarner
+2019.0,summer,EM,2,BT Excel,Origen BCN,1.0,33:06,OK,red,OGB,   DEFEAT   ,51.8k,4,  2 ,  0 ,  0 ,  2 ,  1 ,Heimerdinger,Syndra,Cassiopeia,Olaf,Gangplank
+2019.0,summer,EM,2,FALKN,ASUS ROG ELITE,1.0,24:17,OK,blue,FKN,   VICTORY   ,47.7k,21,  7 ,  1 ,  0 ,  3 ,  0 ,Syndra,Xayah,Rumble,Gangplank,Corki
+2019.0,summer,EM,2,FALKN,ASUS ROG ELITE,1.0,24:17,OK,red,ASUS,   DEFEAT   ,40.7k,9,  2 ,  0 ,  1 ,  0 ,  1 ,Yasuo,Akali,Yuumi,KogMaw,Lucian
+2019.0,summer,EM,2,Vitality.Bee,BIG,1.0,30:42,OK,blue,BIG,   DEFEAT   ,49.7k,8,  3 ,  0 ,  0 ,  2 ,  0 ,Gragas,Lucian,Aatrox,Gangplank,LeeSin
+2019.0,summer,EM,2,Vitality.Bee,BIG,1.0,30:42,OK,red,VIT,   VICTORY   ,60.5k,20,  9 ,  1 ,  2 ,  3 ,  1 ,Yuumi,Xayah,Akali,Camille,Jax
+2019.0,summer,EM,2,BT Excel,Rogue Esports Club,1.0,32:24,OK,blue,ΧL,   VICTORY   ,62.4k,20,  8 ,  1 ,  1 ,  1 ,  1 ,Aatrox,Xayah,Syndra,Gragas,Sejuani
+2019.0,summer,EM,2,BT Excel,Rogue Esports Club,1.0,32:24,OK,red,REC,   DEFEAT   ,50.4k,6,  1 ,  0 ,  0 ,  3 ,  0 ,Pantheon,Olaf,Akali,Renekton,Garen
+2019.0,summer,EM,2,FALKN,Origen BCN,1.0,34:57,OK,blue,FKN,   DEFEAT   ,62.1k,14,  4 ,  0 ,  2 ,  4 ,  1 ,Nunu,Xayah,Yuumi,Ivern,Corki
+2019.0,summer,EM,2,FALKN,Origen BCN,1.0,34:57,OK,red,OGB,   VICTORY   ,62.4k,16,  7 ,  1 ,  0 ,  0 ,  0 ,Gragas,Skarner,Vladimir,Elise,Karthus
+2019.0,summer,EM,2,Vitality.Bee,ASUS ROG ELITE,1.0,37:10,OK,blue,VIT,   VICTORY   ,72.1k,22,  11 ,  4 ,  2 ,  3 ,  1 ,Xayah,Yuumi,JarvanIV,TwistedFate,Corki
+2019.0,summer,EM,2,Vitality.Bee,ASUS ROG ELITE,1.0,37:10,OK,red,ASUS,   DEFEAT   ,61.4k,12,  1 ,  0 ,  0 ,  2 ,  0 ,Sylas,Yasuo,Syndra,Lucian,Tristana
+2019.0,summer,EM,3,BIG,Origen BCN,1.0,44:34,OK,blue,BIG,   DEFEAT   ,76.5k,11,  5 ,  0 ,  0 ,  4 ,  1 ,Gangplank,Corki,Aatrox,Vladimir,Karma
+2019.0,summer,EM,3,BIG,Origen BCN,1.0,44:34,OK,red,OGB,   VICTORY   ,84.1k,21,  11 ,  5 ,  3 ,  3 ,  0 ,Olaf,Yuumi,Akali,Irelia,Camille
+2019.0,summer,EM,3,BT Excel,ASUS ROG ELITE,1.0,34:33,OK,blue,ΧL,   VICTORY   ,64.5k,18,  11 ,  3 ,  1 ,  4 ,  0 ,Aatrox,Xayah,Rumble,Lucian,Vladimir
+2019.0,summer,EM,3,BT Excel,ASUS ROG ELITE,1.0,34:33,OK,red,ASUS,   DEFEAT   ,58.6k,10,  2 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Akali,Morgana,TahmKench,
+2019.0,summer,EM,3,BIG,Rogue Esports Club,1.0,29:31,OK,blue,BIG,   VICTORY   ,58.5k,14,  9 ,  1 ,  1 ,  4 ,  1 ,Lucian,Elise,Nautilus,Ezreal,Kaisa
+2019.0,summer,EM,3,BIG,Rogue Esports Club,1.0,29:31,OK,red,REC,   DEFEAT   ,50.1k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Akali,Yuumi,Renekton,Leblanc
+2019.0,summer,EM,3,Vitality.Bee,Origen BCN,1.0,35:11,OK,blue,VIT,   DEFEAT   ,58.4k,15,  3 ,  0 ,  0 ,  1 ,  1 ,Xayah,Yuumi,Vladimir,Skarner,Gangplank
+2019.0,summer,EM,3,Vitality.Bee,Origen BCN,1.0,35:11,OK,red,OGB,   VICTORY   ,64.2k,23,  7 ,  1 ,  0 ,  4 ,  0 ,Sylas,Olaf,Aatrox,Nautilus,Kled
+2019.0,summer,EM,3,FALKN,Rogue Esports Club,1.0,40:10,OK,blue,REC,   VICTORY   ,76.9k,20,  10 ,  2 ,  1 ,  5 ,  1 ,Yasuo,Irelia,Yuumi,Nautilus,Rakan
+2019.0,summer,EM,3,FALKN,Rogue Esports Club,1.0,40:10,OK,red,FKN,   DEFEAT   ,66.9k,16,  4 ,  1 ,  1 ,  1 ,  0 ,Xayah,Syndra,Lucian,Morgana,Alistar
+2019.0,summer,EM,3,Vitality.Bee,BT Excel,1.0,31:22,OK,blue,VIT,   DEFEAT   ,49.1k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Heimerdinger,Syndra,Yuumi,Gangplank,Renekton
+2019.0,summer,EM,3,Vitality.Bee,BT Excel,1.0,31:22,OK,red,XL,   VICTORY   ,58.7k,21,  9 ,  2 ,  1 ,  3 ,  0 ,Aatrox,Kaisa,Olaf,Lucian,Ezreal
+2019.0,summer,EM,3,BIG,ASUS ROG ELITE,1.0,33:29,OK,blue,BIG,   VICTORY   ,69.3k,25,  11 ,  3 ,  1 ,  3 ,  1 ,Kaisa,JarvanIV,Lucian,Skarner,Sejuani
+2019.0,summer,EM,3,BIG,ASUS ROG ELITE,1.0,33:29,OK,red,ASUS,   DEFEAT   ,52.5k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Xayah,Yuumi,Akali,Sylas,Olaf
+2019.0,summer,EM,Stage,Vitality.Bee,BIG,1.0,36:42,OK,blue,VIT,   DEFEAT   ,58.7k,8,  5 ,  1 ,  0 ,  1 ,  1 ,Xayah,Yuumi,JarvanIV,Olaf,Skarner
+2019.0,summer,EM,Stage,Vitality.Bee,BIG,1.0,36:42,OK,red,BIG,   VICTORY   ,62.2k,9,  8 ,  1 ,  1 ,  4 ,  0 ,Gragas,Sylas,Ezreal,Varus,Kaisa
+2019.0,summer,EM,Stage,Vitality.Bee,BIG,2.0,34:50,OK,blue,VIT,   DEFEAT   ,60.5k,10,  7 ,  0 ,  1 ,  1 ,  0 ,Yuumi,Xayah,JarvanIV,Olaf,Skarner
+2019.0,summer,EM,Stage,Vitality.Bee,BIG,2.0,34:50,OK,red,BIG,   VICTORY   ,64.7k,15,  8 ,  1 ,  1 ,  4 ,  1 ,Gragas,Sylas,Ezreal,TahmKench,Morgana
+2019.0,summer,EM,Stage,Origen BCN,Rogue Esports Club,1.0,29:27,OK,blue,REC,   VICTORY   ,55.4k,8,  11 ,  3 ,  1 ,  4 ,  1 ,Karma,Yuumi,Skarner,Urgot,Gangplank
+2019.0,summer,EM,Stage,Origen BCN,Rogue Esports Club,1.0,29:27,OK,red,OGB,   DEFEAT   ,44.5k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Akali,Aatrox,Vladimir,Rakan,Syndra
+2019.0,summer,EM,Stage,Origen BCN,Rogue Esports Club,2.0,43:39,OK,blue,OGB,   DEFEAT   ,73.9k,12,  3 ,  0 ,  0 ,  1 ,  0 ,Rakan,Akali,Yuumi,Vladimir,Braum
+2019.0,summer,EM,Stage,Origen BCN,Rogue Esports Club,2.0,43:39,OK,red,REC,   VICTORY   ,81.5k,17,  10 ,  3 ,  2 ,  5 ,  1 ,Skarner,Aatrox,Xayah,Karma,Soraka

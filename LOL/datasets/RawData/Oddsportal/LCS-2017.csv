@@ -1,0 +1,323 @@
+date,league_name,year,match_type,team_1,team_2,win_odds_home,win_odds_away
+03 Sep 2017,LCS,2017.0,Summer - Play offs,Immortals,Team SoloMid,2.33,1.58
+03 Sep 2017,LCS,2017.0,Summer - Play offs,Misfits,G2 Esports,2.72,1.47
+27 Aug 2017,LCS,2017.0,Summer - Play offs,Team SoloMid,Dignitas,1.42,2.94
+27 Aug 2017,LCS,2017.0,Summer - Play offs,H2k-Gaming,G2 Esports,2.21,1.65
+26 Aug 2017,LCS,2017.0,Summer - Play offs,Fnatic,Misfits,1.24,4.42
+20 Aug 2017,LCS,2017.0,Summer - Play offs,Counter Logic Gaming,Team EnVyUs,1.39,3.07
+20 Aug 2017,LCS,2017.0,Summer - Play offs,G2 Esports,Splyce,1.34,3.42
+19 Aug 2017,LCS,2017.0,Summer - Play offs,Cloud9,Dignitas,1.56,2.40
+19 Aug 2017,LCS,2017.0,Summer - Play offs,Unicorns of Love,Misfits,1.39,3.18
+13 Aug 2017,LCS,2017.0,Summer Season,H2k-Gaming,Unicorns of Love,1.12,5.60
+13 Aug 2017,LCS,2017.0,Summer Season,Splyce,Vitality,1.40,2.88
+12 Aug 2017,LCS,2017.0,Summer Season,Fnatic,G2 Esports,1.22,4.00
+12 Aug 2017,LCS,2017.0,Summer Season,Roccat,Misfits,2.61,1.47
+11 Aug 2017,LCS,2017.0,Summer Season,Unicorns of Love,Vitality,-,-
+11 Aug 2017,LCS,2017.0,Summer Season,H2k-Gaming,Mysterious Monkeys,1.09,7.01
+10 Aug 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Fnatic,8.66,1.06
+10 Aug 2017,LCS,2017.0,Summer Season,G2 Esports,Roccat,1.23,4.03
+06 Aug 2017,LCS,2017.0,Summer Season,Cloud9,Echo Fox,-,-
+06 Aug 2017,LCS,2017.0,Summer Season,Team SoloMid,Counter Logic Gaming,1.12,-
+06 Aug 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Phoenix1,1.99,1.78
+06 Aug 2017,LCS,2017.0,Summer Season,Team Liquid,Dignitas,3.42,1.30
+05 Aug 2017,LCS,2017.0,Summer Season,Echo Fox,Immortals,3.55,1.17
+05 Aug 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Team Liquid,1.89,1.87
+05 Aug 2017,LCS,2017.0,Summer Season,Phoenix1,Team SoloMid,4.13,1.21
+05 Aug 2017,LCS,2017.0,Summer Season,Team EnVyUs,Cloud9,2.58,1.48
+05 Aug 2017,LCS,2017.0,Summer Season,Splyce,Unicorns of Love,2.47,1.53
+05 Aug 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Misfits,4.48,1.19
+05 Aug 2017,LCS,2017.0,Summer Season,Dignitas,Counter Logic Gaming,2.24,1.61
+04 Aug 2017,LCS,2017.0,Summer Season,Team EnVyUs,Immortals,2.62,1.47
+04 Aug 2017,LCS,2017.0,Summer Season,Fnatic,Roccat,1.07,5.35
+04 Aug 2017,LCS,2017.0,Summer Season,H2k-Gaming,Vitality,1.20,4.34
+03 Aug 2017,LCS,2017.0,Summer Season,Misfits,G2 Esports,4.92,1.20
+03 Aug 2017,LCS,2017.0,Summer Season,Splyce,Mysterious Monkeys,1.25,3.80
+30 Jul 2017,LCS,2017.0,Summer Season,Echo Fox,Dignitas,3.05,1.37
+30 Jul 2017,LCS,2017.0,Summer Season,Team SoloMid,Team EnVyUs,-,-
+30 Jul 2017,LCS,2017.0,Summer Season,Cloud9,FlyQuest eSports,1.32,3.31
+30 Jul 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,Phoenix1,1.27,3.60
+29 Jul 2017,LCS,2017.0,Summer Season,Dignitas,Immortals,2.81,1.40
+29 Jul 2017,LCS,2017.0,Summer Season,Team Liquid,Cloud9,3.54,1.27
+29 Jul 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Team SoloMid,4.16,1.22
+29 Jul 2017,LCS,2017.0,Summer Season,Team EnVyUs,Counter Logic Gaming,2.39,1.55
+29 Jul 2017,LCS,2017.0,Summer Season,Mysterious Monkeys,Unicorns of Love,9.15,1.06
+29 Jul 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Roccat,3.82,1.25
+29 Jul 2017,LCS,2017.0,Summer Season,Team Liquid,Immortals,3.55,1.27
+28 Jul 2017,LCS,2017.0,Summer Season,Phoenix1,Echo Fox,1.77,1.99
+28 Jul 2017,LCS,2017.0,Summer Season,Fnatic,Misfits,1.29,3.79
+28 Jul 2017,LCS,2017.0,Summer Season,Splyce,H2k-Gaming,2.76,1.43
+27 Jul 2017,LCS,2017.0,Summer Season,G2 Esports,Ninjas in Pyjamas,1.01,12.50
+27 Jul 2017,LCS,2017.0,Summer Season,Mysterious Monkeys,Vitality,2.67,1.45
+23 Jul 2017,LCS,2017.0,Summer Season,Team EnVyUs,FlyQuest eSports,1.44,2.67
+23 Jul 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,Immortals,1.88,1.86
+23 Jul 2017,LCS,2017.0,Summer Season,Dignitas,Cloud9,1.97,1.79
+23 Jul 2017,LCS,2017.0,Summer Season,Echo Fox,Team SoloMid,4.62,1.18
+23 Jul 2017,LCS,2017.0,Summer Season,Misfits,Splyce,1.62,2.24
+22 Jul 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Immortals,5.38,1.17
+22 Jul 2017,LCS,2017.0,Summer Season,Phoenix1,Team Liquid,1.43,2.92
+22 Jul 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,Echo Fox,1.26,3.72
+22 Jul 2017,LCS,2017.0,Summer Season,Team SoloMid,Dignitas,1.41,2.78
+22 Jul 2017,LCS,2017.0,Summer Season,G2 Esports,Vitality,-,-
+22 Jul 2017,LCS,2017.0,Summer Season,Fnatic,Unicorns of Love,1.48,2.53
+22 Jul 2017,LCS,2017.0,Summer Season,Team Liquid,Team EnVyUs,3.47,1.28
+21 Jul 2017,LCS,2017.0,Summer Season,Cloud9,Phoenix1,1.58,2.29
+21 Jul 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Splyce,8.50,1.05
+21 Jul 2017,LCS,2017.0,Summer Season,Misfits,Mysterious Monkeys,1.25,3.74
+20 Jul 2017,LCS,2017.0,Summer Season,Roccat,Unicorns of Love,-,-
+20 Jul 2017,LCS,2017.0,Summer Season,H2k-Gaming,G2 Esports,2.02,1.72
+16 Jul 2017,LCS,2017.0,Summer Season,Echo Fox,Team EnVyUs,2.49,1.51
+16 Jul 2017,LCS,2017.0,Summer Season,Team SoloMid,Team Liquid,1.12,5.95
+16 Jul 2017,LCS,2017.0,Summer Season,Cloud9,Immortals,2.05,1.75
+16 Jul 2017,LCS,2017.0,Summer Season,Dignitas,Phoenix1,1.86,1.91
+15 Jul 2017,LCS,2017.0,Summer Season,Cloud9,Team EnVyUs,1.54,2.38
+15 Jul 2017,LCS,2017.0,Summer Season,Team Liquid,FlyQuest eSports,2.19,1.68
+15 Jul 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,Dignitas,1.38,2.94
+15 Jul 2017,LCS,2017.0,Summer Season,Team SoloMid,Phoenix1,1.37,3.05
+15 Jul 2017,LCS,2017.0,Summer Season,Fnatic,Vitality,1.15,5.08
+15 Jul 2017,LCS,2017.0,Summer Season,Roccat,Mysterious Monkeys,1.43,2.75
+15 Jul 2017,LCS,2017.0,Summer Season,Immortals,Echo Fox,1.28,3.57
+14 Jul 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,FlyQuest eSports,1.26,3.74
+14 Jul 2017,LCS,2017.0,Summer Season,Misfits,Unicorns of Love,2.51,1.51
+14 Jul 2017,LCS,2017.0,Summer Season,Splyce,G2 Esports,2.67,1.46
+13 Jul 2017,LCS,2017.0,Summer Season,Roccat,H2k-Gaming,3.58,1.28
+13 Jul 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Vitality,2.92,1.39
+02 Jul 2017,LCS,2017.0,Summer Season,Team EnVyUs,Dignitas,2.25,1.63
+02 Jul 2017,LCS,2017.0,Summer Season,Team Liquid,Counter Logic Gaming,3.58,1.28
+02 Jul 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Echo Fox,2.20,1.63
+02 Jul 2017,LCS,2017.0,Summer Season,Phoenix1,Immortals,3.79,1.26
+01 Jul 2017,LCS,2017.0,Summer Season,Dignitas,FlyQuest eSports,1.35,3.12
+01 Jul 2017,LCS,2017.0,Summer Season,Echo Fox,Team Liquid,1.63,2.21
+01 Jul 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,Cloud9,2.20,1.64
+01 Jul 2017,LCS,2017.0,Summer Season,Team SoloMid,Immortals,1.75,2.02
+01 Jul 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Unicorns of Love,8.08,1.07
+01 Jul 2017,LCS,2017.0,Summer Season,Mysterious Monkeys,G2 Esports,6.96,1.08
+01 Jul 2017,LCS,2017.0,Summer Season,Phoenix1,Team EnVyUs,2.60,1.49
+30 Jun 2017,LCS,2017.0,Summer Season,Cloud9,Team SoloMid,2.52,1.51
+30 Jun 2017,LCS,2017.0,Summer Season,Misfits,H2k-Gaming,2.20,1.68
+30 Jun 2017,LCS,2017.0,Summer Season,Roccat,Vitality,1.36,3.05
+29 Jun 2017,LCS,2017.0,Summer Season,Fnatic,Splyce,1.22,3.90
+29 Jun 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Mysterious Monkeys,1.99,1.77
+25 Jun 2017,LCS,2017.0,Summer Season,Cloud9,Dignitas,1.54,2.55
+25 Jun 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Team EnVyUs,2.42,1.55
+25 Jun 2017,LCS,2017.0,Summer Season,Team Liquid,Phoenix1,2.70,1.44
+25 Jun 2017,LCS,2017.0,Summer Season,Team SoloMid,Echo Fox,1.27,3.70
+24 Jun 2017,LCS,2017.0,Summer Season,Cloud9,Team Liquid,1.07,-
+24 Jun 2017,LCS,2017.0,Summer Season,Immortals,Dignitas,1.44,2.70
+24 Jun 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,Team EnVyUs,1.40,2.90
+24 Jun 2017,LCS,2017.0,Summer Season,Team SoloMid,FlyQuest eSports,1.25,3.87
+24 Jun 2017,LCS,2017.0,Summer Season,Fnatic,Mysterious Monkeys,-,-
+24 Jun 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,H2k-Gaming,8.07,1.07
+24 Jun 2017,LCS,2017.0,Summer Season,Echo Fox,Phoenix1,1.57,2.47
+23 Jun 2017,LCS,2017.0,Summer Season,Immortals,Counter Logic Gaming,1.81,1.96
+23 Jun 2017,LCS,2017.0,Summer Season,Unicorns of Love,G2 Esports,2.22,1.64
+23 Jun 2017,LCS,2017.0,Summer Season,Roccat,Splyce,2.38,1.56
+22 Jun 2017,LCS,2017.0,Summer Season,Fnatic,H2k-Gaming,1.65,2.17
+22 Jun 2017,LCS,2017.0,Summer Season,Misfits,Vitality,1.25,3.78
+18 Jun 2017,LCS,2017.0,Summer Season,Dignitas,Echo Fox,1.66,2.18
+18 Jun 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Cloud9,3.54,1.24
+18 Jun 2017,LCS,2017.0,Summer Season,Phoenix1,Counter Logic Gaming,3.28,1.32
+18 Jun 2017,LCS,2017.0,Summer Season,Team EnVyUs,Team SoloMid,2.67,1.45
+17 Jun 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Counter Logic Gaming,3.03,1.29
+17 Jun 2017,LCS,2017.0,Summer Season,Phoenix1,Dignitas,2.58,1.49
+17 Jun 2017,LCS,2017.0,Summer Season,Immortals,Cloud9,2.38,1.56
+17 Jun 2017,LCS,2017.0,Summer Season,Team Liquid,Team SoloMid,5.39,1.14
+17 Jun 2017,LCS,2017.0,Summer Season,H2k-Gaming,Vitality,1.15,6.69
+17 Jun 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Roccat,2.60,1.48
+17 Jun 2017,LCS,2017.0,Summer Season,Team EnVyUs,Echo Fox,1.35,-
+16 Jun 2017,LCS,2017.0,Summer Season,Immortals,Team Liquid,1.34,3.19
+16 Jun 2017,LCS,2017.0,Summer Season,Splyce,Unicorns of Love,3.51,1.29
+16 Jun 2017,LCS,2017.0,Summer Season,Misfits,G2 Esports,3.98,1.24
+15 Jun 2017,LCS,2017.0,Summer Season,Roccat,Fnatic,8.60,1.08
+15 Jun 2017,LCS,2017.0,Summer Season,Vitality,Mysterious Monkeys,1.49,2.50
+11 Jun 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,Team SoloMid,2.00,1.82
+11 Jun 2017,LCS,2017.0,Summer Season,Phoenix1,FlyQuest eSports,1.46,2.67
+11 Jun 2017,LCS,2017.0,Summer Season,Dignitas,Team Liquid,1.25,3.89
+11 Jun 2017,LCS,2017.0,Summer Season,Echo Fox,Cloud9,3.27,1.33
+11 Jun 2017,LCS,2017.0,Summer Season,H2k-Gaming,Unicorns of Love,2.01,1.96
+11 Jun 2017,LCS,2017.0,Summer Season,Splyce,Mysterious Monkeys,1.20,4.45
+10 Jun 2017,LCS,2017.0,Summer Season,Immortals,FlyQuest eSports,1.36,3.10
+10 Jun 2017,LCS,2017.0,Summer Season,Team EnVyUs,Team Liquid,1.36,3.11
+10 Jun 2017,LCS,2017.0,Summer Season,Dignitas,Team SoloMid,3.05,1.37
+10 Jun 2017,LCS,2017.0,Summer Season,Echo Fox,Counter Logic Gaming,2.43,1.54
+10 Jun 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,G2 Esports,6.95,1.09
+10 Jun 2017,LCS,2017.0,Summer Season,Misfits,Roccat,1.64,2.22
+10 Jun 2017,LCS,2017.0,Summer Season,Immortals,Team EnVyUs,1.31,3.42
+09 Jun 2017,LCS,2017.0,Summer Season,Phoenix1,Cloud9,2.84,1.43
+09 Jun 2017,LCS,2017.0,Summer Season,Mysterious Monkeys,Unicorns of Love,7.54,1.09
+09 Jun 2017,LCS,2017.0,Summer Season,Splyce,Vitality,1.39,2.93
+08 Jun 2017,LCS,2017.0,Summer Season,G2 Esports,Fnatic,1.76,1.95
+08 Jun 2017,LCS,2017.0,Summer Season,Misfits,Ninjas in Pyjamas,1.39,2.91
+04 Jun 2017,LCS,2017.0,Summer Season,FlyQuest eSports,Dignitas,3.14,1.43
+04 Jun 2017,LCS,2017.0,Summer Season,Team Liquid,Echo Fox,1.67,2.13
+04 Jun 2017,LCS,2017.0,Summer Season,Immortals,Team SoloMid,4.13,1.21
+04 Jun 2017,LCS,2017.0,Summer Season,Team EnVyUs,Phoenix1,5.38,1.13
+03 Jun 2017,LCS,2017.0,Summer Season,Dignitas,Team EnVyUs,1.20,3.82
+03 Jun 2017,LCS,2017.0,Summer Season,Team SoloMid,Cloud9,1.46,2.69
+03 Jun 2017,LCS,2017.0,Summer Season,Counter Logic Gaming,Team Liquid,1.27,3.52
+03 Jun 2017,LCS,2017.0,Summer Season,Echo Fox,FlyQuest eSports,2.73,1.42
+03 Jun 2017,LCS,2017.0,Summer Season,Ninjas in Pyjamas,Fnatic,4.60,1.13
+03 Jun 2017,LCS,2017.0,Summer Season,H2k-Gaming,Mysterious Monkeys,1.13,5.59
+03 Jun 2017,LCS,2017.0,Summer Season,Immortals,Phoenix1,2.84,1.39
+02 Jun 2017,LCS,2017.0,Summer Season,Cloud9,Counter Logic Gaming,1.52,2.45
+02 Jun 2017,LCS,2017.0,Summer Season,Vitality,Unicorns of Love,3.81,1.25
+02 Jun 2017,LCS,2017.0,Summer Season,Roccat,G2 Esports,2.19,1.64
+01 Jun 2017,LCS,2017.0,Summer Season,Misfits,Fnatic,3.51,1.38
+01 Jun 2017,LCS,2017.0,Summer Season,H2k-Gaming,Splyce,1.45,2.64
+23 Apr 2017,LCS,2017.0,Spring - Play Offs,Team SoloMid,Cloud9,1.78,2.00
+16 Apr 2017,LCS,2017.0,Spring - Play Offs,Team SoloMid,FlyQuest eSports,1.19,4.55
+16 Apr 2017,LCS,2017.0,Spring - Play Offs,Unicorns of Love,Misfits,1.51,2.48
+15 Apr 2017,LCS,2017.0,Spring - Play Offs,Cloud9,Phoenix1,1.55,2.38
+15 Apr 2017,LCS,2017.0,Spring - Play Offs,G2 Esports,Fnatic,1.33,3.21
+09 Apr 2017,LCS,2017.0,Spring - Play Offs,Counter Logic Gaming,FlyQuest eSports,1.55,2.40
+09 Apr 2017,LCS,2017.0,Spring - Play Offs,H2k-Gaming,Fnatic,1.24,3.89
+08 Apr 2017,LCS,2017.0,Spring - Play Offs,Phoenix1,Dignitas,1.52,2.48
+08 Apr 2017,LCS,2017.0,Spring - Play Offs,Misfits,Splyce,1.83,1.94
+02 Apr 2017,LCS,2017.0,Spring Season,Fnatic,Misfits,-,-
+02 Apr 2017,LCS,2017.0,Spring Season,Splyce,H2k-Gaming,-,-
+01 Apr 2017,LCS,2017.0,Spring Season,G2 Esports,Roccat,-,-
+01 Apr 2017,LCS,2017.0,Spring Season,Vitality,Unicorns of Love,-,-
+31 Mar 2017,LCS,2017.0,Spring Season,Giants Gaming,Misfits,5.00,1.11
+31 Mar 2017,LCS,2017.0,Spring Season,Origen,H2k-Gaming,-,-
+30 Mar 2017,LCS,2017.0,Spring Season,G2 Esports,Fnatic,-,-
+30 Mar 2017,LCS,2017.0,Spring Season,Splyce,Unicorns of Love,-,-
+26 Mar 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,Team EnVyUs,1.44,2.75
+26 Mar 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Team Liquid,1.91,1.86
+26 Mar 2017,LCS,2017.0,Spring Season,Dignitas,Immortals,1.89,1.85
+26 Mar 2017,LCS,2017.0,Spring Season,Team SoloMid,Phoenix1,1.55,2.40
+25 Mar 2017,LCS,2017.0,Spring Season,Echo Fox,Team EnVyUs,1.92,1.83
+25 Mar 2017,LCS,2017.0,Spring Season,Cloud9,Phoenix1,1.87,1.90
+25 Mar 2017,LCS,2017.0,Spring Season,Immortals,Counter Logic Gaming,1.85,1.91
+25 Mar 2017,LCS,2017.0,Spring Season,Team Liquid,Team SoloMid,6.10,1.13
+25 Mar 2017,LCS,2017.0,Spring Season,Fnatic,Giants Gaming,1.40,2.85
+25 Mar 2017,LCS,2017.0,Spring Season,Vitality,H2k-Gaming,6.43,1.10
+25 Mar 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Echo Fox,1.53,2.43
+24 Mar 2017,LCS,2017.0,Spring Season,Cloud9,Dignitas,1.47,2.59
+24 Mar 2017,LCS,2017.0,Spring Season,Origen,Unicorns of Love,7.00,1.04
+24 Mar 2017,LCS,2017.0,Spring Season,Roccat,Misfits,4.48,1.19
+23 Mar 2017,LCS,2017.0,Spring Season,G2 Esports,Giants Gaming,1.06,7.65
+23 Mar 2017,LCS,2017.0,Spring Season,Vitality,Splyce,5.32,1.14
+19 Mar 2017,LCS,2017.0,Spring Season,Team EnVyUs,Cloud9,4.84,1.17
+19 Mar 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,FlyQuest eSports,1.64,2.19
+19 Mar 2017,LCS,2017.0,Spring Season,Phoenix1,Immortals,1.40,2.85
+19 Mar 2017,LCS,2017.0,Spring Season,Team SoloMid,Echo Fox,1.15,5.36
+18 Mar 2017,LCS,2017.0,Spring Season,Team Liquid,Phoenix1,3.61,1.28
+18 Mar 2017,LCS,2017.0,Spring Season,Team SoloMid,FlyQuest eSports,1.21,4.25
+18 Mar 2017,LCS,2017.0,Spring Season,Cloud9,Immortals,1.29,3.47
+18 Mar 2017,LCS,2017.0,Spring Season,Team EnVyUs,Dignitas,2.84,1.40
+18 Mar 2017,LCS,2017.0,Spring Season,Splyce,Origen,1.12,6.00
+18 Mar 2017,LCS,2017.0,Spring Season,Roccat,Giants Gaming,1.67,2.13
+18 Mar 2017,LCS,2017.0,Spring Season,Echo Fox,Counter Logic Gaming,2.79,1.40
+17 Mar 2017,LCS,2017.0,Spring Season,Dignitas,Team Liquid,1.62,2.25
+17 Mar 2017,LCS,2017.0,Spring Season,G2 Esports,Misfits,1.35,3.12
+17 Mar 2017,LCS,2017.0,Spring Season,Unicorns of Love,H2k-Gaming,2.52,1.49
+16 Mar 2017,LCS,2017.0,Spring Season,Roccat,Fnatic,3.59,1.27
+16 Mar 2017,LCS,2017.0,Spring Season,Vitality,Origen,1.37,2.99
+12 Mar 2017,LCS,2017.0,Spring Season,Echo Fox,Dignitas,-,-
+12 Mar 2017,LCS,2017.0,Spring Season,Immortals,Team SoloMid,3.63,1.25
+12 Mar 2017,LCS,2017.0,Spring Season,Team Liquid,Team EnVyUs,1.31,3.29
+12 Mar 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,Cloud9,3.66,1.25
+12 Mar 2017,LCS,2017.0,Spring Season,Origen,Giants Gaming,2.83,1.33
+11 Mar 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Immortals,1.51,2.35
+11 Mar 2017,LCS,2017.0,Spring Season,Phoenix1,Echo Fox,1.34,3.06
+11 Mar 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,Dignitas,1.55,2.36
+11 Mar 2017,LCS,2017.0,Spring Season,Team EnVyUs,Team SoloMid,5.71,1.11
+11 Mar 2017,LCS,2017.0,Spring Season,Misfits,H2k-Gaming,1.77,2.02
+11 Mar 2017,LCS,2017.0,Spring Season,Vitality,Roccat,1.49,2.56
+11 Mar 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Phoenix1,1.70,2.02
+10 Mar 2017,LCS,2017.0,Spring Season,Team Liquid,Cloud9,3.83,1.23
+10 Mar 2017,LCS,2017.0,Spring Season,Fnatic,Unicorns of Love,-,-
+10 Mar 2017,LCS,2017.0,Spring Season,G2 Esports,Splyce,1.19,4.59
+09 Mar 2017,LCS,2017.0,Spring Season,Roccat,Origen,1.53,2.40
+09 Mar 2017,LCS,2017.0,Spring Season,Vitality,Giants Gaming,1.68,2.12
+05 Mar 2017,LCS,2017.0,Spring Season,Cloud9,FlyQuest eSports,1.38,2.65
+05 Mar 2017,LCS,2017.0,Spring Season,Immortals,Team EnVyUs,1.37,3.00
+05 Mar 2017,LCS,2017.0,Spring Season,Dignitas,Team SoloMid,3.35,1.31
+05 Mar 2017,LCS,2017.0,Spring Season,Echo Fox,Team Liquid,1.70,2.10
+04 Mar 2017,LCS,2017.0,Spring Season,Phoenix1,Dignitas,1.48,2.59
+04 Mar 2017,LCS,2017.0,Spring Season,Team SoloMid,Counter Logic Gaming,1.42,2.58
+04 Mar 2017,LCS,2017.0,Spring Season,Echo Fox,Cloud9,3.24,1.33
+04 Mar 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Team EnVyUs,1.36,3.04
+04 Mar 2017,LCS,2017.0,Spring Season,Roccat,Unicorns of Love,6.28,1.09
+04 Mar 2017,LCS,2017.0,Spring Season,Origen,Misfits,8.05,1.07
+04 Mar 2017,LCS,2017.0,Spring Season,Phoenix1,Counter Logic Gaming,1.54,2.42
+03 Mar 2017,LCS,2017.0,Spring Season,Immortals,Team Liquid,1.48,2.60
+03 Mar 2017,LCS,2017.0,Spring Season,Splyce,Giants Gaming,1.16,4.76
+03 Mar 2017,LCS,2017.0,Spring Season,G2 Esports,Vitality,1.06,8.11
+02 Mar 2017,LCS,2017.0,Spring Season,Fnatic,H2k-Gaming,2.67,1.47
+02 Mar 2017,LCS,2017.0,Spring Season,Unicorns of Love,Misfits,1.94,1.82
+19 Feb 2017,LCS,2017.0,Spring Season,Phoenix1,Cloud9,3.04,1.36
+19 Feb 2017,LCS,2017.0,Spring Season,Team Liquid,Counter Logic Gaming,2.15,1.57
+19 Feb 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Team SoloMid,2.19,1.65
+19 Feb 2017,LCS,2017.0,Spring Season,Immortals,Echo Fox,2.07,1.72
+18 Feb 2017,LCS,2017.0,Spring Season,Cloud9,Team SoloMid,-,-
+18 Feb 2017,LCS,2017.0,Spring Season,Team EnVyUs,Echo Fox,-,-
+18 Feb 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,Immortals,1.85,1.91
+18 Feb 2017,LCS,2017.0,Spring Season,Origen,Fnatic,5.58,1.13
+18 Feb 2017,LCS,2017.0,Spring Season,Splyce,Roccat,1.14,5.09
+18 Feb 2017,LCS,2017.0,Spring Season,Team EnVyUs,Phoenix1,-,-
+17 Feb 2017,LCS,2017.0,Spring Season,Giants Gaming,H2k-Gaming,4.33,1.14
+17 Feb 2017,LCS,2017.0,Spring Season,Vitality,Misfits,4.79,1.17
+16 Feb 2017,LCS,2017.0,Spring Season,Splyce,Fnatic,1.78,1.85
+16 Feb 2017,LCS,2017.0,Spring Season,G2 Esports,Unicorns of Love,1.70,2.08
+12 Feb 2017,LCS,2017.0,Spring Season,Dignitas,Team EnVyUs,1.90,1.94
+12 Feb 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Cloud9,2.47,1.53
+12 Feb 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,Phoenix1,2.57,1.49
+12 Feb 2017,LCS,2017.0,Spring Season,Echo Fox,Team SoloMid,3.21,1.33
+11 Feb 2017,LCS,2017.0,Spring Season,Team Liquid,Immortals,1.60,2.20
+11 Feb 2017,LCS,2017.0,Spring Season,Team SoloMid,Team EnVyUs,1.12,5.60
+11 Feb 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,Echo Fox,1.52,2.49
+11 Feb 2017,LCS,2017.0,Spring Season,Phoenix1,FlyQuest eSports,1.93,1.84
+11 Feb 2017,LCS,2017.0,Spring Season,G2 Esports,Origen,1.04,10.20
+11 Feb 2017,LCS,2017.0,Spring Season,Roccat,H2k-Gaming,5.75,1.13
+11 Feb 2017,LCS,2017.0,Spring Season,Immortals,Dignitas,2.12,1.70
+10 Feb 2017,LCS,2017.0,Spring Season,Cloud9,Team Liquid,1.13,5.79
+10 Feb 2017,LCS,2017.0,Spring Season,Vitality,Fnatic,2.74,1.40
+10 Feb 2017,LCS,2017.0,Spring Season,Splyce,Misfits,2.24,1.63
+09 Feb 2017,LCS,2017.0,Spring Season,G2 Esports,H2k-Gaming,1.31,3.13
+09 Feb 2017,LCS,2017.0,Spring Season,Giants Gaming,Unicorns of Love,5.32,1.15
+05 Feb 2017,LCS,2017.0,Spring Season,Cloud9,Echo Fox,1.14,5.16
+05 Feb 2017,LCS,2017.0,Spring Season,Immortals,FlyQuest eSports,2.32,1.58
+05 Feb 2017,LCS,2017.0,Spring Season,Dignitas,Counter Logic Gaming,1.96,1.78
+05 Feb 2017,LCS,2017.0,Spring Season,Phoenix1,Team SoloMid,2.12,1.69
+04 Feb 2017,LCS,2017.0,Spring Season,Cloud9,Team EnVyUs,1.10,6.30
+04 Feb 2017,LCS,2017.0,Spring Season,Team Liquid,Echo Fox,2.05,1.75
+04 Feb 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,Team SoloMid,3.02,1.37
+04 Feb 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Dignitas,1.79,1.98
+04 Feb 2017,LCS,2017.0,Spring Season,Roccat,Fnatic,3.97,1.23
+04 Feb 2017,LCS,2017.0,Spring Season,Splyce,Origen,1.20,4.41
+04 Feb 2017,LCS,2017.0,Spring Season,Team EnVyUs,Team Liquid,3.25,1.34
+03 Feb 2017,LCS,2017.0,Spring Season,Immortals,Phoenix1,2.59,1.48
+03 Feb 2017,LCS,2017.0,Spring Season,G2 Esports,Giants Gaming,1.15,5.25
+03 Feb 2017,LCS,2017.0,Spring Season,Vitality,H2k-Gaming,3.77,1.26
+02 Feb 2017,LCS,2017.0,Spring Season,Misfits,Fnatic,1.82,1.96
+02 Feb 2017,LCS,2017.0,Spring Season,Splyce,Unicorns of Love,2.30,1.59
+29 Jan 2017,LCS,2017.0,Spring Season,Cloud9,Counter Logic Gaming,1.25,3.83
+29 Jan 2017,LCS,2017.0,Spring Season,Team EnVyUs,Immortals,4.05,1.26
+29 Jan 2017,LCS,2017.0,Spring Season,Echo Fox,FlyQuest eSports,3.08,1.36
+29 Jan 2017,LCS,2017.0,Spring Season,Phoenix1,Team Liquid,2.19,1.65
+29 Jan 2017,LCS,2017.0,Spring Season,Giants Gaming,Roccat,1.54,2.40
+29 Jan 2017,LCS,2017.0,Spring Season,Vitality,Origen,1.53,2.47
+28 Jan 2017,LCS,2017.0,Spring Season,Dignitas,Echo Fox,1.20,4.10
+28 Jan 2017,LCS,2017.0,Spring Season,Team SoloMid,Team Liquid,1.46,2.53
+28 Jan 2017,LCS,2017.0,Spring Season,Immortals,Cloud9,2.88,1.40
+28 Jan 2017,LCS,2017.0,Spring Season,Phoenix1,Team EnVyUs,1.38,2.95
+28 Jan 2017,LCS,2017.0,Spring Season,G2 Esports,Misfits,1.26,3.78
+28 Jan 2017,LCS,2017.0,Spring Season,H2k-Gaming,Unicorns of Love,1.43,2.75
+28 Jan 2017,LCS,2017.0,Spring Season,Team SoloMid,Dignitas,1.60,2.18
+27 Jan 2017,LCS,2017.0,Spring Season,FlyQuest eSports,Counter Logic Gaming,1.99,1.78
+27 Jan 2017,LCS,2017.0,Spring Season,Giants Gaming,Fnatic,3.20,1.31
+27 Jan 2017,LCS,2017.0,Spring Season,Vitality,Splyce,2.75,1.43
+26 Jan 2017,LCS,2017.0,Spring Season,Misfits,Roccat,1.25,3.55
+26 Jan 2017,LCS,2017.0,Spring Season,Origen,Unicorns of Love,4.27,1.21
+22 Jan 2017,LCS,2017.0,Spring Season,Dignitas,Cloud9,2.64,1.47
+22 Jan 2017,LCS,2017.0,Spring Season,Team SoloMid,Immortals,1.46,2.66
+21 Jan 2017,LCS,2017.0,Spring Season,Echo Fox,Immortals,3.89,1.25
+21 Jan 2017,LCS,2017.0,Spring Season,Counter Logic Gaming,Team Liquid,1.70,2.11
+21 Jan 2017,LCS,2017.0,Spring Season,Splyce,H2k-Gaming,1.77,2.01
+21 Jan 2017,LCS,2017.0,Spring Season,G2 Esports,Roccat,1.11,6.21
+21 Jan 2017,LCS,2017.0,Spring Season,Echo Fox,Phoenix1,2.70,1.45
+20 Jan 2017,LCS,2017.0,Spring Season,Team SoloMid,Cloud9,1.62,2.24
+20 Jan 2017,LCS,2017.0,Spring Season,Vitality,Unicorns of Love,1.78,1.98
+20 Jan 2017,LCS,2017.0,Spring Season,Misfits,Giants Gaming,1.40,2.86
+19 Jan 2017,LCS,2017.0,Spring Season,G2 Esports,Fnatic,1.38,3.01
+19 Jan 2017,LCS,2017.0,Spring Season,Origen,H2k-Gaming,5.63,1.13

@@ -1,0 +1,268 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,VCS,1,Hall of Fame,EVOS Esports,1.0,30:14,OK,blue,HOF,   DEFEAT   ,51.5k,5,  3 ,  0 ,  1 ,  0 ,  0 ,Zoe,Shen,Malzahar,Ornn,Cassiopeia
+2018.0,spring,VCS,1,Hall of Fame,EVOS Esports,1.0,30:14,OK,red,EVS,   VICTORY   ,57.9k,13,  9 ,  1 ,  0 ,  2 ,  1 ,Kalista,Ezreal,Azir,Janna,Braum
+2018.0,spring,VCS,1,Hall of Fame,EVOS Esports,2.0,32:34,OK,blue,EVS,   VICTORY   ,71.2k,18,  11 ,  4 ,  1 ,  2 ,  1 ,Sejuani,JarvanIV,Kalista,Ryze,Ezreal
+2018.0,spring,VCS,1,Hall of Fame,EVOS Esports,2.0,32:34,OK,red,HOF,   DEFEAT   ,56.6k,9,  1 ,  0 ,  1 ,  1 ,  0 ,Zoe,Khazix,Malzahar,Shyvana,Gnar
+2018.0,spring,VCS,1,Young Generation,FTV Esports,1.0,37:03,OK,blue,YG,   DEFEAT   ,63.9k,8,  4 ,  0 ,  0 ,  0 ,  1 ,Nidalee,Zoe,Janna,Varus,KogMaw
+2018.0,spring,VCS,1,Young Generation,FTV Esports,1.0,37:03,OK,red,FTV,   VICTORY   ,77.5k,17,  10 ,  2 ,  2 ,  2 ,  0 ,Ornn,Ezreal,JarvanIV,Shen,Braum
+2018.0,spring,VCS,1,Young Generation,FTV Esports,2.0,38:53,OK,blue,FTV,   DEFEAT   ,68.7k,10,  4 ,  0 ,  0 ,  2 ,  0 ,Ornn,Zoe,JarvanIV,Shen,Alistar
+2018.0,spring,VCS,1,Young Generation,FTV Esports,2.0,38:53,OK,red,YG,   VICTORY   ,76.1k,16,  8 ,  1 ,  2 ,  1 ,  0 ,Nidalee,TahmKench,Kalista,Camille,Gnar
+2018.0,spring,VCS,1,Young Generation,FTV Esports,3.0,24:43,OK,blue,YG,   VICTORY   ,49.4k,11,  6 ,  1 ,  1 ,  0 ,  0 ,Nidalee,TahmKench,Ryze,Janna,Elise
+2018.0,spring,VCS,1,Young Generation,FTV Esports,3.0,24:43,OK,red,FTV,   DEFEAT   ,46.7k,9,  5 ,  1 ,  0 ,  1 ,  0 ,JarvanIV,Vladimir,Sejuani,Shen,LeeSin
+2018.0,spring,VCS,1,Ultimate,Cherry Esports,1.0,32:32,OK,blue,UTM,   DEFEAT   ,52.7k,4,  0 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Sejuani,Azir,Fiora,Vladimir
+2018.0,spring,VCS,1,Ultimate,Cherry Esports,1.0,32:32,OK,red,CR,   VICTORY   ,67.9k,13,  9 ,  1 ,  2 ,  3 ,  0 ,Kalista,Ezreal,Rengar,Thresh,Shen
+2018.0,spring,VCS,1,Ultimate,Cherry Esports,2.0,28:54,OK,blue,CR,   DEFEAT   ,51.0k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Rengar,Kalista,Zoe,Taric,Shen
+2018.0,spring,VCS,1,Ultimate,Cherry Esports,2.0,28:54,OK,red,UTM,   VICTORY   ,56.7k,16,  9 ,  2 ,  1 ,  0 ,  1 ,TahmKench,Azir,Ryze,Malzahar,Gnar
+2018.0,spring,VCS,1,Ultimate,Cherry Esports,3.0,44:52,OK,blue,UTM,   VICTORY   ,83.2k,12,  10 ,  3 ,  1 ,  0 ,  1 ,TahmKench,Azir,KogMaw,Alistar,Ornn
+2018.0,spring,VCS,1,Ultimate,Cherry Esports,3.0,44:52,OK,red,CR,   DEFEAT   ,84.5k,30,  2 ,  0 ,  2 ,  3 ,  0 ,Kalista,Rengar,Ezreal,Camille,Jayce
+2018.0,spring,VCS,1,GAM Esports,Friends Forever Gaming,1.0,30:16,OK,blue,GAM,   VICTORY   ,66.0k,23,  9 ,  1 ,  1 ,  2 ,  1 ,TahmKench,Kalista,Zoe,Braum,Gnar
+2018.0,spring,VCS,1,GAM Esports,Friends Forever Gaming,1.0,30:16,OK,red,FFQ,   DEFEAT   ,47.5k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,Jayce,Camille,Janna,KogMaw
+2018.0,spring,VCS,1,GAM Esports,Friends Forever Gaming,2.0,22:40,OK,blue,FFQ,   DEFEAT   ,35.3k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Jayce,JarvanIV,Ezreal,Ryze,Taliyah
+2018.0,spring,VCS,1,GAM Esports,Friends Forever Gaming,2.0,22:40,OK,red,GAM,   VICTORY   ,50.9k,28,  8 ,  1 ,  0 ,  2 ,  0 ,Kalista,Alistar,Zoe,Janna,Shen
+2018.0,spring,VCS,1,Young Generation,Cherry Esports,1.0,38:53,OK,blue,YG,   VICTORY   ,81.3k,18,  9 ,  1 ,  1 ,  0 ,  0 ,Zoe,Ryze,KogMaw,JarvanIV,Nidalee
+2018.0,spring,VCS,1,Young Generation,Cherry Esports,1.0,38:53,OK,red,CR,   DEFEAT   ,72.1k,15,  6 ,  1 ,  1 ,  4 ,  1 ,Kalista,Camille,Khazix,Kassadin,Gnar
+2018.0,spring,VCS,1,Young Generation,Cherry Esports,2.0,31:31,OK,blue,CR,   DEFEAT   ,52.0k,10,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,Ornn,Kalista,Braum,Gnar
+2018.0,spring,VCS,1,Young Generation,Cherry Esports,2.0,31:31,OK,red,YG,   VICTORY   ,69.0k,18,  11 ,  1 ,  1 ,  2 ,  1 ,Zoe,Ryze,TahmKench,Alistar,Shen
+2018.0,spring,VCS,1,EVOS Esports,Ultimate,1.0,37:30,OK,blue,EVS,   VICTORY   ,74.8k,13,  8 ,  1 ,  1 ,  3 ,  0 ,Ornn,Ryze,Sejuani,Ezreal,Maokai
+2018.0,spring,VCS,1,EVOS Esports,Ultimate,1.0,37:30,OK,red,UTM,   DEFEAT   ,65.4k,8,  3 ,  0 ,  1 ,  0 ,  0 ,TahmKench,Camille,Khazix,Gnar,Nidalee
+2018.0,spring,VCS,1,EVOS Esports,Ultimate,2.0,25:02,OK,blue,UTM,   DEFEAT   ,44.7k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Jayce,Zoe,TahmKench,Alistar,Shen
+2018.0,spring,VCS,1,EVOS Esports,Ultimate,2.0,25:02,OK,red,EVS,   VICTORY   ,51.9k,11,  9 ,  1 ,  1 ,  1 ,  0 ,Ornn,Kalista,Sejuani,Khazix,Varus
+2018.0,spring,VCS,1,FTV Esports,GAM Esports,1.0,33:26,OK,blue,FTV,   DEFEAT   ,56.2k,11,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,JarvanIV,Varus,Khazix,LeeSin
+2018.0,spring,VCS,1,FTV Esports,GAM Esports,1.0,33:26,OK,red,GAM,   VICTORY   ,75.3k,18,  11 ,  4 ,  1 ,  3 ,  1 ,Kalista,RekSai,Zoe,KogMaw,Vayne
+2018.0,spring,VCS,1,FTV Esports,GAM Esports,2.0,32:30,OK,blue,GAM,   VICTORY   ,73.5k,31,  9 ,  1 ,  1 ,  1 ,  1 ,Kalista,KogMaw,Zoe,Janna,Braum
+2018.0,spring,VCS,1,FTV Esports,GAM Esports,2.0,32:30,OK,red,FTV,   DEFEAT   ,59.4k,20,  3 ,  0 ,  0 ,  2 ,  0 ,Camille,Ornn,TahmKench,LeeSin,Khazix
+2018.0,spring,VCS,1,Friends Forever Gaming,Hall of Fame,1.0,40:13,OK,blue,FFQ,   VICTORY   ,75.3k,10,  10 ,  3 ,  2 ,  2 ,  1 ,Sejuani,Jayce,RekSai,Fiora,Varus
+2018.0,spring,VCS,1,Friends Forever Gaming,Hall of Fame,1.0,40:13,OK,red,HOF,   DEFEAT   ,68.5k,9,  2 ,  0 ,  0 ,  2 ,  0 ,TahmKench,Zoe,Kalista,Rengar,Janna
+2018.0,spring,VCS,1,Friends Forever Gaming,Hall of Fame,2.0,27:18,OK,blue,HOF,   DEFEAT   ,46.0k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,TahmKench,Azir,Shen,Alistar
+2018.0,spring,VCS,1,Friends Forever Gaming,Hall of Fame,2.0,27:18,OK,red,FFQ,   VICTORY   ,56.3k,13,  10 ,  3 ,  1 ,  1 ,  1 ,Sejuani,Jayce,JarvanIV,Orianna,Taliyah
+2018.0,spring,VCS,2,FTV Esports,Ultimate,1.0,31:03,OK,blue,FTV,   DEFEAT   ,51.6k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Ornn,Thresh,Ezreal,Janna,Vladimir
+2018.0,spring,VCS,2,FTV Esports,Ultimate,1.0,31:03,OK,red,UTM,   VICTORY   ,64.2k,19,  8 ,  1 ,  1 ,  3 ,  1 ,Ryze,Kalista,Zoe,Camille,Jayce
+2018.0,spring,VCS,2,FTV Esports,Ultimate,2.0,26:11,OK,blue,UTM,   VICTORY   ,58.3k,21,  10 ,  2 ,  1 ,  1 ,  1 ,Ryze,Kalista,Camille,Kassadin,Malzahar
+2018.0,spring,VCS,2,FTV Esports,Ultimate,2.0,26:11,OK,red,FTV,   DEFEAT   ,43.4k,6,  2 ,  0 ,  0 ,  1 ,  0 ,KogMaw,Varus,Azir,Gnar,JarvanIV
+2018.0,spring,VCS,2,Friends Forever Gaming,Cherry Esports,1.0,41:27,OK,blue,FFQ,   DEFEAT   ,76.0k,14,  3 ,  0 ,  1 ,  2 ,  0 ,JarvanIV,Nidalee,Zoe,Janna,Alistar
+2018.0,spring,VCS,2,Friends Forever Gaming,Cherry Esports,1.0,41:27,OK,red,CR,   VICTORY   ,90.9k,22,  11 ,  4 ,  2 ,  3 ,  0 ,Jayce,Kalista,TahmKench,Sejuani,Rengar
+2018.0,spring,VCS,2,Friends Forever Gaming,Cherry Esports,2.0,42:22,OK,blue,CR,   DEFEAT   ,79.0k,15,  1 ,  0 ,  0 ,  2 ,  0 ,Camille,Kalista,Gangplank,Taliyah,Janna
+2018.0,spring,VCS,2,Friends Forever Gaming,Cherry Esports,2.0,42:22,OK,red,FFQ,   VICTORY   ,90.0k,22,  11 ,  9 ,  3 ,  3 ,  1 ,Zoe,JarvanIV,Ryze,Khazix,Rengar
+2018.0,spring,VCS,2,Friends Forever Gaming,Cherry Esports,3.0,34:17,OK,blue,FFQ,   DEFEAT   ,60.1k,8,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,TahmKench,Azir,Ornn,Orianna
+2018.0,spring,VCS,2,Friends Forever Gaming,Cherry Esports,3.0,34:17,OK,red,CR,   VICTORY   ,70.1k,17,  10 ,  2 ,  2 ,  3 ,  1 ,Camille,Jayce,Fiora,KogMaw,Caitlyn
+2018.0,spring,VCS,2,Young Generation,EVOS Esports,1.0,32:52,OK,blue,YG,   DEFEAT   ,56.7k,2,  3 ,  0 ,  1 ,  1 ,  0 ,Khazix,Ezreal,TahmKench,Varus,Rengar
+2018.0,spring,VCS,2,Young Generation,EVOS Esports,1.0,32:52,OK,red,EVS,   VICTORY   ,65.8k,11,  9 ,  1 ,  0 ,  2 ,  1 ,Kalista,JarvanIV,Sejuani,Jax,Maokai
+2018.0,spring,VCS,2,Young Generation,EVOS Esports,2.0,36:38,OK,blue,EVS,   DEFEAT   ,68.7k,14,  9 ,  2 ,  1 ,  0 ,  1 ,Sejuani,JarvanIV,Kalista,Elise,LeeSin
+2018.0,spring,VCS,2,Young Generation,EVOS Esports,2.0,36:38,OK,red,YG,   VICTORY   ,75.8k,18,  10 ,  2 ,  1 ,  4 ,  0 ,Khazix,TahmKench,KogMaw,Braum,Rengar
+2018.0,spring,VCS,2,Young Generation,EVOS Esports,3.0,28:08,OK,blue,YG,   DEFEAT   ,50.0k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Khazix,Zoe,Camille,Alistar,Rengar
+2018.0,spring,VCS,2,Young Generation,EVOS Esports,3.0,28:08,OK,red,EVS,   VICTORY   ,60.5k,16,  11 ,  4 ,  1 ,  2 ,  0 ,Kalista,TahmKench,KogMaw,Jayce,Taric
+2018.0,spring,VCS,2,GAM Esports,Hall of Fame,1.0,37:45,OK,blue,GAM,   VICTORY   ,73.0k,15,  7 ,  1 ,  1 ,  1 ,  0 ,RekSai,Shyvana,Zoe,Jayce,Camille
+2018.0,spring,VCS,2,GAM Esports,Hall of Fame,1.0,37:45,OK,red,HOF,   DEFEAT   ,68.9k,14,  4 ,  0 ,  1 ,  3 ,  1 ,Ornn,Kalista,TahmKench,Shen,Gnar
+2018.0,spring,VCS,2,GAM Esports,Hall of Fame,2.0,26:07,OK,blue,HOF,   DEFEAT   ,47.2k,15,  0 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Azir,Braum,Shen,Gnar
+2018.0,spring,VCS,2,GAM Esports,Hall of Fame,2.0,26:07,OK,red,GAM,   VICTORY   ,60.0k,18,  11 ,  1 ,  1 ,  3 ,  1 ,Zoe,Khazix,Alistar,Thresh,RekSai
+2018.0,spring,VCS,2,Cherry Esports,FTV Esports,1.0,26:57,OK,blue,CR,   DEFEAT   ,43.0k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Vayne,JarvanIV,TahmKench,Elise,Braum
+2018.0,spring,VCS,2,Cherry Esports,FTV Esports,1.0,26:57,OK,red,FTV,   VICTORY   ,58.2k,13,  8 ,  1 ,  1 ,  3 ,  1 ,Zoe,KogMaw,Taric,Ornn,Alistar
+2018.0,spring,VCS,2,Cherry Esports,FTV Esports,2.0,31:08,OK,blue,FTV,   VICTORY   ,68.8k,18,  11 ,  3 ,  2 ,  2 ,  1 ,Zoe,JarvanIV,Ezreal,Varus,Caitlyn
+2018.0,spring,VCS,2,Cherry Esports,FTV Esports,2.0,31:08,OK,red,CR,   DEFEAT   ,52.1k,6,  4 ,  0 ,  0 ,  1 ,  0 ,Camille,Ryze,Kalista,Braum,Janna
+2018.0,spring,VCS,2,Hall of Fame,Young Generation,1.0,37:32,OK,blue,HOF,   DEFEAT   ,65.4k,8,  2 ,  0 ,  0 ,  2 ,  0 ,JarvanIV,Azir,Zoe,Taric,Taliyah
+2018.0,spring,VCS,2,Hall of Fame,Young Generation,1.0,37:32,OK,red,YG,   VICTORY   ,80.1k,16,  10 ,  2 ,  1 ,  1 ,  0 ,Thresh,Camille,TahmKench,Varus,KogMaw
+2018.0,spring,VCS,2,Hall of Fame,Young Generation,2.0,28:45,OK,blue,YG,   VICTORY   ,60.6k,13,  9 ,  1 ,  1 ,  1 ,  0 ,Thresh,Camille,TahmKench,Braum,Alistar
+2018.0,spring,VCS,2,Hall of Fame,Young Generation,2.0,28:45,OK,red,HOF,   DEFEAT   ,54.1k,15,  5 ,  1 ,  0 ,  2 ,  1 ,Kalista,Gangplank,Azir,Poppy,Ezreal
+2018.0,spring,VCS,2,EVOS Esports,Friends Forever Gaming,1.0,27:37,OK,blue,EVS,   VICTORY   ,56.9k,9,  9 ,  1 ,  1 ,  1 ,  0 ,Sejuani,Taliyah,KogMaw,RekSai,Elise
+2018.0,spring,VCS,2,EVOS Esports,Friends Forever Gaming,1.0,27:37,OK,red,FFQ,   DEFEAT   ,45.9k,5,  4 ,  0 ,  0 ,  1 ,  1 ,Jayce,Khazix,Camille,Shen,Taric
+2018.0,spring,VCS,2,EVOS Esports,Friends Forever Gaming,2.0,31:19,OK,blue,FFQ,   DEFEAT   ,50.4k,3,  3 ,  0 ,  0 ,  0 ,  0 ,Jayce,Khazix,Camille,Taric,Braum
+2018.0,spring,VCS,2,EVOS Esports,Friends Forever Gaming,2.0,31:19,OK,red,EVS,   VICTORY   ,63.9k,11,  8 ,  1 ,  1 ,  2 ,  0 ,Sejuani,Kalista,KogMaw,Zoe,Ryze
+2018.0,spring,VCS,2,Ultimate,GAM Esports,1.0,31:22,OK,blue,UTM,   VICTORY   ,66.5k,24,  10 ,  2 ,  0 ,  2 ,  0 ,Camille,Jayce,TahmKench,Jax,Morgana
+2018.0,spring,VCS,2,Ultimate,GAM Esports,1.0,31:22,OK,red,GAM,   DEFEAT   ,60.3k,16,  3 ,  0 ,  1 ,  1 ,  1 ,Khazix,Zoe,Sejuani,Varus,KogMaw
+2018.0,spring,VCS,2,Ultimate,GAM Esports,2.0,33:10,OK,blue,GAM,   VICTORY   ,71.6k,19,  9 ,  1 ,  2 ,  2 ,  1 ,Galio,JarvanIV,Khazix,Braum,Rakan
+2018.0,spring,VCS,2,Ultimate,GAM Esports,2.0,33:10,OK,red,UTM,   DEFEAT   ,53.0k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Camille,Jayce,TahmKench,Janna,Sejuani
+2018.0,spring,VCS,2,Ultimate,GAM Esports,3.0,40:10,OK,blue,UTM,   DEFEAT   ,70.7k,15,  3 ,  0 ,  0 ,  0 ,  0 ,Camille,Kalista,Jayce,Fiora,Taliyah
+2018.0,spring,VCS,2,Ultimate,GAM Esports,3.0,40:10,OK,red,GAM,   VICTORY   ,85.5k,19,  11 ,  3 ,  2 ,  4 ,  1 ,Galio,Zoe,Vladimir,JarvanIV,Shyvana
+2018.0,spring,VCS,3,Cherry Esports,Hall of Fame,1.0,30:56,OK,blue,CR,   VICTORY   ,66.0k,14,  11 ,  3 ,  1 ,  2 ,  0 ,Taliyah,Camille,Kalista,Sejuani,Orianna
+2018.0,spring,VCS,3,Cherry Esports,Hall of Fame,1.0,30:56,OK,red,HOF,   DEFEAT   ,50.6k,5,  0 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Azir,Zoe,Gnar,Taric
+2018.0,spring,VCS,3,Cherry Esports,Hall of Fame,2.0,44:00,OK,blue,HOF,   DEFEAT   ,80.6k,13,  4 ,  0 ,  0 ,  2 ,  1 ,KogMaw,Zoe,Azir,Varus,Sivir
+2018.0,spring,VCS,3,Cherry Esports,Hall of Fame,2.0,44:00,OK,red,CR,   VICTORY   ,87.8k,16,  11 ,  5 ,  3 ,  2 ,  0 ,Kalista,Camille,Jax,Ezreal,Braum
+2018.0,spring,VCS,3,Friends Forever Gaming,FTV Esports,1.0,26:55,OK,blue,FFQ,   VICTORY   ,56.3k,14,  11 ,  2 ,  0 ,  0 ,  1 ,Azir,JarvanIV,Kalista,Taliyah,Zoe
+2018.0,spring,VCS,3,Friends Forever Gaming,FTV Esports,1.0,26:55,OK,red,FTV,   DEFEAT   ,44.1k,4,  0 ,  0 ,  0 ,  1 ,  0 ,KogMaw,TahmKench,Vladimir,Varus,Fiora
+2018.0,spring,VCS,3,Friends Forever Gaming,FTV Esports,2.0,29:06,OK,blue,FTV,   VICTORY   ,59.1k,13,  10 ,  2 ,  0 ,  1 ,  0 ,KogMaw,Sejuani,JarvanIV,AurelionSol,Taliyah
+2018.0,spring,VCS,3,Friends Forever Gaming,FTV Esports,2.0,29:06,OK,red,FFQ,   DEFEAT   ,46.4k,4,  3 ,  0 ,  1 ,  1 ,  0 ,Azir,Kalista,Ryze,Janna,Braum
+2018.0,spring,VCS,3,Friends Forever Gaming,FTV Esports,3.0,22:36,OK,blue,FFQ,   VICTORY   ,49.3k,18,  11 ,  4 ,  1 ,  0 ,  1 ,Azir,Zoe,TahmKench,Nidalee,Jax
+2018.0,spring,VCS,3,Friends Forever Gaming,FTV Esports,3.0,22:36,OK,red,FTV,   DEFEAT   ,35.9k,4,  0 ,  0 ,  0 ,  0 ,  0 ,KogMaw,Ryze,JarvanIV,Jayce,Fiora
+2018.0,spring,VCS,3,Ultimate,Young Generation,1.0,25:46,OK,blue,UTM,   VICTORY   ,53.8k,16,  11 ,  3 ,  0 ,  2 ,  1 ,Ryze,Khazix,KogMaw,Kassadin,Ornn
+2018.0,spring,VCS,3,Ultimate,Young Generation,1.0,25:46,OK,red,YG,   DEFEAT   ,42.4k,1,  0 ,  0 ,  1 ,  0 ,  0 ,Galio,Zoe,Sejuani,Azir,
+2018.0,spring,VCS,3,Ultimate,Young Generation,2.0,28:34,OK,blue,YG,   VICTORY   ,57.2k,13,  8 ,  1 ,  1 ,  1 ,  0 ,Galio,Camille,TahmKench,Azir,Malzahar
+2018.0,spring,VCS,3,Ultimate,Young Generation,2.0,28:34,OK,red,UTM,   DEFEAT   ,49.7k,4,  4 ,  0 ,  0 ,  1 ,  0 ,KogMaw,Ryze,Vladimir,Rakan,Alistar
+2018.0,spring,VCS,3,Ultimate,Young Generation,3.0,31:28,OK,blue,UTM,   VICTORY   ,60.5k,8,  11 ,  3 ,  1 ,  3 ,  1 ,Ornn,KogMaw,JarvanIV,Varus,Kalista
+2018.0,spring,VCS,3,Ultimate,Young Generation,3.0,31:28,OK,red,YG,   DEFEAT   ,57.3k,9,  1 ,  0 ,  1 ,  0 ,  0 ,Galio,TahmKench,Zoe,Khazix,Rengar
+2018.0,spring,VCS,3,EVOS Esports,GAM Esports,1.0,25:13,OK,blue,EVS,   VICTORY   ,53.6k,16,  10 ,  1 ,  0 ,  1 ,  0 ,Taliyah,Ornn,TahmKench,Galio,Shen
+2018.0,spring,VCS,3,EVOS Esports,GAM Esports,1.0,25:13,OK,red,GAM,   DEFEAT   ,44.7k,7,  1 ,  0 ,  1 ,  0 ,  0 ,Zoe,Kalista,Ezreal,Braum,Lulu
+2018.0,spring,VCS,3,EVOS Esports,GAM Esports,2.0,33:14,OK,blue,GAM,   DEFEAT   ,61.1k,14,  4 ,  0 ,  0 ,  2 ,  1 ,Zoe,TahmKench,KogMaw,JarvanIV,Braum
+2018.0,spring,VCS,3,EVOS Esports,GAM Esports,2.0,33:14,OK,red,EVS,   VICTORY   ,66.2k,14,  7 ,  1 ,  1 ,  1 ,  0 ,Taliyah,Kalista,Camille,Jayce,Fiora
+2018.0,spring,VCS,3,Cherry Esports,EVOS Esports,1.0,36:27,OK,blue,CR,   DEFEAT   ,64.5k,12,  2 ,  0 ,  0 ,  0 ,  0 ,Jayce,Camille,Zoe,Nidalee,Taric
+2018.0,spring,VCS,3,Cherry Esports,EVOS Esports,1.0,36:27,OK,red,EVS,   VICTORY   ,84.2k,26,  11 ,  3 ,  1 ,  4 ,  0 ,Kalista,KogMaw,Ryze,TahmKench,Sejuani
+2018.0,spring,VCS,3,Cherry Esports,EVOS Esports,2.0,20:02,OK,blue,EVS,   VICTORY   ,41.5k,10,  8 ,  1 ,  0 ,  1 ,  1 ,Ryze,KogMaw,TahmKench,Taliyah,Galio
+2018.0,spring,VCS,3,Cherry Esports,EVOS Esports,2.0,20:02,OK,red,CR,   DEFEAT   ,30.0k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Jayce,Zoe,Azir,Braum,Alistar
+2018.0,spring,VCS,3,GAM Esports,Young Generation,1.0,33:10,OK,blue,GAM,   DEFEAT   ,61.1k,8,  5 ,  0 ,  0 ,  1 ,  1 ,Rakan,Zoe,JarvanIV,Khazix,Cassiopeia
+2018.0,spring,VCS,3,GAM Esports,Young Generation,1.0,33:10,OK,red,YG,   VICTORY   ,65.3k,15,  8 ,  2 ,  1 ,  2 ,  0 ,Taliyah,TahmKench,Camille,Braum,Ezreal
+2018.0,spring,VCS,3,GAM Esports,Young Generation,2.0,26:00,OK,blue,YG,   VICTORY   ,59.2k,23,  11 ,  3 ,  1 ,  3 ,  1 ,Taliyah,TahmKench,Camille,Taric,Sion
+2018.0,spring,VCS,3,GAM Esports,Young Generation,2.0,26:00,OK,red,GAM,   DEFEAT   ,43.1k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Rakan,Zoe,JarvanIV,Braum,Lulu
+2018.0,spring,VCS,3,Hall of Fame,FTV Esports,1.0,25:03,OK,blue,HOF,   DEFEAT   ,42.0k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,TahmKench,Zoe,Alistar,Rumble
+2018.0,spring,VCS,3,Hall of Fame,FTV Esports,1.0,25:03,OK,red,FTV,   VICTORY   ,57.0k,25,  9 ,  1 ,  1 ,  2 ,  1 ,Kalista,Ryze,Camille,Vladimir,Orianna
+2018.0,spring,VCS,3,Hall of Fame,FTV Esports,2.0,25:12,OK,blue,FTV,   VICTORY   ,52.9k,15,  8 ,  1 ,  1 ,  1 ,  1 ,Camille,JarvanIV,Kalista,Taliyah,Vladimir
+2018.0,spring,VCS,3,Hall of Fame,FTV Esports,2.0,25:12,OK,red,HOF,   DEFEAT   ,41.5k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Azir,Zoe,KogMaw,Ornn,Sejuani
+2018.0,spring,VCS,3,Ultimate,Friends Forever Gaming,1.0,33:15,OK,blue,UTM,   DEFEAT   ,53.7k,1,  2 ,  0 ,  0 ,  0 ,  1 ,TahmKench,KogMaw,Ryze,Camille,Kalista
+2018.0,spring,VCS,3,Ultimate,Friends Forever Gaming,1.0,33:15,OK,red,FFQ,   VICTORY   ,70.3k,12,  11 ,  3 ,  2 ,  2 ,  0 ,Zoe,Galio,JarvanIV,Nidalee,Khazix
+2018.0,spring,VCS,3,Ultimate,Friends Forever Gaming,2.0,36:38,OK,blue,FFQ,   DEFEAT   ,62.5k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Galio,JarvanIV,TahmKench,Nidalee,LeeSin
+2018.0,spring,VCS,3,Ultimate,Friends Forever Gaming,2.0,36:38,OK,red,UTM,   VICTORY   ,70.3k,10,  11 ,  5 ,  2 ,  2 ,  0 ,Zoe,Sejuani,KogMaw,Kalista,Ornn
+2018.0,spring,VCS,3,Ultimate,Friends Forever Gaming,3.0,33:59,OK,blue,UTM,   VICTORY   ,70.7k,18,  8 ,  1 ,  2 ,  3 ,  0 ,Sejuani,KogMaw,JarvanIV,Khazix,Rengar
+2018.0,spring,VCS,3,Ultimate,Friends Forever Gaming,3.0,33:59,OK,red,FFQ,   DEFEAT   ,54.0k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Galio,Camille,Varus,Jayce
+2018.0,spring,VCS,4,Hall of Fame,Ultimate,1.0,35:22,OK,blue,HOF,   DEFEAT   ,59.6k,9,  2 ,  0 ,  0 ,  3 ,  0 ,JarvanIV,Zoe,Vladimir,Alistar,Braum
+2018.0,spring,VCS,4,Hall of Fame,Ultimate,1.0,35:22,OK,red,UTM,   VICTORY   ,71.9k,14,  11 ,  4 ,  2 ,  0 ,  1 ,TahmKench,Sejuani,Galio,Ornn,Khazix
+2018.0,spring,VCS,4,Hall of Fame,Ultimate,2.0,27:48,OK,blue,UTM,   VICTORY   ,62.2k,28,  11 ,  3 ,  1 ,  1 ,  1 ,TahmKench,Sejuani,Camille,Shen,Braum
+2018.0,spring,VCS,4,Hall of Fame,Ultimate,2.0,27:48,OK,red,HOF,   DEFEAT   ,47.6k,15,  0 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Zoe,Kalista,Xayah,Vladimir
+2018.0,spring,VCS,4,GAM Esports,Cherry Esports,1.0,28:25,OK,blue,GAM,   VICTORY   ,59.8k,15,  10 ,  1 ,  1 ,  1 ,  1 ,Sejuani,Ryze,Zoe,Azir,Cassiopeia
+2018.0,spring,VCS,4,GAM Esports,Cherry Esports,1.0,28:25,OK,red,CR,   DEFEAT   ,43.6k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Jayce,Khazix,Sion,Fiora,Gnar
+2018.0,spring,VCS,4,GAM Esports,Cherry Esports,2.0,41:01,OK,blue,CR,   DEFEAT   ,76.0k,18,  8 ,  1 ,  2 ,  1 ,  0 ,Jayce,Sion,TahmKench,Fiora,Taric
+2018.0,spring,VCS,4,GAM Esports,Cherry Esports,2.0,41:01,OK,red,GAM,   VICTORY   ,73.7k,21,  6 ,  1 ,  0 ,  2 ,  0 ,JarvanIV,Zoe,Ryze,Braum,Sejuani
+2018.0,spring,VCS,4,FTV Esports,EVOS Esports,1.0,31:22,OK,blue,FTV,   VICTORY   ,63.0k,22,  9 ,  2 ,  2 ,  0 ,  1 ,Zoe,Azir,Camille,Taliyah,Malzahar
+2018.0,spring,VCS,4,FTV Esports,EVOS Esports,1.0,31:22,OK,red,EVS,   DEFEAT   ,57.5k,12,  5 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Jayce,Kalista,Ezreal,Varus
+2018.0,spring,VCS,4,FTV Esports,EVOS Esports,2.0,23:26,OK,blue,EVS,   VICTORY   ,51.0k,13,  10 ,  2 ,  1 ,  2 ,  1 ,Ornn,Galio,Janna,Varus,KogMaw
+2018.0,spring,VCS,4,FTV Esports,EVOS Esports,2.0,23:26,OK,red,FTV,   DEFEAT   ,34.9k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Kalista,TahmKench,Malzahar,Ryze
+2018.0,spring,VCS,4,FTV Esports,EVOS Esports,3.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2018.0,spring,VCS,4,Young Generation,Friends Forever Gaming,1.0,19:38,OK,blue,YG,   VICTORY   ,47.4k,22,  11 ,  3 ,  0 ,  2 ,  0 ,TahmKench,KogMaw,Taliyah,Braum,Alistar
+2018.0,spring,VCS,4,Young Generation,Friends Forever Gaming,1.0,19:38,OK,red,FFQ,   DEFEAT   ,27.5k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Zoe,JarvanIV,Ornn,Varus,Taric
+2018.0,spring,VCS,4,Young Generation,Friends Forever Gaming,2.0,27:39,OK,blue,FFQ,   DEFEAT   ,45.3k,13,  3 ,  0 ,  0 ,  0 ,  0 ,Rakan,Ornn,Zoe,Azir,Sejuani
+2018.0,spring,VCS,4,Young Generation,Friends Forever Gaming,2.0,27:39,OK,red,YG,   VICTORY   ,59.5k,20,  8 ,  1 ,  1 ,  2 ,  1 ,TahmKench,KogMaw,Taliyah,Kalista,Varus
+2018.0,spring,VCS,4,Cherry Esports,Young Generation,1.0,34:23,OK,blue,CR,   VICTORY   ,69.9k,18,  11 ,  4 ,  2 ,  0 ,  1 ,Rakan,Ornn,Gangplank,Camille,Azir
+2018.0,spring,VCS,4,Cherry Esports,Young Generation,1.0,34:23,OK,red,YG,   DEFEAT   ,59.4k,16,  2 ,  0 ,  0 ,  2 ,  0 ,KogMaw,TahmKench,Zoe,Taric,Janna
+2018.0,spring,VCS,4,Cherry Esports,Young Generation,2.0,56:52,OK,blue,YG,   DEFEAT   ,94.9k,18,  6 ,  1 ,  0 ,  3 ,  0 ,TahmKench,KogMaw,Jayce,Kalista,Varus
+2018.0,spring,VCS,4,Cherry Esports,Young Generation,2.0,56:52,OK,red,CR,   VICTORY   ,103.1k,21,  10 ,  3 ,  3 ,  2 ,  0 ,Rakan,Camille,Sejuani,Nidalee,JarvanIV
+2018.0,spring,VCS,4,Ultimate,EVOS Esports,1.0,41:05,OK,blue,UTM,   DEFEAT   ,74.2k,8,  6 ,  0 ,  0 ,  1 ,  1 ,Khazix,TahmKench,Zoe,Ryze,Jayce
+2018.0,spring,VCS,4,Ultimate,EVOS Esports,1.0,41:05,OK,red,EVS,   VICTORY   ,81.5k,12,  9 ,  3 ,  2 ,  4 ,  0 ,Galio,Rakan,JarvanIV,Malzahar,Taliyah
+2018.0,spring,VCS,4,Ultimate,EVOS Esports,2.0,32:07,OK,blue,EVS,   DEFEAT   ,49.8k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Galio,Rakan,Kalista,Taric,Varus
+2018.0,spring,VCS,4,Ultimate,EVOS Esports,2.0,32:07,OK,red,UTM,   VICTORY   ,61.2k,12,  10 ,  2 ,  1 ,  3 ,  0 ,Zoe,Taliyah,Khazix,Braum,Ezreal
+2018.0,spring,VCS,4,Ultimate,EVOS Esports,3.0,35:31,OK,blue,UTM,   DEFEAT   ,59.3k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Khazix,Ryze,Taliyah,Jax
+2018.0,spring,VCS,4,Ultimate,EVOS Esports,3.0,35:31,OK,red,EVS,   VICTORY   ,74.1k,12,  11 ,  3 ,  2 ,  3 ,  0 ,Galio,Kalista,JarvanIV,Azir,Zilean
+2018.0,spring,VCS,4,GAM Esports,FTV Esports,1.0,27:39,OK,blue,GAM,   VICTORY   ,58.2k,17,  9 ,  1 ,  1 ,  2 ,  1 ,Ryze,Zoe,Galio,Taric,Rakan
+2018.0,spring,VCS,4,GAM Esports,FTV Esports,1.0,27:39,OK,red,FTV,   DEFEAT   ,41.5k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Camille,Kalista,Veigar,Malzahar
+2018.0,spring,VCS,4,GAM Esports,FTV Esports,2.0,28:07,OK,blue,FTV,   VICTORY   ,58.3k,19,  9 ,  1 ,  1 ,  3 ,  1 ,Taliyah,Camille,TahmKench,Sona,Janna
+2018.0,spring,VCS,4,GAM Esports,FTV Esports,2.0,28:07,OK,red,GAM,   DEFEAT   ,47.5k,9,  3 ,  0 ,  0 ,  0 ,  0 ,Zoe,Galio,Kalista,Braum,Taric
+2018.0,spring,VCS,4,GAM Esports,FTV Esports,3.0,32:04,OK,blue,GAM,   VICTORY   ,64.1k,16,  8 ,  1 ,  1 ,  1 ,  0 ,Zoe,Galio,Ryze,Alistar,JarvanIV
+2018.0,spring,VCS,4,GAM Esports,FTV Esports,3.0,32:04,OK,red,FTV,   DEFEAT   ,56.8k,17,  4 ,  1 ,  1 ,  2 ,  0 ,Camille,Kalista,TahmKench,Varus,Caitlyn
+2018.0,spring,VCS,4,Hall of Fame,Friends Forever Gaming,1.0,32:09,OK,blue,HOF,   DEFEAT   ,54.2k,13,  4 ,  0 ,  0 ,  0 ,  1 ,TahmKench,KogMaw,Taliyah,Varus,AurelionSol
+2018.0,spring,VCS,4,Hall of Fame,Friends Forever Gaming,1.0,32:09,OK,red,FFQ,   VICTORY   ,60.8k,16,  8 ,  1 ,  1 ,  0 ,  0 ,Zoe,Ryze,Rakan,JarvanIV,Nidalee
+2018.0,spring,VCS,4,Hall of Fame,Friends Forever Gaming,2.0,32:53,OK,blue,FFQ,   DEFEAT   ,49.9k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Ryze,Zoe,Taliyah,Shen,Thresh
+2018.0,spring,VCS,4,Hall of Fame,Friends Forever Gaming,2.0,32:53,OK,red,HOF,   VICTORY   ,68.4k,17,  10 ,  1 ,  2 ,  3 ,  1 ,TahmKench,KogMaw,TwistedFate,Ornn,Tristana
+2018.0,spring,VCS,4,Hall of Fame,Friends Forever Gaming,3.0,24:27,OK,blue,HOF,   DEFEAT   ,37.9k,4,  2 ,  0 ,  0 ,  0 ,  1 ,TahmKench,KogMaw,Taliyah,Gangplank,Azir
+2018.0,spring,VCS,4,Hall of Fame,Friends Forever Gaming,3.0,24:27,OK,red,FFQ,   VICTORY   ,51.1k,15,  10 ,  2 ,  1 ,  0 ,  0 ,Camille,JarvanIV,Zoe,Shen,Alistar
+2018.0,spring,VCS,5,EVOS Esports,Cherry Esports,1.0,43:51,OK,blue,EVS,   DEFEAT   ,80.1k,16,  4 ,  0 ,  0 ,  1 ,  0 ,Ryze,Galio,JarvanIV,Jax,Sejuani
+2018.0,spring,VCS,5,EVOS Esports,Cherry Esports,1.0,43:51,OK,red,CR,   VICTORY   ,79.8k,19,  11 ,  4 ,  1 ,  3 ,  0 ,Kalista,Ezreal,Khazix,Nidalee,Taric
+2018.0,spring,VCS,5,EVOS Esports,Cherry Esports,2.0,22:54,OK,blue,CR,   DEFEAT   ,33.3k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Khazix,Zoe,Rakan,Taric
+2018.0,spring,VCS,5,EVOS Esports,Cherry Esports,2.0,22:54,OK,red,EVS,   VICTORY   ,49.5k,12,  11 ,  3 ,  1 ,  2 ,  1 ,TahmKench,Caitlyn,Sion,Ornn,Braum
+2018.0,spring,VCS,5,EVOS Esports,Cherry Esports,3.0,38:30,OK,blue,EVS,   DEFEAT   ,73.1k,18,  1 ,  0 ,  1 ,  0 ,  0 ,TahmKench,Sion,Caitlyn,Khazix,Nidalee
+2018.0,spring,VCS,5,EVOS Esports,Cherry Esports,3.0,38:30,OK,red,CR,   VICTORY   ,74.8k,21,  10 ,  6 ,  1 ,  3 ,  1 ,Sejuani,Camille,Jayce,Gnar,Rakan
+2018.0,spring,VCS,5,Friends Forever Gaming,Ultimate,1.0,32:21,OK,blue,FFQ,   VICTORY   ,65.4k,21,  11 ,  3 ,  1 ,  2 ,  0 ,Rakan,Camille,Zoe,Nidalee,Jax
+2018.0,spring,VCS,5,Friends Forever Gaming,Ultimate,1.0,32:21,OK,red,UTM,   DEFEAT   ,55.6k,11,  4 ,  0 ,  0 ,  2 ,  1 ,JarvanIV,Khazix,LeeSin,Azir,Corki
+2018.0,spring,VCS,5,Friends Forever Gaming,Ultimate,2.0,33:21,OK,blue,UTM,   VICTORY   ,68.8k,22,  10 ,  3 ,  2 ,  2 ,  1 ,Khazix,JarvanIV,Rakan,Jax,Kayn
+2018.0,spring,VCS,5,Friends Forever Gaming,Ultimate,2.0,33:21,OK,red,FFQ,   DEFEAT   ,55.2k,12,  1 ,  0 ,  0 ,  1 ,  0 ,Camille,Zoe,LeeSin,Braum,Janna
+2018.0,spring,VCS,5,Friends Forever Gaming,Ultimate,3.0,27:32,OK,blue,FFQ,   VICTORY   ,54.7k,13,  11 ,  3 ,  1 ,  3 ,  1 ,Khazix,Zoe,Rakan,JarvanIV,Caitlyn
+2018.0,spring,VCS,5,Friends Forever Gaming,Ultimate,3.0,27:32,OK,red,UTM,   DEFEAT   ,42.2k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Camille,Varus,Azir,Fiora
+2018.0,spring,VCS,5,FTV Esports,Hall of Fame,1.0,26:05,OK,blue,FTV,   VICTORY   ,53.5k,10,  9 ,  1 ,  1 ,  2 ,  0 ,Rakan,Taliyah,Camille,Vladimir,
+2018.0,spring,VCS,5,FTV Esports,Hall of Fame,1.0,26:05,OK,red,HOF,   DEFEAT   ,41.0k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Zoe,JarvanIV,Galio,Sion,Ornn
+2018.0,spring,VCS,5,FTV Esports,Hall of Fame,2.0,23:11,OK,blue,HOF,   DEFEAT   ,33.3k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,JarvanIV,Galio,Jayce,Sion
+2018.0,spring,VCS,5,FTV Esports,Hall of Fame,2.0,23:11,OK,red,FTV,   VICTORY   ,52.0k,16,  10 ,  1 ,  1 ,  1 ,  1 ,Rakan,Camille,Kalista,Taliyah,Vladimir
+2018.0,spring,VCS,5,Young Generation,GAM Esports,1.0,33:07,OK,blue,YG,   VICTORY   ,63.0k,15,  7 ,  1 ,  1 ,  0 ,  1 ,Taliyah,Ryze,TahmKench,Varus,Ezreal
+2018.0,spring,VCS,5,Young Generation,GAM Esports,1.0,33:07,OK,red,GAM,   DEFEAT   ,59.7k,9,  5 ,  1 ,  1 ,  4 ,  0 ,Rakan,Braum,Kalista,Alistar,JarvanIV
+2018.0,spring,VCS,5,Young Generation,GAM Esports,2.0,36:45,OK,blue,GAM,   VICTORY   ,69.9k,14,  9 ,  1 ,  2 ,  2 ,  0 ,Rakan,Galio,Braum,Taric,Janna
+2018.0,spring,VCS,5,Young Generation,GAM Esports,2.0,36:45,OK,red,YG,   DEFEAT   ,60.9k,8,  4 ,  0 ,  0 ,  2 ,  1 ,Ryze,Taliyah,Skarner,Ornn,Gangplank
+2018.0,spring,VCS,5,Young Generation,GAM Esports,3.0,36:51,OK,blue,YG,   DEFEAT   ,63.0k,16,  4 ,  0 ,  1 ,  1 ,  1 ,Ryze,Azir,TahmKench,Varus,Tristana
+2018.0,spring,VCS,5,Young Generation,GAM Esports,3.0,36:51,OK,red,GAM,   VICTORY   ,71.0k,19,  9 ,  2 ,  1 ,  3 ,  0 ,Rakan,Khazix,Galio,Taric,Alistar
+2018.0,spring,VCS,5,Ultimate,FTV Esports,1.0,35:56,OK,blue,UTM,   VICTORY   ,73.1k,19,  10 ,  2 ,  1 ,  3 ,  1 ,Skarner,Rakan,Varus,JarvanIV,Jax
+2018.0,spring,VCS,5,Ultimate,FTV Esports,1.0,35:56,OK,red,FTV,   DEFEAT   ,62.4k,13,  2 ,  0 ,  0 ,  1 ,  0 ,Caitlyn,Galio,Kalista,Camille,Zac
+2018.0,spring,VCS,5,Ultimate,FTV Esports,2.0,35:10,OK,blue,FTV,   DEFEAT   ,62.8k,9,  5 ,  0 ,  0 ,  2 ,  0 ,Caitlyn,Rakan,Sion,Corki,Poppy
+2018.0,spring,VCS,5,Ultimate,FTV Esports,2.0,35:10,OK,red,UTM,   VICTORY   ,68.0k,16,  10 ,  2 ,  1 ,  0 ,  0 ,Galio,Skarner,Ryze,TahmKench,Taric
+2018.0,spring,VCS,5,Hall of Fame,GAM Esports,1.0,25:53,OK,blue,HOF,   DEFEAT   ,39.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Sion,TahmKench,Skarner,Ryze,Azir
+2018.0,spring,VCS,5,Hall of Fame,GAM Esports,1.0,25:53,OK,red,GAM,   VICTORY   ,56.9k,19,  11 ,  3 ,  1 ,  2 ,  1 ,Galio,Camille,Thresh,Xayah,Gnar
+2018.0,spring,VCS,5,Hall of Fame,GAM Esports,2.0,42:11,OK,blue,GAM,   VICTORY   ,77.6k,19,  7 ,  1 ,  0 ,  2 ,  0 ,Galio,Camille,Thresh,Gnar,Azir
+2018.0,spring,VCS,5,Hall of Fame,GAM Esports,2.0,42:11,OK,red,HOF,   DEFEAT   ,79.2k,16,  4 ,  0 ,  1 ,  2 ,  0 ,Sion,TahmKench,Kalista,Corki,Sejuani
+2018.0,spring,VCS,5,Cherry Esports,Friends Forever Gaming,1.0,24:59,OK,blue,CR,   VICTORY   ,53.3k,11,  10 ,  2 ,  1 ,  1 ,  1 ,Khazix,Taliyah,Tristana,Galio,Kalista
+2018.0,spring,VCS,5,Cherry Esports,Friends Forever Gaming,1.0,24:59,OK,red,FFQ,   DEFEAT   ,37.2k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Azir,Zoe,Cassiopeia,Vladimir
+2018.0,spring,VCS,5,Cherry Esports,Friends Forever Gaming,2.0,24:37,OK,blue,FFQ,   DEFEAT   ,40.5k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Azir,Zoe,Caitlyn,Khazix,JarvanIV
+2018.0,spring,VCS,5,Cherry Esports,Friends Forever Gaming,2.0,24:37,OK,red,CR,   VICTORY   ,50.3k,16,  8 ,  1 ,  1 ,  1 ,  1 ,Taliyah,Tristana,Sejuani,Braum,Janna
+2018.0,spring,VCS,5,EVOS Esports,Young Generation,1.0,33:53,OK,blue,EVS,   DEFEAT   ,58.1k,10,  3 ,  0 ,  0 ,  0 ,  0 ,Taliyah,Ryze,Azir,Sion,Ornn
+2018.0,spring,VCS,5,EVOS Esports,Young Generation,1.0,33:53,OK,red,YG,   VICTORY   ,68.1k,14,  10 ,  1 ,  1 ,  3 ,  1 ,Camille,Khazix,Kalista,Alistar,Braum
+2018.0,spring,VCS,5,EVOS Esports,Young Generation,2.0,48:52,OK,blue,YG,   DEFEAT   ,86.3k,13,  10 ,  3 ,  2 ,  4 ,  0 ,Camille,Jayce,Gnar,Taric,Braum
+2018.0,spring,VCS,5,EVOS Esports,Young Generation,2.0,48:52,OK,red,EVS,   VICTORY   ,89.7k,17,  9 ,  2 ,  2 ,  2 ,  1 ,Rakan,Sion,Gangplank,Thresh,Alistar
+2018.0,spring,VCS,5,EVOS Esports,Young Generation,3.0,51:44,OK,blue,EVS,   DEFEAT   ,98.9k,12,  10 ,  7 ,  3 ,  2 ,  0 ,Rakan,Zoe,Galio,Sejuani,Alistar
+2018.0,spring,VCS,5,EVOS Esports,Young Generation,3.0,51:44,OK,red,YG,   VICTORY   ,93.8k,17,  7 ,  1 ,  1 ,  4 ,  0 ,Camille,Khazix,Kalista,Skarner,Janna
+2018.0,spring,VCS,6,FTV Esports,Cherry Esports,1.0,23:01,OK,blue,FTV,   DEFEAT   ,34.9k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Caitlyn,Camille,Rakan,Gangplank,Gnar
+2018.0,spring,VCS,6,FTV Esports,Cherry Esports,1.0,23:01,OK,red,CR,   VICTORY   ,45.0k,8,  8 ,  1 ,  1 ,  3 ,  1 ,Tristana,Jayce,Janna,Alistar,Braum
+2018.0,spring,VCS,6,FTV Esports,Cherry Esports,2.0,31:39,OK,blue,CR,   DEFEAT   ,57.2k,19,  0 ,  0 ,  0 ,  0 ,  1 ,Tristana,Camille,Taliyah,JarvanIV,Khazix
+2018.0,spring,VCS,6,FTV Esports,Cherry Esports,2.0,31:39,OK,red,FTV,   VICTORY   ,70.9k,29,  10 ,  2 ,  2 ,  4 ,  0 ,Olaf,Ryze,TahmKench,Gangplank,Sion
+2018.0,spring,VCS,6,FTV Esports,Cherry Esports,3.0,27:37,OK,blue,FTV,   VICTORY   ,56.6k,23,  8 ,  1 ,  0 ,  1 ,  0 ,Olaf,TahmKench,Ryze,Cassiopeia,Taliyah
+2018.0,spring,VCS,6,FTV Esports,Cherry Esports,3.0,27:37,OK,red,CR,   DEFEAT   ,43.6k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Rakan,Skarner,Azir,JarvanIV,Khazix
+2018.0,spring,VCS,6,GAM Esports,Ultimate,1.0,32:59,OK,blue,GAM,   DEFEAT   ,52.7k,6,  0 ,  0 ,  0 ,  0 ,  1 ,Ryze,Galio,Olaf,Gnar,Azir
+2018.0,spring,VCS,6,GAM Esports,Ultimate,1.0,32:59,OK,red,UTM,   VICTORY   ,67.9k,19,  11 ,  3 ,  2 ,  2 ,  0 ,Sion,Camille,Sejuani,Cassiopeia,Corki
+2018.0,spring,VCS,6,GAM Esports,Ultimate,2.0,25:41,OK,blue,UTM,   VICTORY   ,49.6k,13,  7 ,  1 ,  1 ,  0 ,  0 ,Sion,Skarner,Caitlyn,Cassiopeia,Taliyah
+2018.0,spring,VCS,6,GAM Esports,Ultimate,2.0,25:41,OK,red,GAM,   DEFEAT   ,39.0k,6,  1 ,  0 ,  0 ,  2 ,  0 ,Galio,Olaf,Rakan,Sejuani,Khazix
+2018.0,spring,VCS,6,Young Generation,Hall of Fame,1.0,31:10,OK,blue,YG,   DEFEAT   ,50.1k,9,  2 ,  0 ,  0 ,  0 ,  1 ,Skarner,Thresh,Ryze,Taliyah,Cassiopeia
+2018.0,spring,VCS,6,Young Generation,Hall of Fame,1.0,31:10,OK,red,HOF,   VICTORY   ,61.9k,13,  9 ,  2 ,  1 ,  4 ,  0 ,JarvanIV,Sejuani,Olaf,Gangplank,Taric
+2018.0,spring,VCS,6,Young Generation,Hall of Fame,2.0,42:34,OK,blue,HOF,   VICTORY   ,86.4k,19,  11 ,  2 ,  2 ,  2 ,  0 ,JarvanIV,Sejuani,Olaf,Galio,Syndra
+2018.0,spring,VCS,6,Young Generation,Hall of Fame,2.0,42:34,OK,red,YG,   DEFEAT   ,74.1k,13,  5 ,  0 ,  0 ,  3 ,  1 ,Skarner,Jax,Camille,Gnar,Renekton
+2018.0,spring,VCS,6,Friends Forever Gaming,EVOS Esports,1.0,30:03,OK,blue,FFQ,   DEFEAT   ,49.5k,11,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,Gnar,Sejuani,Azir,Ryze
+2018.0,spring,VCS,6,Friends Forever Gaming,EVOS Esports,1.0,30:03,OK,red,EVS,   VICTORY   ,63.1k,22,  10 ,  2 ,  1 ,  2 ,  1 ,Sion,Tristana,TahmKench,Alistar,Braum
+2018.0,spring,VCS,6,Friends Forever Gaming,EVOS Esports,2.0,21:12,OK,blue,EVS,   VICTORY   ,47.4k,20,  10 ,  2 ,  0 ,  2 ,  1 ,JarvanIV,Tristana,Sejuani,Ryze,Skarner
+2018.0,spring,VCS,6,Friends Forever Gaming,EVOS Esports,2.0,21:12,OK,red,FFQ,   DEFEAT   ,29.8k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,Khazix,Nidalee,TahmKench,Gnar
+2018.0,spring,VCS,6,Cherry Esports,GAM Esports,1.0,28:13,OK,blue,CR,   VICTORY   ,50.6k,12,  7 ,  1 ,  1 ,  1 ,  1 ,Tristana,Rakan,Azir,Gnar,Galio
+2018.0,spring,VCS,6,Cherry Esports,GAM Esports,1.0,28:13,OK,red,GAM,   DEFEAT   ,44.7k,5,  3 ,  0 ,  0 ,  2 ,  0 ,Ryze,Varus,Caitlyn,Braum,TahmKench
+2018.0,spring,VCS,6,Cherry Esports,GAM Esports,2.0,36:37,OK,blue,GAM,   VICTORY   ,72.2k,18,  10 ,  2 ,  2 ,  4 ,  0 ,Ryze,Galio,Olaf,Chogath,Sejuani
+2018.0,spring,VCS,6,Cherry Esports,GAM Esports,2.0,36:37,OK,red,CR,   DEFEAT   ,57.9k,11,  5 ,  0 ,  0 ,  0 ,  1 ,Sion,Rakan,Azir,Cassiopeia,Corki
+2018.0,spring,VCS,6,Cherry Esports,GAM Esports,3.0,29:13,OK,blue,CR,   VICTORY   ,55.2k,10,  10 ,  1 ,  1 ,  0 ,  0 ,Tristana,Rakan,Sion,Nidalee,Maokai
+2018.0,spring,VCS,6,Cherry Esports,GAM Esports,3.0,29:13,OK,red,GAM,   DEFEAT   ,45.7k,2,  3 ,  0 ,  0 ,  3 ,  0 ,Ryze,Olaf,Galio,Sejuani,Camille
+2018.0,spring,VCS,6,Ultimate,Hall of Fame,1.0,29:29,OK,blue,UTM,   VICTORY   ,59.2k,16,  11 ,  2 ,  1 ,  2 ,  1 ,Skarner,Rakan,Varus,Thresh,Tristana
+2018.0,spring,VCS,6,Ultimate,Hall of Fame,1.0,29:29,OK,red,HOF,   DEFEAT   ,47.5k,10,  0 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Olaf,Sejuani,Braum,Sion
+2018.0,spring,VCS,6,Ultimate,Hall of Fame,2.0,28:04,OK,blue,HOF,   DEFEAT   ,48.1k,10,  1 ,  0 ,  0 ,  0 ,  1 ,JarvanIV,Khazix,Xayah,TahmKench,Braum
+2018.0,spring,VCS,6,Ultimate,Hall of Fame,2.0,28:04,OK,red,UTM,   VICTORY   ,58.1k,15,  11 ,  3 ,  1 ,  3 ,  0 ,Skarner,Galio,Ryze,Taliyah,Cassiopeia
+2018.0,spring,VCS,6,EVOS Esports,FTV Esports,1.0,23:06,OK,blue,EVS,   VICTORY   ,48.4k,10,  9 ,  1 ,  1 ,  1 ,  0 ,Galio,Janna,Rakan,Poppy,Sion
+2018.0,spring,VCS,6,EVOS Esports,FTV Esports,1.0,23:06,OK,red,FTV,   DEFEAT   ,34.6k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Gnar,Camille,TahmKench,Taric
+2018.0,spring,VCS,6,EVOS Esports,FTV Esports,2.0,26:57,OK,blue,FTV,   DEFEAT   ,40.7k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Khazix,Gnar,Camille,Nidalee,Sejuani
+2018.0,spring,VCS,6,EVOS Esports,FTV Esports,2.0,26:57,OK,red,EVS,   VICTORY   ,58.5k,15,  10 ,  1 ,  1 ,  1 ,  1 ,Galio,Janna,Azir,Sion,Taliyah
+2018.0,spring,VCS,6,Friends Forever Gaming,Young Generation,1.0,21:49,OK,blue,FFQ,   VICTORY   ,44.3k,13,  8 ,  1 ,  1 ,  2 ,  1 ,Rakan,JarvanIV,Camille,Azir,Syndra
+2018.0,spring,VCS,6,Friends Forever Gaming,Young Generation,1.0,21:49,OK,red,YG,   DEFEAT   ,32.1k,1,  0 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Khazix,Taliyah,Thresh,Sion
+2018.0,spring,VCS,6,Friends Forever Gaming,Young Generation,2.0,40:48,OK,blue,YG,   VICTORY   ,76.9k,18,  7 ,  2 ,  1 ,  4 ,  1 ,TahmKench,Tristana,Taliyah,Braum,Alistar
+2018.0,spring,VCS,6,Friends Forever Gaming,Young Generation,2.0,40:48,OK,red,FFQ,   DEFEAT   ,71.5k,17,  9 ,  3 ,  1 ,  0 ,  0 ,Rakan,Camille,Khazix,Taric,Janna
+2018.0,spring,VCS,6,Friends Forever Gaming,Young Generation,3.0,41:40,OK,blue,FFQ,   VICTORY   ,76.5k,21,  8 ,  1 ,  1 ,  0 ,  1 ,Rakan,Camille,JarvanIV,Taric,Braum
+2018.0,spring,VCS,6,Friends Forever Gaming,Young Generation,3.0,41:40,OK,red,YG,   DEFEAT   ,80.5k,26,  9 ,  3 ,  1 ,  3 ,  0 ,TahmKench,Sejuani,Ryze,Thresh,Alistar
+2018.0,spring,VCS,7,Hall of Fame,Cherry Esports,1.0,33:37,OK,blue,HOF,   DEFEAT   ,57.0k,13,  3 ,  0 ,  0 ,  0 ,  1 ,Olaf,Ryze,Khazix,Poppy,Gnar
+2018.0,spring,VCS,7,Hall of Fame,Cherry Esports,1.0,33:37,OK,red,CR,   VICTORY   ,68.9k,19,  9 ,  2 ,  2 ,  3 ,  0 ,Rakan,Jax,Azir,Renekton,Chogath
+2018.0,spring,VCS,7,Hall of Fame,Cherry Esports,2.0,27:33,OK,blue,CR,   VICTORY   ,59.5k,19,  11 ,  4 ,  1 ,  1 ,  1 ,Jax,Chogath,Sion,RekSai,Jayce
+2018.0,spring,VCS,7,Hall of Fame,Cherry Esports,2.0,27:33,OK,red,HOF,   DEFEAT   ,44.2k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Khazix,Azir,Olaf,Poppy,Gnar
+2018.0,spring,VCS,7,Young Generation,Ultimate,1.0,26:02,OK,blue,YG,   VICTORY   ,54.1k,19,  10 ,  2 ,  1 ,  2 ,  0 ,Galio,Ryze,Xayah,Sion,Gnar
+2018.0,spring,VCS,7,Young Generation,Ultimate,1.0,26:02,OK,red,UTM,   DEFEAT   ,41.0k,5,  2 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Khazix,Varus,Cassiopeia,Syndra
+2018.0,spring,VCS,7,Young Generation,Ultimate,2.0,30:09,OK,blue,UTM,   VICTORY   ,56.3k,8,  9 ,  2 ,  1 ,  2 ,  1 ,Sejuani,Camille,Rakan,Corki,Cassiopeia
+2018.0,spring,VCS,7,Young Generation,Ultimate,2.0,30:09,OK,red,YG,   DEFEAT   ,51.6k,7,  4 ,  0 ,  0 ,  1 ,  0 ,Galio,Ryze,Taliyah,Janna,Braum
+2018.0,spring,VCS,7,Young Generation,Ultimate,3.0,37:01,OK,blue,YG,   VICTORY   ,72.4k,13,  11 ,  3 ,  1 ,  0 ,  1 ,Galio,Ryze,Rakan,Taliyah,Camille
+2018.0,spring,VCS,7,Young Generation,Ultimate,3.0,37:01,OK,red,UTM,   DEFEAT   ,69.5k,13,  2 ,  0 ,  1 ,  3 ,  0 ,Sejuani,JarvanIV,Swain,Orianna,
+2018.0,spring,VCS,7,FTV Esports,Friends Forever Gaming,1.0,35:18,OK,blue,FTV,   VICTORY   ,67.6k,20,  9 ,  1 ,  0 ,  2 ,  0 ,Taliyah,TahmKench,Nidalee,Camille,Fiora
+2018.0,spring,VCS,7,FTV Esports,Friends Forever Gaming,1.0,35:18,OK,red,FFQ,   DEFEAT   ,59.0k,11,  2 ,  0 ,  1 ,  0 ,  0 ,Skarner,Olaf,Khazix,JarvanIV,Jax
+2018.0,spring,VCS,7,FTV Esports,Friends Forever Gaming,2.0,35:27,OK,blue,FFQ,   DEFEAT   ,65.2k,21,  8 ,  1 ,  1 ,  2 ,  0 ,Rakan,Galio,Nidalee,Gnar,LeeSin
+2018.0,spring,VCS,7,FTV Esports,Friends Forever Gaming,2.0,35:27,OK,red,FTV,   VICTORY   ,67.9k,21,  8 ,  1 ,  1 ,  2 ,  1 ,Taliyah,Khazix,JarvanIV,Camille,Fiora
+2018.0,spring,VCS,7,GAM Esports,EVOS Esports,1.0,37:39,OK,blue,GAM,   DEFEAT   ,59.9k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Rakan,Khazix,Ryze,Varus,TahmKench
+2018.0,spring,VCS,7,GAM Esports,EVOS Esports,1.0,37:39,OK,red,EVS,   VICTORY   ,72.7k,16,  10 ,  2 ,  1 ,  4 ,  1 ,Azir,Caitlyn,Camille,Skarner,JarvanIV
+2018.0,spring,VCS,7,GAM Esports,EVOS Esports,2.0,32:27,OK,blue,EVS,   VICTORY   ,57.5k,11,  6 ,  1 ,  1 ,  1 ,  0 ,Xayah,Caitlyn,Taliyah,Fiora,Gnar
+2018.0,spring,VCS,7,GAM Esports,EVOS Esports,2.0,32:27,OK,red,GAM,   DEFEAT   ,55.0k,9,  3 ,  0 ,  0 ,  3 ,  0 ,Azir,Camille,Khazix,TahmKench,Taric
+2018.0,spring,VCS,7,Cherry Esports,Ultimate,1.0,35:11,OK,blue,CR,   DEFEAT   ,59.2k,10,  1 ,  0 ,  1 ,  0 ,  0 ,Galio,Taliyah,TahmKench,Braum,Caitlyn
+2018.0,spring,VCS,7,Cherry Esports,Ultimate,1.0,35:11,OK,red,UTM,   VICTORY   ,69.3k,21,  11 ,  4 ,  1 ,  4 ,  0 ,Olaf,Sejuani,Camille,Xayah,Varus
+2018.0,spring,VCS,7,Cherry Esports,Ultimate,2.0,32:02,OK,blue,UTM,   DEFEAT   ,53.8k,11,  6 ,  0 ,  0 ,  1 ,  1 ,Olaf,Camille,Rakan,JarvanIV,Skarner
+2018.0,spring,VCS,7,Cherry Esports,Ultimate,2.0,32:02,OK,red,CR,   VICTORY   ,65.0k,11,  11 ,  4 ,  2 ,  2 ,  0 ,Galio,Taliyah,Sion,Braum,Janna
+2018.0,spring,VCS,7,Cherry Esports,Ultimate,3.0,24:35,OK,blue,CR,   DEFEAT   ,38.3k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Galio,Taliyah,Rakan,Tristana,Varus
+2018.0,spring,VCS,7,Cherry Esports,Ultimate,3.0,24:35,OK,red,UTM,   VICTORY   ,52.8k,14,  10 ,  2 ,  1 ,  2 ,  1 ,Sejuani,Olaf,Camille,Zac,JarvanIV
+2018.0,spring,VCS,7,EVOS Esports,Hall of Fame,1.0,21:22,OK,blue,EVS,   VICTORY   ,47.4k,25,  7 ,  1 ,  0 ,  1 ,  1 ,Xayah,Gnar,TahmKench,Jax,JarvanIV
+2018.0,spring,VCS,7,EVOS Esports,Hall of Fame,1.0,21:22,OK,red,HOF,   DEFEAT   ,33.9k,10,  0 ,  0 ,  0 ,  0 ,  0 ,Olaf,Khazix,Jayce,Azir,Braum
+2018.0,spring,VCS,7,EVOS Esports,Hall of Fame,2.0,50:27,OK,blue,HOF,   DEFEAT   ,95.5k,33,  11 ,  7 ,  1 ,  4 ,  1 ,Olaf,Khazix,Gnar,TahmKench,Braum
+2018.0,spring,VCS,7,EVOS Esports,Hall of Fame,2.0,50:27,OK,red,EVS,   VICTORY   ,100.2k,29,  9 ,  3 ,  2 ,  1 ,  0 ,Jax,Xayah,Azir,Varus,Tristana
+2018.0,spring,VCS,7,FTV Esports,Young Generation,1.0,27:13,OK,blue,FTV,   DEFEAT   ,40.6k,0,  0 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Rakan,TahmKench,Taliyah,Azir
+2018.0,spring,VCS,7,FTV Esports,Young Generation,1.0,27:13,OK,red,YG,   VICTORY   ,60.2k,11,  11 ,  3 ,  1 ,  3 ,  1 ,Ryze,Tristana,Caitlyn,Camille,Jax
+2018.0,spring,VCS,7,FTV Esports,Young Generation,2.0,33:56,OK,blue,YG,   VICTORY   ,67.6k,16,  11 ,  3 ,  2 ,  2 ,  1 ,Ryze,Tristana,Rakan,Varus,Azir
+2018.0,spring,VCS,7,FTV Esports,Young Generation,2.0,33:56,OK,red,FTV,   DEFEAT   ,58.0k,12,  4 ,  0 ,  0 ,  1 ,  0 ,Gnar,Poppy,Caitlyn,Jayce,Jax
+2018.0,spring,VCS,7,Friends Forever Gaming,GAM Esports,1.0,29:48,OK,blue,FFQ,   VICTORY   ,59.6k,14,  11 ,  3 ,  2 ,  2 ,  0 ,Camille,Varus,Sion,Gnar,Janna
+2018.0,spring,VCS,7,Friends Forever Gaming,GAM Esports,1.0,29:48,OK,red,GAM,   DEFEAT   ,47.9k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Rakan,Khazix,Braum,Alistar,Thresh
+2018.0,spring,VCS,7,Friends Forever Gaming,GAM Esports,2.0,26:21,OK,blue,GAM,   VICTORY   ,54.9k,19,  9 ,  2 ,  1 ,  3 ,  1 ,Khazix,Rakan,Swain,Thresh,Alistar
+2018.0,spring,VCS,7,Friends Forever Gaming,GAM Esports,2.0,26:21,OK,red,FFQ,   DEFEAT   ,41.6k,7,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Varus,Gnar,Janna,TahmKench
+2018.0,spring,VCS,7,Friends Forever Gaming,GAM Esports,3.0,33:32,OK,blue,FFQ,   DEFEAT   ,57.0k,15,  4 ,  0 ,  0 ,  0 ,  0 ,Camille,Varus,Sion,Janna,Zyra
+2018.0,spring,VCS,7,Friends Forever Gaming,GAM Esports,3.0,33:32,OK,red,GAM,   VICTORY   ,70.6k,27,  11 ,  2 ,  1 ,  2 ,  1 ,Khazix,Rakan,Ryze,Thresh,Alistar

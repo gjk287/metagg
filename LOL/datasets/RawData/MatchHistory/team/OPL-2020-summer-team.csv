@@ -1,0 +1,167 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,OPL,1,Chiefs Esports,Pentanet.GG,1.0,37:54,OK,blue,PGG,   VICTORY   ,70.9k,28,  9 ,  2 ,  1 ,  5 ,  2 ,Graves,Nidalee,Yuumi,Sylas,Azir
+2020.0,summer,OPL,1,Chiefs Esports,Pentanet.GG,1.0,37:54,OK,red,CHF,   DEFEAT   ,64.9k,15,  4 ,  0 ,  1 ,  0 ,  0 ,Varus,Aphelios,Trundle,Syndra,Leblanc
+2020.0,summer,OPL,1,Avant Gaming,Mammoth,1.0,28:19,OK,blue,AV,   VICTORY   ,54.6k,18,  8 ,  1 ,  1 ,  4 ,  1 ,Sett,MonkeyKing,Karma,Diana,Leblanc
+2020.0,summer,OPL,1,Avant Gaming,Mammoth,1.0,28:19,OK,red,MMM,   DEFEAT   ,43.3k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Varus,Syndra,Kalista,Lucian,Taliyah
+2020.0,summer,OPL,1,ORDER,Gravitas,1.0,32:36,OK,blue,ORD,   VICTORY   ,62.0k,21,  9 ,  2 ,  1 ,  4 ,  2 ,Soraka,Yuumi,Senna,Trundle,Fiora
+2020.0,summer,OPL,1,ORDER,Gravitas,1.0,32:36,OK,red,GRV,   DEFEAT   ,51.7k,10,  3 ,  0 ,  0 ,  1 ,  0 ,Varus,Sett,Graves,,
+2020.0,summer,OPL,1,Legacy Esports,Dire Wolves,1.0,34:53,OK,blue,DW,   DEFEAT   ,52.5k,1,  2 ,  0 ,  0 ,  1 ,  0 ,Bard,Thresh,Karma,Gangplank,Vladimir
+2020.0,summer,OPL,1,Legacy Esports,Dire Wolves,1.0,34:53,OK,red,LGC,   VICTORY   ,62.7k,9,  9 ,  2 ,  1 ,  4 ,  2 ,Varus,Graves,Trundle,Olaf,LeeSin
+2020.0,summer,OPL,1,Chiefs Esports,Gravitas,1.0,26:33,OK,blue,CHF,   VICTORY   ,51.6k,17,  11 ,  4 ,  1 ,  3 ,  1 ,Kalista,Graves,Trundle,Olaf,Fiddlesticks
+2020.0,summer,OPL,1,Chiefs Esports,Gravitas,1.0,26:33,OK,red,GRV,   DEFEAT   ,41.3k,8,  0 ,  0 ,  0 ,  1 ,  0 ,Varus,Sett,Yuumi,Kindred,Ekko
+2020.0,summer,OPL,1,Avant Gaming,Dire Wolves,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,summer,OPL,1,Pentanet.GG,Mammoth,1.0,36:56,OK,blue,PGG,   VICTORY   ,67.6k,21,  8 ,  1 ,  1 ,  5 ,  2 ,Yasuo,Graves,Yuumi,Blitzcrank,Kassadin
+2020.0,summer,OPL,1,Pentanet.GG,Mammoth,1.0,36:56,OK,red,MMM,   DEFEAT   ,58.8k,10,  3 ,  0 ,  0 ,  1 ,  0 ,Varus,Syndra,Ornn,Maokai,MonkeyKing
+2020.0,summer,OPL,1,ORDER,Legacy Esports,1.0,28:29,OK,blue,LGC,   VICTORY   ,55.7k,15,  8 ,  1 ,  1 ,  3 ,  2 ,Azir,Ornn,Leblanc,Syndra,Corki
+2020.0,summer,OPL,1,ORDER,Legacy Esports,1.0,28:29,OK,red,ORD,   DEFEAT   ,42.6k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Yuumi,Soraka,Varus,Morgana,Thresh
+2020.0,summer,OPL,2,Chiefs Esports,Avant Gaming,1.0,38:07,OK,blue,AV,   DEFEAT   ,61.0k,12,  4 ,  0 ,  0 ,  4 ,  1 ,Olaf,Nidalee,Karma,Sett,Bard
+2020.0,summer,OPL,2,Chiefs Esports,Avant Gaming,1.0,38:07,OK,red,CHF,   VICTORY   ,70.5k,12,  10 ,  2 ,  2 ,  2 ,  1 ,Varus,Ornn,Fiddlesticks,Ekko,Orianna
+2020.0,summer,OPL,2,Legacy Esports,Gravitas,1.0,28:32,OK,blue,LGC,   VICTORY   ,57.6k,23,  10 ,  2 ,  1 ,  2 ,  2 ,Syndra,Trundle,Leblanc,Sylas,Irelia
+2020.0,summer,OPL,2,Legacy Esports,Gravitas,1.0,28:32,OK,red,GRV,   DEFEAT   ,41.3k,3,  0 ,  0 ,  0 ,  2 ,  0 ,Varus,Karma,Kalista,Aphelios,MissFortune
+2020.0,summer,OPL,2,Dire Wolves,Mammoth,1.0,30:08,OK,blue,MMM,   DEFEAT   ,44.9k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Azir,Syndra,Kalista,Yuumi,Nautilus
+2020.0,summer,OPL,2,Dire Wolves,Mammoth,1.0,30:08,OK,red,DW,   VICTORY   ,59.0k,14,  11 ,  2 ,  1 ,  3 ,  2 ,Varus,Ornn,Ezreal,Yasuo,Sett
+2020.0,summer,OPL,2,ORDER,Pentanet.GG,1.0,29:12,OK,blue,PGG,   DEFEAT   ,46.7k,9,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Graves,Nidalee,Kassadin,Syndra
+2020.0,summer,OPL,2,ORDER,Pentanet.GG,1.0,29:12,OK,red,ORD,   VICTORY   ,56.4k,17,  9 ,  2 ,  1 ,  3 ,  1 ,Varus,Fiddlesticks,Nocturne,Gangplank,Ornn
+2020.0,summer,OPL,2,Legacy Esports,Mammoth,1.0,33:25,OK,blue,MMM,   DEFEAT   ,51.3k,5,  3 ,  0 ,  1 ,  3 ,  0 ,Bard,Zoe,Nidalee,Syndra,Ezreal
+2020.0,summer,OPL,2,Legacy Esports,Mammoth,1.0,33:25,OK,red,LGC,   VICTORY   ,59.7k,18,  8 ,  1 ,  0 ,  3 ,  2 ,Varus,Lucian,Yasuo,Ahri,Azir
+2020.0,summer,OPL,2,ORDER,Chiefs Esports,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,summer,OPL,2,Avant Gaming,Gravitas,1.0,33:59,OK,blue,GRV,   VICTORY   ,64.8k,20,  10 ,  2 ,  2 ,  4 ,  1 ,Caitlyn,Graves,Thresh,Kalista,Ezreal
+2020.0,summer,OPL,2,Avant Gaming,Gravitas,1.0,33:59,OK,red,AV,   DEFEAT   ,50.0k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Varus,Karma,Nidalee,Kassadin
+2020.0,summer,OPL,2,Dire Wolves,Pentanet.GG,1.0,26:49,OK,blue,DW,   VICTORY   ,52.9k,15,  10 ,  2 ,  1 ,  3 ,  2 ,Fiddlesticks,Kalista,Trundle,Azir,Zoe
+2020.0,summer,OPL,2,Dire Wolves,Pentanet.GG,1.0,26:49,OK,red,PGG,   DEFEAT   ,37.8k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Varus,Graves,Cassiopeia,Nidalee,Karma
+2020.0,summer,OPL,3,Dire Wolves,Gravitas,1.0,26:39,OK,blue,GRV,   DEFEAT   ,40.6k,6,  2 ,  0 ,  0 ,  3 ,  1 ,Graves,Zoe,Yuumi,Morgana,TahmKench
+2020.0,summer,OPL,3,Dire Wolves,Gravitas,1.0,26:39,OK,red,DW,   VICTORY   ,48.7k,16,  7 ,  1 ,  1 ,  1 ,  1 ,Varus,Kalista,Ekko,Leblanc,Akali
+2020.0,summer,OPL,3,Chiefs Esports,Mammoth,1.0,31:03,OK,blue,CHF,   VICTORY   ,57.9k,20,  8 ,  1 ,  1 ,  4 ,  1 ,Kalista,Graves,Ornn,Nidalee,Ekko
+2020.0,summer,OPL,3,Chiefs Esports,Mammoth,1.0,31:03,OK,red,MMM,   DEFEAT   ,48.0k,7,  3 ,  0 ,  0 ,  0 ,  1 ,Varus,Syndra,Karma,Leblanc,Zoe
+2020.0,summer,OPL,3,Legacy Esports,Pentanet.GG,1.0,40:30,OK,blue,PGG,   DEFEAT   ,67.7k,11,  7 ,  1 ,  0 ,  4 ,  2 ,Syndra,Kalista,TwistedFate,Nidalee,Zoe
+2020.0,summer,OPL,3,Legacy Esports,Pentanet.GG,1.0,40:30,OK,red,LGC,   VICTORY   ,73.5k,16,  11 ,  3 ,  2 ,  3 ,  0 ,Varus,Fiddlesticks,Trundle,Azir,Orianna
+2020.0,summer,OPL,3,ORDER,Avant Gaming,1.0,25:09,OK,blue,ORD,   DEFEAT   ,39.7k,3,  3 ,  0 ,  0 ,  1 ,  0 ,Caitlyn,Ekko,Kalista,Mordekaiser,MonkeyKing
+2020.0,summer,OPL,3,ORDER,Avant Gaming,1.0,25:09,OK,red,AV,   VICTORY   ,49.0k,17,  9 ,  2 ,  1 ,  3 ,  2 ,Nidalee,Varus,Syndra,Azir,Leblanc
+2020.0,summer,OPL,3,ORDER,Mammoth,1.0,25:26,OK,blue,MMM,   DEFEAT   ,37.0k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Nidalee,Karma,Syndra,Yuumi,Zoe
+2020.0,summer,OPL,3,ORDER,Mammoth,1.0,25:26,OK,red,ORD,   VICTORY   ,55.8k,26,  10 ,  2 ,  1 ,  3 ,  2 ,Varus,Kalista,Graves,Quinn,Aatrox
+2020.0,summer,OPL,3,Pentanet.GG,Gravitas,1.0,28:22,OK,blue,GRV,   DEFEAT   ,45.9k,7,  3 ,  0 ,  0 ,  3 ,  2 ,Fiddlesticks,Graves,Thresh,Azir,JarvanIV
+2020.0,summer,OPL,3,Pentanet.GG,Gravitas,1.0,28:22,OK,red,PGG,   VICTORY   ,51.9k,13,  7 ,  1 ,  1 ,  2 ,  0 ,Varus,Ekko,Yasuo,Leblanc,Akali
+2020.0,summer,OPL,3,Legacy Esports,Avant Gaming,1.0,38:54,OK,blue,AV,   DEFEAT   ,64.3k,11,  4 ,  0 ,  0 ,  3 ,  2 ,Karma,Ornn,Yuumi,TwistedFate,Zoe
+2020.0,summer,OPL,3,Legacy Esports,Avant Gaming,1.0,38:54,OK,red,LGC,   VICTORY   ,74.2k,15,  10 ,  3 ,  1 ,  3 ,  0 ,Varus,Syndra,Trundle,Orianna,Taliyah
+2020.0,summer,OPL,3,Chiefs Esports,Dire Wolves,1.0,33:12,OK,blue,CHF,   VICTORY   ,64.6k,24,  11 ,  3 ,  1 ,  4 ,  1 ,Graves,Kalista,Trundle,Yuumi,Karma
+2020.0,summer,OPL,3,Chiefs Esports,Dire Wolves,1.0,33:12,OK,red,DW,   DEFEAT   ,53.9k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Varus,Ezreal,Syndra,JarvanIV,LeeSin
+2020.0,summer,OPL,4,Avant Gaming,Pentanet.GG,1.0,38:12,OK,blue,PGG,   VICTORY   ,69.9k,12,  10 ,  3 ,  0 ,  5 ,  1 ,Yuumi,Ezreal,Fiddlesticks,Taliyah,Ekko
+2020.0,summer,OPL,4,Avant Gaming,Pentanet.GG,1.0,38:12,OK,red,AV,   DEFEAT   ,65.3k,10,  4 ,  0 ,  2 ,  1 ,  1 ,Varus,Syndra,Sett,Azir,Mordekaiser
+2020.0,summer,OPL,4,ORDER,Dire Wolves,1.0,38:50,OK,blue,DW,   VICTORY   ,70.6k,25,  9 ,  2 ,  1 ,  4 ,  2 ,Kalista,Ornn,Nidalee,Karma,Rumble
+2020.0,summer,OPL,4,ORDER,Dire Wolves,1.0,38:50,OK,red,ORD,   DEFEAT   ,61.6k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Varus,Yuumi,Graves,Lulu,Thresh
+2020.0,summer,OPL,4,Gravitas,Mammoth,1.0,36:32,OK,blue,GRV,   DEFEAT   ,53.1k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Sett,Graves,MonkeyKing,Ornn
+2020.0,summer,OPL,4,Gravitas,Mammoth,1.0,36:32,OK,red,MMM,   VICTORY   ,66.9k,11,  11 ,  4 ,  2 ,  5 ,  2 ,Varus,Leblanc,Trundle,Akali,Poppy
+2020.0,summer,OPL,4,Chiefs Esports,Legacy Esports,1.0,33:01,OK,blue,CHF,   DEFEAT   ,53.1k,5,  4 ,  0 ,  0 ,  4 ,  1 ,Kalista,Graves,Ornn,Galio,Renekton
+2020.0,summer,OPL,4,Chiefs Esports,Legacy Esports,1.0,33:01,OK,red,LGC,   VICTORY   ,60.6k,7,  8 ,  1 ,  1 ,  2 ,  1 ,Varus,Volibear,Yuumi,JarvanIV,RekSai
+2020.0,summer,OPL,4,Chiefs Esports,Pentanet.GG,1.0,30:29,OK,blue,CHF,   DEFEAT   ,49.4k,7,  3 ,  0 ,  0 ,  1 ,  1 ,Aphelios,Kalista,Ezreal,Trundle,Kayn
+2020.0,summer,OPL,4,Chiefs Esports,Pentanet.GG,1.0,30:29,OK,red,PGG,   VICTORY   ,57.8k,27,  10 ,  2 ,  1 ,  4 ,  1 ,Yuumi,Varus,Graves,Kindred,Gangplank
+2020.0,summer,OPL,4,Avant Gaming,Mammoth,1.0,28:21,OK,blue,AV,   VICTORY   ,56.3k,12,  11 ,  2 ,  1 ,  4 ,  1 ,Pantheon,Yasuo,Yuumi,Neeko,LeeSin
+2020.0,summer,OPL,4,Avant Gaming,Mammoth,1.0,28:21,OK,red,MMM,   DEFEAT   ,44.4k,3,  3 ,  0 ,  0 ,  0 ,  1 ,Varus,Syndra,Karma,Orianna,Taliyah
+2020.0,summer,OPL,4,ORDER,Gravitas,1.0,24:05,OK,blue,GRV,   DEFEAT   ,34.5k,7,  0 ,  0 ,  0 ,  1 ,  0 ,TwistedFate,Kalista,Graves,Sett,Thresh
+2020.0,summer,OPL,4,ORDER,Gravitas,1.0,24:05,OK,red,ORD,   VICTORY   ,48.9k,24,  9 ,  1 ,  1 ,  2 ,  2 ,Varus,LeeSin,Trundle,Lulu,Karma
+2020.0,summer,OPL,4,Legacy Esports,Dire Wolves,1.0,41:16,OK,blue,DW,   DEFEAT   ,68.7k,13,  5 ,  0 ,  1 ,  3 ,  2 ,Karma,Kalista,Ornn,Galio,Aatrox
+2020.0,summer,OPL,4,Legacy Esports,Dire Wolves,1.0,41:16,OK,red,LGC,   VICTORY   ,74.4k,15,  8 ,  1 ,  0 ,  4 ,  0 ,Varus,Syndra,Aphelios,Orianna,Azir
+2020.0,summer,OPL,5,ORDER,Legacy Esports,1.0,43:07,OK,blue,ORD,   VICTORY   ,81.6k,24,  8 ,  1 ,  2 ,  5 ,  2 ,Yuumi,Karma,Kalista,Lulu,Ekko
+2020.0,summer,OPL,5,ORDER,Legacy Esports,1.0,43:07,OK,red,LGC,   DEFEAT   ,73.9k,14,  4 ,  0 ,  1 ,  2 ,  0 ,Varus,Orianna,Kled,Gnar,Bard
+2020.0,summer,OPL,5,Chiefs Esports,Gravitas,1.0,26:18,OK,blue,CHF,   VICTORY   ,53.0k,24,  10 ,  3 ,  0 ,  3 ,  2 ,Karma,Thresh,Trundle,Kalista,Aphelios
+2020.0,summer,OPL,5,Chiefs Esports,Gravitas,1.0,26:18,OK,red,GRV,   DEFEAT   ,38.5k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Graves,Nidalee,Ezreal,LeeSin,JarvanIV
+2020.0,summer,OPL,5,Pentanet.GG,Mammoth,1.0,38:26,OK,blue,MMM,   DEFEAT   ,62.0k,13,  2 ,  0 ,  0 ,  3 ,  1 ,Fiddlesticks,Kalista,Sett,Syndra,Azir
+2020.0,summer,OPL,5,Pentanet.GG,Mammoth,1.0,38:26,OK,red,PGG,   VICTORY   ,69.9k,17,  9 ,  1 ,  2 ,  3 ,  1 ,Varus,Graves,Yasuo,Olaf,Gangplank
+2020.0,summer,OPL,5,Avant Gaming,Dire Wolves,1.0,34:38,OK,blue,DW,   VICTORY   ,65.7k,16,  11 ,  4 ,  2 ,  3 ,  2 ,Taliyah,Ornn,Kalista,Leblanc,Syndra
+2020.0,summer,OPL,5,Avant Gaming,Dire Wolves,1.0,34:38,OK,red,AV,   DEFEAT   ,54.6k,5,  4 ,  0 ,  0 ,  3 ,  0 ,Varus,Zoe,Graves,Morgana,Taric
+2020.0,summer,OPL,5,Chiefs Esports,Avant Gaming,1.0,29:45,OK,blue,AV,   DEFEAT   ,49.0k,12,  0 ,  0 ,  0 ,  0 ,  0 ,Karma,Nidalee,Volibear,LeeSin,Kindred
+2020.0,summer,OPL,5,Chiefs Esports,Avant Gaming,1.0,29:45,OK,red,CHF,   VICTORY   ,57.9k,22,  0 ,  0 ,  0 ,  0 ,  0 ,Ekko,Varus,Kalista,Syndra,Leblanc
+2020.0,summer,OPL,5,Legacy Esports,Gravitas,1.0,23:21,OK,blue,LGC,   VICTORY   ,48.2k,19,  10 ,  1 ,  0 ,  3 ,  2 ,Orianna,Syndra,Yuumi,Leblanc,LeeSin
+2020.0,summer,OPL,5,Legacy Esports,Gravitas,1.0,23:21,OK,red,GRV,   DEFEAT   ,33.6k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Graves,Nidalee,Varus,Chogath,Gangplank
+2020.0,summer,OPL,5,Dire Wolves,Mammoth,1.0,24:48,OK,blue,DW,   VICTORY   ,47.2k,17,  8 ,  1 ,  0 ,  3 ,  2 ,Yasuo,Thresh,Graves,Ornn,Renekton
+2020.0,summer,OPL,5,Dire Wolves,Mammoth,1.0,24:48,OK,red,MMM,   DEFEAT   ,35.7k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Sett,Ezreal,Kalista,TahmKench,Taric
+2020.0,summer,OPL,5,ORDER,Pentanet.GG,1.0,26:06,OK,blue,ORD,   VICTORY   ,46.9k,6,  9 ,  2 ,  1 ,  4 ,  2 ,Kassadin,Kalista,Nocturne,Ezreal,Mordekaiser
+2020.0,summer,OPL,5,ORDER,Pentanet.GG,1.0,26:06,OK,red,PGG,   DEFEAT   ,38.8k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Varus,Graves,Nidalee,Azir,Yasuo
+2020.0,summer,OPL,6,Legacy Esports,Mammoth,1.0,36:47,OK,blue,MMM,   VICTORY   ,70.3k,21,  10 ,  2 ,  2 ,  5 ,  2 ,Karma,Kalista,Nidalee,TwistedFate,Galio
+2020.0,summer,OPL,6,Legacy Esports,Mammoth,1.0,36:47,OK,red,LGC,   DEFEAT   ,59.9k,10,  3 ,  0 ,  1 ,  1 ,  0 ,Varus,Orianna,Ashe,Yasuo,Lucian
+2020.0,summer,OPL,6,Dire Wolves,Pentanet.GG,1.0,36:08,OK,blue,PGG,   DEFEAT   ,54.8k,4,  3 ,  0 ,  0 ,  2 ,  0 ,Yuumi,Volibear,Kalista,Gangplank,Olaf
+2020.0,summer,OPL,6,Dire Wolves,Pentanet.GG,1.0,36:08,OK,red,DW,   VICTORY   ,67.4k,16,  11 ,  3 ,  1 ,  3 ,  2 ,Varus,Thresh,Ornn,Sett,JarvanIV
+2020.0,summer,OPL,6,Avant Gaming,Gravitas,1.0,25:59,OK,blue,GRV,   DEFEAT   ,39.1k,4,  1 ,  0 ,  0 ,  2 ,  1 ,LeeSin,Sett,MonkeyKing,Taliyah,Zoe
+2020.0,summer,OPL,6,Avant Gaming,Gravitas,1.0,25:59,OK,red,AV,   VICTORY   ,51.2k,15,  10 ,  2 ,  1 ,  2 ,  1 ,Nidalee,Varus,Akali,Irelia,Morgana
+2020.0,summer,OPL,6,ORDER,Chiefs Esports,1.0,42:23,OK,blue,ORD,   VICTORY   ,79.4k,28,  10 ,  1 ,  0 ,  5 ,  1 ,Karma,Syndra,Trundle,Nautilus,Yuumi
+2020.0,summer,OPL,6,ORDER,Chiefs Esports,1.0,42:23,OK,red,CHF,   DEFEAT   ,66.7k,10,  3 ,  0 ,  1 ,  2 ,  1 ,Varus,TwistedFate,Kalista,Sion,Braum
+2020.0,summer,OPL,6,Dire Wolves,Gravitas,1.0,26:07,OK,blue,DW,   VICTORY   ,52.8k,21,  9 ,  2 ,  1 ,  4 ,  2 ,Yasuo,Kalista,Ornn,Bard,Aatrox
+2020.0,summer,OPL,6,Dire Wolves,Gravitas,1.0,26:07,OK,red,GRV,   DEFEAT   ,40.7k,8,  1 ,  0 ,  0 ,  0 ,  0 ,Varus,Aphelios,Volibear,Camille,MonkeyKing
+2020.0,summer,OPL,6,Chiefs Esports,Mammoth,1.0,31:28,OK,blue,CHF,   DEFEAT   ,47.8k,8,  2 ,  0 ,  0 ,  0 ,  2 ,Ahri,Yasuo,Volibear,Gangplank,Graves
+2020.0,summer,OPL,6,Chiefs Esports,Mammoth,1.0,31:28,OK,red,MMM,   VICTORY   ,58.9k,25,  8 ,  2 ,  1 ,  4 ,  0 ,Orianna,Syndra,Varus,Nidalee,LeeSin
+2020.0,summer,OPL,6,Legacy Esports,Pentanet.GG,1.0,30:24,OK,blue,LGC,   DEFEAT   ,46.9k,10,  2 ,  0 ,  0 ,  0 ,  0 ,Thresh,Fiddlesticks,Karma,Sion,Lulu
+2020.0,summer,OPL,6,Legacy Esports,Pentanet.GG,1.0,30:24,OK,red,PGG,   VICTORY   ,57.4k,17,  7 ,  1 ,  1 ,  5 ,  2 ,Varus,Graves,MonkeyKing,Taric,Gangplank
+2020.0,summer,OPL,6,ORDER,Avant Gaming,1.0,41:10,OK,blue,ORD,   VICTORY   ,76.4k,27,  9 ,  2 ,  3 ,  3 ,  1 ,KogMaw,Graves,Trundle,Mordekaiser,Nautilus
+2020.0,summer,OPL,6,ORDER,Avant Gaming,1.0,41:10,OK,red,AV,   DEFEAT   ,70.1k,23,  3 ,  0 ,  0 ,  3 ,  0 ,Nidalee,Volibear,Varus,Bard,Karma
+2020.0,summer,OPL,7,ORDER,Mammoth,1.0,33:03,OK,blue,ORD,   VICTORY   ,57.9k,13,  10 ,  2 ,  1 ,  3 ,  2 ,Heimerdinger,MonkeyKing,Trundle,Mordekaiser,Ezreal
+2020.0,summer,OPL,7,ORDER,Mammoth,1.0,33:03,OK,red,MMM,   DEFEAT   ,45.3k,5,  0 ,  0 ,  0 ,  2 ,  0 ,Nidalee,Orianna,Karthus,Renekton,Thresh
+2020.0,summer,OPL,7,Legacy Esports,Avant Gaming,1.0,37:07,OK,blue,LGC,   VICTORY   ,66.7k,13,  9 ,  1 ,  1 ,  4 ,  1 ,Leblanc,Volibear,Ashe,MonkeyKing,Alistar
+2020.0,summer,OPL,7,Legacy Esports,Avant Gaming,1.0,37:07,OK,red,AV,   DEFEAT   ,55.5k,6,  1 ,  0 ,  0 ,  1 ,  1 ,Gangplank,Aphelios,Kalista,Azir,Orianna
+2020.0,summer,OPL,7,Chiefs Esports,Dire Wolves,1.0,36:51,OK,blue,CHF,   VICTORY   ,65.9k,16,  8 ,  1 ,  1 ,  2 ,  1 ,Zoe,Karthus,Karma,Jax,Fiora
+2020.0,summer,OPL,7,Chiefs Esports,Dire Wolves,1.0,36:51,OK,red,DW,   DEFEAT   ,58.5k,13,  3 ,  0 ,  0 ,  4 ,  1 ,Orianna,Sett,TwistedFate,Ornn,MonkeyKing
+2020.0,summer,OPL,7,Pentanet.GG,Gravitas,1.0,34:33,OK,blue,GRV,   DEFEAT   ,55.1k,10,  4 ,  0 ,  0 ,  3 ,  1 ,Aphelios,Thresh,Volibear,Nautilus,Karma
+2020.0,summer,OPL,7,Pentanet.GG,Gravitas,1.0,34:33,OK,red,PGG,   VICTORY   ,67.9k,22,  10 ,  1 ,  2 ,  2 ,  1 ,Ekko,Yasuo,Graves,Gangplank,Morgana
+2020.0,summer,OPL,7,Chiefs Esports,Legacy Esports,1.0,28:25,OK,blue,CHF,   DEFEAT   ,45.4k,11,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Thresh,Nidalee,Renekton,Gangplank
+2020.0,summer,OPL,7,Chiefs Esports,Legacy Esports,1.0,28:25,OK,red,LGC,   VICTORY   ,57.2k,17,  11 ,  3 ,  1 ,  4 ,  2 ,Orianna,Azir,Volibear,Trundle,LeeSin
+2020.0,summer,OPL,7,ORDER,Dire Wolves,1.0,38:59,OK,blue,DW,   DEFEAT   ,63.8k,21,  2 ,  0 ,  0 ,  2 ,  0 ,Karthus,Nidalee,Bard,Sion,Ornn
+2020.0,summer,OPL,7,ORDER,Dire Wolves,1.0,38:59,OK,red,ORD,   VICTORY   ,72.1k,23,  10 ,  1 ,  1 ,  4 ,  2 ,Syndra,Volibear,Ashe,MonkeyKing,Camille
+2020.0,summer,OPL,7,Avant Gaming,Pentanet.GG,1.0,33:04,OK,blue,PGG,   VICTORY   ,61.5k,17,  9 ,  2 ,  1 ,  3 ,  2 ,Taliyah,LeeSin,Ekko,Senna,Gangplank
+2020.0,summer,OPL,7,Avant Gaming,Pentanet.GG,1.0,33:04,OK,red,AV,   DEFEAT   ,52.5k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Aphelios,Graves,Volibear,Azir,TwistedFate
+2020.0,summer,OPL,7,Gravitas,Mammoth,1.0,34:50,OK,blue,GRV,   DEFEAT   ,57.3k,14,  2 ,  0 ,  0 ,  3 ,  1 ,Yasuo,Karma,Volibear,Thresh,Nautilus
+2020.0,summer,OPL,7,Gravitas,Mammoth,1.0,34:50,OK,red,MMM,   VICTORY   ,65.0k,18,  7 ,  1 ,  1 ,  2 ,  1 ,Ashe,Aphelios,Ekko,Sion,Ornn
+2020.0,summer,OPL,8,Chiefs Esports,Pentanet.GG,1.0,30:25,OK,blue,CHF,   VICTORY   ,59.1k,16,  10 ,  3 ,  2 ,  4 ,  2 ,Thresh,Karma,Zoe,Ornn,Maokai
+2020.0,summer,OPL,8,Chiefs Esports,Pentanet.GG,1.0,30:25,OK,red,PGG,   DEFEAT   ,46.4k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Volibear,LeeSin,Leblanc,Gangplank,Morgana
+2020.0,summer,OPL,8,Avant Gaming,Mammoth,1.0,27:55,OK,blue,AV,   VICTORY   ,56.3k,21,  11 ,  3 ,  1 ,  2 ,  1 ,Heimerdinger,Karma,Nidalee,MonkeyKing,Neeko
+2020.0,summer,OPL,8,Avant Gaming,Mammoth,1.0,27:55,OK,red,MMM,   DEFEAT   ,41.5k,5,  2 ,  0 ,  0 ,  2 ,  1 ,Zoe,Ashe,Graves,Leblanc,Taliyah
+2020.0,summer,OPL,8,ORDER,Gravitas,1.0,25:23,OK,blue,ORD,   VICTORY   ,53.0k,23,  8 ,  1 ,  1 ,  2 ,  2 ,Akali,Ashe,Trundle,Ornn,Ekko
+2020.0,summer,OPL,8,ORDER,Gravitas,1.0,25:23,OK,red,GRV,   DEFEAT   ,34.5k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Thresh,Karthus,Volibear,Kennen,LeeSin
+2020.0,summer,OPL,8,Legacy Esports,Dire Wolves,1.0,35:54,OK,blue,DW,   DEFEAT   ,62.3k,10,  7 ,  0 ,  1 ,  2 ,  2 ,Karma,Bard,Nidalee,Gangplank,Kennen
+2020.0,summer,OPL,8,Legacy Esports,Dire Wolves,1.0,35:54,OK,red,LGC,   VICTORY   ,64.9k,14,  9 ,  1 ,  1 ,  3 ,  0 ,Syndra,Volibear,Ashe,Thresh,TahmKench
+2020.0,summer,OPL,8,ORDER,Legacy Esports,1.0,30:01,OK,blue,LGC,   VICTORY   ,59.6k,16,  9 ,  2 ,  1 ,  4 ,  2 ,Ezreal,Bard,Volibear,Sion,Kennen
+2020.0,summer,OPL,8,ORDER,Legacy Esports,1.0,30:01,OK,red,ORD,   DEFEAT   ,45.6k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Karma,Trundle,Gangplank,Kayle,Camille
+2020.0,summer,OPL,8,Chiefs Esports,Gravitas,1.0,23:17,OK,blue,CHF,   VICTORY   ,46.0k,17,  8 ,  1 ,  0 ,  4 ,  2 ,Zed,Ekko,Trundle,Renekton,Sion
+2020.0,summer,OPL,8,Chiefs Esports,Gravitas,1.0,23:17,OK,red,GRV,   DEFEAT   ,32.4k,4,  0 ,  0 ,  0 ,  0 ,  0 ,LeeSin,Volibear,Ashe,Kassadin,Sylas
+2020.0,summer,OPL,8,Pentanet.GG,Mammoth,1.0,43:13,OK,blue,MMM,   DEFEAT   ,76.7k,8,  8 ,  1 ,  2 ,  2 ,  0 ,Orianna,Thresh,Aphelios,Nautilus,Sett
+2020.0,summer,OPL,8,Pentanet.GG,Mammoth,1.0,43:13,OK,red,PGG,   VICTORY   ,77.9k,18,  7 ,  1 ,  0 ,  5 ,  2 ,Volibear,Heimerdinger,Nocturne,Morgana,Blitzcrank
+2020.0,summer,OPL,8,Avant Gaming,Dire Wolves,1.0,37:25,OK,blue,AV,   VICTORY   ,68.3k,20,  10 ,  1 ,  1 ,  3 ,  1 ,LeeSin,Zoe,Syndra,MonkeyKing,Mordekaiser
+2020.0,summer,OPL,8,Avant Gaming,Dire Wolves,1.0,37:25,OK,red,DW,   DEFEAT   ,57.6k,12,  3 ,  0 ,  0 ,  2 ,  1 ,Taliyah,Graves,Volibear,Thresh,Kennen
+2020.0,summer,OPL,9,Chiefs Esports,Avant Gaming,1.0,34:22,OK,blue,AV,   DEFEAT   ,52.6k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Karma,Nidalee,Olaf,LeeSin,XinZhao
+2020.0,summer,OPL,9,Chiefs Esports,Avant Gaming,1.0,34:22,OK,red,CHF,   VICTORY   ,63.4k,19,  9 ,  1 ,  0 ,  4 ,  1 ,Nunu,Sett,Morgana,Thresh,Bard
+2020.0,summer,OPL,9,Legacy Esports,Gravitas,1.0,36:22,OK,blue,GRV,   DEFEAT   ,59.2k,12,  4 ,  0 ,  0 ,  1 ,  1 ,Galio,Karma,Ashe,Gangplank,Camille
+2020.0,summer,OPL,9,Legacy Esports,Gravitas,1.0,36:22,OK,red,LGC,   VICTORY   ,72.3k,32,  9 ,  1 ,  2 ,  5 ,  1 ,Leblanc,Nidalee,Akali,Mordekaiser,Poppy
+2020.0,summer,OPL,9,Dire Wolves,Mammoth,1.0,36:20,OK,blue,MMM,   DEFEAT   ,58.1k,5,  3 ,  0 ,  0 ,  3 ,  2 ,Syndra,Zoe,Ashe,Sett,Ornn
+2020.0,summer,OPL,9,Dire Wolves,Mammoth,1.0,36:20,OK,red,DW,   VICTORY   ,68.3k,15,  8 ,  1 ,  1 ,  3 ,  0 ,Heimerdinger,Ezreal,Volibear,Morgana,Ahri
+2020.0,summer,OPL,9,ORDER,Pentanet.GG,1.0,38:41,OK,blue,PGG,   DEFEAT   ,67.5k,15,  6 ,  1 ,  1 ,  1 ,  1 ,Karthus,Zoe,Kalista,Renekton,Sion
+2020.0,summer,OPL,9,ORDER,Pentanet.GG,1.0,38:41,OK,red,ORD,   VICTORY   ,70.6k,16,  9 ,  2 ,  1 ,  5 ,  1 ,Volibear,Trundle,Thresh,DrMundo,Kayle
+2020.0,summer,OPL,9,Legacy Esports,Mammoth,1.0,27:33,OK,blue,MMM,   DEFEAT   ,39.4k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Nidalee,Karma,Bard,Gangplank,Camille
+2020.0,summer,OPL,9,Legacy Esports,Mammoth,1.0,27:33,OK,red,LGC,   VICTORY   ,56.3k,19,  9 ,  2 ,  1 ,  4 ,  2 ,Yasuo,Ahri,Volibear,TwistedFate,Corki
+2020.0,summer,OPL,9,Dire Wolves,Pentanet.GG,1.0,32:06,OK,blue,DW,   DEFEAT   ,52.5k,7,  4 ,  0 ,  0 ,  0 ,  2 ,Thresh,Sett,Kalista,DrMundo,Shen
+2020.0,summer,OPL,9,Dire Wolves,Pentanet.GG,1.0,32:06,OK,red,PGG,   VICTORY   ,60.8k,15,  7 ,  1 ,  1 ,  5 ,  0 ,Olaf,Syndra,Nidalee,Morgana,Karma
+2020.0,summer,OPL,9,Avant Gaming,Gravitas,1.0,23:03,OK,blue,AV,   VICTORY   ,47.7k,21,  9 ,  1 ,  1 ,  4 ,  2 ,Nidalee,Akali,Ashe,Yasuo,Olaf
+2020.0,summer,OPL,9,Avant Gaming,Gravitas,1.0,23:03,OK,red,GRV,   DEFEAT   ,34.1k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Volibear,Karma,Caitlyn,Graves,Zoe
+2020.0,summer,OPL,9,ORDER,Chiefs Esports,1.0,26:16,OK,blue,ORD,   VICTORY   ,52.8k,20,  8 ,  1 ,  1 ,  4 ,  2 ,Trundle,Syndra,Orianna,Jax,Nidalee
+2020.0,summer,OPL,9,ORDER,Chiefs Esports,1.0,26:16,OK,red,CHF,   DEFEAT   ,37.9k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Zoe,Morgana,Thresh,Caitlyn,Leblanc
+2020.0,summer,OPL,10,Chiefs Esports,Mammoth,1.0,30:22,OK,blue,MMM,   VICTORY   ,58.8k,17,  10 ,  2 ,  1 ,  4 ,  1 ,Zoe,Leblanc,Karma,Orianna,Azir
+2020.0,summer,OPL,10,Chiefs Esports,Mammoth,1.0,30:22,OK,red,CHF,   DEFEAT   ,46.2k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Heimerdinger,Volibear,Caitlyn,Nidalee,Gragas
+2020.0,summer,OPL,10,Dire Wolves,Gravitas,1.0,29:52,OK,blue,GRV,   DEFEAT   ,45.5k,7,  0 ,  0 ,  0 ,  1 ,  0 ,LeeSin,Aphelios,Ashe,Mordekaiser,Camille
+2020.0,summer,OPL,10,Dire Wolves,Gravitas,1.0,29:52,OK,red,DW,   VICTORY   ,59.4k,18,  9 ,  1 ,  1 ,  3 ,  2 ,Volibear,Ornn,Caitlyn,Nidalee,Khazix
+2020.0,summer,OPL,10,ORDER,Mammoth,1.0,24:59,OK,blue,ORD,   VICTORY   ,53.3k,18,  11 ,  3 ,  0 ,  2 ,  2 ,Trundle,Yasuo,Karma,Quinn,Morgana
+2020.0,summer,OPL,10,ORDER,Mammoth,1.0,24:59,OK,red,MMM,   DEFEAT   ,36.4k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Volibear,Sett,TwistedFate,Orianna
+2020.0,summer,OPL,10,Pentanet.GG,Gravitas,1.0,22:16,OK,blue,PGG,   VICTORY   ,42.9k,13,  9 ,  2 ,  0 ,  3 ,  2 ,Ekko,Yasuo,Leblanc,Morgana,Nautilus
+2020.0,summer,OPL,10,Pentanet.GG,Gravitas,1.0,22:16,OK,red,GRV,   DEFEAT   ,31.8k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Volibear,Sett,Ashe,DrMundo,Gnar
+2020.0,summer,OPL,10,ORDER,Avant Gaming,1.0,26:27,OK,blue,AV,   DEFEAT   ,38.4k,4,  1 ,  0 ,  0 ,  2 ,  1 ,Nidalee,Zoe,Ashe,Bard,Karma
+2020.0,summer,OPL,10,ORDER,Avant Gaming,1.0,26:27,OK,red,ORD,   VICTORY   ,52.8k,16,  10 ,  2 ,  1 ,  2 ,  1 ,Trundle,Nunu,Caitlyn,Thresh,Rakan
+2020.0,summer,OPL,10,Legacy Esports,Pentanet.GG,1.0,36:36,OK,blue,LGC,   VICTORY   ,64.3k,8,  8 ,  1 ,  0 ,  2 ,  0 ,Azir,Thresh,Ashe,Ezreal,Kalista
+2020.0,summer,OPL,10,Legacy Esports,Pentanet.GG,1.0,36:36,OK,red,PGG,   DEFEAT   ,58.8k,3,  4 ,  0 ,  0 ,  3 ,  2 ,Nidalee,Caitlyn,Galio,Gangplank,Senna
+2020.0,summer,OPL,10,Gravitas,Mammoth,1.0,29:35,OK,blue,MMM,   VICTORY   ,59.2k,20,  9 ,  1 ,  1 ,  5 ,  2 ,Karma,Kalista,Ashe,Trundle,Olaf
+2020.0,summer,OPL,10,Gravitas,Mammoth,1.0,29:35,OK,red,GRV,   DEFEAT   ,47.2k,16,  1 ,  0 ,  0 ,  0 ,  0 ,Ahri,Yasuo,Caitlyn,Thresh,Senna
+2020.0,summer,OPL,10,ORDER,Dire Wolves,1.0,34:12,OK,blue,ORD,   DEFEAT   ,51.3k,2,  2 ,  0 ,  0 ,  2 ,  2 ,Trundle,Syndra,Camille,Mordekaiser,Aatrox
+2020.0,summer,OPL,10,ORDER,Dire Wolves,1.0,34:12,OK,red,DW,   VICTORY   ,65.7k,19,  9 ,  1 ,  2 ,  3 ,  0 ,Nidalee,Renekton,Volibear,Thresh,Ornn
+2020.0,summer,OPL,10,Legacy Esports,Avant Gaming,1.0,23:34,OK,blue,LGC,   VICTORY   ,48.0k,18,  11 ,  3 ,  1 ,  2 ,  2 ,Sett,Leblanc,Taliyah,Volibear,Trundle
+2020.0,summer,OPL,10,Legacy Esports,Avant Gaming,1.0,23:34,OK,red,AV,   DEFEAT   ,36.2k,3,  0 ,  0 ,  0 ,  1 ,  0 ,Karma,Gangplank,Nidalee,Olaf,Bard
+2020.0,summer,OPL,10,Chiefs Esports,Dire Wolves,1.0,34:11,OK,blue,CHF,   DEFEAT   ,58.9k,14,  3 ,  0 ,  1 ,  3 ,  1 ,Zoe,Sett,Karma,Mordekaiser,LeeSin
+2020.0,summer,OPL,10,Chiefs Esports,Dire Wolves,1.0,34:11,OK,red,DW,   VICTORY   ,61.5k,18,  7 ,  1 ,  0 ,  2 ,  1 ,Volibear,Lux,Orianna,JarvanIV,Camille
+2020.0,summer,OPL,10,Avant Gaming,Pentanet.GG,1.0,26:36,OK,blue,AV,   DEFEAT   ,42.9k,8,  2 ,  0 ,  0 ,  2 ,  1 ,Ashe,LeeSin,Ezreal,MonkeyKing,Malphite
+2020.0,summer,OPL,10,Avant Gaming,Pentanet.GG,1.0,26:36,OK,red,PGG,   VICTORY   ,56.5k,24,  11 ,  3 ,  1 ,  2 ,  1 ,Caitlyn,Kalista,Nidalee,Yuumi,Blitzcrank
+2020.0,summer,OPL,10,Chiefs Esports,Legacy Esports,1.0,30:40,OK,blue,CHF,   VICTORY   ,55.5k,14,  9 ,  2 ,  1 ,  3 ,  1 ,Karma,Thresh,Nidalee,Gangplank,Kennen
+2020.0,summer,OPL,10,Chiefs Esports,Legacy Esports,1.0,30:40,OK,red,LGC,   DEFEAT   ,49.3k,4,  3 ,  0 ,  0 ,  1 ,  1 ,Volibear,Syndra,Yuumi,RekSai,LeeSin

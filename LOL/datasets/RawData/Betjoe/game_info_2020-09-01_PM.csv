@@ -1,0 +1,17 @@
+date,league_name,year,season,team_1,team_2,betting_site,saved_time,special:game_win:home,special:game_win:away,handicap:set_handicap:-2.5:home,handicap:set_handicap:+2.5:away,handicap:set_handicap:-1.5:home,handicap:set_handicap:+1.5:away,handicap:set_handicap:+1.5:home,handicap:set_handicap:-1.5:away,0-3,1-3,2-3,3-0,,over_under:total_sets:3.5:over,over_under:total_sets:3.5:under,over_under:total_sets:4.5:over,over_under:total_sets:4.5:under,3-1,3-2,handicap:set_handicap:+2.5:home,handicap:set_handicap:-2.5:away
+2020-09-05,LCK,2020.0,summer,Damwon,DragonX,betjoe,2020-09-01 23:00:00,-455,+287,+221,-323,-169,+122,-1250,+570,+1500,+900,+700,+210,,-250,+178,+211,-303,,,,
+2020-09-07,LCK,2020.0,summer,Afreeca,KT,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-06,LEC,2020.0,summer,G2,Rogue,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-03,VCS,2020.0,summer,GAM Esports,EVOS Esports,betjoe,2020-09-01 23:00:00,-400,+258,+199,-294,-159,+115,-1111,+519,+1200,+750,+580,+200,,-233,+163,+205,-303,+240,+360,,
+2020-09-02,LVP SuperLiga,2020.0,summer,Giants Gaming,G2 Arctic,betjoe,2020-09-01 23:00:00,,,+190,-270,-189,+136,-1429,+602,+1400,+850,+650,+190,,-222,+158,+223,-323,+210,+360,,
+2020-09-06,CBLOL,2020.0,summer,PAIN,INTZ,betjoe,2020-09-01 23:00:00,-250,+174,+290,-476,-108,-128,-625,+357,+850,+550,+480,+280,,-303,+203,+177,-256,,,,
+2020-09-05,TCL,2020.0,summer,5 Ronin,Papara SuperMassive,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-05,LJL,2020.0,summer,Sengoku Gaming,Detonation FocusMe,betjoe,2020-09-01 23:00:00,+115,-159,+624,-1667,+242,-370,-192,+138,+380,+300,,,,-333,+222,+162,-233,+400,+378,-667,+377
+2020-09-02,LFL,2020.0,summer,IziDream,Team MCES,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-02,LFL,2020.0,summer,LDLC OL,Solary,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-02,LFL,2020.0,summer,Misfits Premier,GameWard,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-02,LFL,2020.0,summer,Vitality Bee,GamersOrigin,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-03,LFL,2020.0,summer,LDLC OL,IziDream,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-03,LFL,2020.0,summer,Misfits Premier,Team MCES,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-03,LFL,2020.0,summer,Vitality Bee,Solary,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,
+2020-09-03,LFL,2020.0,summer,GameWard,GamersOrigin,betjoe,2020-09-01 23:00:00,,,,,,,,,,,,,,,,,,,,,

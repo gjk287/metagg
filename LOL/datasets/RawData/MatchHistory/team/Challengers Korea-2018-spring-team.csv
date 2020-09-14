@@ -1,0 +1,255 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,Challengers Korea,1,Rising Star Gaming,Team BattleComics,1.0,42:40,OK,blue,RSG,   DEFEAT   ,82.2k,15,  5 ,  0 ,  1 ,  0 ,  0 ,Camille,KogMaw,Ornn,Jayce,Ezreal
+2018.0,spring,Challengers Korea,1,Rising Star Gaming,Team BattleComics,1.0,42:40,OK,red,BtC,   VICTORY   ,89.6k,19,  11 ,  3 ,  1 ,  4 ,  1 ,TahmKench,Zoe,Xerath,Braum,Taric
+2018.0,spring,Challengers Korea,1,Rising Star Gaming,Team BattleComics,2.0,27:26,OK,blue,BtC,   VICTORY   ,55.5k,14,  8 ,  1 ,  1 ,  2 ,  1 ,TahmKench,Xerath,Shen,Janna,Braum
+2018.0,spring,Challengers Korea,1,Rising Star Gaming,Team BattleComics,2.0,27:26,OK,red,RSG,   DEFEAT   ,44.8k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Ornn,Kalista,Camille,Sion
+2018.0,spring,Challengers Korea,1,Griffin,SeolHaeOne Prince,1.0,28:45,OK,blue,FIN,   VICTORY   ,60.2k,12,  9 ,  2 ,  1 ,  3 ,  0 ,Ornn,Gangplank,TahmKench,Varus,Ryze
+2018.0,spring,Challengers Korea,1,Griffin,SeolHaeOne Prince,1.0,28:45,OK,red,APK,   DEFEAT   ,49.2k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Kalista,Cassiopeia,Ezreal,Gnar,Jax
+2018.0,spring,Challengers Korea,1,Griffin,SeolHaeOne Prince,2.0,28:14,OK,blue,APK,   DEFEAT   ,45.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Cassiopeia,KogMaw,Camille,Ryze,Tristana
+2018.0,spring,Challengers Korea,1,Griffin,SeolHaeOne Prince,2.0,28:14,OK,red,FIN,   VICTORY   ,66.0k,19,  11 ,  1 ,  1 ,  3 ,  1 ,Kalista,TahmKench,JarvanIV,Vladimir,Gnar
+2018.0,spring,Challengers Korea,1,Damwon,Ever8,1.0,37:13,OK,blue,DWG,   DEFEAT   ,66.1k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Sejuani,Taliyah,Shen,Braum
+2018.0,spring,Challengers Korea,1,Damwon,Ever8,1.0,37:13,OK,red,EEW,   VICTORY   ,73.8k,16,  10 ,  1 ,  2 ,  2 ,  0 ,Kalista,Malzahar,Zoe,Kassadin,Jayce
+2018.0,spring,Challengers Korea,1,Damwon,Ever8,2.0,35:17,OK,blue,EEW,   DEFEAT   ,60.8k,2,  5 ,  0 ,  1 ,  1 ,  1 ,Malzahar,Zoe,Shen,Vladimir,Taliyah
+2018.0,spring,Challengers Korea,1,Damwon,Ever8,2.0,35:17,OK,red,DWG,   VICTORY   ,66.7k,9,  8 ,  1 ,  0 ,  2 ,  0 ,Anivia,Camille,Ezreal,JarvanIV,Nidalee
+2018.0,spring,Challengers Korea,1,Damwon,Ever8,3.0,25:36,OK,blue,DWG,   VICTORY   ,53.0k,15,  8 ,  1 ,  1 ,  2 ,  0 ,Camille,Anivia,Ezreal,Yorick,JarvanIV
+2018.0,spring,Challengers Korea,1,Damwon,Ever8,3.0,25:36,OK,red,EEW,   DEFEAT   ,43.8k,8,  2 ,  0 ,  0 ,  1 ,  1 ,Malzahar,Zoe,Shen,Katarina,Kassadin
+2018.0,spring,Challengers Korea,1,REVERSE Gaming,ES Sharks,1.0,31:52,OK,blue,RGA,   VICTORY   ,65.8k,13,  8 ,  1 ,  1 ,  3 ,  1 ,Zac,Gangplank,Camille,Taric,Shen
+2018.0,spring,Challengers Korea,1,REVERSE Gaming,ES Sharks,1.0,31:52,OK,red,ESS,   DEFEAT   ,55.5k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Kalista,Zoe,Ornn,JarvanIV,Khazix
+2018.0,spring,Challengers Korea,1,REVERSE Gaming,ES Sharks,2.0,34:57,OK,blue,ESS,   DEFEAT   ,58.9k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Zoe,Ornn,Braum,Alistar,TahmKench
+2018.0,spring,Challengers Korea,1,REVERSE Gaming,ES Sharks,2.0,34:57,OK,red,RGA,   VICTORY   ,72.9k,15,  10 ,  2 ,  2 ,  3 ,  1 ,Kalista,Camille,Zac,Jayce,JarvanIV
+2018.0,spring,Challengers Korea,2,Ever8,Team BattleComics,1.0,39:19,OK,blue,EEW,   DEFEAT   ,64.4k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Azir,Sejuani,Zoe,Kalista,Rakan
+2018.0,spring,Challengers Korea,2,Ever8,Team BattleComics,1.0,39:19,OK,red,BtC,   VICTORY   ,88.3k,15,  11 ,  3 ,  2 ,  4 ,  0 ,Anivia,TahmKench,KogMaw,Vladimir,Ornn
+2018.0,spring,Challengers Korea,2,Ever8,Team BattleComics,2.0,27:38,OK,blue,BtC,   VICTORY   ,58.1k,6,  9 ,  2 ,  1 ,  2 ,  1 ,Anivia,TahmKench,Ornn,Ezreal,Varus
+2018.0,spring,Challengers Korea,2,Ever8,Team BattleComics,2.0,27:38,OK,red,EEW,   DEFEAT   ,45.0k,1,  1 ,  0 ,  0 ,  0 ,  0 ,KogMaw,Sejuani,Kalista,Shen,Rakan
+2018.0,spring,Challengers Korea,2,Rising Star Gaming,REVERSE Gaming,1.0,42:01,OK,blue,RSG,   VICTORY   ,81.7k,14,  11 ,  3 ,  1 ,  0 ,  1 ,Gangplank,Ezreal,KogMaw,JarvanIV,Shyvana
+2018.0,spring,Challengers Korea,2,Rising Star Gaming,REVERSE Gaming,1.0,42:01,OK,red,RGA,   DEFEAT   ,73.0k,7,  4 ,  0 ,  0 ,  1 ,  0 ,Kalista,Zoe,TahmKench,Alistar,Taric
+2018.0,spring,Challengers Korea,2,Rising Star Gaming,REVERSE Gaming,2.0,41:20,OK,blue,RGA,   DEFEAT   ,76.2k,12,  3 ,  0 ,  0 ,  0 ,  0 ,Azir,Camille,Kalista,Shen,Jayce
+2018.0,spring,Challengers Korea,2,Rising Star Gaming,REVERSE Gaming,2.0,41:20,OK,red,RSG,   VICTORY   ,88.3k,16,  11 ,  3 ,  2 ,  5 ,  1 ,Ezreal,Sejuani,KogMaw,Sivir,Vayne
+2018.0,spring,Challengers Korea,2,Damwon,ES Sharks,1.0,25:47,OK,blue,DWG,   VICTORY   ,54.1k,7,  8 ,  1 ,  1 ,  1 ,  1 ,Zac,Azir,Camille,KogMaw,Varus
+2018.0,spring,Challengers Korea,2,Damwon,ES Sharks,1.0,25:47,OK,red,ESS,   DEFEAT   ,41.0k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Jayce,Ezreal,Gnar,Gangplank
+2018.0,spring,Challengers Korea,2,Damwon,ES Sharks,2.0,27:53,OK,blue,ESS,   DEFEAT   ,46.4k,4,  0 ,  0 ,  0 ,  2 ,  1 ,Zoe,Jayce,Camille,Katarina,Gnar
+2018.0,spring,Challengers Korea,2,Damwon,ES Sharks,2.0,27:53,OK,red,DWG,   VICTORY   ,65.0k,15,  10 ,  1 ,  1 ,  1 ,  0 ,Zac,Azir,Sejuani,Ryze,Taliyah
+2018.0,spring,Challengers Korea,2,Rising Star Gaming,SeolHaeOne Prince,1.0,55:27,OK,blue,RSG,   DEFEAT   ,104.6k,17,  7 ,  1 ,  2 ,  2 ,  1 ,Gangplank,Ezreal,KogMaw,Camille,Jayce
+2018.0,spring,Challengers Korea,2,Rising Star Gaming,SeolHaeOne Prince,1.0,55:27,OK,red,APK,   VICTORY   ,110.1k,15,  9 ,  1 ,  2 ,  2 ,  0 ,Gnar,Kalista,JarvanIV,Ornn,Shen
+2018.0,spring,Challengers Korea,2,Rising Star Gaming,SeolHaeOne Prince,2.0,32:13,OK,blue,APK,   VICTORY   ,67.4k,13,  9 ,  1 ,  1 ,  2 ,  1 ,Gnar,JarvanIV,Kalista,Varus,Tristana
+2018.0,spring,Challengers Korea,2,Rising Star Gaming,SeolHaeOne Prince,2.0,32:13,OK,red,RSG,   DEFEAT   ,55.9k,5,  2 ,  0 ,  0 ,  1 ,  0 ,Ezreal,Sejuani,KogMaw,Nidalee,Shyvana
+2018.0,spring,Challengers Korea,2,Team BattleComics,Griffin,1.0,38:16,OK,blue,BtC,   DEFEAT   ,70.7k,6,  4 ,  0 ,  1 ,  1 ,  0 ,Ornn,TahmKench,Taric,Camille,Gnar
+2018.0,spring,Challengers Korea,2,Team BattleComics,Griffin,1.0,38:16,OK,red,FIN,   VICTORY   ,80.2k,17,  7 ,  1 ,  1 ,  3 ,  0 ,Ryze,Kalista,KogMaw,Varus,Sivir
+2018.0,spring,Challengers Korea,2,Team BattleComics,Griffin,2.0,29:01,OK,blue,FIN,   VICTORY   ,60.5k,12,  9 ,  1 ,  1 ,  2 ,  0 ,Ryze,Ornn,Gangplank,Varus,Ezreal
+2018.0,spring,Challengers Korea,2,Team BattleComics,Griffin,2.0,29:01,OK,red,BtC,   DEFEAT   ,47.0k,2,  0 ,  0 ,  0 ,  0 ,  0 ,TahmKench,Taric,KogMaw,Braum,Janna
+2018.0,spring,Challengers Korea,2,REVERSE Gaming,Ever8,1.0,46:06,OK,blue,RGA,   DEFEAT   ,85.9k,3,  6 ,  0 ,  1 ,  3 ,  1 ,Anivia,Camille,Kalista,Varus,Galio
+2018.0,spring,Challengers Korea,2,REVERSE Gaming,Ever8,1.0,46:06,OK,red,EEW,   VICTORY   ,89.1k,5,  9 ,  1 ,  2 ,  1 ,  0 ,KogMaw,Zoe,Sejuani,Illaoi,Shen
+2018.0,spring,Challengers Korea,2,REVERSE Gaming,Ever8,2.0,34:15,OK,blue,EEW,   VICTORY   ,66.3k,14,  7 ,  1 ,  1 ,  1 ,  0 ,Zoe,Gangplank,Sejuani,Azir,Taliyah
+2018.0,spring,Challengers Korea,2,REVERSE Gaming,Ever8,2.0,34:15,OK,red,RGA,   DEFEAT   ,61.9k,12,  4 ,  0 ,  0 ,  2 ,  1 ,Kalista,Camille,KogMaw,Anivia,Gnar
+2018.0,spring,Challengers Korea,3,SeolHaeOne Prince,Damwon,1.0,37:23,OK,blue,APK,   DEFEAT   ,69.2k,7,  3 ,  0 ,  1 ,  0 ,  0 ,Gnar,Zoe,Kalista,Zac,Khazix
+2018.0,spring,Challengers Korea,3,SeolHaeOne Prince,Damwon,1.0,37:23,OK,red,DWG,   VICTORY   ,80.9k,20,  11 ,  2 ,  0 ,  3 ,  0 ,Azir,Sejuani,Vladimir,TahmKench,Taliyah
+2018.0,spring,Challengers Korea,3,SeolHaeOne Prince,Damwon,2.0,26:45,OK,blue,DWG,   VICTORY   ,62.0k,20,  10 ,  2 ,  1 ,  2 ,  1 ,Azir,Sejuani,Ryze,Alistar,Shen
+2018.0,spring,Challengers Korea,3,SeolHaeOne Prince,Damwon,2.0,26:45,OK,red,APK,   DEFEAT   ,43.8k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Galio,Zoe,Khazix,Kassadin
+2018.0,spring,Challengers Korea,3,Team BattleComics,ES Sharks,1.0,29:26,OK,blue,BtC,   VICTORY   ,63.8k,20,  11 ,  3 ,  1 ,  1 ,  1 ,Zac,Camille,Ryze,Corki,Ornn
+2018.0,spring,Challengers Korea,3,Team BattleComics,ES Sharks,1.0,29:26,OK,red,ESS,   DEFEAT   ,46.8k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Gangplank,Azir,Vladimir,Alistar
+2018.0,spring,Challengers Korea,3,Team BattleComics,ES Sharks,2.0,39:43,OK,blue,ESS,   VICTORY   ,84.0k,25,  7 ,  1 ,  2 ,  2 ,  0 ,Zoe,Galio,KogMaw,Yorick,Ornn
+2018.0,spring,Challengers Korea,3,Team BattleComics,ES Sharks,2.0,39:43,OK,red,BtC,   DEFEAT   ,75.4k,13,  2 ,  0 ,  0 ,  3 ,  1 ,Zac,Camille,Sejuani,Taric,Alistar
+2018.0,spring,Challengers Korea,3,Team BattleComics,ES Sharks,3.0,39:05,OK,blue,BtC,   DEFEAT   ,73.3k,9,  6 ,  0 ,  1 ,  3 ,  0 ,Zac,Camille,Azir,TahmKench,Taric
+2018.0,spring,Challengers Korea,3,Team BattleComics,ES Sharks,3.0,39:05,OK,red,ESS,   VICTORY   ,75.8k,19,  8 ,  1 ,  1 ,  0 ,  1 ,Zoe,Gangplank,Galio,Ezreal,Kalista
+2018.0,spring,Challengers Korea,3,Griffin,Rising Star Gaming,1.0,37:19,OK,blue,FIN,   VICTORY   ,81.0k,12,  11 ,  2 ,  2 ,  3 ,  1 ,Ryze,Zoe,Varus,Ornn,Gangplank
+2018.0,spring,Challengers Korea,3,Griffin,Rising Star Gaming,1.0,37:19,OK,red,RSG,   DEFEAT   ,61.2k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Galio,KogMaw,Ezreal,Taric,Braum
+2018.0,spring,Challengers Korea,3,Griffin,Rising Star Gaming,2.0,45:13,OK,blue,RSG,   DEFEAT   ,81.9k,7,  2 ,  0 ,  2 ,  1 ,  0 ,Galio,Ezreal,Vladimir,Sivir,Caitlyn
+2018.0,spring,Challengers Korea,3,Griffin,Rising Star Gaming,2.0,45:13,OK,red,FIN,   VICTORY   ,93.6k,16,  11 ,  5 ,  1 ,  3 ,  1 ,KogMaw,Zoe,Kalista,Sejuani,TahmKench
+2018.0,spring,Challengers Korea,3,ES Sharks,Ever8,1.0,34:14,OK,blue,ESS,   VICTORY   ,68.5k,18,  9 ,  2 ,  0 ,  0 ,  0 ,Anivia,Gangplank,Malzahar,Ornn,Braum
+2018.0,spring,Challengers Korea,3,ES Sharks,Ever8,1.0,34:14,OK,red,EEW,   DEFEAT   ,66.6k,12,  5 ,  0 ,  2 ,  2 ,  0 ,Azir,Zac,Taliyah,KogMaw,Kalista
+2018.0,spring,Challengers Korea,3,ES Sharks,Ever8,2.0,27:33,OK,blue,EEW,   DEFEAT   ,44.5k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,Zac,Vladimir,Taric,Kalista
+2018.0,spring,Challengers Korea,3,ES Sharks,Ever8,2.0,27:33,OK,red,ESS,   VICTORY   ,64.8k,18,  11 ,  2 ,  1 ,  3 ,  1 ,Zoe,JarvanIV,Galio,Gnar,Camille
+2018.0,spring,Challengers Korea,3,SeolHaeOne Prince,Team BattleComics,1.0,33:00,OK,blue,APK,   DEFEAT   ,55.6k,2,  3 ,  0 ,  0 ,  0 ,  0 ,Gnar,Kalista,KogMaw,Zac,Khazix
+2018.0,spring,Challengers Korea,3,SeolHaeOne Prince,Team BattleComics,1.0,33:00,OK,red,BtC,   VICTORY   ,71.6k,10,  10 ,  2 ,  2 ,  4 ,  1 ,Vladimir,JarvanIV,Galio,TahmKench,Alistar
+2018.0,spring,Challengers Korea,3,SeolHaeOne Prince,Team BattleComics,2.0,44:34,OK,blue,BtC,   VICTORY   ,92.7k,17,  9 ,  1 ,  1 ,  1 ,  0 ,Corki,Taliyah,TahmKench,Braum,Alistar
+2018.0,spring,Challengers Korea,3,SeolHaeOne Prince,Team BattleComics,2.0,44:34,OK,red,APK,   DEFEAT   ,81.9k,6,  6 ,  0 ,  1 ,  3 ,  0 ,Gnar,Kalista,Zoe,Jax,Zac
+2018.0,spring,Challengers Korea,3,Damwon,REVERSE Gaming,1.0,28:46,OK,blue,DWG,   VICTORY   ,63.9k,15,  11 ,  3 ,  1 ,  1 ,  0 ,Azir,Ryze,KogMaw,Gnar,Ornn
+2018.0,spring,Challengers Korea,3,Damwon,REVERSE Gaming,1.0,28:46,OK,red,RGA,   DEFEAT   ,47.1k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Gangplank,Sejuani,Kalista,Alistar,Shen
+2018.0,spring,Challengers Korea,3,Damwon,REVERSE Gaming,2.0,37:59,OK,blue,RGA,   DEFEAT   ,67.6k,14,  4 ,  0 ,  0 ,  1 ,  1 ,Gangplank,Sejuani,Zoe,Corki,Illaoi
+2018.0,spring,Challengers Korea,3,Damwon,REVERSE Gaming,2.0,37:59,OK,red,DWG,   VICTORY   ,80.3k,12,  9 ,  1 ,  2 ,  2 ,  0 ,Azir,Ryze,KogMaw,Camille,Jayce
+2018.0,spring,Challengers Korea,4,Ever8,Rising Star Gaming,1.0,42:37,OK,blue,EEW,   DEFEAT   ,73.9k,5,  2 ,  0 ,  1 ,  0 ,  0 ,KogMaw,Vladimir,Sejuani,Nidalee,Zac
+2018.0,spring,Challengers Korea,4,Ever8,Rising Star Gaming,1.0,42:37,OK,red,RSG,   VICTORY   ,85.2k,14,  11 ,  3 ,  2 ,  5 ,  1 ,Anivia,Camille,Taliyah,Kalista,Xayah
+2018.0,spring,Challengers Korea,4,Ever8,Rising Star Gaming,2.0,44:26,OK,blue,RSG,   VICTORY   ,89.0k,22,  10 ,  4 ,  3 ,  4 ,  1 ,Anivia,Camille,Taliyah,Kalista,Xayah
+2018.0,spring,Challengers Korea,4,Ever8,Rising Star Gaming,2.0,44:26,OK,red,EEW,   DEFEAT   ,79.3k,16,  3 ,  0 ,  0 ,  2 ,  0 ,Azir,Vladimir,KogMaw,Alistar,JarvanIV
+2018.0,spring,Challengers Korea,4,Griffin,Damwon,1.0,34:27,OK,blue,FIN,   VICTORY   ,67.4k,12,  8 ,  1 ,  1 ,  1 ,  0 ,Zoe,TahmKench,Ryze,Ezreal,KogMaw
+2018.0,spring,Challengers Korea,4,Griffin,Damwon,1.0,34:27,OK,red,DWG,   DEFEAT   ,57.3k,5,  3 ,  0 ,  0 ,  2 ,  1 ,Azir,Galio,Taliyah,Jayce,Corki
+2018.0,spring,Challengers Korea,4,Griffin,Damwon,2.0,35:03,OK,blue,DWG,   DEFEAT   ,62.1k,6,  2 ,  0 ,  1 ,  0 ,  0 ,Taliyah,Galio,Shen,KogMaw,Kalista
+2018.0,spring,Challengers Korea,4,Griffin,Damwon,2.0,35:03,OK,red,FIN,   VICTORY   ,66.5k,8,  7 ,  1 ,  0 ,  4 ,  0 ,Zoe,Vladimir,Azir,Varus,Camille
+2018.0,spring,Challengers Korea,4,SeolHaeOne Prince,REVERSE Gaming,1.0,41:28,OK,blue,APK,   VICTORY   ,76.7k,18,  7 ,  2 ,  1 ,  3 ,  0 ,Gnar,Kalista,Azir,TahmKench,Alistar
+2018.0,spring,Challengers Korea,4,SeolHaeOne Prince,REVERSE Gaming,1.0,41:28,OK,red,RGA,   DEFEAT   ,77.4k,16,  2 ,  0 ,  1 ,  2 ,  0 ,Sejuani,KogMaw,Varus,Rakan,Shen
+2018.0,spring,Challengers Korea,4,SeolHaeOne Prince,REVERSE Gaming,2.0,37:34,OK,blue,RGA,   DEFEAT   ,66.8k,11,  4 ,  0 ,  1 ,  1 ,  1 ,Camille,Azir,Galio,Rakan,Ezreal
+2018.0,spring,Challengers Korea,4,SeolHaeOne Prince,REVERSE Gaming,2.0,37:34,OK,red,APK,   VICTORY   ,74.1k,17,  9 ,  1 ,  1 ,  2 ,  0 ,KogMaw,Kalista,Sejuani,Vladimir,Jayce
+2018.0,spring,Challengers Korea,4,Griffin,Ever8,1.0,29:53,OK,blue,FIN,   VICTORY   ,64.0k,25,  8 ,  1 ,  0 ,  2 ,  1 ,Anivia,Zoe,Ryze,TahmKench,Kalista
+2018.0,spring,Challengers Korea,4,Griffin,Ever8,1.0,29:53,OK,red,EEW,   DEFEAT   ,44.2k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Galio,Azir,Shen,Taric
+2018.0,spring,Challengers Korea,4,Griffin,Ever8,2.0,22:26,OK,blue,EEW,   DEFEAT   ,31.3k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Galio,Gangplank,Gnar,Sejuani
+2018.0,spring,Challengers Korea,4,Griffin,Ever8,2.0,22:26,OK,red,FIN,   VICTORY   ,48.9k,21,  8 ,  1 ,  0 ,  2 ,  1 ,Anivia,Zoe,Azir,Fiora,Varus
+2018.0,spring,Challengers Korea,4,Rising Star Gaming,ES Sharks,1.0,42:53,OK,blue,RSG,   VICTORY   ,83.8k,14,  10 ,  2 ,  3 ,  0 ,  0 ,Camille,Taliyah,Zoe,Rakan,Kalista
+2018.0,spring,Challengers Korea,4,Rising Star Gaming,ES Sharks,1.0,42:53,OK,red,ESS,   DEFEAT   ,73.8k,10,  4 ,  0 ,  0 ,  4 ,  1 ,Varus,Gnar,Azir,Shen,Braum
+2018.0,spring,Challengers Korea,4,Rising Star Gaming,ES Sharks,2.0,37:04,OK,blue,ESS,   VICTORY   ,76.2k,20,  9 ,  1 ,  1 ,  1 ,  1 ,Gnar,Galio,Zoe,Varus,Ezreal
+2018.0,spring,Challengers Korea,4,Rising Star Gaming,ES Sharks,2.0,37:04,OK,red,RSG,   DEFEAT   ,65.0k,16,  5 ,  0 ,  0 ,  2 ,  0 ,Camille,Azir,Taliyah,Kalista,Xayah
+2018.0,spring,Challengers Korea,4,Rising Star Gaming,ES Sharks,3.0,45:09,OK,blue,RSG,   VICTORY   ,80.7k,15,  9 ,  1 ,  1 ,  2 ,  0 ,Camille,Taliyah,Zoe,Braum,Taric
+2018.0,spring,Challengers Korea,4,Rising Star Gaming,ES Sharks,3.0,45:09,OK,red,ESS,   DEFEAT   ,83.2k,14,  7 ,  1 ,  2 ,  3 ,  1 ,Gnar,Gangplank,Azir,Jayce,Rumble
+2018.0,spring,Challengers Korea,4,Team BattleComics,Damwon,1.0,32:01,OK,blue,BtC,   DEFEAT   ,49.8k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Zoe,Vladimir,Camille,TahmKench,Jayce
+2018.0,spring,Challengers Korea,4,Team BattleComics,Damwon,1.0,32:01,OK,red,DWG,   VICTORY   ,68.4k,13,  11 ,  3 ,  1 ,  2 ,  0 ,Azir,Gangplank,Gnar,Kalista,Varus
+2018.0,spring,Challengers Korea,4,Team BattleComics,Damwon,2.0,38:01,OK,blue,DWG,   DEFEAT   ,63.4k,6,  3 ,  0 ,  0 ,  2 ,  0 ,Galio,Sejuani,Gangplank,JarvanIV,Jax
+2018.0,spring,Challengers Korea,4,Team BattleComics,Damwon,2.0,38:01,OK,red,BtC,   VICTORY   ,75.6k,14,  9 ,  1 ,  2 ,  2 ,  0 ,Vladimir,Zoe,TahmKench,Xayah,KogMaw
+2018.0,spring,Challengers Korea,4,Team BattleComics,Damwon,3.0,37:52,OK,blue,BtC,   DEFEAT   ,61.8k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Vladimir,Zoe,TahmKench,Braum,Sion
+2018.0,spring,Challengers Korea,4,Team BattleComics,Damwon,3.0,37:52,OK,red,DWG,   VICTORY   ,77.7k,17,  9 ,  1 ,  2 ,  1 ,  0 ,Gangplank,Azir,Gnar,Xayah,Kalista
+2018.0,spring,Challengers Korea,5,ES Sharks,SeolHaeOne Prince,1.0,50:08,OK,blue,ESS,   VICTORY   ,96.8k,16,  10 ,  5 ,  3 ,  4 ,  1 ,Galio,Camille,Zoe,Ryze,Corki
+2018.0,spring,Challengers Korea,5,ES Sharks,SeolHaeOne Prince,1.0,50:08,OK,red,APK,   DEFEAT   ,91.7k,20,  5 ,  1 ,  0 ,  1 ,  0 ,Taliyah,Ezreal,Kalista,Xayah,KogMaw
+2018.0,spring,Challengers Korea,5,ES Sharks,SeolHaeOne Prince,2.0,32:16,OK,blue,APK,   DEFEAT   ,50.8k,10,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,KogMaw,Taliyah,Ezreal,Xayah
+2018.0,spring,Challengers Korea,5,ES Sharks,SeolHaeOne Prince,2.0,32:16,OK,red,ESS,   VICTORY   ,69.6k,19,  11 ,  3 ,  2 ,  3 ,  1 ,Zoe,Galio,Camille,Vladimir,TahmKench
+2018.0,spring,Challengers Korea,5,REVERSE Gaming,Griffin,1.0,24:47,OK,blue,RGA,   DEFEAT   ,38.2k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Gangplank,Shen,Camille,Kalista,KogMaw
+2018.0,spring,Challengers Korea,5,REVERSE Gaming,Griffin,1.0,24:47,OK,red,FIN,   VICTORY   ,49.9k,13,  8 ,  1 ,  0 ,  2 ,  0 ,Zoe,Ryze,Khazix,Jayce,Sion
+2018.0,spring,Challengers Korea,5,REVERSE Gaming,Griffin,2.0,32:18,OK,blue,FIN,   VICTORY   ,64.6k,18,  8 ,  2 ,  2 ,  3 ,  1 ,Zoe,Ryze,Khazix,Kalista,TahmKench
+2018.0,spring,Challengers Korea,5,REVERSE Gaming,Griffin,2.0,32:18,OK,red,RGA,   DEFEAT   ,52.4k,11,  1 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Shen,Galio,Xayah,KogMaw
+2018.0,spring,Challengers Korea,6,Team BattleComics,REVERSE Gaming,1.0,30:48,OK,blue,BtC,   VICTORY   ,61.2k,17,  9 ,  1 ,  1 ,  3 ,  1 ,Taliyah,Sion,Zoe,Varus,Ezreal
+2018.0,spring,Challengers Korea,6,Team BattleComics,REVERSE Gaming,1.0,30:48,OK,red,RGA,   DEFEAT   ,48.2k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Galio,Shen,Gangplank,Azir,Gnar
+2018.0,spring,Challengers Korea,6,Team BattleComics,REVERSE Gaming,2.0,42:40,OK,blue,RGA,   DEFEAT   ,78.0k,17,  5 ,  0 ,  1 ,  2 ,  1 ,Shen,Rakan,Camille,Taric,Ezreal
+2018.0,spring,Challengers Korea,6,Team BattleComics,REVERSE Gaming,2.0,42:40,OK,red,BtC,   VICTORY   ,83.1k,31,  9 ,  1 ,  1 ,  2 ,  0 ,Zoe,Skarner,Galio,TahmKench,Alistar
+2018.0,spring,Challengers Korea,6,Ever8,SeolHaeOne Prince,1.0,39:15,OK,blue,EEW,   VICTORY   ,80.8k,14,  11 ,  5 ,  1 ,  3 ,  1 ,Galio,Azir,Ezreal,Vladimir,Sejuani
+2018.0,spring,Challengers Korea,6,Ever8,SeolHaeOne Prince,1.0,39:15,OK,red,APK,   DEFEAT   ,69.7k,9,  5 ,  1 ,  1 ,  1 ,  0 ,Anivia,Taliyah,Ryze,Xayah,Tristana
+2018.0,spring,Challengers Korea,6,Ever8,SeolHaeOne Prince,2.0,29:57,OK,blue,APK,   DEFEAT   ,48.7k,7,  1 ,  0 ,  0 ,  1 ,  0 ,Anivia,Ornn,Yorick,,
+2018.0,spring,Challengers Korea,6,Ever8,SeolHaeOne Prince,2.0,29:57,OK,red,EEW,   VICTORY   ,62.3k,18,  10 ,  2 ,  2 ,  2 ,  0 ,Galio,Gangplank,Azir,Varus,Rakan
+2018.0,spring,Challengers Korea,6,ES Sharks,Griffin,1.0,27:59,OK,blue,ESS,   DEFEAT   ,42.4k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Shen,Khazix,Galio,Vayne,Xayah
+2018.0,spring,Challengers Korea,6,ES Sharks,Griffin,1.0,27:59,OK,red,FIN,   VICTORY   ,60.3k,19,  10 ,  2 ,  1 ,  3 ,  0 ,Zoe,Gangplank,Azir,Ryze,Taliyah
+2018.0,spring,Challengers Korea,6,ES Sharks,Griffin,2.0,26:24,OK,blue,FIN,   VICTORY   ,57.2k,19,  10 ,  2 ,  1 ,  3 ,  1 ,Zoe,Gangplank,TahmKench,Ryze,Taliyah
+2018.0,spring,Challengers Korea,6,ES Sharks,Griffin,2.0,26:24,OK,red,ESS,   DEFEAT   ,38.1k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Shen,Galio,Skarner,Ezreal,Kalista
+2018.0,spring,Challengers Korea,6,Damwon,Rising Star Gaming,1.0,33:06,OK,blue,DWG,   VICTORY   ,65.3k,12,  10 ,  2 ,  1 ,  2 ,  1 ,Corki,Vladimir,Azir,TahmKench,Alistar
+2018.0,spring,Challengers Korea,6,Damwon,Rising Star Gaming,1.0,33:06,OK,red,RSG,   DEFEAT   ,52.5k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Kalista,Galio,Caitlyn,Xayah
+2018.0,spring,Challengers Korea,6,Damwon,Rising Star Gaming,2.0,27:16,OK,blue,RSG,   DEFEAT   ,41.2k,1,  1 ,  0 ,  0 ,  1 ,  1 ,Camille,Kalista,Skarner,Ryze,Taliyah
+2018.0,spring,Challengers Korea,6,Damwon,Rising Star Gaming,2.0,27:16,OK,red,DWG,   VICTORY   ,60.9k,12,  11 ,  3 ,  1 ,  2 ,  0 ,Azir,Sejuani,Zoe,JarvanIV,Zac
+2018.0,spring,Challengers Korea,7,ES Sharks,Team BattleComics,1.0,32:02,OK,blue,ESS,   VICTORY   ,63.3k,19,  7 ,  1 ,  0 ,  2 ,  1 ,Shen,Xayah,Galio,Ezreal,Braum
+2018.0,spring,Challengers Korea,7,ES Sharks,Team BattleComics,1.0,32:02,OK,red,BtC,   DEFEAT   ,52.0k,3,  2 ,  0 ,  1 ,  1 ,  0 ,Ryze,Azir,Taliyah,Malzahar,Corki
+2018.0,spring,Challengers Korea,7,ES Sharks,Team BattleComics,2.0,30:15,OK,blue,BtC,   VICTORY   ,61.8k,11,  10 ,  2 ,  1 ,  1 ,  1 ,Taliyah,Camille,TahmKench,Sion,Ornn
+2018.0,spring,Challengers Korea,7,ES Sharks,Team BattleComics,2.0,30:15,OK,red,ESS,   DEFEAT   ,44.3k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Shen,Galio,Gangplank,Ezreal,Kalista
+2018.0,spring,Challengers Korea,7,ES Sharks,Team BattleComics,3.0,34:05,OK,blue,ESS,   DEFEAT   ,52.9k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Shen,Xayah,Camille,Varus,Braum
+2018.0,spring,Challengers Korea,7,ES Sharks,Team BattleComics,3.0,34:05,OK,red,BtC,   VICTORY   ,70.9k,20,  10 ,  2 ,  2 ,  3 ,  1 ,Gangplank,Galio,TahmKench,Vladimir,Azir
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Ever8,1.0,31:03,OK,blue,APK,   DEFEAT   ,48.5k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Anivia,Caitlyn,Vladimir,
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Ever8,1.0,31:03,OK,red,EEW,   VICTORY   ,64.2k,11,  10 ,  2 ,  2 ,  3 ,  1 ,Galio,Gangplank,Camille,Varus,Ezreal
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Ever8,2.0,37:11,OK,blue,EEW,   DEFEAT   ,65.9k,11,  4 ,  0 ,  1 ,  3 ,  0 ,Galio,Camille,Taliyah,Braum,Thresh
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Ever8,2.0,37:11,OK,red,APK,   VICTORY   ,69.6k,12,  8 ,  1 ,  1 ,  1 ,  1 ,Kalista,Zoe,Gangplank,Anivia,Gnar
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Ever8,3.0,50:11,OK,blue,APK,   VICTORY   ,97.8k,18,  10 ,  2 ,  1 ,  3 ,  0 ,Kalista,Zoe,Skarner,Gnar,Sion
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Ever8,3.0,50:11,OK,red,EEW,   DEFEAT   ,88.5k,10,  7 ,  1 ,  2 ,  2 ,  1 ,Galio,Gangplank,Azir,Varus,Xayah
+2018.0,spring,Challengers Korea,7,Ever8,Damwon,1.0,30:25,OK,blue,EEW,   DEFEAT   ,50.7k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Zoe,Vladimir,Gnar,Taliyah,Ryze
+2018.0,spring,Challengers Korea,7,Ever8,Damwon,1.0,30:25,OK,red,DWG,   VICTORY   ,60.9k,15,  7 ,  1 ,  1 ,  4 ,  1 ,Anivia,Sejuani,Zac,,
+2018.0,spring,Challengers Korea,7,Ever8,Damwon,2.0,37:49,OK,blue,DWG,   DEFEAT   ,63.6k,6,  3 ,  0 ,  1 ,  1 ,  0 ,Anivia,Galio,Rakan,Vladimir,Taliyah
+2018.0,spring,Challengers Korea,7,Ever8,Damwon,2.0,37:49,OK,red,EEW,   VICTORY   ,72.0k,18,  9 ,  1 ,  1 ,  3 ,  1 ,Zoe,Gangplank,Gnar,Ornn,Katarina
+2018.0,spring,Challengers Korea,7,Ever8,Damwon,3.0,34:31,OK,blue,EEW,   VICTORY   ,71.1k,23,  9 ,  1 ,  1 ,  1 ,  0 ,Gangplank,Gnar,Vladimir,Camille,Ornn
+2018.0,spring,Challengers Korea,7,Ever8,Damwon,3.0,34:31,OK,red,DWG,   DEFEAT   ,54.0k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Anivia,Kalista,Xayah,Sejuani,Zac
+2018.0,spring,Challengers Korea,7,Team BattleComics,Rising Star Gaming,1.0,34:52,OK,blue,BtC,   VICTORY   ,70.8k,12,  10 ,  2 ,  1 ,  2 ,  0 ,TahmKench,Sion,Galio,Braum,Varus
+2018.0,spring,Challengers Korea,7,Team BattleComics,Rising Star Gaming,1.0,34:52,OK,red,RSG,   DEFEAT   ,53.9k,0,  1 ,  0 ,  0 ,  1 ,  0 ,Skarner,Xayah,Kalista,JarvanIV,Khazix
+2018.0,spring,Challengers Korea,7,Team BattleComics,Rising Star Gaming,2.0,37:37,OK,blue,RSG,   DEFEAT   ,60.7k,13,  1 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Camille,Shen,Sion,Taliyah
+2018.0,spring,Challengers Korea,7,Team BattleComics,Rising Star Gaming,2.0,37:37,OK,red,BtC,   VICTORY   ,73.1k,12,  9 ,  1 ,  2 ,  3 ,  1 ,TahmKench,Galio,Skarner,Khazix,JarvanIV
+2018.0,spring,Challengers Korea,7,ES Sharks,REVERSE Gaming,1.0,42:04,OK,blue,ESS,   DEFEAT   ,71.4k,8,  3 ,  0 ,  0 ,  2 ,  1 ,Taliyah,Galio,Khazix,TahmKench,Alistar
+2018.0,spring,Challengers Korea,7,ES Sharks,REVERSE Gaming,1.0,42:04,OK,red,RGA,   VICTORY   ,84.9k,17,  11 ,  3 ,  3 ,  3 ,  0 ,Skarner,Zoe,Vladimir,Xayah,Kalista
+2018.0,spring,Challengers Korea,7,ES Sharks,REVERSE Gaming,2.0,30:05,OK,blue,RGA,   DEFEAT   ,44.8k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Skarner,Vladimir,Azir,Kassadin,Cassiopeia
+2018.0,spring,Challengers Korea,7,ES Sharks,REVERSE Gaming,2.0,30:05,OK,red,ESS,   VICTORY   ,58.6k,16,  9 ,  1 ,  1 ,  2 ,  0 ,Taliyah,Galio,Gangplank,TahmKench,Xayah
+2018.0,spring,Challengers Korea,7,ES Sharks,REVERSE Gaming,3.0,42:42,OK,blue,ESS,   VICTORY   ,80.7k,20,  9 ,  1 ,  0 ,  2 ,  0 ,Taliyah,Sion,Galio,Braum,TahmKench
+2018.0,spring,Challengers Korea,7,ES Sharks,REVERSE Gaming,3.0,42:42,OK,red,RGA,   DEFEAT   ,75.0k,14,  4 ,  0 ,  3 ,  1 ,  0 ,Skarner,Kalista,Xayah,Ryze,Vladimir
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Griffin,1.0,38:13,OK,blue,APK,   DEFEAT   ,68.5k,10,  7 ,  1 ,  1 ,  2 ,  0 ,Kalista,Tristana,Skarner,Jax,Sejuani
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Griffin,1.0,38:13,OK,red,FIN,   VICTORY   ,68.1k,14,  7 ,  1 ,  0 ,  1 ,  0 ,Zoe,Gangplank,TahmKench,Alistar,Braum
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Griffin,2.0,27:10,OK,blue,FIN,   VICTORY   ,53.7k,19,  7 ,  1 ,  0 ,  1 ,  1 ,Gangplank,Zoe,Corki,Varus,Caitlyn
+2018.0,spring,Challengers Korea,7,SeolHaeOne Prince,Griffin,2.0,27:10,OK,red,APK,   DEFEAT   ,42.1k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Skarner,Camille,Braum,Rakan
+2018.0,spring,Challengers Korea,8,Damwon,SeolHaeOne Prince,1.0,26:46,OK,blue,DWG,   VICTORY   ,61.3k,19,  10 ,  2 ,  0 ,  3 ,  1 ,Azir,Taliyah,Sion,Vladimir,Gnar
+2018.0,spring,Challengers Korea,8,Damwon,SeolHaeOne Prince,1.0,26:46,OK,red,APK,   DEFEAT   ,40.9k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Galio,Camille,Xayah,Tristana
+2018.0,spring,Challengers Korea,8,Damwon,SeolHaeOne Prince,2.0,30:11,OK,blue,APK,   DEFEAT   ,46.2k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Sejuani,TahmKench,Braum,Leona
+2018.0,spring,Challengers Korea,8,Damwon,SeolHaeOne Prince,2.0,30:11,OK,red,DWG,   VICTORY   ,66.8k,13,  10 ,  2 ,  1 ,  3 ,  1 ,Azir,Galio,Sion,Taliyah,Cassiopeia
+2018.0,spring,Challengers Korea,8,REVERSE Gaming,Team BattleComics,1.0,32:49,OK,blue,RGA,   VICTORY   ,65.0k,17,  9 ,  2 ,  1 ,  2 ,  1 ,Skarner,Shen,Gangplank,Xayah,Braum
+2018.0,spring,Challengers Korea,8,REVERSE Gaming,Team BattleComics,1.0,32:49,OK,red,BtC,   DEFEAT   ,49.6k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Ryze,Galio,Sion,Camille,Ornn
+2018.0,spring,Challengers Korea,8,REVERSE Gaming,Team BattleComics,2.0,39:33,OK,blue,BtC,   DEFEAT   ,64.2k,12,  4 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Sion,Galio,Azir,Ornn
+2018.0,spring,Challengers Korea,8,REVERSE Gaming,Team BattleComics,2.0,39:33,OK,red,RGA,   VICTORY   ,72.3k,15,  7 ,  1 ,  1 ,  3 ,  0 ,Gangplank,Skarner,Ryze,Jax,Fiora
+2018.0,spring,Challengers Korea,8,Griffin,ES Sharks,1.0,32:22,OK,blue,FIN,   VICTORY   ,66.1k,19,  9 ,  2 ,  1 ,  2 ,  0 ,Rakan,Volibear,JarvanIV,,
+2018.0,spring,Challengers Korea,8,Griffin,ES Sharks,1.0,32:22,OK,red,ESS,   DEFEAT   ,56.2k,7,  3 ,  0 ,  1 ,  1 ,  1 ,Galio,Skarner,Olaf,Braum,Thresh
+2018.0,spring,Challengers Korea,8,Griffin,ES Sharks,2.0,40:13,OK,blue,ESS,   DEFEAT   ,73.7k,16,  7 ,  1 ,  1 ,  3 ,  1 ,Olaf,Skarner,Azir,Leona,TahmKench
+2018.0,spring,Challengers Korea,8,Griffin,ES Sharks,2.0,40:13,OK,red,FIN,   VICTORY   ,76.8k,19,  7 ,  1 ,  1 ,  1 ,  0 ,Galio,Sejuani,Varus,Zac,Camille
+2018.0,spring,Challengers Korea,8,Rising Star Gaming,Ever8,1.0,36:19,OK,blue,RSG,   DEFEAT   ,63.0k,10,  6 ,  1 ,  1 ,  2 ,  1 ,Anivia,Taliyah,Gangplank,TahmKench,Leona
+2018.0,spring,Challengers Korea,8,Rising Star Gaming,Ever8,1.0,36:19,OK,red,EEW,   VICTORY   ,64.8k,10,  7 ,  1 ,  1 ,  2 ,  0 ,Galio,Azir,Ryze,,
+2018.0,spring,Challengers Korea,8,Rising Star Gaming,Ever8,2.0,31:38,OK,blue,EEW,   VICTORY   ,58.5k,11,  7 ,  1 ,  0 ,  1 ,  0 ,Varus,Azir,Galio,Orianna,Cassiopeia
+2018.0,spring,Challengers Korea,8,Rising Star Gaming,Ever8,2.0,31:38,OK,red,RSG,   DEFEAT   ,51.1k,9,  2 ,  0 ,  0 ,  2 ,  1 ,Anivia,Taliyah,Gangplank,TahmKench,Braum
+2018.0,spring,Challengers Korea,9,REVERSE Gaming,Rising Star Gaming,1.0,30:08,OK,blue,RGA,   VICTORY   ,60.9k,15,  10 ,  2 ,  1 ,  3 ,  0 ,Azir,Sejuani,Gangplank,Cassiopeia,Kassadin
+2018.0,spring,Challengers Korea,9,REVERSE Gaming,Rising Star Gaming,1.0,30:08,OK,red,RSG,   DEFEAT   ,46.1k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Galio,Sion,Skarner,Khazix
+2018.0,spring,Challengers Korea,9,REVERSE Gaming,Rising Star Gaming,2.0,29:36,OK,blue,RSG,   DEFEAT   ,46.0k,4,  2 ,  0 ,  0 ,  1 ,  1 ,Taliyah,Galio,Gangplank,Varus,Tristana
+2018.0,spring,Challengers Korea,9,REVERSE Gaming,Rising Star Gaming,2.0,29:36,OK,red,RGA,   VICTORY   ,59.6k,15,  9 ,  1 ,  1 ,  2 ,  0 ,Azir,Sejuani,Skarner,Camille,Ornn
+2018.0,spring,Challengers Korea,9,Damwon,Griffin,1.0,29:19,OK,blue,DWG,   DEFEAT   ,43.2k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Azir,Taliyah,Xayah,Shen,Cassiopeia
+2018.0,spring,Challengers Korea,9,Damwon,Griffin,1.0,29:19,OK,red,FIN,   VICTORY   ,61.6k,13,  9 ,  2 ,  2 ,  2 ,  0 ,Galio,Olaf,Varus,Camille,Gangplank
+2018.0,spring,Challengers Korea,9,Damwon,Griffin,2.0,37:33,OK,blue,FIN,   VICTORY   ,72.5k,13,  9 ,  1 ,  2 ,  2 ,  0 ,Varus,Gangplank,Camille,Xayah,Ezreal
+2018.0,spring,Challengers Korea,9,Damwon,Griffin,2.0,37:33,OK,red,DWG,   DEFEAT   ,61.7k,6,  3 ,  0 ,  0 ,  3 ,  1 ,Azir,Galio,Sion,Ornn,Shen
+2018.0,spring,Challengers Korea,9,Griffin,Team BattleComics,1.0,33:38,OK,blue,FIN,   VICTORY   ,66.5k,24,  9 ,  2 ,  1 ,  2 ,  0 ,Varus,Rakan,Sion,Camille,Gangplank
+2018.0,spring,Challengers Korea,9,Griffin,Team BattleComics,1.0,33:38,OK,red,BtC,   DEFEAT   ,53.8k,7,  2 ,  0 ,  1 ,  1 ,  0 ,Azir,Alistar,Galio,Caitlyn,Tristana
+2018.0,spring,Challengers Korea,9,Griffin,Team BattleComics,2.0,42:37,OK,blue,BtC,   VICTORY   ,83.0k,16,  9 ,  2 ,  2 ,  2 ,  0 ,Alistar,Azir,Cassiopeia,Ezreal,Caitlyn
+2018.0,spring,Challengers Korea,9,Griffin,Team BattleComics,2.0,42:37,OK,red,FIN,   DEFEAT   ,76.6k,16,  8 ,  3 ,  0 ,  2 ,  0 ,Galio,Varus,Ryze,Sejuani,Zac
+2018.0,spring,Challengers Korea,9,Griffin,Team BattleComics,3.0,27:03,OK,blue,FIN,   VICTORY   ,54.6k,14,  8 ,  1 ,  1 ,  2 ,  0 ,Varus,Rakan,Sion,Camille,Gangplank
+2018.0,spring,Challengers Korea,9,Griffin,Team BattleComics,3.0,27:03,OK,red,BtC,   DEFEAT   ,38.8k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Azir,Alistar,Galio,Braum,Taric
+2018.0,spring,Challengers Korea,9,Ever8,REVERSE Gaming,1.0,40:58,OK,blue,EEW,   VICTORY   ,78.4k,8,  10 ,  2 ,  2 ,  4 ,  1 ,Zac,Varus,Sion,Camille,Gnar
+2018.0,spring,Challengers Korea,9,Ever8,REVERSE Gaming,1.0,40:58,OK,red,RGA,   DEFEAT   ,64.5k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Anivia,Gangplank,Galio,Braum,Thresh
+2018.0,spring,Challengers Korea,9,Ever8,REVERSE Gaming,2.0,40:54,OK,blue,RGA,   VICTORY   ,85.6k,22,  11 ,  2 ,  2 ,  4 ,  0 ,Azir,Gangplank,Anivia,Taric,Camille
+2018.0,spring,Challengers Korea,9,Ever8,REVERSE Gaming,2.0,40:54,OK,red,EEW,   DEFEAT   ,65.5k,8,  3 ,  0 ,  1 ,  1 ,  1 ,Zac,Sion,Galio,Sejuani,Jax
+2018.0,spring,Challengers Korea,9,Ever8,REVERSE Gaming,3.0,27:43,OK,blue,EEW,   VICTORY   ,55.1k,19,  7 ,  1 ,  1 ,  2 ,  0 ,Zac,Varus,Khazix,JarvanIV,Jax
+2018.0,spring,Challengers Korea,9,Ever8,REVERSE Gaming,3.0,27:43,OK,red,RGA,   DEFEAT   ,41.8k,3,  0 ,  0 ,  0 ,  0 ,  1 ,Olaf,Galio,Azir,Xayah,Tristana
+2018.0,spring,Challengers Korea,9,ES Sharks,Damwon,1.0,37:37,OK,blue,ESS,   DEFEAT   ,67.3k,11,  4 ,  0 ,  1 ,  3 ,  1 ,Camille,Xayah,Gangplank,Braum,Fiora
+2018.0,spring,Challengers Korea,9,ES Sharks,Damwon,1.0,37:37,OK,red,DWG,   VICTORY   ,72.2k,15,  9 ,  2 ,  1 ,  2 ,  0 ,Galio,Azir,Sion,TahmKench,Thresh
+2018.0,spring,Challengers Korea,9,ES Sharks,Damwon,2.0,31:20,OK,blue,DWG,   VICTORY   ,67.6k,17,  11 ,  3 ,  1 ,  3 ,  0 ,Azir,Taliyah,Varus,TahmKench,Zac
+2018.0,spring,Challengers Korea,9,ES Sharks,Damwon,2.0,31:20,OK,red,ESS,   DEFEAT   ,47.3k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Gangplank,Xayah,Vladimir,Alistar
+2018.0,spring,Challengers Korea,9,SeolHaeOne Prince,Rising Star Gaming,1.0,27:02,OK,blue,APK,   VICTORY   ,57.6k,12,  9 ,  2 ,  1 ,  2 ,  1 ,Ryze,Skarner,Gnar,Camille,Corki
+2018.0,spring,Challengers Korea,9,SeolHaeOne Prince,Rising Star Gaming,1.0,27:02,OK,red,RSG,   DEFEAT   ,42.1k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Galio,Vladimir,Xayah,Caitlyn
+2018.0,spring,Challengers Korea,9,SeolHaeOne Prince,Rising Star Gaming,2.0,32:21,OK,blue,RSG,   DEFEAT   ,51.8k,4,  4 ,  0 ,  0 ,  2 ,  1 ,Gangplank,Azir,Taliyah,Vladimir,Jax
+2018.0,spring,Challengers Korea,9,SeolHaeOne Prince,Rising Star Gaming,2.0,32:21,OK,red,APK,   VICTORY   ,58.9k,11,  7 ,  1 ,  1 ,  1 ,  0 ,Skarner,Gnar,Ryze,Leona,Alistar
+2018.0,spring,Challengers Korea,10,Griffin,REVERSE Gaming,1.0,26:25,OK,blue,FIN,   VICTORY   ,63.5k,26,  11 ,  3 ,  1 ,  3 ,  1 ,Zac,Xayah,KogMaw,Taliyah,Syndra
+2018.0,spring,Challengers Korea,10,Griffin,REVERSE Gaming,1.0,26:25,OK,red,RGA,   DEFEAT   ,39.8k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Azir,Galio,Gangplank,Shen,Swain
+2018.0,spring,Challengers Korea,10,Griffin,REVERSE Gaming,2.0,32:07,OK,blue,RGA,   DEFEAT   ,51.6k,8,  3 ,  0 ,  0 ,  0 ,  1 ,Sejuani,Cassiopeia,Azir,Shen,Alistar
+2018.0,spring,Challengers Korea,10,Griffin,REVERSE Gaming,2.0,32:07,OK,red,FIN,   VICTORY   ,67.7k,18,  9 ,  1 ,  2 ,  3 ,  0 ,Zac,Varus,Xayah,Caitlyn,Ezreal
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Damwon,1.0,26:43,OK,blue,RSG,   VICTORY   ,53.3k,16,  8 ,  1 ,  1 ,  1 ,  1 ,Gangplank,Vladimir,Olaf,Camille,Ryze
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Damwon,1.0,26:43,OK,red,DWG,   DEFEAT   ,41.5k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Galio,Azir,Sion,Skarner,Nidalee
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Damwon,2.0,37:24,OK,blue,DWG,   VICTORY   ,68.6k,12,  8 ,  1 ,  2 ,  2 ,  0 ,Azir,Taliyah,Olaf,Gnar,Corki
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Damwon,2.0,37:24,OK,red,RSG,   DEFEAT   ,63.3k,8,  5 ,  0 ,  0 ,  2 ,  1 ,Gangplank,Vladimir,Xayah,Alistar,Shen
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Damwon,3.0,56:32,OK,blue,RSG,   DEFEAT   ,99.2k,12,  5 ,  1 ,  1 ,  2 ,  0 ,Gangplank,Vladimir,Olaf,Caitlyn,Tristana
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Damwon,3.0,56:32,OK,red,DWG,   VICTORY   ,108.5k,12,  11 ,  4 ,  4 ,  4 ,  0 ,Xayah,Varus,Galio,KogMaw,TahmKench
+2018.0,spring,Challengers Korea,10,Ever8,ES Sharks,1.0,42:09,OK,blue,EEW,   DEFEAT   ,70.0k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Ryze,Varus,Taliyah,Camille,Sion
+2018.0,spring,Challengers Korea,10,Ever8,ES Sharks,1.0,42:09,OK,red,ESS,   VICTORY   ,85.1k,14,  11 ,  4 ,  3 ,  4 ,  1 ,Anivia,Olaf,Xayah,Braum,Taric
+2018.0,spring,Challengers Korea,10,Ever8,ES Sharks,2.0,38:56,OK,blue,ESS,   DEFEAT   ,69.2k,15,  3 ,  0 ,  0 ,  0 ,  0 ,Anivia,Olaf,Xayah,KogMaw,Ezreal
+2018.0,spring,Challengers Korea,10,Ever8,ES Sharks,2.0,38:56,OK,red,EEW,   VICTORY   ,77.3k,20,  11 ,  3 ,  2 ,  5 ,  1 ,Taliyah,Ryze,Varus,Galio,Karma
+2018.0,spring,Challengers Korea,10,Ever8,ES Sharks,3.0,41:44,OK,blue,EEW,   DEFEAT   ,73.9k,11,  9 ,  2 ,  2 ,  3 ,  1 ,Taliyah,Ryze,Varus,Braum,Camille
+2018.0,spring,Challengers Korea,10,Ever8,ES Sharks,3.0,41:44,OK,red,ESS,   VICTORY   ,78.2k,17,  6 ,  2 ,  1 ,  2 ,  0 ,Anivia,Xayah,Azir,Veigar,Fizz
+2018.0,spring,Challengers Korea,10,Team BattleComics,SeolHaeOne Prince,1.0,30:59,OK,blue,BtC,   VICTORY   ,66.0k,13,  11 ,  3 ,  1 ,  3 ,  0 ,Camille,Azir,Swain,Zac,JarvanIV
+2018.0,spring,Challengers Korea,10,Team BattleComics,SeolHaeOne Prince,1.0,30:59,OK,red,APK,   DEFEAT   ,46.0k,2,  0 ,  0 ,  0 ,  0 ,  1 ,Olaf,Galio,Varus,Caitlyn,Tristana
+2018.0,spring,Challengers Korea,10,Team BattleComics,SeolHaeOne Prince,2.0,37:36,OK,blue,APK,   DEFEAT   ,58.4k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Cassiopeia,Gangplank,Gnar,TahmKench
+2018.0,spring,Challengers Korea,10,Team BattleComics,SeolHaeOne Prince,2.0,37:36,OK,red,BtC,   VICTORY   ,73.8k,24,  10 ,  2 ,  1 ,  4 ,  0 ,Camille,Azir,Swain,Zac,JarvanIV
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Griffin,1.0,36:32,OK,blue,RSG,   DEFEAT   ,56.4k,7,  1 ,  0 ,  0 ,  2 ,  0 ,Taliyah,Olaf,Caitlyn,Ryze,Azir
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Griffin,1.0,36:32,OK,red,FIN,   VICTORY   ,75.8k,20,  10 ,  2 ,  1 ,  1 ,  1 ,Varus,Camille,Xayah,Jinx,KogMaw
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Griffin,2.0,36:51,OK,blue,FIN,   VICTORY   ,75.5k,17,  10 ,  1 ,  2 ,  3 ,  1 ,Camille,Xayah,Varus,Alistar,Morgana
+2018.0,spring,Challengers Korea,10,Rising Star Gaming,Griffin,2.0,36:51,OK,red,RSG,   DEFEAT   ,57.1k,4,  2 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Olaf,Swain,Azir,Galio
+2018.0,spring,Challengers Korea,10,REVERSE Gaming,Damwon,1.0,26:32,OK,blue,RGA,   DEFEAT   ,37.8k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Gangplank,Cassiopeia,Camille,Ryze,Taliyah
+2018.0,spring,Challengers Korea,10,REVERSE Gaming,Damwon,1.0,26:32,OK,red,DWG,   VICTORY   ,56.6k,20,  10 ,  2 ,  1 ,  2 ,  1 ,Galio,Zac,Olaf,TahmKench,Braum
+2018.0,spring,Challengers Korea,10,REVERSE Gaming,Damwon,2.0,28:06,OK,blue,DWG,   VICTORY   ,60.8k,20,  11 ,  4 ,  1 ,  3 ,  1 ,Zac,Olaf,Galio,Ryze,Azir
+2018.0,spring,Challengers Korea,10,REVERSE Gaming,Damwon,2.0,28:06,OK,red,RGA,   DEFEAT   ,42.5k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Varus,Xayah,Thresh,Taric
+2018.0,spring,Challengers Korea,11,SeolHaeOne Prince,ES Sharks,1.0,35:57,OK,blue,APK,   VICTORY   ,68.5k,21,  8 ,  1 ,  1 ,  1 ,  0 ,Olaf,Gnar,Gangplank,Taric,Thresh
+2018.0,spring,Challengers Korea,11,SeolHaeOne Prince,ES Sharks,1.0,35:57,OK,red,ESS,   DEFEAT   ,57.8k,10,  1 ,  0 ,  0 ,  1 ,  0 ,Swain,Xayah,Camille,TahmKench,Braum
+2018.0,spring,Challengers Korea,11,SeolHaeOne Prince,ES Sharks,2.0,26:12,OK,blue,ESS,   DEFEAT   ,42.4k,9,  1 ,  0 ,  0 ,  1 ,  0 ,Swain,Xayah,Galio,Kassadin,Veigar
+2018.0,spring,Challengers Korea,11,SeolHaeOne Prince,ES Sharks,2.0,26:12,OK,red,APK,   VICTORY   ,56.6k,15,  11 ,  2 ,  1 ,  1 ,  1 ,Olaf,Gnar,Gangplank,Ezreal,Caitlyn
+2018.0,spring,Challengers Korea,11,Team BattleComics,Ever8,1.0,42:40,OK,blue,BtC,   VICTORY   ,82.3k,14,  11 ,  4 ,  3 ,  4 ,  1 ,Anivia,TahmKench,Swain,Caitlyn,Tristana
+2018.0,spring,Challengers Korea,11,Team BattleComics,Ever8,1.0,42:40,OK,red,EEW,   DEFEAT   ,65.2k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Gangplank,Varus,Rakan,Thresh,Ezreal
+2018.0,spring,Challengers Korea,11,Team BattleComics,Ever8,2.0,38:37,OK,blue,EEW,   DEFEAT   ,66.7k,12,  7 ,  1 ,  0 ,  0 ,  1 ,Cassiopeia,Taliyah,Azir,Thresh,Shen
+2018.0,spring,Challengers Korea,11,Team BattleComics,Ever8,2.0,38:37,OK,red,BtC,   VICTORY   ,71.1k,14,  8 ,  1 ,  1 ,  4 ,  0 ,Anivia,TahmKench,Swain,Zac,Sejuani
+2018.0,spring,Challengers Korea,11,REVERSE Gaming,SeolHaeOne Prince,1.0,34:41,OK,blue,RGA,   VICTORY   ,72.1k,22,  11 ,  4 ,  2 ,  1 ,  1 ,Gangplank,Xayah,Camille,Kaisa,Caitlyn
+2018.0,spring,Challengers Korea,11,REVERSE Gaming,SeolHaeOne Prince,1.0,34:41,OK,red,APK,   DEFEAT   ,55.8k,7,  2 ,  0 ,  0 ,  3 ,  0 ,Olaf,Galio,Zac,Ezreal,Jhin
+2018.0,spring,Challengers Korea,11,REVERSE Gaming,SeolHaeOne Prince,2.0,37:40,OK,blue,APK,   VICTORY   ,71.1k,18,  9 ,  1 ,  2 ,  4 ,  1 ,Olaf,Cassiopeia,Zac,TahmKench,Braum
+2018.0,spring,Challengers Korea,11,REVERSE Gaming,SeolHaeOne Prince,2.0,37:40,OK,red,RGA,   DEFEAT   ,59.8k,9,  3 ,  0 ,  0 ,  0 ,  0 ,Swain,Gangplank,Galio,JarvanIV,Skarner
+2018.0,spring,Challengers Korea,11,REVERSE Gaming,SeolHaeOne Prince,3.0,27:14,OK,blue,RGA,   DEFEAT   ,41.7k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Gangplank,Camille,Xayah,Jhin,Varus
+2018.0,spring,Challengers Korea,11,REVERSE Gaming,SeolHaeOne Prince,3.0,27:14,OK,red,APK,   VICTORY   ,55.2k,13,  11 ,  3 ,  1 ,  3 ,  0 ,Olaf,Swain,Taliyah,Ornn,Morgana
+2018.0,spring,Challengers Korea,11,Damwon,Team BattleComics,1.0,39:00,OK,blue,DWG,   VICTORY   ,75.3k,17,  9 ,  1 ,  2 ,  2 ,  0 ,Taliyah,Morgana,Galio,Azir,Ryze
+2018.0,spring,Challengers Korea,11,Damwon,Team BattleComics,1.0,39:00,OK,red,BtC,   DEFEAT   ,58.4k,3,  1 ,  0 ,  0 ,  1 ,  1 ,Camille,Swain,Gangplank,Vladimir,Zoe
+2018.0,spring,Challengers Korea,11,Damwon,Team BattleComics,2.0,38:42,OK,blue,BtC,   VICTORY   ,74.5k,10,  11 ,  3 ,  2 ,  2 ,  0 ,Camille,Swain,Vladimir,Syndra,Zoe
+2018.0,spring,Challengers Korea,11,Damwon,Team BattleComics,2.0,38:42,OK,red,DWG,   DEFEAT   ,67.5k,13,  4 ,  0 ,  0 ,  3 ,  0 ,Galio,Olaf,Xayah,Jhin,Caitlyn
+2018.0,spring,Challengers Korea,11,Damwon,Team BattleComics,3.0,28:29,OK,blue,DWG,   VICTORY   ,58.1k,21,  9 ,  2 ,  1 ,  2 ,  1 ,Taliyah,Morgana,Galio,Skarner,Zac
+2018.0,spring,Challengers Korea,11,Damwon,Team BattleComics,3.0,28:29,OK,red,BtC,   DEFEAT   ,45.1k,5,  2 ,  0 ,  0 ,  0 ,  0 ,Swain,Gangplank,Xayah,Syndra,Vladimir
+2018.0,spring,Challengers Korea,11,Ever8,Griffin,1.0,30:30,OK,blue,EEW,   DEFEAT   ,48.4k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Vladimir,Galio,Morgana,Cassiopeia,Taliyah
+2018.0,spring,Challengers Korea,11,Ever8,Griffin,1.0,30:30,OK,red,FIN,   VICTORY   ,62.8k,12,  9 ,  2 ,  1 ,  2 ,  0 ,Anivia,Olaf,Swain,Caitlyn,Jhin
+2018.0,spring,Challengers Korea,11,Ever8,Griffin,2.0,36:32,OK,blue,FIN,   DEFEAT   ,62.8k,12,  4 ,  0 ,  0 ,  2 ,  0 ,Anivia,Gangplank,Rakan,Zac,Khazix
+2018.0,spring,Challengers Korea,11,Ever8,Griffin,2.0,36:32,OK,red,EEW,   VICTORY   ,71.7k,15,  10 ,  1 ,  2 ,  3 ,  1 ,Olaf,Swain,Cassiopeia,Morgana,Sejuani
+2018.0,spring,Challengers Korea,11,Ever8,Griffin,3.0,32:08,OK,blue,EEW,   DEFEAT   ,54.5k,8,  3 ,  0 ,  0 ,  0 ,  0 ,Zac,Sejuani,Vladimir,Taliyah,Cassiopeia
+2018.0,spring,Challengers Korea,11,Ever8,Griffin,3.0,32:08,OK,red,FIN,   VICTORY   ,66.3k,12,  11 ,  3 ,  1 ,  3 ,  1 ,Anivia,Zoe,Camille,XinZhao,Nidalee
+2018.0,spring,Challengers Korea,11,ES Sharks,Rising Star Gaming,1.0,31:47,OK,blue,ESS,   DEFEAT   ,53.7k,10,  4 ,  0 ,  0 ,  1 ,  0 ,Rakan,Swain,Zac,Caitlyn,Varus
+2018.0,spring,Challengers Korea,11,ES Sharks,Rising Star Gaming,1.0,31:47,OK,red,RSG,   VICTORY   ,61.8k,10,  8 ,  1 ,  2 ,  3 ,  0 ,Taliyah,Olaf,Gangplank,Morgana,Alistar
+2018.0,spring,Challengers Korea,11,ES Sharks,Rising Star Gaming,2.0,35:33,OK,blue,RSG,   VICTORY   ,71.0k,12,  11 ,  4 ,  1 ,  2 ,  1 ,Taliyah,Olaf,Zac,Ryze,Cassiopeia
+2018.0,spring,Challengers Korea,11,ES Sharks,Rising Star Gaming,2.0,35:33,OK,red,ESS,   DEFEAT   ,55.9k,2,  0 ,  0 ,  0 ,  2 ,  0 ,Rakan,Swain,Azir,Kaisa,Caitlyn

@@ -1,0 +1,180 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,LCS_a,1,Cloud9 Academy,100 Thieves Academy,1.0,35:53,OK,blue,C9,   DEFEAT   ,60.0k,14,  2 ,  0 ,  0 ,  2 ,  1 ,Ezreal,Syndra,Olaf,Jayce,Azir
+2020.0,summer,LCS_a,1,Cloud9 Academy,100 Thieves Academy,1.0,35:53,OK,red,100,   VICTORY   ,66.5k,17,  11 ,  2 ,  2 ,  3 ,  1 ,Varus,Kalista,Ornn,Aatrox,Karma
+2020.0,summer,LCS_a,1,FlyQuest Academy,Immortals Academy,1.0,27:56,OK,blue,FLY,   VICTORY   ,54.5k,15,  10 ,  1 ,  1 ,  2 ,  2 ,Thresh,Olaf,Trundle,Corki,Leblanc
+2020.0,summer,LCS_a,1,FlyQuest Academy,Immortals Academy,1.0,27:56,OK,red,IMT,   DEFEAT   ,40.5k,1,  1 ,  0 ,  0 ,  2 ,  0 ,Varus,Graves,Kalista,RekSai,Nidalee
+2020.0,summer,LCS_a,1,TSM Academy,TL Academy,1.0,25:38,OK,blue,TSM,   VICTORY   ,47.1k,12,  7 ,  1 ,  1 ,  4 ,  1 ,Olaf,Ezreal,Sett,MissFortune,Karma
+2020.0,summer,LCS_a,1,TSM Academy,TL Academy,1.0,25:38,OK,red,TL,   DEFEAT   ,43.4k,7,  5 ,  0 ,  0 ,  0 ,  1 ,Varus,Kalista,Graves,Azir,Ornn
+2020.0,summer,LCS_a,1,CLG Academy,Evil Geniuses Academy,1.0,54:02,OK,blue,EG,   DEFEAT   ,92.5k,29,  6 ,  1 ,  1 ,  5 ,  0 ,Sett,Karma,Syndra,Leblanc,Zoe
+2020.0,summer,LCS_a,1,CLG Academy,Evil Geniuses Academy,1.0,54:02,OK,red,CLG,   VICTORY   ,94.0k,30,  9 ,  2 ,  2 ,  2 ,  1 ,Kalista,Nidalee,Graves,Irelia,Trundle
+2020.0,summer,LCS_a,1,Golden Guardians Academy,Dignitas Academy,1.0,37:29,OK,blue,GG,   VICTORY   ,69.6k,20,  11 ,  4 ,  1 ,  4 ,  2 ,Kindred,Sett,Aphelios,Nidalee,Azir
+2020.0,summer,LCS_a,1,Golden Guardians Academy,Dignitas Academy,1.0,37:29,OK,red,DIG,   DEFEAT   ,63.2k,17,  1 ,  0 ,  1 ,  2 ,  0 ,Varus,Graves,Syndra,MonkeyKing,Leblanc
+2020.0,summer,LCS_a,1,Cloud9 Academy,FlyQuest Academy,1.0,29:24,OK,blue,FLY,   VICTORY   ,54.9k,14,  7 ,  1 ,  0 ,  2 ,  2 ,Sett,Kalista,Aphelios,Olaf,Kassadin
+2020.0,summer,LCS_a,1,Cloud9 Academy,FlyQuest Academy,1.0,29:24,OK,red,C9,   DEFEAT   ,51.8k,7,  6 ,  0 ,  1 ,  2 ,  0 ,Varus,Syndra,Graves,Nocturne,Azir
+2020.0,summer,LCS_a,1,100 Thieves Academy,Evil Geniuses Academy,1.0,36:28,OK,blue,100,   VICTORY   ,68.2k,20,  11 ,  3 ,  1 ,  5 ,  1 ,Rumble,Yuumi,Sett,Kindred,Nidalee
+2020.0,summer,LCS_a,1,100 Thieves Academy,Evil Geniuses Academy,1.0,36:28,OK,red,EG,   DEFEAT   ,54.9k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Varus,Syndra,Graves,Aatrox,Leblanc
+2020.0,summer,LCS_a,1,Golden Guardians Academy,TL Academy,1.0,35:09,OK,blue,TL,   DEFEAT   ,55.0k,12,  2 ,  0 ,  0 ,  1 ,  1 ,Sett,Senna,Aphelios,Nautilus,Leona
+2020.0,summer,LCS_a,1,Golden Guardians Academy,TL Academy,1.0,35:09,OK,red,GG,   VICTORY   ,63.6k,16,  9 ,  2 ,  1 ,  4 ,  1 ,Varus,Graves,Kalista,Zoe,Leblanc
+2020.0,summer,LCS_a,1,TSM Academy,Dignitas Academy,1.0,31:04,OK,blue,DIG,   DEFEAT   ,46.8k,6,  3 ,  0 ,  0 ,  4 ,  1 ,Syndra,Karma,Olaf,Sett,Zoe
+2020.0,summer,LCS_a,1,TSM Academy,Dignitas Academy,1.0,31:04,OK,red,TSM,   VICTORY   ,55.6k,11,  8 ,  1 ,  1 ,  0 ,  0 ,Graves,Kalista,Ezreal,Nidalee,Kindred
+2020.0,summer,LCS_a,1,CLG Academy,Immortals Academy,1.0,,AttributeError,,,,,,,,,,,,,,,
+2020.0,summer,LCS_a,2,Cloud9 Academy,Evil Geniuses Academy,1.0,33:40,OK,blue,C9,   DEFEAT   ,55.4k,10,  5 ,  0 ,  0 ,  2 ,  2 ,Ezreal,Syndra,Graves,Olaf,Leblanc
+2020.0,summer,LCS_a,2,Cloud9 Academy,Evil Geniuses Academy,1.0,33:40,OK,red,EG,   VICTORY   ,59.4k,13,  9 ,  2 ,  1 ,  3 ,  0 ,Varus,Kalista,Volibear,Ornn,JarvanIV
+2020.0,summer,LCS_a,2,Golden Guardians Academy,CLG Academy,1.0,32:45,OK,blue,CLG,   VICTORY   ,58.5k,8,  9 ,  2 ,  1 ,  1 ,  1 ,Syndra,Trundle,Kalista,Sett,TwistedFate
+2020.0,summer,LCS_a,2,Golden Guardians Academy,CLG Academy,1.0,32:45,OK,red,GG,   DEFEAT   ,53.4k,7,  4 ,  0 ,  0 ,  4 ,  1 ,Varus,Graves,Olaf,Lulu,Yuumi
+2020.0,summer,LCS_a,2,100 Thieves Academy,TL Academy,1.0,30:11,OK,blue,TL,   VICTORY   ,56.9k,15,  7 ,  1 ,  1 ,  3 ,  1 ,Yuumi,Karma,Aphelios,Braum,TwistedFate
+2020.0,summer,LCS_a,2,100 Thieves Academy,TL Academy,1.0,30:11,OK,red,100,   DEFEAT   ,46.3k,3,  2 ,  0 ,  0 ,  1 ,  1 ,Varus,Syndra,Kalista,Nautilus,Zoe
+2020.0,summer,LCS_a,2,TSM Academy,Immortals Academy,1.0,36:54,OK,blue,IMT,   VICTORY   ,67.8k,16,  10 ,  2 ,  1 ,  4 ,  2 ,Kalista,Syndra,Kassadin,Aatrox,
+2020.0,summer,LCS_a,2,TSM Academy,Immortals Academy,1.0,36:54,OK,red,TSM,   DEFEAT   ,56.5k,7,  1 ,  0 ,  0 ,  2 ,  0 ,Graves,Ezreal,Thresh,Urgot,Fiddlesticks
+2020.0,summer,LCS_a,2,FlyQuest Academy,Dignitas Academy,1.0,29:43,OK,blue,FLY,   DEFEAT   ,45.6k,3,  2 ,  0 ,  0 ,  1 ,  1 ,Kalista,Ezreal,Graves,Olaf,Kindred
+2020.0,summer,LCS_a,2,FlyQuest Academy,Dignitas Academy,1.0,29:43,OK,red,DIG,   VICTORY   ,56.9k,18,  8 ,  1 ,  1 ,  3 ,  1 ,Varus,Syndra,Aphelios,Leblanc,Zoe
+2020.0,summer,LCS_a,2,Cloud9 Academy,Golden Guardians Academy,1.0,46:38,OK,blue,GG,   DEFEAT   ,75.4k,13,  5 ,  0 ,  1 ,  2 ,  2 ,Thresh,Syndra,Karma,Nidalee,Trundle
+2020.0,summer,LCS_a,2,Cloud9 Academy,Golden Guardians Academy,1.0,46:38,OK,red,C9,   VICTORY   ,82.4k,16,  10 ,  2 ,  2 ,  5 ,  0 ,Ezreal,Varus,Kalista,Braum,Morgana
+2020.0,summer,LCS_a,2,TL Academy,Evil Geniuses Academy,1.0,33:15,OK,blue,EG,   VICTORY   ,62.5k,13,  9 ,  1 ,  1 ,  4 ,  2 ,Karma,Syndra,Volibear,Sett,Leblanc
+2020.0,summer,LCS_a,2,TL Academy,Evil Geniuses Academy,1.0,33:15,OK,red,TL,   DEFEAT   ,54.7k,10,  3 ,  0 ,  0 ,  1 ,  0 ,Kalista,Blitzcrank,TahmKench,Azir,Zoe
+2020.0,summer,LCS_a,2,TSM Academy,FlyQuest Academy,1.0,31:03,OK,blue,TSM,   VICTORY   ,57.8k,16,  10 ,  2 ,  1 ,  4 ,  0 ,Ezreal,Syndra,Thresh,Yuumi,Braum
+2020.0,summer,LCS_a,2,TSM Academy,FlyQuest Academy,1.0,31:03,OK,red,FLY,   DEFEAT   ,47.1k,6,  2 ,  0 ,  0 ,  1 ,  2 ,Graves,Kalista,Volibear,Zoe,Leblanc
+2020.0,summer,LCS_a,2,100 Thieves Academy,Immortals Academy,1.0,36:49,OK,blue,100,   VICTORY   ,70.3k,13,  11 ,  3 ,  1 ,  5 ,  1 ,Yuumi,Karma,Ornn,Volibear,Maokai
+2020.0,summer,LCS_a,2,100 Thieves Academy,Immortals Academy,1.0,36:49,OK,red,IMT,   DEFEAT   ,62.2k,8,  5 ,  0 ,  0 ,  1 ,  1 ,Kalista,Syndra,Varus,Orianna,Jayce
+2020.0,summer,LCS_a,2,CLG Academy,Dignitas Academy,1.0,22:51,OK,blue,DIG,   DEFEAT   ,34.3k,2,  1 ,  0 ,  0 ,  1 ,  0 ,Ornn,Yuumi,Varus,Zoe,Gangplank
+2020.0,summer,LCS_a,2,CLG Academy,Dignitas Academy,1.0,22:51,OK,red,CLG,   VICTORY   ,47.3k,12,  9 ,  1 ,  1 ,  2 ,  2 ,Kalista,Graves,Karma,MissFortune,Volibear
+2020.0,summer,LCS_a,3,Dignitas Academy,Evil Geniuses Academy,1.0,32:05,OK,blue,EG,   VICTORY   ,61.0k,16,  11 ,  3 ,  1 ,  5 ,  2 ,Trundle,Karma,Syndra,Leblanc,Riven
+2020.0,summer,LCS_a,3,Dignitas Academy,Evil Geniuses Academy,1.0,32:05,OK,red,DIG,   DEFEAT   ,51.2k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Varus,Kalista,Aphelios,Nidalee,Olaf
+2020.0,summer,LCS_a,3,Cloud9 Academy,TL Academy,1.0,31:15,OK,blue,TL,   DEFEAT   ,50.2k,6,  0 ,  0 ,  0 ,  0 ,  1 ,Syndra,Karma,Yuumi,Aatrox,Ornn
+2020.0,summer,LCS_a,3,Cloud9 Academy,TL Academy,1.0,31:15,OK,red,C9,   VICTORY   ,62.4k,22,  11 ,  2 ,  1 ,  4 ,  1 ,Varus,Olaf,Kalista,TwistedFate,Kindred
+2020.0,summer,LCS_a,3,Golden Guardians Academy,Immortals Academy,1.0,29:35,OK,blue,IMT,   VICTORY   ,57.5k,13,  11 ,  3 ,  1 ,  4 ,  2 ,Karma,Kalista,Volibear,Jayce,Bard
+2020.0,summer,LCS_a,3,Golden Guardians Academy,Immortals Academy,1.0,29:35,OK,red,GG,   DEFEAT   ,43.1k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Varus,Syndra,Yuumi,Thresh,Leona
+2020.0,summer,LCS_a,3,100 Thieves Academy,TSM Academy,1.0,37:10,OK,blue,100,   DEFEAT   ,58.2k,9,  4 ,  0 ,  0 ,  1 ,  0 ,Karma,Yuumi,Syndra,Zoe,Corki
+2020.0,summer,LCS_a,3,100 Thieves Academy,TSM Academy,1.0,37:10,OK,red,TSM,   VICTORY   ,67.7k,21,  8 ,  1 ,  1 ,  4 ,  2 ,Sett,Ezreal,Nidalee,Azir,Ornn
+2020.0,summer,LCS_a,3,FlyQuest Academy,CLG Academy,1.0,40:04,OK,blue,FLY,   DEFEAT   ,59.8k,4,  2 ,  0 ,  0 ,  3 ,  2 ,Syndra,Yuumi,JarvanIV,Lulu,Kassadin
+2020.0,summer,LCS_a,3,FlyQuest Academy,CLG Academy,1.0,40:04,OK,red,CLG,   VICTORY   ,69.3k,12,  11 ,  2 ,  1 ,  4 ,  0 ,Graves,Kalista,Karma,Thresh,Orianna
+2020.0,summer,LCS_a,3,Cloud9 Academy,Immortals Academy,1.0,30:19,OK,blue,C9,   VICTORY   ,60.6k,22,  11 ,  3 ,  0 ,  4 ,  1 ,Ezreal,Trundle,TwistedFate,Urgot,Nocturne
+2020.0,summer,LCS_a,3,Cloud9 Academy,Immortals Academy,1.0,30:19,OK,red,IMT,   DEFEAT   ,47.3k,3,  2 ,  0 ,  1 ,  0 ,  1 ,Kalista,Varus,Syndra,Graves,Jayce
+2020.0,summer,LCS_a,3,TL Academy,Dignitas Academy,1.0,31:33,OK,blue,DIG,   VICTORY   ,60.4k,16,  9 ,  1 ,  1 ,  4 ,  1 ,Trundle,Olaf,Varus,Galio,Yuumi
+2020.0,summer,LCS_a,3,TL Academy,Dignitas Academy,1.0,31:33,OK,red,TL,   DEFEAT   ,49.7k,5,  1 ,  0 ,  0 ,  1 ,  1 ,Graves,Syndra,Kalista,Azir,TwistedFate
+2020.0,summer,LCS_a,3,Golden Guardians Academy,FlyQuest Academy,1.0,27:53,OK,blue,GG,   VICTORY   ,53.7k,13,  8 ,  1 ,  0 ,  3 ,  1 ,Ornn,Kalista,Syndra,Kassadin,Corki
+2020.0,summer,LCS_a,3,Golden Guardians Academy,FlyQuest Academy,1.0,27:53,OK,red,FLY,   DEFEAT   ,43.4k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Varus,Aphelios,Volibear,Nautilus,Jayce
+2020.0,summer,LCS_a,3,TSM Academy,Evil Geniuses Academy,1.0,48:04,OK,blue,TSM,   VICTORY   ,81.5k,18,  9 ,  1 ,  0 ,  3 ,  0 ,Rumble,Yuumi,Trundle,Irelia,TwistedFate
+2020.0,summer,LCS_a,3,TSM Academy,Evil Geniuses Academy,1.0,48:04,OK,red,EG,   DEFEAT   ,76.5k,11,  5 ,  0 ,  2 ,  4 ,  2 ,Varus,Kalista,Aphelios,Aatrox,Leblanc
+2020.0,summer,LCS_a,3,100 Thieves Academy,CLG Academy,1.0,27:01,OK,blue,CLG,   DEFEAT   ,41.5k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Kalista,Ezreal,Karma,Vladimir,Jayce
+2020.0,summer,LCS_a,3,100 Thieves Academy,CLG Academy,1.0,27:01,OK,red,100,   VICTORY   ,54.8k,25,  10 ,  2 ,  1 ,  3 ,  2 ,Varus,Ornn,Trundle,Nautilus,Thresh
+2020.0,summer,LCS_a,4,100 Thieves Academy,Dignitas Academy,1.0,28:31,OK,blue,DIG,   VICTORY   ,53.1k,10,  9 ,  2 ,  1 ,  4 ,  1 ,Volibear,Trundle,Syndra,Leblanc,Malphite
+2020.0,summer,LCS_a,4,100 Thieves Academy,Dignitas Academy,1.0,28:31,OK,red,100,   DEFEAT   ,44.5k,3,  4 ,  0 ,  0 ,  0 ,  0 ,Kalista,Varus,Nidalee,KogMaw,Zoe
+2020.0,summer,LCS_a,4,Golden Guardians Academy,TSM Academy,1.0,42:42,OK,blue,GG,   DEFEAT   ,70.2k,18,  5 ,  0 ,  2 ,  1 ,  1 ,Graves,Kalista,Volibear,Ornn,Thresh
+2020.0,summer,LCS_a,4,Golden Guardians Academy,TSM Academy,1.0,42:42,OK,red,TSM,   VICTORY   ,75.5k,23,  9 ,  1 ,  1 ,  5 ,  0 ,TwistedFate,Varus,Gangplank,Leona,MonkeyKing
+2020.0,summer,LCS_a,4,Cloud9 Academy,CLG Academy,1.0,27:54,OK,blue,C9,   VICTORY   ,50.5k,17,  6 ,  1 ,  1 ,  4 ,  0 ,Trundle,TwistedFate,Aphelios,Gangplank,Leblanc
+2020.0,summer,LCS_a,4,Cloud9 Academy,CLG Academy,1.0,27:54,OK,red,CLG,   DEFEAT   ,44.7k,8,  3 ,  0 ,  0 ,  0 ,  2 ,Kalista,Karma,Ezreal,Hecarim,Syndra
+2020.0,summer,LCS_a,4,TL Academy,Immortals Academy,1.0,41:43,OK,blue,TL,   DEFEAT   ,66.5k,8,  2 ,  0 ,  1 ,  3 ,  0 ,Karma,Kalista,Cassiopeia,Kaisa,Aphelios
+2020.0,summer,LCS_a,4,TL Academy,Immortals Academy,1.0,41:43,OK,red,IMT,   VICTORY   ,75.6k,22,  11 ,  4 ,  1 ,  4 ,  2 ,Varus,Trundle,Thresh,Gangplank,Rakan
+2020.0,summer,LCS_a,4,FlyQuest Academy,Evil Geniuses Academy,1.0,30:09,OK,blue,EG,   VICTORY   ,58.3k,20,  8 ,  1 ,  1 ,  3 ,  1 ,Leblanc,TwistedFate,Trundle,Riven,Ornn
+2020.0,summer,LCS_a,4,FlyQuest Academy,Evil Geniuses Academy,1.0,30:09,OK,red,FLY,   DEFEAT   ,48.5k,11,  2 ,  0 ,  0 ,  1 ,  1 ,Varus,Volibear,Karma,Blitzcrank,Galio
+2020.0,summer,LCS_a,4,Cloud9 Academy,Dignitas Academy,1.0,30:53,OK,blue,C9,   VICTORY   ,61.2k,26,  11 ,  3 ,  1 ,  4 ,  1 ,Trundle,Graves,TwistedFate,MonkeyKing,Leblanc
+2020.0,summer,LCS_a,4,Cloud9 Academy,Dignitas Academy,1.0,30:53,OK,red,DIG,   DEFEAT   ,46.8k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Varus,Kalista,Cassiopeia,Gangplank,Jayce
+2020.0,summer,LCS_a,4,TSM Academy,CLG Academy,1.0,40:43,OK,blue,TSM,   VICTORY   ,75.8k,19,  10 ,  3 ,  2 ,  4 ,  0 ,Ornn,Gangplank,TwistedFate,Malphite,Thresh
+2020.0,summer,LCS_a,4,TSM Academy,CLG Academy,1.0,40:43,OK,red,CLG,   DEFEAT   ,65.5k,10,  4 ,  0 ,  0 ,  2 ,  2 ,Kalista,Karma,Varus,Jayce,Braum
+2020.0,summer,LCS_a,4,FlyQuest Academy,TL Academy,1.0,45:03,OK,blue,FLY,   VICTORY   ,82.3k,16,  9 ,  2 ,  1 ,  4 ,  1 ,Trundle,Olaf,Syndra,Gangplank,Jayce
+2020.0,summer,LCS_a,4,FlyQuest Academy,TL Academy,1.0,45:03,OK,red,TL,   DEFEAT   ,79.1k,12,  5 ,  0 ,  2 ,  2 ,  1 ,Varus,Ezreal,Kalista,Azir,Orianna
+2020.0,summer,LCS_a,4,Immortals Academy,Evil Geniuses Academy,1.0,38:59,OK,blue,IMT,   VICTORY   ,69.0k,16,  8 ,  1 ,  1 ,  3 ,  1 ,Rumble,Irelia,Karma,Nautilus,Blitzcrank
+2020.0,summer,LCS_a,4,Immortals Academy,Evil Geniuses Academy,1.0,38:59,OK,red,EG,   DEFEAT   ,66.8k,15,  5 ,  0 ,  1 ,  3 ,  1 ,Syndra,Sett,Graves,Braum,Thresh
+2020.0,summer,LCS_a,4,Golden Guardians Academy,100 Thieves Academy,1.0,29:40,OK,blue,100,   DEFEAT   ,43.5k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Bard,Graves,Kalista,Gangplank,Yuumi
+2020.0,summer,LCS_a,4,Golden Guardians Academy,100 Thieves Academy,1.0,29:40,OK,red,GG,   VICTORY   ,58.3k,18,  10 ,  1 ,  0 ,  3 ,  2 ,Varus,Volibear,Orianna,Ornn,Nautilus
+2020.0,summer,LCS_a,5,TL Academy,CLG Academy,1.0,33:47,OK,blue,TL,   VICTORY   ,62.5k,13,  8 ,  1 ,  0 ,  3 ,  0 ,Sett,Trundle,TwistedFate,Leona,Nautilus
+2020.0,summer,LCS_a,5,TL Academy,CLG Academy,1.0,33:47,OK,red,CLG,   DEFEAT   ,56.3k,6,  5 ,  0 ,  0 ,  2 ,  2 ,Ezreal,Kalista,Varus,Kaisa,Xayah
+2020.0,summer,LCS_a,5,100 Thieves Academy,FlyQuest Academy,1.0,36:44,OK,blue,FLY,   VICTORY   ,70.1k,22,  10 ,  2 ,  2 ,  3 ,  1 ,Trundle,Karma,Olaf,Gangplank,Malphite
+2020.0,summer,LCS_a,5,100 Thieves Academy,FlyQuest Academy,1.0,36:44,OK,red,100,   DEFEAT   ,58.6k,10,  2 ,  0 ,  0 ,  2 ,  1 ,Varus,Kalista,TwistedFate,Graves,Nidalee
+2020.0,summer,LCS_a,5,Cloud9 Academy,TSM Academy,1.0,34:22,OK,blue,C9,   VICTORY   ,67.7k,18,  11 ,  2 ,  2 ,  4 ,  2 ,Trundle,Aphelios,Kalista,Malphite,Zoe
+2020.0,summer,LCS_a,5,Cloud9 Academy,TSM Academy,1.0,34:22,OK,red,TSM,   DEFEAT   ,56.4k,11,  2 ,  0 ,  0 ,  2 ,  0 ,Ezreal,Thresh,Varus,Kassadin,Gangplank
+2020.0,summer,LCS_a,5,Golden Guardians Academy,Evil Geniuses Academy,1.0,36:26,OK,blue,EG,   VICTORY   ,63.1k,18,  9 ,  1 ,  1 ,  2 ,  0 ,Bard,Senna,TwistedFate,Trundle,Zoe
+2020.0,summer,LCS_a,5,Golden Guardians Academy,Evil Geniuses Academy,1.0,36:26,OK,red,GG,   DEFEAT   ,54.9k,5,  3 ,  0 ,  0 ,  3 ,  2 ,Karma,Kalista,Varus,Irelia,Azir
+2020.0,summer,LCS_a,5,Dignitas Academy,Immortals Academy,1.0,37:48,OK,blue,IMT,   VICTORY   ,69.3k,9,  11 ,  3 ,  2 ,  4 ,  0 ,Trundle,TwistedFate,Karma,Riven,Blitzcrank
+2020.0,summer,LCS_a,5,Dignitas Academy,Immortals Academy,1.0,37:48,OK,red,DIG,   DEFEAT   ,62.2k,8,  3 ,  0 ,  0 ,  2 ,  2 ,Varus,Ezreal,Kalista,Leblanc,Ornn
+2020.0,summer,LCS_a,5,Cloud9 Academy,100 Thieves Academy,1.0,32:15,OK,blue,100,   VICTORY   ,62.7k,22,  9 ,  1 ,  2 ,  2 ,  2 ,Trundle,Syndra,Graves,MonkeyKing,Maokai
+2020.0,summer,LCS_a,5,Cloud9 Academy,100 Thieves Academy,1.0,32:15,OK,red,C9,   DEFEAT   ,53.0k,10,  3 ,  0 ,  0 ,  3 ,  0 ,Varus,Kalista,TwistedFate,Urgot,Leblanc
+2020.0,summer,LCS_a,5,Golden Guardians Academy,TL Academy,1.0,36:45,OK,blue,GG,   VICTORY   ,71.9k,16,  11 ,  3 ,  1 ,  5 ,  1 ,Kennen,Kalista,Olaf,Thresh,Ornn
+2020.0,summer,LCS_a,5,Golden Guardians Academy,TL Academy,1.0,36:45,OK,red,TL,   DEFEAT   ,56.7k,8,  0 ,  0 ,  0 ,  0 ,  1 ,Ezreal,Varus,Trundle,Bard,TahmKench
+2020.0,summer,LCS_a,5,CLG Academy,Evil Geniuses Academy,1.0,27:36,OK,blue,CLG,   VICTORY   ,54.7k,16,  9 ,  2 ,  1 ,  4 ,  2 ,Karma,Aphelios,Rumble,Azir,Orianna
+2020.0,summer,LCS_a,5,CLG Academy,Evil Geniuses Academy,1.0,27:36,OK,red,EG,   DEFEAT   ,45.8k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Trundle,TwistedFate,Graves,JarvanIV,Nocturne
+2020.0,summer,LCS_a,5,FlyQuest Academy,Dignitas Academy,1.0,25:23,OK,blue,DIG,   VICTORY   ,47.1k,12,  8 ,  1 ,  0 ,  2 ,  2 ,Trundle,Karma,Ezreal,Nocturne,RekSai
+2020.0,summer,LCS_a,5,FlyQuest Academy,Dignitas Academy,1.0,25:23,OK,red,FLY,   DEFEAT   ,40.6k,6,  2 ,  0 ,  0 ,  2 ,  0 ,Varus,Volibear,TwistedFate,Riven,Orianna
+2020.0,summer,LCS_a,5,TSM Academy,Immortals Academy,1.0,30:26,OK,blue,TSM,   VICTORY   ,58.8k,22,  8 ,  1 ,  1 ,  4 ,  1 ,TahmKench,TwistedFate,Kassadin,Ornn,Malphite
+2020.0,summer,LCS_a,5,TSM Academy,Immortals Academy,1.0,30:26,OK,red,IMT,   DEFEAT   ,46.6k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Trundle,Ezreal,Graves,Camille,Aatrox
+2020.0,summer,LCS_a,6,TL Academy,Evil Geniuses Academy,1.0,28:49,OK,blue,TL,   DEFEAT   ,44.2k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Karma,Kalista,Irelia,Mordekaiser,Bard
+2020.0,summer,LCS_a,6,TL Academy,Evil Geniuses Academy,1.0,28:49,OK,red,EG,   VICTORY   ,55.9k,13,  11 ,  2 ,  1 ,  4 ,  2 ,Kennen,Volibear,TwistedFate,Trundle,Galio
+2020.0,summer,LCS_a,6,100 Thieves Academy,TSM Academy,1.0,32:34,OK,blue,TSM,   VICTORY   ,58.9k,16,  7 ,  1 ,  2 ,  2 ,  0 ,TwistedFate,Karma,MonkeyKing,Thresh,Camille
+2020.0,summer,LCS_a,6,100 Thieves Academy,TSM Academy,1.0,32:34,OK,red,100,   DEFEAT   ,52.7k,9,  4 ,  0 ,  0 ,  3 ,  2 ,Kalista,Graves,Zoe,Gangplank,Jayce
+2020.0,summer,LCS_a,6,Cloud9 Academy,FlyQuest Academy,1.0,29:12,OK,blue,C9,   VICTORY   ,55.3k,16,  11 ,  3 ,  1 ,  5 ,  1 ,Karthus,Olaf,Ashe,Azir,Corki
+2020.0,summer,LCS_a,6,Cloud9 Academy,FlyQuest Academy,1.0,29:12,OK,red,FLY,   DEFEAT   ,49.4k,8,  2 ,  0 ,  0 ,  0 ,  1 ,TwistedFate,Volibear,Kalista,Camille,Gangplank
+2020.0,summer,LCS_a,6,Golden Guardians Academy,Immortals Academy,1.0,29:37,OK,blue,GG,   VICTORY   ,57.5k,19,  9 ,  1 ,  1 ,  4 ,  2 ,Graves,Kalista,Olaf,Ornn,Galio
+2020.0,summer,LCS_a,6,Golden Guardians Academy,Immortals Academy,1.0,29:37,OK,red,IMT,   DEFEAT   ,42.2k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Trundle,Ezreal,MonkeyKing,Kindred,Aatrox
+2020.0,summer,LCS_a,6,CLG Academy,Dignitas Academy,1.0,30:07,OK,blue,DIG,   DEFEAT   ,48.8k,7,  1 ,  0 ,  1 ,  1 ,  0 ,Syndra,Karma,Trundle,Jayce,Draven
+2020.0,summer,LCS_a,6,CLG Academy,Dignitas Academy,1.0,30:07,OK,red,CLG,   VICTORY   ,56.1k,20,  9 ,  1 ,  0 ,  4 ,  2 ,Kalista,TwistedFate,Sett,Ornn,Orianna
+2020.0,summer,LCS_a,6,Cloud9 Academy,Evil Geniuses Academy,1.0,35:01,OK,blue,EG,   DEFEAT   ,58.3k,4,  4 ,  0 ,  0 ,  1 ,  1 ,Syndra,Khazix,Volibear,Ornn,Camille
+2020.0,summer,LCS_a,6,Cloud9 Academy,Evil Geniuses Academy,1.0,35:01,OK,red,C9,   VICTORY   ,64.2k,21,  9 ,  2 ,  1 ,  4 ,  1 ,Ezreal,Olaf,Trundle,MonkeyKing,TahmKench
+2020.0,summer,LCS_a,6,100 Thieves Academy,TL Academy,1.0,29:46,OK,blue,100,   VICTORY   ,57.2k,15,  9 ,  1 ,  1 ,  2 ,  2 ,Kennen,Sett,Trundle,Irelia,MonkeyKing
+2020.0,summer,LCS_a,6,100 Thieves Academy,TL Academy,1.0,29:46,OK,red,TL,   DEFEAT   ,47.4k,8,  1 ,  0 ,  0 ,  2 ,  0 ,TwistedFate,Kalista,Graves,Syndra,Rumble
+2020.0,summer,LCS_a,6,Golden Guardians Academy,Dignitas Academy,1.0,34:38,OK,blue,DIG,   DEFEAT   ,56.5k,15,  2 ,  0 ,  0 ,  1 ,  2 ,Karma,Syndra,Ezreal,Gangplank,Renekton
+2020.0,summer,LCS_a,6,Golden Guardians Academy,Dignitas Academy,1.0,34:38,OK,red,GG,   VICTORY   ,65.7k,22,  10 ,  2 ,  2 ,  4 ,  0 ,Kalista,Karthus,TwistedFate,Jayce,Kennen
+2020.0,summer,LCS_a,6,CLG Academy,Immortals Academy,1.0,32:14,OK,blue,IMT,   DEFEAT   ,52.6k,7,  4 ,  0 ,  0 ,  2 ,  2 ,Trundle,Pantheon,MonkeyKing,Kaisa,Rakan
+2020.0,summer,LCS_a,6,CLG Academy,Immortals Academy,1.0,32:14,OK,red,CLG,   VICTORY   ,60.4k,16,  10 ,  2 ,  2 ,  3 ,  0 ,TwistedFate,Kalista,Karma,Gangplank,Mordekaiser
+2020.0,summer,LCS_a,6,TSM Academy,FlyQuest Academy,1.0,33:48,OK,blue,FLY,   VICTORY   ,59.8k,9,  9 ,  1 ,  0 ,  3 ,  2 ,Graves,Kalista,Aphelios,Ornn,Gangplank
+2020.0,summer,LCS_a,6,TSM Academy,FlyQuest Academy,1.0,33:48,OK,red,TSM,   DEFEAT   ,57.5k,9,  6 ,  0 ,  1 ,  2 ,  0 ,Ezreal,TwistedFate,KogMaw,Kassadin,Corki
+2020.0,summer,LCS_a,7,100 Thieves Academy,CLG Academy,1.0,29:02,OK,blue,100,   VICTORY   ,56.0k,15,  9 ,  1 ,  1 ,  2 ,  2 ,Galio,Ornn,Volibear,MonkeyKing,Karthus
+2020.0,summer,LCS_a,7,100 Thieves Academy,CLG Academy,1.0,29:02,OK,red,CLG,   DEFEAT   ,46.4k,6,  1 ,  0 ,  0 ,  2 ,  0 ,TwistedFate,Karma,Kalista,Jayce,
+2020.0,summer,LCS_a,7,Cloud9 Academy,TL Academy,1.0,24:39,OK,blue,C9,   VICTORY   ,52.6k,22,  9 ,  1 ,  1 ,  4 ,  2 ,Olaf,Kennen,Trundle,Vladimir,Malphite
+2020.0,summer,LCS_a,7,Cloud9 Academy,TL Academy,1.0,24:39,OK,red,TL,   DEFEAT   ,36.2k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Kalista,Ezreal,Thresh,Karma,Bard
+2020.0,summer,LCS_a,7,Immortals Academy,Evil Geniuses Academy,1.0,30:37,OK,blue,EG,   VICTORY   ,57.7k,10,  10 ,  2 ,  2 ,  3 ,  2 ,Syndra,Azir,Graves,Galio,Zoe
+2020.0,summer,LCS_a,7,Immortals Academy,Evil Geniuses Academy,1.0,30:37,OK,red,IMT,   DEFEAT   ,45.2k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Trundle,TwistedFate,Kalista,MonkeyKing,Irelia
+2020.0,summer,LCS_a,7,TSM Academy,Dignitas Academy,1.0,37:00,OK,blue,TSM,   DEFEAT   ,57.9k,2,  4 ,  0 ,  0 ,  2 ,  0 ,Ashe,MonkeyKing,Leblanc,Camille,Malphite
+2020.0,summer,LCS_a,7,TSM Academy,Dignitas Academy,1.0,37:00,OK,red,DIG,   VICTORY   ,68.4k,13,  9 ,  2 ,  2 ,  4 ,  2 ,Kalista,Karma,TwistedFate,Ornn,Thresh
+2020.0,summer,LCS_a,7,Golden Guardians Academy,FlyQuest Academy,1.0,26:57,OK,blue,FLY,   DEFEAT   ,40.2k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Galio,Karma,Gangplank,Kassadin,Malphite
+2020.0,summer,LCS_a,7,Golden Guardians Academy,FlyQuest Academy,1.0,26:57,OK,red,GG,   VICTORY   ,53.4k,20,  10 ,  2 ,  1 ,  4 ,  2 ,Kalista,Karthus,TwistedFate,Rumble,Nidalee
+2020.0,summer,LCS_a,7,Cloud9 Academy,Immortals Academy,1.0,32:59,OK,blue,IMT,   DEFEAT   ,58.5k,11,  5 ,  0 ,  0 ,  0 ,  2 ,Kalista,Trundle,MonkeyKing,Camille,Thresh
+2020.0,summer,LCS_a,7,Cloud9 Academy,Immortals Academy,1.0,32:59,OK,red,C9,   VICTORY   ,61.9k,22,  7 ,  1 ,  0 ,  5 ,  0 ,Ezreal,Olaf,Volibear,Ornn,Mordekaiser
+2020.0,summer,LCS_a,7,TSM Academy,CLG Academy,1.0,36:32,OK,blue,TSM,   VICTORY   ,66.5k,9,  7 ,  1 ,  1 ,  2 ,  0 ,Galio,Ornn,MonkeyKing,Ashe,Thresh
+2020.0,summer,LCS_a,7,TSM Academy,CLG Academy,1.0,36:32,OK,red,CLG,   DEFEAT   ,63.6k,21,  7 ,  1 ,  1 ,  4 ,  2 ,Kalista,TwistedFate,Karma,Ryze,Aatrox
+2020.0,summer,LCS_a,7,Dignitas Academy,Evil Geniuses Academy,1.0,35:04,OK,blue,DIG,   VICTORY   ,62.2k,17,  7 ,  1 ,  1 ,  3 ,  1 ,Volibear,TwistedFate,Irelia,Sylas,Thresh
+2020.0,summer,LCS_a,7,Dignitas Academy,Evil Geniuses Academy,1.0,35:04,OK,red,EG,   DEFEAT   ,56.4k,8,  4 ,  0 ,  0 ,  3 ,  1 ,Kalista,Bard,Karma,Graves,Khazix
+2020.0,summer,LCS_a,7,Golden Guardians Academy,100 Thieves Academy,1.0,31:55,OK,blue,GG,   DEFEAT   ,51.7k,10,  2 ,  0 ,  0 ,  5 ,  1 ,Kalista,Galio,Nidalee,Orianna,Thresh
+2020.0,summer,LCS_a,7,Golden Guardians Academy,100 Thieves Academy,1.0,31:55,OK,red,100,   VICTORY   ,61.5k,20,  9 ,  1 ,  2 ,  0 ,  1 ,TwistedFate,Ezreal,Volibear,Azir,MonkeyKing
+2020.0,summer,LCS_a,7,FlyQuest Academy,TL Academy,1.0,37:35,OK,blue,TL,   DEFEAT   ,64.3k,9,  4 ,  0 ,  0 ,  1 ,  1 ,Karthus,TwistedFate,Kalista,Braum,Zoe
+2020.0,summer,LCS_a,7,FlyQuest Academy,TL Academy,1.0,37:35,OK,red,FLY,   VICTORY   ,71.7k,16,  10 ,  2 ,  1 ,  5 ,  1 ,Olaf,Kennen,Volibear,Nidalee,Kassadin
+2020.0,summer,LCS_a,8,TL Academy,Dignitas Academy,1.0,33:08,OK,blue,TL,   VICTORY   ,66.6k,21,  10 ,  2 ,  1 ,  3 ,  1 ,Ashe,Volibear,Galio,Ornn,Graves
+2020.0,summer,LCS_a,8,TL Academy,Dignitas Academy,1.0,33:08,OK,red,DIG,   DEFEAT   ,55.6k,10,  3 ,  0 ,  0 ,  2 ,  1 ,Kennen,Olaf,Sona,Sylas,Nidalee
+2020.0,summer,LCS_a,8,Golden Guardians Academy,CLG Academy,1.0,29:21,OK,blue,GG,   VICTORY   ,51.9k,14,  7 ,  1 ,  0 ,  3 ,  2 ,Sona,Galio,Kalista,Caitlyn,Pantheon
+2020.0,summer,LCS_a,8,Golden Guardians Academy,CLG Academy,1.0,29:21,OK,red,CLG,   DEFEAT   ,46.0k,10,  2 ,  0 ,  0 ,  2 ,  0 ,Karma,TwistedFate,Bard,Gangplank,Kayle
+2020.0,summer,LCS_a,8,Cloud9 Academy,TSM Academy,1.0,34:08,OK,blue,TSM,   DEFEAT   ,55.3k,9,  3 ,  0 ,  0 ,  2 ,  1 ,Galio,Olaf,Kalista,Gangplank,Nautilus
+2020.0,summer,LCS_a,8,Cloud9 Academy,TSM Academy,1.0,34:08,OK,red,C9,   VICTORY   ,61.8k,13,  9 ,  2 ,  1 ,  4 ,  1 ,TwistedFate,Trundle,Ezreal,Orianna,Ornn
+2020.0,summer,LCS_a,8,100 Thieves Academy,Immortals Academy,1.0,42:51,OK,blue,IMT,   VICTORY   ,81.4k,19,  9 ,  1 ,  2 ,  4 ,  1 ,Karma,Olaf,Kalista,Thresh,Camille
+2020.0,summer,LCS_a,8,100 Thieves Academy,Immortals Academy,1.0,42:51,OK,red,100,   DEFEAT   ,77.0k,19,  9 ,  1 ,  1 ,  3 ,  1 ,Ezreal,Galio,Sona,Gangplank,MonkeyKing
+2020.0,summer,LCS_a,8,FlyQuest Academy,Evil Geniuses Academy,1.0,33:54,OK,blue,FLY,   DEFEAT   ,53.2k,2,  2 ,  0 ,  0 ,  1 ,  1 ,Galio,Karma,Kalista,Jayce,Camille
+2020.0,summer,LCS_a,8,FlyQuest Academy,Evil Geniuses Academy,1.0,33:54,OK,red,EG,   VICTORY   ,68.4k,16,  9 ,  1 ,  2 ,  4 ,  1 ,Azir,Pantheon,Volibear,Bard,Trundle
+2020.0,summer,LCS_a,8,TSM Academy,Evil Geniuses Academy,1.0,35:56,OK,blue,EG,   VICTORY   ,66.0k,15,  7 ,  1 ,  1 ,  2 ,  0 ,Azir,Trundle,Karma,Ornn,Malphite
+2020.0,summer,LCS_a,8,TSM Academy,Evil Geniuses Academy,1.0,35:56,OK,red,TSM,   DEFEAT   ,62.1k,17,  5 ,  1 ,  0 ,  3 ,  2 ,Galio,Kalista,Olaf,Nidalee,Gangplank
+2020.0,summer,LCS_a,8,100 Thieves Academy,FlyQuest Academy,1.0,26:49,OK,blue,100,   VICTORY   ,52.9k,18,  10 ,  2 ,  1 ,  4 ,  2 ,Galio,Sona,Volibear,RekSai,Gangplank
+2020.0,summer,LCS_a,8,100 Thieves Academy,FlyQuest Academy,1.0,26:49,OK,red,FLY,   DEFEAT   ,39.6k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Kalista,Karma,TwistedFate,Bard,Leona
+2020.0,summer,LCS_a,8,Cloud9 Academy,Golden Guardians Academy,1.0,28:36,OK,blue,C9,   VICTORY   ,58.1k,17,  9 ,  2 ,  1 ,  3 ,  1 ,Olaf,Galio,Ezreal,TahmKench,Malphite
+2020.0,summer,LCS_a,8,Cloud9 Academy,Golden Guardians Academy,1.0,28:36,OK,red,GG,   DEFEAT   ,44.3k,8,  1 ,  0 ,  0 ,  1 ,  1 ,Sett,Volibear,Thresh,Gangplank,Camille
+2020.0,summer,LCS_a,8,TL Academy,CLG Academy,1.0,35:35,OK,blue,CLG,   VICTORY   ,63.7k,22,  8 ,  1 ,  1 ,  3 ,  1 ,Kennen,Volibear,Ashe,Aatrox,Ryze
+2020.0,summer,LCS_a,8,TL Academy,CLG Academy,1.0,35:35,OK,red,TL,   DEFEAT   ,58.2k,9,  5 ,  0 ,  1 ,  2 ,  1 ,Galio,Sett,Rumble,Ornn,TwistedFate
+2020.0,summer,LCS_a,8,Dignitas Academy,Immortals Academy,1.0,30:09,OK,blue,DIG,   VICTORY   ,57.9k,14,  8 ,  1 ,  0 ,  4 ,  0 ,Sona,TwistedFate,Ezreal,Pantheon,Ornn
+2020.0,summer,LCS_a,8,Dignitas Academy,Immortals Academy,1.0,30:09,OK,red,IMT,   DEFEAT   ,47.5k,5,  1 ,  0 ,  0 ,  1 ,  2 ,Kalista,Olaf,Thresh,Galio,Leblanc
+2020.0,summer,LCS_a,9,Cloud9 Academy,Dignitas Academy,1.0,33:53,OK,blue,DIG,   VICTORY   ,67.2k,23,  11 ,  2 ,  1 ,  5 ,  2 ,Sona,Azir,Galio,MonkeyKing,Gangplank
+2020.0,summer,LCS_a,9,Cloud9 Academy,Dignitas Academy,1.0,33:53,OK,red,C9,   DEFEAT   ,52.6k,5,  3 ,  0 ,  0 ,  0 ,  0 ,Olaf,Karthus,TwistedFate,Leblanc,Graves
+2020.0,summer,LCS_a,9,Golden Guardians Academy,TSM Academy,1.0,43:06,OK,blue,TSM,   VICTORY   ,77.4k,17,  9 ,  1 ,  1 ,  4 ,  1 ,TwistedFate,Galio,Sett,Lissandra,Renekton
+2020.0,summer,LCS_a,9,Golden Guardians Academy,TSM Academy,1.0,43:06,OK,red,GG,   DEFEAT   ,71.3k,9,  5 ,  1 ,  1 ,  3 ,  1 ,Kalista,Ezreal,Volibear,Thresh,Nautilus
+2020.0,summer,LCS_a,9,TL Academy,Immortals Academy,1.0,39:13,OK,blue,IMT,   VICTORY   ,74.0k,27,  11 ,  3 ,  2 ,  4 ,  1 ,Olaf,Trundle,Karma,Blitzcrank,MonkeyKing
+2020.0,summer,LCS_a,9,TL Academy,Immortals Academy,1.0,39:13,OK,red,TL,   DEFEAT   ,61.8k,13,  3 ,  0 ,  0 ,  2 ,  1 ,Galio,TwistedFate,Pantheon,Cassiopeia,Azir
+2020.0,summer,LCS_a,9,100 Thieves Academy,Evil Geniuses Academy,1.0,35:41,OK,blue,EG,   DEFEAT   ,62.5k,12,  4 ,  0 ,  0 ,  1 ,  1 ,Azir,Karma,Sett,Orianna,Renekton
+2020.0,summer,LCS_a,9,100 Thieves Academy,Evil Geniuses Academy,1.0,35:41,OK,red,100,   VICTORY   ,64.7k,19,  8 ,  1 ,  1 ,  4 ,  1 ,Ezreal,Galio,Volibear,Nidalee,Olaf
+2020.0,summer,LCS_a,9,FlyQuest Academy,CLG Academy,1.0,33:14,OK,blue,CLG,   VICTORY   ,65.1k,17,  8 ,  1 ,  1 ,  4 ,  0 ,Lillia,Karma,Bard,Trundle,Morgana
+2020.0,summer,LCS_a,9,FlyQuest Academy,CLG Academy,1.0,33:14,OK,red,FLY,   DEFEAT   ,54.2k,4,  5 ,  0 ,  0 ,  1 ,  2 ,Galio,TwistedFate,Volibear,Zoe,Khazix
+2020.0,summer,LCS_a,9,FlyQuest Academy,Immortals Academy,1.0,30:42,OK,blue,FLY,   VICTORY   ,59.9k,17,  9 ,  2 ,  2 ,  4 ,  1 ,TwistedFate,Olaf,Ezreal,Leblanc,Corki
+2020.0,summer,LCS_a,9,FlyQuest Academy,Immortals Academy,1.0,30:42,OK,red,IMT,   DEFEAT   ,48.7k,5,  2 ,  0 ,  0 ,  0 ,  1 ,Trundle,MonkeyKing,Karma,Morgana,TahmKench
+2020.0,summer,LCS_a,9,100 Thieves Academy,Dignitas Academy,1.0,31:16,OK,blue,100,   VICTORY   ,58.6k,15,  9 ,  1 ,  1 ,  1 ,  1 ,Karthus,Kalista,Nidalee,TahmKench,Thresh
+2020.0,summer,LCS_a,9,100 Thieves Academy,Dignitas Academy,1.0,31:16,OK,red,DIG,   DEFEAT   ,50.8k,9,  2 ,  0 ,  0 ,  4 ,  1 ,Karma,Sett,Azir,Yuumi,Olaf
+2020.0,summer,LCS_a,9,Golden Guardians Academy,Evil Geniuses Academy,1.0,41:00,OK,blue,GG,   VICTORY   ,74.9k,15,  10 ,  2 ,  1 ,  1 ,  2 ,Kalista,Volibear,Irelia,Bard,LeeSin
+2020.0,summer,LCS_a,9,Golden Guardians Academy,Evil Geniuses Academy,1.0,41:00,OK,red,EG,   DEFEAT   ,72.0k,10,  6 ,  1 ,  1 ,  5 ,  0 ,TwistedFate,Karma,Sett,Rakan,Sona
+2020.0,summer,LCS_a,9,Cloud9 Academy,CLG Academy,1.0,36:56,OK,blue,C9,   VICTORY   ,67.3k,15,  9 ,  1 ,  0 ,  4 ,  2 ,Olaf,Caitlyn,Gangplank,Nidalee,Morgana
+2020.0,summer,LCS_a,9,Cloud9 Academy,CLG Academy,1.0,36:56,OK,red,CLG,   DEFEAT   ,63.1k,10,  6 ,  1 ,  1 ,  1 ,  0 ,Ashe,TwistedFate,Galio,Aatrox,Ryze
+2020.0,summer,LCS_a,9,TSM Academy,TL Academy,1.0,26:08,OK,blue,TL,   DEFEAT   ,44.0k,9,  2 ,  0 ,  0 ,  0 ,  1 ,Ashe,Volibear,Karma,Graves,RekSai
+2020.0,summer,LCS_a,9,TSM Academy,TL Academy,1.0,26:08,OK,red,TSM,   VICTORY   ,54.6k,26,  11 ,  3 ,  1 ,  4 ,  1 ,Olaf,Galio,Sett,Irelia,Lucian

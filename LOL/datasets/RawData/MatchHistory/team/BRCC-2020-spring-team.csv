@@ -1,0 +1,91 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,BRCC,1,RED Canids,Havan Liberty Gaming,1.0,46:21,OK,blue,RED,   DEFEAT   ,78.3k,17,  4 ,  0 ,  1 ,  3 ,  1 ,Elise,Rumble,Sett,Mordekaiser,Irelia
+2020.0,spring,BRCC,1,RED Canids,Havan Liberty Gaming,1.0,46:21,OK,red,HL,   VICTORY   ,85.9k,21,  11 ,  3 ,  2 ,  4 ,  1 ,Akali,Aphelios,Thresh,Yasuo,Braum
+2020.0,spring,BRCC,1,Santos,Team oNe,1.0,26:10,OK,blue,SAN,   VICTORY   ,50.9k,17,  9 ,  1 ,  1 ,  4 ,  2 ,Rakan,Rumble,Sett,Leona,Nautilus
+2020.0,spring,BRCC,1,Santos,Team oNe,1.0,26:10,OK,red,ONE,   DEFEAT   ,40.4k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Akali,Olaf,Qiyana,Irelia,Camille
+2020.0,spring,BRCC,1,Falkol,Intergalaxy Tigers,1.0,37:28,OK,blue,FKL,   VICTORY   ,69.3k,20,  9 ,  1 ,  2 ,  4 ,  2 ,Elise,Renekton,Pantheon,Leblanc,JarvanIV
+2020.0,spring,BRCC,1,Falkol,Intergalaxy Tigers,1.0,37:28,OK,red,ITX,   DEFEAT   ,57.6k,11,  2 ,  0 ,  0 ,  1 ,  0 ,Akali,Qiyana,Lucian,Aatrox,Gragas
+2020.0,spring,BRCC,1,Team oNe,RED Canids,1.0,27:28,OK,blue,ONE,   DEFEAT   ,45.3k,11,  4 ,  0 ,  0 ,  2 ,  2 ,Thresh,Lucian,Qiyana,Nautilus,Alistar
+2020.0,spring,BRCC,1,Team oNe,RED Canids,1.0,27:28,OK,red,RED,   VICTORY   ,49.7k,9,  7 ,  1 ,  1 ,  2 ,  0 ,Rakan,Rumble,Akali,Leblanc,Diana
+2020.0,spring,BRCC,1,Intergalaxy Tigers,Havan Liberty Gaming,1.0,41:18,OK,blue,ITX,   DEFEAT   ,69.4k,14,  5 ,  0 ,  1 ,  3 ,  0 ,Qiyana,JarvanIV,Lucian,Yasuo,Leblanc
+2020.0,spring,BRCC,1,Intergalaxy Tigers,Havan Liberty Gaming,1.0,41:18,OK,red,HL,   VICTORY   ,77.3k,29,  10 ,  3 ,  1 ,  3 ,  2 ,Akali,Aphelios,Sett,Cassiopeia,Aatrox
+2020.0,spring,BRCC,1,Falkol,Santos,1.0,30:18,OK,blue,FKL,   VICTORY   ,57.6k,22,  8 ,  1 ,  1 ,  3 ,  2 ,Lucian,Rakan,Qiyana,Rumble,Leblanc
+2020.0,spring,BRCC,1,Falkol,Santos,1.0,30:18,OK,red,SAN,   DEFEAT   ,44.4k,6,  0 ,  0 ,  0 ,  1 ,  0 ,Akali,Syndra,Sett,LeeSin,Gragas
+2020.0,spring,BRCC,2,Team oNe,Falkol,1.0,36:05,OK,blue,ONE,   VICTORY   ,61.5k,12,  9 ,  1 ,  0 ,  2 ,  2 ,Renekton,Senna,Lucian,Irelia,Mordekaiser
+2020.0,spring,BRCC,2,Team oNe,Falkol,1.0,36:05,OK,red,FKL,   DEFEAT   ,55.2k,9,  3 ,  0 ,  0 ,  3 ,  0 ,Elise,Sett,Ornn,Gragas,JarvanIV
+2020.0,spring,BRCC,2,RED Canids,Intergalaxy Tigers,1.0,36:11,OK,blue,RED,   VICTORY   ,67.2k,18,  11 ,  3 ,  1 ,  5 ,  0 ,Elise,Pantheon,Ornn,Yuumi,Olaf
+2020.0,spring,BRCC,2,RED Canids,Intergalaxy Tigers,1.0,36:11,OK,red,ITX,   DEFEAT   ,57.5k,8,  5 ,  0 ,  0 ,  1 ,  2 ,Thresh,Lucian,LeeSin,Karthus,Kindred
+2020.0,spring,BRCC,2,Havan Liberty Gaming,Santos,1.0,28:45,OK,blue,HL,   DEFEAT   ,46.5k,7,  3 ,  0 ,  0 ,  3 ,  2 ,Irelia,Leblanc,Ornn,Viktor,Syndra
+2020.0,spring,BRCC,2,Havan Liberty Gaming,Santos,1.0,28:45,OK,red,SAN,   VICTORY   ,48.2k,6,  6 ,  1 ,  1 ,  1 ,  0 ,Elise,LeeSin,Sett,Renekton,Yuumi
+2020.0,spring,BRCC,2,Intergalaxy Tigers,Team oNe,1.0,33:57,OK,blue,ITX,   DEFEAT   ,52.0k,11,  4 ,  0 ,  0 ,  2 ,  1 ,Jayce,Aphelios,Leblanc,JarvanIV,Sejuani
+2020.0,spring,BRCC,2,Intergalaxy Tigers,Team oNe,1.0,33:57,OK,red,ONE,   VICTORY   ,64.3k,20,  10 ,  2 ,  2 ,  3 ,  1 ,Ornn,Elise,Lucian,Olaf,RekSai
+2020.0,spring,BRCC,2,Falkol,Havan Liberty Gaming,1.0,51:44,OK,blue,FKL,   VICTORY   ,85.8k,18,  9 ,  1 ,  1 ,  4 ,  1 ,Olaf,Yasuo,Irelia,Zed,Renekton
+2020.0,spring,BRCC,2,Falkol,Havan Liberty Gaming,1.0,51:44,OK,red,HL,   DEFEAT   ,89.5k,16,  8 ,  2 ,  2 ,  4 ,  1 ,Ornn,Sett,Senna,Zoe,Syndra
+2020.0,spring,BRCC,2,Santos,RED Canids,1.0,44:43,OK,blue,SAN,   VICTORY   ,75.4k,11,  9 ,  2 ,  1 ,  4 ,  2 ,Elise,Thresh,LeeSin,Yuumi,Rakan
+2020.0,spring,BRCC,2,Santos,RED Canids,1.0,44:43,OK,red,RED,   DEFEAT   ,73.5k,8,  7 ,  2 ,  1 ,  3 ,  0 ,Sett,Senna,Ornn,Viktor,Syndra
+2020.0,spring,BRCC,3,RED Canids,Falkol,1.0,40:28,OK,blue,RED,   VICTORY   ,68.4k,13,  8 ,  1 ,  0 ,  2 ,  2 ,Pantheon,Senna,Kalista,LeeSin,Olaf
+2020.0,spring,BRCC,3,RED Canids,Falkol,1.0,40:28,OK,red,FKL,   DEFEAT   ,70.0k,12,  7 ,  0 ,  2 ,  4 ,  0 ,Yasuo,Sett,Ornn,Leblanc,Renekton
+2020.0,spring,BRCC,3,Santos,Intergalaxy Tigers,1.0,23:30,OK,blue,SAN,   VICTORY   ,50.5k,23,  9 ,  1 ,  1 ,  4 ,  2 ,Renekton,Elise,Sett,Leblanc,Talon
+2020.0,spring,BRCC,3,Santos,Intergalaxy Tigers,1.0,23:30,OK,red,ITX,   DEFEAT   ,32.1k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Senna,Pantheon,Ornn,Fiora,Jax
+2020.0,spring,BRCC,3,Havan Liberty Gaming,Team oNe,1.0,34:39,OK,blue,HL,   VICTORY   ,61.7k,13,  11 ,  3 ,  1 ,  2 ,  1 ,Jayce,Renekton,Kalista,JarvanIV,Karthus
+2020.0,spring,BRCC,3,Havan Liberty Gaming,Team oNe,1.0,34:39,OK,red,ONE,   DEFEAT   ,55.8k,6,  3 ,  0 ,  0 ,  3 ,  1 ,Lucian,Senna,Ornn,Yasuo,Aphelios
+2020.0,spring,BRCC,3,Intergalaxy Tigers,Falkol,1.0,28:52,OK,blue,ITX,   DEFEAT   ,42.7k,6,  2 ,  0 ,  0 ,  0 ,  0 ,Zoe,Kalista,Pantheon,Gangplank,Sejuani
+2020.0,spring,BRCC,3,Intergalaxy Tigers,Falkol,1.0,28:52,OK,red,FKL,   VICTORY   ,56.8k,19,  10 ,  2 ,  1 ,  4 ,  2 ,Elise,Ornn,Aphelios,Trundle,JarvanIV
+2020.0,spring,BRCC,3,Havan Liberty Gaming,RED Canids,1.0,27:37,OK,blue,HL,   VICTORY   ,50.8k,13,  9 ,  1 ,  1 ,  3 ,  2 ,Karthus,Yasuo,Senna,Gragas,Leblanc
+2020.0,spring,BRCC,3,Havan Liberty Gaming,RED Canids,1.0,27:37,OK,red,RED,   DEFEAT   ,39.4k,0,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Pantheon,Sejuani,Olaf,JarvanIV
+2020.0,spring,BRCC,3,Team oNe,Santos,1.0,36:40,OK,blue,ONE,   DEFEAT   ,61.7k,13,  4 ,  0 ,  0 ,  1 ,  1 ,Lucian,Pantheon,Sejuani,Mordekaiser,Leblanc
+2020.0,spring,BRCC,3,Team oNe,Santos,1.0,36:40,OK,red,SAN,   VICTORY   ,68.3k,21,  9 ,  2 ,  2 ,  4 ,  1 ,Aphelios,Elise,Ornn,Karthus,JarvanIV
+2020.0,spring,BRCC,4,Havan Liberty Gaming,Intergalaxy Tigers,1.0,24:55,OK,blue,HL,   VICTORY   ,48.5k,18,  8 ,  1 ,  1 ,  4 ,  2 ,Elise,Trundle,Senna,MissFortune,Ezreal
+2020.0,spring,BRCC,4,Havan Liberty Gaming,Intergalaxy Tigers,1.0,24:55,OK,red,ITX,   DEFEAT   ,34.2k,2,  1 ,  0 ,  0 ,  0 ,  0 ,Nautilus,Sett,Kalista,Karthus,Ornn
+2020.0,spring,BRCC,4,Santos,Falkol,1.0,44:47,OK,blue,SAN,   DEFEAT   ,77.8k,19,  6 ,  0 ,  1 ,  4 ,  1 ,Varus,Sett,Aphelios,Taliyah,MissFortune
+2020.0,spring,BRCC,4,Santos,Falkol,1.0,44:47,OK,red,FKL,   VICTORY   ,83.4k,24,  11 ,  3 ,  2 ,  3 ,  1 ,Sejuani,Senna,Pantheon,JarvanIV,Akali
+2020.0,spring,BRCC,4,RED Canids,Team oNe,1.0,38:20,OK,blue,RED,   DEFEAT   ,57.7k,10,  2 ,  0 ,  0 ,  1 ,  1 ,Olaf,Senna,Varus,Nautilus,Morgana
+2020.0,spring,BRCC,4,RED Canids,Team oNe,1.0,38:20,OK,red,ONE,   VICTORY   ,69.3k,21,  8 ,  1 ,  1 ,  4 ,  1 ,Kalista,Sett,Zoe,Yasuo,Thresh
+2020.0,spring,BRCC,4,Santos,Havan Liberty Gaming,1.0,21:11,OK,blue,SAN,   VICTORY   ,44.7k,24,  10 ,  2 ,  0 ,  2 ,  2 ,LeeSin,Elise,Aphelios,Karthus,Leblanc
+2020.0,spring,BRCC,4,Santos,Havan Liberty Gaming,1.0,21:11,OK,red,HL,   DEFEAT   ,30.5k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Senna,Pantheon,Thresh,Azir,Sejuani
+2020.0,spring,BRCC,4,Falkol,Team oNe,1.0,28:33,OK,blue,FKL,   DEFEAT   ,43.7k,7,  2 ,  0 ,  0 ,  1 ,  1 ,Senna,Renekton,Aphelios,Ekko,Leblanc
+2020.0,spring,BRCC,4,Falkol,Team oNe,1.0,28:33,OK,red,ONE,   VICTORY   ,52.2k,16,  7 ,  1 ,  1 ,  3 ,  1 ,Kalista,Sett,Azir,JarvanIV,Gragas
+2020.0,spring,BRCC,4,Intergalaxy Tigers,RED Canids,1.0,34:18,OK,blue,ITX,   DEFEAT   ,61.9k,23,  5 ,  0 ,  0 ,  2 ,  1 ,JarvanIV,Karthus,Thresh,Zoe,Akali
+2020.0,spring,BRCC,4,Intergalaxy Tigers,RED Canids,1.0,34:18,OK,red,RED,   VICTORY   ,65.5k,22,  9 ,  1 ,  1 ,  3 ,  1 ,Pantheon,Olaf,Elise,TahmKench,Nautilus
+2020.0,spring,BRCC,5,RED Canids,Santos,1.0,36:19,OK,blue,RED,   VICTORY   ,64.1k,16,  10 ,  3 ,  0 ,  3 ,  2 ,Senna,Irelia,Kalista,Yuumi,Mordekaiser
+2020.0,spring,BRCC,5,RED Canids,Santos,1.0,36:19,OK,red,SAN,   DEFEAT   ,64.9k,13,  8 ,  2 ,  1 ,  3 ,  0 ,Renekton,Aphelios,LeeSin,Thresh,Leona
+2020.0,spring,BRCC,5,Team oNe,Intergalaxy Tigers,1.0,28:57,OK,blue,ONE,   VICTORY   ,53.5k,13,  9 ,  1 ,  1 ,  2 ,  1 ,Yuumi,Senna,Sett,Taric,Thresh
+2020.0,spring,BRCC,5,Team oNe,Intergalaxy Tigers,1.0,28:57,OK,red,ITX,   DEFEAT   ,44.5k,6,  3 ,  0 ,  0 ,  2 ,  1 ,Varus,Renekton,LeeSin,Malzahar,Jayce
+2020.0,spring,BRCC,5,Havan Liberty Gaming,Falkol,1.0,44:29,OK,blue,HL,   DEFEAT   ,74.1k,18,  8 ,  2 ,  0 ,  5 ,  1 ,Syndra,Renekton,Yuumi,Azir,Zoe
+2020.0,spring,BRCC,5,Havan Liberty Gaming,Falkol,1.0,44:29,OK,red,FKL,   VICTORY   ,75.9k,19,  8 ,  2 ,  1 ,  1 ,  1 ,Senna,Aphelios,Kalista,Sylas,Kindred
+2020.0,spring,BRCC,5,Intergalaxy Tigers,Santos,1.0,26:55,OK,blue,ITX,   DEFEAT   ,39.7k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Pantheon,Varus,Irelia,Nautilus,Trundle
+2020.0,spring,BRCC,5,Intergalaxy Tigers,Santos,1.0,26:55,OK,red,SAN,   VICTORY   ,53.8k,22,  8 ,  1 ,  1 ,  3 ,  2 ,Renekton,Elise,Sett,Camille,Leblanc
+2020.0,spring,BRCC,5,Team oNe,Havan Liberty Gaming,1.0,34:51,OK,blue,ONE,   DEFEAT   ,57.2k,4,  6 ,  0 ,  0 ,  1 ,  0 ,Ezreal,Rakan,Sett,Olaf,Leblanc
+2020.0,spring,BRCC,5,Team oNe,Havan Liberty Gaming,1.0,34:51,OK,red,HL,   VICTORY   ,63.8k,14,  9 ,  2 ,  1 ,  4 ,  2 ,Kalista,Senna,Trundle,Sylas,Jayce
+2020.0,spring,BRCC,5,Falkol,RED Canids,1.0,38:16,OK,blue,FKL,   DEFEAT   ,62.6k,13,  6 ,  1 ,  1 ,  2 ,  0 ,Senna,Sett,Syndra,Renekton,Galio
+2020.0,spring,BRCC,5,Falkol,RED Canids,1.0,38:16,OK,red,RED,   VICTORY   ,63.1k,8,  9 ,  1 ,  1 ,  4 ,  2 ,Kalista,Yuumi,Ezreal,Azir,Zoe
+2020.0,spring,BRCC,6,Team oNe,Santos,1.0,39:10,OK,blue,ONE,   VICTORY   ,69.3k,18,  10 ,  2 ,  1 ,  3 ,  0 ,Ekko,Pantheon,Trundle,Akali,
+2020.0,spring,BRCC,6,Team oNe,Santos,1.0,39:10,OK,red,SAN,   DEFEAT   ,64.1k,11,  5 ,  0 ,  0 ,  3 ,  2 ,Renekton,Aphelios,Sett,Poppy,LeeSin
+2020.0,spring,BRCC,6,RED Canids,Havan Liberty Gaming,1.0,29:59,OK,blue,RED,   VICTORY   ,51.1k,10,  10 ,  2 ,  0 ,  4 ,  2 ,Yuumi,Varus,Trundle,Leblanc,Rakan
+2020.0,spring,BRCC,6,RED Canids,Havan Liberty Gaming,1.0,29:59,OK,red,HL,   DEFEAT   ,45.3k,8,  2 ,  0 ,  0 ,  0 ,  0 ,Syndra,Sett,Kalista,Elise,Sejuani
+2020.0,spring,BRCC,6,Falkol,Intergalaxy Tigers,1.0,31:53,OK,blue,ITX,   DEFEAT   ,49.6k,6,  2 ,  0 ,  0 ,  1 ,  1 ,Sett,Renekton,Yuumi,Syndra,Zoe
+2020.0,spring,BRCC,6,Falkol,Intergalaxy Tigers,1.0,31:53,OK,red,FKL,   VICTORY   ,60.0k,19,  8 ,  1 ,  0 ,  3 ,  1 ,Senna,Rakan,Trundle,Pantheon,
+2020.0,spring,BRCC,6,Falkol,Santos,1.0,25:08,OK,blue,SAN,   VICTORY   ,47.3k,11,  9 ,  2 ,  1 ,  2 ,  2 ,Syndra,Renekton,Jayce,Gangplank,
+2020.0,spring,BRCC,6,Falkol,Santos,1.0,25:08,OK,red,FKL,   DEFEAT   ,34.9k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Ekko,Senna,Viktor,Akali
+2020.0,spring,BRCC,6,Team oNe,RED Canids,1.0,45:09,OK,blue,ONE,   VICTORY   ,82.6k,22,  9 ,  1 ,  1 ,  5 ,  1 ,Tristana,Velkoz,Trundle,LeeSin,Leblanc
+2020.0,spring,BRCC,6,Team oNe,RED Canids,1.0,45:09,OK,red,RED,   DEFEAT   ,74.0k,13,  6 ,  1 ,  1 ,  2 ,  1 ,Varus,Senna,Aphelios,RekSai,Karthus
+2020.0,spring,BRCC,6,Intergalaxy Tigers,Havan Liberty Gaming,1.0,31:51,OK,blue,ITX,   DEFEAT   ,49.2k,10,  2 ,  0 ,  0 ,  2 ,  0 ,LeeSin,Thresh,Renekton,JarvanIV,Elise
+2020.0,spring,BRCC,6,Intergalaxy Tigers,Havan Liberty Gaming,1.0,31:51,OK,red,HL,   VICTORY   ,65.2k,25,  11 ,  3 ,  2 ,  3 ,  2 ,Senna,Trundle,Varus,Morgana,Braum
+2020.0,spring,BRCC,6,Team oNe,Falkol,1.0,39:56,OK,blue,FKL,   DEFEAT   ,61.9k,6,  3 ,  0 ,  0 ,  3 ,  1 ,Malzahar,Elise,Renekton,Jayce,Diana
+2020.0,spring,BRCC,6,Team oNe,Falkol,1.0,39:56,OK,red,ONE,   VICTORY   ,68.5k,15,  9 ,  2 ,  1 ,  4 ,  1 ,Ezreal,Trundle,Sett,Zoe,Syndra
+2020.0,spring,BRCC,6,Havan Liberty Gaming,Santos,1.0,27:25,OK,blue,SAN,   VICTORY   ,54.5k,17,  10 ,  2 ,  1 ,  3 ,  2 ,LeeSin,Elise,Sett,Leblanc,Karthus
+2020.0,spring,BRCC,6,Havan Liberty Gaming,Santos,1.0,27:25,OK,red,HL,   DEFEAT   ,42.4k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Ekko,Varus,Senna,Camille,Olaf
+2020.0,spring,BRCC,6,Intergalaxy Tigers,RED Canids,1.0,31:11,OK,blue,ITX,   VICTORY   ,57.6k,19,  7 ,  1 ,  1 ,  2 ,  0 ,JarvanIV,Tristana,Thresh,Karthus,Viktor
+2020.0,spring,BRCC,6,Intergalaxy Tigers,RED Canids,1.0,31:11,OK,red,RED,   DEFEAT   ,56.0k,18,  7 ,  0 ,  0 ,  3 ,  2 ,Varus,Senna,Kalista,Leblanc,
+2020.0,spring,BRCC,7,Falkol,Havan Liberty Gaming,1.0,38:13,OK,blue,FKL,   DEFEAT   ,61.7k,10,  5 ,  0 ,  0 ,  4 ,  0 ,Karthus,Pantheon,Renekton,,
+2020.0,spring,BRCC,7,Falkol,Havan Liberty Gaming,1.0,38:13,OK,red,HL,   VICTORY   ,64.9k,13,  7 ,  1 ,  2 ,  2 ,  2 ,Thresh,Trundle,Varus,Vayne,Aatrox
+2020.0,spring,BRCC,7,Santos,RED Canids,1.0,27:14,OK,blue,SAN,   VICTORY   ,54.3k,16,  9 ,  2 ,  1 ,  2 ,  2 ,Renekton,Sett,Syndra,JarvanIV,Ornn
+2020.0,spring,BRCC,7,Santos,RED Canids,1.0,27:14,OK,red,RED,   DEFEAT   ,42.8k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Varus,Senna,Pantheon,Aatrox,Camille
+2020.0,spring,BRCC,7,Intergalaxy Tigers,Team oNe,1.0,33:35,OK,blue,ONE,   VICTORY   ,64.5k,19,  10 ,  2 ,  1 ,  4 ,  2 ,Rakan,Elise,Yuumi,Syndra,Leblanc
+2020.0,spring,BRCC,7,Intergalaxy Tigers,Team oNe,1.0,33:35,OK,red,ITX,   DEFEAT   ,50.8k,11,  3 ,  0 ,  0 ,  1 ,  0 ,Jayce,Renekton,Nautilus,Diana,Mordekaiser
+2020.0,spring,BRCC,7,Santos,Intergalaxy Tigers,1.0,27:25,OK,blue,ITX,   DEFEAT   ,48.3k,19,  2 ,  0 ,  0 ,  2 ,  1 ,Pantheon,Nautilus,Irelia,Chogath,Gragas
+2020.0,spring,BRCC,7,Santos,Intergalaxy Tigers,1.0,27:25,OK,red,SAN,   VICTORY   ,55.7k,28,  9 ,  2 ,  1 ,  2 ,  1 ,Graves,Senna,Xayah,Morgana,Leblanc
+2020.0,spring,BRCC,7,RED Canids,Falkol,1.0,35:25,OK,blue,FKL,   VICTORY   ,65.4k,19,  10 ,  2 ,  1 ,  4 ,  1 ,Sett,Pantheon,Renekton,Thresh,Leona
+2020.0,spring,BRCC,7,RED Canids,Falkol,1.0,35:25,OK,red,RED,   DEFEAT   ,55.2k,5,  4 ,  0 ,  0 ,  1 ,  1 ,Varus,Senna,Graves,Trundle,Elise
+2020.0,spring,BRCC,7,Havan Liberty Gaming,Team oNe,1.0,32:34,OK,blue,HL,   VICTORY   ,62.3k,16,  11 ,  3 ,  1 ,  3 ,  2 ,Trundle,Senna,Varus,Thresh,Nautilus
+2020.0,spring,BRCC,7,Havan Liberty Gaming,Team oNe,1.0,32:34,OK,red,ONE,   DEFEAT   ,54.1k,5,  3 ,  0 ,  1 ,  2 ,  0 ,Pantheon,Karthus,Sett,Syndra,Sylas

@@ -1,0 +1,169 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,CBLOL,1,Flamengo,PAIN,1.0,28:24,OK,blue,FLA,   VICTORY   ,55.7k,13,  11 ,  4 ,  2 ,  3 ,  1 ,Morgana,Nautilus,Sylas,Vladimir,Jayce
+2019.0,summer,CBLOL,1,Flamengo,PAIN,1.0,28:24,OK,red,PNG,   DEFEAT   ,43.7k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Ryze,Neeko,Draven,Kalista
+2019.0,summer,CBLOL,1,Uppercut,CNB,1.0,24:07,OK,blue,UP,   VICTORY   ,46.8k,13,  9 ,  1 ,  1 ,  1 ,  1 ,Irelia,Sejuani,Yuumi,Varus,Neeko
+2019.0,summer,CBLOL,1,Uppercut,CNB,1.0,24:07,OK,red,CNB,   DEFEAT   ,36.8k,4,  1 ,  0 ,  0 ,  2 ,  0 ,Karthus,Jayce,Aatrox,Renekton,Gangplank
+2019.0,summer,CBLOL,1,INTZ,Redemption POA,1.0,31:04,OK,blue,ITZ,   DEFEAT   ,47.3k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Yasuo,Neeko,Irelia,Rumble,Hecarim
+2019.0,summer,CBLOL,1,INTZ,Redemption POA,1.0,31:04,OK,red,RDP,   VICTORY   ,59.2k,17,  9 ,  2 ,  2 ,  4 ,  0 ,Leblanc,Aatrox,Ryze,Jayce,Ahri
+2019.0,summer,CBLOL,1,Team oNe,Kabum,1.0,34:59,OK,blue,ONE,   DEFEAT   ,55.9k,9,  1 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Irelia,Sylas,JarvanIV,Karthus
+2019.0,summer,CBLOL,1,Team oNe,Kabum,1.0,34:59,OK,red,KBM,   VICTORY   ,70.4k,20,  11 ,  3 ,  2 ,  4 ,  1 ,Ryze,Morgana,Aatrox,Neeko,Leblanc
+2019.0,summer,CBLOL,1,PAIN,CNB,1.0,51:18,OK,blue,PNG,   VITÓRIA   ,91.9 mil,20,  11 ,  5 ,  1 ,  1 ,  1 ,Irelia,Akali,Aatrox,Sivir,Syndra
+2019.0,summer,CBLOL,1,PAIN,CNB,1.0,51:18,OK,red,CNB,   DERROTA   ,91.3 mil,17,  9 ,  2 ,  2 ,  5 ,  0 ,Karthus,Morgana,Jayce,Elise,RekSai
+2019.0,summer,CBLOL,1,Uppercut,Team oNe,1.0,29:20,OK,blue,UP,   VITÓRIA   ,58.5 mil,20,  8 ,  1 ,  1 ,  3 ,  1 ,Jayce,Neeko,Morgana,Renekton,Yuumi
+2019.0,summer,CBLOL,1,Uppercut,Team oNe,1.0,29:20,OK,red,ONE,   DERROTA   ,44.0 mil,7,  1 ,  0 ,  0 ,  1 ,  0 ,Akali,Irelia,Ryze,RekSai,Olaf
+2019.0,summer,CBLOL,1,Redemption POA,Kabum,1.0,35:23,OK,blue,RDP,   DERROTA   ,58.1 mil,14,  3 ,  0 ,  0 ,  1 ,  0 ,Jayce,Morgana,Aatrox,Kaisa,Olaf
+2019.0,summer,CBLOL,1,Redemption POA,Kabum,1.0,35:23,OK,red,KBM,   VITÓRIA   ,68.3 mil,20,  10 ,  2 ,  1 ,  4 ,  1 ,Yuumi,Rumble,Ryze,Renekton,Neeko
+2019.0,summer,CBLOL,1,INTZ,Flamengo,1.0,33:05,OK,blue,ITZ,   DERROTA   ,59.7 mil,18,  6 ,  2 ,  0 ,  1 ,  1 ,Alistar,Nautilus,Irelia,Rakan,Thresh
+2019.0,summer,CBLOL,1,INTZ,Flamengo,1.0,33:05,OK,red,FLA,   VITÓRIA   ,61.5 mil,7,  10 ,  2 ,  2 ,  4 ,  0 ,Ryze,Aatrox,Yuumi,Vladimir,Leblanc
+2019.0,summer,CBLOL,2,Redemption POA,Team oNe,1.0,30:33,OK,blue,RDP,   VITÓRIA   ,63.2 mil,16,  11 ,  4 ,  2 ,  4 ,  1 ,Cassiopeia,Morgana,Neeko,Jayce,RekSai
+2019.0,summer,CBLOL,2,Redemption POA,Team oNe,1.0,30:33,OK,red,ONE,   DERROTA   ,45.4 mil,1,  0 ,  0 ,  0 ,  0 ,  0 ,Sivir,Sejuani,Aatrox,JarvanIV,Elise
+2019.0,summer,CBLOL,2,Kabum,INTZ,1.0,34:07,OK,blue,KBM,   DERROTA   ,57.4 mil,8,  3 ,  0 ,  0 ,  4 ,  1 ,Leblanc,Yuumi,Ryze,Renekton,RekSai
+2019.0,summer,CBLOL,2,Kabum,INTZ,1.0,34:07,OK,red,ITZ,   VITÓRIA   ,64.9 mil,19,  8 ,  1 ,  1 ,  1 ,  0 ,Sejuani,Aatrox,Irelia,Elise,Olaf
+2019.0,summer,CBLOL,2,CNB,Flamengo,1.0,35:32,OK,blue,CNB,   DERROTA   ,61.1 mil,14,  5 ,  0 ,  0 ,  3 ,  1 ,Jayce,Irelia,Aatrox,Sejuani,Olaf
+2019.0,summer,CBLOL,2,CNB,Flamengo,1.0,35:32,OK,red,FLA,   VITÓRIA   ,67.8 mil,15,  9 ,  1 ,  1 ,  2 ,  0 ,Sylas,Morgana,Akali,JarvanIV,Elise
+2019.0,summer,CBLOL,2,PAIN,Uppercut,1.0,36:33,OK,blue,PNG,   VITÓRIA   ,66.5 mil,13,  10 ,  2 ,  1 ,  2 ,  1 ,Irelia,Yuumi,Ryze,Caitlyn,Sivir
+2019.0,summer,CBLOL,2,PAIN,Uppercut,1.0,36:33,OK,red,UP,   DERROTA   ,57.4 mil,1,  3 ,  0 ,  0 ,  3 ,  0 ,Morgana,Sona,Aatrox,Renekton,Neeko
+2019.0,summer,CBLOL,2,INTZ,CNB,1.0,37:11,OK,blue,ITZ,   VICTORY   ,72.4k,21,  10 ,  2 ,  1 ,  1 ,  0 ,Zoe,Irelia,Tristana,Syndra,Rakan
+2019.0,summer,CBLOL,2,INTZ,CNB,1.0,37:11,OK,red,CNB,   DEFEAT   ,62.7k,12,  2 ,  0 ,  1 ,  4 ,  1 ,Jayce,Aatrox,Sylas,Skarner,Sejuani
+2019.0,summer,CBLOL,2,Flamengo,Redemption POA,1.0,51:48,OK,blue,FLA,   DEFEAT   ,91.6k,15,  8 ,  1 ,  2 ,  1 ,  0 ,Yasuo,Sylas,Yuumi,Nautilus,Rumble
+2019.0,summer,CBLOL,2,Flamengo,Redemption POA,1.0,51:48,OK,red,RDP,   VICTORY   ,95.3k,20,  10 ,  2 ,  1 ,  6 ,  1 ,Aatrox,Irelia,Leblanc,Draven,Vayne
+2019.0,summer,CBLOL,2,Team oNe,PAIN,1.0,36:23,OK,blue,ONE,   DEFEAT   ,58.9k,7,  3 ,  0 ,  0 ,  2 ,  0 ,Renekton,Yuumi,Xayah,JarvanIV,Akali
+2019.0,summer,CBLOL,2,Team oNe,PAIN,1.0,36:23,OK,red,PNG,   VICTORY   ,69.7k,14,  11 ,  3 ,  1 ,  1 ,  1 ,Aatrox,TahmKench,Irelia,RekSai,LeeSin
+2019.0,summer,CBLOL,2,Uppercut,Kabum,1.0,31:55,OK,blue,UP,   DEFEAT   ,52.7k,8,  3 ,  0 ,  0 ,  1 ,  1 ,Akali,Neeko,Irelia,Rakan,Camille
+2019.0,summer,CBLOL,2,Uppercut,Kabum,1.0,31:55,OK,red,KBM,   VICTORY   ,65.0k,21,  9 ,  2 ,  1 ,  2 ,  0 ,Yuumi,Ryze,Morgana,Olaf,Skarner
+2019.0,summer,CBLOL,3,INTZ,Uppercut,1.0,26:01,OK,blue,ITZ,   VITÓRIA   ,57.1 mil,22,  10 ,  2 ,  1 ,  1 ,  0 ,Fiora,Sejuani,Irelia,Gangplank,Elise
+2019.0,summer,CBLOL,3,INTZ,Uppercut,1.0,26:01,OK,red,UP,   DERROTA   ,41.1 mil,7,  0 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Aatrox,Camille,Ryze,Renekton
+2019.0,summer,CBLOL,3,PAIN,Redemption POA,1.0,40:40,OK,blue,PNG,   VITÓRIA   ,79.1 mil,26,  9 ,  1 ,  1 ,  4 ,  1 ,Neeko,Irelia,Sivir,Hecarim,Yasuo
+2019.0,summer,CBLOL,3,PAIN,Redemption POA,1.0,40:40,OK,red,RDP,   DERROTA   ,70.2 mil,14,  2 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Aatrox,TahmKench,Ryze,Jayce
+2019.0,summer,CBLOL,3,Kabum,Flamengo,1.0,29:38,OK,blue,KBM,   VITÓRIA   ,56.9 mil,14,  8 ,  1 ,  1 ,  2 ,  0 ,Leblanc,Pyke,Irelia,Renekton,TahmKench
+2019.0,summer,CBLOL,3,Kabum,Flamengo,1.0,29:38,OK,red,FLA,   DERROTA   ,43.6 mil,2,  2 ,  0 ,  0 ,  2 ,  1 ,Aatrox,Sejuani,Yuumi,RekSai,Rakan
+2019.0,summer,CBLOL,3,CNB,Team oNe,1.0,38:34,OK,blue,CNB,   VITÓRIA   ,72.9 mil,13,  10 ,  3 ,  2 ,  2 ,  0 ,Yuumi,Neeko,Ryze,Trundle,Lux
+2019.0,summer,CBLOL,3,CNB,Team oNe,1.0,38:34,OK,red,ONE,   DERROTA   ,64.0 mil,7,  6 ,  0 ,  0 ,  4 ,  1 ,Nautilus,Aatrox,Irelia,Taric,TahmKench
+2019.0,summer,CBLOL,3,Kabum,PAIN,1.0,28:13,OK,blue,KBM,   VITÓRIA   ,56.0 mil,17,  11 ,  2 ,  1 ,  2 ,  1 ,Renekton,Yuumi,Skarner,Taric,Galio
+2019.0,summer,CBLOL,3,Kabum,PAIN,1.0,28:13,OK,red,PNG,   DERROTA   ,44.7 mil,8,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Irelia,Sejuani,Pyke,Gragas
+2019.0,summer,CBLOL,3,Team oNe,INTZ,1.0,37:16,OK,blue,ONE,   VITÓRIA   ,69.4 mil,11,  11 ,  3 ,  2 ,  4 ,  0 ,Ryze,Sona,Xayah,Renekton,Camille
+2019.0,summer,CBLOL,3,Team oNe,INTZ,1.0,37:16,OK,red,ITZ,   DERROTA   ,64.2 mil,6,  3 ,  0 ,  0 ,  0 ,  1 ,Sejuani,Aatrox,Yuumi,Jayce,Morgana
+2019.0,summer,CBLOL,3,Flamengo,Uppercut,1.0,27:13,OK,blue,FLA,   VITÓRIA   ,59.0 mil,27,  10 ,  1 ,  1 ,  4 ,  0 ,Sylas,Sona,Fiora,Trundle,Skarner
+2019.0,summer,CBLOL,3,Flamengo,Uppercut,1.0,27:13,OK,red,UP,   DERROTA   ,43.6 mil,6,  3 ,  0 ,  0 ,  0 ,  1 ,Yuumi,Aatrox,Draven,Neeko,Morgana
+2019.0,summer,CBLOL,3,Redemption POA,CNB,1.0,36:50,OK,blue,RDP,   VITÓRIA   ,74.8 mil,26,  10 ,  3 ,  2 ,  2 ,  0 ,Nautilus,Leblanc,Irelia,Kindred,RekSai
+2019.0,summer,CBLOL,3,Redemption POA,CNB,1.0,36:50,OK,red,CNB,   DERROTA   ,64.4 mil,17,  4 ,  0 ,  0 ,  3 ,  1 ,Yuumi,Sona,Sejuani,Morgana,Alistar
+2019.0,summer,CBLOL,4,Flamengo,Team oNe,1.0,27:29,OK,blue,FLA,   VICTORY   ,56.2k,16,  11 ,  2 ,  1 ,  4 ,  1 ,Lux,Neeko,Yuumi,Leblanc,Renekton
+2019.0,summer,CBLOL,4,Flamengo,Team oNe,1.0,27:29,OK,red,ONE,   DEFEAT   ,47.3k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Aatrox,Irelia,Akali,TahmKench
+2019.0,summer,CBLOL,4,CNB,Kabum,1.0,25:23,OK,blue,CNB,   DEFEAT   ,36.2k,1,  0 ,  0 ,  0 ,  0 ,  0 ,Yuumi,Irelia,JarvanIV,Jayce,Riven
+2019.0,summer,CBLOL,4,CNB,Kabum,1.0,25:23,OK,red,KBM,   VICTORY   ,53.9k,11,  10 ,  2 ,  1 ,  4 ,  1 ,Renekton,Neeko,Karma,Zoe,Akali
+2019.0,summer,CBLOL,4,PAIN,INTZ,1.0,45:01,OK,blue,PNG,   DEFEAT   ,79.7k,18,  6 ,  0 ,  0 ,  1 ,  1 ,Olaf,Sona,Irelia,Renekton,Leblanc
+2019.0,summer,CBLOL,4,PAIN,INTZ,1.0,45:01,OK,red,ITZ,   VICTORY   ,81.5k,13,  10 ,  3 ,  2 ,  4 ,  0 ,Yuumi,Sejuani,Karma,Lux,Camille
+2019.0,summer,CBLOL,4,Uppercut,Redemption POA,1.0,29:11,OK,blue,UP,   VICTORY   ,56.9k,15,  7 ,  1 ,  1 ,  4 ,  1 ,Neeko,Irelia,Olaf,Sivir,Renekton
+2019.0,summer,CBLOL,4,Uppercut,Redemption POA,1.0,29:11,OK,red,RDP,   DEFEAT   ,48.7k,11,  3 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Sejuani,Karma,Lissandra,Gangplank
+2019.0,summer,CBLOL,4,PAIN,Flamengo,1.0,27:03,OK,blue,PNG,   DERROTA   ,45.4 mil,11,  3 ,  0 ,  0 ,  0 ,  0 ,Olaf,Pyke,Karma,Skarner,Irelia
+2019.0,summer,CBLOL,4,PAIN,Flamengo,1.0,27:03,OK,red,FLA,   VITÓRIA   ,55.7 mil,15,  8 ,  1 ,  1 ,  4 ,  1 ,Sylas,TahmKench,JarvanIV,Lux,Nautilus
+2019.0,summer,CBLOL,4,Redemption POA,INTZ,1.0,30:08,OK,blue,RDP,   VITÓRIA   ,60.7 mil,19,  11 ,  3 ,  1 ,  3 ,  0 ,Leblanc,Sona,Irelia,Rakan,Ahri
+2019.0,summer,CBLOL,4,Redemption POA,INTZ,1.0,30:08,OK,red,ITZ,   DERROTA   ,48.4 mil,5,  2 ,  0 ,  0 ,  1 ,  1 ,Yuumi,Sejuani,Karma,Trundle,Alistar
+2019.0,summer,CBLOL,4,CNB,Uppercut,1.0,43:15,OK,blue,CNB,   DERROTA   ,81.4 mil,19,  0 ,  0 ,  1 ,  2 ,  0 ,Yuumi,Irelia,JarvanIV,Khazix,Kindred
+2019.0,summer,CBLOL,4,CNB,Uppercut,1.0,43:15,OK,red,UP,   VITÓRIA   ,82.8 mil,14,  11 ,  4 ,  2 ,  5 ,  1 ,Karma,Neeko,Sejuani,Renekton,Azir
+2019.0,summer,CBLOL,4,Kabum,Team oNe,1.0,30:34,OK,blue,KBM,   VITÓRIA   ,60.6 mil,18,  10 ,  2 ,  1 ,  4 ,  0 ,Olaf,Leblanc,Karma,Varus,Caitlyn
+2019.0,summer,CBLOL,4,Kabum,Team oNe,1.0,30:34,OK,red,ONE,   DERROTA   ,46.9 mil,5,  2 ,  0 ,  0 ,  1 ,  1 ,Sejuani,Aatrox,Yuumi,Hecarim,Renekton
+2019.0,summer,CBLOL,5,Kabum,Redemption POA,1.0,35:11,OK,blue,KBM,   VICTORY   ,70.6k,21,  11 ,  3 ,  1 ,  1 ,  1 ,JarvanIV,Karma,Rumble,Olaf,RekSai
+2019.0,summer,CBLOL,5,Kabum,Redemption POA,1.0,35:11,OK,red,RDP,   DEFEAT   ,58.1k,12,  3 ,  0 ,  0 ,  4 ,  0 ,Sejuani,Irelia,Pyke,Elise,Leblanc
+2019.0,summer,CBLOL,5,Flamengo,INTZ,1.0,35:30,OK,blue,FLA,   VICTORY   ,71.1k,19,  9 ,  1 ,  1 ,  4 ,  0 ,TahmKench,Skarner,Neeko,RekSai,JarvanIV
+2019.0,summer,CBLOL,5,Flamengo,INTZ,1.0,35:30,OK,red,ITZ,   DEFEAT   ,56.2k,10,  2 ,  0 ,  0 ,  0 ,  1 ,Karma,Sejuani,Yuumi,Draven,Vladimir
+2019.0,summer,CBLOL,5,Team oNe,Uppercut,1.0,30:59,OK,blue,ONE,   VICTORY   ,58.3k,14,  9 ,  3 ,  2 ,  2 ,  1 ,Sona,Sejuani,Irelia,Azir,Sivir
+2019.0,summer,CBLOL,5,Team oNe,Uppercut,1.0,30:59,OK,red,UP,   DEFEAT   ,56.3k,14,  5 ,  0 ,  0 ,  2 ,  0 ,Karma,Olaf,Yuumi,RekSai,Skarner
+2019.0,summer,CBLOL,5,CNB,PAIN,1.0,43:20,OK,blue,CNB,   VICTORY   ,82.1k,14,  11 ,  4 ,  2 ,  4 ,  1 ,Irelia,Sona,Azir,Pyke,Riven
+2019.0,summer,CBLOL,5,CNB,PAIN,1.0,43:20,OK,red,PNG,   DEFEAT   ,74.2k,15,  3 ,  0 ,  0 ,  3 ,  0 ,Aatrox,Sivir,Karma,Nautilus,Alistar
+2019.0,summer,CBLOL,5,INTZ,Kabum,1.0,26:08,OK,blue,ITZ,   VICTORY   ,48.3k,14,  9 ,  2 ,  1 ,  2 ,  1 ,Yasuo,Sejuani,TahmKench,Karthus,Elise
+2019.0,summer,CBLOL,5,INTZ,Kabum,1.0,26:08,OK,red,KBM,   DEFEAT   ,43.8k,6,  3 ,  0 ,  0 ,  1 ,  0 ,Karma,Leblanc,Ahri,Ezreal,Xayah
+2019.0,summer,CBLOL,5,Uppercut,PAIN,1.0,31:06,OK,blue,UP,   VICTORY   ,58.3k,15,  9 ,  2 ,  1 ,  3 ,  1 ,Irelia,Karthus,Yuumi,Sejuani,Skarner
+2019.0,summer,CBLOL,5,Uppercut,PAIN,1.0,31:06,OK,red,PNG,   DEFEAT   ,52.3k,16,  3 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Sona,Karma,Gangplank,Olaf
+2019.0,summer,CBLOL,5,Flamengo,CNB,1.0,34:23,OK,blue,FLA,   DEFEAT   ,58.9k,12,  4 ,  0 ,  1 ,  2 ,  1 ,Corki,Yasuo,Neeko,Sivir,Nautilus
+2019.0,summer,CBLOL,5,Flamengo,CNB,1.0,34:23,OK,red,CNB,   VICTORY   ,62.7k,21,  6 ,  1 ,  1 ,  3 ,  0 ,Karma,Irelia,Yuumi,Jayce,Renekton
+2019.0,summer,CBLOL,5,Team oNe,Redemption POA,1.0,31:00,OK,blue,ONE,   VICTORY   ,60.3k,14,  10 ,  2 ,  1 ,  3 ,  0 ,Sona,Yasuo,Sejuani,JarvanIV,Leblanc
+2019.0,summer,CBLOL,5,Team oNe,Redemption POA,1.0,31:00,OK,red,RDP,   DEFEAT   ,50.5k,11,  2 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Karma,Irelia,Lucian,Kalista
+2019.0,summer,CBLOL,6,CNB,INTZ,1.0,42:03,OK,blue,CNB,   VICTORY   ,75.3k,12,  8 ,  1 ,  2 ,  5 ,  0 ,Azir,Sona,Irelia,Ryze,Jayce
+2019.0,summer,CBLOL,6,CNB,INTZ,1.0,42:03,OK,red,ITZ,   DEFEAT   ,72.7k,12,  8 ,  1 ,  0 ,  2 ,  1 ,Karma,Sejuani,Aatrox,Sivir,Varus
+2019.0,summer,CBLOL,6,PAIN,Team oNe,1.0,29:29,OK,blue,PNG,   VICTORY   ,60.7k,10,  11 ,  3 ,  1 ,  4 ,  1 ,Irelia,Yuumi,Neeko,Vladimir,Varus
+2019.0,summer,CBLOL,6,PAIN,Team oNe,1.0,29:29,OK,red,ONE,   DEFEAT   ,44.9k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Sejuani,Karma,Sivir,Ashe
+2019.0,summer,CBLOL,6,Kabum,Uppercut,1.0,28:07,OK,blue,KBM,   VICTORY   ,60.9k,27,  11 ,  3 ,  1 ,  3 ,  1 ,Azir,Irelia,Karma,Fiora,Renekton
+2019.0,summer,CBLOL,6,Kabum,Uppercut,1.0,28:07,OK,red,UP,   DEFEAT   ,45.5k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Yuumi,Yasuo,Leblanc,Olaf
+2019.0,summer,CBLOL,6,Redemption POA,Flamengo,1.0,28:09,OK,blue,RDP,   DEFEAT   ,44.0k,4,  0 ,  0 ,  0 ,  1 ,  0 ,Leblanc,Irelia,TahmKench,Lucian,Draven
+2019.0,summer,CBLOL,6,Redemption POA,Flamengo,1.0,28:09,OK,red,FLA,   VICTORY   ,55.0k,16,  11 ,  4 ,  1 ,  2 ,  1 ,Yasuo,Neeko,Karma,Lux,Nautilus
+2019.0,summer,CBLOL,6,Team oNe,CNB,1.0,34:26,OK,blue,ONE,   DEFEAT   ,57.4k,7,  5 ,  0 ,  0 ,  3 ,  0 ,Corki,Zoe,Neeko,Olaf,Elise
+2019.0,summer,CBLOL,6,Team oNe,CNB,1.0,34:26,OK,red,CNB,   VICTORY   ,63.4k,14,  10 ,  3 ,  2 ,  3 ,  1 ,Karma,Sejuani,Yuumi,Varus,Ashe
+2019.0,summer,CBLOL,6,Flamengo,Kabum,1.0,31:14,OK,blue,FLA,   VICTORY   ,64.4k,31,  10 ,  2 ,  1 ,  3 ,  1 ,Yasuo,TahmKench,Sejuani,Akali,Elise
+2019.0,summer,CBLOL,6,Flamengo,Kabum,1.0,31:14,OK,red,KBM,   DEFEAT   ,56.2k,20,  2 ,  0 ,  0 ,  1 ,  0 ,Karthus,Olaf,Karma,Renekton,Poppy
+2019.0,summer,CBLOL,6,Redemption POA,PAIN,1.0,44:43,OK,blue,RDP,   VICTORY   ,83.4k,15,  10 ,  2 ,  3 ,  6 ,  0 ,Skarner,Leblanc,Irelia,Camille,Yorick
+2019.0,summer,CBLOL,6,Redemption POA,PAIN,1.0,44:43,OK,red,PNG,   DEFEAT   ,73.5k,13,  3 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Yuumi,Aatrox,Olaf,JarvanIV
+2019.0,summer,CBLOL,6,Uppercut,INTZ,1.0,36:01,OK,blue,UP,   VICTORY   ,68.2k,12,  8 ,  1 ,  1 ,  4 ,  1 ,Irelia,Gragas,Yuumi,Ahri,Leblanc
+2019.0,summer,CBLOL,6,Uppercut,INTZ,1.0,36:01,OK,red,ITZ,   DEFEAT   ,61.5k,8,  4 ,  0 ,  1 ,  1 ,  0 ,Karma,Aatrox,Sejuani,JarvanIV,Olaf
+2019.0,summer,CBLOL,7,Uppercut,Flamengo,1.0,26:32,OK,blue,UP,   DEFEAT   ,42.6k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Taliyah,Irelia,Qiyana,Draven,Lucian
+2019.0,summer,CBLOL,7,Uppercut,Flamengo,1.0,26:32,OK,red,FLA,   VICTORY   ,54.4k,21,  9 ,  1 ,  1 ,  2 ,  1 ,Sylas,Karma,Corki,Ashe,Varus
+2019.0,summer,CBLOL,7,CNB,Redemption POA,1.0,38:04,OK,blue,CNB,   DEFEAT   ,68.5k,12,  3 ,  0 ,  1 ,  0 ,  1 ,Azir,Irelia,Lux,Kennen,Varus
+2019.0,summer,CBLOL,7,CNB,Redemption POA,1.0,38:04,OK,red,RDP,   VICTORY   ,73.6k,17,  11 ,  4 ,  1 ,  5 ,  0 ,Karma,Mordekaiser,Yuumi,Ezreal,Ashe
+2019.0,summer,CBLOL,7,INTZ,Team oNe,1.0,37:48,OK,blue,ITZ,   VICTORY   ,68.8k,16,  10 ,  4 ,  2 ,  3 ,  1 ,Olaf,Yuumi,TahmKench,Leblanc,Jayce
+2019.0,summer,CBLOL,7,INTZ,Team oNe,1.0,37:48,OK,red,ONE,   DEFEAT   ,62.4k,5,  3 ,  0 ,  0 ,  0 ,  0 ,Karma,Mordekaiser,Xayah,Ezreal,Ashe
+2019.0,summer,CBLOL,7,PAIN,Kabum,1.0,37:58,OK,blue,PNG,   DEFEAT   ,58.5k,14,  1 ,  0 ,  0 ,  1 ,  0 ,Yasuo,Irelia,Sejuani,Varus,Sivir
+2019.0,summer,CBLOL,7,PAIN,Kabum,1.0,37:58,OK,red,KBM,   VICTORY   ,69.1k,15,  9 ,  2 ,  2 ,  3 ,  1 ,Karma,Yuumi,Skarner,Braum,Lux
+2019.0,summer,CBLOL,7,Redemption POA,Uppercut,1.0,33:07,OK,blue,RDP,   DEFEAT   ,54.4k,13,  4 ,  0 ,  0 ,  3 ,  0 ,Azir,TahmKench,Skarner,Yorick,Mordekaiser
+2019.0,summer,CBLOL,7,Redemption POA,Uppercut,1.0,33:07,OK,red,UP,   VICTORY   ,62.5k,14,  9 ,  1 ,  1 ,  2 ,  1 ,Yuumi,Sejuani,Karma,Gragas,Olaf
+2019.0,summer,CBLOL,7,Kabum,CNB,1.0,25:17,OK,blue,KBM,   VICTORY   ,53.7k,18,  11 ,  3 ,  1 ,  3 ,  0 ,Corki,Azir,Karma,Leblanc,Zoe
+2019.0,summer,CBLOL,7,Kabum,CNB,1.0,25:17,OK,red,CNB,   DEFEAT   ,36.1k,0,  1 ,  0 ,  0 ,  0 ,  1 ,Yuumi,Lux,Sejuani,Sona,Vladimir
+2019.0,summer,CBLOL,7,INTZ,PAIN,1.0,29:42,OK,blue,ITZ,   DEFEAT   ,50.7k,12,  3 ,  0 ,  0 ,  1 ,  1 ,Yuumi,TahmKench,Skarner,Ezreal,Nautilus
+2019.0,summer,CBLOL,7,INTZ,PAIN,1.0,29:42,OK,red,PNG,   VICTORY   ,61.3k,22,  8 ,  1 ,  1 ,  1 ,  0 ,Gragas,Karma,Olaf,Sivir,Xayah
+2019.0,summer,CBLOL,7,Team oNe,Flamengo,1.0,25:24,OK,blue,ONE,   DEFEAT   ,40.2k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Yuumi,Neeko,Sivir,Ashe
+2019.0,summer,CBLOL,7,Team oNe,Flamengo,1.0,25:24,OK,red,FLA,   VICTORY   ,51.0k,11,  10 ,  2 ,  1 ,  3 ,  1 ,Karma,Sylas,Olaf,Varus,Lucian
+2019.0,summer,CBLOL,8,INTZ,Redemption POA,1.0,32:04,OK,blue,RDP,   DEFEAT   ,58.4k,12,  5 ,  0 ,  1 ,  3 ,  0 ,Aatrox,Qiyana,Lux,Ezreal,Xayah
+2019.0,summer,CBLOL,8,INTZ,Redemption POA,1.0,32:04,OK,red,ITZ,   VICTORY   ,60.5k,9,  8 ,  1 ,  1 ,  2 ,  1 ,Yasuo,Olaf,TahmKench,Lucian,Nautilus
+2019.0,summer,CBLOL,8,Uppercut,CNB,1.0,35:09,OK,blue,UP,   DEFEAT   ,58.3k,4,  3 ,  0 ,  0 ,  1 ,  0 ,Qiyana,Karma,Skarner,Irelia,Renekton
+2019.0,summer,CBLOL,8,Uppercut,CNB,1.0,35:09,OK,red,CNB,   VICTORY   ,67.0k,14,  11 ,  2 ,  2 ,  3 ,  1 ,Lux,TahmKench,Sejuani,Veigar,Corki
+2019.0,summer,CBLOL,8,Team oNe,Kabum,1.0,36:09,OK,blue,KBM,   VICTORY   ,71.1k,15,  11 ,  2 ,  2 ,  4 ,  0 ,Irelia,Karma,Aatrox,Kaisa,Corki
+2019.0,summer,CBLOL,8,Team oNe,Kabum,1.0,36:09,OK,red,ONE,   DEFEAT   ,58.4k,11,  1 ,  0 ,  0 ,  1 ,  1 ,TahmKench,Qiyana,Camille,Ezreal,Sivir
+2019.0,summer,CBLOL,8,Flamengo,PAIN,1.0,39:07,OK,blue,FLA,   DEFEAT   ,68.1k,13,  6 ,  1 ,  1 ,  3 ,  1 ,Sylas,Neeko,Braum,Alistar,Nautilus
+2019.0,summer,CBLOL,8,Flamengo,PAIN,1.0,39:07,OK,red,PNG,   VICTORY   ,74.1k,23,  8 ,  1 ,  2 ,  3 ,  0 ,Karma,Irelia,Pyke,Ashe,Vladimir
+2019.0,summer,CBLOL,8,Uppercut,Team oNe,1.0,32:01,OK,blue,UP,   VICTORY   ,59.8k,11,  9 ,  2 ,  1 ,  2 ,  1 ,Qiyana,Olaf,Karma,RekSai,Skarner
+2019.0,summer,CBLOL,8,Uppercut,Team oNe,1.0,32:01,OK,red,ONE,   DEFEAT   ,52.0k,10,  2 ,  0 ,  0 ,  1 ,  0 ,TahmKench,Azir,Sejuani,Vladimir,Sivir
+2019.0,summer,CBLOL,8,INTZ,Flamengo,1.0,34:59,OK,blue,FLA,   VICTORY   ,68.6k,20,  8 ,  2 ,  0 ,  3 ,  0 ,Neeko,Braum,Qiyana,Alistar,Nautilus
+2019.0,summer,CBLOL,8,INTZ,Flamengo,1.0,34:59,OK,red,ITZ,   DEFEAT   ,60.9k,13,  1 ,  0 ,  1 ,  1 ,  1 ,Irelia,Karma,Taliyah,Poppy,Ornn
+2019.0,summer,CBLOL,8,Redemption POA,Kabum,1.0,24:59,OK,blue,KBM,   VICTORY   ,53.4k,21,  9 ,  1 ,  1 ,  3 ,  0 ,JarvanIV,Karma,Sejuani,Leblanc,Neeko
+2019.0,summer,CBLOL,8,Redemption POA,Kabum,1.0,24:59,OK,red,RDP,   DEFEAT   ,38.3k,10,  0 ,  0 ,  0 ,  0 ,  1 ,Karthus,TahmKench,Qiyana,Aatrox,Azir
+2019.0,summer,CBLOL,8,PAIN,CNB,1.0,32:11,OK,blue,CNB,   DEFEAT   ,50.7k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Lux,Qiyana,Karthus,Varus,Ezreal
+2019.0,summer,CBLOL,8,PAIN,CNB,1.0,32:11,OK,red,PNG,   VICTORY   ,61.3k,9,  10 ,  2 ,  1 ,  3 ,  1 ,Corki,Azir,Karma,Gragas,Olaf
+2019.0,summer,CBLOL,9,CNB,Flamengo,1.0,34:40,OK,blue,CNB,   DEFEAT   ,53.6k,9,  0 ,  0 ,  0 ,  1 ,  1 ,Yasuo,Lux,Kalista,Sejuani,Kled
+2019.0,summer,CBLOL,9,CNB,Flamengo,1.0,34:40,OK,red,FLA,   VICTORY   ,67.2k,20,  11 ,  2 ,  1 ,  4 ,  0 ,Karma,Corki,Azir,Skarner,JarvanIV
+2019.0,summer,CBLOL,9,Kabum,INTZ,1.0,28:32,OK,blue,KBM,   VICTORY   ,59.1k,17,  11 ,  3 ,  1 ,  3 ,  1 ,Skarner,Karma,Aatrox,Vladimir,Tristana
+2019.0,summer,CBLOL,9,Kabum,INTZ,1.0,28:32,OK,red,ITZ,   DEFEAT   ,45.9k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Sejuani,Yasuo,Yuumi,Olaf,Elise
+2019.0,summer,CBLOL,9,PAIN,Uppercut,1.0,41:22,OK,blue,PNG,   DEFEAT   ,74.5k,15,  4 ,  0 ,  1 ,  1 ,  0 ,Irelia,Azir,Corki,Skarner,Vladimir
+2019.0,summer,CBLOL,9,PAIN,Uppercut,1.0,41:22,OK,red,UP,   VICTORY   ,77.6k,17,  9 ,  1 ,  1 ,  5 ,  1 ,Qiyana,Yuumi,Karma,Draven,Kennen
+2019.0,summer,CBLOL,9,Redemption POA,Team oNe,1.0,31:54,OK,blue,ONE,   VICTORY   ,61.9k,14,  8 ,  1 ,  2 ,  2 ,  1 ,Qiyana,Ezreal,Yasuo,Rakan,Zoe
+2019.0,summer,CBLOL,9,Redemption POA,Team oNe,1.0,31:54,OK,red,RDP,   DEFEAT   ,52.6k,3,  6 ,  0 ,  0 ,  2 ,  0 ,Irelia,Karma,Yuumi,Morgana,Lux
+2019.0,summer,CBLOL,9,Uppercut,Kabum,1.0,33:54,OK,blue,KBM,   DEFEAT   ,53.4k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Vladimir,Karma,Sejuani,Azir,Corki
+2019.0,summer,CBLOL,9,Uppercut,Kabum,1.0,33:54,OK,red,UP,   VICTORY   ,65.4k,19,  11 ,  4 ,  1 ,  4 ,  1 ,Qiyana,Yuumi,Karthus,Neeko,Kennen
+2019.0,summer,CBLOL,9,Team oNe,PAIN,1.0,35:33,OK,blue,PNG,   VICTORY   ,63.5k,12,  7 ,  1 ,  0 ,  2 ,  1 ,Azir,Corki,Irelia,Camille,Leblanc
+2019.0,summer,CBLOL,9,Team oNe,PAIN,1.0,35:33,OK,red,ONE,   DEFEAT   ,59.0k,13,  2 ,  0 ,  0 ,  3 ,  0 ,Qiyana,Ezreal,Karma,Trundle,Neeko
+2019.0,summer,CBLOL,9,INTZ,CNB,1.0,30:34,OK,blue,CNB,   DEFEAT   ,51.3k,8,  5 ,  0 ,  0 ,  5 ,  1 ,Yasuo,Lux,Karma,Olaf,Sejuani
+2019.0,summer,CBLOL,9,INTZ,CNB,1.0,30:34,OK,red,ITZ,   VICTORY   ,57.4k,14,  9 ,  2 ,  1 ,  0 ,  0 ,Corki,Azir,Yuumi,Zoe,Akali
+2019.0,summer,CBLOL,9,Flamengo,Redemption POA,1.0,27:04,OK,blue,RDP,   DEFEAT   ,43.1k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Karthus,Akali,Yuumi,Neeko,Vladimir
+2019.0,summer,CBLOL,9,Flamengo,Redemption POA,1.0,27:04,OK,red,FLA,   VICTORY   ,52.7k,15,  8 ,  1 ,  1 ,  2 ,  0 ,Karma,Yasuo,Qiyana,Kennen,Skarner
+2019.0,summer,CBLOL,10,CNB,Team oNe,1.0,28:31,OK,blue,CNB,   DEFEAT   ,42.6k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Lux,Yasuo,Yuumi,Gragas,Karthus
+2019.0,summer,CBLOL,10,CNB,Team oNe,1.0,28:31,OK,red,ONE,   VICTORY   ,55.2k,11,  11 ,  3 ,  2 ,  3 ,  1 ,Ezreal,Sylas,Karma,Renekton,Akali
+2019.0,summer,CBLOL,10,Kabum,Flamengo,1.0,24:44,OK,blue,FLA,   VICTORY   ,49.3k,12,  10 ,  1 ,  1 ,  2 ,  1 ,Akali,Yasuo,Karthus,Renekton,Riven
+2019.0,summer,CBLOL,10,Kabum,Flamengo,1.0,24:44,OK,red,KBM,   DEFEAT   ,41.0k,8,  3 ,  0 ,  0 ,  1 ,  0 ,Karma,Yuumi,Qiyana,Varus,
+2019.0,summer,CBLOL,10,PAIN,Redemption POA,1.0,30:51,OK,blue,RDP,   DEFEAT   ,47.9k,9,  1 ,  0 ,  0 ,  2 ,  0 ,TwistedFate,Yuumi,Akali,Camille,Karthus
+2019.0,summer,CBLOL,10,PAIN,Redemption POA,1.0,30:51,OK,red,PNG,   VICTORY   ,61.6k,20,  9 ,  1 ,  1 ,  2 ,  1 ,Yasuo,Azir,Karma,Renekton,Kennen
+2019.0,summer,CBLOL,10,INTZ,Uppercut,1.0,29:23,OK,blue,ITZ,   VICTORY   ,59.6k,18,  11 ,  5 ,  2 ,  3 ,  1 ,Akali,Skarner,Xayah,Lucian,Irelia
+2019.0,summer,CBLOL,10,INTZ,Uppercut,1.0,29:23,OK,red,UP,   DEFEAT   ,48.1k,2,  4 ,  0 ,  0 ,  0 ,  0 ,Sona,Qiyana,Gragas,Olaf,Hecarim
+2019.0,summer,CBLOL,10,Kabum,PAIN,1.0,30:52,OK,blue,PNG,   DEFEAT   ,52.6k,18,  1 ,  0 ,  0 ,  0 ,  1 ,Yasuo,Sylas,Aatrox,Corki,Azir
+2019.0,summer,CBLOL,10,Kabum,PAIN,1.0,30:52,OK,red,KBM,   VICTORY   ,61.8k,21,  9 ,  2 ,  1 ,  5 ,  0 ,Karma,Yuumi,Qiyana,TwistedFate,Karthus
+2019.0,summer,CBLOL,10,Redemption POA,CNB,1.0,34:58,OK,blue,CNB,   VICTORY   ,66.5k,15,  10 ,  2 ,  1 ,  1 ,  1 ,Yuumi,Yasuo,Tristana,Gragas,Jax
+2019.0,summer,CBLOL,10,Redemption POA,CNB,1.0,34:58,OK,red,RDP,   DEFEAT   ,58.2k,8,  4 ,  0 ,  0 ,  4 ,  0 ,Qiyana,Karma,Akali,Renekton,Zoe
+2019.0,summer,CBLOL,10,Team oNe,INTZ,1.0,26:20,OK,blue,ONE,   DEFEAT   ,39.0k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Ezreal,Tristana,Akali,Leblanc,Irelia
+2019.0,summer,CBLOL,10,Team oNe,INTZ,1.0,26:20,OK,red,ITZ,   VICTORY   ,57.0k,19,  11 ,  3 ,  1 ,  3 ,  1 ,Qiyana,Karma,Yuumi,Olaf,Sejuani
+2019.0,summer,CBLOL,10,Flamengo,Uppercut,1.0,27:00,OK,blue,FLA,   VICTORY   ,54.1k,15,  11 ,  2 ,  1 ,  0 ,  1 ,Akali,Neeko,Corki,Gragas,Vladimir
+2019.0,summer,CBLOL,10,Flamengo,Uppercut,1.0,27:00,OK,red,UP,   DEFEAT   ,42.9k,6,  2 ,  0 ,  0 ,  2 ,  0 ,Qiyana,Yuumi,Irelia,Leblanc,Azir
+2019.0,summer,CBLOL,11,Uppercut,Redemption POA,1.0,32:17,OK,blue,UP,   VITÓRIA   ,62.7 mil,24,  9 ,  1 ,  1 ,  4 ,  1 ,Karma,Tristana,Yuumi,Camille,Sylas
+2019.0,summer,CBLOL,11,Uppercut,Redemption POA,1.0,32:17,OK,red,RDP,   DERROTA   ,56.9 mil,13,  5 ,  0 ,  1 ,  1 ,  0 ,Akali,Xayah,Azir,Braum,Irelia
+2019.0,summer,CBLOL,11,Flamengo,Team oNe,1.0,28:12,OK,blue,ONE,   VITÓRIA   ,63.7 mil,35,  10 ,  2 ,  1 ,  3 ,  1 ,Sylas,Camille,Karma,Draven,Alistar
+2019.0,summer,CBLOL,11,Flamengo,Team oNe,1.0,28:12,OK,red,FLA,   DERROTA   ,44.5 mil,10,  1 ,  0 ,  0 ,  0 ,  0 ,Sejuani,Yuumi,Aatrox,Amumu,Shyvana
+2019.0,summer,CBLOL,11,CNB,Kabum,1.0,23:39,OK,blue,KBM,   VITÓRIA   ,48.3 mil,22,  8 ,  2 ,  0 ,  1 ,  1 ,Corki,Azir,Xayah,Lucian,Draven
+2019.0,summer,CBLOL,11,CNB,Kabum,1.0,23:39,OK,red,CNB,   DERROTA   ,35.5 mil,5,  1 ,  0 ,  0 ,  0 ,  0 ,Tristana,Yasuo,Yuumi,Gragas,Elise
+2019.0,summer,CBLOL,11,PAIN,INTZ,1.0,27:03,OK,blue,ITZ,   VICTORY   ,52.3k,7,  7 ,  1 ,  1 ,  3 ,  0 ,Akali,Qiyana,Taliyah,Karthus,Sejuani
+2019.0,summer,CBLOL,11,PAIN,INTZ,1.0,27:03,OK,red,PNG,   DEFEAT   ,42.7k,2,  1 ,  0 ,  0 ,  1 ,  1 ,Gragas,Yuumi,Skarner,Karma,Leblanc

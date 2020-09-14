@@ -1,0 +1,114 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,LCL,1,Elements Pro Gaming,Vega Squadron,1.0,24:38,OK,blue,EPG,   DEFEAT   ,36.3k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Jayce,Neeko,Sivir,Leblanc,Zoe
+2019.0,summer,LCL,1,Elements Pro Gaming,Vega Squadron,1.0,24:38,OK,red,VEG,   VICTORY   ,50.0k,19,  9 ,  2 ,  1 ,  3 ,  0 ,Qiyana,Irelia,Aatrox,Akali,Sejuani
+2019.0,summer,LCL,1,RoX,M19,1.0,28:31,OK,blue,ROX,   VICTORY   ,54.5k,13,  11 ,  3 ,  1 ,  4 ,  1 ,Yasuo,Khazix,Neeko,Karma,TahmKench
+2019.0,summer,LCL,1,RoX,M19,1.0,28:31,OK,red,M19,   DEFEAT   ,42.2k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Sylas,Irelia,Aatrox,Jax,Sejuani
+2019.0,summer,LCL,1,UOL.CIS,Vaevictis eSports,1.0,17:40,OK,blue,UOL,   VICTORY   ,42.2k,22,  9 ,  2 ,  0 ,  2 ,  1 ,Karma,Sona,TahmKench,Poppy,Renekton
+2019.0,summer,LCL,1,UOL.CIS,Vaevictis eSports,1.0,17:40,OK,red,VS,   DEFEAT   ,23.2k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Aatrox,Pyke,Olaf,Kayn
+2019.0,summer,LCL,1,Dragon Army,RoX,1.0,33:19,OK,blue,DA,   DEFEAT   ,55.5k,7,  3 ,  0 ,  0 ,  3 ,  1 ,Vladimir,Akali,Lux,Nautilus,Viktor
+2019.0,summer,LCL,1,Dragon Army,RoX,1.0,33:19,OK,red,ROX,   VICTORY   ,60.3k,10,  7 ,  1 ,  1 ,  1 ,  0 ,Neeko,Karthus,Sona,Fiora,Yorick
+2019.0,summer,LCL,1,Gambit,M19,1.0,27:34,OK,blue,GMB,   VICTORY   ,55.2k,16,  11 ,  3 ,  1 ,  4 ,  1 ,Irelia,Sejuani,Gragas,Corki,Leblanc
+2019.0,summer,LCL,1,Gambit,M19,1.0,27:34,OK,red,M19,   DEFEAT   ,41.3k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Qiyana,Sylas,Neeko,Olaf,Zac
+2019.0,summer,LCL,1,UOL.CIS,Dragon Army,1.0,51:17,OK,blue,UOL,   VICTORY   ,96.3k,33,  9 ,  1 ,  2 ,  2 ,  0 ,Karma,TahmKench,Sivir,Kaisa,Poppy
+2019.0,summer,LCL,1,UOL.CIS,Dragon Army,1.0,51:17,OK,red,DA,   DEFEAT   ,91.2k,25,  6 ,  1 ,  1 ,  5 ,  1 ,Aatrox,Lux,Irelia,Azir,Corki
+2019.0,summer,LCL,1,RoX,Gambit,1.0,43:49,OK,blue,ROX,   VICTORY   ,79.0k,17,  9 ,  1 ,  3 ,  5 ,  0 ,Qiyana,Sylas,Neeko,Gangplank,Ryze
+2019.0,summer,LCL,1,RoX,Gambit,1.0,43:49,OK,red,GMB,   DEFEAT   ,74.9k,16,  4 ,  0 ,  1 ,  2 ,  1 ,Corki,Irelia,Aatrox,Akali,Gragas
+2019.0,summer,LCL,1,Vaevictis eSports,Dragon Army,1.0,19:33,OK,blue,VS,   DEFEAT   ,25.2k,4,  0 ,  0 ,  0 ,  0 ,  0 ,Irelia,Karthus,Illaoi,Akali,Qiyana
+2019.0,summer,LCL,1,Vaevictis eSports,Dragon Army,1.0,19:33,OK,red,DA,   VICTORY   ,44.3k,25,  10 ,  2 ,  0 ,  2 ,  1 ,Karma,Vladimir,Lux,Yorick,Poppy
+2019.0,summer,LCL,1,Gambit,Elements Pro Gaming,1.0,39:32,OK,blue,GMB,   VICTORY   ,72.8k,26,  9 ,  2 ,  0 ,  4 ,  0 ,JarvanIV,Irelia,Neeko,TwistedFate,Karma
+2019.0,summer,LCL,1,Gambit,Elements Pro Gaming,1.0,39:32,OK,red,EPG,   DEFEAT   ,65.3k,15,  3 ,  0 ,  1 ,  1 ,  1 ,Qiyana,Lux,Olaf,Sejuani,Gragas
+2019.0,summer,LCL,1,Vaevictis eSports,Vega Squadron,1.0,22:32,OK,blue,VS,   DEFEAT   ,34.6k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Karthus,Jayce,JarvanIV,Neeko,
+2019.0,summer,LCL,1,Vaevictis eSports,Vega Squadron,1.0,22:32,OK,red,VEG,   VICTORY   ,53.6k,38,  10 ,  2 ,  1 ,  3 ,  0 ,Vladimir,Ryze,Sivir,Ezreal,Morgana
+2019.0,summer,LCL,1,M19,Elements Pro Gaming,1.0,29:51,OK,blue,M19,   DEFEAT   ,45.7k,5,  2 ,  0 ,  0 ,  2 ,  0 ,Sylas,Qiyana,Aatrox,Akali,Irelia
+2019.0,summer,LCL,1,M19,Elements Pro Gaming,1.0,29:51,OK,red,EPG,   VICTORY   ,59.0k,15,  9 ,  2 ,  1 ,  2 ,  1 ,Lux,Sejuani,Leblanc,Neeko,Yasuo
+2019.0,summer,LCL,1,Vega Squadron,UOL.CIS,1.0,29:23,OK,blue,VEG,   DEFEAT   ,45.9k,3,  2 ,  0 ,  0 ,  0 ,  0 ,Irelia,Nautilus,Draven,Xayah,Lucian
+2019.0,summer,LCL,1,Vega Squadron,UOL.CIS,1.0,29:23,OK,red,UOL,   VICTORY   ,57.4k,9,  9 ,  1 ,  1 ,  3 ,  1 ,Neeko,Jayce,Karthus,Camille,Renekton
+2019.0,summer,LCL,2,Gambit,Vaevictis eSports,1.0,22:41,OK,blue,GMB,   VICTORY   ,54.3k,31,  9 ,  1 ,  1 ,  2 ,  0 ,Syndra,Ahri,Leblanc,Irelia,Azir
+2019.0,summer,LCL,2,Gambit,Vaevictis eSports,1.0,22:41,OK,red,VS,   DEFEAT   ,33.4k,7,  0 ,  0 ,  0 ,  0 ,  1 ,Anivia,Sylas,Qiyana,Corki,Zoe
+2019.0,summer,LCL,2,RoX,Elements Pro Gaming,1.0,39:26,OK,blue,ROX,   DEFEAT   ,66.1k,13,  2 ,  0 ,  1 ,  2 ,  1 ,Sylas,Xayah,Renekton,Skarner,Sejuani
+2019.0,summer,LCL,2,RoX,Elements Pro Gaming,1.0,39:26,OK,red,EPG,   VICTORY   ,74.0k,17,  11 ,  3 ,  1 ,  4 ,  0 ,Yuumi,Cassiopeia,Qiyana,Olaf,Kennen
+2019.0,summer,LCL,2,Vaevictis eSports,M19,1.0,25:58,OK,blue,VS,   DEFEAT   ,36.4k,3,  0 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Irelia,Leblanc,Ezreal,Kaisa
+2019.0,summer,LCL,2,Vaevictis eSports,M19,1.0,25:58,OK,red,M19,   VICTORY   ,52.6k,22,  10 ,  2 ,  1 ,  2 ,  1 ,Sejuani,Vi,Elise,Nunu,Kennen
+2019.0,summer,LCL,2,Vega Squadron,RoX,1.0,28:03,OK,blue,VEG,   VICTORY   ,60.7k,25,  10 ,  2 ,  1 ,  4 ,  1 ,Irelia,Sivir,Qiyana,Braum,Sejuani
+2019.0,summer,LCL,2,Vega Squadron,RoX,1.0,28:03,OK,red,ROX,   DEFEAT   ,41.5k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Sylas,Yuumi,Gangplank,Kennen
+2019.0,summer,LCL,2,M19,UOL.CIS,1.0,26:59,OK,blue,M19,   DEFEAT   ,38.3k,7,  0 ,  0 ,  0 ,  0 ,  1 ,Qiyana,Irelia,Sylas,Draven,Sejuani
+2019.0,summer,LCL,2,M19,UOL.CIS,1.0,26:59,OK,red,UOL,   VICTORY   ,54.1k,21,  11 ,  3 ,  1 ,  3 ,  0 ,Khazix,Karma,Vladimir,Sivir,Xayah
+2019.0,summer,LCL,2,Vega Squadron,Dragon Army,1.0,31:32,OK,blue,VEG,   VICTORY   ,61.6k,13,  9 ,  1 ,  1 ,  3 ,  1 ,Sona,Sivir,Irelia,Yorick,Qiyana
+2019.0,summer,LCL,2,Vega Squadron,Dragon Army,1.0,31:32,OK,red,DA,   DEFEAT   ,48.2k,4,  0 ,  0 ,  0 ,  1 ,  0 ,JarvanIV,Yuumi,Karthus,Gangplank,Gnar
+2019.0,summer,LCL,2,UOL.CIS,RoX,1.0,40:07,OK,blue,UOL,   VICTORY   ,73.6k,24,  8 ,  1 ,  0 ,  5 ,  1 ,Qiyana,Sivir,Irelia,Olaf,Skarner
+2019.0,summer,LCL,2,UOL.CIS,RoX,1.0,40:07,OK,red,ROX,   DEFEAT   ,64.6k,22,  1 ,  0 ,  0 ,  1 ,  0 ,Karthus,Yasuo,Aatrox,Renekton,Camille
+2019.0,summer,LCL,2,Elements Pro Gaming,Vaevictis eSports,1.0,20:58,OK,blue,EPG,   VICTORY   ,46.1k,22,  11 ,  3 ,  0 ,  2 ,  1 ,Sivir,Sejuani,Annie,Yorick,Vi
+2019.0,summer,LCL,2,Elements Pro Gaming,Vaevictis eSports,1.0,20:58,OK,red,VS,   DEFEAT   ,30.0k,6,  0 ,  0 ,  0 ,  0 ,  0 ,JarvanIV,Pyke,Qiyana,Irelia,Akali
+2019.0,summer,LCL,2,Gambit,UOL.CIS,1.0,46:22,OK,blue,GMB,   VICTORY   ,77.0k,22,  7 ,  1 ,  0 ,  4 ,  0 ,Irelia,Aatrox,Yasuo,Gragas,Azir
+2019.0,summer,LCL,2,Gambit,UOL.CIS,1.0,46:22,OK,red,UOL,   DEFEAT   ,80.0k,15,  8 ,  1 ,  2 ,  2 ,  1 ,Qiyana,Sivir,Sylas,Kennen,Gnar
+2019.0,summer,LCL,2,Elements Pro Gaming,Dragon Army,1.0,31:28,OK,blue,EPG,   VICTORY   ,60.8k,22,  11 ,  2 ,  1 ,  3 ,  0 ,Sona,Yuumi,Karthus,Poppy,Illaoi
+2019.0,summer,LCL,2,Elements Pro Gaming,Dragon Army,1.0,31:28,OK,red,DA,   DEFEAT   ,51.1k,8,  2 ,  0 ,  0 ,  1 ,  1 ,Elise,Irelia,Qiyana,TwistedFate,Sylas
+2019.0,summer,LCL,2,Vega Squadron,Gambit,1.0,37:30,OK,blue,VEG,   DEFEAT   ,58.4k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Qiyana,Sivir,Nautilus,Corki,Irelia
+2019.0,summer,LCL,2,Vega Squadron,Gambit,1.0,37:30,OK,red,GMB,   VICTORY   ,71.2k,12,  11 ,  3 ,  2 ,  5 ,  1 ,Karthus,JarvanIV,Aatrox,Gangplank,Renekton
+2019.0,summer,LCL,2,Dragon Army,M19,1.0,22:19,OK,blue,DA,   VICTORY   ,48.1k,15,  11 ,  3 ,  1 ,  3 ,  1 ,Khazix,Elise,Yasuo,Xayah,Alistar
+2019.0,summer,LCL,2,Dragon Army,M19,1.0,22:19,OK,red,M19,   DEFEAT   ,34.0k,3,  0 ,  0 ,  0 ,  0 ,  0 ,Qiyana,Sona,Karthus,Kennen,Corki
+2019.0,summer,LCL,3,Dragon Army,Gambit,1.0,35:46,OK,blue,DA,   DEFEAT   ,57.8k,15,  2 ,  0 ,  0 ,  2 ,  0 ,Xayah,RekSai,Aatrox,Corki,Gnar
+2019.0,summer,LCL,3,Dragon Army,Gambit,1.0,35:46,OK,red,GMB,   VICTORY   ,67.1k,24,  8 ,  1 ,  1 ,  3 ,  0 ,Karthus,Irelia,Sona,Gragas,Sejuani
+2019.0,summer,LCL,3,Vaevictis eSports,RoX,1.0,,AttributeError,,,,,,,,,,,,,,,
+2019.0,summer,LCL,3,Elements Pro Gaming,Gambit,1.0,32:28,OK,blue,EPG,   DEFEAT   ,51.3k,10,  0 ,  0 ,  0 ,  2 ,  0 ,Yuumi,Nautilus,Rakan,Gnar,Vayne
+2019.0,summer,LCL,3,Elements Pro Gaming,Gambit,1.0,32:28,OK,red,GMB,   VICTORY   ,63.5k,13,  9 ,  1 ,  2 ,  2 ,  1 ,Irelia,Qiyana,Aatrox,Pyke,Fiddlesticks
+2019.0,summer,LCL,3,M19,RoX,1.0,23:29,OK,blue,M19,   DEFEAT   ,35.4k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Irelia,Yuumi,Elise,Nautilus
+2019.0,summer,LCL,3,M19,RoX,1.0,23:29,OK,red,ROX,   VICTORY   ,48.9k,17,  9 ,  2 ,  1 ,  3 ,  1 ,Khazix,Yasuo,Qiyana,Fiora,JarvanIV
+2019.0,summer,LCL,3,UOL.CIS,Elements Pro Gaming,1.0,29:02,OK,blue,UOL,   VICTORY   ,57.7k,20,  11 ,  3 ,  1 ,  2 ,  1 ,Qiyana,Mordekaiser,Sylas,Sejuani,Renekton
+2019.0,summer,LCL,3,UOL.CIS,Elements Pro Gaming,1.0,29:02,OK,red,EPG,   DEFEAT   ,44.5k,5,  0 ,  0 ,  0 ,  2 ,  0 ,Yuumi,Aatrox,Azir,Taliyah,Jayce
+2019.0,summer,LCL,3,M19,Vega Squadron,1.0,26:06,OK,blue,M19,   DEFEAT   ,39.1k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,JarvanIV,Jayce,Akali,Aatrox
+2019.0,summer,LCL,3,M19,Vega Squadron,1.0,26:06,OK,red,VEG,   VICTORY   ,56.1k,18,  10 ,  2 ,  1 ,  2 ,  1 ,Tryndamere,Yasuo,Qiyana,Sivir,Ezreal
+2019.0,summer,LCL,3,Dragon Army,Vaevictis eSports,1.0,21:41,OK,blue,DA,   VICTORY   ,49.4k,27,  11 ,  3 ,  1 ,  2 ,  1 ,Sylas,Ahri,Irelia,Sejuani,Yorick
+2019.0,summer,LCL,3,Dragon Army,Vaevictis eSports,1.0,21:41,OK,red,VS,   DEFEAT   ,30.9k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Pyke,Illaoi,Yuumi,Lulu
+2019.0,summer,LCL,3,Gambit,RoX,1.0,33:12,OK,blue,GMB,   VICTORY   ,63.9k,15,  9 ,  1 ,  2 ,  3 ,  1 ,Irelia,Corki,Yuumi,Camille,Braum
+2019.0,summer,LCL,3,Gambit,RoX,1.0,33:12,OK,red,ROX,   DEFEAT   ,49.8k,6,  1 ,  0 ,  0 ,  1 ,  0 ,Sylas,Xayah,Aatrox,Galio,Vladimir
+2019.0,summer,LCL,3,Vega Squadron,Vaevictis eSports,1.0,15:21,OK,blue,VEG,   VICTORY   ,35.5k,21,  7 ,  1 ,  0 ,  2 ,  1 ,Yuumi,Syndra,Poppy,Nautilus,Volibear
+2019.0,summer,LCL,3,Vega Squadron,Vaevictis eSports,1.0,15:21,OK,red,VS,   DEFEAT   ,22.5k,6,  0 ,  0 ,  0 ,  0 ,  0 ,Akali,Pyke,Karthus,Jayce,Talon
+2019.0,summer,LCL,3,Dragon Army,UOL.CIS,1.0,31:56,OK,blue,DA,   DEFEAT   ,55.8k,11,  4 ,  0 ,  0 ,  1 ,  0 ,Xayah,Aatrox,Yasuo,Braum,Alistar
+2019.0,summer,LCL,3,Dragon Army,UOL.CIS,1.0,31:56,OK,red,UOL,   VICTORY   ,64.5k,24,  8 ,  1 ,  2 ,  3 ,  1 ,Qiyana,Yuumi,Karma,Fiora,Nautilus
+2019.0,summer,LCL,3,Elements Pro Gaming,M19,1.0,37:06,OK,blue,EPG,   VICTORY   ,70.5k,22,  10 ,  2 ,  2 ,  3 ,  1 ,Yuumi,Yasuo,Khazix,Kled,Renekton
+2019.0,summer,LCL,3,Elements Pro Gaming,M19,1.0,37:06,OK,red,M19,   DEFEAT   ,57.9k,12,  1 ,  0 ,  0 ,  1 ,  0 ,Aatrox,Sylas,Karthus,Mordekaiser,Gangplank
+2019.0,summer,LCL,3,UOL.CIS,Vega Squadron,1.0,28:50,OK,blue,UOL,   VICTORY   ,58.8k,18,  11 ,  4 ,  2 ,  4 ,  0 ,Karthus,Sylas,Gnar,Sejuani,Gangplank
+2019.0,summer,LCL,3,UOL.CIS,Vega Squadron,1.0,28:50,OK,red,VEG,   DEFEAT   ,42.9k,2,  2 ,  0 ,  0 ,  0 ,  1 ,Irelia,Yasuo,Yuumi,Kindred,Taliyah
+2019.0,summer,LCL,4,RoX,Vega Squadron,1.0,29:00,OK,blue,ROX,   DEFEAT   ,45.2k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Jayce,JarvanIV,Kennen,Gnar
+2019.0,summer,LCL,4,RoX,Vega Squadron,1.0,29:00,OK,red,VEG,   VICTORY   ,59.1k,15,  10 ,  2 ,  1 ,  4 ,  1 ,Irelia,Qiyana,Corki,Sejuani,Olaf
+2019.0,summer,LCL,4,UOL.CIS,Gambit,1.0,38:36,OK,blue,UOL,   VICTORY   ,73.1k,26,  9 ,  1 ,  1 ,  2 ,  1 ,Sylas,Xayah,Yuumi,Gnar,Sivir
+2019.0,summer,LCL,4,UOL.CIS,Gambit,1.0,38:36,OK,red,GMB,   DEFEAT   ,65.0k,14,  7 ,  1 ,  0 ,  3 ,  0 ,Irelia,Corki,Aatrox,Azir,Vayne
+2019.0,summer,LCL,4,Dragon Army,Vega Squadron,1.0,27:01,OK,blue,DA,   DEFEAT   ,43.9k,9,  3 ,  0 ,  0 ,  0 ,  1 ,Jayce,Sylas,RekSai,Corki,Azir
+2019.0,summer,LCL,4,Dragon Army,Vega Squadron,1.0,27:01,OK,red,VEG,   VICTORY   ,54.8k,26,  8 ,  1 ,  1 ,  3 ,  0 ,Sona,Yuumi,Karthus,Sivir,Lucian
+2019.0,summer,LCL,4,Elements Pro Gaming,RoX,1.0,30:59,OK,blue,EPG,   VICTORY   ,59.7k,15,  7 ,  1 ,  1 ,  2 ,  0 ,Yuumi,Sivir,Olaf,Azir,Vladimir
+2019.0,summer,LCL,4,Elements Pro Gaming,RoX,1.0,30:59,OK,red,ROX,   DEFEAT   ,54.2k,14,  3 ,  0 ,  0 ,  2 ,  1 ,Karthus,Qiyana,Aatrox,Mordekaiser,Sejuani
+2019.0,summer,LCL,4,M19,Vaevictis eSports,1.0,28:39,OK,blue,M19,   VICTORY   ,58.0k,27,  9 ,  2 ,  1 ,  1 ,  1 ,Syndra,TahmKench,Aatrox,Sejuani,Sylas
+2019.0,summer,LCL,4,M19,Vaevictis eSports,1.0,28:39,OK,red,VS,   DEFEAT   ,51.1k,15,  4 ,  0 ,  0 ,  2 ,  0 ,Pyke,Yuumi,Bard,Akali,Yasuo
+2019.0,summer,LCL,4,Dragon Army,Elements Pro Gaming,1.0,39:31,OK,blue,DA,   DEFEAT   ,65.1k,10,  6 ,  1 ,  1 ,  3 ,  1 ,Corki,Aatrox,Irelia,Mordekaiser,Gangplank
+2019.0,summer,LCL,4,Dragon Army,Elements Pro Gaming,1.0,39:31,OK,red,EPG,   VICTORY   ,69.7k,17,  6 ,  1 ,  1 ,  2 ,  0 ,Yuumi,Pyke,Karthus,Illaoi,Gnar
+2019.0,summer,LCL,4,Vega Squadron,M19,1.0,30:58,OK,blue,VEG,   VICTORY   ,59.5k,18,  10 ,  2 ,  1 ,  3 ,  1 ,Tryndamere,Yasuo,Qiyana,Irelia,Akali
+2019.0,summer,LCL,4,Vega Squadron,M19,1.0,30:58,OK,red,M19,   DEFEAT   ,45.7k,7,  0 ,  0 ,  0 ,  1 ,  0 ,Karthus,Sylas,Aatrox,Gragas,Corki
+2019.0,summer,LCL,4,Gambit,Dragon Army,1.0,34:59,OK,blue,GMB,   VICTORY   ,64.0k,13,  11 ,  2 ,  2 ,  5 ,  1 ,Irelia,Karthus,Sona,Sejuani,Gragas
+2019.0,summer,LCL,4,Gambit,Dragon Army,1.0,34:59,OK,red,DA,   DEFEAT   ,53.5k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Xayah,Aatrox,Yuumi,Draven,Sivir
+2019.0,summer,LCL,4,Vaevictis eSports,Elements Pro Gaming,1.0,17:04,OK,blue,VS,   DEFEAT   ,25.5k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Pyke,Sivir,Yuumi,Tristana,Akali
+2019.0,summer,LCL,4,Vaevictis eSports,Elements Pro Gaming,1.0,17:04,OK,red,EPG,   VICTORY   ,38.1k,29,  8 ,  1 ,  0 ,  1 ,  1 ,Heimerdinger,Nunu,Soraka,Malphite,Rakan
+2019.0,summer,LCL,4,UOL.CIS,M19,1.0,23:06,OK,blue,UOL,   VICTORY   ,44.8k,13,  9 ,  1 ,  1 ,  3 ,  1 ,Xayah,Yuumi,Yasuo,Vladimir,Gnar
+2019.0,summer,LCL,4,UOL.CIS,M19,1.0,23:06,OK,red,M19,   DEFEAT   ,33.3k,5,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Irelia,Azir,Karthus,Mordekaiser
+2019.0,summer,LCL,4,Vaevictis eSports,Gambit,1.0,25:51,OK,blue,VS,   DEFEAT   ,41.3k,14,  1 ,  0 ,  0 ,  0 ,  0 ,Pyke,Olaf,Anivia,Evelynn,LeeSin
+2019.0,summer,LCL,4,Vaevictis eSports,Gambit,1.0,25:51,OK,red,GMB,   VICTORY   ,55.0k,23,  11 ,  2 ,  1 ,  2 ,  1 ,Sylas,Aatrox,Leblanc,Renekton,Braum
+2019.0,summer,LCL,4,RoX,UOL.CIS,1.0,24:06,OK,blue,ROX,   DEFEAT   ,36.9k,9,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Aatrox,Irelia,JarvanIV,LeeSin
+2019.0,summer,LCL,4,RoX,UOL.CIS,1.0,24:06,OK,red,UOL,   VICTORY   ,52.0k,25,  10 ,  2 ,  1 ,  2 ,  1 ,Sivir,Yuumi,Corki,Gnar,Sejuani
+2019.0,summer,LCL,5,M19,Gambit,1.0,23:49,OK,blue,M19,   DEFEAT   ,37.2k,8,  0 ,  0 ,  0 ,  0 ,  0 ,Aatrox,Qiyana,Rakan,Zed,Volibear
+2019.0,summer,LCL,5,M19,Gambit,1.0,23:49,OK,red,GMB,   VICTORY   ,48.8k,18,  8 ,  1 ,  1 ,  3 ,  1 ,Irelia,Yasuo,Khazix,Vladimir,Azir
+2019.0,summer,LCL,5,Vaevictis eSports,UOL.CIS,1.0,30:58,OK,blue,VS,   DEFEAT   ,48.8k,14,  1 ,  0 ,  0 ,  0 ,  0 ,Pyke,Nidalee,Morgana,Draven,Xayah
+2019.0,summer,LCL,5,Vaevictis eSports,UOL.CIS,1.0,30:58,OK,red,UOL,   VICTORY   ,61.0k,35,  11 ,  3 ,  2 ,  3 ,  1 ,Yorick,Irelia,Akali,Aatrox,Syndra
+2019.0,summer,LCL,5,Vega Squadron,Elements Pro Gaming,1.0,28:07,OK,blue,VEG,   VICTORY   ,57.2k,14,  11 ,  4 ,  1 ,  4 ,  1 ,Qiyana,Irelia,Xayah,Morgana,TahmKench
+2019.0,summer,LCL,5,Vega Squadron,Elements Pro Gaming,1.0,28:07,OK,red,EPG,   DEFEAT   ,43.7k,7,  0 ,  0 ,  0 ,  0 ,  0 ,Karthus,Syndra,Yuumi,Sivir,Sylas
+2019.0,summer,LCL,5,RoX,Dragon Army,1.0,35:00,OK,blue,ROX,   DEFEAT   ,60.4k,11,  2 ,  0 ,  1 ,  2 ,  1 ,Sona,Karthus,Ezreal,Kaisa,Lucian
+2019.0,summer,LCL,5,RoX,Dragon Army,1.0,35:00,OK,red,DA,   VICTORY   ,64.8k,16,  10 ,  2 ,  1 ,  3 ,  0 ,Corki,Vladimir,Irelia,Olaf,Azir
+2019.0,summer,LCL,5,Elements Pro Gaming,UOL.CIS,1.0,31:08,OK,blue,EPG,   VICTORY   ,61.5k,25,  8 ,  1 ,  1 ,  4 ,  0 ,Syndra,Vayne,Aatrox,Skarner,Sejuani
+2019.0,summer,LCL,5,Elements Pro Gaming,UOL.CIS,1.0,31:08,OK,red,UOL,   DEFEAT   ,51.3k,13,  2 ,  0 ,  0 ,  0 ,  1 ,Sylas,Karthus,Xayah,MissFortune,Varus
+2019.0,summer,LCL,5,M19,Dragon Army,1.0,31:22,OK,blue,M19,   VICTORY   ,61.0k,26,  9 ,  1 ,  1 ,  2 ,  0 ,Karthus,Sona,Yuumi,Zoe,Akali
+2019.0,summer,LCL,5,M19,Dragon Army,1.0,31:22,OK,red,DA,   DEFEAT   ,52.7k,14,  3 ,  0 ,  0 ,  1 ,  1 ,Khazix,Xayah,Yasuo,Leblanc,Vladimir
+2019.0,summer,LCL,5,Gambit,Vega Squadron,1.0,37:42,OK,blue,GMB,   VICTORY   ,74.3k,18,  11 ,  3 ,  2 ,  3 ,  1 ,Irelia,Karthus,Syndra,Azir,Braum
+2019.0,summer,LCL,5,Gambit,Vega Squadron,1.0,37:42,OK,red,VEG,   DEFEAT   ,62.6k,8,  2 ,  0 ,  0 ,  2 ,  0 ,Qiyana,Xayah,Aatrox,Sivir,Rakan
+2019.0,summer,LCL,5,RoX,Vaevictis eSports,1.0,21:30,OK,blue,ROX,   VICTORY   ,48.2k,29,  11 ,  3 ,  0 ,  0 ,  0 ,Aatrox,Vladimir,Akali,Syndra,Azir
+2019.0,summer,LCL,5,RoX,Vaevictis eSports,1.0,21:30,OK,red,VS,   DEFEAT   ,33.1k,11,  0 ,  0 ,  0 ,  1 ,  1 ,Renekton,Karthus,Pyke,Qiyana,Tristana
+2019.0,summer,LCL,Tiebreakers,Gambit,UOL.CIS,1.0,33:03,OK,blue,GMB,   VICTORY   ,64.7k,26,  8 ,  2 ,  0 ,  2 ,  0 ,Irelia,Mordekaiser,Syndra,Gragas,Sejuani
+2019.0,summer,LCL,Tiebreakers,Gambit,UOL.CIS,1.0,33:03,OK,red,UOL,   DEFEAT   ,53.1k,9,  1 ,  0 ,  1 ,  3 ,  1 ,Sylas,Aatrox,Xayah,Galio,Vladimir

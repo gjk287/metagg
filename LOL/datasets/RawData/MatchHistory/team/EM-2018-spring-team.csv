@@ -1,0 +1,39 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,EM,1,eSuba,LDLC OL,1.0,32:51,OK,blue,ESB,   DEFEAT   ,55.0k,9,  1 ,  0 ,  0 ,  0 ,  0 ,Galio,Camille,Kaisa,Ornn,Gangplank
+2018.0,spring,EM,1,eSuba,LDLC OL,1.0,32:51,OK,red,DLC,   VICTORY   ,68.0k,11,  11 ,  3 ,  1 ,  3 ,  1 ,Swain,Khazix,Xayah,Sion,Morgana
+2018.0,spring,EM,1,Team Forge,Movistar Riders,1.0,29:58,OK,blue,4G,   DEFEAT   ,45.5k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Vladimir,Camille,Thresh,Karma
+2018.0,spring,EM,1,Team Forge,Movistar Riders,1.0,29:58,OK,red,MRS,   VICTORY   ,63.1k,14,  11 ,  3 ,  2 ,  4 ,  1 ,Swain,Rakan,Skarner,Morgana,Gangplank
+2018.0,spring,EM,1,Could Be Better,KlikTech,1.0,29:27,OK,blue,CBB,   DEFEAT   ,42.6k,4,  0 ,  0 ,  0 ,  0 ,  1 ,Taliyah,Khazix,Swain,Xayah,Varus
+2018.0,spring,EM,1,Could Be Better,KlikTech,1.0,29:27,OK,red,KLT,   VICTORY   ,61.5k,16,  10 ,  2 ,  1 ,  4 ,  0 ,Kaisa,Camille,Sion,Skarner,Olaf
+2018.0,spring,EM,1,Team Ascent,K1CK Neosurf,1.0,34:08,OK,blue,ACT,   DEFEAT   ,57.9k,9,  5 ,  1 ,  0 ,  2 ,  1 ,Karma,Sion,Swain,Alistar,TahmKench
+2018.0,spring,EM,1,Team Ascent,K1CK Neosurf,1.0,34:08,OK,red,K1K,   VICTORY   ,64.8k,11,  10 ,  1 ,  1 ,  2 ,  0 ,Khazix,Skarner,Trundle,Gangplank,Cassiopeia
+2018.0,spring,EM,1,Spain5,eSuba,1.0,31:34,OK,blue,SP5,   DEFEAT   ,50.5k,6,  3 ,  0 ,  0 ,  0 ,  0 ,Xayah,Camille,Morgana,Braum,Alistar
+2018.0,spring,EM,1,Spain5,eSuba,1.0,31:34,OK,red,ESB,   VICTORY   ,65.0k,17,  9 ,  1 ,  1 ,  3 ,  1 ,Kaisa,Swain,Caitlyn,Azir,Cassiopeia
+2018.0,spring,EM,1,Packa Pappas Kappsack,Team Forge,1.0,31:37,OK,blue,PPK,   VICTORY   ,60.5k,10,  11 ,  3 ,  1 ,  4 ,  1 ,Cassiopeia,Swain,Kaisa,Ornn,Sion
+2018.0,spring,EM,1,Packa Pappas Kappsack,Team Forge,1.0,31:37,OK,red,4G,   DEFEAT   ,50.0k,0,  1 ,  0 ,  0 ,  0 ,  0 ,Camille,Taliyah,Janna,Khazix,RekSai
+2018.0,spring,EM,2,KlikTech,BIG,1.0,35:09,OK,blue,KLT,   VICTORY   ,70.6k,24,  9 ,  2 ,  2 ,  2 ,  0 ,Xayah,Kaisa,Morgana,Fiora,Thresh
+2018.0,spring,EM,2,KlikTech,BIG,1.0,35:09,OK,red,BIG,   DEFEAT   ,60.4k,14,  3 ,  0 ,  0 ,  3 ,  0 ,Swain,Ryze,Gangplank,TahmKench,Janna
+2018.0,spring,EM,2,K1CK Neosurf,Enclave Gaming,1.0,33:42,OK,blue,K1K,   VICTORY   ,63.7k,15,  11 ,  3 ,  1 ,  2 ,  1 ,Camille,Xayah,Trundle,Varus,Ezreal
+2018.0,spring,EM,2,K1CK Neosurf,Enclave Gaming,1.0,33:42,OK,red,ENC,   DEFEAT   ,51.7k,4,  1 ,  0 ,  0 ,  1 ,  0 ,Swain,Kaisa,Caitlyn,Morgana,Janna
+2018.0,spring,EM,2,LDLC OL,Spain5,1.0,24:32,OK,blue,TLD,   VICTORY   ,53.9k,17,  8 ,  1 ,  1 ,  1 ,  1 ,Zoe,Skarner,Xayah,Shen,Sion
+2018.0,spring,EM,2,LDLC OL,Spain5,1.0,24:32,OK,red,SP5,   DEFEAT   ,38.3k,5,  1 ,  0 ,  0 ,  0 ,  0 ,Ryze,Morgana,Kaisa,Vladimir,LeeSin
+2018.0,spring,EM,2,Movistar Riders,Packa Pappas Kappsack,1.0,,this row doesn't have MH_url,,,,,,,,,,,,,,,
+2018.0,spring,EM,2,BIG,Could Be Better,1.0,26:10,OK,blue,BIG,   VICTORY   ,53.8k,21,  7 ,  1 ,  0 ,  2 ,  1 ,Cassiopeia,Trundle,Skarner,Warwick,Fiora
+2018.0,spring,EM,2,BIG,Could Be Better,1.0,26:10,OK,red,CBB,   DEFEAT   ,40.8k,8,  0 ,  0 ,  0 ,  1 ,  0 ,Swain,Olaf,Jax,Kaisa,Ashe
+2018.0,spring,EM,2,Enclave Gaming,Team Ascent,1.0,34:21,OK,blue,ENC,   VICTORY   ,68.7k,19,  8 ,  1 ,  1 ,  0 ,  1 ,Azir,Kaisa,Khazix,Morgana,Gnar
+2018.0,spring,EM,2,Enclave Gaming,Team Ascent,1.0,34:21,OK,red,ACT,   DEFEAT   ,59.3k,16,  3 ,  0 ,  0 ,  3 ,  0 ,Caitlyn,Swain,Skarner,Camille,Vladimir
+2018.0,spring,EM,Round,LDLC OL,Enclave Gaming,1.0,29:31,OK,blue,TLD,   VICTORY   ,63.5k,21,  10 ,  1 ,  1 ,  2 ,  1 ,Skarner,Xayah,Sion,Tristana,Camille
+2018.0,spring,EM,Round,LDLC OL,Enclave Gaming,1.0,29:31,OK,red,ENC,   DEFEAT   ,46.2k,9,  0 ,  0 ,  0 ,  1 ,  0 ,Swain,Kaisa,Nidalee,Morgana,Jax
+2018.0,spring,EM,Round,Movistar Riders,BIG,1.0,24:24,OK,blue,BIG,   DEFEAT   ,37.9k,3,  1 ,  0 ,  0 ,  0 ,  1 ,Cassiopeia,Trundle,Caitlyn,Khazix,LeeSin
+2018.0,spring,EM,Round,Movistar Riders,BIG,1.0,24:24,OK,red,MRS,   VICTORY   ,52.8k,17,  10 ,  1 ,  1 ,  2 ,  0 ,Shyvana,Swain,Camille,Ezreal,Jax
+2018.0,spring,EM,Round,KlikTech,Packa Pappas Kappsack,1.0,25:23,OK,blue,PPK,   DEFEAT   ,38.1k,2,  2 ,  0 ,  0 ,  1 ,  0 ,Camille,Ryze,Swain,Galio,Orianna
+2018.0,spring,EM,Round,KlikTech,Packa Pappas Kappsack,1.0,25:23,OK,red,KLT,   VICTORY   ,51.7k,13,  8 ,  1 ,  1 ,  2 ,  1 ,Olaf,Caitlyn,Kaisa,Cassiopeia,Ornn
+2018.0,spring,EM,Round,K1CK Neosurf,eSuba,1.0,39:22,OK,blue,K1K,   VICTORY   ,70.1k,13,  7 ,  1 ,  0 ,  2 ,  1 ,Camille,Azir,Trundle,Galio,Ornn
+2018.0,spring,EM,Round,K1CK Neosurf,eSuba,1.0,39:22,OK,red,ESB,   DEFEAT   ,66.6k,7,  4 ,  0 ,  1 ,  2 ,  0 ,Swain,Kaisa,Ryze,Cassiopeia,Taliyah
+2018.0,spring,EM,Qualifiers,LDLC OL,Movistar Riders,1.0,,AttributeError,,,,,,,,,,,,,,,
+2018.0,spring,EM,Qualifiers,LDLC OL,Movistar Riders,2.0,36:45,OK,blue,MRS,   VICTORY   ,63.7k,8,  7 ,  1 ,  1 ,  1 ,  0 ,Nidalee,Camille,Xayah,Khazix,Shen
+2018.0,spring,EM,Qualifiers,LDLC OL,Movistar Riders,2.0,36:45,OK,red,TLD,   DEFEAT   ,65.0k,8,  6 ,  0 ,  1 ,  3 ,  1 ,Swain,Kaisa,Sion,Skarner,Trundle
+2018.0,spring,EM,Qualifiers,KlikTech,K1CK Neosurf,1.0,23:14,OK,blue,K1K,   DEFEAT   ,31.6k,2,  0 ,  0 ,  0 ,  0 ,  0 ,Camille,Rakan,Zac,TahmKench,Shen
+2018.0,spring,EM,Qualifiers,KlikTech,K1CK Neosurf,1.0,23:14,OK,red,KLT,   VICTORY   ,48.5k,16,  8 ,  1 ,  1 ,  3 ,  1 ,Skarner,Swain,Morgana,Nidalee,Khazix
+2018.0,spring,EM,Qualifiers,KlikTech,K1CK Neosurf,2.0,36:24,OK,blue,K1K,   DEFEAT   ,56.8k,6,  3 ,  0 ,  0 ,  0 ,  1 ,Camille,Trundle,Cassiopeia,Rakan,Leblanc
+2018.0,spring,EM,Qualifiers,KlikTech,K1CK Neosurf,2.0,36:24,OK,red,KLT,   VICTORY   ,71.8k,16,  11 ,  3 ,  1 ,  4 ,  0 ,Skarner,Swain,Ryze,Ornn,Vladimir
