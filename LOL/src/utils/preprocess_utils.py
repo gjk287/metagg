@@ -127,6 +127,23 @@ def time_to_sec(string):
 def ckpm_feature(ckill, game_length):
 	return ckill / game_length * 60
 
+def matchhistory_kmil(string):
+	if 'k' in string:
+		num = float(string.split('k')[0]) * 1000
+	
+	elif 'mil' in string:
+		num = float(string.split('mil')[0]) * 1000
+
+	else:
+		num = None
+	return num
+
+def matchhistory_int_column(string):
+	try:
+		num = int(string)
+	except:
+		num = None
+	return num
 
 set_match_url_column_dict = {
 	'MH': 'match_history_url',

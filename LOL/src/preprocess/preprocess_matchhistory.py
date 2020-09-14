@@ -4,7 +4,7 @@ import pandas as pd
 import glob
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from database import DB
-from utils import change_fb_matchhistory, GamepediaDict, tableUniqueKey, time_to_sec, ckpm_feature
+from utils import change_fb_matchhistory, GamepediaDict, tableUniqueKey, time_to_sec, ckpm_feature, matchhistory_kmil, matchhistory_int_column
 from preprocess import Preprocess
 
 # instantiate database
@@ -57,10 +57,87 @@ class MatchHistory(Preprocess):
 				return pd.DataFrame(data=player_list, columns=['player_name'])
 
 			# get champion table
-			if table_name == 'champion':
+			elif table_name == 'champion':
 				temp_df = temp_df.dropna(subset=['champion']).reset_index(drop=True)
 				champion_list = list(temp_df['champion'].unique())
 				return pd.DataFrame(data=champion_list, columns=['champion_name'])
+
+			# get set_match_info_by_team table
+			elif table_name == 'set_match_info_by_team':
+				# pk를 가지고 있는 set_match_info_by_team
+				ref_table = db.extend_idToValue(ref_table, 'set_match')
+				ref_table = db.extend_idToValue(ref_table, 'match')
+				ref_table = db.extend_idToValue(ref_table, 'team', 'home_team_id', rename={'team_name':'team_1'})
+				ref_table = db.extend_idToValue(ref_table, 'team', 'away_team_id', rename={'team_name':'team_2'})
+				ref_table = db.extend_idToValue(ref_table, 'team', 'team_id', rename={'team_name':'team'})
+				ref_table = db.extend_idToValue(ref_table, 'league', 'league_id')
+				ref_table = ref_table[(ref_table['year']==year) & (ref_table['season']==season) & (ref_table['league_name']==league)]
+				ref_table['year'] = ref_table['year'].astype(int)
+				ref_table['match_round'] = ref_table['match_round'].astype(str)
+				ref_table['tiebreaker'] = ref_table['tiebreaker'].astype(int)
+				self.reference_table = ref_table
+
+				# create top~sup player id, first_blood, total gold, earned gold, minion kills, monster kills=neutral minion
+				temp_df['week'] = temp_df['week'].astype(str)
+				temp_df['year'] = temp_df['year'].astype(int)
+				temp_df['tiebreaker'] = temp_df['week'].apply(lambda x: 1 if x == 'Tiebreakers' else 0)
+				temp_df['match_round'] = temp_df['week'].replace({'Round': 'Elimination Round', 'Stage': 'Knockout Stage'})
+				temp_df = change_fb_matchhistory(temp_df)
+
+				#ref_table = ref_table.set_index(['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number'])
+				#temp_df = temp_df.set_index(['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number'])
+				for idx, val in ref_table.copy().iterrows():
+					temp_df = temp_df[temp_df['year']==val['year']]
+					temp_df = temp_df[temp_df['season']==val['season']]
+					temp_df = temp_df[temp_df['league_name']==val['league_name']]
+					temp_df = temp_df[temp_df['team_1']==val['team_1']]
+					temp_df = temp_df[temp_df['team_2']==val['team_2']]
+					temp_df = temp_df[temp_df['team']==val['team']]
+					temp_df = temp_df[temp_df['tiebreaker']==val['tiebreaker']]
+					temp_df = temp_df[temp_df['match_round']==val['match_round']]
+					temp_df = temp_df[temp_df['set_number']==val['set_number']].reset_index(drop=True)
+					
+					if temp_df.shape[0] == 5:
+						top_player = temp_df.loc[0, 'player_name']
+						jg_player = temp_df.loc[1, 'player_name']
+						mid_player = temp_df.loc[2, 'player_name']
+						bot_player = temp_df.loc[3, 'player_name']
+						sup_player = temp_df.loc[4, 'player_name']
+						print(f"Year: {val['year']}, Season: {val['season']}, League: {val['league_name']}, team_1: {val['team_1']}, team_2: {val['team_2']}, match_round: {val['match_round']}, set_number: {val['set_number']}")
+						temp_df.to_csv('tempdd.csv',index=False)
+						break
+					else:
+						print('No 5 players')
+						print(f"Year: {val['year']}, Season: {val['season']}, League: {val['league_name']}, team_1: {val['team_1']}, team_2: {val['team_2']}, match_round: {val['match_round']}, set_number: {val['set_number']}")
+						continue
+					
+					temp_df['earned_gold'] = temp_df['earned_gold'].apply(matchhistory_kmil)
+					temp_df['minion_kills'] = temp_df['minion_kills'].apply(matchhistory_int_column)
+					temp_df['neutral_minions_kills'] = temp_df['neutral_minions_kills'].apply(matchhistory_int_column)
+
+					## groupby
+					temp_df_groupby = temp_df.groupby(['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']).sum()
+					fb = temp_df_groupby.loc[tuple(val[['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']]), 'first_blood']
+					earned_gold = temp_df_groupby.loc[tuple(val[['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']]), 'earned_gold']
+					minion_kills = temp_df_groupby.loc[tuple(val[['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']]), 'minion_kills']
+					monster_kills = temp_df_groupby.loc[tuple(val[['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']]), 'neutral_minions_kills']
+
+					# input in ref_table
+					ref_table.loc[idx, 'top_player'] = top_player
+					ref_table.loc[idx, 'jg_player'] = jg_player
+					ref_table.loc[idx, 'mid_player'] = mid_player
+					ref_table.loc[idx, 'bot_player'] = bot_player
+					ref_table.loc[idx, 'sup_player'] = sup_player
+					ref_table.loc[idx, 'team_first_blood'] = fb
+					ref_table.loc[idx, 'team_earned_gold'] = earned_gold
+					ref_table.loc[idx, 'team_minion_kills'] = minion_kills
+					ref_table.loc[idx, 'team_monster_kills'] = monster_kills
+
+				ref_table[['top_player_id', 'jg_player_id', 'mid_player_id', 'bot_player_id', 'sup_player_id']] = ref_table[['top_player', 'jg_player', 'mid_player', 'bot_player', 'sup_player']].replace(db.get_dict('player')['valueToID'])
+				ref_table = ref_table.where(pd.notnull(ref_table), None)
+					
+
+
 
 		
 		elif table_type == 'team':
@@ -103,11 +180,11 @@ class MatchHistory(Preprocess):
 				
 				# put created value to ref_table
 				# year, season, league_name, team_1, team_2, tiebreaker, match_round로 게임을 특정 지을 수 있음
-				ref_table = ref_table.set_index(['year', 'season', 'league_name', 'team_1', 'team_2', 'tiebreaker', 'match_round'])
+				ref_table = ref_table.set_index(['year', 'season', 'league_name', 'team_1', 'team_2', 'tiebreaker', 'match_round', 'set_number'])
 
 				# ckpm, game_length는 두팀다 똑같기 때문에 drop duplicates
-				temp_df = temp_df.drop_duplicates(subset=['year', 'season', 'league_name', 'team_1', 'team_2', 'tiebreaker', 'match_round'])
-				temp_df = temp_df.set_index(['year', 'season', 'league_name', 'team_1', 'team_2', 'tiebreaker', 'match_round'])
+				temp_df = temp_df.drop_duplicates(subset=['year', 'season', 'league_name', 'team_1', 'team_2', 'tiebreaker', 'match_round', 'set_number'])
+				temp_df = temp_df.set_index(['year', 'season', 'league_name', 'team_1', 'team_2', 'tiebreaker', 'match_round', 'set_number'])
 				for idx, _ in ref_table.iterrows():
 					# 없으면 None으로 넣기
 					try:
@@ -118,6 +195,20 @@ class MatchHistory(Preprocess):
 						ref_table.loc[idx, 'game_length'] = None
 				ref_table = ref_table.where(pd.notnull(ref_table), None)
 				return ref_table.reset_index()
+
+			# get set_match_info_by_team table
+			elif table_name == 'set_match_info_by_team':
+				# pk를 가지고 있는 set_match_info_by_team
+				ref_table = db.extend_idToValue(ref_table, 'set_match')
+				ref_table = db.extend_idToValue(ref_table, 'match')
+				ref_table = db.extend_idToValue(ref_table, 'team', 'home_team_id', rename={'team_name':'team_1'})
+				ref_table = db.extend_idToValue(ref_table, 'team', 'away_team_id', rename={'team_name':'team_2'})
+				ref_table = db.extend_idToValue(ref_table, 'team', 'team_id', rename={'team_name':'team'})
+				ref_table = db.extend_idToValue(ref_table, 'league', 'league_id')
+				ref_table = ref_table[(ref_table['year']==year) & (ref_table['season']==season) & (ref_table['league_name']==league)]
+				self.reference_table = ref_table
+
+				# wdl, side, ban1~5,  team_kills, team_deaths, team_kpm, baron, dragon, rift, tower, inhib
 
 
 
