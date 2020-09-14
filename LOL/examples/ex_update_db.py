@@ -11,7 +11,7 @@ db = DB()
 db.initialise()
 
 def main():
-	update_table('match')
+	update_table('set_match')
 
 def update_table(table_name='all'):
 	PATH = f'LOL\\datasets\\DerivedData\\DB_table\\{table_name}\\*csv'
