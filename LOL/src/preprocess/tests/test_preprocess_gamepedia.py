@@ -6,7 +6,7 @@ import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from preprocess import Gamepedia
 from database import DB
-from utils import tableUniqueKey, tablePK_dict
+from utils import tableUniqueKey, tablePK_dict, GameDictionary
 
 db = DB()
 db.initialise()
@@ -32,7 +32,8 @@ def preprocess_and_save(data_name='game_schedule', table_name=None, save=True):
 		# save
 		newPath = f'LOL\\datasets\\DerivedData\\None_DB_table\\game_schedule.csv'
 
-	elif (data_name == 'set_match_url') | (data_name == 'set_match'):
+	elif (data_name == 'set_match_url') | (data_name == 'set_match') | (data_name == 'player'):
+		g_dict = GameDictionary()
 		df = pd.DataFrame()
 		for file in glob.glob('LOL\\datasets\\RawData\\Gamepedia\\match_history_url\\*csv'):
 			# open file
@@ -69,9 +70,20 @@ def preprocess_and_save(data_name='game_schedule', table_name=None, save=True):
 			newPath = f'LOL\\datasets\\DerivedData\\DB_table\\set_match_url\\set_match_url_unique.csv'
 		
 		elif data_name == 'set_match':
+			playerDict = db.get_dict('player')['valueToID']
 			df = df.rename(columns={'MVP':'mvp'})
 			df = df[tableUniqueKey[data_name] + [tablePK_dict[data_name]] + ['mvp']]
+			df['mvp'] = df['mvp'].replace(g_dict.get_dict('player'))
+			df['mvp'] = df['mvp'].replace(playerDict)
 			newPath = f'LOL\\datasets\\DerivedData\\DB_table\\set_match\\set_match_mvp.csv'
+
+		elif data_name == 'player':
+			df = df.rename(columns={'MVP':'player_name'})
+			df['player_name'] = df['player_name'].replace(g_dict.get_dict('player'))
+			df = df[tableUniqueKey[data_name]]
+			df = df.dropna(subset=['player_name'])
+			df = df.drop_duplicates(subset=['player_name'])
+			newPath = f'LOL\\datasets\\DerivedData\\DB_table\\player\\player_unique4.csv'
 		
 	else:
 		print('wrong data')
