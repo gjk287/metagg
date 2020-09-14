@@ -124,6 +124,7 @@ def main():
 	# preprocess_and_input(table_name, 'match_history')
 	# input_to_csv(table_name)
 
+	pass
 
 
 def preprocess_and_input(table_name=None, data_name=None):
