@@ -102,7 +102,10 @@ def main():
 	# preprocess_and_input(table_name)
 	# input_to_csv(table_name)
 
-	# # get mvp for set match
+	# # get player from mvp table and input mvp for set match
+	# table_name = 'player'
+	# preprocess_and_input(table_name, data_name='gamepedia')
+	# input_to_csv(table_name)
 	# table_name = 'set_match'
 	# preprocess_and_input(table_name, data_name='gamepedia')
 
@@ -116,10 +119,10 @@ def main():
 	# preprocess_and_input(table_name, 'match_history')
 	# input_to_csv(table_name)
 
-	# get ckpm, gamelength from match history and input to DB
-	table_name = 'set_match'
-	preprocess_and_input(table_name, 'match_history')
-
+	# # get ckpm, gamelength from match history and input to DB
+	# table_name = 'set_match'
+	# preprocess_and_input(table_name, 'match_history')
+	# input_to_csv(table_name)
 
 
 
@@ -166,6 +169,7 @@ def preprocess_and_input(table_name=None, data_name=None):
 			return
 		elif data_name == 'match_history':
 			pas_matchhistory(table_name, 'team')
+			return
 
 	elif table_name == 'set_match_info_by_team':
 		pas_matchschedule(table_name)
@@ -178,6 +182,8 @@ def preprocess_and_input(table_name=None, data_name=None):
 			pas_oracleelixir(table_name)
 		elif data_name == 'match_history':
 			pas_matchhistory(table_name, 'player')
+		elif data_name == 'gamepedia':
+			pas_gamepedia(table_name)
 
 	elif table_name == 'champion':
 		if data_name == 'oracle_elixir':
