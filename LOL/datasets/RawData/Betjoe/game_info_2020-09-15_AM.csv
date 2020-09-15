@@ -1,0 +1,5 @@
+date,league_name,year,season,team_1,team_2,betting_site,saved_time,special:game_win:home,special:game_win:away,handicap:set_handicap:-1.5:home,handicap:set_handicap:+1.5:away,handicap:set_handicap:+1.5:home,handicap:set_handicap:-1.5:away,0-2,1-2,2-0,2-1,over_under:total_sets:2.5:over,over_under:total_sets:2.5:under
+2020-09-16,European Masters,2020.0,summer,Giants Gaming,Team GamerLegion,betjoe,2020-09-15 11:00:00,-227,+162,+130,-179,-769,+429,+430,+385,+130,+228,+108,-145
+2020-09-16,European Masters,2020.0,summer,LDLC OL,GamersOrigin,betjoe,2020-09-15 11:00:00,+168,-238,+413,-714,-192,+141,+140,+240,+400,+368,+111,-149
+2020-09-17,European Masters,2020.0,summer,AGO ROGUE,Misfits Premier,betjoe,2020-09-15 11:00:00,-227,+160,+147,-208,-667,+381,+350,+375,+150,+240,+105,-145
+2020-09-17,European Masters,2020.0,summer,mousesports,K1CK Neosurf,betjoe,2020-09-15 11:00:00,-250,+174,+137,-192,-769,+415,+350,+375,+150,+240,+108,-149
