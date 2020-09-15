@@ -10,6 +10,7 @@ def main():
 	unikrn = Unikrn(url)
 
 	result = None
+	count = 0
 	while result is None:
 		try:
 			result = crawl_and_save(unikrn)

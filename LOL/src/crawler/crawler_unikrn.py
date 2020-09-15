@@ -137,7 +137,7 @@ class Unikrn(Crawler):
 		temp_df = self.game_info_df
 		# iterate through href dataframe
 		for idx, val in self.href_df.iterrows():
-			bet12_class_name = 'style__Selections-dbdcsb-13.dNrWxB'
+			bet12_class_name = 'style__Selections-dbdcsb-13.bhqKtR'
 			# if url exists
 			if val['event_url_href']:
 				self.driver.get(val['event_url_href'])
