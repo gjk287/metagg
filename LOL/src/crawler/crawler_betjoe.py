@@ -413,7 +413,7 @@ class Betjoe(Crawler):
 		self.game_info_df['date'] = self.game_info_df['date'].fillna(method='ffill')
 		self.special_odds_df['date'] = self.special_odds_df['date'].fillna(method='ffill')
 
-		PATH = 'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\LOL\\datasets\\RawData\\Betjoe'
+		PATH = 'C:\\Users\\jjames\\Dropbox\\Cloud_Data\\Projects\\Game-Data-Platform\\meta.gg\\LOL\\datasets\\RawData\\Betjoe'
 		TIME = date.today().strftime('%Y-%m-%d')
 		if int(datetime.now().strftime('%Y-%m-%d_%H').split('_')[-1]) >= 12:
 			self.game_info_df.to_csv(f'{PATH}\\game_info_{TIME}_PM.csv', index=False, encoding='utf-8')
