@@ -967,12 +967,27 @@ class GamepediaDict(GameDictionary):
 		
 		elif (league == 'LCS_a'):
 			self.teamName_dict['TS'] = 'Tempo Storm'
+			self.teamName_dict['100'] = '100 Thieves Academy'
+			self.teamName_dict['C9'] = 'Cloud9 Academy'
+			self.teamName_dict['CG'] = 'Clutch Gaming Academy'
+			self.teamName_dict['CLG'] = 'CLG Academy'
+			self.teamName_dict['FLY'] = 'FlyQuest Academy'
+			self.teamName_dict['FOX'] = 'Echo Fox Academy'
+			self.teamName_dict['GGS'] = 'Golden Guardians Academy'
+			self.teamName_dict['OPT'] = 'OpTic Gaming Academy'
+			self.teamName_dict['TL'] = 'TL Academy'
+			self.teamName_dict['TSM'] = 'TSM Academy'
+			self.teamName_dict['DIG'] = 'Dignitas Academy'
+			self.teamName_dict['EG'] = 'Evil Geniuses Academy'
+			self.teamName_dict['GG'] = 'Golden Guardians Academy'
+			self.teamName_dict['IMT'] = 'Immortals Academy'
 		
 		elif (league == 'VCS'):
 			self.teamName_dict['DBL'] = 'Saigon Buffalo'
 			self.teamName_dict['TS'] = 'Team Secret'
 			self.teamName_dict['YG'] = 'Young Generation'
 			self.teamName_dict['VK'] = 'Vikings Gaming'
+			self.teamName_dict['YG'] = 'Young Generation'
 
 		elif (league == 'TPL_a'):
 			self.teamName_dict['SUP'] = 'SuperMassive Academy'
@@ -980,7 +995,14 @@ class GamepediaDict(GameDictionary):
 			self.teamName_dict['BJK'] = 'Besiktas Academy'
 			self.teamName_dict['AUR'] = 'AURORA Academy'
 			self.teamName_dict['IW'] = 'Istanbul Wildcats Academy'
-
+			self.teamName_dict['AUR'] = 'AURORA Academy'
+			self.teamName_dict['5R'] = '5 Ronin Academy'
+			self.teamName_dict['BUR'] = 'Bursaspor Academy'
+			self.teamName_dict['DP'] = 'Dark Passage Academy'
+			self.teamName_dict['GAL'] = 'Galakticos Academy'
+			self.teamName_dict['GS'] = 'Galatasaray Academy'
+			self.teamName_dict['HWA'] = 'HWA Gaming Academy'
+			self.teamName_dict['RYL'] = 'Royal Youth Academy'
 
 		else:
 			self.teamName_dict['MSC'] = 'Mid Season Cup'
