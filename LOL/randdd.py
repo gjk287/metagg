@@ -1,5 +1,4 @@
 import pandas as pd
-import glob
 import os
 import sys
 import io
@@ -8,23 +7,19 @@ sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding='utf-8')
 
 sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'src'))
 from database import DB
-from preprocess import GamepediaDict
 
 db = DB()
 db.initialise()
 
 def main():
-	result_list = list()
-	for file in glob.glob(r'C:\Users\james\Desktop\metagg_fork\LOL\datasets\RawData\MatchHistory\team\*csv'):
-		df = pd.read_csv(file)
-		df = df[df['state']=='OK']
-		
-		if not df.empty:
-			# print(file)
-			result = df.loc[13, 'result']
-			result_list.append(result)
-	print(set(result_list))
-			
+	PATH = r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta.gg\LOL\datasets\DerivedData\DB_table\set_match\set_match_mvp.csv'
+	df = pd.read_csv(PATH)
+	#PATH2 = r'C:\Users\jjames\iCloudDrive\Desktop\Cloud_Data\Personal_Projects\meta.gg\LOL\datasets\DerivedData\DB_table\player\player_unique2.csv'
+	#df2 = pd.read_csv(PATH2)
+	temp_df = db.get_table('player')
+	print(set(df['mvp']) - set(temp_df['player_name']))
+
+	#print(df['mvp'].unique())
 
 
 if __name__ == '__main__':

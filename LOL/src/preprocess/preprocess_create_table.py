@@ -42,12 +42,7 @@ def preprocess_and_save(data_name=None, table_name=None, save=True):
 		df = df[tableUniqueKey[data_name]]
 
 	elif data_name == 'set_match_player_performance':
-		tempPATH = 'LOL\\datasets\\DerivedData\\DB_table\\set_match_info_by_team\\set_match_info_by_team_details.csv'
-		try:
-			temp_df = pd.read_csv(tempPATH)
-		except:
-			addPATH = 'C:\\Users\\james\Desktop\\metagg_fork'
-			temp_df = pd.read_csv(f'{addPATH}\\{tempPATH}')
+		temp_df = pd.read_csv(f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\LOL\\datasets\\DerivedData\\DB_table\\set_match_info_by_team\\set_match_info_by_team_details.csv')
 		
 		playerDict = db.get_dict('player')['valueToID']
 		temp_df['top_player_id'] = temp_df['top_player'].replace(playerDict)
@@ -71,13 +66,11 @@ def preprocess_and_save(data_name=None, table_name=None, save=True):
 		# drop unknown player
 		df = df[df['player_id'] != 549]
 
-		# change for unique
-		df = df[tableUniqueKey[data_name]]
-
 		# path
 		newPath = f'LOL\\datasets\\DerivedData\\DB_table\\{data_name}\\{data_name}_unique.csv'
 
-		
+		# change for unique
+		df = df[tableUniqueKey[data_name]]
 
 
 	elif data_name == 'bet_type':
@@ -163,13 +156,13 @@ def preprocess_and_save(data_name=None, table_name=None, save=True):
                              ['both_team_inhib', 'yes'], ['both_team_inhib', 'no']]
 			df = pd.DataFrame(data=bet_type_value, columns = ['bet_name', 'yes_no'])
 
-		# change for unique
-		df = df[tableUniqueKey[table_name]]
+		
 
 		# path
 		newPath = f'LOL\\datasets\\DerivedData\\DB_table\\{table_name}\\{table_name}_unique.csv'
 
-		
+		# change for unique
+		df = df[tableUniqueKey[table_name]]
 
 	else:
 		print(f'{table_name} cannot be created. Please check again')
