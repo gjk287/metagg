@@ -134,6 +134,9 @@ def matchhistory_kmil(string):
 	elif 'mil' in string:
 		num = float(string.split('mil')[0]) * 1000
 
+	elif ' ' in string:
+		num = float(string.split(' ')[0]) * 1000
+
 	else:
 		num = None
 	return num
@@ -144,6 +147,14 @@ def matchhistory_int_column(string):
 	except:
 		num = None
 	return num
+
+def matchhistory_result(string):
+	if (string == '   VICTORY   ') or (string == '   VITÓRIA   ') or (string == '') or (string == '   ПОБЕДА   ') or (string == '   GEWONNEN   '):
+		return 'W'
+	elif (string == '   DEFEAT   ') or (string == '   DERROTA   ') or (string == '   ПОРАЖЕНИЕ   ') or (string == '   VERLOREN   '):
+		return 'L'
+	else:
+		return None
 
 set_match_url_column_dict = {
 	'MH': 'match_history_url',

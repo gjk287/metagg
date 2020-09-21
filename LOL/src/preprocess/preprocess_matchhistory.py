@@ -4,7 +4,7 @@ import pandas as pd
 import glob
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from database import DB
-from utils import change_fb_matchhistory, GamepediaDict, tableUniqueKey, time_to_sec, ckpm_feature, matchhistory_kmil, matchhistory_int_column
+from utils import matchhistory_result, change_fb_matchhistory, GamepediaDict, tableUniqueKey, time_to_sec, ckpm_feature, matchhistory_kmil, matchhistory_int_column
 from preprocess import Preprocess
 
 # instantiate database
@@ -75,6 +75,7 @@ class MatchHistory(Preprocess):
 				ref_table['year'] = ref_table['year'].astype(int)
 				ref_table['match_round'] = ref_table['match_round'].astype(str)
 				ref_table['tiebreaker'] = ref_table['tiebreaker'].astype(int)
+				ref_table = ref_table.reset_index(drop=True)
 				self.reference_table = ref_table
 
 				# create top~sup player id, first_blood, total gold, earned gold, minion kills, monster kills=neutral minion
@@ -82,47 +83,49 @@ class MatchHistory(Preprocess):
 				temp_df['year'] = temp_df['year'].astype(int)
 				temp_df['tiebreaker'] = temp_df['week'].apply(lambda x: 1 if x == 'Tiebreakers' else 0)
 				temp_df['match_round'] = temp_df['week'].replace({'Round': 'Elimination Round', 'Stage': 'Knockout Stage'})
+				temp_df['earned_gold'] = temp_df['earned_gold'].apply(matchhistory_kmil)
+				temp_df['minion_kills'] = temp_df['minion_kills'].apply(matchhistory_int_column)
+				temp_df['neutral_minions_kills'] = temp_df['neutral_minions_kills'].apply(matchhistory_int_column)
 				temp_df = change_fb_matchhistory(temp_df)
 
 				#ref_table = ref_table.set_index(['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number'])
 				#temp_df = temp_df.set_index(['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number'])
 				for idx, val in ref_table.copy().iterrows():
-					temp_df = temp_df[temp_df['year']==val['year']]
-					temp_df = temp_df[temp_df['season']==val['season']]
-					temp_df = temp_df[temp_df['league_name']==val['league_name']]
-					temp_df = temp_df[temp_df['team_1']==val['team_1']]
-					temp_df = temp_df[temp_df['team_2']==val['team_2']]
-					temp_df = temp_df[temp_df['team']==val['team']]
-					temp_df = temp_df[temp_df['tiebreaker']==val['tiebreaker']]
-					temp_df = temp_df[temp_df['match_round']==val['match_round']]
-					temp_df = temp_df[temp_df['set_number']==val['set_number']].reset_index(drop=True)
+					temp_df_2 = temp_df[temp_df['year']==val['year']]
+					temp_df_2 = temp_df_2[temp_df_2['season']==val['season']]
+					temp_df_2 = temp_df_2[temp_df_2['league_name']==val['league_name']]
+					temp_df_2 = temp_df_2[temp_df_2['team_1']==val['team_1']]
+					temp_df_2 = temp_df_2[temp_df_2['team_2']==val['team_2']]
+					temp_df_2 = temp_df_2[temp_df_2['team']==val['team']]
+					temp_df_2 = temp_df_2[temp_df_2['tiebreaker']==val['tiebreaker']]
+					temp_df_2 = temp_df_2[temp_df_2['match_round']==val['match_round']]
+					temp_df_2 = temp_df_2[temp_df_2['set_number']==val['set_number']]
+					temp_df_2 = temp_df_2.reset_index(drop=True)
 					
-					if temp_df.shape[0] == 5:
-						top_player = temp_df.loc[0, 'player_name']
-						jg_player = temp_df.loc[1, 'player_name']
-						mid_player = temp_df.loc[2, 'player_name']
-						bot_player = temp_df.loc[3, 'player_name']
-						sup_player = temp_df.loc[4, 'player_name']
-						print(f"Year: {val['year']}, Season: {val['season']}, League: {val['league_name']}, team_1: {val['team_1']}, team_2: {val['team_2']}, match_round: {val['match_round']}, set_number: {val['set_number']}")
-						temp_df.to_csv('tempdd.csv',index=False)
-						break
+					if temp_df_2.shape[0] == 5:
+						top_player = temp_df_2.loc[0, 'player_name']
+						jg_player = temp_df_2.loc[1, 'player_name']
+						mid_player = temp_df_2.loc[2, 'player_name']
+						bot_player = temp_df_2.loc[3, 'player_name']
+						sup_player = temp_df_2.loc[4, 'player_name']
+						
 					else:
 						print('No 5 players')
-						print(f"Year: {val['year']}, Season: {val['season']}, League: {val['league_name']}, team_1: {val['team_1']}, team_2: {val['team_2']}, match_round: {val['match_round']}, set_number: {val['set_number']}")
+						print(f"Year: {val['year']}, Season: {val['season']}, League: {val['league_name']}, team_1: {val['team_1']}, team_2: {val['team_2']}, team: {val['team']}, match_round: {val['match_round']}, set_number: {val['set_number']}")
+						print(temp_df_2.shape)
+						print(temp_df_2[['year', 'season', 'week', 'team_1', 'team_2', 'team', 'player_name']])
+						print()
 						continue
 					
-					temp_df['earned_gold'] = temp_df['earned_gold'].apply(matchhistory_kmil)
-					temp_df['minion_kills'] = temp_df['minion_kills'].apply(matchhistory_int_column)
-					temp_df['neutral_minions_kills'] = temp_df['neutral_minions_kills'].apply(matchhistory_int_column)
 
 					## groupby
-					temp_df_groupby = temp_df.groupby(['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']).sum()
+					temp_df_groupby = temp_df_2.groupby(['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']).sum()
 					fb = temp_df_groupby.loc[tuple(val[['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']]), 'first_blood']
 					earned_gold = temp_df_groupby.loc[tuple(val[['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']]), 'earned_gold']
 					minion_kills = temp_df_groupby.loc[tuple(val[['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']]), 'minion_kills']
 					monster_kills = temp_df_groupby.loc[tuple(val[['year', 'season', 'league_name', 'team_1', 'team_2', 'team', 'tiebreaker', 'match_round', 'set_number']]), 'neutral_minions_kills']
 
-					# input in ref_table
+					# input to ref_table
 					ref_table.loc[idx, 'top_player'] = top_player
 					ref_table.loc[idx, 'jg_player'] = jg_player
 					ref_table.loc[idx, 'mid_player'] = mid_player
@@ -135,9 +138,7 @@ class MatchHistory(Preprocess):
 
 				ref_table[['top_player_id', 'jg_player_id', 'mid_player_id', 'bot_player_id', 'sup_player_id']] = ref_table[['top_player', 'jg_player', 'mid_player', 'bot_player', 'sup_player']].replace(db.get_dict('player')['valueToID'])
 				ref_table = ref_table.where(pd.notnull(ref_table), None)
-					
-
-
+				return ref_table.reset_index()
 
 		
 		elif table_type == 'team':
@@ -198,6 +199,7 @@ class MatchHistory(Preprocess):
 
 			# get set_match_info_by_team table
 			elif table_name == 'set_match_info_by_team':
+				# pass
 				# pk를 가지고 있는 set_match_info_by_team
 				ref_table = db.extend_idToValue(ref_table, 'set_match')
 				ref_table = db.extend_idToValue(ref_table, 'match')
@@ -206,9 +208,77 @@ class MatchHistory(Preprocess):
 				ref_table = db.extend_idToValue(ref_table, 'team', 'team_id', rename={'team_name':'team'})
 				ref_table = db.extend_idToValue(ref_table, 'league', 'league_id')
 				ref_table = ref_table[(ref_table['year']==year) & (ref_table['season']==season) & (ref_table['league_name']==league)]
+				ref_table['year'] = ref_table['year'].astype(int)
+				ref_table['match_round'] = ref_table['match_round'].astype(str)
+				ref_table['tiebreaker'] = ref_table['tiebreaker'].astype(int)
+				ref_table = ref_table.reset_index(drop=True)
 				self.reference_table = ref_table
 
 				# wdl, side, ban1~5,  team_kills, team_deaths, team_kpm, baron, dragon, rift, tower, inhib
+				temp_df['week'] = temp_df['week'].astype(str)
+				temp_df['year'] = temp_df['year'].astype(int)
+				temp_df['tiebreaker'] = temp_df['week'].apply(lambda x: 1 if x == 'Tiebreakers' else 0)
+				temp_df['match_round'] = temp_df['week'].replace({'Round': 'Elimination Round', 'Stage': 'Knockout Stage'})
+				temp_df['wdl'] = temp_df['result'].apply(matchhistory_result)
+				temp_df['game_length'] = temp_df['game_length'].apply(time_to_sec)
+
+				for idx, val in ref_table.copy().iterrows():
+					temp_df_2 = temp_df[temp_df['year']==val['year']]
+					temp_df_2 = temp_df_2[temp_df_2['season']==val['season']]
+					temp_df_2 = temp_df_2[temp_df_2['league_name']==val['league_name']]
+					temp_df_2 = temp_df_2[temp_df_2['team_1']==val['team_1']]
+					temp_df_2 = temp_df_2[temp_df_2['team_2']==val['team_2']]
+					temp_df_2 = temp_df_2[temp_df_2['tiebreaker']==val['tiebreaker']]
+					temp_df_2 = temp_df_2[temp_df_2['match_round']==val['match_round']]
+					temp_df_2 = temp_df_2[temp_df_2['set_number']==val['set_number']]
+
+					temp_df_home = temp_df_2[temp_df_2['team']==val['team']]
+					temp_df_away = temp_df_2[~(temp_df_2['team']==val['team'])]
+					temp_df_home = temp_df_home.reset_index(drop=True)
+					temp_df_away = temp_df_away.reset_index(drop=True)
+
+					if temp_df_home.shape[0] != 1:
+						print(temp_df_home[['year', 'season', 'league_name', 'team_1', 'team_2', 'match_round', 'set_number']])
+						continue
+
+					wdl = temp_df_home.loc[0, 'wdl']
+					side = temp_df_home.loc[0, 'side']
+					team_kills = temp_df_home.loc[0, 'total_kills']
+					team_deaths = temp_df_away.loc[0, 'total_kills']
+					gamelength = temp_df_home.loc[0, 'game_length']
+					team_kpm = team_kills / gamelength * 60
+					team_baron_kills = temp_df_home.loc[0, 'baron_kills']
+					team_dragon_kills = temp_df_home.loc[0, 'dragon_kills']
+					team_rift_kills = temp_df_home.loc[0, 'rift_kills']
+					team_tower_kills = temp_df_home.loc[0, 'tower_kills']
+					team_inhib_kills = temp_df_home.loc[0, 'inhibitor_kills']
+
+
+					# input to ref_table
+					ref_table.loc[idx, 'ban1'] = temp_df_home.loc[0, 'ban1']
+					ref_table.loc[idx, 'ban2'] = temp_df_home.loc[0, 'ban2']
+					ref_table.loc[idx, 'ban3'] = temp_df_home.loc[0, 'ban3']
+					ref_table.loc[idx, 'ban4'] = temp_df_home.loc[0, 'ban4']
+					ref_table.loc[idx, 'ban5'] = temp_df_home.loc[0, 'ban5']
+					ref_table.loc[idx, 'wdl'] = wdl
+					ref_table.loc[idx, 'side'] = side
+					ref_table.loc[idx, 'team_kills'] = team_kills
+					ref_table.loc[idx, 'team_deaths'] = team_deaths
+					ref_table.loc[idx, 'team_kpm'] = team_kpm
+					ref_table.loc[idx, 'team_baron_kills'] = team_baron_kills
+					ref_table.loc[idx, 'team_dragon_kills'] = team_dragon_kills
+					ref_table.loc[idx, 'team_rift_kills'] = team_rift_kills
+					ref_table.loc[idx, 'team_tower_kills'] = team_tower_kills
+					ref_table.loc[idx, 'team_inhib_kills'] = team_inhib_kills
+					ref_table.to_csv('ref_table.csv', index=False)
+					
+
+				ref_table[['ban1_id', 'ban2_id', 'ban3_id', 'ban4_id', 'ban5_id']] = ref_table[['ban1', 'ban2', 'ban3', 'ban4', 'ban5']].replace(db.get_dict('champion')['valueToID'])
+				ref_table = ref_table.where(pd.notnull(ref_table), None)
+				return ref_table.reset_index()
+					
+
+				
 
 
 

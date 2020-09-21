@@ -13,13 +13,16 @@ db.initialise()
 
 
 def main():
-	preprocess_and_save('player', 'player')
+	preprocess_and_save('set_match_info_by_team', 'team')
 	
 
 
 def preprocess_and_save(table_name=None, table_type='player', save=True):
 	df = pd.DataFrame()
 	for file in glob.glob(f'LOL\\datasets\\RawData\\MatchHistory\\{table_type}\\*csv'):
+		# if all(s not in file for s in ['BL', 'BRCC', 'CBLOL', 'Challengers Korea', 'CIS_CL', 'DL', 'ECS', 'EM', 'LCK', 'LCL']):
+		# if 'BL' in file:
+		print(file)
 		temp_df = pd.read_csv(file)
 		temp_df = temp_df[temp_df['state']=='OK']
 		
@@ -57,8 +60,9 @@ def preprocess_and_save(table_name=None, table_type='player', save=True):
 			df_unique.to_csv(newPath, index=False)
 			df_all.to_csv(newPathAll, index=False)
 		except:
-			newPath = f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\{newPath}'
-			newPathAll = f'C:\\Users\\jjames\\iCloudDrive\\Desktop\\Cloud_Data\\Personal_Projects\\meta.gg\\{newPathAll}'
+			localPath = 'C:\\Users\\james\\Desktop\\metagg_fork'
+			newPath = f'{localPath}\\{newPath}'
+			newPathAll = f'{localPath}\\{newPathAll}'
 			df_unique.to_csv(newPath, index=False)
 			df_all.to_csv(newPathAll, index=False)
 	else:

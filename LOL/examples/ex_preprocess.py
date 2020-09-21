@@ -157,16 +157,15 @@ def preprocess_and_input(table_name=None, data_name=None):
 		pas_matchschedule(table_name)
 
 	elif table_name == 'match':
-		pas_matchschedule(table_name)
 		if data_name == 'oracle_elixir':
 			pas_oracleelixir(table_name)
 			return
+		pas_matchschedule(table_name)
 
 	elif table_name == 'match_info_by_team':
 		pas_matchschedule(table_name)
 
 	elif table_name == 'set_match':
-		pas_matchschedule(table_name)
 		if data_name == 'oracle_elixir':
 			pas_oracleelixir(table_name)
 			return
@@ -176,15 +175,17 @@ def preprocess_and_input(table_name=None, data_name=None):
 		elif data_name == 'match_history':
 			pas_matchhistory(table_name, 'team')
 			return
+		pas_matchschedule(table_name)
 
 	elif table_name == 'set_match_info_by_team':
-		pas_matchschedule(table_name)
 		if data_name == 'oracle_elixir':
 			pas_oracleelixir(table_name)
 			return
 		elif data_name == 'match_history':
-			pas_matchhistory(table_name, 'player')
+			# pas_matchhistory(table_name, 'player')
+			pas_matchhistory(table_name, 'team')
 			return
+		pas_matchschedule(table_name)
 
 	elif table_name == 'player':
 		if data_name == 'oracle_elixir':
@@ -202,10 +203,10 @@ def preprocess_and_input(table_name=None, data_name=None):
 			pas_matchhistory(table_name, 'team')
 
 	elif table_name == 'set_match_player_performance':
-		pas_create_table(table_name)
 		if data_name == 'oracle_elixir':
 			pas_oracleelixir(table_name)
 			return
+		pas_create_table(table_name)
 
 	elif table_name == 'set_match_url':
 		pas_gamepedia(table_name)
