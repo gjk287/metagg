@@ -33,7 +33,7 @@ def preprocess_and_save(table_name=None, table_type='player', save=True):
 		mh = MatchHistory(temp_df)
 		if table_name in ['player', 'champion']:
 			temp_df = mh.pp(table_name, table_type)
-		elif table_name in ['set_match', 'set_match_info_by_team']:
+		elif table_name in ['set_match', 'set_match_info_by_team', 'set_match_player_performance']:
 			ref_table = pd.read_csv(f'LOL\\datasets\\DerivedData\\DB_table\\{table_name}\\{table_name}_pk.csv')
 			temp_df = mh.pp(table_name, table_type, ref_table)
 

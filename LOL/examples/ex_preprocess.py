@@ -124,8 +124,12 @@ def main():
 	# preprocess_and_input(table_name, 'match_history')
 	# input_to_csv(table_name)
 
-	# get set_match_info_by_team table from match history data
-	table_name = 'set_match_info_by_team'
+	# # get set_match_info_by_team table from match history data
+	# table_name = 'set_match_info_by_team'
+	# preprocess_and_input(table_name, 'match_history')
+
+	# get set_match_player_performance table from match history data
+	table_name = 'set_match_player_performance'
 	preprocess_and_input(table_name, 'match_history')
 
 
@@ -205,6 +209,9 @@ def preprocess_and_input(table_name=None, data_name=None):
 	elif table_name == 'set_match_player_performance':
 		if data_name == 'oracle_elixir':
 			pas_oracleelixir(table_name)
+			return
+		elif data_name == 'match_history':
+			pas_matchhistory(table_name, 'player')
 			return
 		pas_create_table(table_name)
 

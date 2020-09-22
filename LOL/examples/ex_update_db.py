@@ -11,19 +11,21 @@ db = DB()
 db.initialise()
 
 def main():
-	update_table('set_match')
+	update_table('set_match_player_performance')
 
 def update_table(table_name='all'):
 	PATH = f'LOL\\datasets\\DerivedData\\DB_table\\{table_name}\\*csv'
 	table_columns = db.get_table_columns(table_name)
-	updatable_cols_set = set(table_columns) - set(tableUniqueKey[table_name]) - set([tablePK_dict[table_name]])
 	pk_col = [tablePK_dict[table_name]]
 	unique_cols = tableUniqueKey[table_name]
+	updatable_cols_set = set(table_columns) - set(unique_cols) - set(pk_col)
+	
 
 	for file in glob.glob(PATH):
 		if ('_pk' not in file) and ('_unique' not in file):
 			temp_df = pd.read_csv(file)
 			col_to_update = list(updatable_cols_set.intersection(temp_df.columns))
+			temp_df = temp_df.dropna(subset=col_to_update)
 			# if nothing to update continue
 			if not col_to_update:
 				print(f'{file} skipped\n')
@@ -33,7 +35,7 @@ def update_table(table_name='all'):
 			if set(pk_col) <= set(temp_df.columns):
 				db.update_table(temp_df, table_name, col_to_update)
 
-			# else use unique colu mns
+			# else use unique columns
 			elif set(unique_cols) <= set(temp_df.columns):
 				temp_df = db.extend_valueToID(temp_df, table_name)
 				db.update_table(temp_df, table_name, col_to_update)
