@@ -14,17 +14,17 @@ class xyFeature(object):
     def prepare_XY(self):
         self.df[self.y_col] = self.df[self.y_col].astype('category')
         y = np.stack([self.df[col].cat.codes.values for col in self.y_col], 1)
-        y = torch.tensor(y, dtype=torch.long).flatten().cuda()
+        y = torch.tensor(y, dtype=torch.long).flatten()
 
         for cat in self.cat_cols:
             self.df[cat] = self.df[cat].astype('category')
 
         cats = np.stack([self.df[col].cat.codes.values for col in self.cat_cols], 1)
-        cats = torch.tensor(cats, dtype=torch.int64).cuda()
+        cats = torch.tensor(cats, dtype=torch.int64)
         
 
         conts = np.stack([self.df[col].values for col in self.cont_cols], 1)
-        conts = torch.tensor(conts, dtype=torch.float).cuda()
+        conts = torch.tensor(conts, dtype=torch.float)
 
         return cats, conts, y
 
