@@ -156,6 +156,20 @@ def preprocess_and_save(data_name=None, table_name=None, save=True):
                              ['both_team_inhib', 'yes'], ['both_team_inhib', 'no']]
 			df = pd.DataFrame(data=bet_type_value, columns = ['bet_name', 'yes_no'])
 
+		elif table_name == 'bet_type_correct_number':
+			bet_type_value = [['total_dragon', 2], ['total_dragon', 3],
+							['total_dragon', 4], ['total_dragon', 5],
+							['total_dragon', 6], ['total_dragon', 7],
+							['total_baron', 0], ['total_baron', 1], 
+							['total_baron', 2], ['total_baron', 3], 
+							['total_baron', 4], ['total_tower', 7], 
+							['total_tower', 8], ['total_tower', 9], 
+							['total_tower', 10], ['total_tower', 11], 
+							['total_tower', 12], ['total_tower', 13], 
+							['total_tower', 14], ['total_tower', 15], 
+							['total_tower', 16], ['total_tower', 17], 
+							['total_tower', 18], ['total_tower', 19]]
+
 		
 
 		# path
