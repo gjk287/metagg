@@ -138,6 +138,7 @@ class Unikrn(Crawler):
 		# iterate through href dataframe
 		for idx, val in self.href_df.iterrows():
 			bet12_class_name = 'style__Selections-dbdcsb-13.bhqKtR'
+			# style__Selections-dbdcsb-13.gHrwBJ
 			# if url exists
 			if val['event_url_href']:
 				self.driver.get(val['event_url_href'])
@@ -174,6 +175,7 @@ class Unikrn(Crawler):
 						# continue if the bet is closed
 						try:
 							bet_name = each_bet.find_element_by_class_name('style__MarketName-dbdcsb-10.furSgz').text.split('\n')[-1]
+							#print(bet_name)
 						except:
 							continue
 						map_list = ['Map 1', 'Map 2', 'Map 3']
@@ -220,6 +222,19 @@ class Unikrn(Crawler):
 											special_betting_df.loc[count+map_set[Map]-1, 'set_number'] = set_number
 											special_betting_df.loc[count+map_set[Map]-1, f'{bet_type}:{" ".join(new_bet_name.split(" ")[1:])}:yes'] = odd_1
 											special_betting_df.loc[count+map_set[Map]-1, f'{bet_type}:{" ".join(new_bet_name.split(" ")[1:])}:no'] = odd_2
+									
+									elif ('Total Dragons Slain' in new_bet_name) | ('Total Barons Slain' in new_bet_name) | ('Total Towers Destroyed' in new_bet_name):
+										bet_type = 'correct_number'
+										bet_correct_number_list = each_bet.find_element_by_class_name('style__Selections-dbdcsb-13.gHrwBJ').find_elements_by_class_name('style__Selection-dbdcsb-2.jZQOSr.selection.cell')
+										for bet_correct_number in bet_correct_number_list:
+											try:
+												cor_num = bet_correct_number.find_element_by_class_name('style__NameLabel-dbdcsb-5.eGiTYE').text
+												odd_cor_num = float(bet_correct_number.find_element_by_class_name('style__Container-sc-1n7fjt2-0.kXBGmk.odds.style__Odds-dbdcsb-3.dtNRso').text)
+											except:
+												continue
+											special_betting_df.loc[count+map_set[Map]-1, 'set_number'] = set_number
+											special_betting_df.loc[count+map_set[Map]-1, f'{bet_type}:{new_bet_name}:{cor_num}'] = odd_cor_num
+									
 									else:
 										bet_type = 'special'
 										bet_12 = each_bet.find_element_by_class_name(bet12_class_name).text.split('\n')
