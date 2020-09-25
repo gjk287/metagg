@@ -10,12 +10,12 @@ from crawler import Crawler
 
 
 class QWER(Crawler):
-    def __init__(self, league, year, season, url, wait_on_page_load=5):
-        super().__init__(url, wait_on_page_load)
-        self.league = league
-        self.season = season
+	def __init__(self, league, year, season, url, wait_on_page_load=5):
+		super().__init__(url, wait_on_page_load)
+		self.league = league
+		self.season = season
 		self.year = year
 		self.df = None
 
-    def get_href_for_each_game(self):
-        pass
+	def get_href_for_each_game(self):
+		pass

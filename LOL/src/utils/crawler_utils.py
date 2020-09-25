@@ -30,3 +30,27 @@ mh_column_dict = {
 	28: "neutral_minions_kills_team_jungle",
 	29: 'neutral_minions_kills_enemy_jungle'
 }
+
+
+# correct_number_dict = {
+# 	**dict.fromkeys(["Zero"], 0),
+# 	**dict.fromkeys(["One"], 1),
+# 	**dict.fromkeys(["Two"], 2),
+# 	**dict.fromkeys(["Three"], 3),
+# 	**dict.fromkeys(["Four"], 4),
+# 	**dict.fromkeys(["Five"], 5),
+# 	**dict.fromkeys(["Six"], 6),
+# 	**dict.fromkeys(["Seven"], 7),
+# 	**dict.fromkeys(["Eight"], 8),
+# 	**dict.fromkeys(["Nine"], 9),
+# 	**dict.fromkeys(["Ten"], 10),
+# 	**dict.fromkeys(["Eleven"], 11),
+# 	**dict.fromkeys(["Twelve"], 12),
+# 	**dict.fromkeys(["Thirteen"], 13),
+# 	**dict.fromkeys(["Fourteen"], 14),
+# 	**dict.fromkeys(["Fifteen"], 15),
+# 	**dict.fromkeys(["Sixteen"], 16),
+# 	**dict.fromkeys(["Seventeen"], 17),
+# 	**dict.fromkeys(["Eighteen"], 18),
+# 	**dict.fromkeys(["One"], 19)
+# }

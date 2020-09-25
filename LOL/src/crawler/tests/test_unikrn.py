@@ -18,7 +18,13 @@ def main():
 			count += 1
 		
 		if count == 7:
-			result = 'Failed'
+			result = crawl_and_save(unikrn)
+
+def main2():
+	url = 'https://unikrn.com/bet/games/league-of-legends'
+	# instantiate
+	unikrn = Unikrn(url)
+	crawl_and_save(unikrn)
 
 def crawl_and_save(unikrn):
 	# get selenium driver and go to the link
@@ -50,3 +56,4 @@ def crawl_and_save(unikrn):
 
 if __name__ == "__main__":
 	main()
+	#main()

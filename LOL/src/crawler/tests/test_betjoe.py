@@ -19,7 +19,7 @@ def main():
 			count += 1
 		
 		if count == 7:
-			result = 'Failed'
+			result = crawl_and_save(betjoe)
 
 def crawl_and_save(betjoe):
 	# get selenium driver and go to the link
