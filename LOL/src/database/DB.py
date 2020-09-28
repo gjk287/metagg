@@ -123,7 +123,7 @@ class DB(object):
 		return
 
 
-	def get_table(self, table_name):
+	def get_table(self, table_name, columns):
 		if table_name == 'match_schedule':
 			df = pd.read_csv('League_of_Legends\\datasets\\DerivedData\\None_DB_table\\game_schedule.csv')
 			
@@ -133,7 +133,10 @@ class DB(object):
 
 		else:
 			with CurFromConnPool() as cur:
-				cur.execute('SELECT * FROM {}'.format(table_name))
+				if columns:
+					cur.execute(f'SELECT {", ".join(columns)} FROM {table_name}')
+				else:
+					cur.execute(f'SELECT * FROM {table_name}')	
 				column_names = [desc[0] for desc in cur.description]
 				table = pd.DataFrame(cur.fetchall(), columns=column_names)
 				if 'date' in column_names:
