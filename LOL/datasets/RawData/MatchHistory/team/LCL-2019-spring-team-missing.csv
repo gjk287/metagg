@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,LCL,1,Elements Pro Gaming,Gambit,1.0,28:35,OK,blue,EPG,   VICTORY   ,52.6k,9,  8 ,  1 ,  1 ,  2 ,  1 ,Cassiopeia,Olaf,Ezreal,Gragas,Kayn
+2019.0,spring,LCL,1,Elements Pro Gaming,Gambit,1.0,28:35,OK,red,GMB,   DEFEAT   ,41.3k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Thresh,Ryze,Jayce,Irelia,Yorick
+2019.0,spring,LCL,3,Elements Pro Gaming,Team Just,1.0,24:29,OK,blue,EPG,   VICTORY   ,51.2k,16,  10 ,  2 ,  1 ,  1 ,  1 ,Zoe,Leblanc,Olaf,Cassiopeia,Sivir
+2019.0,spring,LCL,3,Elements Pro Gaming,Team Just,1.0,24:29,OK,red,TJ,   DEFEAT   ,33.2k,1,  0 ,  0 ,  0 ,  1 ,  0 ,Morgana,RekSai,Ryze,TahmKench,Fiddlesticks

@@ -1,0 +1,3 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,spring,LCS_a,4,Echo Fox Academy,TL Academy,1.0,34:29,OK,blue,FOXA,   DEFEAT   ,59.5k,9,  5 ,  0 ,  0 ,  1 ,  1 ,Gangplank,Tristana,Taric,Rakan,JarvanIV
+2018.0,spring,LCS_a,4,Echo Fox Academy,TL Academy,1.0,34:29,OK,red,TLA,   VICTORY   ,66.7k,13,  11 ,  4 ,  2 ,  3 ,  0 ,Zoe,KogMaw,Urgot,Yorick,

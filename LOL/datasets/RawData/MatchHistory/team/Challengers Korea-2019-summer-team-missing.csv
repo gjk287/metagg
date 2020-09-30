@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,Challengers Korea,2,Awesome Spear,bbq,2.0,40:50,OK,blue,bbq,   DEFEAT   ,66.4k,7,  1 ,  0 ,  0 ,  2 ,  0 ,Olaf,Yuumi,Ryze,Nautilus,Thresh
+2019.0,summer,Challengers Korea,2,Awesome Spear,bbq,2.0,40:50,OK,red,SPG,   VICTORY   ,81.0k,14,  11 ,  4 ,  2 ,  4 ,  1 ,Sejuani,Kalista,Aatrox,Lucian,Elise
+2019.0,summer,Challengers Korea,6,Asura,VSG,1.0,22:39,OK,blue,ASR,   DEFEAT   ,33.3k,1,  1 ,  0 ,  0 ,  1 ,  0 ,Azir,Sivir,Olaf,Lucian,Ezreal
+2019.0,summer,Challengers Korea,6,Asura,VSG,1.0,22:39,OK,red,VSG,   VICTORY   ,45.1k,13,  9 ,  1 ,  0 ,  2 ,  1 ,Akali,Karma,Sejuani,Camille,Neeko

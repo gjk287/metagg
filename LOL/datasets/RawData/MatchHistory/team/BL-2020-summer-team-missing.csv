@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,BL,3,Aethra,RSCA,1.0,37:13,OK,blue,AND,   DEFEAT   ,55.5k,9,  3 ,  0 ,  0 ,  1 ,  2 ,Bard,Syndra,Aatrox,Pyke,Sett
+2020.0,summer,BL,3,Aethra,RSCA,1.0,37:13,OK,red,ATR,   VICTORY   ,72.1k,28,  9 ,  2 ,  1 ,  5 ,  0 ,Varus,Aphelios,Urgot,Lissandra,Malzahar
+2020.0,summer,BL,7,Team 7AM,KV Mechelen,1.0,27:29,OK,blue,KVM,   VICTORY   ,52.3k,22,  7 ,  1 ,  1 ,  4 ,  1 ,Zoe,JarvanIV,Pantheon,Azir,Orianna
+2020.0,summer,BL,7,Team 7AM,KV Mechelen,1.0,27:29,OK,red,7AM,   DEFEAT   ,41.3k,7,  1 ,  0 ,  0 ,  0 ,  1 ,Graves,Karma,Ashe,Darius,Aatrox

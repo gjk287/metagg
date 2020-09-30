@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,LJL,2,Unsold Stuff Gaming,Detonation FocusMe,1.0,35:10,OK,blue,USG,   DEFEAT   ,56.0k,13,  2 ,  0 ,  0 ,  2 ,  1 ,Lux,Karma,Aatrox,Leblanc,Syndra
+2019.0,summer,LJL,2,Unsold Stuff Gaming,Detonation FocusMe,1.0,35:10,OK,red,DFM,   VICTORY   ,62.3k,15,  11 ,  3 ,  1 ,  3 ,  0 ,Pyke,Akali,Mordekaiser,Gragas,Irelia
+2019.0,summer,LJL,3,Sengoku Gaming,Unsold Stuff Gaming,1.0,33:02,OK,blue,USG,   VICTORY   ,61.8k,9,  11 ,  2 ,  1 ,  4 ,  0 ,Xayah,Neeko,Yuumi,Leblanc,Ryze
+2019.0,summer,LJL,3,Sengoku Gaming,Unsold Stuff Gaming,1.0,33:02,OK,red,SG,   DEFEAT   ,50.0k,0,  2 ,  0 ,  0 ,  0 ,  1 ,Irelia,Karma,TahmKench,JarvanIV,Azir

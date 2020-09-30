@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,VCS,1,Cerberus Esports,FTV Esports,1.0,31:23,OK,blue,CES,   VICTORY   ,62.7k,21,  10 ,  2 ,  0 ,  2 ,  1 ,Gragas,Ryze,Urgot,LeeSin,Zoe
+2019.0,spring,VCS,1,Cerberus Esports,FTV Esports,1.0,31:23,OK,red,FTV,   DEFEAT   ,51.5k,12,  4 ,  0 ,  1 ,  2 ,  0 ,Alistar,Camille,Thresh,Sejuani,Irelia
+2019.0,spring,VCS,5,EVOS Esports,Friends Forever Gaming,1.0,27:08,OK,blue,EVS,   VICTORY   ,55.3k,14,  11 ,  3 ,  1 ,  2 ,  0 ,Gragas,Zoe,Yasuo,Yorick,Syndra
+2019.0,spring,VCS,5,EVOS Esports,Friends Forever Gaming,1.0,27:08,OK,red,FFQ,   DEFEAT   ,46.3k,10,  3 ,  0 ,  0 ,  1 ,  1 ,Aatrox,Jayce,Ryze,Karthus,Cassiopeia

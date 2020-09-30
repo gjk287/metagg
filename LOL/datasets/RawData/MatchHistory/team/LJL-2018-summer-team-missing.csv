@@ -1,0 +1,3 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2018.0,summer,LJL,2,PENTAGRAM,V3 Esports,1.0,28:31,OK,blue,V3,   VICTORY   ,53.7k,16,  8 ,  1 ,  2 ,  0 ,  1 ,Camille,Zoe,Fiddlesticks,Pyke,
+2018.0,summer,LJL,2,PENTAGRAM,V3 Esports,1.0,28:31,OK,red,PGM,   DEFEAT   ,49.6k,11,  6 ,  0 ,  0 ,  3 ,  0 ,Taliyah,Swain,Nocturne,Ornn,Shen

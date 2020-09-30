@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,Challengers Korea,2,VSG,hyFresh Blade,1.0,38:28,OK,blue,VSG,   DEFEAT   ,69.0k,4,  2 ,  0 ,  1 ,  3 ,  1 ,Cassiopeia,Akali,Ryze,Leblanc,Zoe
+2019.0,spring,Challengers Korea,2,VSG,hyFresh Blade,1.0,38:28,OK,red,BRB,   VICTORY   ,71.8k,6,  7 ,  1 ,  0 ,  2 ,  0 ,Lucian,Aatrox,Thresh,Olaf,XinZhao
+2019.0,spring,Challengers Korea,8,Asura,SeolHaeOne Prince,1.0,40:07,OK,blue,ASR,   DEFEAT   ,67.5k,12,  2 ,  0 ,  1 ,  2 ,  0 ,LeeSin,Ryze,Jayce,Zoe,Zed
+2019.0,spring,Challengers Korea,8,Asura,SeolHaeOne Prince,1.0,40:07,OK,red,APK,   VICTORY   ,72.8k,15,  8 ,  1 ,  1 ,  3 ,  1 ,Leblanc,Lissandra,Olaf,Yorick,Irelia

@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,Challengers Korea,3,ESC Shane,Jin Air,2.0,21:42,OK,blue,JAG,   VICTORY   ,46.7k,23,  7 ,  1 ,  0 ,  2 ,  2 ,Trundle,Sett,JarvanIV,TwistedFate,Nidalee
+2020.0,summer,Challengers Korea,3,ESC Shane,Jin Air,2.0,21:42,OK,red,ESC,   DEFEAT   ,31.9k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Varus,Syndra,Aphelios,Ezreal,Thresh
+2020.0,summer,Challengers Korea,7,Jin Air,Griffin,3.0,23:06,OK,blue,JAG,   VICTORY   ,48.0k,15,  9 ,  1 ,  1 ,  2 ,  2 ,Ashe,TwistedFate,Bard,Braum,Volibear
+2020.0,summer,Challengers Korea,7,Jin Air,Griffin,3.0,23:06,OK,red,GRF,   DEFEAT   ,36.2k,5,  1 ,  0 ,  0 ,  1 ,  0 ,Karma,Zoe,Syndra,Thresh,Leona

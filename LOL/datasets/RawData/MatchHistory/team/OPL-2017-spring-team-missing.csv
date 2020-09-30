@@ -1,0 +1,7 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2017.0,spring,OPL,3,Sin Gaming,Legacy Esports,1.0,28:40,OK,blue,SIN,   VICTORY   ,57.5k,24,  11 ,  5 ,  1 ,  2 ,  0 ,Zyra,Malzahar,Leblanc,Kennen,Fiora
+2017.0,spring,OPL,3,Sin Gaming,Legacy Esports,1.0,28:40,OK,red,LGC,   DEFEAT   ,49.4k,13,  3 ,  0 ,  0 ,  1 ,  0 ,Camille,Rengar,MissFortune,Thresh,Ryze
+2017.0,spring,OPL,6,Team Exile5,Sin Gaming,2.0,24:14,OK,blue,SIN,   VICTORY   ,52.6k,24,  11 ,  2 ,  0 ,  1 ,  0 ,Rengar,Graves,Varus,Nami,Karma
+2017.0,spring,OPL,6,Team Exile5,Sin Gaming,2.0,24:14,OK,red,X5,   DEFEAT   ,37.6k,12,  1 ,  0 ,  0 ,  2 ,  0 ,Leblanc,Jayce,Ivern,Syndra,Cassiopeia
+2017.0,spring,OPL,9,Tainted Minds,Team Exile5,1.0,37:54,OK,blue,TM,   DEFEAT   ,64.2k,5,  8 ,  0 ,  0 ,  0 ,  0 ,Leblanc,Lulu,Rengar,Rumble,Camille
+2017.0,spring,OPL,9,Tainted Minds,Team Exile5,1.0,37:54,OK,red,X5,   VICTORY   ,73.1k,22,  11 ,  4 ,  3 ,  4 ,  0 ,Graves,Zyra,Talon,Ekko,Syndra

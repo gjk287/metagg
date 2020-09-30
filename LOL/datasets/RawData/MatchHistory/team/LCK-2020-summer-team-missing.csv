@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,LCK,5,SeolHaeOne Prince,Hanwha,2.0,29:17,OK,blue,HLE,   VICTORY   ,56.5k,16,  8 ,  1 ,  1 ,  4 ,  2 ,Karma,Illaoi,Varus,Bard,Renekton
+2020.0,summer,LCK,5,SeolHaeOne Prince,Hanwha,2.0,29:17,OK,red,SP,   DEFEAT   ,45.8k,3,  1 ,  0 ,  0 ,  1 ,  0 ,Sett,Volibear,TwistedFate,Nautilus,Thresh
+2020.0,summer,LCK,8,KT,GenG,3.0,26:16,OK,blue,GEN,   VICTORY   ,54.4k,17,  10 ,  2 ,  1 ,  4 ,  2 ,TwistedFate,Bard,Sett,MonkeyKing,Mordekaiser
+2020.0,summer,LCK,8,KT,GenG,3.0,26:16,OK,red,KT,   DEFEAT   ,42.2k,6,  1 ,  0 ,  0 ,  0 ,  0 ,Volibear,Ashe,Kalista,Renekton,Pantheon

@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2017.0,spring,LJL,5,Rascal Jester,Detonation FocusMe,1.0,35:06,OK,blue,RJ,   DEFEAT   ,52.1k,4,  2 ,  0 ,  0 ,  0 ,  0 ,Thresh,Zyra,Jayce,Ryze,Taliyah
+2017.0,spring,LJL,5,Rascal Jester,Detonation FocusMe,1.0,35:06,OK,red,DFM,   VICTORY   ,65.8k,13,  10 ,  2 ,  1 ,  4 ,  0 ,Leblanc,Camille,Rengar,Cassiopeia,Orianna
+2017.0,spring,LJL,7,7th heaven,SCARZ,2.0,34:52,OK,blue,SZ,   DEFEAT   ,51.7k,7,  2 ,  0 ,  0 ,  0 ,  0 ,Syndra,Malzahar,Varus,Jhin,Ezreal
+2017.0,spring,LJL,7,7th heaven,SCARZ,2.0,34:52,OK,red,7h,   VICTORY   ,69.7k,24,  8 ,  1 ,  1 ,  4 ,  1 ,Ryze,Leblanc,Jayce,Zed,Corki

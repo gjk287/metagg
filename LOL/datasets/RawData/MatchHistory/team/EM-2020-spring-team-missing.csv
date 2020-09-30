@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,EM,1,Intrepid Fox Gaming,Electronik,1.0,35:47,OK,blue,IF,   VICTORY   ,65.6k,19,  8 ,  1 ,  1 ,  5 ,  2 ,Leblanc,MissFortune,Senna,Viktor,Syndra
+2020.0,spring,EM,1,Intrepid Fox Gaming,Electronik,1.0,35:47,OK,red,EGN,   DEFEAT   ,55.6k,12,  2 ,  0 ,  0 ,  1 ,  0 ,Cassiopeia,Irelia,Sett,Kalista,Ziggs
+2020.0,spring,EM,Stage,Defusekids,Sector One,2.0,35:28,OK,blue,DK,   DEFEAT   ,56.6k,8,  3 ,  0 ,  0 ,  1 ,  1 ,JarvanIV,Syndra,Blitzcrank,Ryze,Zoe
+2020.0,spring,EM,Stage,Defusekids,Sector One,2.0,35:28,OK,red,S1,   VICTORY   ,66.0k,15,  10 ,  2 ,  2 ,  5 ,  1 ,Yasuo,Nautilus,Azir,Aatrox,Gangplank

@@ -1,0 +1,3 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,TCL,5,Team Aurora,Papara SuperMassive,1.0,32:38,OK,blue,AUR,   VICTORY   ,61.6k,11,  8 ,  1 ,  1 ,  5 ,  1 ,Mordekaiser,Sivir,Taliyah,Gangplank,Vladimir
+2019.0,summer,TCL,5,Team Aurora,Papara SuperMassive,1.0,32:38,OK,red,SUP,   DEFEAT   ,53.6k,7,  3 ,  0 ,  0 ,  0 ,  0 ,Irelia,Aatrox,Karma,Akali,Azir

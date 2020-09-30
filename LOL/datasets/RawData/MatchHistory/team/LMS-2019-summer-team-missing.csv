@@ -1,0 +1,3 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,summer,LMS,4,MAD Team,G Rex,2.0,36:39,OK,blue,GRX,   DEFEAT   ,61.7k,17,  2 ,  0 ,  0 ,  1 ,  0 ,Olaf,Ezreal,Zoe,Corki,Syndra
+2019.0,summer,LMS,4,MAD Team,G Rex,2.0,36:39,OK,red,MAD,   VICTORY   ,69.5k,17,  5 ,  0 ,  1 ,  2 ,  1 ,TahmKench,Azir,Karma,JarvanIV,Gragas

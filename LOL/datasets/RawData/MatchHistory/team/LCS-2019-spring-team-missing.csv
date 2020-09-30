@@ -1,0 +1,7 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,LCS,5,Clutch Gaming,Golden Guardians,1.0,35:01,OK,blue,GGS,   DEFEAT   ,57.3k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Galio,Kalista,Thresh,Olaf,Jayce
+2019.0,spring,LCS,5,Clutch Gaming,Golden Guardians,1.0,35:01,OK,red,CG,   VICTORY   ,68.4k,16,  11 ,  3 ,  2 ,  3 ,  0 ,Lucian,Urgot,Draven,Sylas,Malphite
+2019.0,spring,LCS,5,Cloud9,CLG,1.0,27:28,OK,blue,C9,   VICTORY   ,53.2k,13,  11 ,  2 ,  1 ,  4 ,  1 ,TahmKench,Sion,Ezreal,Zoe,Viktor
+2019.0,spring,LCS,5,Cloud9,CLG,1.0,27:28,OK,red,CLG,   DEFEAT   ,42.7k,4,  1 ,  0 ,  0 ,  0 ,  0 ,Nocturne,Cassiopeia,Lucian,Leblanc,Olaf
+2019.0,spring,LCS,6,TL,CLG,1.0,38:10,OK,blue,TL,   VICTORY   ,72.0k,11,  11 ,  3 ,  1 ,  4 ,  1 ,Yorick,Thresh,Sejuani,Olaf,Zoe
+2019.0,spring,LCS,6,TL,CLG,1.0,38:10,OK,red,CLG,   DEFEAT   ,62.5k,7,  2 ,  0 ,  0 ,  1 ,  0 ,Lucian,Sylas,Galio,Leblanc,Gragas

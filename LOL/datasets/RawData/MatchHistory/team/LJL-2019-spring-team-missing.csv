@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,LJL,6,Rascal Jester,Burning Core,1.0,29:05,OK,blue,RJ,   DEFEAT   ,45.4k,8,  1 ,  0 ,  0 ,  0 ,  1 ,Yorick,Lucian,Lissandra,Sivir,Kalista
+2019.0,spring,LJL,6,Rascal Jester,Burning Core,1.0,29:05,OK,red,BC,   VICTORY   ,60.8k,23,  11 ,  3 ,  1 ,  4 ,  0 ,Olaf,Yasuo,Sylas,Braum,Sion
+2019.0,spring,LJL,8,V3 Esports,Unsold Stuff Gaming,1.0,33:57,OK,blue,V3,   VICTORY   ,59.8k,16,  7 ,  1 ,  0 ,  3 ,  1 ,Ryze,Zoe,Vladimir,Sivir,Swain
+2019.0,spring,LJL,8,V3 Esports,Unsold Stuff Gaming,1.0,33:57,OK,red,USG,   DEFEAT   ,56.8k,10,  5 ,  1 ,  1 ,  0 ,  0 ,Kalista,Lucian,Riven,TahmKench,Thresh

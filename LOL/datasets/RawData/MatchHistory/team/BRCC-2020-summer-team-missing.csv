@@ -1,0 +1,3 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,BRCC,6,Havan Liberty Gaming,Rensga eSports,1.0,29:48,OK,blue,HL,   DEFEAT   ,44.1k,4,  2 ,  0 ,  0 ,  0 ,  2 ,Ezreal,Bard,Trundle,Nautilus,Leona
+2020.0,summer,BRCC,6,Havan Liberty Gaming,Rensga eSports,1.0,29:48,OK,red,RNS,   VICTORY   ,55.4k,18,  9 ,  2 ,  1 ,  4 ,  0 ,Varus,Syndra,Volibear,Leblanc,Orianna

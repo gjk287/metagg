@@ -1,0 +1,3 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,PCS,5,Resurgence,Hong Kong Attitude,1.0,34:57,OK,blue,RSG,   DEFEAT   ,57.6k,8,  6 ,  0 ,  0 ,  1 ,  2 ,Zoe,Thresh,Karma,Orianna,Renekton
+2020.0,summer,PCS,5,Resurgence,Hong Kong Attitude,1.0,34:57,OK,red,HKA,   VICTORY   ,63.2k,15,  8 ,  2 ,  1 ,  4 ,  0 ,Syndra,Sett,Graves,Mordekaiser,TwistedFate

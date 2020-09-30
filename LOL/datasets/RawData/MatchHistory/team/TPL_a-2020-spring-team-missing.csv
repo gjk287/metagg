@@ -1,0 +1,6 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,TPL_a,1,Dark Passage Academy,Istanbul Wildcats Academy,1.0,37:37,OK,blue,DP,   DEFEAT   ,59.2k,9,  3 ,  0 ,  0 ,  1 ,  1 ,Elise,Nautilus,JarvanIV,Sett,Mordekaiser
+2020.0,spring,TPL_a,1,Dark Passage Academy,Istanbul Wildcats Academy,1.0,37:37,OK,red,IW,   VICTORY   ,66.8k,14,  9 ,  1 ,  1 ,  4 ,  1 ,Karthus,Camille,Akali,Fiora,Zoe
+2020.0,spring,TPL_a,3,Dark Passage Academy,Fenerbahce Academy,1.0,35:33,OK,blue,FB,   VICTORY   ,65.3k,18,  9 ,  1 ,  1 ,  4 ,  0 ,Karthus,Camille,Pantheon,Leblanc,Cassiopeia
+2020.0,spring,TPL_a,3,Dark Passage Academy,Fenerbahce Academy,1.0,35:33,OK,red,DP,   DEFEAT   ,57.7k,7,  4 ,  0 ,  0 ,  1 ,  1 ,Sett,Ornn,JarvanIV,Yasuo,Syndra
+2020.0,spring,TPL_a,8,5 Ronin Academy,Besiktas Academy,1.0,,AttributeError,,,,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,LCK,4,GenG,Afreeca,1.0,45:34,OK,blue,GEN,   DEFEAT   ,78.7k,8,  7 ,  0 ,  2 ,  3 ,  0 ,Pantheon,Soraka,Aphelios,TahmKench,Quinn
+2020.0,spring,LCK,4,GenG,Afreeca,1.0,45:34,OK,red,AF,   VICTORY   ,80.5k,13,  7 ,  1 ,  1 ,  3 ,  1 ,Zoe,RekSai,Ornn,Ekko,Leblanc
+2020.0,spring,LCK,6,Griffin,DragonX,1.0,28:11,OK,blue,GRF,   DEFEAT   ,44.2k,8,  1 ,  0 ,  0 ,  2 ,  1 ,Zoe,Olaf,Kalista,Elise,Kindred
+2020.0,spring,LCK,6,Griffin,DragonX,1.0,28:11,OK,red,DRX,   VICTORY   ,55.2k,19,  9 ,  2 ,  1 ,  2 ,  1 ,Senna,Aphelios,Trundle,RekSai,Azir
+2020.0,spring,LCK,7,Sandbox,Hanwha,3.0,29:50,OK,blue,SB,   VICTORY   ,53.5k,11,  10 ,  2 ,  1 ,  4 ,  1 ,Yuumi,Rumble,Trundle,Leblanc,Corki
+2020.0,spring,LCK,7,Sandbox,Hanwha,3.0,29:50,OK,red,HLE,   DEFEAT   ,45.0k,4,  2 ,  0 ,  0 ,  0 ,  1 ,Kalista,Aphelios,Varus,Sylas,Aatrox
+2020.0,spring,LCK,9,Afreeca,T1,2.0,34:36,OK,blue,AF,   DEFEAT   ,58.8k,13,  4 ,  0 ,  0 ,  4 ,  2 ,Leblanc,Ornn,Aphelios,Akali,Zoe
+2020.0,spring,LCK,9,Afreeca,T1,2.0,34:36,OK,red,T1,   VICTORY   ,66.0k,16,  10 ,  1 ,  2 ,  1 ,  0 ,Elise,Kalista,Sett,Irelia,Lucian

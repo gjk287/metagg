@@ -1,0 +1,7 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,LCS,2,CLG,Dignitas,1.0,39:34,OK,blue,DIG,   DEFEAT   ,65.2k,8,  7 ,  1 ,  1 ,  3 ,  1 ,Trundle,Olaf,Syndra,Nidalee,Morgana
+2020.0,summer,LCS,2,CLG,Dignitas,1.0,39:34,OK,red,CLG,   VICTORY   ,67.7k,13,  7 ,  1 ,  1 ,  3 ,  1 ,Varus,Yuumi,Ornn,Taric,Thresh
+2020.0,summer,LCS,4,CLG,Cloud9,1.0,27:12,OK,blue,CLG,   DEFEAT   ,39.6k,3,  1 ,  0 ,  0 ,  0 ,  0 ,Olaf,Kalista,Yuumi,Galio,Jayce
+2020.0,summer,LCS,4,CLG,Cloud9,1.0,27:12,OK,red,C9,   VICTORY   ,54.7k,18,  9 ,  1 ,  1 ,  4 ,  2 ,TwistedFate,Varus,Volibear,Mordekaiser,Leblanc
+2020.0,summer,LCS,6,100 Thieves,TSM,1.0,41:39,OK,blue,TSM,   VICTORY   ,75.2k,8,  11 ,  3 ,  3 ,  2 ,  1 ,Karma,Ezreal,Kalista,Malphite,Thresh
+2020.0,summer,LCS,6,100 Thieves,TSM,1.0,41:39,OK,red,100,   DEFEAT   ,71.9k,12,  3 ,  0 ,  0 ,  4 ,  1 ,TwistedFate,Ornn,Volibear,Braum,Nautilus

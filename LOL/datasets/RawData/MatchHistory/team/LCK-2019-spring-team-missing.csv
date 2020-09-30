@@ -1,0 +1,7 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2019.0,spring,LCK,5,GenG,Griffin,2.0,27:39,OK,blue,GRF,   VICTORY   ,57.7k,17,  11 ,  3 ,  1 ,  2 ,  1 ,Gragas,Sivir,Kalista,Zac,Lissandra
+2019.0,spring,LCK,5,GenG,Griffin,2.0,27:39,OK,red,GEN,   DEFEAT   ,40.6k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Zoe,Galio,Lucian,Nocturne,Sylas
+2019.0,spring,LCK,8,Hanwha,T1,1.0,29:47,OK,blue,HLE,   VICTORY   ,57.1k,12,  9 ,  1 ,  1 ,  3 ,  1 ,Leblanc,Jayce,Galio,Ezreal,Lucian
+2019.0,spring,LCK,8,Hanwha,T1,1.0,29:47,OK,red,SKT,   DEFEAT   ,46.5k,6,  2 ,  0 ,  0 ,  1 ,  0 ,Kalista,Lissandra,Vladimir,Ashe,Yorick
+2019.0,spring,LCK,10,Jin Air,T1,2.0,39:09,OK,blue,SKT,   VICTORY   ,72.0k,20,  8 ,  1 ,  0 ,  5 ,  0 ,Sylas,Ryze,Lucian,Morgana,Braum
+2019.0,spring,LCK,10,Jin Air,T1,2.0,39:09,OK,red,JAG,   DEFEAT   ,66.4k,16,  1 ,  0 ,  1 ,  0 ,  1 ,LeeSin,Jayce,TahmKench,Thresh,Fiora

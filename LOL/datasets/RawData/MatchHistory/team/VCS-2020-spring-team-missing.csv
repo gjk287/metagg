@@ -1,0 +1,9 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,VCS,2,Team Flash,GAM Esports,3.0,40:48,OK,blue,FL,   VICTORY   ,74.4k,17,  10 ,  2 ,  3 ,  4 ,  0 ,Tristana,Elise,Syndra,Leona,Akali
+2020.0,spring,VCS,2,Team Flash,GAM Esports,3.0,40:48,OK,red,GAM,   DEFEAT   ,68.3k,12,  5 ,  0 ,  0 ,  2 ,  1 ,Blitzcrank,Aphelios,Xayah,Kalista,Rumble
+2020.0,spring,VCS,3,Team Secret,GAM Esports,2.0,28:02,OK,blue,GAM,   VICTORY   ,56.3k,19,  10 ,  2 ,  1 ,  3 ,  2 ,Olaf,Aphelios,Akali,Kalista,Pantheon
+2020.0,spring,VCS,3,Team Secret,GAM Esports,2.0,28:02,OK,red,TS,   DEFEAT   ,42.4k,5,  0 ,  0 ,  0 ,  1 ,  0 ,Ryze,JarvanIV,Tristana,Senna,Lucian
+2020.0,spring,VCS,8,GAM Esports,Team Secret,2.0,27:00,OK,blue,TS,   DEFEAT   ,38.7k,1,  1 ,  0 ,  0 ,  0 ,  0 ,Renekton,Pantheon,Senna,Ezreal,Aatrox
+2020.0,spring,VCS,8,GAM Esports,Team Secret,2.0,27:00,OK,red,GAM,   VICTORY   ,54.0k,17,  10 ,  2 ,  1 ,  4 ,  2 ,Sett,JarvanIV,Aphelios,Nautilus,Thresh
+2020.0,spring,VCS,9,Team Flash,Cerberus Esports,1.0,28:58,OK,blue,FL,   VICTORY   ,56.6k,15,  10 ,  2 ,  1 ,  4 ,  1 ,Renekton,Zoe,RekSai,Mordekaiser,Cassiopeia
+2020.0,spring,VCS,9,Team Flash,Cerberus Esports,1.0,28:58,OK,red,CES,   DEFEAT   ,46.3k,6,  3 ,  0 ,  0 ,  1 ,  1 ,Syndra,Sett,Volibear,Neeko,Orianna

@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,OPL,1,Avant Gaming,Dire Wolves,1.0,35:39,OK,blue,DW,   DEFEAT   ,52.7k,5,  3 ,  0 ,  0 ,  1 ,  1 ,Fiddlesticks,Thresh,Ekko,Graves,Kindred
+2020.0,summer,OPL,1,Avant Gaming,Dire Wolves,1.0,35:39,OK,red,AV,   VICTORY   ,62.9k,21,  9 ,  2 ,  1 ,  4 ,  1 ,Varus,Syndra,Sett,Leblanc,Azir
+2020.0,summer,OPL,2,ORDER,Chiefs Esports,1.0,27:37,OK,blue,CHF,   VICTORY   ,51.6k,21,  9 ,  2 ,  1 ,  3 ,  2 ,Zoe,Graves,Nidalee,Orianna,Azir
+2020.0,summer,OPL,2,ORDER,Chiefs Esports,1.0,27:37,OK,red,ORD,   DEFEAT   ,40.6k,8,  1 ,  0 ,  0 ,  1 ,  0 ,Varus,Yuumi,Soraka,Jayce,Kayle

@@ -1,0 +1,9 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,LCS,1,Immortals,FlyQuest,1.0,38:32,OK,blue,IMT,   DEFEAT   ,59.2k,8,  3 ,  0 ,  0 ,  2 ,  1 ,Rumble,Elise,Braum,Camille,TahmKench
+2020.0,spring,LCS,1,Immortals,FlyQuest,1.0,38:32,OK,red,FLY,   VICTORY   ,70.6k,21,  10 ,  2 ,  1 ,  4 ,  1 ,Akali,Ornn,Qiyana,Leblanc,Gragas
+2020.0,spring,LCS,7,100 Thieves,Dignitas,1.0,37:11,OK,blue,DIG,   DEFEAT   ,65.0k,15,  3 ,  0 ,  0 ,  2 ,  2 ,Yuumi,Sett,Xayah,Gangplank,RekSai
+2020.0,spring,LCS,7,100 Thieves,Dignitas,1.0,37:11,OK,red,100,   VICTORY   ,66.1k,12,  1 ,  0 ,  0 ,  1 ,  0 ,Rumble,Ornn,Senna,Orianna,Leblanc
+2020.0,spring,LCS,9,Cloud9,Evil Geniuses,1.0,30:55,OK,blue,C9,   VICTORY   ,64.4k,26,  11 ,  4 ,  2 ,  4 ,  2 ,Leblanc,Pantheon,TahmKench,Ekko,Ryze
+2020.0,spring,LCS,9,Cloud9,Evil Geniuses,1.0,30:55,OK,red,EG,   DEFEAT   ,48.6k,9,  2 ,  0 ,  0 ,  1 ,  0 ,Kalista,Senna,Syndra,Thresh,Braum
+2020.0,spring,LCS,9,100 Thieves,CLG,1.0,29:40,OK,blue,100,   VICTORY   ,56.5k,14,  9 ,  2 ,  1 ,  4 ,  1 ,Trundle,Ornn,Senna,Rumble,Taliyah
+2020.0,spring,LCS,9,100 Thieves,CLG,1.0,29:40,OK,red,CLG,   DEFEAT   ,52.6k,13,  6 ,  0 ,  0 ,  0 ,  1 ,Sett,Xayah,Olaf,JarvanIV,RekSai

@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,CBLOL,9,Flamengo,Redemption POA,1.0,29:24,OK,blue,RDP,   DEFEAT   ,47.2k,10,  2 ,  0 ,  0 ,  0 ,  2 ,Kalista,Azir,Yuumi,Kindred,Karthus
+2020.0,spring,CBLOL,9,Flamengo,Redemption POA,1.0,29:24,OK,red,FLA,   VICTORY   ,58.4k,20,  11 ,  3 ,  1 ,  4 ,  0 ,Yasuo,Senna,Renekton,Leblanc,Zoe
+2020.0,spring,CBLOL,9,Flamengo,INTZ,1.0,30:35,OK,blue,ITZ,   DEFEAT   ,60.4k,27,  3 ,  0 ,  1 ,  0 ,  0 ,Renekton,Varus,Kalista,Jayce,Bard
+2020.0,spring,CBLOL,9,Flamengo,INTZ,1.0,30:35,OK,red,FLA,   VICTORY   ,60.4k,27,  8 ,  1 ,  0 ,  4 ,  2 ,Braum,Yuumi,Ekko,Cassiopeia,Syndra

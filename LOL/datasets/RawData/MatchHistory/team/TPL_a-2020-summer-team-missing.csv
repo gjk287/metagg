@@ -1,0 +1,3 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,TPL_a,8,SuperMassive Academy,Galatasaray Academy,1.0,32:31,OK,blue,GS,   VICTORY   ,67.5k,25,  11 ,  3 ,  2 ,  5 ,  2 ,MonkeyKing,Karma,Karthus,Renekton,Leblanc
+2020.0,summer,TPL_a,8,SuperMassive Academy,Galatasaray Academy,1.0,32:31,OK,red,SUP,   DEFEAT   ,52.3k,11,  0 ,  0 ,  0 ,  0 ,  0 ,Volibear,Senna,Talon,Zoe,Zed

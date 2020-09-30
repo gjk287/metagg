@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,spring,DL,4,Echo Zulu,PSV,1.0,21:02,OK,blue,EZ,   DEFEAT   ,28.6k,6,  0 ,  0 ,  0 ,  1 ,  1 ,MissFortune,Leblanc,Ziggs,Aatrox,Gangplank
+2020.0,spring,DL,4,Echo Zulu,PSV,1.0,21:02,OK,red,PSV,   VICTORY   ,43.2k,24,  9 ,  2 ,  0 ,  2 ,  1 ,Ornn,Sett,Senna,Sejuani,Yasuo
+2020.0,spring,DL,8,Dynasty,Defusekids,1.0,35:53,OK,blue,DK,   VICTORY   ,68.1k,20,  9 ,  1 ,  2 ,  3 ,  0 ,Bard,JarvanIV,Sett,Kled,Diana
+2020.0,spring,DL,8,Dynasty,Defusekids,1.0,35:53,OK,red,DYN,   DEFEAT   ,58.8k,15,  4 ,  1 ,  0 ,  2 ,  1 ,Lucian,Senna,Elise,Gangplank,Fiora

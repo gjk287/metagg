@@ -1,0 +1,5 @@
+year,season,league_name,week,team_1,team_2,set_number,game_length,state,side,team,result,total_golds,total_kills,tower_kills,inhibitor_kills,baron_kills,dragon_kills,rift_kills,ban1,ban2,ban3,ban4,ban5
+2020.0,summer,LLA,7,Rainbow7,Isurus,1.0,32:39,OK,blue,ISG,   VICTORY   ,59.7k,10,  9 ,  1 ,  1 ,  4 ,  2 ,Karma,Sett,Azir,Gragas,Yuumi
+2020.0,summer,LLA,7,Rainbow7,Isurus,1.0,32:39,OK,red,R7,   DEFEAT   ,48.2k,2,  0 ,  0 ,  0 ,  1 ,  0 ,Volibear,Kalista,Sona,Senna,Ashe
+2020.0,summer,LLA,8,Infinity Esports,Isurus,1.0,42:12,OK,blue,INF,   DEFEAT   ,64.1k,4,  3 ,  0 ,  0 ,  1 ,  1 ,TwistedFate,Galio,Sett,Leblanc,Syndra
+2020.0,summer,LLA,8,Infinity Esports,Isurus,1.0,42:12,OK,red,ISG,   VICTORY   ,70.5k,9,  7 ,  1 ,  1 ,  5 ,  1 ,Senna,Kalista,Karma,Thresh,Lulu
