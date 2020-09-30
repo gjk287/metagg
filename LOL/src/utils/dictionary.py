@@ -964,6 +964,20 @@ class GamepediaDict(GameDictionary):
 		
 		elif (league == 'LCS'):
 			self.teamName_dict['CG'] = 'Clutch Gaming'
+			self.teamName_dict['100'] = '100 Thieves'
+			self.teamName_dict['C9'] = 'Cloud9'
+			self.teamName_dict['CG'] = 'Clutch Gaming'
+			self.teamName_dict['CLG'] = 'CLG'
+			self.teamName_dict['FLY'] = 'FlyQuest'
+			self.teamName_dict['FOX'] = 'Echo Fox'
+			self.teamName_dict['GGS'] = 'Golden Guardians'
+			self.teamName_dict['OPT'] = 'OpTic Gaming'
+			self.teamName_dict['TL'] = 'TL'
+			self.teamName_dict['TSM'] = 'TSM'
+			self.teamName_dict['DIG'] = 'Dignitas'
+			self.teamName_dict['EG'] = 'Evil Geniuses'
+			self.teamName_dict['GG'] = 'Golden Guardians'
+			self.teamName_dict['IMT'] = 'Immortals'
 		
 		elif (league == 'LCS_a'):
 			self.teamName_dict['TS'] = 'Tempo Storm'

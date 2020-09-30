@@ -5,8 +5,11 @@ import time
 import pandas as pd
 import sys
 import io
-sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
-sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding='utf-8')
+try:
+	sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
+	sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding='utf-8')
+except:
+	pass
 
 class Crawler(object):
 	def __init__(self, url, wait_on_page_load=10):

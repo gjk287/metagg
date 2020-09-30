@@ -28,7 +28,25 @@ mh_column_dict = {
 	26: 'minion_kills',
 	27: 'neutral_minions_kills',
 	28: "neutral_minions_kills_team_jungle",
-	29: 'neutral_minions_kills_enemy_jungle'
+	29: 'neutral_minions_kills_enemy_jungle'	
+}
+
+mh_china_column_dict = {
+	"datakillingSprees":"largest_killing_spree", 
+	"datalargestMultiKill":"largest_multi_kill",
+	"datatotalDamageToChamp":"total_damage_dealt_to_champions", 
+	"datapDamageToChamp":"physical_damage_dealt_to_champions",
+	"datamDamageDealtToChamp":"magic_damage_dealt_to_champions", 
+	"datatotalDamage":"total_damage_dealt",
+	"datapDamageDealt":"physical_damage_dealt", 
+	"datamDamageDealt":"magic_damage_dealt",
+	"datalargestCriticalStrike":"largest_critical_strike", 
+	"datatotlaHeal":"total_heal",
+	"datatotalDamageTaken":"total_damage_taken", 
+	"datapDamageTaken":"physical_damage_taken",
+	"datamDamageTaken":"magical_damage_taken", 
+	"datadeadTime":"datadeadTime", 
+	"datalevel":"datalevel"
 }
 
 
