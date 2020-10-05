@@ -1,0 +1,43 @@
+date,league_name,year,season,team_1,team_2,betting_site,special:game_win:home,special:game_win:away,saved_time,special:Team to Score a Penta Kill:home,special:Team to Score a Penta Kill:away,special:Team to Score a Quadra Kill:home,special:Team to Score a Quadra Kill:away
+2020-10-03,World Championship,2020.0,summer,FlyQuest,TES,unikrn,5.00,1.16,2020-10-03 11:00:00,51.0,34.0,15.0,7.0
+2020-10-03,World Championship,2020.0,summer,DragonX,Unicorns Of Love,unikrn,1.28,3.50,2020-10-03 11:00:00,34.0,34.0,12.0,7.0
+2020-10-03,World Championship,2020.0,summer,Rogue,Talon Esports,unikrn,1.50,2.50,2020-10-03 11:00:00,34.0,34.0,8.0,10.0
+2020-10-03,World Championship,2020.0,summer,Damwon,JDG,unikrn,1.61,2.20,2020-10-03 11:00:00,34.0,34.0,9.0,10.0
+2020-10-03,World Championship,2020.0,summer,GenG,LGD,unikrn,1.40,2.75,2020-10-03 11:00:00,34.0,34.0,8.0,12.0
+2020-10-03,World Championship,2020.0,summer,TSM,Fnatic,unikrn,2.25,1.57,2020-10-03 11:00:00,34.0,34.0,10.0,8.0
+2020-10-04,World Championship,2020.0,summer,Machi Esports,TL,unikrn,2.25,1.57,2020-10-03 11:00:00,34.0,34.0,10.0,8.0
+2020-10-04,World Championship,2020.0,summer,G2,Suning,unikrn,1.61,2.20,2020-10-03 11:00:00,34.0,34.0,9.0,10.0
+2020-10-04,World Championship,2020.0,summer,Damwon,Rogue,unikrn,1.22,4.00,2020-10-03 11:00:00,51.0,34.0,12.0,7.0
+2020-10-04,World Championship,2020.0,summer,Talon Esports,JDG,unikrn,4.00,1.22,2020-10-03 11:00:00,51.0,34.0,12.0,7.0
+2020-10-04,World Championship,2020.0,summer,TSM,GenG,unikrn,3.00,1.36,2020-10-03 11:00:00,34.0,34.0,8.0,12.0
+2020-10-04,World Championship,2020.0,summer,LGD,Fnatic,unikrn,2.20,1.61,2020-10-03 11:00:00,34.0,34.0,10.0,9.0
+2020-10-05,World Championship,2020.0,summer,Machi Esports,G2,unikrn,4.50,1.20,2020-10-03 11:00:00,51.0,34.0,15.0,7.0
+2020-10-05,World Championship,2020.0,summer,TL,Suning,unikrn,2.50,1.50,2020-10-03 11:00:00,34.0,34.0,10.0,8.0
+2020-10-05,World Championship,2020.0,summer,Damwon,Talon Esports,unikrn,1.11,6.50,2020-10-03 11:00:00,34.0,51.0,7.0,15.0
+2020-10-05,World Championship,2020.0,summer,JDG,Rogue,unikrn,1.40,2.75,2020-10-03 11:00:00,34.0,34.0,8.0,12.0
+2020-10-05,World Championship,2020.0,summer,FlyQuest,Unicorns Of Love,unikrn,1.83,1.83,2020-10-03 11:00:00,34.0,34.0,9.0,9.0
+2020-10-05,World Championship,2020.0,summer,TES,DragonX,unikrn,1.44,2.62,2020-10-03 11:00:00,34.0,34.0,8.0,12.0
+2020-10-06,World Championship,2020.0,summer,G2,TL,unikrn,1.40,2.75,2020-10-03 11:00:00,34.0,34.0,8.0,12.0
+2020-10-06,World Championship,2020.0,summer,Suning,Machi Esports,unikrn,1.28,3.50,2020-10-03 11:00:00,34.0,51.0,7.0,12.0
+2020-10-06,World Championship,2020.0,summer,DragonX,FlyQuest,unikrn,1.33,3.25,2020-10-03 11:00:00,34.0,34.0,8.0,12.0
+2020-10-06,World Championship,2020.0,summer,TES,Unicorns Of Love,unikrn,1.11,6.50,2020-10-03 11:00:00,34.0,51.0,7.0,15.0
+2020-10-06,World Championship,2020.0,summer,Fnatic,GenG,unikrn,2.25,1.57,2020-10-03 11:00:00,34.0,34.0,10.0,8.0
+2020-10-06,World Championship,2020.0,summer,TSM,LGD,unikrn,2.00,1.72,2020-10-03 11:00:00,34.0,34.0,9.0,9.0
+2020-10-08,World Championship,2020.0,summer,TL,G2,unikrn,2.75,1.40,2020-10-03 11:00:00,34.0,34.0,12.0,8.0
+2020-10-08,World Championship,2020.0,summer,Machi Esports,Suning,unikrn,3.50,1.28,2020-10-03 11:00:00,34.0,34.0,12.0,7.0
+2020-10-08,World Championship,2020.0,summer,Machi Esports,G2,unikrn,5.00,1.16,2020-10-03 11:00:00,34.0,51.0,7.0,15.0
+2020-10-08,World Championship,2020.0,summer,Suning,TL,unikrn,1.44,2.62,2020-10-03 11:00:00,34.0,34.0,8.0,10.0
+2020-10-08,World Championship,2020.0,summer,TL,Machi Esports,unikrn,1.53,2.37,2020-10-03 11:00:00,34.0,34.0,8.0,10.0
+2020-10-08,World Championship,2020.0,summer,G2,Suning,unikrn,1.66,2.10,2020-10-03 11:00:00,34.0,34.0,10.0,9.0
+2020-10-09,World Championship,2020.0,summer,Talon Esports,Damwon,unikrn,6.00,1.12,2020-10-03 11:00:00,51.0,34.0,15.0,7.0
+2020-10-09,World Championship,2020.0,summer,Rogue,JDG,unikrn,3.75,1.25,2020-10-03 11:00:00,51.0,34.0,12.0,7.0
+2020-10-09,World Championship,2020.0,summer,Rogue,Damwon,unikrn,4.50,1.20,2020-10-03 11:00:00,34.0,51.0,7.0,15.0
+2020-10-09,World Championship,2020.0,summer,JDG,Talon Esports,unikrn,1.20,4.50,2020-10-03 11:00:00,34.0,51.0,7.0,15.0
+2020-10-09,World Championship,2020.0,summer,Talon Esports,Rogue,unikrn,2.37,1.53,2020-10-03 11:00:00,34.0,34.0,10.0,8.0
+2020-10-09,World Championship,2020.0,summer,JDG,Damwon,unikrn,2.00,1.72,2020-10-03 11:00:00,34.0,34.0,9.0,9.0
+2020-10-10,World Championship,2020.0,summer,Fnatic,TSM,unikrn,1.57,2.25,2020-10-03 11:00:00,34.0,34.0,8.0,10.0
+2020-10-10,World Championship,2020.0,summer,TSM,GenG,unikrn,2.75,1.40,2020-10-03 11:00:00,34.0,34.0,12.0,8.0
+2020-10-10,World Championship,2020.0,summer,GenG,Fnatic,unikrn,1.53,2.37,2020-10-03 11:00:00,34.0,34.0,8.0,10.0
+2020-10-11,World Championship,2020.0,summer,FlyQuest,DragonX,unikrn,3.25,1.33,2020-10-03 11:00:00,34.0,34.0,12.0,8.0
+2020-10-11,World Championship,2020.0,summer,TES,FlyQuest,unikrn,1.12,6.00,2020-10-03 11:00:00,34.0,51.0,7.0,15.0
+2020-10-11,World Championship,2020.0,summer,DragonX,TES,unikrn,2.62,1.44,2020-10-03 11:00:00,34.0,34.0,10.0,8.0
